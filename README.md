@@ -14,8 +14,6 @@
 
 2. [Install make](https://formulae.brew.sh/formula/make#default)
 
-3. [Run the sample](#how-to-run)
-
 ## Linux
 
 1. Install GCC
@@ -24,8 +22,6 @@ sudo apt update
 sudo apt install build-essential
 gcc --version
 ```
-
-2. [Run the sample](#how-to-run)
 
 # How to run
 ```zsh
