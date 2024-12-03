@@ -19,16 +19,6 @@
 
 # Developer Setup
 
-First, crate your repository:
-1. [Create a repository from the template](https://github.com/new?template_name=edaii-2025&template_owner=miquelvir) with:
-    - Repository Name: `edaii-2025-pxoy` (where `pxoy` is your labs group, e.g. `p102`)
-    - Type: `Private` 
-2. Share the repository with all the teachers:
-    - [@miquelvir](https://github.com/miquelvir)
-3. Share the repository with the rest of your team
-3. Clone the repository locally
-4. Install the C compiler if you don't have it (instructions below depending on the OS)
-
 ## Linux
 
 1. Install GCC
