@@ -29,18 +29,14 @@ gcc --version
 # How to run
 
 ```zsh
-make run
+make r
 ```
-
-You can also use `make r`.
 
 # How to run unit tests
 
 ```zsh
-make runtest
+make t
 ```
-
-You can also use `make rt`, `make t` and `make test`.
 
 # How to run unit tests in GitHub
 
@@ -53,10 +49,10 @@ https://github.com/{username}/{repo}/actions
 # How to debug
 
 ```zsh
-make debug
+make d
 ```
 
-You can also use `make d`. Also, you can use `make debugtest` or `make dt` to debug the unit tests.
+You can also use `make dt` to debug the unit tests.
 
 Then, you can:
 - Start the program

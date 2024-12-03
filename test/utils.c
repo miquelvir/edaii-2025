@@ -39,3 +39,7 @@ void successtest(const char* description){
 void runningtest(const char* description){
     fprintf(stderr,"\033[0;36m  - Running: %s\033[0m\n", description);
 }
+
+void allsuccess(){
+    fprintf(stderr,"\033[0;32m--- ALL TESTS PASSED --- \n\033[0m");
+}
