@@ -25,17 +25,17 @@ void assertNull(void* found){
 }
 
 void success(){
-    printf("\033[0;32mPASSED\n\033[0m");
+    fprintf(stderr,"\033[0;32mPASSED\n\033[0m");
 }
 
 void running(const char* description){
-    printf("\033[0;36mRunning: %s\033[0m\n", description);
+    fprintf(stderr,"\033[0;36mRunning: %s\033[0m\n", description);
 }
 
 void successtest(const char* description){
-    printf("\033[0;32m    PASSED\033[0m\n");
+    fprintf(stderr,"\033[0;32m    PASSED\033[0m\n");
 }
 
 void runningtest(const char* description){
-    printf("\033[0;36m  - Running: %s\033[0m\n", description);
+    fprintf(stderr,"\033[0;36m  - Running: %s\033[0m\n", description);
 }
