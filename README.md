@@ -6,7 +6,7 @@
 
 # Repository Contents
 
-- [.github](./.github/): scripts to run tests when pushing to GitHub
+- [.github/workflows/unit-tests.yml](./.github/workflows/unit-tests.yml): script to run tests when pushing to GitHub (CI)
 - [datasets/animals](./datasets/animals/): a dataset of documents your search engine needs to search through
 - [src](./src/): folder with all `.c` and `.h` files to run your program
     - [main.c](./src/main.c): entrypoint to your program
