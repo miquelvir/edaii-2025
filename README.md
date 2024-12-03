@@ -1,3 +1,22 @@
+# Group Details
+
+Authors:
+- (todo, add the email of the first group member)
+- (todo, add the email of the second group member)
+- (todo, add the email of the third group member)
+
+# Repository Contents
+
+- `.github`: scripts to run tests when pushing to GitHub
+- `datasets/animals`: a dataset of documents your search engine needs to search through
+- `src`: folder with all `.c` and `.h` files to run your program
+    - `main.c`: entrypoint to your program
+    - `sample_lib.c`: an example of how to write `.c` files
+    - `sample_lib.h`: an example of how to write `.h` files
+- `test`: folder with all `.c` and `.h` files to unit test your program
+    - `test.c`: test runner entrypoint
+    - `sample_lib_test.c`: an example of how to write unit tests
+    
 # Developer Setup
 
 ## Linux
