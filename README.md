@@ -6,15 +6,16 @@
 
 # Repository Contents
 
-- `.github`: scripts to run tests when pushing to GitHub
-- `datasets/animals`: a dataset of documents your search engine needs to search through
-- `src`: folder with all `.c` and `.h` files to run your program
-    - `main.c`: entrypoint to your program
-    - `sample_lib.c`: an example of how to write `.c` files
-    - `sample_lib.h`: an example of how to write `.h` files
-- `test`: folder with all `.c` and `.h` files to unit test your program
-    - `test.c`: test runner entrypoint
-    - `sample_lib_test.c`: an example of how to write unit tests
+- [.github](./.github/): scripts to run tests when pushing to GitHub
+- [datasets/animals](./datasets/animals/): a dataset of documents your search engine needs to search through
+- [src](./src/): folder with all `.c` and `.h` files to run your program
+    - [main.c](./src/main.c): entrypoint to your program
+    - [sample_lib.c](./src/sample_lib.c): an example of how to write `.c` files
+    - [sample_lib.h](./src/sample_lib.h): an example of how to write `.h` files
+- [test](./test/): folder with all `.c` and `.h` files to unit test your program
+    - [test.c](./test/test.c): test runner entrypoint
+    - [sample_lib_test.c](./test/sample_lib_test.c): an example of how to write unit tests
+- [Makefile](./Makefile): file defining what `make` commands are used to run the code from the CLI
 
 # Developer Setup
 
