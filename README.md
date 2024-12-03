@@ -25,7 +25,7 @@
 ```zsh
 sudo apt update
 sudo apt install build-essential
-sudo apt-get install gdb
+sudo apt install gdb
 gcc --version
 ```
 
