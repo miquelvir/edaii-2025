@@ -1,10 +1,5 @@
 SRC_FILES := $(filter-out src/main.c, $(wildcard src/*.c))
 
-install:
-	sudo apt-get install gdb
-
-i: install
-
 run: 
 	gcc src/main.c $(SRC_FILES) -o main.out
 	./main.out
