@@ -19,6 +19,16 @@
 
 # Developer Setup
 
+First, crate your repository:
+1. [Create a repository from the template](https://github.com/new?template_name=edaii-2025&template_owner=miquelvir) with:
+    - Repository Name: `edaii-2025-pxoy` (where `pxoy` is your labs group, e.g. `p102`)
+    - Type: `Private` 
+2. Share the repository with all the teachers:
+    - [@miquelvir](https://github.com/miquelvir)
+3. Share the repository with the rest of your team
+3. Clone the repository locally
+4. Install the C compiler if you don't have it (instructions below depending on the OS)
+
 ## Linux
 
 1. Install GCC
@@ -29,7 +39,7 @@ sudo apt install gdb
 gcc --version
 ```
 
-## Mac
+## MacOS
 
 1. [Install homebrew](https://brew.sh/)
 
@@ -44,6 +54,9 @@ gcc --version
 1. [Install WSL with Ubuntu](https://documentation.ubuntu.com/wsl/en/latest/guides/install-ubuntu-wsl2/) (Linux subsystem inside Windows)
 
 2. Follow the instructions for [Linux](#linux) in a WSL terminal
+
+> [!NOTE]  
+> You could compile and run C code directly on Windows. However, the repository template only works on WSL. Thus, you might need to adapt it for it to work. We recommend using WSL instead to avoid problems.
 
 # How to run
 
