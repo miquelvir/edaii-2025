@@ -96,5 +96,5 @@ print x
 
 # How to remove temporary files
 ```zsh
-make clean
+make c
 ```
