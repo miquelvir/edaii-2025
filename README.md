@@ -2,19 +2,9 @@
 
 ## Windows
 
-1. [Install WSL](https://documentation.ubuntu.com/wsl/en/latest/guides/install-ubuntu-wsl2/) (Linux subsystem inside Windows)
+1. [Install WSL with Ubuntu](https://documentation.ubuntu.com/wsl/en/latest/guides/install-ubuntu-wsl2/) (Linux subsystem inside Windows)
 
-2. Install GCC
-```zsh
-sudo apt update
-sudo apt install build-essential
-gcc --version
-```
-
-3. Make sure you can compile and run C code:
-```zsh
-make run
-```
+2. Follow the instructions for [Linux](#linux) in a WSL terminal
 
 ## Mac
 
@@ -24,10 +14,7 @@ make run
 
 2. [Install make](https://formulae.brew.sh/formula/make#default)
 
-3. Make sure you can compile and run C code:
-```zsh
-make run
-```
+3. [Run the sample](#how-to-run)
 
 ## Linux
 
@@ -38,10 +25,7 @@ sudo apt install build-essential
 gcc --version
 ```
 
-2. Make sure you can compile and run C code:
-```zsh
-make run
-```
+2. [Run the sample](#how-to-run)
 
 # How to run
 ```zsh
