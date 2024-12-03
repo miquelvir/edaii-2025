@@ -72,11 +72,7 @@ make t
 
 # How to run unit tests in GitHub
 
-When you push to GitHub, your unit tests will automatically run. Check out the results and logs in:
-
-```
-https://github.com/{username}/{repo}/actions
-```
+When you push to GitHub, your unit tests will automatically run. Check out the results and logs in the Actions tab of your repository (in GitHub).
 
 # How to debug
 
