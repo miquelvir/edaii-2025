@@ -8,7 +8,8 @@ make run
 make runtest
 ```
 
-# CI
+# How to run unit tests in GitHub
+
 When you push to GitHub, your unit tests will automatically run. Check out the results and logs in:
 
 ```
@@ -40,4 +41,10 @@ down
 ## Print a variable
 ```zsh
 print x
+```
+
+
+# How to remove temporary files
+```zsh
+make clean
 ```
