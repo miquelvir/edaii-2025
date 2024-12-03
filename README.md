@@ -1,6 +1,5 @@
-# Group Details
+# Authors
 
-Authors:
 - (todo, add the email of the first group member)
 - (todo, add the email of the second group member)
 - (todo, add the email of the third group member)
@@ -16,7 +15,7 @@ Authors:
 - `test`: folder with all `.c` and `.h` files to unit test your program
     - `test.c`: test runner entrypoint
     - `sample_lib_test.c`: an example of how to write unit tests
-    
+
 # Developer Setup
 
 ## Linux
