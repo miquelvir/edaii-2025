@@ -20,7 +20,7 @@ int main(){
 
     if (dp == NULL) {
         perror("opendir");
-        return;
+        return 1;
     }
 
     while ((entry = readdir(dp)) != NULL) {
@@ -35,4 +35,6 @@ int main(){
     }
 
     closedir(dp);
+
+    return 0;
 }
