@@ -67,9 +67,15 @@ make r
 make t
 ```
 
+# How to format the code
+
+```zsh
+make f
+```
+
 # How to run unit tests in GitHub
 
-When you push to GitHub, your unit tests will automatically run. Check out the results and logs in the Actions tab of your repository (in GitHub).
+When you push to GitHub, your [unit tests will automatically run](.github/workflows/unit-tests.yml). Check out the results and logs in the Actions tab of your repository (in GitHub).
 
 # How to debug
 

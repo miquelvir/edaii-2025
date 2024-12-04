@@ -20,3 +20,9 @@ dt:
 c:
 	rm main.out || true 
 	rm test.out || true
+
+f:
+	clang-format -i **/*.c
+
+cf:
+	./check-format.sh

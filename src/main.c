@@ -1,40 +1,39 @@
-#include <stdio.h>
 #include "sample_lib.h"
+#include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <dirent.h>
 #include <sys/stat.h>
 
-int main(){
-    printf("*****************\nWelcome to EDA 2!\n*****************\n");
-    
-    // how to import and call a function
-    printf("Factorial of 4 is %d\n", fact(4));
+int main() {
+  printf("*****************\nWelcome to EDA 2!\n*****************\n");
 
-    // how to find all files in a folder
-    char* path = "./datasets/animals";
-    printf("The files in %s are:\n", path);
-    struct dirent *entry;
-    struct stat statbuf;
-    DIR *dp = opendir(path);
+  // how to import and call a function
+  printf("Factorial of 4 is %d\n", fact(4));
 
-    if (dp == NULL) {
-        perror("opendir");
-        return 1;
+  // how to find all files in a folder
+  char *path = "./datasets/animals";
+  printf("The files in %s are:\n", path);
+  struct dirent *entry;
+  struct stat statbuf;
+  DIR *dp = opendir(path);
+
+  if (dp == NULL) {
+    perror("opendir");
+    return 1;
+  }
+
+  while ((entry = readdir(dp)) != NULL) {
+    char relativePath[1024];
+    snprintf(relativePath, sizeof(relativePath), "%s/%s", path, entry->d_name);
+
+    if (stat(relativePath, &statbuf) == -1 || !S_ISREG(statbuf.st_mode)) {
+      continue;
     }
 
-    while ((entry = readdir(dp)) != NULL) {
-        char relativePath[1024];
-        snprintf(relativePath, sizeof(relativePath), "%s/%s", path, entry->d_name);
+    printf("  %s in %s\n", entry->d_name, relativePath);
+  }
 
-        if (stat(relativePath, &statbuf) == -1 || !S_ISREG(statbuf.st_mode)) {
-            continue;
-        }
+  closedir(dp);
 
-        printf("  %s in %s\n", entry->d_name, relativePath);
-    }
-
-    closedir(dp);
-
-    return 0;
+  return 0;
 }

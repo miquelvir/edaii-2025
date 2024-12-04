@@ -1,5 +1,5 @@
 name: Build validation
-run-name: Running unit tests
+run-name: Running unit tests and checking formatting
 on: [push]
 jobs:
   Unit:
@@ -7,4 +7,5 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
+      - run: make cf
       - run: make t
