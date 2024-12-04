@@ -3,7 +3,7 @@ import queue
 import os
 
 """ 
-This script was use to construct the larger datasets
+This script was used to construct the 270, 540 and 5400 datasets
 """
 
 OUTPUT_DIRECTORY = "wikipedia_temp"
