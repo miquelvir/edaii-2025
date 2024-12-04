@@ -1,20 +1,36 @@
 SRC_FILES := $(filter-out src/main.c, $(wildcard src/*.c))
 
-r: 
+compile:
 	gcc src/main.c $(SRC_FILES) -o main.out
+	
+r:
+	make compile
 	./main.out
 
-d:
+v: 
+	make compile
+	valgrind --leak-check=yes ./main.out
+
+compiledebug:
 	gcc src/main.c $(SRC_FILES) -g -o main.out
+
+d:
+	make compiledebug
 	gdb ./main.out
 
 
-t:
+compiletest:
 	gcc test/test.c test/utils.c $(SRC_FILES) -o test.out
+
+t:
+	make compiletest
 	./test.out
 
-dt:
+compiletestdebug:
 	gcc test/test.c test/utils.c -g -o test.out
+
+dt:
+	make compiletestdebug
 	gdb ./test.out
 
 c:

@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 
+void createaleak() { char *foo = malloc(20 * sizeof(char)); }
+
 int main() {
   printf("*****************\nWelcome to EDA 2!\n*****************\n");
 
@@ -34,6 +36,9 @@ int main() {
   }
 
   closedir(dp);
+
+  // uncomment and run "make v" to see how valgrind detects memory leaks
+  // createaleak();
 
   return 0;
 }

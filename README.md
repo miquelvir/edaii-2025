@@ -33,6 +33,7 @@ Group number: (todo, add the group number here)
 sudo apt update
 sudo apt install build-essential
 sudo apt install gdb
+sudo apt install valgrind
 gcc --version
 ```
 
@@ -45,6 +46,8 @@ gcc --version
 2. [Install GDB](https://formulae.brew.sh/formula/gdb#default)
 
 3. [Install make](https://formulae.brew.sh/formula/make#default)
+
+4. [Install valgrind](https://formulae.brew.sh/formula/valgrind#default)
 
 ## Windows
 
@@ -71,6 +74,12 @@ make t
 
 ```zsh
 make f
+```
+
+# How to use Valgrind to check for memory leaks
+
+```zsh
+make v
 ```
 
 # How to run unit tests in GitHub
