@@ -1,6 +1,8 @@
+![CI](https://github.com/miquelvir/edaii-2025/actions/workflows/unit-tests.yml/badge.svg)
+
 # Authors
 
-(todo, add the group number here)
+Group number: (todo, add the group number here)
 
 - (todo, add the email of the first group member)
 - (todo, add the email of the second group member)
