@@ -1,0 +1,42 @@
+5025
+An Shigao
+An Shigao (Chinese: 安世高; pinyin: Ān Shìgāo; Wade–Giles: An Shih-kao, Korean: An Sego, Japanese: An Seikō, Vietnamese: An Thế Cao) (fl. c. 148-180 CE) was an early Buddhist missionary to [China](2217), and the earliest known translator of Indian Buddhist texts into Chinese. According to legend, he was a prince of Parthia, nicknamed the "Parthian Marquess", who renounced his claim to the royal throne of Parthia in order to serve as a Buddhist missionary monk in [China](2217).
+
+Origins
+The prefix An in An Shigao's name has raised many questions and hypotheses as to his origin and story. Some believe that it is an abbreviation of Anxi, the Chinese name given to the regions ruled by the Parthian Empire. Most visitors from that country who took a Chinese name received the An prefix to indicate their origin in Anxi.Nothing more is known about his life; the stories about his peregrinations in Southern [China](2217) recorded in his biographies in CSZJJ (Chu sanzang jiji) and GSZ (Gaoseng Zhuan) must be relegated to the realm of hagiography. An Shigao has never been successfully identified with any Parthian prince figuring in occidental sourcesIt is still unknown whether he was a monk or layperson or whether he should be considered a follower of the Sarvāstivāda or Mahāyāna, though affiliation with these two groups need not be viewed as mutually exclusive. The unresolved mystery of who An Shigao was is studied in the academic work of Antonino Forte.
+An Shigao migrated eastward into [China](2217), settling at the Han capital of Luoyang in 148 CE, where he produced a substantial number of translations of Indian Buddhist texts and attracted a devoted community of followers.  More than a dozen works by An Shigao are currently extant, including texts dealing with meditation, abhidharma, and basic Buddhist doctrines. An Shigao's corpus does not contain any Mahāyāna scriptures, though he himself is regularly referred to as a "bodhisattva" in early Chinese sources. Scholarly studies of his translations have shown that they are most closely affiliated with the Sarvāstivāda school.
+
+Works
+In Erik Zürcher's pioneering studies of the works attributed to An Shigao, he uses both the information provided by later Chinese catalogues and internal stylistic evidence to conclude that only sixteen of the nearly two hundred translations attributed to him by later Chinese catalogues may be regarded as authentic. Stefano Zacchetti has proposed, in light of recent research, that thirteen of the sixteen texts originally listed by Zürcher can be reliably ascribed to An Shigao. These thirteen are (listed by Taishō number):
+T 13 Chang Ahan shi bao fa jing 長阿含十報法經
+T 14 Ren ben yu sheng jing 人本欲生經
+T 31 Yiqie liu sheshou yin jing 一切流攝守因經
+T 32 Si di jing 四諦經
+T 36 Ben xiang yi zhi jing 本相猗致經
+T 48 Shi fa fei fa jing 是法非法經
+T 57 Lou fenbu jing 漏分佈經
+T 98 Pu fa yi jing 普法義經
+T 112 Ba zheng dao jing 八正道經
+T 150a Qi chu san guan jing 七處三觀經
+T 603 Yin chi ru jing 陰持入經
+T 607 Dao di jing 道地經
+T 1508 Ahan koujie shi'er yinyuan jing 阿含口解十二因緣經
+The remaining three translations enumerated by Zürcher that (according to Zacchetti) should be reconsidered are:
+T 602 Da anban shouyi jing 大安般守意經
+T 605 Chan xing fa xiang jing 禪行法想經
+T 792 Fa shou chen jing 法受塵經
+Recent scholarship has proposed a number of additional texts that may be attributed to An Shigao. Paul Harrison has provided evidence that An Shigao translated the previously anonymous collection of saṃyuktāgama sutras, Za ahan jing 雜阿含經 (Taishō 101). Stefano Zacchetti has suggested that, though initially considered inauthentic according to Zürcher's conservative criteria, Taishō 1557, Apitan wu fa xing jing 阿毘曇五法行經, may indeed be the work of An Shigao.
+Two manuscripts discovered by Kajiura Susumu in 1999 in the collection of the Kongōji in Osaka Prefecture, Japan, present four heretofore unknown works which, based on their apparent antiquity, may be attributable to An Shigao. The first three of these texts are related to meditation practices such as ānāpānasmṛti ("mindfulness of breathing") and the "twelve gates". The fourth appears to be a record of an oral commentary on topics covered in the preceding texts.
+Another Anxi translator, a layman named An Xuan, was a disciple of An Shigao. An Xuan also worked in Luoyang (together with a Chinese collaborator, Yan Fotiao), producing a translation of a Mahāyāna scripture, the Ugraparipṛcchā Sūtra (in Chinese, the Fajing jing, Taishō no. 322) c. 181 CE.
+
+See also
+Lokaksema
+Parthian [Buddhism](5001)
+
+References
+Further reading
+E. Zürcher, The Buddhist Conquest of [China](2217). Leiden, 1959.
+J. Nattier, A Guide to the Earliest Chinese Buddhist Translations: Texts from the Eastern Han and Three Kingdoms Periods Bibliotheca Philologica et Philosophica Buddhica, Vol. X. The International Research Institute for Advanced Buddhology, Soka University, 2008. ISBN 978-4-904234-00-6
+A. Cotterell, From Aristotle to Zoroaster. 1998.
+Richard Foltz, Religions of Iran: From Prehistory to the Present, London: Oneworld, 2013.
+Phra Kiattisak Ponampon (2014), Mission, Meditation and Miracles: An Shigao in Chinese Tradition, MA thesis, Dunedin, NZ: University of Otago

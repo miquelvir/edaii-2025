@@ -1,0 +1,87 @@
+732
+Apple M1
+Apple M1 is a series of ARM-based system-on-a-chip (SoC) designed by Apple Inc., launched 2020 to 2022. It is part of the Apple silicon series, as a central processing unit (CPU) and graphics processing unit (GPU) for its Mac desktops and notebooks, and the iPad Pro and iPad Air tablets. The M1 chip initiated Apple's third change to the instruction set architecture used by Macintosh computers, switching from Intel to Apple silicon fourteen years after they were switched from PowerPC to Intel, and twenty-six years after the transition from the original Motorola 68000 series to PowerPC. At the time of its introduction in 2020, Apple said that the M1 had "the world's fastest CPU core in low power silicon" and the world's best CPU performance per watt. Its successor, Apple M2, was announced on June 6, 2022, at Worldwide Developers Conference (WWDC).
+The original M1 chip was introduced in November 2020, and was followed by the professional-focused M1 Pro and M1 Max chips in October 2021. The M1 Max is a higher-powered version of the M1 Pro, with more GPU cores and memory bandwidth, a larger die size, and a large used interconnect. Apple introduced the M1 Ultra in 2022, a desktop workstation chip containing two interconnected M1 Max units. These chips differ largely in size and the number of functional units: for example, while the original M1 has about 16 billion transistors, the M1 Ultra has 114 billion.
+Apple's macOS and iPadOS operating systems both run on the M1. Initial support for the M1 SoC in the Linux kernel was released in version 5.13 on June 27, 2021.
+The initial versions of the M1 chips contain an architectural defect that permits sandboxed applications to exchange data, violating the security model, an issue that has been described as "mostly harmless".
+
+Design
+CPU
+The M1 has four high-performance "Firestorm" and four energy-efficient "Icestorm" cores, first seen on the A14 Bionic. It has a hybrid configuration similar to ARM big.LITTLE and Intel's Lakefield processors. This combination allows power-use optimizations not possible with previous Apple–Intel architecture devices. Apple claims the energy-efficient cores use one-tenth the power of the high-performance ones. The high-performance cores have an unusually large 192 KB of L1 instruction cache and 128 KB of L1 data cache and share a 12 MB L2 cache; the energy-efficient cores have a 128 KB L1 instruction cache, 64 KB L1 data cache, and a shared 4 MB L2 cache. The SoC also has an 8 MB System Level Cache shared by the GPU.
+
+M1 Pro and M1 Max
+The M1 Pro and M1 Max use the same ARM big.LITTLE design as the M1, with eight high-performance "Firestorm" (six in the lower-binned variants of the M1 Pro) and two energy-efficient "Icestorm" cores, providing a total of ten cores (eight in the lower-binned variants of the M1 Pro). The high-performance cores are clocked at 3228 MHz, and the high-efficiency cores are clocked at 2064 MHz. The eight high-performance cores are split into two clusters. Each high-performance cluster shares 12 MB of L2 cache. The two high-efficiency cores share 4 MB of L2 cache. The M1 Pro and M1 Max have 24 MB and 48 MB respectively of system level cache (SLC).
+
+M1 Ultra
+The M1 Ultra consists of two M1 Max units connected with UltraFusion Interconnect with a total of 20 CPU cores and 96 MB system level cache (SLC).
+
+GPU
+The M1 integrates an Apple designed eight-core (seven in some base models) graphics processing unit (GPU). Each GPU core is split into 16 execution units (EUs), which each contain 8 arithmetic logic units (ALUs). In total, the M1 GPU contains up to 128 EUs and 1024 ALUs, which Apple says can execute up to 24,576 threads simultaneously and which have a maximum floating point (FP32) performance of 2.6 TFLOPs.
+The M1 Pro integrates a 16-core (14 in some base models) graphics processing unit (GPU), while the M1 Max integrates a 32-core (24 in some base models) GPU. In total, the M1 Max GPU contains up to 512 execution units or 4096 ALUs, which have a maximum floating point (FP32) performance of 10.4 TFLOPs.
+The M1 Ultra features a 48- or 64-core GPU with up to 8192 ALUs and 21 TFLOPs of FP32 performance.
+
+Memory
+The M1 uses a 128-bit LPDDR4X SDRAM in a unified memory configuration shared by all the components of the processor, aka memory on package (MOP). The SoC and DRAM chips are mounted together in a system-in-a-package design. 8 GB and 16 GB configurations are available.
+The M1 Pro has 256-bit LPDDR5 SDRAM, and the M1 Max has 512-bit LPDDR5 SDRAM memory. While the M1 SoC has 70 GB/s memory bandwidth, the M1 Pro has 200 GB/s bandwidth and the M1 Max has 400 GB/s bandwidth. The M1 Pro comes in memory configurations of 16 GB and 32 GB, and the M1 Max comes in configurations of 32 GB and 64 GB.
+The M1 Ultra doubles the specs of the M1 Max for a 1024-bit or 1-kilobit memory bus with 800 GB/s bandwidth in a 64 GB or 128 GB configuration.
+
+Other features
+The M1 is the successor to and integrates all functionality of the Apple T2 chip that was present in Intel-based Macs. It keeps bridgeOS and sepOS active even if the main computer is in a halted low power mode to handle and store encryption keys, including keys for Touch ID, FileVault, macOS Keychain, and UEFI firmware passwords. It also stores the machine's unique ID (UID) and group ID (GID).
+The M1 contains dedicated neural network hardware in a 16-core Neural Engine, capable of executing 11 trillion operations per second. Other components include an image signal processor, a NVM Express storage controller, a USB4 controller that includes Thunderbolt 3 support, and a Secure Enclave. The M1 Pro, Max and Ultra support Thunderbolt 4.
+The M1 has video codec encoding support for HEVC and H.264. It has decoding support for HEVC, H.264, and ProRes. The M1 Pro, M1 Max, and M1 Ultra have a media engine which has hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW. This media engine includes a video decode engine (the M1 Ultra has two), a video encode engine (the M1 Max has two and the M1 Ultra has four), and a ProRes encode and decode engine (again the M1 Max has two and the M1 Ultra has four).
+The M1 Max supports High Power Mode on the 16-inch MacBook Pro for intensive tasks. The M1 Pro supports two 6K displays at 60 Hz over Thunderbolt, while the M1 Max supports a third 6K display over Thunderbolt and a 4K monitor over HDMI 2.0. All parameters of the M1 Max processors are doubled in M1 Ultra processors, as they are essentially two M1 Max processors operating in parallel; they are in a single package (in size being bigger than Socket AM4 AMD Ryzen processors) and seen as one processor in macOS.
+
+Performance and efficiency
+The M1 recorded competitive performance with contemporary Intel and AMD processors in popular benchmarks (such as Geekbench and Cinebench R23).
+The 2020 M1-equipped Mac Mini draws 7 watts when idle and 39 watts at maximum load, compared to 20 watts at idle and 122 watts maximum load for the 2018 6-core Core i7 Mac Mini. The energy efficiency of the M1 increases battery life of M1-based MacBooks by 50% compared to previous Intel-based MacBooks.
+At release, the MacBook Air (M1, 2020) and MacBook Pro (M1, 2020) were praised by critics for their CPU performance and battery life, particularly compared to previous MacBooks.
+
+Products that use the Apple M1 series
+M1
+MacBook Air (M1, 2020) – base model has 7-core GPU
+Mac Mini (M1, 2020)
+MacBook Pro (13-inch, M1, 2020)
+iMac (24-inch, M1, 2021) – base model has 7-core GPU
+iPad Pro (11-inch, 5th generation) (2021)
+iPad Pro (12.9-inch, 5th generation) (2021)
+iPad Air (5th generation) (2022)
+
+M1 Pro
+MacBook Pro (14-inch and 16-inch, 2021)
+
+M1 Max
+MacBook Pro (14-inch and 16-inch, 2021)
+Mac Studio (2022)
+
+M1 Ultra
+Mac Studio (2022)
+
+Problems
+USB power delivery bricking
+After its release, some users who charged M1 devices through USB-C hubs reported bricking their device. The devices that are reported to cause this issue were third-party USB-C hubs and non-Thunderbolt docks (excluding Apple's own dongle). Apple handled this issue by replacing the logic board and by telling its customers not to charge through those hubs. macOS Big Sur 11.2.2 includes a fix to prevent 2019 or later MacBook Pro models and 2020 or later MacBook Air models from being damaged by certain third-party USB-C hubs and docks.
+
+Security vulnerabilities
+M1racles
+A flaw in M1 processors, given the name "M1racles", was announced in May 2021. Two sandboxed applications can exchange data without the system's knowledge by using an unintentionally writable processor register as a covert channel, violating the security model and constituting a minor vulnerability. It was discovered by Hector Martin, founder of the Asahi Linux project for Linux on Apple Silicon.
+
+Augury
+In May 2022 a flaw termed "Augury" was announced involving the Data-Memory Dependent Prefetcher (DMP) in M1 chips, discovered by researchers at Tel Aviv University, the University of Illinois Urbana-Champaign, and the University of Washington. It was not considered a substantial security risk at the time.
+
+Pacman
+In June 2022, MIT researchers announced they had found a speculative execution vulnerability in M1 chips which they called "Pacman" after pointer authentication codes (PAC). Apple said they did not believe this posed a serious threat to users.
+
+GoFetch
+An exploit named GoFetch is able to extract cryptographic keys from M-series chip devices without administrative privileges.
+
+Variants
+The table below shows the various SoCs based on the "Firestorm" and "Icestorm" microarchitectures.
+
+Gallery
+See also
+Rosetta 2
+Universal 2 binary
+List of Mac models grouped by CPU type
+
+References
+External links
+Official website

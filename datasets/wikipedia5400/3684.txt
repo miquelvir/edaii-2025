@@ -1,0 +1,680 @@
+3684
+Centimetre–gram–second system of units
+The centimetre–gram–second system of units (CGS or cgs) is a variant of the metric system based on the centimetre as the unit of length, the gram as the unit of mass, and the second as the unit of time. All CGS mechanical units are unambiguously derived from these three base units, but there are several different ways in which the CGS system was extended to cover electromagnetism.
+The CGS system has been largely supplanted by the MKS system based on the metre, kilogram, and second, which was in turn extended and replaced by the International System of Units (SI). In many fields of science and engineering, SI is the only system of units in use, but CGS is still prevalent in certain subfields.
+In measurements of purely mechanical systems (involving units of length, mass, force, energy, pressure, and so on), the differences between CGS and SI are straightforward: the unit-conversion factors are all powers of 10 as 100 cm = 1 m and 1000 g = 1 kg. For example, the CGS unit of force is the dyne, which is defined as 1 g⋅cm/s2, so the SI unit of force, the newton (1 kg⋅m/s2), is equal to 100000 dynes.
+On the other hand, in measurements of electromagnetic phenomena (involving units of charge, electric and magnetic fields, voltage, and so on), converting between CGS and SI is less straightforward. Formulas for physical laws of electromagnetism (such as Maxwell's equations) take a form that depends on which system of units is being used, because the electromagnetic quantities are defined differently in SI and in CGS. Furthermore, within CGS, there are several plausible ways to define electromagnetic quantities, leading to different "sub-systems", including Gaussian units, "ESU", "EMU", and Heaviside–Lorentz units. Among these choices, Gaussian units are the most common today, and "CGS units" is often intended to refer to CGS-Gaussian units.
+
+History
+The CGS system goes back to a proposal in 1832 by the German mathematician [Carl Friedrich Gauss](3677) to base a system of absolute units on the three fundamental units of length, mass and time. Gauss chose the units of millimetre, milligram and second. In 1873, a committee of the British Association for the Advancement of Science, including physicists James Clerk Maxwell and William Thomson recommended the general adoption of centimetre, gram and second as fundamental units, and to express all derived electromagnetic units in these fundamental units, using the prefix "C.G.S. unit of ...".
+The sizes of many CGS units turned out to be inconvenient for practical purposes. For example, many everyday objects are hundreds or thousands of centimetres long, such as humans, rooms and buildings. Thus the CGS system never gained wide use outside the field of science. Starting in the 1880s, and more significantly by the mid-20th century, CGS was gradually superseded internationally for scientific purposes by the MKS (metre–kilogram–second) system, which in turn developed into the modern SI standard.
+Since the international adoption of the MKS standard in the 1940s and the SI standard in the 1960s, the technical use of CGS units has gradually declined worldwide. CGS units have been deprecated in favor of SI units by NIST, as well as organizations such as the [American Physical Society](3451) and the International Astronomical Union. SI units are predominantly used in engineering applications and physics education, while Gaussian CGS units are still commonly used in theoretical physics, describing microscopic systems, relativistic electrodynamics, and astrophysics.
+The units gram and centimetre remain useful as noncoherent units within the SI system, as with any other prefixed SI units.
+
+Definition of CGS units in mechanics
+In mechanics, the quantities in the CGS and SI systems are defined identically. The two systems differ only in the scale of the three base units (centimetre versus metre and gram versus kilogram, respectively), with the third unit (second) being the same in both systems.
+There is a direct correspondence between the base units of mechanics in CGS and SI.  Since the formulae expressing the laws of mechanics are the same in both systems and since both systems are coherent, the definitions of all coherent derived units in terms of the base units are the same in both systems, and there is an unambiguous relationship between derived units:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              d
+              x
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {dx}{dt}}}
+  
+  (definition of velocity)
+
+  
+    
+      
+        F
+        =
+        m
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              x
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle F=m{\frac {d^{2}x}{dt^{2}}}}
+  
+  (Newton's second law of motion)
+
+  
+    
+      
+        E
+        =
+        ∫
+        
+          
+            
+              F
+              →
+            
+          
+        
+        ⋅
+        d
+        
+          
+            
+              x
+              →
+            
+          
+        
+      
+    
+    {\displaystyle E=\int {\vec {F}}\cdot d{\vec {x}}}
+  
+  (energy defined in terms of work)
+
+  
+    
+      
+        p
+        =
+        
+          
+            F
+            
+              L
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle p={\frac {F}{L^{2}}}}
+  
+  (pressure defined as force per unit area)
+
+  
+    
+      
+        η
+        =
+        τ
+        
+          /
+        
+        
+          
+            
+              d
+              v
+            
+            
+              d
+              x
+            
+          
+        
+      
+    
+    {\displaystyle \eta =\tau /{\frac {dv}{dx}}}
+  
+  (dynamic viscosity defined as shear stress per unit velocity gradient).
+Thus, for example, the CGS unit of pressure, barye, is related to the CGS base units of length, mass, and time in the same way as the SI unit of pressure, pascal, is related to the SI base units of length, mass, and time:
+
+1 unit of pressure = 1 unit of force / (1 unit of length)2 = 1 unit of mass / (1 unit of length × (1 unit of time)2)
+1 Ba = 1 g/(cm⋅s2)
+1 Pa = 1 kg/(m⋅s2).
+Expressing a CGS derived unit in terms of the SI base units, or vice versa, requires combining the scale factors that relate the two systems:
+
+1 Ba = 1 g/(cm⋅s2) = 10−3 kg / (10−2 m⋅s2) = 10−1 kg/(m⋅s2) = 10−1 Pa.
+
+Definitions and conversion factors of CGS units in mechanics
+Derivation of CGS units in electromagnetism
+CGS approach to electromagnetic units
+The conversion factors relating electromagnetic units in the CGS and SI systems are made more complex by the differences in the formulas expressing physical laws of electromagnetism as assumed by each system of units, specifically in the nature of the constants that appear in these formulas. This illustrates the fundamental difference in the ways the two systems are built: 
+
+In SI, the unit of electric current, the ampere (A), was historically defined such that the magnetic force exerted by two infinitely long, thin, parallel wires 1 metre apart and carrying a current of 1 ampere is exactly 2×10−7 N/m. This definition results in all SI electromagnetic units being numerically consistent (subject to factors of some integer powers of 10) with those of the CGS-EMU system described in further sections. The ampere is a base unit of the SI system, with the same status as the metre, kilogram, and second. Thus the relationship in the definition of the ampere with the metre and newton is disregarded, and the ampere is not treated as dimensionally equivalent to any combination of other base units. As a result, electromagnetic laws in SI require an additional constant of proportionality (see Vacuum permeability) to relate electromagnetic units to kinematic units. (This constant of proportionality is derivable directly from the above definition of the ampere.) All other electric and magnetic units are derived from these four base units using the most basic common definitions: for example, electric charge q is defined as current I multiplied by time t, 
+  
+    
+      
+        q
+        =
+        I
+        
+        t
+        ,
+      
+    
+    {\displaystyle q=I\,t,}
+  
+ resulting in the unit of electric charge, the coulomb (C), being defined as 1 C = 1 A⋅s.
+The CGS system variant avoids introducing new base quantities and units, and instead defines all electromagnetic quantities by expressing the physical laws that relate electromagnetic phenomena to mechanics with only dimensionless constants, and hence all units for these quantities are directly derived from the centimetre, gram, and second.
+In each of these systems the quantities called "charge" etc. may be a different quantity; they are distinguished here by a superscript. The corresponding quantities of each system are related through a proportionality constant.
+Maxwell's equations can be written in each of these systems as:
+
+Electrostatic units (ESU)
+In the electrostatic units variant of the CGS system, (CGS-ESU), charge is defined as the quantity that obeys a form of Coulomb's law without a multiplying constant (and current is then defined as charge per unit time):
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              
+                q
+                
+                  1
+                
+                
+                  ESU
+                
+              
+              
+                q
+                
+                  2
+                
+                
+                  ESU
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F={q_{1}^{\text{ESU}}q_{2}^{\text{ESU}} \over r^{2}}.}
+  
+
+The ESU unit of charge, franklin (Fr), also known as statcoulomb or esu charge, is therefore defined as follows: two equal point charges spaced 1 centimetre apart are said to be of 1 franklin each if the electrostatic force between them is 1 dyne. Therefore, in CGS-ESU, a franklin is equal to a centimetre times square root of dyne:
+
+  
+    
+      
+        
+          1
+          
+          F
+          r
+          =
+          1
+          
+          s
+          t
+          a
+          t
+          c
+          o
+          u
+          l
+          o
+          m
+          b
+          =
+          1
+          
+          e
+          s
+          u
+          
+          c
+          h
+          a
+          r
+          g
+          e
+          =
+          1
+          
+          d
+          y
+          n
+          
+            e
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          c
+          m
+          =
+          1
+          
+          
+            g
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          c
+          
+            m
+            
+              3
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          
+            s
+            
+              −
+              1
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {1\,Fr=1\,statcoulomb=1\,esu\;charge=1\,dyne^{1/2}{\cdot }cm=1\,g^{1/2}{\cdot }cm^{3/2}{\cdot }s^{-1}} .}
+  
+
+The unit of current is defined as:
+
+  
+    
+      
+        
+          1
+          
+          F
+          r
+          
+            /
+          
+          s
+          =
+          1
+          
+          s
+          t
+          a
+          t
+          a
+          m
+          p
+          e
+          r
+          e
+          =
+          1
+          
+          e
+          s
+          u
+          
+          c
+          u
+          r
+          r
+          e
+          n
+          t
+          =
+          1
+          
+          d
+          y
+          n
+          
+            e
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          c
+          m
+          
+            ⋅
+          
+          
+            s
+            
+              −
+              1
+            
+          
+          =
+          1
+          
+          
+            g
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          c
+          
+            m
+            
+              3
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          
+            s
+            
+              −
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {1\,Fr/s=1\,statampere=1\,esu\;current=1\,dyne^{1/2}{\cdot }cm{\cdot }s^{-1}=1\,g^{1/2}{\cdot }cm^{3/2}{\cdot }s^{-2}} .}
+  
+
+In the CGS-ESU system, charge q is therefore has the dimension to M1/2L3/2T−1.
+Other units in the CGS-ESU system include the statampere (1 statC/s) and statvolt (1 erg/statC).
+In CGS-ESU, all electric and magnetic quantities are dimensionally expressible in terms of length, mass, and time, and none has an independent dimension. Such a system of units of electromagnetism, in which the dimensions of all electric and magnetic quantities are expressible in terms of the mechanical dimensions of mass, length, and time, is traditionally called an 'absolute system'.:3
+
+Unit symbols
+All electromagnetic units in the CGS-ESU system that have not been given names of their own are named as the corresponding SI name with an attached prefix "stat" or with a separate abbreviation "esu", and similarly with the corresponding symbols.
+
+Electromagnetic units (EMU)
+In another variant of the CGS system, electromagnetic units (EMU), current is defined via the force existing between two thin, parallel, infinitely long wires carrying it, and charge is then defined as current multiplied by time. (This approach was eventually used to define the SI unit of ampere as well).
+The EMU unit of current, biot (Bi), also known as abampere or emu current, is therefore defined as follows:
+
+The biot is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one centimetre apart in vacuum, would produce between these conductors a force equal to two dynes per centimetre of length. Therefore, in electromagnetic CGS units, a biot is equal to a square root of dyne:
+
+  
+    
+      
+        
+          1
+          
+          B
+          i
+          =
+          1
+          
+          a
+          b
+          a
+          m
+          p
+          e
+          r
+          e
+          =
+          1
+          
+          e
+          m
+          u
+          
+          c
+          u
+          r
+          r
+          e
+          n
+          t
+          =
+          1
+          
+          d
+          y
+          n
+          
+            e
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          =
+          1
+          
+          
+            g
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          c
+          
+            m
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          
+            s
+            
+              −
+              1
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {1\,Bi=1\,abampere=1\,emu\;current=1\,dyne^{1/2}=1\,g^{1/2}{\cdot }cm^{1/2}{\cdot }s^{-1}} .}
+  
+
+The unit of charge in CGS EMU is:
+
+  
+    
+      
+        
+          1
+          
+          B
+          i
+          
+            ⋅
+          
+          s
+          =
+          1
+          
+          a
+          b
+          c
+          o
+          u
+          l
+          o
+          m
+          b
+          =
+          1
+          
+          e
+          m
+          u
+          
+          c
+          h
+          a
+          r
+          g
+          e
+          =
+          1
+          
+          d
+          y
+          n
+          
+            e
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          s
+          =
+          1
+          
+          
+            g
+            
+              1
+              
+                /
+              
+              2
+            
+          
+          
+            ⋅
+          
+          c
+          
+            m
+            
+              1
+              
+                /
+              
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {1\,Bi{\cdot }s=1\,abcoulomb=1\,emu\,charge=1\,dyne^{1/2}{\cdot }s=1\,g^{1/2}{\cdot }cm^{1/2}} .}
+  
+
+Dimensionally in the CGS-EMU system, charge q is therefore equivalent to M1/2L1/2. Hence, neither charge nor current is an independent physical quantity in the CGS-EMU system.
+
+EMU notation
+All electromagnetic units in the CGS-EMU system that do not have proper names are denoted by a corresponding SI name with an attached prefix "ab" or with a separate abbreviation "emu".
+
+Practical CGS units
+The practical CGS system is a hybrid system that uses the volt and the ampere as the units of voltage and current respectively. Doing this avoids the inconveniently large and small electrical units that arise in the esu and emu systems. This system was at one time widely used by electrical engineers because the volt and ampere had been adopted as international standard units by the International Electrical Congress of 1881. As well as the volt and ampere, the farad (capacitance), ohm (resistance), coulomb (electric charge), and henry (inductance) are consequently also used in the practical system and are the same as the SI units. The magnetic units are those of the emu system.
+The electrical units, other than the volt and ampere, are determined by the requirement that any equation involving only electrical and kinematical quantities that is valid in SI should also be valid in the system. For example, since electric field strength is voltage per unit length, its unit is the volt per centimetre, which is one hundred times the SI unit.
+The system is electrically rationalized and magnetically unrationalized; i.e., 𝜆 = 1 and 𝜆′ = 4π, but the above formula for 𝜆 is invalid. A closely related system is the International System of Electric and Magnetic Units, which has a different unit of mass so that the formula for 𝜆′ is invalid. The unit of mass was chosen to remove powers of ten from contexts in which they were considered to be objectionable (e.g., P = VI and F = qE). Inevitably, the powers of ten reappeared in other contexts, but the effect was to make the familiar joule and watt the units of work and power respectively.
+The ampere-turn system is constructed in a similar way by considering magnetomotive force and magnetic field strength to be electrical quantities and rationalizing the system by dividing the units of magnetic pole strength and magnetization by 4π. The units of the first two quantities are the ampere and the ampere per centimetre respectively. The unit of magnetic permeability is that of the emu system, and the magnetic constitutive equations are B = (4π/10)μH and B = (4π/10)μ0H + μ0M. Magnetic reluctance is given a hybrid unit to ensure the validity of Ohm's law for magnetic circuits.
+In all the practical systems ε0 = 8.8542 × 10−14 A⋅s/(V⋅cm), μ0 = 1 V⋅s/(A⋅cm), and c2 = 1/(4π × 10−9 ε0μ0).
+
+Other variants
+There were at various points in time about half a dozen systems of electromagnetic units in use, most based on the CGS system. These include the Gaussian units and the Heaviside–Lorentz units.
+
+Electromagnetic units in various CGS systems
+In this table, c = 29979245800 is the numeric value of the speed of light in vacuum when expressed in units of centimetres per second. The symbol "≘" is used instead of "=" as a reminder that the units are corresponding but not equal. For example, according to the capacitance row of the table, if a capacitor has a capacitance of 1 F in SI, then it has a capacitance of (10−9 c2) cm in ESU; but it is incorrect to replace "1 F" with "(10−9 c2) cm" within an equation or formula. (This warning is a special aspect of electromagnetism units. By contrast it is always correct to replace, e.g., "1 m" with "100 cm" within an equation or formula.)
+
+Physical constants in CGS units
+Advantages and disadvantages
+Lack of unique unit names leads to potential confusion: "15 emu" may mean either 15 abvolts, or 15 emu units of electric dipole moment, or 15 emu units of magnetic susceptibility, sometimes (but not always) per gram, or per mole. With its system of uniquely named units, the SI removes any confusion in usage: 1 ampere is a fixed value of a specified quantity, and so are 1 henry, 1 ohm, and 1 volt.
+In the CGS-Gaussian system, electric and magnetic fields have the same units, 4π𝜖0 is replaced by 1, and the only dimensional constant appearing in the Maxwell equations is c, the speed of light. The Heaviside–Lorentz system has these properties as well (with ε0 equaling 1).
+In SI, and other rationalized systems (for example, Heaviside–Lorentz), the unit of current was chosen such that electromagnetic equations concerning charged spheres contain 4π, those concerning coils of current and straight wires contain 2π and those dealing with charged surfaces lack π entirely, which was the most convenient choice for applications in electrical engineering and relates directly to the geometric symmetry of the system being described by the equation.
+Specialized unit systems are used to simplify formulas further than either SI or CGS do, by eliminating constants through a convention of normalizing quantities with respect to some system of natural units. For example, in particle physics a system is in use where every quantity is expressed by only one unit of energy, the electronvolt, with lengths, times, and so on all converted into units of energy by inserting factors of speed of light c and the reduced Planck constant ħ. This unit system is convenient for calculations in particle physics, but is impractical in other contexts.
+
+See also
+Outline of metrology and measurement
+
+References and notes
+General literature
+Griffiths, David J. (1999). "Appendix C: Units". Introduction to Electrodynamics (3rd ed.). Prentice Hall. ISBN 0-13-805326-X.
+Jackson, John D. (1999). "Appendix on Units and Dimensions". Classical Electrodynamics (3rd ed.). Wiley. ISBN 0-471-30932-X.
+Kent, William (1900). "Electrical Engineering. Standards of Measurement page 1024". The Mechanical Engineer's Pocket-book (5th ed.). Wiley.
+Littlejohn, Robert (Fall 2017). "Gaussian, SI and Other Systems of Units in Electromagnetic Theory" (PDF). Physics 221A, University of California, Berkeley lecture notes. Archived (PDF) from the original on 2015-12-11. Retrieved 2017-12-15.

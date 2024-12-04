@@ -1,0 +1,60 @@
+2587
+Fusarium
+Fusarium (; Audio:) is a large genus of filamentous fungi, part of a group often referred to as hyphomycetes, widely distributed in soil and associated with plants. Most species are harmless saprobes, and are relatively abundant members of the soil microbial community. Some species produce mycotoxins in cereal crops that can affect human and animal health if they enter the food chain. The main toxins produced by these Fusarium species are fumonisins and trichothecenes. Despite most species apparently being harmless (some existing on the skin as commensal members of the skin flora), some Fusarium species and subspecific groups are among the most important fungal pathogens of plants and animals.
+The name of Fusarium comes from Latin fusus, meaning a spindle.
+
+Taxonomy
+The taxonomy of the genus is complex. A number of different schemes have been used, and up to 1,000 species have been identified at times, with approaches varying between wide and narrow concepts of speciation (lumpers and splitters).
+Phylogenetic studies  seven major clades within the genus.
+There is a proposed concept – widely subscribed by specialists – that would include essentially the genus as it now stands, including especially all agriculturally significant Fusaria. There is a counterproposal (unrelated to Watanabe 2011) that goes far in the other direction, with seven entirely new genera.
+
+Subdivision
+Various schemes have subdivided the genus into subgenera and sections. There is a poor correlation between sections and phylogenetic clades.
+Sections previously described include:
+
+Species
+Selected species include:
+
+Pathogen
+The genus includes a number of economically important plant pathogenic species.
+Fusarium graminearum commonly infects barley if there is rain late in the season. It is of economic impact to the malting and brewing industries, as well as feed barley. Fusarium contamination in barley can result in head blight, and in extreme contaminations, the barley can appear pink. The genome of this wheat and maize pathogen has been sequenced. F. graminearum can also cause root rot and seedling blight. The total losses in the US of barley and wheat crops between 1991 and 1996 have been estimated at $3 billion.
+Fusarium oxysporum f.sp. cubense is a fungal plant pathogen that causes Panama disease of banana (Musa spp.), also known as fusarium wilt of banana. Panama disease affects a wide range of banana cultivars, which are propagated asexually from offshoots and therefore have very little genetic diversity. Panama disease is one of the most destructive plant diseases of modern times, and caused the commercial disappearance of the once dominant Gros Michel cultivar. A more recent strain also affects the Cavendish cultivars which commercially replaced Gros Michel. It is considered inevitable that this susceptibility will spread globally and commercially wipe out the Cavendish cultivar, for which there are currently no acceptable replacements.
+Fusarium oxysporum f. sp. narcissi causes rotting of the bulbs (basal rot) and yellowing of the leaves of daffodils (Narcissi).
+In 2021 it was discovered that Fusarium xyrophilum was able to hijack a South American species of yellow-eyed Xyris grass, creating fake flowers, fooling bees and other pollinating insects into visiting them, taking fungal spores to other plants.
+
+In humans
+Some species may cause a range of opportunistic infections in humans. In humans with normal immune systems, fusarial infections may occur in the nails (onychomycosis) and in the cornea (keratomycosis or mycotic keratitis).  In humans whose immune systems are weakened in a particular way, (neutropenia, i.e., very low neutrophils count), aggressive fusarial infections penetrating the entire body and bloodstream (disseminated infections) may be caused by members of the Fusarium solani complex, Fusarium oxysporum, Fusarium verticillioides, Fusarium proliferatum and, rarely, other fusarial species.
+
+Research
+The isolation medium for Fusaria is usually peptone PCNB agar (peptone pentachloronitrobenzene agar, PPA).: 7  For F. oxysporum specifically, Komada's medium is most common.: 7  Differential identification is difficult in some strains. Vegetative compatibility group analysis is best for some, is one usable method for others, and requires such a large number of assays that it is too complicated for yet others.
+
+Use as human food
+Fusarium venenatum is produced industrially for use as a human food by Marlow Foods, Ltd., and is marketed under the name Quorn in [Europe](1994) and North America.
+Fusarium strain flavolapis is also produced as a human food by Nature's Fynd under the name Fy in North America. It is used as a part of Le Bernardin menu in several dishes.
+Some consumers of fusarium products have shown food allergies similar in nature to peanut and other food allergies.  People with known sensitivities to molds should exercise caution when consuming such products.
+
+Biological warfare
+Mass casualties occurred in the Soviet Union in the 1930s and 1940s when Fusarium-contaminated wheat flour was baked into bread, causing alimentary toxic aleukia with a 60% mortality rate.  Symptoms began with abdominal pain, diarrhea, vomiting, and prostration, and within days, fever, chills, myalgias and bone marrow depression with granulocytopenia and secondary sepsis occurred.  Further symptoms included pharyngeal or laryngeal ulceration and diffuse bleeding into the skin (petechiae and ecchymoses), melena, bloody diarrhea, hematuria, hematemesis, epistaxis, vaginal bleeding, pancytopenia and gastrointestinal ulceration.  Fusarium sporotrichoides contamination was found in affected grain in 1932, spurring research for medical purposes and for use in biological warfare.  The active ingredient was found to be trichothecene T-2 mycotoxin, and it was produced in quantity and weaponized prior to the passage of the Biological Weapons Convention in 1972.  The Soviets were accused of using the agent, dubbed "yellow rain", to cause 6,300 deaths in Laos, Kampuchea, and [Afghanistan](1312) between 1975 and 1981.  The "biological warfare agent" was later purported to be merely bee feces, but the issue remains disputed.
+
+Pest
+Fusarium has posed a threat to the ancient cave paintings in Lascaux since 1955, when the caves were first opened to visitors. The caves subsequently closed and the threat subsided, but the installation of an air conditioning system in 2000 caused another outbreak of the fungus which is yet to be resolved.
+
+Microbiota
+Fusarium may be part of microbiota including digestive as well as oral/dental, there have been rare cases of Fusariosis presenting as a necrotic ulceration of the gingiva, extending to the alveolar bone has been reported in a granulocytopenic patient.
+
+References
+Bibliography
+Nelson PE, Dignani MC, Anaissie EJ (October 1994). "Taxonomy, biology, and clinical aspects of Fusarium species". Clinical Microbiology Reviews. 7 (4): 479–504. doi:10.1128/cmr.7.4.479. PMC 358338. PMID 7834602.
+Moretti A (2009). "Taxonomy of Fusarium genus: A continuous fight between lumpers and splitters". Zbornik Matice Srpske Za Prirodne Nauke (117): 7–13. doi:10.2298/ZMSPN0917007M.
+Watanabe M, Yonezawa T, Lee K, Kumagai S, Sugita-Konishi Y, Goto K, Hara-Kudo Y (November 2011). "Molecular phylogeny of the higher and lower taxonomy of the Fusarium genus and differences in the evolutionary histories of multiple genes". BMC Evolutionary Biology. 11 (1): 322. Bibcode:2011BMCEE..11..322W. doi:10.1186/1471-2148-11-322. PMC 3270093. PMID 22047111.
+Summerell BA, Laurence MH, Liew EC, Leslie JF (14 September 2010). "Biogeography and phylogeography of Fusarium: a review". Fungal Diversity. 44 (1): 3–13. doi:10.1007/s13225-010-0060-2. S2CID 37051295.
+
+External links
+Fusarium and Verticillium Wilts of Tomato, Potato, Pepper, and Eggplant
+Fusarium Root Rot in Container Tree Nurseries
+Fusarium Blight on Turfgrass
+Fusarium Keratitis
+Evolution of Fusarium taxonomy. FAO 2014
+Fusarium Comparative Database
+Asan A (2011). "Checklist of Fusarium Species Reported from Turkey" (PDF). Mycotaxon. 116: 479.
+Simple explanation of Fusarium. FAO 2014

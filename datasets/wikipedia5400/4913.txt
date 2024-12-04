@@ -1,0 +1,44 @@
+4913
+Action theory (philosophy)
+Action theory or theory of action is an area in philosophy concerned with theories about the processes causing willful human bodily movements of a more or less complex kind. This area of thought involves epistemology, ethics, metaphysics, jurisprudence, and philosophy of mind, and has attracted the strong interest of philosophers ever since [Aristotle](162)'s Nicomachean Ethics (Third Book). With the advent of psychology and later neuroscience, many theories of action are now subject to empirical testing.
+Philosophical action theory, or the philosophy of action, should not be confused with sociological theories of social action, such as the action theory established by Talcott Parsons.  Nor should it be confused with activity theory.
+
+Overview
+Basic action theory typically describes action as intentional behavior caused by an agent in a particular situation. The agent's desires and beliefs (e.g. a person wanting a glass of water and believing that the clear liquid in the cup in front of them is water) lead to bodily behavior (e.g. reaching across for the glass). In the simple theory (see Donald Davidson), the desire and belief jointly cause the action. Michael Bratman has raised problems for such a view and argued that we should take the concept of intention as basic and not analyzable into beliefs and desires.
+[Aristotle](162) held that a thorough explanation must give an account of both the efficient cause, the agent, and the final cause, the intention.
+In some theories a desire plus a belief about the means of satisfying that desire are always what is behind an action. Agents aim, in acting, to maximize the satisfaction of their desires. Such a theory of prospective rationality underlies much of economics and other social sciences within the more sophisticated framework of rational choice. However, many theories of action argue that rationality extends far beyond calculating the best means to achieve one's ends. For instance, a belief that I ought to do X, in some theories, can directly cause me to do X without my having to want to do X (i.e. have a desire to do X). Rationality, in such theories, also involves responding correctly to the reasons an agent perceives, not just acting on wants.
+While action theorists generally employ the language of causality in their theories of what the nature of action is, the issue of what causal determination comes to has been central to controversies about the nature of free will.
+Conceptual discussions also revolve around a precise definition of action in philosophy. Scholars may disagree on which bodily movements fall under this category, e.g. whether thinking should be analysed as action, and how complex actions involving several steps to be taken and diverse intended consequences are to be summarised or decomposed.
+
+See also
+Praxeology
+Free will
+Humeanism § Theory of action
+Cybernetics
+
+References
+Further reading
+Maurice Blondel (1893). L'Action - Essai d'une critique de la vie et d'une science de la pratique
+G. E. M. Anscombe (1957). Intention, Basil Blackwell, Oxford.
+James Sommerville (1968). Total Commitment, Blondel's L'Action, Corpus Books.
+Michel Crozier, & Erhard Friedberg (1980). Actors and Systems Chicago: University of Chicago Press.
+Donald Davidson (1980). Essays on Actions and Events, Clarendon Press, Oxford.
+Jonathan Dancy & Constantine Sandis (eds.) (2015). Philosophy of Action: An Anthology, Wiley-Blackwell, Oxford.
+Jennifer Hornsby (1980). Actions, Routledge, London.
+Lilian O'Brien (2014). Philosophy of Action, Palgrave, Basingstoke.
+Christine Korsgaard (2008). The Constitution of Agency, Oxford University Press, Oxford.
+Alfred R. Mele (ed.) (1997). The Philosophy of Action, Oxford University Press, Oxford.
+John Hyman & Helen Steward (eds.) (2004). Agency and Action, Cambridge University Press, Cambridge.
+Anton Leist (ed.) (2007). Action in Context, Walter de Gruyter, Berlin.
+Timothy O'Connor & Constantine Sandis (eds.) (2010). A Companion to the Philosophy of Action, Wiley-Blackwell, Oxford.
+Sarah Paul (2020). The Philosophy of Action: A Contemporary Introduction, London, Routledge.
+Peter Šajda et al. (eds.) (2012). Affectivity, Agency and Intersubjectivity, L'Harmattan, Paris.
+Constantine Sandis (ed.) (2009). New Essays on the Explanation of Action, Palgrave Macmillan, Basingstoke.
+Constantine Sandis (ed.) (2019). Philosophy of Action from Suarez to Anscombe, London, Routledge.
+Michael Thompson (2012). Life and Action: Elementary Structures of Practice and Practical Thought, Boston, MA, Harvard University Press.
+Lawrence H. Davis (1979). Theory of Action, Prentice-Hall, (Foundations of Philosophy Series), Englewood Cliffs, NJ.
+
+External links
+Zalta, Edward N. (ed.). "Action". Stanford Encyclopedia of Philosophy.
+The Meaning of Action by Various Authors at PhilosophersAnswer.com
+"Thomas Reid's Theory of Action". Internet Encyclopedia of Philosophy.

@@ -1,0 +1,156 @@
+3451
+American Physical Society
+The American Physical Society (APS) is a not-for-profit membership organization of professionals in physics and related disciplines, comprising nearly fifty divisions, sections, and other units. Its mission is the advancement and diffusion of knowledge of physics. It publishes more than a dozen scientific journals, including the prestigious Physical Review and Physical Review Letters, and organizes more than twenty science meetings each year. It is a member society of the American Institute of Physics. Since January 2021, it is led by chief executive officer Jonathan Bagger.
+
+History
+The American Physical Society was founded on May 20, 1899, when thirty-six physicists gathered at [Columbia University](2080) for that purpose. They proclaimed the mission of the new Society to be "to advance and diffuse the knowledge of physics", and in one way or another the APS has been at that task ever since. In the early years, virtually the sole activity of the APS was to hold scientific meetings, initially four per year. In 1913, the APS took over the operation of the Physical Review, which had been founded in 1893 at [Cornell University](3291), and journal publication became its second major activity. The Physical Review was followed by Reviews of Modern Physics in 1929 and by Physical Review Letters in 1958. Over the years, Phys. Rev. has subdivided into five separate sections as the fields of physics proliferated and the number of submissions grew.
+In more recent years, the activities of the society have broadened considerably. Stimulated by the increase in federal funding in the period after the Second World War, and even more by the increased public involvement of scientists in the 1960s, the APS is active in public and governmental affairs, and in the international physics community. It also conducts extensive programs in education, science outreach (specifically physics outreach), and media relations. Fourteen divisions and eleven topical groups covering all areas of physics research. Six forums reflect the interests of its fifty thousand members in broader issues, and nine sections organized by geographical region.
+In 1999, APS Physics celebrated its centennial with the biggest-ever physics meeting in [Atlanta](1872). In 2005, APS took the lead role in United States participation in the World Year of Physics, initiating several programs to broadly publicize physics during the 100th anniversary of [Albert Einstein](3401)'s annus mirabilis. Einstein@Home, one of the projects APS initiated during World Year of Physics, is an ongoing and popular distributed computing project.
+
+Name confusion and change proposal
+During the summer of 2005, the society conducted an electronic poll, in which the majority of APS members preferred the name American Physics Society. The poll became the motivation for a proposal of a name change promised in the leadership election that year. For legal reasons, the planned name change was eventually abandoned by the APS Executive Board.
+To promote public recognition of APS as a physics society, while retaining the name American Physical Society, the APS Executive Board adopted a new logo incorporating the phrase "APS Physics."
+APS introduced a new logo to replace the APS Physics logo on November 1, 2022.
+
+Journals
+The American Physical Society publishes 17 international research journals and an open-access online news and commentary website Physics.
+
+Physical Review Letters (PRL): Letters; fundamental research in all fields of physics.
+Physical Review X (PRX): Open access; pure, applied, and interdisciplinary physics.
+PRX Energy (PRX Energy): Open access; advances in energy science and technology.
+PRX Life (PRX Life): Open access; quantitative biological research.
+PRX Quantum (PRX Quantum): Open access; advances in quantum information science and technology.
+Reviews of Modern Physics (RMP): Reviews and Colloquia; Broad fundamental physics.
+Physical Review A (PRA): Atomic, molecular, and optical physics.
+Physical Review B (PRB): Condensed matter and materials physics.
+Physical Review C (PRC): Nuclear physics.
+Physical Review D (PRD): Particles, fields, gravitation, and cosmology.
+Physical Review E (PRE): Statistical, nonlinear, and soft matter physics.
+Physical Review Research (PRResearch): Open access; multidisciplinary.
+Physical Review Accelerators and Beams (PRAB): Open access; accelerator science and technology.
+Physical Review Applied (PRApplied): Experimental and theoretical applications of physics.
+Physical Review Fluids (PRFluids): Fluid dynamics.
+Physical Review Materials (PRMaterials): A broad-scope international journal for the multidisciplinary community engaged in research on materials.
+Physical Review Physics Education Research (PRPER): Open access; experimental and theoretical research on physics education.
+All members of APS receive the monthly publication [Physics Today](2298), published by the American Institute of Physics (AIP).
+
+Units
+The American Physical Society has 47 units (divisions, forums, topical groups and sections) that represent the wide range of interests of the physics community.
+
+Divisions
+Astrophysics (DAP)
+Atomic, Molecular & Optical Physics (DAMOP): The objective of the division is the promotion of the fundamental research on atoms, simple molecules, electrons and light, and their interactions. Historically, this is the oldest division of the American Physical Society. It was created in 1943. The division manages a number of prestigious awards for AMO scientists at various stages of their careers, such as the Davisson-Germer Prize in Atomic or Surface Physics, Rabi Prize in AMO Physics, Outstanding Doctoral Thesis Research in AMO Physics, Herbert P. Broida Prize, etc. It also organizes annual DAMOP Meetings attended by many leading AMO researchers, both from the United States and abroad.
+Biological Physics (DBIO): With over 2,000 members, the division is the second largest learned society in the world devoted to biological physics, following the Biophysical Society. The objective of the division is the advancement and dissemination of knowledge on the broad interface of physics and biology. This includes studying biological phenomena with physics tools and identifying new physics questions within biological contexts. The division supports a program of over 600 (as of 2016) presentations at the annual March Meeting of the APS, on topics ranging from protein biophysics, to neuroscience and evolution. It promotes research and development of biological physics, enhanced the standing of the field, and recognizes important contributions to the field, such as by awarding the Max Delbruck Prize in biological physics.
+Chemical Physics (DCP)
+Computational Physics (DCOMP): The division has more than 2,000 members, and the objective of the division is the advancement and dissemination of knowledge regarding the use of computers in physics research and education. This includes, among other areas, their application to experiments, theory, and education as well as the application of physics to the development of computer technology. This division provides to its members an opportunity for coordination and a forum for discussion and communication. In addition, the division promotes research and development in computational physics; enhances prestige and professional standing of its members; encourages scholarly publication; and promotes international cooperation in these activities.
+Condensed Matter Physics (DCMP)
+Fluid Dynamics (DFD)
+Gravitational Physics (DGRAV)
+Laser Science (DLS)
+Materials Physics (DMP)
+Nuclear Physics (DNP)
+Particles and Fields (DPF)
+Physics of Beams (DPB)
+Plasma Physics (DPP)
+Polymer Physics (DPOLY)
+Quantum Information (DQI)
+Soft Matter (DSOFT)
+
+Forums
+Diversity and Inclusion (FDI)
+Early Career Scientists (FECS)
+Education (FEd)
+Graduate Student Affairs (FGSA)
+History and Philosophy of Physics (FHPP)
+Industrial and Applied Physics (FIAP)
+International Physics (FIP)
+Outreach and Engaging the Public (FOEP)
+Physics and Society (FPS)
+
+Sections
+Eastern Great Lakes (EGLS)
+Far West Section (FWS)
+Four Corners (4CS)
+Mid-Atlantic (MAS)
+New England (NES)
+New York State (NYSS)
+Northwest (NWS)
+Prairie Section (PSAPS)
+Southeastern (SESAPS)
+Texas (TSAPS)
+
+Topical groups
+APS has the following topical groups:
+
+Data Science (GDS)
+Energy Research and Applications (GERA)
+Few-Body Systems (GFB)
+Hadronic Physics (GHP)
+Instrument and Measurement Science (GIMS)
+Magnetism (GMAG)
+Medical Physics (GMED)
+Physics Education Research (GPER)
+Physics of Climate (GPC)
+Plasma Astrophysics (GPAP)
+Precision Measurement & Fundamental Constants (GPMFC)
+Shock Compression of Condensed Matter (SHOCK)
+Statistical and Nonlinear Physics (GSNP)
+
+Programs
+Physics Teacher Education Coalition
+The Physics Teacher Education Coalition (PhysTEC) is a joint project of the American Physical Society and the American Association of Physics Teachers, which helps universities transform their physics teacher education programs into national models. PhysTEC-supported sites develop their physics teacher preparation programs by implementing a set of key components that project leaders have identified as critical to success in physics teacher preparation. The broader coalition is a national network of institutions committed to developing and promoting excellence in physics and physical science teacher preparation.
+
+Bridge program
+The APS Bridge Program aims to increase the number of underrepresented minority students that earn doctoral degrees in physics. The program names doctoral and master's degree-granting institutions as Bridge Sites and awards them National Science Foundation funding to prepare post-baccalaureate students for doctoral studies through additional coursework, mentoring, research, application coaching, and GRE preparation.
+
+Scholarship for Minority Undergraduate Physics Majors
+Formerly called the APS Corporate Sponsored Scholarship Program for Minority Undergraduate Students Who Major in Physics, this scholarship was established in 1980 with the goal of increasing the number of underrepresented minorities receiving bachelor's degrees in physics. The program provides funding and mentoring to talented students.
+
+Conferences for Undergraduate Women in Physics
+APS Conferences for Undergraduate Women in Physics are three-day regional conferences for undergraduate physics majors. The conferences aim to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas.
+
+Career center
+The APS Careers in Physics website is a gateway for physicists, students, and physics enthusiasts to obtain information about physics jobs and careers. APS Careers in Physics has an award-winning job board, offers professional development advice through its website and blog, and provides links to workshops, grants, and career resources.
+
+New faculty workshop
+APS co-sponsors a set of workshops for new physics and astronomy faculty with the American Association of Physics Teachers and the American Astronomical Society. These workshops reach nearly half of all new physics and astronomy faculty, and introduce them to current pedagogical practices, results of physics education research, and time management skills to help them begin and improve their academic careers.
+
+CSWP/COM site visits
+The APS has had a long-standing interest in improving the climate in physics departments for underrepresented minorities and women. The Committee on the Status of Women in Physics (CSWP) and the Committee on Minorities (COM) both sponsor site visit programs to universities as well as national labs.
+
+Education conferences
+APS is a leading voice for physics education and the society sponsors a variety of conferences dedicating to helping physics education leaders stay on top of the trends in the field. Conferences include the annual Physics Department Chair Conference, a Graduate Education in Physics Conference, and a Distance Education & Online Learning in Physics Workshop.
+
+Physics outreach
+The APS physics outreach program focuses on "Communicating the excitement and importance of physics to everyone." As part of this effort, it maintains an educational website, PhysicsCentral; offers grants to help APS members develop educational programs; and runs the Historic Physics Sites Initiative, which identifies and commemorates important historic physics sites in the United States.
+
+Prizes and awards
+The American Physical Society gives out a number of awards for research excellence and conduct; topics include outstanding leadership, computational physics, lasers, mathematics, and more.
+
+See also
+Deutsche Physikalische Gesellschaft
+Fellows of the American Physical Society
+
+References
+External links
+Official website 
+Bulletin of the American Physical Society — freely available scientific abstracts presented at general meetings and various unit meetings of APS Physics.
+
+Archival collections
+American Physical Society, Division of Fluid Dynamics Archives Archived November 16, 2016, at the Wayback Machine, 1946–1991, Special Collections, Linderman Library, Lehigh University
+Southeastern Section of the American Physical Society, University of Alabama Libraries Special Collections
+
+Niels Bohr Library & Archives
+American Physical Society Directed Energy Weapons (DEW) study records, 1983–1988
+American Physical Society addition to records, 1905–2010 (bulk 1977–2010)
+American Physical Society centennial meeting records, 1997–1999
+American Physical Society miscellaneous publications, 1920–2015
+American Physical Society records, 1899–1989
+American Physical Society Astrophysics Division records of the Secretary/Treasurer, 1970–1992
+APS Committee on Applications in Physics records, 1975–1999
+American Physical Society Forum on the History of Physics records of secretary-treasurer Thomas M. Miller, 2002–2013
+APS Division of Physics of Beams records, 1983–2002
+American Physical Society Division of Solid State Physics records of Roman Smoluchowski, 1943–1947
+APS Southeastern Section records, 1934–2010
+APS Office of the Treasurer records of George B. Pegram, 1926–1957
+APS Texas Section records 1980–2017

@@ -1,0 +1,18 @@
+528
+Alcmonavis
+Alcmonavis is a basal genus of avialan dinosaur that during the Late Jurassic lived in the area of present Germany. The only named species in the genus is Alcmonavis poeschli. Its only known fossil was originally reported as a specimen of [Archaeopteryx](582).
+
+Discovery and naming
+Amateur paleontologist Roland Pöschl systematically excavates the Alte Schöpfel quarry on the Schaudiberg, at Mühlheim near Mörnsheim in Bavaria. In November 2017, he discovered a slab showing a right wing of a primordial bird. The piece was prepared by Uli Leonhardt. In 2018, it was reported as a thirteenth specimen of [Archaeopteryx](582). Subsequent research, however, indicated that it represented a species new to science.
+In 2019, the type species Alcmonavis poeschli was named and described by Oliver Walter Mischa Rauhut, Helmut Tischlinger and Christian Foth. The generic name combines the old Celtic name of the Altmühl River meandering through the region of the find, Alcmona, with a Latin avis, "bird". The specific name honours Pöschl as discoverer.
+The holotype, specimen SNSB-BSPG 2017 I 133, has been found in a layer of the Mörnsheim Formation dating from the early Tithonian. It consists of a nearly complete but only partially articulated right wing. The fossil is part of the collection of the Bayerische Staatssammlung für Paläontologie und Geologie after being purchased by the Bavarian state.
+
+Description
+The length of the holotype was estimated at 111% of that of the largest known [Archaeopteryx](582) specimen, the Solnhofener exemplar. The estimated humerus length is about nine centimetres.
+No autapomorphies, unique derived traits, of Alcmonavis could be established. However, a unique combination of traits that in themselves are not unique was indicated. The humerus has a large deltopectoral crest, the expansion of which exceeds the shaft width. The upper side of the humerus makes an angle of 38° with the lower shaft. The ulna has a single and clearly distinct oval depression in its upper articulation surface, next to a small laterally projected process. The lower end of the ulna is slightly asymmetrically expanded. The radius at its top has a large crest-like process for the attachment of the musculus biceps brachii. The radius has a groove running along the inner side of its shaft. The second metatarsal is considerably more robust than the first or third metatarsal. The first phalanx of the first finger shows a longitudinal groove. The first phalanx of the second finger is very robust with an oval instead of flattened cross-section. The first phalanx of the second finger is warped around its long axis. The hand claws possess well-developed bosses for the flexor tendons, which processes are expanded at the palmar side.
+
+Classification
+Rauhut et al (2019) placed Alcmonavis in a basal position in the Avialae, just above [Archaeopteryx](582) in the evolutionary tree. The cladogram below displays the results of their phylogenetic analyses.
+
+
+== References ==

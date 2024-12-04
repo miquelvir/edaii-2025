@@ -1,0 +1,81 @@
+4436
+Anglo-Frisian languages
+The Anglo-Frisian languages are the Anglic (English, Scots, Fingallian†, and Yola†) and Frisian (North Frisian, East Frisian, and West Frisian) varieties of the West Germanic languages.
+The Anglo-Frisian languages are distinct from other West Germanic languages due to several sound changes: besides the Ingvaeonic nasal spirant law, which is present in Low German as well, Anglo-Frisian brightening and palatalization of /k/ are for the most part unique to the modern Anglo-Frisian languages: 
+
+English cheese, Scots cheese and West Frisian tsiis, but Dutch kaas, Low German Kees, and German Käse
+English church, and West Frisian tsjerke, but Dutch kerk, Low German Kerk, Kark, and German Kirche, though Scots kirk
+English sheep, Scots sheep and West Frisian skiep, but Dutch schaap (pl. schapen), Low German Schaap, German Schaf (pl. Schafe)
+The grouping is usually implied as a separate branch in regards to the tree model. According to this reading, English and Frisian would have had a proximal ancestral form in common that no other attested group shares. The early Anglo-Frisian varieties, like Old English and Old Frisian, and the third Ingvaeonic group at the time, the ancestor of Low German Old Saxon, were spoken by intercommunicating populations. While this has been cited as a reason for a few traits exclusively shared by Old Saxon and either Old English or Old Frisian, a genetic unity of the Anglo-Frisian languages beyond that of an Ingvaeonic subfamily cannot be considered a majority opinion. In fact, the groupings of Ingvaeonic and West Germanic languages are highly debated, even though they rely on much more innovations and evidence. Some scholars consider a Proto-Anglo-Frisian language as disproven, as far as such postulates are falsifiable. Nevertheless, the close ties and strong similarities between the Anglic and the Frisian grouping are part of the scientific consensus. Therefore, the concept of Anglo-Frisian languages can be useful and is today employed without these implications.
+Geography isolated the settlers of Great Britain from [Continental Europe](2221), except from contact with communities capable of open water navigation. This resulted in more Old Norse and Norman language influences during the development of Late Modern English, whereas the modern Frisian languages developed under contact with the southern Germanic populations, restricted to the continent.
+
+Classification
+The proposed Anglo-Frisian family tree is:
+
+[Anglic languages](4436)
+Anglic, Insular Germanic, or [English language](4401)s encompass Old English and all the linguistic varieties descended from it. These include Middle English, Early Modern English, and Late Modern English; Early Scots, Middle Scots, and Modern Scots; and the extinct Fingallian and Yola dialects in Ireland.
+English-based creole languages are not generally included, as mainly only their lexicon and not necessarily their grammar, phonology, etc. comes from Early Modern English and Late Modern English.
+
+Frisian languages
+The Frisian languages are a group of languages spoken by about 500,000 Frisian people on the southern fringes of the North Sea in the [Netherlands](2285) and Germany. West Frisian, by far the most spoken of the three main branches with 875,840 total speakers, constitutes an official language in the Dutch province of Friesland. North Frisian is spoken on some North Frisian Islands and parts of mainland North Frisia in the northernmost German district of Nordfriesland, and also in Heligoland in the German Bight, both part of Schleswig-Holstein state (Heligoland is part of its mainland district of Pinneberg). North Frisian has approximately 8,000 speakers. The East Frisian language is spoken by only about 2,000 people; speakers are located in Saterland in Germany.
+There are no known East Frisian dialects, but there are three dialects of West Frisian and ten of North Frisian.
+
+West Frisian dialects:
+Clay Frisian (Klaaifrysk)
+South or Southwest Frisian (Súdhoeksk)
+Wood Frisian (Wâldfrysk)
+North Frisian dialects:
+Insular dialects
+Sylt Frisian (Söl'ring)
+Föhr-Amrum Frisian (Fering, Öömrang)
+Heligolandic Frisian (Halunder)
+Mainland dialects
+Wiedingharde Frisian (Wiringhiirder)
+Bökingharde Frisian (Mooringer)
+Karrharde Frisian (Karrharder)
+Goesharde Frisian (Gooshiirder)
+Northern Goesharde Frisian (incl. Hooringer Fräisch & Hoolmer Freesch)
+Central Goesharde Frisian
+Southern Goesharde Frisian (extinct since early 1980s)
+Halligen Frisian (Halifreesk)
+
+Anglo-Frisian developments
+The following is a summary of the major sound changes affecting vowels in chronological order. For additional detail, see Phonological history of Old English. That these were simultaneous and in that order for all Anglo-Frisian languages is considered disproved by some scholars.
+
+Backing and nasalization of West Germanic a and ā before a nasal consonant
+Loss of n before a spirant, resulting in lengthening and nasalization of preceding vowel
+Single form for present and preterite plurals
+A-fronting: West Germanic a, ā > æ, ǣ, even in the diphthongs ai and au (see Anglo-Frisian brightening)
+palatalization of Proto-Germanic *k and *g before front vowels (but not phonemicization of palatals)
+A-restoration: æ, ǣ > a, ā under the influence of neighboring consonants
+Second fronting: OE dialects (except West Saxon) and Frisian ǣ > ē
+A-restoration: a restored before a back vowel in the following syllable (later in the Southumbrian dialects); Frisian æu > au > Old Frisian ā/a
+OE breaking; in West Saxon palatal diphthongization follows
+i-mutation followed by syncope; Old Frisian breaking follows
+Phonemicization of palatals and assibilation, followed by second fronting in parts of West Mercia
+Smoothing and back mutation
+
+Comparisons
+Numbers in Anglo-Frisian languages
+These are the words for the numbers one to 12 in the Anglo-Frisian languages, with Dutch, West-Flemish and German included for comparison:
+
+* Ae eː, jeː is an adjectival form used before nouns.
+
+Words in English, West Riding Yorkshire, Scots, Yola, West Frisian, Dutch, German and West-Flemish
+Alternative grouping
+North Sea Germanic, also known as Ingvaeonic, is a proposed grouping of the West Germanic languages that encompasses Old Frisian, Old English, and Old Saxon. The North Sea Germanic grouping may be regarded as an alternative to Anglo-Frisian, or as ancestral to it. 
+Since Anglo-Frisian features occur in Low German – especially in its older stages such as Old Saxon – some scholars regard the North Sea Germanic classification as more meaningful than a sharp division into Anglo-Frisian and Low German. In other words, because Old Saxon came under strong Old High German and Old Low Franconian influence at an early stage, it lost some North Sea Germanic features, that it had previously shared with Old English and Old Frisian. 
+North Sea Germanic is not thought of as a monolithic proto-language, but rather as a group of closely related dialects that underwent several areal changes in relative unison.
+The extinction of two little-attested and presumably North Sea Germanic languages, Old Old Anglian and Old Jutish, in their homelands (modern southern Schleswig and Jutland respectively), mat have led to a form of "survivorship bias" in classification. Since Old Anglian and Jutish were, like Old Saxon, direct ancestors of Old English, it might follow that Old Saxon, Old Anglian and/or Jutish were more closely related to English than any of them was to Frisian (or vice versa).
+North Sea Germanic, as a hypothetical grouping, was first proposed in Nordgermanen und Alemannen (1942) by the German linguist and philologist Friedrich Maurer (1898–1984),  as an alternative to the strict tree diagrams that had become popular following the work of the 19th-century linguist August Schleicher and which assumed the existence of an Anglo-Frisian group.
+
+See also
+High German languages
+Low Franconian languages
+
+Notes
+References
+Further reading
+Maurer, Friedrich (1942). Nordgermanen und Alemannen: Studien zur Sprachgeschichte, Stammes- und Volkskunde (in German). Strasbourg: Hünenburg.
+Euler, Wolfram (2013). Das Westgermanische West Germanic: from its Emergence in the 3rd up until its Dissolution in the 7th Century CE: Analyses and Reconstruction (in German). London/Berlin: Verlag Inspiration Un Ltd. p. 244. ISBN 978-3-9812110-7-8.
+Ringe, Don; Taylor, Ann (2014). The Development of Old English - A Linguistic History of English. Vol. 2. Oxford: University Press. ISBN 978-0199207848.

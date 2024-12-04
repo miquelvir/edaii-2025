@@ -1,0 +1,80 @@
+4222
+Andalusi Romance
+Andalusi Romance, also called Mozarabic or Ajami, refers to the varieties of Ibero-Romance that developed in [Al-Andalus](2905), the parts of the medieval [Iberian Peninsula](2686) under Islamic control. Romance, or vernacular Late Latin, was the common tongue for the great majority of the Iberian population at the time of the Umayyad conquest in the early eighth century, but over the following centuries, it was gradually superseded by Andalusi [Arabic](4233) as the main spoken language in the Muslim-controlled south. At the same time, as the northern Christian kingdoms pushed south into [Al-Andalus](2905), their respective Romance varieties (especially Castilian) gained ground at the expense of Andalusi Romance as well as [Arabic](4233). The final extinction of the former may be estimated to 1300 CE.
+The medieval Ibero-Romance varieties were broadly similar (with Castilian standing out as an outlier). Andalusi Romance was distinguished from the others not by its linguistic features primarily, but rather by virtue of being written in the [Arabic](4233) script. What is known or hypothesized about the particular linguistic features of Andalusi Romance is based on relatively sparse evidence, of which the kharjas, or closing lines of an Andalusi muwaššaḥ poem, are the most important.
+
+Names
+The traditional term for the Romance varieties used in al-Andalus is "Mozarabic", derived from Mozarab, (from the [Arabic](4233): مُسْتَعْرَب, romanized: musta‘rab, lit. 'Arabized') a term used to refer to Arabized Christians in al-Andalus. In the context of medieval Iberia, the term is first documented in Christian sources from the 11th century; it was not used by Muslims to describe Christians.: 16 
+
+Some scholars dislike the term for its ambiguity. According to Consuelo Lopez-Morillas:It has been objected that the term straddles ambiguously the realms of religion and language, and further implies, erroneously, that the dialect was spoken only by Christians. The very form of the word suggests (again a false perception) that it denotes a language somehow related to [Arabic](4233).: 47 To describe the varieties of Romance in al-Andalus, Spanish scholars are increasingly using romance andalusí (from the [Arabic](4233): أَنْدَلُسِيّ, romanized: andalusī, lit. 'of al-Andalus'), or Andalusi Romance in English.
+Speakers of Andalusi Romance, like speakers of Romance anywhere else on the peninsula, would have described their spoken language simply as "ladino", i.e. Latin. The term Ladino has since come to have the specialized sense of Judeo-Spanish. Arab writers used the terms al-Lathinī or al-'ajamīya (العَجَمِيَّة, from ʿajam, 'non-Arab').
+
+History
+Umayyad conquest
+Romance was the main language spoken by the population of Iberia when the Umayyads conquered Hispania in 711.: 46  Under Muslim rule, [Arabic](4233) became a superstrate prestige language and would remain the dominant vehicle of literature, high culture, and intellectual expression in Iberia for five centuries (8th–13th).: 36 
+Over the centuries, [Arabic](4233) spread gradually in [Al-Andalus](2905), primarily through conversion to Islam. While Alvarus of Cordoba lamented in the 9th century that Christians were no longer using Latin, Richard Bulliet estimates that only 50% of the population of al-Andalus had converted to Islam by the death of Abd al-Rahman III in 961, and 80% by 1100. By about 1260, Muslim territories in Iberia were reduced to the Emirate of Granada, in which more than 90% of the population had converted to Islam and [Arabic](4233)-Romance bilingualism seems to have disappeared.
+
+Archival record
+What is known or hypothesized of the particular linguistic features of Andalusi Romance is based on relatively sparse evidence, including Romance topographical and personal names, legal documents from the Mozarabs of Toledo, names in botanical texts, occasional isolated romance words in the zajal poetry of Ibn Quzman, and Pedro de Alcalá's Vocabulista.
+
+The Kharjas
+The discovery in the late 1940s of the Kharjas, refrains in Romance in muwashshah poetry otherwise written in [Arabic](4233) and Hebrew, illuminated some morphological and syntactic features of Andalusi Romance, including sentence rhythms and phrasal patterns.
+
+Influences
+Other than the obvious [Arabic](4233) influence, and remnants of a pre-Roman substratum, early Mozarabic may also have been affected by [African Romance](4208), which would have been carried over to the [Iberian Peninsula](2686) by the Berbers who made up most of the Islamic army that conquered it and remained prominent in the Andalusi administration and army for centuries to come. The possible interaction between these two Romance varieties has yet to be investigated.
+
+Language use
+Mozarabic was spoken by Mozarabs (Christians living as dhimmis), Muladis (natives converted to Islam), Jews, and possibly some of the ruling Arabs and Berbers. The cultural and literary language of the Mozarabs was at first Latin, but as time passed, it came to rather be [Arabic](4233), even among Christians.
+Due to the continual emigration of Mozarabs to the Christian kingdoms of the north, [Arabic](4233) toponyms are found even in places where Arab rule was ephemeral.
+Mozarabic had a significant impact on the formation of Spanish, especially [Andalusian Spanish](4223), and served as a vehicle for the transmission of numerous Andalusi [Arabic](4233) terms into both.
+
+Scripts
+Because Mozarabic was not a language of higher culture, such as Latin or [Arabic](4233), it had no standard writing system. Numerous Latin documents written by early Mozarabs are, however, extant.
+The bulk of surviving material in Mozarabic is found in the choruses (or kharjas) of Andalusi lyrical compositions known as muwashshahs, which were otherwise written in [Arabic](4233). The script used to write the Mozarabic kharjas was invariably [Arabic](4233) or Hebrew, less often the latter. This poses numerous problems for modern scholars attempting to interpret the underlying Mozarabic. Namely:
+
+[Arabic](4233) script:
+did not reliably indicate vowels
+relied on diacritical points, quite often lost or distorted when copying manuscripts, to distinguish the following series of consonants: b-t-ṯ-n-y; ğ-ḥ-ḫ; d-ḏ; r-z; s-s̆; ṣ-ḍ; ṭ-ẓ; '-ġ; f-q; and h-a (word-finally)
+rendered the following consonants in similar ways: r-w-d, ḏ; '-l-k (word-initially); ', ġ-f, q-m (word-initially and medially); n-y (word-finally)
+had no specific means to indicate the following Romance sounds: /p, v (β), ts, dz, s̺, z̺, tʃ, ʎ, ɲ, e, o/
+Hebrew script:
+also did not reliably indicate vowels
+rendered the following consonants in similar ways: r-d; g-n; y-w; k-f; s-m (word-finally)
+The overall effect of this, combined with the rampant textual corruption, is that modern scholars can freely substitute consonants and insert vowels to make sense of the kharjas, leading to considerable leeway, and hence inaccuracy, in interpretation.
+
+Phonological features
+It is widely agreed that Mozarabic had the following features:
+
+The diphthongs /au̯, ai̯/, the latter possibly changed to /ei̯/
+Diphthongization of stressed Latin /ŏ, ĕ/
+Palatalization and affrication of Latin /k/ before front vowels to /tʃ/
+Retention of Latin /j/ before front vowels
+Shift of the feminine plural /-as/ to /-es/
+The following two features remain a matter of debate, largely due to the ambiguity of the [Arabic](4233) script:
+
+Palatalization of Latin /nn, ll/ to /ɲ, ʎ/
+Lenition of intervocalic Latin /p t k s/ to /b d ɡ z/
+Much of the controversy over the voicing of Latin /p t k/ has centered on the [Arabic](4233) letters Qāf and Ṭāʾ, which in fact had both voiced and voiceless pronunciations in different varieties of [Arabic](4233). It is likely that both pronunciations were found in the [Iberian Peninsula](2686).
+Ramón Menéndez Pidal has shown (sporadic) evidence of voicing in Latin inscriptions from the south of the [Iberian Peninsula](2686) in the second century AD.
+There are a few cases of original Latin /t k/ being represented with indisputably voiced consonants in [Arabic](4233), like ɣ, d, and ð.
+
+Sample text
+Presented below is one of the few kharjas whose interpretation is secure from beginning to end. It has been transcribed from a late thirteen-century copy in Hebrew script, but it is also attested (in rather poor condition) in an [Arabic](4233) manuscript from the early twelfth century.
+
+Another kharja is presented below, transcribed from [Arabic](4233) script by García Gómez:
+
+However the above kharja, like most others, presents numerous textual difficulties. Below is Jones's transcription of it, with vowels inserted and uncertain readings italicized. Note the discrepancies.
+
+See also
+Aljamiado
+Mozarabs
+Mozarabic Rite
+Mozarabic art and architecture
+Andalusian [Arabic](4233)
+History of Spain
+
+Notes
+References
+
+
+== Bibliography ==

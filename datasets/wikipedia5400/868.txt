@@ -1,0 +1,26 @@
+868
+C character classification
+C character classification is a group of operations in the [C standard library](877) that test a character for membership in a particular class of characters; such as alphabetic, control, etc. Both single-byte, and wide characters are supported.
+
+History
+Early C programmers working on the Unix operating system developed programming idioms for classifying characters. For example, the following code evaluates as true for an ASCII letter character c:
+
+Eventually, the interface to common character classification functionality was codified in the [C standard library](877) file ctype.h.
+
+Implementation
+For performance, the standard character classification functions are usually implemented as macros instead of functions. But, due to limitations of macro evaluation, they are generally not implemented today as they were in early versions of Linux like:
+
+This can lead to an error when the macro parameter x is expanded to an expression with a side effect; for example: isdigit(x++). If the implementation was a function, then x would be incremented only once. But for this macro definition it is incremented twice.
+To eliminate this problem, a common implementation is for the macro to use table lookup. For example, the standard library provides an array of 256 integers – one for each character value – that each contain a bit-field for each supported classification. A macro references an integer by character value index and accesses the associated bit-field. For example, if the low bit indicates whether the character is a digit, then the isdigit macro could be written as:
+
+The macro argument, c, is referenced only once, so is evaluated only once.
+
+Overview of functions
+The functions that operate on single-byte characters are defined in ctype.h header file (cctype in [C++](640)). 
+The functions that operate on wide characters are defined in wctype.h header file (cwctype in [C++](640)).
+The classification is evaluated according to the effective locale.
+
+References
+
+
+== External links ==

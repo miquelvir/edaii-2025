@@ -1,0 +1,1318 @@
+1982
+Disk (mathematics)
+In geometry, a disk (also spelled disc) is the region in a plane bounded by a circle. A disk is said to be closed if it contains the circle that constitutes its boundary, and open if it does not.
+For a radius, 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+  
+, an open disk is usually denoted as 
+  
+    
+      
+        
+          D
+          
+            r
+          
+        
+      
+    
+    {\displaystyle D_{r}}
+  
+ and a closed disk is 
+  
+    
+      
+        
+          
+            
+              D
+              
+                r
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {D_{r}}}}
+  
+. However in the field of topology the closed disk is usually denoted as 
+  
+    
+      
+        
+          D
+          
+            2
+          
+        
+      
+    
+    {\displaystyle D^{2}}
+  
+ while the open disk is 
+  
+    
+      
+        int
+        ⁡
+        
+          D
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \operatorname {int} D^{2}}
+  
+.
+
+Formulas
+In Cartesian coordinates, the open disk of center 
+  
+    
+      
+        (
+        a
+        ,
+        b
+        )
+      
+    
+    {\displaystyle (a,b)}
+  
+ and radius R is given by the formula:
+
+  
+    
+      
+        D
+        =
+        {
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        
+          
+            
+              R
+            
+            
+              2
+            
+          
+        
+        :
+        (
+        x
+        −
+        a
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        y
+        −
+        b
+        
+          )
+          
+            2
+          
+        
+        <
+        
+          R
+          
+            2
+          
+        
+        }
+      
+    
+    {\displaystyle D=\{(x,y)\in {\mathbb {R} ^{2}}:(x-a)^{2}+(y-b)^{2}<R^{2}\}}
+  
+
+while the closed disk of the same center and radius is given by: 
+
+  
+    
+      
+        
+          
+            D
+            ¯
+          
+        
+        =
+        {
+        (
+        x
+        ,
+        y
+        )
+        ∈
+        
+          
+            
+              R
+            
+            
+              2
+            
+          
+        
+        :
+        (
+        x
+        −
+        a
+        
+          )
+          
+            2
+          
+        
+        +
+        (
+        y
+        −
+        b
+        
+          )
+          
+            2
+          
+        
+        ≤
+        
+          R
+          
+            2
+          
+        
+        }
+        .
+      
+    
+    {\displaystyle {\overline {D}}=\{(x,y)\in {\mathbb {R} ^{2}}:(x-a)^{2}+(y-b)^{2}\leq R^{2}\}.}
+  
+
+The area of a closed or open disk of radius R is πR2 (see area of a disk).
+
+Properties
+The disk has circular symmetry.
+The open disk and the closed disk are not topologically equivalent (that is, they are not homeomorphic), as they have different topological properties from each other. For instance, every closed disk is compact whereas every open disk is not compact. However from the viewpoint of algebraic topology they share many properties: both of them are contractible and so are homotopy equivalent to a single point. This implies that their fundamental groups are trivial, and all homology groups are trivial except the 0th one, which is isomorphic to Z. The Euler characteristic of a point (and therefore also that of a closed or open disk) is 1.
+Every continuous map from the closed disk to itself has at least one fixed point (we don't require the map to be bijective or even surjective); this is the case n=2 of the Brouwer fixed point theorem. The statement is false for the open disk:
+Consider for example the function
+
+  
+    
+      
+        f
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          (
+          
+            
+              
+                
+                  x
+                  +
+                  
+                    
+                      1
+                      −
+                      
+                        y
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                2
+              
+            
+            ,
+            y
+          
+          )
+        
+      
+    
+    {\displaystyle f(x,y)=\left({\frac {x+{\sqrt {1-y^{2}}}}{2}},y\right)}
+  
+
+which maps every point of the open unit disk to another point on the open unit disk to the right of the given one. But for the closed unit disk it fixes every point on the half circle 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          y
+          
+            2
+          
+        
+        =
+        1
+        ,
+        x
+        >
+        0.
+      
+    
+    {\displaystyle x^{2}+y^{2}=1,x>0.}
+
+As a statistical distribution
+A uniform distribution on a unit circular disk is occasionally encountered in statistics. It most commonly occurs in operations research in the mathematics of urban planning, where it may be used to model a population within a city. Other uses may take advantage of the fact that it is a distribution for which it is easy to compute the probability that a given set of linear inequalities will be satisfied. (Gaussian distributions in the plane require numerical quadrature.)
+"An ingenious argument via elementary functions" shows the mean Euclidean distance between two points in the disk to be ⁠128/45π⁠ ≈ 0.90541, while direct integration in polar coordinates shows the mean squared distance to be 1.
+If we are given an arbitrary location at a distance q from the center of the disk, it is also of interest to determine the average distance b(q) from points in the distribution to this location and the average square of such distances. The latter value can be computed directly as q2+⁠1/2⁠.
+
+Average distance to an arbitrary internal point
+To find b(q) we need to look separately at the cases in which the location is internal or external, i.e. in which q ≶ 1, and we find that in both cases the result can only be expressed in terms of complete elliptic integrals.
+If we consider an internal location, our aim (looking at the diagram) is to compute the expected value of r under a distribution whose density is ⁠1/π⁠ for 0 ≤ r ≤ s(θ), integrating in polar coordinates centered on the fixed location for which the area of a cell is r dr dθ ; hence
+
+  
+    
+      
+        b
+        (
+        q
+        )
+        =
+        
+          
+            1
+            π
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            2
+            π
+          
+        
+        
+          
+            d
+          
+        
+        θ
+        
+          ∫
+          
+            0
+          
+          
+            s
+            (
+            θ
+            )
+          
+        
+        
+          r
+          
+            2
+          
+        
+        
+          
+            d
+          
+        
+        r
+        =
+        
+          
+            1
+            
+              3
+              π
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            2
+            π
+          
+        
+        s
+        (
+        θ
+        
+          )
+          
+            3
+          
+        
+        
+          
+            d
+          
+        
+        θ
+        .
+      
+    
+    {\displaystyle b(q)={\frac {1}{\pi }}\int _{0}^{2\pi }{\textrm {d}}\theta \int _{0}^{s(\theta )}r^{2}{\textrm {d}}r={\frac {1}{3\pi }}\int _{0}^{2\pi }s(\theta )^{3}{\textrm {d}}\theta .}
+  
+
+Here s(θ) can be found in terms of q and θ using the Law of cosines. The steps needed to evaluate the integral, together with several references, will be found in the paper by Lew et al.; the result is that
+
+  
+    
+      
+        b
+        (
+        q
+        )
+        =
+        
+          
+            4
+            
+              9
+              π
+            
+          
+        
+        
+          
+            {
+          
+        
+        4
+        (
+        
+          q
+          
+            2
+          
+        
+        −
+        1
+        )
+        K
+        (
+        
+          q
+          
+            2
+          
+        
+        )
+        +
+        (
+        
+          q
+          
+            2
+          
+        
+        +
+        7
+        )
+        E
+        (
+        
+          q
+          
+            2
+          
+        
+        )
+        
+          
+            }
+          
+        
+      
+    
+    {\displaystyle b(q)={\frac {4}{9\pi }}{\biggl \{}4(q^{2}-1)K(q^{2})+(q^{2}+7)E(q^{2}){\biggr \}}}
+  
+
+where K and E are complete elliptic integrals of the first and second kinds. b(0) = ⁠2/3⁠; b(1) = ⁠32/9π⁠ ≈ 1.13177.
+
+Average distance to an arbitrary external point
+Turning to an external location, we can set up the integral in a similar way, this time obtaining
+
+  
+    
+      
+        b
+        (
+        q
+        )
+        =
+        
+          
+            2
+            
+              3
+              π
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                
+                  sin
+                
+              
+              
+                −
+                1
+              
+            
+            
+              
+                
+                  1
+                  q
+                
+              
+            
+          
+        
+        
+          
+            {
+          
+        
+        
+          s
+          
+            +
+          
+        
+        (
+        θ
+        
+          )
+          
+            3
+          
+        
+        −
+        
+          s
+          
+            −
+          
+        
+        (
+        θ
+        
+          )
+          
+            3
+          
+        
+        
+          
+            }
+          
+        
+        
+          
+            d
+          
+        
+        θ
+      
+    
+    {\displaystyle b(q)={\frac {2}{3\pi }}\int _{0}^{{\textrm {sin}}^{-1}{\tfrac {1}{q}}}{\biggl \{}s_{+}(\theta )^{3}-s_{-}(\theta )^{3}{\biggr \}}{\textrm {d}}\theta }
+  
+
+where the law of cosines tells us that s+(θ) and s–(θ) are the roots for s of the equation
+
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+        −
+        2
+        q
+        s
+        
+        
+          
+            cos
+          
+        
+        θ
+        +
+        
+          q
+          
+            2
+          
+        
+        
+        −
+        
+        1
+        =
+        0.
+      
+    
+    {\displaystyle s^{2}-2qs\,{\textrm {cos}}\theta +q^{2}\!-\!1=0.}
+  
+
+Hence
+
+  
+    
+      
+        b
+        (
+        q
+        )
+        =
+        
+          
+            4
+            
+              3
+              π
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                
+                  sin
+                
+              
+              
+                −
+                1
+              
+            
+            
+              
+                
+                  1
+                  q
+                
+              
+            
+          
+        
+        
+          
+            {
+          
+        
+        3
+        
+          q
+          
+            2
+          
+        
+        
+          
+            
+              cos
+            
+          
+          
+            2
+          
+        
+        θ
+        
+          
+            1
+            −
+            
+              q
+              
+                2
+              
+            
+            
+              
+                
+                  sin
+                
+              
+              
+                2
+              
+            
+            θ
+          
+        
+        +
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          q
+          
+            2
+          
+        
+        
+          
+            
+              sin
+            
+          
+          
+            2
+          
+        
+        θ
+        
+          
+            
+              )
+            
+          
+          
+            
+              
+                3
+                2
+              
+            
+          
+        
+        
+          
+            }
+          
+        
+        
+          
+            d
+          
+        
+        θ
+        .
+      
+    
+    {\displaystyle b(q)={\frac {4}{3\pi }}\int _{0}^{{\textrm {sin}}^{-1}{\tfrac {1}{q}}}{\biggl \{}3q^{2}{\textrm {cos}}^{2}\theta {\sqrt {1-q^{2}{\textrm {sin}}^{2}\theta }}+{\Bigl (}1-q^{2}{\textrm {sin}}^{2}\theta {\Bigr )}^{\tfrac {3}{2}}{\biggl \}}{\textrm {d}}\theta .}
+  
+
+We may substitute u = q sinθ  to get 
+
+  
+    
+      
+        
+          
+            
+              
+                b
+                (
+                q
+                )
+              
+              
+                
+                =
+                
+                  
+                    4
+                    
+                      3
+                      π
+                    
+                  
+                
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    {
+                  
+                
+                3
+                
+                  
+                    
+                      q
+                      
+                        2
+                      
+                    
+                    −
+                    
+                      u
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    −
+                    
+                      u
+                      
+                        2
+                      
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      (
+                      1
+                      −
+                      
+                        u
+                        
+                          2
+                        
+                      
+                      
+                        )
+                        
+                          
+                            
+                              3
+                              2
+                            
+                          
+                        
+                      
+                    
+                    
+                      
+                        q
+                        
+                          2
+                        
+                      
+                      −
+                      
+                        u
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    }
+                  
+                
+                
+                  
+                    d
+                  
+                
+                u
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    4
+                    
+                      3
+                      π
+                    
+                  
+                
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    {
+                  
+                
+                4
+                
+                  
+                    
+                      q
+                      
+                        2
+                      
+                    
+                    −
+                    
+                      u
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                    −
+                    
+                      u
+                      
+                        2
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        q
+                        
+                          2
+                        
+                      
+                      −
+                      1
+                    
+                    q
+                  
+                
+                
+                  
+                    
+                      1
+                      −
+                      
+                        u
+                        
+                          2
+                        
+                      
+                    
+                    
+                      
+                        q
+                        
+                          2
+                        
+                      
+                      −
+                      
+                        u
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    }
+                  
+                
+                
+                  
+                    d
+                  
+                
+                u
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    4
+                    
+                      3
+                      π
+                    
+                  
+                
+                
+                  
+                    {
+                  
+                
+                
+                  
+                    
+                      4
+                      q
+                    
+                    3
+                  
+                
+                
+                  
+                    (
+                  
+                
+                (
+                
+                  q
+                  
+                    2
+                  
+                
+                +
+                1
+                )
+                E
+                (
+                
+                  
+                    
+                      1
+                      
+                        q
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+                −
+                (
+                
+                  q
+                  
+                    2
+                  
+                
+                −
+                1
+                )
+                K
+                (
+                
+                  
+                    
+                      1
+                      
+                        q
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+                
+                  
+                    )
+                  
+                
+                −
+                (
+                
+                  q
+                  
+                    2
+                  
+                
+                −
+                1
+                )
+                
+                  
+                    (
+                  
+                
+                q
+                E
+                (
+                
+                  
+                    
+                      1
+                      
+                        q
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+                −
+                
+                  
+                    
+                      
+                        q
+                        
+                          2
+                        
+                      
+                      −
+                      1
+                    
+                    q
+                  
+                
+                K
+                (
+                
+                  
+                    
+                      1
+                      
+                        q
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+                
+                  
+                    )
+                  
+                
+                
+                  
+                    }
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    4
+                    
+                      9
+                      π
+                    
+                  
+                
+                
+                  
+                    {
+                  
+                
+                q
+                (
+                
+                  q
+                  
+                    2
+                  
+                
+                +
+                7
+                )
+                E
+                (
+                
+                  
+                    
+                      1
+                      
+                        q
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+                −
+                
+                  
+                    
+                      
+                        q
+                        
+                          2
+                        
+                      
+                      −
+                      1
+                    
+                    q
+                  
+                
+                (
+                
+                  q
+                  
+                    2
+                  
+                
+                +
+                3
+                )
+                K
+                (
+                
+                  
+                    
+                      1
+                      
+                        q
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+                
+                  
+                    }
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b(q)&={\frac {4}{3\pi }}\int _{0}^{1}{\biggl \{}3{\sqrt {q^{2}-u^{2}}}{\sqrt {1-u^{2}}}+{\frac {(1-u^{2})^{\tfrac {3}{2}}}{\sqrt {q^{2}-u^{2}}}}{\biggr \}}{\textrm {d}}u\\0.6ex&={\frac {4}{3\pi }}\int _{0}^{1}{\biggl \{}4{\sqrt {q^{2}-u^{2}}}{\sqrt {1-u^{2}}}-{\frac {q^{2}-1}{q}}{\frac {\sqrt {1-u^{2}}}{\sqrt {q^{2}-u^{2}}}}{\biggr \}}{\textrm {d}}u\\0.6ex&={\frac {4}{3\pi }}{\biggl \{}{\frac {4q}{3}}{\biggl (}(q^{2}+1)E({\tfrac {1}{q^{2}}})-(q^{2}-1)K({\tfrac {1}{q^{2}}}){\biggr )}-(q^{2}-1){\biggl (}qE({\tfrac {1}{q^{2}}})-{\frac {q^{2}-1}{q}}K({\tfrac {1}{q^{2}}}){\biggr )}{\biggr \}}\\0.6ex&={\frac {4}{9\pi }}{\biggl \{}q(q^{2}+7)E({\tfrac {1}{q^{2}}})-{\frac {q^{2}-1}{q}}(q^{2}+3)K({\tfrac {1}{q^{2}}}){\biggr \}}\end{aligned}}}
+  
+
+using standard integrals.
+Hence again b(1) = ⁠32/9π⁠, while also
+
+  
+    
+      
+        
+          lim
+          
+            q
+            →
+            ∞
+          
+        
+        b
+        (
+        q
+        )
+        =
+        q
+        +
+        
+          
+            
+              1
+              
+                8
+                q
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \lim _{q\to \infty }b(q)=q+{\tfrac {1}{8q}}.}
+
+See also
+Unit disk, a disk with radius one
+Annulus (mathematics), the region between two concentric circles
+Ball (mathematics), the usual term for the 3-dimensional analogue of a disk
+Disk algebra, a space of functions on a disk
+Circular segment
+Orthocentroidal disk, containing certain centers of a triangle
+
+
+== References ==

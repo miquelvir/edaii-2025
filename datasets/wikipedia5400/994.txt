@@ -1,0 +1,10 @@
+994
+Flat neighborhood network
+Flat Neighborhood Network (FNN) is a topology for distributed computing and other computer networks. Each node connects to two or more switches which, ideally, entirely cover the node collection, so that each node can connect to any other node in two "hops" (jump up to one switch and down to the other node). This contrasts to topologies with fewer cables per node which communicate with remote nodes via intermediate nodes, as in Hypercube (see The Connection Machine).
+
+See also
+Thinking Machines Corporation built the Connection Machine employing hypercube topology for its compute nodes.
+Kentucky's Linux/Athlon Testbed KLAT2 is an archetypal implementation.
+
+External links
+The Aggregate (at the University of Kentucky) defines FNN and includes a bibliography.

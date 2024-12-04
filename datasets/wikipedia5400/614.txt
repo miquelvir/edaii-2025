@@ -1,0 +1,256 @@
+614
+Algorithmic efficiency
+In computer science, algorithmic efficiency is a property of an algorithm which relates to the amount of computational resources used by the algorithm. [Algorithm](612)ic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process.
+For maximum efficiency it is desirable to minimize resource usage. However, different resources such as time and space complexity cannot be compared directly, so which of two algorithms is considered to be more efficient often depends on which measure of efficiency is considered most important.
+For example, bubble sort and timsort are both algorithms to sort a list of items from smallest to largest. Bubble sort organizes the list in time proportional to the number of elements squared (
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\textstyle O(n^{2})}
+  
+, see [Big O notation](632)), but only requires a small amount of extra memory which is constant with respect to the length of the list (
+  
+    
+      
+        O
+        (
+        1
+        )
+      
+    
+    {\textstyle O(1)}
+  
+). Timsort sorts the list in time linearithmic (proportional to a quantity times its logarithm) in the list's length (
+  
+    
+      
+        O
+        (
+        n
+        log
+        ⁡
+        n
+        )
+      
+    
+    {\textstyle O(n\log n)}
+  
+), but has a space requirement linear in the length of the list (
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\textstyle O(n)}
+  
+). If large lists must be sorted at high speed for a given application, timsort is a better choice; however, if minimizing the memory footprint of the sorting is more important, bubble sort is a better choice.
+
+Background
+The importance of efficiency with respect to time was emphasized by [Ada Lovelace](606) in 1843 as applied to [Charles Babbage](649)'s mechanical analytical engine:
+
+"In almost every computation a great variety of arrangements for the succession of the processes is possible, and various considerations must influence the selections amongst them for the purposes of a calculating engine. One essential object is to choose that arrangement which shall tend to reduce to a minimum the time necessary for completing the calculation"
+Early electronic computers had both limited speed and limited random access memory. Therefore, a space–time trade-off occurred. A task could use a fast algorithm using a lot of memory, or it could use a slow algorithm using little memory. The engineering trade-off was therefore to use the fastest algorithm that could fit in the available memory.
+Modern computers are significantly faster than early computers and have a much larger amount of memory available (gigabytes instead of kilobytes). Nevertheless, Donald Knuth emphasized that efficiency is still an important consideration:
+
+  "In established engineering disciplines a 12% improvement, easily obtained, is never considered marginal and I believe the same viewpoint should prevail in software engineering"
+
+Overview
+An algorithm is considered efficient if its resource consumption, also known as computational cost, is at or below some acceptable level. Roughly speaking, 'acceptable' means:  it will run in a reasonable amount of time or space on an available computer, typically as a function of the size of the input. Since the 1950s computers have seen dramatic increases in both the available computational power and in the available amount of memory, so current acceptable levels would have been unacceptable even 10 years ago. In fact, thanks to the approximate doubling of computer power every 2 years, tasks that are acceptably efficient on modern smartphones and embedded systems may have been unacceptably inefficient for industrial servers 10 years ago.
+Computer manufacturers frequently bring out new models, often with higher performance. Software costs can be quite high, so in some cases the simplest and cheapest way of getting higher performance might be to just buy a faster computer, provided it is compatible with an existing computer.
+There are many ways in which the resources used by an algorithm can be measured: the two most common measures are speed and memory usage; other measures could include transmission speed, temporary disk usage, long-term disk usage, power consumption, total cost of ownership, response time to external stimuli, etc. Many of these measures depend on the size of the input to the algorithm, i.e. the amount of data to be processed. They might also depend on the way in which the data is arranged; for example, some sorting algorithms perform poorly on data which is already sorted, or which is sorted in reverse order.
+In practice, there are other factors which can affect the efficiency of an algorithm, such as requirements for accuracy and/or reliability. As detailed below, the way in which an algorithm is implemented can also have a significant effect on actual efficiency, though many aspects of this relate to optimization issues.
+
+Theoretical analysis
+In the theoretical analysis of algorithms, the normal practice is to estimate their complexity in the asymptotic sense. The most commonly used notation to describe resource consumption or "complexity" is Donald Knuth's [Big O notation](632), representing the complexity of an algorithm as a function of the size of the input 
+  
+    
+      
+        n
+      
+    
+    {\textstyle n}
+  
+. [Big O notation](632) is an asymptotic measure of function complexity, where 
+  
+    
+      
+        f
+        (
+        n
+        )
+        =
+        O
+        
+          
+            (
+          
+        
+        g
+        (
+        n
+        )
+        
+          
+            )
+          
+        
+      
+    
+    {\textstyle f(n)=O{\bigl (}g(n){\bigr )}}
+  
+ roughly means the time requirement for an algorithm is proportional to 
+  
+    
+      
+        g
+        (
+        n
+        )
+      
+    
+    {\displaystyle g(n)}
+  
+, omitting lower-order terms that contribute less than 
+  
+    
+      
+        g
+        (
+        n
+        )
+      
+    
+    {\displaystyle g(n)}
+  
+ to the growth of the function as 
+  
+    
+      
+        n
+      
+    
+    {\textstyle n}
+  
+ grows arbitrarily large. This estimate may be misleading when 
+  
+    
+      
+        n
+      
+    
+    {\textstyle n}
+  
+ is small, but is generally sufficiently accurate when 
+  
+    
+      
+        n
+      
+    
+    {\textstyle n}
+  
+ is large as the notation is asymptotic. For example, bubble sort may be faster than merge sort when only a few items are to be sorted; however either implementation is likely to meet performance requirements for a small list. Typically, programmers are interested in algorithms that scale efficiently to large input sizes, and merge sort is preferred over bubble sort for lists of length encountered in most data-intensive programs.
+Some examples of [Big O notation](632) applied to algorithms' asymptotic time complexity include:
+
+Measuring performance
+For new versions of software or to provide comparisons with competitive systems, benchmarks are sometimes used, which assist with gauging an algorithms relative performance. If a new sort algorithm is produced, for example, it can be compared with its predecessors to ensure that at least it is efficient as before with known data, taking into consideration any functional improvements. Benchmarks can be used by customers when comparing various products from alternative suppliers to estimate which product will best suit their specific requirements in terms of functionality and performance. For example, in the mainframe world certain proprietary sort products from independent software companies such as Syncsort compete with products from the major suppliers such as IBM for speed.
+Some benchmarks provide opportunities for producing an analysis comparing the relative speed of various compiled and interpreted languages for example
+and The Computer Language Benchmarks Game compares the performance of implementations of typical programming problems in several programming languages.
+Even creating "do it yourself" benchmarks can demonstrate the relative performance of different programming languages, using a variety of user specified criteria. This is quite simple, as a "Nine language performance roundup" by Christopher W. Cowell-Shah demonstrates by example.
+
+Implementation concerns
+Implementation issues can also have an effect on efficiency, such as the choice of programming language, or the way in which the algorithm is actually coded, or the choice of a compiler for a particular language, or the compilation options used, or even the operating system being used. In many cases a language implemented by an interpreter may be much slower than a language implemented by a compiler. See the articles on just-in-time compilation and interpreted languages.
+There are other factors which may affect time or space issues, but which may be outside of a programmer's control; these include data alignment, data granularity, cache locality, cache coherency, garbage collection, instruction-level parallelism, multi-threading (at either a hardware or software level), simultaneous multitasking, and subroutine calls.
+Some processors have capabilities for vector processing, which allow a single instruction to operate on multiple operands; it may or may not be easy for a programmer or compiler to use these capabilities. [Algorithm](612)s designed for sequential processing may need to be completely redesigned to make use of parallel processing, or they could be easily reconfigured. As parallel and distributed computing grow in importance in the late 2010s, more investments are being made into efficient high-level APIs for parallel and distributed computing systems such as CUDA, TensorFlow, Hadoop, OpenMP and MPI.
+Another problem which can arise in programming is that processors compatible with the same instruction set (such as x86-64 or ARM) may implement an instruction in different ways, so that instructions which are relatively fast on some models may be relatively slow on other models. This often presents challenges to optimizing compilers, which must have extensive knowledge of the specific CPU and other hardware available on the compilation target to best optimize a program for performance. In the extreme case, a compiler may be forced to emulate instructions not supported on a compilation target platform, forcing it to generate code or link an external library call to produce a result that is otherwise incomputable on that platform, even if it is natively supported and more efficient in hardware on other platforms. This is often the case in embedded systems with respect to floating-point arithmetic, where small and low-power microcontrollers often lack hardware support for floating-point arithmetic and thus require computationally expensive software routines to produce floating point calculations.
+
+Measures of resource usage
+Measures are normally expressed as a function of the size of the input 
+  
+    
+      
+        
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {n}}
+  
+.
+The two most common measures are:
+
+Time: how long does the algorithm take to complete?
+Space: how much working memory (typically RAM) is needed by the algorithm? This has two aspects: the amount of memory needed by the code (auxiliary space usage), and the amount of memory needed for the data on which the code operates (intrinsic space usage).
+For computers whose power is supplied by a battery (e.g. laptops and smartphones), or for very long/large calculations (e.g. supercomputers), other measures of interest are:
+
+Direct power consumption: power needed directly to operate the computer.
+Indirect power consumption: power needed for cooling, lighting, etc.
+As of 2018, power consumption is growing as an important metric for computational tasks of all types and at all scales ranging from embedded Internet of things devices to system-on-chip devices to server farms. This trend is often referred to as green computing.
+Less common measures of computational efficiency may also be relevant in some cases:
+
+Transmission size: bandwidth could be a limiting factor. Data compression can be used to reduce the amount of data to be transmitted. Displaying a picture or image (e.g. Google logo) can result in transmitting tens of thousands of bytes (48K in this case) compared with transmitting six bytes for the text "Google". This is important for I/O bound computing tasks.
+External space: space needed on a disk or other external memory device; this could be for temporary storage while the algorithm is being carried out, or it could be long-term storage needed to be carried forward for future reference.
+Response time (latency): this is particularly relevant in a real-time application when the computer system must respond quickly to some external event.
+Total cost of ownership: particularly if a computer is dedicated to one particular algorithm.
+
+Time
+Theory
+[Analysis of algorithms](616), typically using concepts like time complexity, can be used to get an estimate of the running time as a function of the size of the input data. The result is normally expressed using [Big O notation](632). This is useful for comparing algorithms, especially when a large amount of data is to be processed. More detailed estimates are needed to compare algorithm performance when the amount of data is small, although this is likely to be of less importance. Parallel algorithms may be more difficult to analyze.
+
+Practice
+A benchmark can be used to assess the performance of an algorithm in practice. Many programming languages have an available function which provides CPU time usage. For long-running algorithms the elapsed time could also be of interest. Results should generally be averaged over several tests.
+Run-based profiling can be very sensitive to hardware configuration and the possibility of other programs or tasks running at the same time in a multi-processing and multi-programming environment.
+This sort of test also depends heavily on the selection of a particular programming language, compiler, and compiler options, so algorithms being compared must all be implemented under the same conditions.
+
+Space
+This section is concerned with use of memory resources (registers, cache, RAM, virtual memory, secondary memory) while the algorithm is being executed. As for time analysis above, analyze the algorithm, typically using space complexity analysis to get an estimate of the run-time memory needed as a function as the size of the input data. The result is normally expressed using [Big O notation](632).
+There are up to four aspects of memory usage to consider:
+
+The amount of memory needed to hold the code for the algorithm.
+The amount of memory needed for the input data.
+The amount of memory needed for any output data.
+Some algorithms, such as sorting, often rearrange the input data and do not need any additional space for output data. This property is referred to as "in-place" operation.
+The amount of memory needed as working space during the calculation.
+This includes local variables and any stack space needed by routines called during a calculation; this stack space can be significant for algorithms which use recursive techniques.
+Early electronic computers, and early home computers, had relatively small amounts of working memory. For example, the 1949 Electronic Delay Storage Automatic Calculator (EDSAC) had a maximum working memory of 1024 17-bit words, while the 1980 Sinclair ZX80 came initially with 1024 8-bit bytes of working memory. In the late 2010s, it is typical for personal computers to have between 4 and 32 GB of RAM, an increase of over 300 million times as much memory.
+
+Caching and memory hierarchy
+Modern computers can have relatively large amounts of memory (possibly gigabytes), so having to squeeze an algorithm into a confined amount of memory is not the kind of problem it used to be. However, the different types of memory and their relative access speeds can be significant:
+
+Processor registers, are the fastest memory with the least amount of space. Most direct computation on modern computers occurs with source and destination operands in registers before being updated to the cache, main memory and virtual memory if needed. On a processor core, there are typically on the order of hundreds of bytes or fewer of register availability, although a register file may contain more physical registers than architectural registers defined in the instruction set architecture.
+Cache memory is the second fastest, and second smallest, available in the memory hierarchy. Caches are present in processors such as CPUs or GPUs, where they are typically implemented in static RAM, though they can also be found in peripherals such as disk drives. Processor caches often have their own multi-level hierarchy; lower levels are larger, slower and typically shared between processor cores in multi-core processors. In order to process operands in cache memory, a processing unit must fetch the data from the cache, perform the operation in registers and write the data back to the cache. This operates at speeds comparable (about 2-10 times slower) with the CPU or GPU's arithmetic logic unit or floating-point unit if in the L1 cache. It is about 10 times slower if there is an L1 cache miss and it must be retrieved from and written to the L2 cache, and a further 10 times slower if there is an L2 cache miss and it must be retrieved from an L3 cache, if present.
+Main physical memory is most often implemented in dynamic RAM (DRAM). The main memory is much larger (typically gigabytes compared to ≈8 megabytes) than an L3 CPU cache, with read and write latencies typically 10-100 times slower. As of 2018, RAM is increasingly implemented on-chip of processors, as CPU or GPU memory.
+Paged memory, often used for virtual memory management, is memory stored in secondary storage such as a hard disk, and is an extension to the memory hierarchy which allows use of a potentially larger storage space, at the cost of much higher latency, typically around 1000 times slower than a cache miss for a value in RAM. While originally motivated to create the impression of higher amounts of memory being available than were truly available, virtual memory is more important in contemporary usage for its time-space tradeoff and enabling the usage of virtual machines. Cache misses from main memory are called page faults, and incur huge performance penalties on programs.
+An algorithm whose memory needs will fit in cache memory will be much faster than an algorithm which fits in main memory, which in turn will be very much faster than an algorithm which has to resort to paging. Because of this, cache replacement policies are extremely important to high-performance computing, as are cache-aware programming and data alignment. To further complicate the issue, some systems have up to three levels of cache memory, with varying effective speeds. Different systems will have different amounts of these various types of memory, so the effect of algorithm memory needs can vary greatly from one system to another.
+In the early days of electronic computing, if an algorithm and its data would not fit in main memory then the algorithm could not be used. Nowadays the use of virtual memory appears to provide much more memory, but at the cost of performance. Much higher speed can be obtained if an algorithm and its data fit in cache memory; in this case minimizing space will also help minimize time. This is called the principle of locality, and can be subdivided into locality of reference, spatial locality, and temporal locality. An algorithm which will not fit completely in cache memory but which exhibits locality of reference may perform reasonably well.
+
+See also
+[Analysis of algorithms](616)—how to determine the resources needed by an algorithm
+Benchmark—a method for measuring comparative execution times in defined cases
+Best, worst and average case—considerations for estimating execution times in three scenarios
+[Compiler](662) optimization—compiler-derived optimization
+[Computational complexity](668) theory
+Computer performance—computer hardware metrics
+Empirical algorithmics—the practice of using empirical methods to study the behavior of algorithms
+Optimization (computer science)
+Performance analysis—methods of measuring actual performance of an algorithm at run-time
+
+
+== References ==

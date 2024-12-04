@@ -1,0 +1,18 @@
+608
+Adaptive software development
+Adaptive software development (ASD) is a software development process that grew out of the work by Jim Highsmith and Sam Bayer on rapid application development (RAD). It embodies the principle that continuous adaptation of the process to the work at hand is the normal state of affairs.
+
+Adaptive software development replaces the traditional waterfall cycle with a repeating series of speculate, collaborate, and learn cycles. This dynamic cycle provides for continuous learning and adaptation to the emergent state of the project. The characteristics of an ASD life cycle are that it is mission focused, feature based, iterative, timeboxed, risk driven, and change tolerant. As with RAD, ASD is also an antecedent to agile software development.
+The word speculate refers to the paradox of planning – it is more likely to assume that all stakeholders are comparably wrong for certain aspects of the project’s mission, while trying to define it. During speculation, the project is initiated and adaptive cycle planning is conducted.
+Adaptive cycle planning uses project initiation information—the customer’s
+mission statement, project constraints (e.g., delivery dates or user descriptions), and
+basic requirements—to define the set of release cycles (software increments) that
+will be required for the project.
+Collaboration refers to the efforts for balancing the work based on predictable parts of the environment (planning and guiding them) and adapting to the uncertain surrounding mix of changes caused by various factors, such as technology, requirements, stakeholders, software vendors.  The learning cycles, challenging all stakeholders, are based on the short iterations with design, build and testing. During these iterations the knowledge is gathered by making small mistakes based on false assumptions and correcting those mistakes, thus leading to greater experience and eventually mastery in the problem domain.
+
+References
+
+Adaptive Software Development: A Collaborative Approach to Managing Complex Systems, Highsmith, J.A., 2000 New York: Dorset House, 392pp, ISBN 0-932633-40-4
+Agile Project Management: Creating Innovative Products, Addison-Wesley, Jim Highsmith, March 2004, 277pp, ISBN 0-321-21977-5
+Lev Virine & Michael Trumper (2007). Project Decisions: The Art and Science. Management Concepts. ISBN 978-1-56726-217-9.
+Software Engineering: A Practitioner's Approach, Roger Pressman, Bruce Maxim. ISBN 978-0078022128

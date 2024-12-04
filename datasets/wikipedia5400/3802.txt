@@ -1,0 +1,14 @@
+3802
+238 Hypatia
+238 [Hypatia](3801) is a large main-belt asteroid that was discovered by Russian astronomer Viktor Knorre on July 1, 1884, in [Berlin](1387). It was the third of his four asteroid discoveries. The name was given in honour of philosopher [Hypatia](3801) of Alexandria. Based upon the spectrum, it is classified as a C-type asteroid and is probably composed of primitive carbonaceous material. Like many asteroids of this type, its surface is very dark in colour.
+
+Photometric observations of this asteroid at the European Southern Observatory in 1981 gave a light curve with a period of 8.9 ± 0.1 hours and a brightness variation of 0.12 in magnitude. Stellar occultation events were observed for this asteroid during 2001 and 2005. The resulting chords provided cross-section diameter estimates of 146.5 and 145.3 km, respectively.
+
+References
+External links
+The Asteroid Orbital Elements Database
+Minor Planet Discovery Circumstances
+Asteroid Lightcurve Data File
+238 [Hypatia](3801) at AstDyS-2, Asteroids—Dynamic Site
+Ephemeris · Observation prediction · Orbital info · Proper elements · Observational info
+238 [Hypatia](3801) at the JPL Small-Body Database

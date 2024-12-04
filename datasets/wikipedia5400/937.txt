@@ -1,0 +1,68 @@
+937
+Clock synchronization
+Clock synchronization is a topic in computer science and engineering that aims to coordinate otherwise independent clocks. Even when initially set accurately, real clocks will differ after some amount of time due to clock drift, caused by clocks counting time at slightly different rates. There are several problems that occur as a result of clock rate differences and several solutions, some being more acceptable than others in certain contexts.
+
+Terminology
+In serial communication, clock synchronization can refer to clock recovery which achieves frequency synchronization, as opposed to full phase synchronization. Such clock synchronization is used in synchronization in telecommunications and automatic baud rate detection.
+Plesiochronous or isochronous operation refers to a system with frequency synchronization and loose constraints on phase synchronization. Synchronous operation implies a tighter synchronization based on time perhaps in addition to frequency.
+
+Problems
+As a result of the difficulties managing time at smaller scales, there are problems associated with clock skew that take on more complexity in distributed computing in which several computers will need to realize the same global time. For instance, in Unix systems the make command is used to compile new or modified code and seeks to avoid recompiling unchanged code. The make command uses the clock of the machine it runs on to determine which source files need to be recompiled. If the sources reside on a separate file server and the two machines have unsynchronized clocks, the make program might not produce the correct results.
+Synchronization is required for accurate reproduction of streaming media. Clock synchronization is a significant component of audio over Ethernet systems.
+
+Solutions
+In a system with a central server, the synchronization solution is trivial; the server will dictate the system time.  Cristian's algorithm and the Berkeley algorithm are potential solutions to the clock synchronization problem in this environment.
+In distributed computing, the problem takes on more complexity because a global time is not easily known. The most used clock synchronization solution on the Internet is the Network Time Protocol (NTP) which is a layered client-server architecture based on User Datagram Protocol (UDP) message passing. Lamport timestamps and vector clocks are concepts of the logical clock in distributed computing.
+In a wireless network, the problem becomes even more challenging due to the possibility of collision of the synchronization packets on the wireless medium and the higher drift rate of clocks on low-cost wireless devices.
+
+Berkeley algorithm
+The Berkeley algorithm is suitable for systems where a radio clock is not present. This system has no way of making sure of the actual time other than by maintaining a global average time as the global time. A time server will periodically fetch the time from all the time clients, average the results, and then report back to the clients the adjustment that needs be made to their local clocks to achieve the average.  This algorithm highlights the fact that internal clocks may vary not only in the time they contain but also in the clock rate.
+
+Clock-sampling mutual network synchronization
+Clock-sampling mutual network synchronization (CS-MNS) is suitable for distributed and mobile applications. It has been shown to be scalable over mesh networks that include indirectly-linked non-adjacent nodes, and is compatible with IEEE 802.11 and similar standards. It can be accurate to the order of few microseconds, but requires direct physical wireless connectivity with negligible link delay (less than 1 microsecond) on links between adjacent nodes, limiting the distance between neighboring nodes to a few hundred meters.
+
+Cristian's algorithm
+Cristian's algorithm relies on the existence of a time server.  The time server maintains its clock by using a radio clock or other accurate time source, then all other computers in the system stay synchronized with it.  A time client will maintain its clock by making a procedure call to the time server.  Variations of this algorithm make more precise time calculations by factoring in network radio propagation time.
+
+Satellite navigation systems
+In addition to its use in navigation, the Global Positioning System (GPS) can also be used for clock synchronization. The accuracy of GPS time signals is ±10 nanoseconds. Using GPS (or other satellite navigation systems) for synchronization requires a receiver connected to an antenna with unobstructed view of the sky.
+
+Inter-range Instrumentation Group time codes
+IRIG timecodes are standard formats for transferring timing information. Atomic frequency standards and GPS receivers designed for precision timing are often equipped with an IRIG output. The standards were created by the Telecommunications Working Group of the United States military's Inter-Range Instrumentation Group (IRIG), the standards body of the Range Commanders Council. Work on these standards started in October 1956, and the original standards were accepted in 1960.
+
+Network Time Protocol
+Network Time Protocol (NTP) is a highly robust protocol, widely deployed throughout the Internet. Well tested over the years, it is generally regarded as the state of the art in distributed time synchronization protocols for unreliable networks. It can reduce synchronization offsets to times of the order of a few milliseconds over the public Internet, and to sub-millisecond levels over local area networks.
+A simplified version of the NTP protocol, Simple Network Time Protocol (SNTP), can also be used as a pure single-shot stateless primary/secondary synchronization protocol, but lacks the sophisticated features of NTP, and thus has much lower performance and reliability levels.
+
+Precision Time Protocol
+Precision Time Protocol (PTP) is a master/slave protocol for delivery of highly accurate time over local area networks.
+
+Reference broadcast synchronization
+The Reference Broadcast Time Synchronization (RBS) algorithm is often used in wireless networks and sensor networks. In this scheme, an initiator broadcasts a reference message to urge the receivers to adjust their clocks.
+
+Reference Broadcast Infrastructure Synchronization
+The Reference Broadcast Infrastructure Synchronization (RBIS) protocol is a master/slave synchronization protocol, like RBS, based on a receiver/receiver synchronization paradigm. It is specifically tailored to be used in IEEE 802.11 wireless networks configured in infrastructure mode (i.e., coordinated by an access point). The protocol does not require any modification to the access point.
+
+Synchronous Ethernet
+Synchronous Ethernet uses Ethernet in a synchronous manner such that when combined with synchronization protocols such as PTP in the case of the White Rabbit Project, sub-nanosecond synchronization accuracy is achieved.
+
+Wireless ad hoc networks
+Synchronization is achieved in wireless ad hoc networks through sending synchronization messages in a multi-hop manner and each node progressively synchronizing with the node that is the immediate sender of a synchronization message. Examples include Flooding Time Synchronization Protocol (FTSP), and Harmonia, both able to achieve synchronization with accuracy on the order of microseconds.
+
+Huygens
+Researchers from Stanford and Google introduced Huygens, a probe-based, end-to-end clock synchronization algorithm. Huygens is implemented in software and thus can be deployed in data centers or in public cloud environments. By leveraging some key aspects of modern data centers, and applying novel estimation algorithms and signal processing techniques, the Huygens algorithm achieved an accuracy of tens of nanoseconds even at high network load. The findings of this research are being tested in financial market applications.
+
+See also
+Einstein synchronisation
+International Atomic Time
+Network Identity and Time Zone
+Synchronization (computer science)
+Time and frequency transfer
+Time signal
+Time standard
+Reference Broadcast Infrastructure Synchronization
+
+References
+Further reading
+Govindan Kannan, Pravein.; Joshi, Raj.; Chan, Mun Choon. (Apr 2019), "Precise Time-synchronization in the Data-Plane using Programmable Switching ASICs", Proceedings of the 2019 ACM Symposium on SDN Research, ACM, pp. 8–20, doi:10.1145/3314148.3314353, ISBN 9781450367103, S2CID 85518997
+Exploiting a Natural Network Effect for Scalable, Fine-grained Clock Synchronization, ISBN 9781939133014, retrieved 2021-10-19

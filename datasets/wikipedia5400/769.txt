@@ -1,0 +1,75 @@
+769
+C++17
+[C++](640)17 is a version of the ISO/IEC 14882 standard for the [C++](640) programming language. [C++](640)17 replaced the prior version of the [C++](640) standard, called [C++](640)14, and was later replaced by [C++](640)20.
+
+History
+Before the [C++](640) Standards Committee fixed a 3-year release cycle, [C++](640)17's release date was uncertain. In that time period, the [C++](640)17 revision was also called [C++](640)1z, following [C++](640)0x or [C++](640)1x for [C++](640)11 and [C++](640)1y for [C++](640)14. The [C++](640)17 specification reached the Draft International Standard (DIS) stage in March 2017. This DIS was unanimously approved, with only editorial comments, and the final standard was published in December 2017. Few changes were made to the [C++](640) Standard Template Library, although some algorithms in the <algorithm> header were given support for explicit parallelization and some syntactic enhancements were made.
+
+New features
+[C++](640)17 introduced many new features. The following lists may be incomplete.
+
+Language
+Making the text message for static_assert optional
+Allow typename (as an alternative to class) in a template template parameter
+New rules for auto deduction from braced-init-list
+Nested namespace definitions, e.g., namespace X::Y { … } instead of namespace X { namespace Y { … } }
+Allowing attributes for namespaces and enumerators
+New standard attributes fallthrough, maybe_unused and nodiscard
+UTF-8 (u8) character literals (UTF-8 string literals have existed since [C++](640)11; [C++](640)17 adds the corresponding character literals for consistency, though as they are restricted to a single byte they can only store "Basic Latin" and C0 control codes, i.e. ASCII)
+Hexadecimal floating-point literals
+Use of auto as the type for a non-type template parameter
+Constant evaluation for all non-type template arguments
+Fold expressions, for variadic templates
+A compile-time static if with the form if constexpr(expression)
+Structured binding declarations, allowing auto a, b = getTwoReturnValues();
+Initializers in if and switch statements
+copy-initialization and direct-initialization of objects of type T from prvalue expressions of type T (ignoring top-level cv-qualifiers) shall result in no copy or move constructors from the prvalue expression. See copy elision for more information.
+Some extensions on over-aligned memory allocation
+Class template argument deduction (CTAD), introducing constructor deduction guides, e.g. allowing std::pair(5.0, false) instead of requiring explicit constructor arguments types std::pair<double, bool>(5.0, false) or an additional helper template function std::make_pair(5.0, false).
+Inline variables, which allows the definition of variables in header files without violating the one definition rule. The rules are effectively the same as inline functions
+__has_include, allowing the availability of a header to be checked by preprocessor directives
+Value of __cplusplus changed to 201703L
+Exception specifications were made part of the function type
+Lambda expressions can capture "*this" by value
+
+Library
+Most of Library Fundamentals TS I, including:
+std::string_view, a read-only non-owning reference to a character sequence or string-slice
+std::optional, for representing optional objects, a data type that may not always be returned by a given algorithm with support for non-return
+std::any, for holding single values of any type
+std::uncaught_exceptions, as a replacement of std::uncaught_exception in exception handling
+New insertion functions try_emplace and insert_or_assign for std::map and std::unordered_map key-value associative data structures
+Uniform container access: std::size, std::empty and std::data
+Definition of "contiguous iterators"
+A file system library based on boost::filesystem
+Parallel versions of STL algorithms
+Additional mathematical special functions, including elliptic integrals and Bessel functions
+std::variant, a tagged union container
+std::byte, allowing char to be replaced for data types intending to model a byte of data as a byte rather than a character
+Logical operator traits: std::conjunction, std::disjunction and std::negation
+<memory_resource> header, for polymorphic memory resources
+
+Removed features
+This revision of [C++](640) not only added new features but also removed a few.
+
+Trigraphs were removed.
+Some deprecated types and functions were removed from the standard library, including std::auto_ptr, std::random_shuffle, and old function adaptors. These were superseded in [C++](640)11 by improved facilities such as std::unique_ptr, std::shuffle, std::bind, and lambdas.
+The (formerly deprecated) use of the keyword register as a storage class specifier was removed. This keyword is still reserved but now unused.
+
+Compiler support
+GCC has had complete support for [C++](640)17 language features since version 8.
+Clang 5 and later supports all [C++](640)17 language features.
+Visual Studio 2017 15.8 (MSVC 19.15) and later supports all [C++](640)17 language features.
+
+Library support
+libstdc++ since version 9.1 has complete support for [C++](640)17 (8.1 without Parallelism TS and referring to C99 instead of C11) 
+libc++ as of version 9 has partial support for [C++](640)17, with the remainder "in progress" 
+Visual Studio 2017 15.8 (MSVC 19.15) Standard Library and later supports all [C++](640)17 library features except for "Elementary String Conversions" and referring to C99 instead of C11. "Elementary String Conversions" is added in Visual Studio 2019 16.4
+
+See also
+[C++](640) compilers
+[C11 (C standard revision)](770)
+C17 (C standard revision)
+
+
+== References ==

@@ -1,0 +1,81 @@
+998
+GPUOpen
+GPUOpen is a middleware software suite originally developed by AMD's Radeon Technologies Group that offers advanced visual effects for computer games. It was released in 2016. GPUOpen serves as an alternative to, and a direct competitor of Nvidia GameWorks. GPUOpen is similar to GameWorks in that it encompasses several different graphics technologies as its main components that were previously independent and separate from one another. However, GPUOpen is partially open source software, unlike GameWorks which is proprietary and closed.
+
+History
+GPUOpen was announced on December 15, 2015, and released on January 26, 2016.
+
+Rationale
+Nicolas Thibieroz, AMD's Senior Manager of Worldwide Gaming Engineering, argues that "it can be difficult for developers to leverage their R&D investment on both consoles and PC because of the disparity between the two platforms" and that "proprietary libraries or tools chains with "black box" [API](708)s prevent developers from accessing the code for maintenance, porting or optimizations purposes". He says that upcoming architectures, such as AMD's RX 400 series "include many features not exposed today in PC graphics [API](708)s".
+AMD designed GPUOpen to be a competing open-source middleware stack released under the MIT License. The libraries are intended to increase software portability between video game consoles, PCs and also high-performance computing.
+
+Components
+GPUOpen unifies many of AMD's previously separate tools and solutions into one package, also fully open-sourcing them under the MIT License. GPUOpen also makes it easy for developers to get low-level GPU access.
+Additionally AMD wants to grant interested developers the kind of low-level "direct access" to their GCN-based GPUs, that surpasses the possibilities of Direct3D 12 or Vulkan. AMD mentioned e.g. a low-level access to the Asynchronous Compute Engines (ACEs). The ACE implement "Asynchronous Compute", but they cannot be freely configured under either Vulkan or Direct3D 12.
+GPUOpen is made up of several main components, tools, and SDKs.
+
+Games and CGI
+Software for computer-generated imagery (CGI) used in development of computer games and movies alike.
+
+Visual effects libraries
+FidelityFX
+FidelityFX Super Resolution
+FidelityFX Super Resolution (FSR) is used to upsample an input image into a higher resolution. There are multiple versions of FSR with distinctive upscaling technique and image quality:
+
+FSR 1 is a spatial upscaler based on or similar to the Lanczos algorithm, requiring an anti-aliased lower resolution image. It also performs edge reconstruction and gradient reversal. This is then followed by a contrast adaptive sharpening pass (RCAS) to reintroduce detail into the final image. (see the cited quotation below for more information)
+"FSR is composed of two main passes:
+An upscaling pass called EASU (Edge-Adaptive Spatial Upsampling) that also performs edge reconstruction. In this pass the input frame is analyzed and the main part of the algorithm detects gradient reversals – essentially looking at how neighboring gradients differ – from a set of input pixels. The intensity of the gradient reversals defines the weights to apply to the reconstructed pixels at display resolution.
+A sharpening pass called RCAS (Robust Contrast-Adaptive Sharpening) that extracts pixel detail in the upscaled image."
+FSR 2 is a temporal upscaler based on a modified Lanczos requiring an aliased lower resolution image and utilising the temporal data (such as motion vectors and frame history) and then applies its own antialiasing pass which replaces the game's temporal antialiasing solution.
+FSR 3 adds frame generation and "native antialiasing". Frame generation increases the perceived frame rate of a game. "Native antialiasing", similar to Nvidia's DLAA, can be used without upscaling for improved antialiasing; it can also be combined with frame generation and Anti-Lag+.
+The standard presets for FSR by AMD can be found in the table below. Note that these presets are not the only way in which the algorithm can be used, they are simply presets for input/output resolutions. Certain titles, such as Dota 2 have offered resolution sliders to fine tune the scaling percentage or dynamically scaling the internal render resolution depending on the FPS cap. AMD has also created a command line interface tool which allows the user to upscale any image using FSR1/EASU as in addition to other upsampling methods such as Bilinear Interpolation. It also allows the user to run various stages of the FSR pipeline, such as RCAS independently.
+
+FSR 2 can also be modded into nearly any game supporting DLSS by swapping the DLSS DLL with a translation layer DLL that maps the DLSS [API](708) calls to FSR 2 [API](708) calls.
+
+Frame Generation
+FSR 3 adds frame generation, a technique that creates new frames in between existing ones by using motion interpolation. Launching in September 2023, FSR 3 uses a combination of FSR 2 and optical flow analysis, which runs using asynchronous compute (as opposed to Nvidia's DLSS 3 which uses dedicated hardware). Because FSR 3 uses a software-based solution, it is compatible with GPUs from AMD, Nvidia, and Intel as well as the ninth generation of video game consoles. To combat additional latency inherent to the frame generation process, AMD has a driver-level feature called Anti-Lag, which only runs on AMD GPUs.
+AMD Fluid Motion Frames (AFMF) is a driver-level frame generation technology launching in Q1 2024 which is compatible with all DirectX 11 and DirectX 12 games, however it runs on RDNA 2 and RDNA 3 GPUs. AFMF uses optical flow analysis but not motion vectors, so it can only interpolate a new frame between two traditionally rendered frames. AFMF currently is not compatible with VSYNC.
+
+Tools
+The official AMD directory lists:
+
+Having been released by ATI Technologies under the BSD license in 2006 HLSL2GLSL is not part of GPUOpen. Whether similar tools for SPIR-V will be available remains to be seen, as is the official release of the Vulkan ([API](708)) itself. Source-code that has been defined as being part of GPUOpen is also part of the Linux kernel (e.g. amdgpu and amdkfd), Mesa 3D and LLVM.
+
+Software development kits
+Professional Compute
+As of 2022, AMD compute software ecosystem is regrouped under the ROCm metaproject.
+
+Software around Heterogeneous System Architecture (HSA), General-Purpose computing on Graphics Processing Units (GPGPU) and High-Performance Computing (HPC)
+
+Radeon Open Compute (ROCm)
+AMD's "Boltzmann Initiative" (named after Ludwig Boltzmann) was announced in November 2015 at the SuperComputing15 and productized as the Radeon Open Compute platform (ROCm). It aims to provide an alternative to Nvidia's [CUDA](928) which includes a tool to port [CUDA](928) source-code to portable (HIP) source-code which can be compiled on both HCC and NVCC.
+
+Radeon Open Compute Kernel (ROCK) driver
+Radeon Open Compute Runtime (ROCR) runtime
+HCC: Heterogeneous Compute Compiler
+HIP: [C++](640) Heterogeneous-Compute Interface for Portability
+
+Heterogeneous System Architecture
+HSAIL-GDB: provides an GNU Debugger-based debugging environment for HSA Intermediate Layer (HSAIL)
+HSA Runtime [API](708)s
+Linux amdkfd v1.6.1 release for Kaveri & Carrizo
+
+Various deprecated
+clFFT library for Fast Fourier transform written in OpenCL
+hcFFT library for Fast Fourier transform written in HCC-optimized [C++](640)
+
+Availability
+GPUOpen are available under the MIT license to the general public through GitHub starting on January 26, 2016.
+There is interlocking between GPUOpen and well established and widespread free software projects, e.g. Linux kernel, Mesa 3D and LLVM.
+
+See also
+ROCm
+AMD CodeXL
+Mantle
+Vulkan
+Deep learning super sampling
+
+References
+External links
+Official website
+List of games that support high-fidelity upscaling - List moved from Wikipedia to PCGamingWiki

@@ -1,0 +1,117 @@
+3116
+Albert A. Michelson
+Albert Abraham Michelson (surname pronunciation anglicized as Michael-son; December 19, 1852 – May 9, 1931) was a Prussian-born American physicist known for his work on measuring the speed of light and especially for the Michelson–Morley experiment. In 1907, he received the Nobel Prize in Physics, becoming the first American to win the Nobel Prize in a science. He was the founder and the first head of the physics departments of Case School of Applied Science (now Case Western Reserve University) and the University of Chicago.
+
+Life
+Michelson was born in Strelno, Posen, Kingdom of Prussia (modern-day Strzelno, Poland), to Jewish parents, the son of Samuel Michelson and his wife, Rozalia Przyłubska. He moved to the US with his parents in 1855, at the age of two. He grew up in the mining towns of Murphy's Camp, California, and Virginia City, Nevada, where his father was a merchant. His family was non-religious, and Michelson himself was a lifelong agnostic. He spent his high school years in San Francisco in the home of his aunt, Henriette Levy (née Michelson), who was the mother of author Harriet Lane Levy.
+His sister was the novelist Miriam Michelson.
+President Ulysses S. Grant awarded Michelson a special appointment to the U.S. Naval Academy in 1869. During his four years as a midshipman at the Academy, Michelson excelled in optics, heat, climatology and technical drawing. After graduating in 1873 and two years at sea, he returned to the Naval Academy in 1875 to become an instructor in physics and chemistry until 1879. In 1879, he was posted to the Nautical Almanac Office, Washington (part of the United States Naval Observatory), to work with Simon Newcomb. In the following year he obtained leave of absence to continue his studies in Europe. He visited the Universities of Berlin and Heidelberg, and the Collège de France and École Polytechnique in Paris.
+Michelson was fascinated with the sciences, and the problem of measuring the speed of light in particular. While at Annapolis, he conducted his first experiments on the speed of light, as part of a class demonstration in 1877. His Annapolis experiment was refined, and in 1879, he measured the speed of light in air to be 299864±51 kilometres per second, and estimated the speed of light in vacuum as 299940 km/s, or 186380 mi/s. After two years of studies in Europe, he resigned from the Navy in 1881. In 1883 he accepted a position as professor of physics at the Case School of Applied Science in Cleveland, Ohio, and concentrated on developing an improved interferometer. In 1887 he and Edward Morley carried out the famous Michelson–Morley experiment which failed to detect evidence of the existence of the luminiferous ether. He later moved on to use astronomical interferometers in the measurement of stellar diameters and in measuring the separations of binary stars.
+In 1889 Michelson became a professor at Clark University at Worcester, Massachusetts, and in 1892 was appointed professor and the first head of the department of physics at the newly organized University of Chicago. In 1902, he was elected as a member of the [American Philosophical Society](3133).
+In 1907, Michelson had the honor of being the first American to receive a Nobel Prize in Physics "for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid".  He also won the Copley Medal in 1907, the Henry Draper Medal in 1916 and the Gold Medal of the Royal Astronomical Society in 1923.  A crater on the Moon is named after him.
+He returned to military service in the closing months of World War One as a Lieutenant Commander in the Naval Reserve, serving in the Bureau of Ordnance. He was promoted to Commander in the reserve in May 1919 and was recalled briefly to active duty in the 9th Naval District before being released from service on 30 September 1921.
+Michelson died in Pasadena, California, at the age of 78. The University of Chicago Residence Halls remembered Michelson and his achievements by dedicating 'Michelson House' in his honor. Case Western Reserve has dedicated a Michelson House to him, and Michelson Hall (an academic building of science classrooms, laboratories and offices) at the United States Naval Academy also bears his name. Michelson Laboratory at Naval Air Weapons Station China Lake in Ridgecrest, California, is named for him. There is a display in the publicly accessible area of the Lab which includes facsimiles of Michelson's Nobel Prize medal, the prize document, and examples of his diffraction gratings. In 2017, a newly renovated physics research center at the University of Chicago was renamed in honor of Michelson as well.
+Numerous awards, lectures, and honors have been created in Albert A. Michelson's name. Some of the current awards and lectures named for Michelson include the following: the Bomem-Michelson Award and Lecture annually presented until 2017 by the Coblentz Society; the Michelson–Morley Award and Lecture, along with the Michelson Lecture Series, and the Michelson Postdoctoral Prize Lectureship, all of which are given annually by Case Western Reserve University; the A.A. Michelson Award presented every year by the Computer Measurement Group; the Albert A. Michelson Award given by the Navy League of the United States; and the Michelson Memorial Lecture Series presented annually by the Division of Mathematics and Science at the U.S. Naval Academy.
+
+Family
+In 1877 Michelson married Margaret Hemingway, daughter of a wealthy New York stockbroker and lawyer and the niece of his commander William T. Sampson. They had two sons and a daughter.
+In 1899, he married Edna Stanton. They raised three daughters.
+He is a great uncle of physicist Peter Michelson.
+
+Speed of light
+Early measurements
+Michelson was fascinated by light all his life.  Once asked why he studied light, he reputedly said, "because it's so much fun".
+As early as 1869, while serving as an officer in the United States Navy, Michelson started planning a repeat of the rotating-mirror method of Léon Foucault for measuring the speed of light, using improved optics and a longer baseline. He conducted some preliminary measurements using largely improvised equipment in 1878, about the same time that his work came to the attention of Simon Newcomb, director of the Nautical Almanac Office who was already advanced in planning his own study.
+Michelson's formal experiments took place in June and July 1879. He constructed a frame building along the north sea wall of the Naval Academy to house the machinery. Michelson published his result of 299,910 ± 50 km/s in 1879 before joining Newcomb in Washington DC to assist with his measurements there. Thus began a long professional collaboration and friendship between the two.
+Simon Newcomb, with his more adequately funded project, obtained a value of 299,860 ± 30 km/s, just at the extreme edge of consistency with Michelson's. Michelson continued to "refine" his method and in 1883 published a measurement of 299,853 ± 60 km/s, rather closer to that of his mentor.
+
+Mount Wilson and Lookout Mountain
+In 1906, a novel electrical method was used by E. B. Rosa and the National Bureau of Standards to obtain a value for the speed of light of 299,781 ± 10 km/s. Though this result has subsequently been shown to be severely biased by the poor electrical standards in use at the time, it seems to have set a fashion for rather lower measured values.
+From 1920, Michelson started planning a definitive measurement from the Mount Wilson Observatory, using a baseline to Lookout Mountain, a prominent bump on the south ridge of Mount San Antonio ("Old Baldy"), some 22 miles distant.
+In 1922, the United States Coast and Geodetic Survey began two years of painstaking measurement of the baseline using the recently available invar tapes. With the baseline length established in 1924, measurements were carried out over the next two years to obtain the published value of 299,796 ± 4 km/s.
+Famous as the measurement is, it was beset by problems, not least of which was the haze created by the smoke from forest fires which blurred the mirror image. It is also probable that the intensively detailed work of the geodetic survey, with an estimated error of less than one part in 1 million, was compromised by a shift in the baseline arising from the Santa Barbara earthquake of June 29, 1925, which was an estimated magnitude of 6.3 on the Richter scale.
+The now-famous Michelson–Morley experiment also influenced the affirmation attempts of peer Albert Einstein's theory of general relativity and special relativity, using similar optical instrumentation. These instruments and related collaborations included the participation of fellow physicists Dayton Miller, Hendrik Lorentz, and Robert Shankland.
+
+Michelson, Pease, and Pearson
+The period after 1927 marked the advent of new measurements of the speed of light using novel electro-optic devices, all substantially lower than Michelson's 1926 value.
+Michelson sought another measurement, but this time in an evacuated tube to avoid difficulties in interpreting the image owing to atmospheric effects. In 1929, he began a collaboration with Francis G. Pease and Fred Pearson to perform a measurement in a 1.6 km tube 3 feet in diameter at the Irvine Ranch near Santa Ana, California. In multiple reflections the light path was increased to 5 miles. For the first time in history the speed of light was measured in an almost perfect vacuum of 0.5 mm of mercury. Michelson died with only 36 of the 233 measurement series completed and the experiment was subsequently beset by geological instability and condensation problems before the result of 299774±11 km/s, consistent with the prevailing electro-optic values, was published posthumously in 1935.
+
+Application of basic statistical principles in Michelson's study of speed of light
+During June and early July 1879, Michelson refined experimental arrangements from those developed by Hippolyte Fizeau and Léon Foucault. The experimental setup was as follows: Light generated from a source is directed towards a rotating mirror through a slit on a fixed plate; the rotating mirror reflects the incoming light and at a certain angle, towards the direction where another fixed flat mirror is placed whose surface is perpendicular to the incoming ray of light; the rotating mirror should have rotated by an angle α by the time the ray of light travels back and is reflected again towards the fixed plate (the distance between the fixed mirror and the rotating one is recorded as D); a displacement from the slit is detected on the plate which measures d; the distance from the rotating mirror to the fixed plate is designated as the radius r while the number of revolutions per second of the mirror is recorded as ω. In this way, tan(2α) = d/r; Δt = (α/2π)/ω; speed of light can be derived as c = 2D/Δt.
+While at plain sight, four measured quantities are involved: distance D, radius r, displacement d and rotating mirror revolution per second ω, which seems simple; yet based on the limitation of the measurement technology at that time, great efforts were made by Michelson to reduce systematic errors and apply subsequent corrections. For instance, he adopted a steel measuring tape with a said length of 100 feet and he intended to measure tens of times across the distance; still, he measured its length against a copy of the official standard yard to find out it as 100.006 feet, thus eliminating a systematic error, albeit small.
+Aside from the efforts to reduce as much as possible the systematic errors, repeated measurements were performed at multiple levels to obtain more accurate results. As R.J. MacKay and R.W. Oldford remarked in their article, 'It is clear that Michelson appreciated the power of averaging to reduce variability in measurement', it is clear that Michelson had in mind the property that averages vary less which should be formally described as: the standard deviation of the average of n independent random variables is less than that of a single random variable by a factor of the square root of n. To realize that, he also strived to have each measurement not influencing each other, thus being mutually independent random variables.
+A statistical model for repeated measurements with the assumption of independence or identical distributions is unrealistic. In the case of light speed study, each measurement is approached as the sum of quantity of interest and measurement error. In the absence of systematic error, the measurement error of speed of light can be modeled by a random sample from a distribution with unknown expectation and finite variance; thus, the speed of light is represented by the expectation of the model distribution and the ultimate goal is to estimate the expectation of the model distribution on the acquired dataset. The law of large numbers suggests to estimate the expectation by the sample mean.
+
+Michelson–Morley interferometry experiment
+In 1887 he collaborated with colleague Edward Williams Morley of Western Reserve University, now part of Case Western Reserve University, in the Michelson–Morley experiment. Their experiment for the expected motion of the Earth relative to the aether, the hypothetical medium in which light was supposed to travel, resulted in a null result. Surprised, Michelson repeated the experiment with greater and greater precision over the next years, but continued to find no ability to measure the aether. The Michelson–Morley results were immensely influential in the physics community, leading Hendrik Lorentz to devise his now-famous Lorentz contraction equations as a means of explaining the null result.
+There has been some historical controversy over whether Albert Einstein was aware of the Michelson–Morley results when he developed his theory of special relativity, which pronounced the aether to be "superfluous". In a later interview, Einstein said of the Michelson–Morley experiment, "I was not conscious it had influenced me directly ... I guess I just took it for granted that it was true."  Regardless of Einstein's specific knowledge, the experiment is today considered the canonical experiment in regards to showing the lack of a detectable aether.
+The precision of their equipment allowed Michelson and Morley to be the first to get precise values  for the fine structure in the atomic spectral lines for which in 1916 Arnold Sommerfeld gave a theoretical explanation, introducing the fine-structure constant.
+
+Astronomical interferometry
+Optical
+In 1920 Michelson and Francis G. Pease made the first measurement of the diameter of a star other than the Sun. Michelson had invented astronomical interferometry and built such an instrument at the Mount Wilson Observatory which was used to measure the diameter of the red giant Betelgeuse. A periscope arrangement was used to direct light from two subpupils, separated by up to 20 feet (6m), into the main pupil of the 100 inch (2.5m) Hooker Telescope, producing interference fringes observed through the eyepiece. The measurement of stellar diameters and the separations of binary stars took up an increasing amount of Michelson's life after this.
+Beginning in the 1970s, astronomical interferometry was revived, with the configurations using two (or more) separate apertures (with diameters small compared to their separation) being often referred to as "Michelson Stellar Interferometry". This was to distinguish it from speckle interferometry, but should not be confused with the Michelson interferometer which is one common laboratory interferometer configuration of which the interferometer used in the Michelson–Morley experiment was an instance. Michelson's concept of interfering light from two relatively small apertures separated by a substantial distance (but with that distance, or baseline, now often as long as hundreds of meters) is employed at modern operational observatories such as VLTI, CHARA and the U.S. Navy's NPOI.
+
+Gravitational wave
+Gravitational waves are detected using a Michelson interferometer with a laser light source. In 2020 there were three Michelson interferometer gravitational wave detectors operational, and a fourth under construction. These Michelson interferometers have arms 4 kilometers in length, set at 90 degree angles to each other, with the light passing through 1 m diameter vacuum tubes running their entire length. A passing gravitational wave will slightly stretch one arm as it shortens the other. This is precisely the motion to which these Michelson interferometers are most sensitive. As of 2020 fifteen gravitational wave events had been observed using these Michelson interferometers.
+
+Harmonic analyzer
+In the 1890s Michelson built a mechanical device called the harmonic analyzer, for computing coefficients of Fourier series and drawing graphs of their partial sums. He and S. W. Stratton published a paper about this machine in the American Journal of Science in 1898.
+
+Michelson in popular culture
+In Season 3 Episode 26 of the television series Bonanza ("Look to the Stars", broadcast March 18, 1962), Ben Cartwright (Lorne Greene) helps the 16-year-old Michelson (portrayed by 25-year-old Douglas Lambert (1936–1986)) obtain an appointment to the U.S. Naval Academy, despite the opposition of the bigoted town schoolteacher (played by William Schallert).  Bonanza was set in and around Virginia City, Nevada, where Michelson lived with his parents prior to leaving for the Naval Academy.  In a voice-over at the end of the episode, Greene mentions Michelson's 1907 Nobel Prize.
+The home in which Michelson lived as a child in Murphys Camp, California, was in the store of his father, first on Main Street, across from the Sperry & Perry Hotel, and after the 1859 fire in a store next to the hotel. His aunt Bertha Meyers owned a house on Main Street toward the east end of town and Michelson probably visited her family there frequently.
+New Beast Theater Works in collaboration with High Concept Laboratories produced a 'semi-opera' about Michelson, his obsessive working style and its effect on his family life. The production ran from February 11 to February 26, 2011, in Chicago at The Building Stage. Michelson was portrayed by Jon Stutzman. The play was directed by David Maral with music composed by Joshua Dumas.
+Norman Fitzroy Maclean wrote an essay "Billiards Is a Good Game"; published in The Norman Maclean Reader (ed. O. Alan Weltzien, 2008), it is an appreciation of Michelson from Maclean's vantage point as a graduate student regularly watching him play billiards.
+
+Honors and awards
+1888 – Rumford Prize
+1903 – Matteucci Medal
+1907 – Copley Medal
+1907 – Nobel Prize in Physics
+1912 – Elliott Cresson Medal
+1916 – Henry Draper Medal from the National Academy of Sciences
+1922 – Prix Jules Janssen, the highest award of the Société astronomique de France, the French astronomical society.
+1922 – Honorary Member of the Optical Society of America
+1923 – Gold Medal of the Royal Astronomical Society
+1923 – Franklin Medal
+Michelson was a member of the Royal Society, the National Academy of Sciences, the American Physical Society  and the American Association for the Advancement of Science.
+The Computer Measurement Group gives an annual A. A. Michelson Award.
+
+See also
+List of Jewish Nobel laureates
+List of Naval Academy Nobel Laureates
+List of Poles
+
+Biography
+Jaffe, Bernard (1960) Michelson and the Speed of Light, Doubleday. New York
+
+Notes
+References
+Livingston, D. M. (1973). The Master of Light: A Biography of Albert A. Michelson. University of Chicago Press. ISBN 978-0-226-48711-3.
+Levy, Harriet Lane (1996). 920 O'Farrell Street. Berkeley: Heyday Books. ISBN 978-0-930588-91-5.
+
+Works
+Light waves and their uses. Chicago: University Press. 1907.
+Détermination expérimentale de la valeur du mètre en longueurs d'ondes lumineuses. Paris : Gauthier-Villars et fils, 1894. (French translation of Experimental Determination of the Velocity of Light)
+
+External links
+Three Glimpses of Albert Abraham Michelson at the Peak of His Career This video includes audio of Michelson speaking.
+National Academy of Sciences Biographical Memoir
+Michelson's Life and Works from the American Institute of Physics Archived July 16, 2012, at the Wayback Machine
+U.S. Naval Academy and The Navy
+From USNA to Nobel: Albert A. Michelson's Life and Contributions
+Michelson House at the University of Chicago
+Albert A. Michelson on Nobelprize.org  including the Nobel Lecture, December 12, 1907 Recent Advances in Spectroscopy
+Works by Albert A. Michelson at Project Gutenberg
+Works by or about Albert A. Michelson at the Internet Archive
+IMDB: Bonanza episode Look to the Stars
+Norman Maclean: "Billiards Is a Good Game": Gamesmanship and America's First Nobel Prize Scientist; reprinted in Lapham's Quarterly
+The U.S. Naval Academy Observatory Programs and Times Gone By: A Tale of Two Domes
+"NAWS China Lake". Archived from the original on September 22, 2008. Retrieved September 3, 2010.
+Nineteenth Century Astronomy at the U.S. Naval Academy
+
+Archival collections
+Guide to the Albert A. Michelson Papers 1891–1969 Archived September 7, 2019, at the Wayback Machine at the University of Chicago Special Collections Research Center
+USNA Guide to the Albert A. Michelson Collection, 1803–1989
+William Polk Jesse student notebooks, 1919–1921, Niels Bohr Library & Archives (contains notes on the lectures of Albert A. Michelson, including courses taught by Michelson: Mechanics and Wave Motion, Electricity and Magnetism, and Physical Optics)

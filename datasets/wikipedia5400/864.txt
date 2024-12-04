@@ -1,0 +1,12 @@
+864
+CINT
+CINT is a command line C/[C++](640) interpreter that was originally included in the object oriented data analysis package ROOT. Although intended for use with the other faculties of ROOT, CINT can also be used as a standalone addition to another program that requires such an interpreter. In 2013, [CERN](774) switched to the Cling [C++](640) interpreter, so CINT is now distributed standalone by the author.
+CINT is an interpreted version of C/[C++](640), much in the way BeanShell is an interpreted version of Java. In addition to being a language interpreter, it offers certain Bash-like shell features such as history and tab-completion. To accomplish the latter, it relies heavily on the reflection support built into ROOT.  User classes that follow these interfaces may also take advantage of these features.
+The language originally interpreted by CINT was actually something of a hybrid between C and [C++](640), covering about 95% of ANSI C and 85% of [C++](640). The syntax, however, is a bit more forgiving than either language.  For example, the operator -> can be replaced by . with only an optional warning.  In addition, statements on the command line do not need to end with a semi-colon, although this is necessary for statements in macros.
+As an alternative to CINT, ROOT also provides Cling which is an REPL application using LLVM's [Clang](888) as a [C++](640) JIT compilation environment.
+
+See also
+C/[C++](640) Interpreter Ch
+
+
+== References ==

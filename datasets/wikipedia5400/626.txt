@@ -1,0 +1,99 @@
+626
+Automated planning and scheduling
+Automated planning and scheduling, sometimes denoted as simply AI planning, is a branch of artificial intelligence that concerns the realization of strategies or action sequences, typically for execution by intelligent agents, autonomous robots and unmanned vehicles. Unlike classical control and classification problems, the solutions are complex and must be discovered and optimized in multidimensional space. Planning is also related to decision theory.
+In known environments with available models, planning can be done offline. Solutions can be found and evaluated prior to execution. In dynamically unknown environments, the strategy often needs to be revised online. Models and policies must be adapted. Solutions usually resort to iterative trial and error processes commonly seen in artificial intelligence. These include dynamic programming, reinforcement learning and combinatorial optimization. Languages used to describe planning and scheduling are often called action languages.
+
+Overview
+Given a description of the possible initial states of the world, a description of the desired goals, and a description of a set of possible actions, the planning problem is to synthesize a plan that is guaranteed (when applied to any of the initial states) to generate a state which contains the desired goals (such a state is called a goal state).
+The difficulty of planning is dependent on the simplifying assumptions employed. Several classes of planning problems can be identified depending on the properties the problems have in several dimensions.
+
+Are the actions deterministic or non-deterministic? For nondeterministic actions, are the associated probabilities available?
+Are the state variables discrete or continuous? If they are discrete, do they have only a finite number of possible values?
+Can the current state be observed unambiguously? There can be full observability and partial observability.
+How many initial states are there, finite or arbitrarily many?
+Do actions have a duration?
+Can several actions be taken concurrently, or is only one action possible at a time?
+Is the objective of a plan to reach a designated goal state, or to maximize a reward function?
+Is there only one agent or are there several agents? Are the agents cooperative or selfish? Do all of the agents construct their own plans separately, or are the plans constructed centrally for all agents?
+The simplest possible planning problem, known as the Classical Planning Problem, is determined by:
+
+a unique known initial state,
+durationless actions,
+deterministic actions,
+which can be taken only one at a time,
+and a single agent.
+Since the initial state is known unambiguously, and all actions are deterministic, the state of the world after any sequence of actions can be accurately predicted, and the question of observability is irrelevant for classical planning.
+Further, plans can be defined as sequences of actions, because it is always known in advance which actions will be needed.
+With nondeterministic actions or other events outside the control of the agent, the possible executions form a tree, and plans have to determine the appropriate actions for every node of the tree.
+Discrete-time Markov decision processes (MDP) are planning problems with:
+
+durationless actions,
+nondeterministic actions with probabilities,
+full observability,
+maximization of a reward function,
+and a single agent.
+When full observability is replaced by partial observability, planning corresponds to a partially observable Markov decision process (POMDP).
+If there are more than one agent, we have multi-agent planning, which is closely related to game theory.
+
+Domain independent planning
+In AI planning, planners typically input a domain model (a description of a set of possible actions which model the domain) as well as the specific problem to be solved specified by the initial state and goal, in contrast to those in which there is no input domain specified. Such planners are called "domain independent" to emphasize the fact that they can solve planning problems from a wide range of domains. Typical examples of domains are block-stacking, logistics, workflow management, and robot task planning. Hence a single domain-independent planner can be used to solve planning problems in all these various domains. On the other hand, a route planner is typical of a domain-specific planner.
+
+Planning domain modelling languages
+The most commonly used languages for representing planning domains and specific planning problems, such as STRIPS and PDDL for Classical Planning, are based on state variables. Each possible state of the world is an assignment of values to the state variables, and actions determine how the values of the state variables change when that action is taken. Since a set of state variables induce a state space that has a size that is exponential in the set, planning, similarly to many other computational problems, suffers from the curse of dimensionality and the combinatorial explosion.
+An alternative language for describing planning problems is that of hierarchical task networks, in which a set of tasks is given, and each task can be either realized by a primitive action or decomposed into a set of other tasks. This does not necessarily involve state variables, although in more realistic applications state variables simplify the description of task networks.
+
+Algorithms for planning
+Classical planning
+forward chaining state space search, possibly enhanced with heuristics
+backward chaining search, possibly enhanced by the use of state constraints (see STRIPS, graphplan)
+partial-order planning
+
+Reduction to other problems
+reduction to the propositional satisfiability problem (satplan).
+reduction to model checking - both are essentially problems of traversing state spaces, and the classical planning problem corresponds to a subclass of model checking problems.
+
+Temporal planning
+Temporal planning can be solved with methods similar to classical planning. The main difference is, because of the possibility of several, temporally overlapping actions with a duration being taken concurrently, that the definition of a state has to include information about the current absolute time and how far the execution of each active action has proceeded. Further, in planning with rational or real time, the state space may be infinite, unlike in classical planning or planning with integer time. Temporal planning is closely related to scheduling problems when uncertainty is involved and can also be understood in terms of timed automata. The Simple Temporal Network with Uncertainty (STNU) is a scheduling problem which involves controllable actions, uncertain events and temporal constraints. Dynamic Controllability for such problems is a type of scheduling which requires a temporal planning strategy to activate controllable actions reactively as uncertain events are observed so that all constraints are guaranteed to be satisfied.
+
+Probabilistic planning
+Probabilistic planning can be solved with iterative methods such as value iteration and policy iteration, when the state space is sufficiently small.
+With partial observability, probabilistic planning is similarly solved with iterative methods, but using a representation of the value functions defined for the space of beliefs instead of states.
+
+Preference-based planning
+In preference-based planning, the objective is not only to produce a plan but also to satisfy user-specified preferences. A difference to the more common reward-based planning, for example corresponding to MDPs, preferences don't necessarily have a precise numerical value.
+
+Conditional planning
+Deterministic planning was introduced with the STRIPS planning system, which is a hierarchical planner. Action names are ordered in a sequence and this is a plan for the robot. Hierarchical planning can be compared with an automatic generated behavior tree. The disadvantage is, that a normal behavior tree is not so expressive like a computer program. That means, the notation of a behavior graph contains action commands, but no loops or if-then-statements. Conditional planning overcomes the bottleneck and introduces an elaborated notation which is similar to a control flow, known from other programming languages like Pascal. It is very similar to program synthesis, which means a planner generates sourcecode which can be executed by an interpreter.
+An early example of a conditional planner is “Warplan-C” which was introduced in the mid 1970s. What is the difference between a normal sequence and a complicated plan, which contains if-then-statements? It has to do with uncertainty at runtime of a plan. The idea is that a plan can react to sensor signals which are unknown for the planner. The planner generates two choices in advance. For example, if an object was detected, then action A is executed, if an object is missing, then action B is executed. A major advantage of conditional planning is the ability to handle partial plans. An agent is not forced to plan everything from start to finish but can divide the problem into chunks. This helps to reduce the state space and solves much more complex problems.
+
+Contingency planning
+We speak of "contingent planning" when the environment is observable through sensors, which can be faulty. It is thus a situation where the planning agent acts under incomplete information. For a contingent planning problem, a plan is no longer a sequence of actions but a decision tree because each step of the plan is represented by a set of states rather than a single perfectly observable state, as in the case of classical planning. The selected actions depend on the state of the system. For example, if it rains, the agent chooses to take the umbrella, and if it doesn't, they may choose not to take it.
+Michael L. Littman showed in 1998 that with branching actions, the planning problem becomes EXPTIME-complete. A particular case of contiguous planning is represented by FOND problems - for "fully-observable and non-deterministic". If the goal is specified in LTLf (linear time logic on finite trace) then the problem is always EXPTIME-complete and 2EXPTIME-complete if the goal is specified with LDLf.
+
+Conformant planning
+Conformant planning is when the agent is uncertain about the state of the system, and it cannot make any observations. The agent then has beliefs about the real world, but cannot verify them with sensing actions, for instance. These problems are solved by techniques similar to those of classical planning, but where the state space is exponential in the size of the problem, because of the uncertainty about the current state. A solution for a conformant planning problem is a sequence of actions. Haslum and Jonsson have demonstrated that the problem of conformant planning is EXPSPACE-complete, and 2EXPTIME-complete when the initial situation is uncertain, and there is non-determinism in the actions outcomes.
+
+Deployment of planning systems
+The Hubble Space Telescope uses a short-term system called SPSS and a long-term planning system called Spike .
+
+See also
+Action description language
+Actor model
+Applications of artificial intelligence
+International Conference on Automated Planning and Scheduling
+Constraint satisfaction problem
+Reactive planning
+Scheduling (computing)
+Strategy (game theory)
+Lists
+List of SMT solvers
+List of constraint programming languages
+List of emerging technologies
+Outline of artificial intelligence
+
+References
+Further reading
+Vlahavas, I. "Planning and Scheduling". EETN. Archived from the original on 2013-12-22.
+
+External links
+International Conference on Automated Planning and Scheduling

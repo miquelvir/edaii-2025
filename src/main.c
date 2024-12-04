@@ -13,7 +13,7 @@ int main() {
   printf("Factorial of 4 is %d\n", fact(4));
 
   // how to find all files in a folder
-  char *path = "./datasets/animals";
+  char *path = "./datasets/wikipedia12";
   printf("The files in %s are:\n", path);
   struct dirent *entry;
   struct stat statbuf;

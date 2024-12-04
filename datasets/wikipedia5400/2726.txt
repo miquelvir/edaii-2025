@@ -1,0 +1,199 @@
+2726
+Carotenoid
+Carotenoids () are yellow, orange, and red organic pigments that are produced by plants and algae, as well as several bacteria, archaea, and fungi. Carotenoids give the characteristic color to pumpkins, carrots, parsnips, corn, tomatoes, canaries, flamingos, salmon, lobster, shrimp, and daffodils. Over 1,100 identified carotenoids can be further categorized into two classes – xanthophylls (which contain oxygen) and carotenes (which are purely hydrocarbons and contain no oxygen).
+All are derivatives of tetraterpenes, meaning that they are produced from 8 isoprene units and contain 40 carbon atoms. In general, carotenoids absorb wavelengths ranging from 400 to 550 nanometers (violet to green light). This causes the compounds to be deeply colored yellow, orange, or red. Carotenoids are the dominant pigment in autumn leaf coloration of about 15-30% of tree species, but many plant colors, especially reds and purples, are due to polyphenols.
+
+Carotenoids serve two key roles in plants and algae: they absorb light energy for use in photosynthesis, and they provide photoprotection via non-photochemical quenching. Carotenoids that contain unsubstituted beta-ionone rings  (including β-carotene, α-carotene, β-cryptoxanthin, and γ-carotene) have vitamin A activity (meaning that they can be converted to retinol). In the eye, lutein, meso-zeaxanthin, and zeaxanthin are present as macular pigments whose importance in visual function, as of 2016, remains under clinical research.
+
+Structure and function
+Carotenoids are produced by all photosynthetic organisms and are primarily used as accessory pigments to chlorophyll in the light-harvesting part of photosynthesis.
+They are highly unsaturated with conjugated double bonds, which enables carotenoids to absorb light of various wavelengths. At the same time, the terminal groups regulate the polarity and properties within lipid membranes.
+Most carotenoids are tetraterpenoids, regular 
+  
+    
+      
+        
+          
+            C
+            
+              40
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {C40}}}
+  
+ isoprenoids. Several modifications to these structures exist: including cyclization, varying degrees of saturation or unsaturation, and other functional groups.  Carotenes typically contain only carbon and hydrogen, i.e., they are hydrocarbons. Prominent members include α-carotene, β-carotene, and lycopene, are known as carotenes. Carotenoids containing oxygen include lutein and zeaxanthin. They are known as xanthophylls.  Their color, ranging from pale yellow through bright orange to deep red, is directly related to their structure, especially the length of the conjugation. Xanthophylls are often yellow, giving their class name.
+Carotenoids also participate in different types of cell signaling. They are able to signal the production of abscisic acid, which regulates plant growth, seed dormancy, embryo maturation and germination, cell division and elongation, floral growth, and stress responses.
+
+Photophysics
+The length of the multiple conjugated double bonds determines their color and photophysics. After absorbing a photon, the carotenoid transfers its excited electron to chlorophyll for use in photosynthesis. Upon absorption of light, carotenoids transfer excitation energy to and from chlorophyll. The singlet-singlet energy transfer is a lower energy state transfer and is used during photosynthesis. The triplet-triplet transfer is a higher energy state and is essential in photoprotection. Light produces damaging species during photosynthesis, with the most damaging being reactive oxygen species (ROS). As these high energy ROS are produced in the chlorophyll the energy is transferred to the carotenoid’s polyene tail and undergoes a series of reactions in which electrons are moved between the carotenoid bonds in order to find the most balanced (lowest energy) state for the carotenoid.
+Carotenoids defend plants against singlet oxygen, by both energy transfer and by chemical reactions. They also protect plants by quenching triplet chlorophyll. By protecting lipids from free-radical damage, which generate charged lipid peroxides and other oxidised derivatives, carotenoids support crystalline architecture and hydrophobicity of lipoproteins and cellular lipid structures, hence oxygen solubility and its diffusion therein.
+
+Structure-property relationships
+Like some fatty acids, carotenoids are lipophilic due to the presence of long unsaturated aliphatic chains. As a consequence, carotenoids are typically present in plasma lipoproteins and cellular lipid structures.
+
+Morphology
+Carotenoids are located primarily outside the cell nucleus in different cytoplasm organelles, lipid droplets, cytosomes and granules. They have been visualised and quantified by raman spectroscopy in an algal cell.
+With the development of monoclonal antibodies to trans-lycopene it was possible to localise this carotenoid in different animal and human cells.
+
+Foods
+Beta-carotene, found in pumpkins, sweet potato, carrots and winter squash, is responsible for their orange-yellow colors. Dried carrots have the highest amount of carotene of any food per 100-gram serving, measured in retinol activity equivalents (provitamin A equivalents). Vietnamese gac fruit contains the highest known concentration of the carotenoid lycopene. Although green, kale, spinach, collard greens, and turnip greens contain substantial amounts of beta-carotene. The diet of flamingos is rich in carotenoids, imparting the orange-colored feathers of these birds.
+Reviews of preliminary research in 2015 indicated that foods high in carotenoids may reduce the risk of head and neck cancers and prostate cancer. There is no correlation between consumption of foods high in carotenoids and vitamin A and the risk of Parkinson's disease.
+Humans and other animals are mostly incapable of synthesizing carotenoids, and must obtain them through their diet. Carotenoids are a common and often ornamental feature in animals. For example, the pink color of salmon, and the red coloring of cooked lobsters and scales of the yellow morph of common wall lizards are due to carotenoids. It has been proposed that carotenoids are used in ornamental traits (for extreme examples see puffin birds) because, given their physiological and chemical properties, they can be used as visible indicators of individual health, and hence are used by animals when selecting potential mates.
+Carotenoids from the diet are stored in the fatty tissues of animals, and exclusively carnivorous animals obtain the compounds from animal fat. In the human diet, absorption of carotenoids is improved when consumed with fat in a meal. Cooking carotenoid-containing vegetables in oil and shredding the vegetable both increase carotenoid bioavailability.
+
+Plant colors
+The most common carotenoids include lycopene and the vitamin A precursor β-carotene. In plants, the xanthophyll lutein is the most abundant carotenoid and its role in preventing age-related eye disease is currently under investigation. Lutein and the other carotenoid pigments found in mature leaves are often not obvious because of the masking presence of chlorophyll. When chlorophyll is not present, as in autumn foliage, the yellows and oranges of the carotenoids are predominant. For the same reason, carotenoid colors often predominate in ripe fruit after being unmasked by the disappearance of chlorophyll.
+Carotenoids are responsible for the brilliant yellows and oranges that tint deciduous foliage (such as dying autumn leaves) of certain hardwood species as hickories, ash, maple, yellow poplar, aspen, birch, black cherry, sycamore, cottonwood, sassafras, and alder. Carotenoids are the dominant pigment in autumn leaf coloration of about 15-30% of tree species. However, the reds, the purples, and their blended combinations that decorate autumn foliage usually come from another group of pigments in the cells called anthocyanins. Unlike the carotenoids, these pigments are not present in the leaf throughout the growing season, but are actively produced towards the end of summer.
+
+Bird colors and sexual selection
+Dietary carotenoids and their metabolic derivatives are responsible for bright yellow to red coloration in birds. Studies estimate that around 2956 modern bird species display carotenoid coloration and that the ability to utilize these pigments for external coloration has evolved independently many times throughout avian evolutionary history. Carotenoid coloration exhibits high levels of sexual dimorphism, with adult male birds generally displaying more vibrant coloration than females of the same species.
+These differences arise due to the selection of yellow and red coloration in males by female preference. In many species of birds, females invest greater time and resources into raising offspring than their male partners. Therefore, it is imperative that female birds carefully select high quality mates. Current literature supports the theory that vibrant carotenoid coloration is correlated with male quality—either though direct effects on immune function and oxidative stress, or through a connection between carotenoid metabolizing pathways and pathways for cellular respiration.
+It is generally considered that sexually selected traits, such as carotenoid-based coloration, evolve because they are honest signals of phenotypic and genetic quality.  For instance, among males of the bird species Parus major, the more colorfully ornamented males produce sperm that is better protected against oxidative stress due to increased presence of carotenoid antioxidants.  However, there is also evidence that attractive male coloration may be a faulty signal of male quality.  Among stickleback fish, males that are more attractive to females due to carotenoid colorants appear to under-allocate carotenoids to their germline cells.   Since carotinoids are beneficial antioxidants, their under-allocation to germline cells can lead to increased oxidative DNA damage to these cells.  Therefore, female sticklebacks may risk fertility and the viability of their offspring by choosing redder, but more deteriorated partners with reduced sperm quality.
+
+Aroma chemicals
+Products of carotenoid degradation such as ionones, damascones and damascenones are also important fragrance chemicals that are used extensively in the perfumes and fragrance industry. Both β-damascenone and β-ionone although low in concentration in rose distillates are the key odor-contributing compounds in flowers. In fact, the sweet floral smells present in black tea, aged tobacco, grape, and many fruits are due to the aromatic compounds resulting from carotenoid breakdown.
+
+Disease
+Some carotenoids are produced by bacteria to protect themselves from oxidative immune attack. The aureus (golden) pigment that gives some strains of Staphylococcus aureus their name is a carotenoid called staphyloxanthin. This carotenoid is a virulence factor with an antioxidant action that helps the microbe evade death by reactive oxygen species used by the host immune system.
+
+Biosynthesis
+The basic building blocks of carotenoids are isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP). These two isoprene isomers are used to create various compounds depending on the biological pathway used to synthesize the isomers. Plants are known to use two different pathways for IPP production: the cytosolic mevalonic acid pathway (MVA) and the plastidic methylerythritol 4-phosphate (MEP). In animals, the production of cholesterol starts by creating IPP and DMAPP using the MVA. For carotenoid production plants use MEP to generate IPP and DMAPP. The MEP pathway results in a 5:1 mixture of IPP:DMAPP. IPP and DMAPP undergo several reactions, resulting in the major carotenoid precursor, geranylgeranyl diphosphate (GGPP). GGPP can be converted into carotenes or xanthophylls by undergoing a number of different steps within the carotenoid biosynthetic pathway.
+
+MEP pathway
+Glyceraldehyde 3-phosphate and pyruvate, intermediates of photosynthesis, are converted to deoxy-D-xylulose 5-phosphate (DXP) catalyzed by DXP synthase (DXS). DXP reductoisomerase catalyzes the reduction by NADPH and subsequent rearrangement. The resulting MEP is converted to 4-(cytidine 5’-diphospho)-2-C-methyl-D-erythritol (CDP-ME) in the presence of CTP using the enzyme MEP cytidylyltransferase. CDP-ME is then converted, in the presence of ATP, to 2-phospho-4-(cytidine 5’-diphospho)-2-C-methyl-D-erythritol (CDP-ME2P). The conversion to CDP-ME2P is catalyzed by CDP-ME kinase. Next, CDP-ME2P is converted to 2-C-methyl-D-erythritol 2,4-cyclodiphosphate (MECDP). This reaction occurs when MECDP synthase catalyzes the reaction and CMP is eliminated from the CDP-ME2P molecule. MECDP is then converted to (e)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate (HMBDP) via HMBDP synthase in the presence of flavodoxin and NADPH. HMBDP is reduced to IPP in the presence of ferredoxin and NADPH by the enzyme HMBDP reductase. The last two steps involving HMBPD synthase and reductase can only occur in completely anaerobic environments. IPP is then able to isomerize to DMAPP via IPP isomerase.
+
+Carotenoid biosynthetic pathway
+Two GGPP molecules condense via phytoene synthase (PSY), forming the 15-cis isomer of phytoene. PSY belongs to the squalene/phytoene synthase family and is homologous to squalene synthase that takes part in steroid biosynthesis. The subsequent conversion of phytoene into all-trans-lycopene depends on the organism. [Bacteria](482) and fungi employ a single enzyme, the bacterial phytoene desaturase (CRTI) for the catalysis. Plants and cyanobacteria however utilize four enzymes for this process. The first of these enzymes is a plant-type phytoene desaturase which introduces two additional double bonds into 15-cis-phytoene by  dehydrogenation and isomerizes two of its existing double bonds from trans to cis producing 9,15,9’-tri-cis-ζ-carotene. The central double bond of this tri-cis-ζ-carotene is isomerized by the zeta-carotene isomerase Z-ISO and the resulting 9,9'-di-cis-ζ-carotene is dehydrogenated again via a ζ-carotene desaturase (ZDS). This again introduces two double bonds, resulting in 7,9,7’,9’-tetra-cis-lycopene. CRTISO, a carotenoid isomerase, is needed to convert the cis-lycopene into an all-trans lycopene in the presence of reduced FAD.
+This all-trans lycopene is cyclized; cyclization gives rise to carotenoid diversity, which can be distinguished based on the end groups. There can be either a beta ring or an epsilon ring, each generated by a different enzyme (lycopene beta-cyclase  beta-LCY or lycopene epsilon-cyclase epsilon-LCY). α-Carotene is produced when the all-trans lycopene first undergoes reaction with epsilon-LCY then a second reaction with beta-LCY; whereas β-carotene is produced by two reactions with beta-LCY. α- and β-Carotene are the most common carotenoids in the plant photosystems but they can still be further converted into xanthophylls by using beta-hydrolase and epsilon-hydrolase, leading to a variety of xanthophylls.
+
+Regulation
+It is believed that both DXS and DXR are rate-determining enzymes, allowing them to regulate carotenoid levels. This was discovered in an experiment where DXS and DXR were genetically overexpressed, leading to increased carotenoid expression in the resulting seedlings. Also, J-protein (J20) and heat shock protein 70 (Hsp70) chaperones are thought to be involved in post-transcriptional regulation of DXS activity, such that mutants with defective J20 activity exhibit reduced DXS enzyme activity while accumulating inactive DXS protein. Regulation may also be caused by external toxins that affect enzymes and proteins required for synthesis. Ketoclomazone is derived from herbicides applied to soil and binds to DXP synthase. This inhibits DXP synthase, preventing synthesis of DXP and halting the MEP pathway. The use of this toxin leads to lower levels of carotenoids in plants grown in the contaminated soil. Fosmidomycin, an antibiotic, is a competitive inhibitor of DXP reductoisomerase due to its similar structure to the enzyme. Application of said antibiotic prevents reduction of DXP, again halting the MEP pathway.
+
+Naturally occurring carotenoids
+Hydrocarbons
+Lycopersene 7,8,11,12,15,7',8',11',12',15'-Decahydro-γ,γ-carotene
+Phytofluene
+Lycopene
+Hexahydrolycopene 15-cis-7,8,11,12,7',8'-Hexahydro-γ,γ-carotene
+Torulene 3',4'-Didehydro-β,γ-carotene
+α-Zeacarotene 7',8'-Dihydro-ε,γ-carotene
+α-Carotene
+β-Carotene
+γ-Carotene
+δ-Carotene
+ε-Carotene
+ζ-Carotene
+Alcohols
+Alloxanthin
+Bacterioruberin 2,2'-Bis(3-hydroxy-3-methylbutyl)-3,4,3',4'-tetradehydro-1,2,1',2'-tetrahydro-γ,γ-carotene-1,1'-diol
+Cynthiaxanthin
+Pectenoxanthin
+Cryptomonaxanthin (3R,3'R)-7,8,7',8'-Tetradehydro-β,β-carotene-3,3'-diol
+Crustaxanthin β,-Carotene-3,4,3',4'-tetrol
+Gazaniaxanthin (3R)-5'-cis-β,γ-Caroten-3-ol
+OH-Chlorobactene 1',2'-Dihydro-f,γ-caroten-1'-ol
+Loroxanthin β,ε-Carotene-3,19,3'-triol
+Lutein (3R,3′R,6′R)-β,ε-carotene-3,3′-diol
+Lycoxanthin γ,γ-Caroten-16-ol
+Rhodopin 1,2-Dihydro-γ,γ-caroten-l-ol
+Rhodopinol a.k.a. Warmingol  13-cis-1,2-Dihydro-γ,γ-carotene-1,20-diol
+Saproxanthin 3',4'-Didehydro-1',2'-dihydro-β,γ-carotene-3,1'-diol
+Zeaxanthin
+Glycosides
+Oscillaxanthin 2,2'-Bis(β-L-rhamnopyranosyloxy)-3,4,3',4'-tetradehydro-1,2,1',2'-tetrahydro-γ,γ-carotene-1,1'-diol
+Phleixanthophyll 1'-(β-D-Glucopyranosyloxy)-3',4'-didehydro-1',2'-dihydro-β,γ-caroten-2'-ol
+Ethers
+Rhodovibrin 1'-Methoxy-3',4'-didehydro-1,2,1',2'-tetrahydro-γ,γ-caroten-1-ol
+Spheroidene 1-Methoxy-3,4-didehydro-1,2,7',8'-tetrahydro-γ,γ-carotene
+Epoxides
+Diadinoxanthin 5,6-Epoxy-7',8'-didehydro-5,6-dihydro—carotene-3,3-diol
+Luteoxanthin 5,6: 5',8'-Diepoxy-5,6,5',8'-tetrahydro-β,β-carotene-3,3'-diol
+Mutatoxanthin
+Citroxanthin
+Zeaxanthin furanoxide 5,8-Epoxy-5,8-dihydro-β,β-carotene-3,3'-diol
+Neochrome         5',8'-Epoxy-6,7-didehydro-5,6,5',8'-tetrahydro-β,β-carotene-3,5,3'-triol
+Foliachrome
+Trollichrome
+Vaucheriaxanthin 5',6'-Epoxy-6,7-didehydro-5,6,5',6'-tetrahydro-β,β-carotene-3,5,19,3'-tetrol
+Aldehydes
+Rhodopinal
+Warmingone 13-cis-1-Hydroxy-1,2-dihydro-γ,γ-caroten-20-al
+Torularhodinaldehyde 3',4'-Didehydro-β,γ-caroten-16'-al
+Acids and acid esters
+Torularhodin 3',4'-Didehydro-β,γ-caroten-16'-oic acid
+Torularhodin methyl ester Methyl 3',4'-didehydro-β,γ-caroten-16'-oate
+Ketones
+Astacene
+Astaxanthin
+Canthaxanthin a.k.a. Aphanicin, Chlorellaxanthin β,β-Carotene-4,4'-dione
+Capsanthin (3R,3'S,5'R)-3,3'-Dihydroxy-β,κ-caroten-6'-one
+Capsorubin (3S,5R,3'S,5'R)-3,3'-Dihydroxy-κ,κ-carotene-6,6'-dione
+Cryptocapsin (3'R,5'R)-3'-Hydroxy-β,κ-caroten-6'-one
+2,2'-Diketospirilloxanthin 1,1'-Dimethoxy-3,4,3',4'-tetradehydro-1,2,1',2'-tetrahydro-γ,γ-carotene-2,2'-dione
+Echinenone β,β-Caroten-4-one
+3'-Hydroxyechinenone
+Flexixanthin 3,1'-Dihydroxy-3',4'-didehydro-1',2'-dihydro-β,γ-caroten-4-one
+3-OH-Canthaxanthin a.k.a. Adonirubin a.k.a. Phoenicoxanthin 3-Hydroxy-β,β-carotene-4,4'-dione
+Hydroxyspheriodenone 1'-Hydroxy-1-methoxy-3,4-didehydro-1,2,1',2',7',8'-hexahydro-γ,γ-caroten-2-one
+Okenone 1'-Methoxy-1',2'-dihydro-c,γ-caroten-4'-one
+Pectenolone 3,3'-Dihydroxy-7',8'-didehydro-β,β-caroten-4-one
+Phoeniconone a.k.a. Dehydroadonirubin 3-Hydroxy-2,3-didehydro-β,β-carotene-4,4'-dione
+Phoenicopterone β,ε-caroten-4-one
+Rubixanthone 3-Hydroxy-β,γ-caroten-4'-one
+Siphonaxanthin 3,19,3'-Trihydroxy-7,8-dihydro-β,ε-caroten-8-one
+Esters of alcohols
+Astacein 3,3'-Bispalmitoyloxy-2,3,2',3'-tetradehydro-β,β-carotene-4,4'-dione or 3,3'-dihydroxy-2,3,2',3'-tetradehydro-β,β-carotene-4,4'-dione dipalmitate
+Fucoxanthin 3'-Acetoxy-5,6-epoxy-3,5'-dihydroxy-6',7'-didehydro-5,6,7,8,5',6'-hexahydro-β,β-caroten-8-one
+Isofucoxanthin 3'-Acetoxy-3,5,5'-trihydroxy-6',7'-didehydro-5,8,5',6'-tetrahydro-β,β-caroten-8-one
+Physalien
+Siphonein 3,3'-Dihydroxy-19-lauroyloxy-7,8-dihydro-β,ε-caroten-8-one or 3,19,3'-trihydroxy-7,8-dihydro-β,ε-caroten-8-one 19-laurate
+Apocarotenoids
+β-Apo-2'-carotenal 3',4'-Didehydro-2'-apo-b-caroten-2'-al
+Apo-2-lycopenal
+Apo-6'-lycopenal 6'-Apo-y-caroten-6'-al
+Azafrinaldehyde 5,6-Dihydroxy-5,6-dihydro-10'-apo-β-caroten-10'-al
+Bixin 6'-Methyl hydrogen 9'-cis-6,6'-diapocarotene-6,6'-dioate
+Citranaxanthin 5',6'-Dihydro-5'-apo-β-caroten-6'-one or 5',6'-dihydro-5'-apo-18'-nor-β-caroten-6'-one or 6'-methyl-6'-apo-β-caroten-6'-one
+Crocetin 8,8'-Diapo-8,8'-carotenedioic acid
+Crocetinsemialdehyde 8'-Oxo-8,8'-diapo-8-carotenoic acid
+Crocin Digentiobiosyl 8,8'-diapo-8,8'-carotenedioate
+Hopkinsiaxanthin 3-Hydroxy-7,8-didehydro-7',8'-dihydro-7'-apo-b-carotene-4,8'-dione or 3-hydroxy-8'-methyl-7,8-didehydro-8'-apo-b-carotene-4,8'-dione
+Methyl apo-6'-lycopenoate Methyl 6'-apo-y-caroten-6'-oate
+Paracentrone 3,5-Dihydroxy-6,7-didehydro-5,6,7',8'-tetrahydro-7'-apo-b-caroten-8'-one or 3,5-dihydroxy-8'-methyl-6,7-didehydro-5,6-dihydro-8'-apo-b-caroten-8'-one
+Sintaxanthin 7',8'-Dihydro-7'-apo-b-caroten-8'-one or 8'-methyl-8'-apo-b-caroten-8'-one
+Nor- and seco-carotenoids
+Actinioerythrin 3,3'-Bisacyloxy-2,2'-dinor-b,b-carotene-4,4'-dione
+β-Carotenone 5,6:5',6'-Diseco-b,b-carotene-5,6,5',6'-tetrone
+Peridinin 3'-Acetoxy-5,6-epoxy-3,5'-dihydroxy-6',7'-didehydro-5,6,5',6'-tetrahydro-12',13',20'-trinor-b,b-caroten-19,11-olide
+Pyrrhoxanthininol 5,6-epoxy-3,3'-dihydroxy-7',8'-didehydro-5,6-dihydro-12',13',20'-trinor-b,b-caroten-19,11-olide
+Semi-α-carotenone 5,6-Seco-b,e-carotene-5,6-dione
+Semi-β-carotenone 5,6-seco-b,b-carotene-5,6-dione or 5',6'-seco-b,b-carotene-5',6'-dione
+Triphasiaxanthin 3-Hydroxysemi-b-carotenone 3'-Hydroxy-5,6-seco-b,b-carotene-5,6-dione or 3-hydroxy-5',6'-seco-b,b-carotene-5',6'-dione
+Retro-carotenoids and retro-apo-carotenoids
+Eschscholtzxanthin 4',5'-Didehydro-4,5'-retro-b,b-carotene-3,3'-diol
+Eschscholtzxanthone 3'-Hydroxy-4',5'-didehydro-4,5'-retro-b,b-caroten-3-one
+Rhodoxanthin 4',5'-Didehydro-4,5'-retro-b,b-carotene-3,3'-dione
+Tangeraxanthin 3-Hydroxy-5'-methyl-4,5'-retro-5'-apo-b-caroten-5'-one or 3-hydroxy-4,5'-retro-5'-apo-b-caroten-5'-one
+Higher carotenoids
+Nonaprenoxanthin 2-(4-Hydroxy-3-methyl-2-butenyl)-7',8',11',12'-tetrahydro-e,y-carotene
+Decaprenoxanthin 2,2'-Bis(4-hydroxy-3-methyl-2-butenyl)-e,e-carotene
+C.p. 450 2-4-Hydroxy-3-(hydroxymethyl)-2-butenyl-2'-(3-methyl-2-butenyl)-b,b-carotene
+C.p. 473 2'-(4-Hydroxy-3-methyl-2-butenyl)-2-(3-methyl-2-butenyl)-3',4'-didehydro-l',2'-dihydro-β,γ-caroten-1'-ol
+Bacterioruberin 2,2'-Bis(3-hydroxy-3-methylbutyl)-3,4,3',4'-tetradehydro-1,2,1',2'-tetrahydro-γ,γ-carotene-1,1'-diol
+
+See also
+List of phytochemicals in food
+CRT (genetics), gene cluster responsible for the biosynthesis of carotenoids
+E number#E100–E199 (colours)
+Phytochemistry
+
+References
+External links
+
+Carotenoids at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

@@ -1,0 +1,46 @@
+533
+Precociality and altriciality
+Precocial species in birds and mammals are those in which the young are relatively mature and mobile from the moment of birth or hatching. They are normally nidifugous, meaning that they leave the nest shortly after birth or hatching. Altricial species are those in which the young are underdeveloped at the time of birth, but with the aid of their parents mature after birth. These categories form a continuum, without distinct gaps between them.
+In fish, this often refers to the presence or absence of a stomach: precocial larvae have one at the onset of first feeding whereas altricial fish do not. Depending on the species, the larvae may develop a functional stomach during metamorphosis (gastric) or remain stomachless (agastric).
+
+Precociality
+Precocial young have open eyes, hair or down, large brains, and are immediately mobile and somewhat able to flee from or defend themselves against predators. For example, with ground-nesting birds such as ducks or turkeys, the young are ready to leave the nest in one or two days. Among mammals, most ungulates are precocial, being able to walk almost immediately after birth.
+
+Etymology
+The word "precocial" is derived from the Latin root praecox, the same root as in precocious, meaning early maturity.
+
+Superprecociality
+Extremely precocial species are called "superprecocial". Examples are the megapode birds, which have full-flight feathers at hatching and which, in some species, can fly on the same day. Enantiornithes and pterosaurs were also capable of flight soon after hatching.
+Another example is the blue wildebeest, the calves of which can stand within an average of six minutes from birth and walk within thirty minutes; they can outrun a hyena within a day. Such behavior gives them an advantage over other herbivore species and they are 100 times more abundant in the Serengeti ecosystem than hartebeests, their closest taxonomic relative. Hartebeest calves are not as precocial as wildebeest calves and take up to thirty minutes or more before they stand, and as long as forty-five minutes before they can follow their mothers for short distances. They are unable to keep up with their mothers until they are more than a week old.
+Black mambas are highly precocial; as hatchlings, they are fully independent, and are capable of hunting prey the size of a small rat.
+
+Phylogeny
+Precociality is thought to be ancestral in birds. Thus, altricial birds tend to be found in the most derived groups. There is some evidence for precociality in protobirds and troodontids. Enantiornithes at least were superprecocial in a way similar to that of megapodes, being able to fly soon after birth. It has been speculated that superprecociality prevented enantiornithines from acquiring specialized toe anatomy seen in modern altricial birds.
+
+Altriciality
+In birds and mammals altricial species are those whose newly hatched or born young are relatively immobile, lack hair or down, are not able to obtain food on their own, and must be cared for by adults; closed eyes are common, though not ubiquitous. Altricial young are born helpless and require care for a length of time. Altricial birds include hawks, herons, woodpeckers, owls, cuckoos and most passerines. Among mammals, marsupials and most rodents are altricial. Domestic cats, dogs, and primates, such as humans, are some of the best-known altricial organisms.  For example, newborn domestic cats cannot see, hear, maintain their own body temperature, or gag, and require external stimulation in order to defecate and urinate. The giant panda is notably the largest placental mammal to have altricial, hairless young upon birth. The larval stage of insect development is considered by some to be a form of altricial development, but it more accurately depicts, especially amongst eusocial animals, an independent phase of development, as the larvae of bees, ants, and many arachnids are completely physically different from their developed forms, and the pre-pupal stages of insect life might be regarded as equivalent to vertebrate embryonic development.
+
+Etymology
+The word “altriciality” is derived from the Latin root alere, meaning "to nurse, to rear, or to nourish", and indicates the need for young to be fed and taken care of for a long duration.
+
+Differences
+The span between precocial and altricial species is particularly broad in the biology of birds. Precocial birds hatch with their eyes open and are covered with downy feathers that are soon replaced by adult-type feathers. [Bird](500)s of this kind can also swim and run much sooner after hatching than altricial young, such as songbirds. Very precocial birds can be ready to leave the nest in a short period of time following hatching (e.g. 24 hours). Many precocial chicks are not independent in thermoregulation (the ability to regulate their body temperatures), and they depend on the attending parent(s) to brood them with body heat for a short time. Precocial birds find their own food, sometimes with help or instruction from their parents. Examples of precocial birds include the domestic chicken, many species of ducks and geese, waders, rails, and the hoatzin.
+Precocial birds can provide protein-rich eggs and thus their young hatch in the fledgling stage – able to protect themselves from predators and the females have less post-natal involvement. Altricial birds are less able to contribute nutrients in the pre-natal stage; their eggs are smaller and their young are still in need of much attention and protection from predators. This may be related to r/K selection; however, this association fails in some cases.
+In birds, altricial young usually grow faster than precocial young. This is hypothesized to occur so that exposure to predators during the nestling stage of development can be minimized.
+In the case of mammals, it has been suggested that large, hearty adult body sizes favor the production of large, precocious young, which develop with a longer gestation period. Large young may be associated with migratory behavior, extended reproductive period, and reduced litter size. It may be that altricial strategies in mammals, in contrast, develop in species with less migratory and more territorial lifestyles, such as Carnivorans, the mothers of which are capable of bearing a fetus in the early stages of development and focusing closely and personally upon its raising, as opposed to precocial animals which provide their youths with a bare minimum of aid and otherwise leave them to instinct.
+Human children, and those of other primates, exemplify a unique combination of altricial and precocial development. Infants are born with minimal eyesight, compact and fleshy bodies, and "fresh" features (thinner skin, small noses and ears, and scarce hair if any). However, this stage is only brief amongst primates; their offspring soon develop stronger bones, grow in spurts, and quickly mature in features. This unique growth pattern allows for the hasty adaptivity of most simians, as anything learned by children in between their infancy and adolescence is memorized as instinct; this pattern is also in contrast to more prominently altricial mammals, such as many rodents, which remain largely immobile and undeveloped until grown to near the stature of their parents.
+
+Terminology
+In birds, the terms Aves altrices and Aves precoces were introduced by Carl Jakob Sundevall (1836), and the terms nidifugous and nidicolous by Lorenz Oken in 1816. The two classifications were considered identical in early times, but the meanings are slightly different, in that "altricial" and "precocial" refer to developmental stages, while "nidifugous" and "nidicolous" refer to leaving or staying at the nest, respectively.
+
+See also
+Parental investment
+Precocious puberty
+
+References
+Bibliography
+Starck J.M.; Ricklefs R.E. (1998). "Patterns of Development: The Altricial – Precocial Spectrum". Avian Growth and Development. New York: Oxford University Press.
+
+External links
+
+The altricial-precocial spectrum in birds

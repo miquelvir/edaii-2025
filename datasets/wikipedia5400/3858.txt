@@ -1,0 +1,518 @@
+3858
+Arithmetica
+Arithmetica ([Ancient Greek](3061): Ἀριθμητικά) is an [Ancient Greek](3061) text on mathematics written by the mathematician Diophantus (c. 200/214 AD – c. 284/298 AD) in the 3rd century AD.  It is a collection of 130 algebraic problems giving numerical solutions of determinate equations (those with a unique solution) and indeterminate equations.
+
+Summary
+Equations in the book are presently called Diophantine equations. The method for solving these equations is known as Diophantine analysis.  Most of the Arithmetica problems lead to quadratic equations.
+In Book 3, Diophantus solves problems of finding values which make two linear expressions simultaneously into squares or cubes. In book 4, he finds rational powers between given numbers. He also noticed that numbers of the form 
+  
+    
+      
+        4
+        n
+        +
+        3
+      
+    
+    {\displaystyle 4n+3}
+  
+ cannot be the sum of two squares. Diophantus also appears to know that every number can be written as the sum of four squares. If he did know this result (in the sense of having proved it as opposed to merely conjectured it), his doing so would be truly remarkable:  even Fermat, who stated the result, failed to provide a proof of it and it was not settled until Joseph Louis Lagrange proved it using results due to Leonhard Euler.
+Arithmetica was originally written in thirteen books, but the Greek manuscripts that survived to the present contain no more than six books. In 1968, Fuat Sezgin found four previously unknown books of Arithmetica at the shrine of Imam Rezā in the holy Islamic city of Mashhad in northeastern Iran. The four books are thought to have been translated from Greek to Arabic by Qusta ibn Luqa (820–912). Norbert Schappacher has written:
+
+The four missing books resurfaced around 1971 in the Astan Quds Library in Meshed (Iran) in a copy from 1198 AD.  It was not catalogued under the name of Diophantus (but under that of Qusta ibn Luqa) because the librarian was apparently not able to read the main line of the cover page where Diophantus’s name appears in geometric Kufi calligraphy.
+
+Arithmetica became known to mathematicians in the Islamic world in the tenth century when Abu'l-Wefa translated it into Arabic.
+
+Syncopated algebra
+Diophantus was a Hellenistic mathematician who lived circa 250 AD, but the uncertainty of this date is so great that it may be off by more than a century. He is known for having written Arithmetica, a treatise that was originally thirteen books but of which only the first six have survived. 
+Arithmetica is the earliest extant work present that solve arithmetic problems by algebra. Diophantus however did not invent the method of algebra, which existed before him. [Algebra](719) was practiced and diffused orally by practitioners, with Diophantus picking up technique to solve problems in arithmetic.
+In modern algebra a Laurent polynomial is linear combination of some variables, raised to integer powers, which behaves under multiplication, addition, and subtraction. [Algebra](719) of Diophantus, similar to medieval arabic algebra is aggregation of objects of different types with no operations present
+For example, the Laurent polynomial written as 
+  
+    
+      
+        6
+        
+          
+            
+              1
+              4
+            
+          
+        
+        
+          x
+          
+            −
+            1
+          
+        
+        +
+        25
+        
+          x
+          
+            2
+          
+        
+        −
+        9
+      
+    
+    {\displaystyle 6{\tfrac {1}{4}}x^{-1}+25x^{2}-9}
+  
+ in modern notation is written by Diophantus as "6 4′ inverse Powers, 25 Powers lacking 9 units", or "a collection of 
+  
+    
+      
+        6
+        
+          
+            
+              1
+              4
+            
+          
+        
+      
+    
+    {\displaystyle 6{\tfrac {1}{4}}}
+  
+ object of one kind with 25 object of second kind which lack 9 objects of third kind with no operation present".
+Similar to medieval Arabic algebra Diophantus uses three stages to solution of a problem by [Algebra](719):
+1) An unknown is named and an equation is set up
+2) An equation is simplified to a standard form( al-jabr and al-muqābala in arabic)
+3) Simplified equation is solved
+Diophantus does not give classification of equations in six types like Al-Khwarizmi in extant parts of Arithmetica. He does says that he would give solution to three terms equations later, so this part of work is possibly just lost
+In Arithmetica, Diophantus is the first to use symbols for unknown numbers as well as abbreviations for powers of numbers, relationships, and operations; thus he used what is now known as syncopated algebra. The main difference between Diophantine syncopated algebra and modern algebraic notation is that the former lacked special symbols for operations, relations, and exponentials. So for example, what would be written in modern notation as
+
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        −
+        2
+        
+          x
+          
+            2
+          
+        
+        +
+        10
+        x
+        −
+        1
+        =
+        5
+        ,
+      
+    
+    {\displaystyle x^{3}-2x^{2}+10x-1=5,}
+  
+
+which can be rewritten as
+
+  
+    
+      
+        
+          (
+          
+            
+              
+                x
+                
+                  3
+                
+              
+            
+            1
+            +
+            
+              x
+            
+            10
+          
+          )
+        
+        −
+        
+          (
+          
+            
+              
+                x
+                
+                  2
+                
+              
+            
+            2
+            +
+            
+              
+                x
+                
+                  0
+                
+              
+            
+            1
+          
+          )
+        
+        =
+        
+          
+            x
+            
+              0
+            
+          
+        
+        5
+        ,
+      
+    
+    {\displaystyle \left({x^{3}}1+{x}10\right)-\left({x^{2}}2+{x^{0}}1\right)={x^{0}}5,}
+  
+
+would be written in Diophantus's syncopated notation as
+
+  
+    
+      
+        
+          
+            K
+          
+          
+            υ
+          
+        
+        
+          
+            α
+            ¯
+          
+        
+        
+        ζ
+        
+          
+            ι
+            ¯
+          
+        
+        
+        
+        ⋔
+        
+        
+        
+          Δ
+          
+            υ
+          
+        
+        
+          
+            β
+            ¯
+          
+        
+        
+        
+          M
+        
+        
+          
+            α
+            ¯
+          
+        
+        
+        
+      
+    
+    {\displaystyle \mathrm {K} ^{\upsilon }{\overline {\alpha }}\;\zeta {\overline {\iota }}\;\,\pitchfork \;\,\Delta ^{\upsilon }{\overline {\beta }}\;\mathrm {M} {\overline {\alpha }}\,\;}
+  
+ἴ
+  
+    
+      
+        σ
+        
+        
+        
+          M
+        
+        
+          
+            ε
+            ¯
+          
+        
+      
+    
+    {\displaystyle \sigma \;\,\mathrm {M} {\overline {\varepsilon }}}
+  
+
+where the symbols represent the following:
+
+Unlike in modern notation, the coefficients come after the variables and addition is represented by the juxtaposition of terms. A literal symbol-for-symbol translation of Diophantus's syncopated equation into a modern symbolic equation would be the following:
+
+  
+    
+      
+        
+          
+            x
+            
+              3
+            
+          
+        
+        1
+        
+          x
+        
+        10
+        −
+        
+          
+            x
+            
+              2
+            
+          
+        
+        2
+        
+          
+            x
+            
+              0
+            
+          
+        
+        1
+        =
+        
+          
+            x
+            
+              0
+            
+          
+        
+        5
+      
+    
+    {\displaystyle {x^{3}}1{x}10-{x^{2}}2{x^{0}}1={x^{0}}5}
+  
+
+where to clarify, if the modern parentheses and plus are used then the above equation can be rewritten as:
+
+  
+    
+      
+        
+          (
+          
+            
+              
+                x
+                
+                  3
+                
+              
+            
+            1
+            +
+            
+              x
+            
+            10
+          
+          )
+        
+        −
+        
+          (
+          
+            
+              
+                x
+                
+                  2
+                
+              
+            
+            2
+            +
+            
+              
+                x
+                
+                  0
+                
+              
+            
+            1
+          
+          )
+        
+        =
+        
+          
+            x
+            
+              0
+            
+          
+        
+        5
+      
+    
+    {\displaystyle \left({x^{3}}1+{x}10\right)-\left({x^{2}}2+{x^{0}}1\right)={x^{0}}5}
+  
+However the distinction between "rhetorical algebra", "syncopated algebra" and "symbolic algebra" is considered outdated by Jeffrey Oaks and Jean Christianidis. The problems were solved on dust-board using some notation, while in books solution were written in "rhetorical style".
+Arithmetica also makes use of the identities:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  (
+                  
+                    
+                      a
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      b
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+                
+                  (
+                  
+                    
+                      c
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      d
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+              
+              
+                
+                =
+                (
+                a
+                c
+                +
+                d
+                b
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                (
+                b
+                c
+                −
+                a
+                d
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                (
+                a
+                d
+                +
+                b
+                c
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                (
+                a
+                c
+                −
+                b
+                d
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{4}\left(a^{2}+b^{2}\right)\left(c^{2}+d^{2}\right)&=(ac+db)^{2}+(bc-ad)^{2}\\&=(ad+bc)^{2}+(ac-bd)^{2}\\\end{alignedat}}}
+
+See also
+Diophantus II.VIII
+Muhammad ibn Mūsā al-Khwārizmī
+
+Citations
+References
+Boyer, Carl B. (1991). A History of Mathematics (Second ed.). John Wiley & Sons, Inc. ISBN 0-471-54397-7.
+Christianidis, Jean; Oaks, Jeffrey A. (2023). The Arithmetica of Diophantus: a complete translation and commentary. Abingdon, Oxon New York, NY: Routledge. ISBN 1138046353.
+Cooke, Roger (1997). The History of Mathematics: A Brief Course. Wiley-Interscience. ISBN 0-471-18082-3.
+Derbyshire, John (2006). Unknown Quantity: A Real And Imaginary History of [Algebra](719). Joseph Henry Press. ISBN 0-309-09657-X.
+Heath, Sir Thomas L. (2009). Diophantus of Alexandria: A Study in the History of Greek [Algebra](719). Martino Fine Books. ISBN 978-1-57898-754-2.
+Katz, Victor J.; Parshall, Karen Hunger (2014). Taming the Unknown: A History of [Algebra](719) from Antiquity to the Early Twentieth Century. Princeton University Press. ISBN 978-0-691-14905-9.
+Sesiano, Jacques (2011). Books IV to VII of Diophantus' Arithmetica in the Arabic translation attributed to Qusṭā ibn Lūqā. New York Heidelberg Berlin: Springer-Verlag. ISBN 1461381762.
+
+External links
+Diophantus Alexandrinus, Pierre de Fermat, Claude Gaspard Bachet de Meziriac, Diophanti Alexandrini Arithmeticorum libri 6, et De numeris multangulis liber unus. Cum comm. C(laude) G(aspar) Bacheti et observationibus P(ierre) de Fermat. Acc. doctrinae analyticae inventum novum, coll. ex variis eiu. Tolosae 1670, doi:10.3931/e-rara-9423.

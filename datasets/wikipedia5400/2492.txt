@@ -1,0 +1,66 @@
+2492
+Ball (association football)
+A football or soccer ball is the ball used in the sport of association football. The ball's spherical shape, as well as its size, weight, mass, and material composition, are specified by Law 2 of the Laws of the Game maintained by the International Football Association Board. Additional, more stringent standards are specified by FIFA and other big governing bodies for the balls used in the competitions they sanction.
+Early footballs began as animal bladders or stomachs that would easily fall apart if kicked too much. Improvements became possible in the 19th century with the introduction of rubber and discoveries of vulcanization by [Charles Goodyear](2069). The modern 32-panel ball design was developed in 1962 by Eigil Nielsen, and technological research continues to develop footballs with improved performance. The 32-panel ball design was soon joined by 24-panel balls as well as 42-panel balls, both of which improved on performance prior to 2007.
+A black-and-white patterned spherical truncated icosahedron design, brought to prominence by the [Adidas](1829) Telstar, has become a symbol of association football. Many different designs of balls exist, varying both in appearance and physical characteristics.
+
+History
+First years of football codes
+In the year 1863, the first specifications for footballs were set by the Football Association. Previous to this, footballs were made out of inflated animal bladder, with later leather coverings to help footballs maintain their shapes and sizes. In 1872,  the specifications were revised and have been kept essentially unchanged by the International Football Association Board. Differences in footballs made since this rule came into effect have been with the material used to create them.
+Footballs have dramatically changed over time. During medieval times balls were normally made from an outer shell of leather filled with cork shavings. Another method of creating a ball was using animal bladders to make it inflatable inside. However, these two styles of footballs were easy to puncture and were inadequate for kicking.  It was not until the 19th century that footballs developed a more modern appearance.
+
+Vulcanization
+In 1838, [Charles Goodyear](2069) introduced vulcanized rubber, which dramatically improved football. Vulcanization is the treatment of rubber to give it certain qualities such as strength, elasticity, and resistance to solvents. Vulcanization of rubber also helps the football resist moderate heat and cold.  Vulcanization helped create inflatable bladders that pressurize the outer panel arrangement of the football. [Charles Goodyear](2069)'s innovation increased the bounce ability of the ball and made it easier to kick. Most balls of this time had tanned leather with eighteen sections stitched together. These were arranged in six panels of three strips each.
+
+Reasons for improvement
+During the 1900s, footballs were made out of leather with a lace of the same material (known as tiento in Spanish) used to stitch the panels. Although leather was perfect for bouncing and kicking the ball, when heading the football (hitting it with the player's head) it was usually painful. This problem was most probably due to water absorption of the leather from rain, which caused a considerable increase in weight, causing head or neck injury. By around 2017, this had also been associated with dementia in former players. Another problem of early footballs was that they deteriorated quickly, as the plastic used in manufacturing varied in thickness and in quality.
+The ball without the leather lace was developed and patented by Romano Polo, Antonio Tossolini and Juan Valbonesi in 1931 in Bell Ville, Córdoba Province, [Argentina](1862). This innovative ball (named Superball) was adopted by the Argentine Football Association as the official ball for its competitions since 1932.
+
+Latest developments
+The deformation of the football when it is kicked or when the ball hits a surface is tested. Two styles of footballs have been tested by the Sports Technology Research Group of Wolfson School of Mechanical and Manufacturing Engineering in Loughborough University; these two models are called the Basic FE model and the Developed FE model of the football. The basic model considered the ball as a spherical shell with isotropic material properties. The developed model also used isotropic material properties but included an additional stiffer stitching seam region.
+Manufacturers are experimenting with microchips and even cameras embedded inside the ball. The microchip technology was considered for the goal-line technology. The ball used in the 2018 FIFA World Cup in Russia had an embedded chip which did not provide any measurements, but provided 'user experience' via smartphone after connecting with the ball via NFC.
+
+Future developments
+Companies such as Umbro, Mitre, [Adidas](1829), Nike, Select and Puma are releasing footballs made out of new materials which are intended to provide more accurate flight and more power to be transferred to the football.
+
+Specification
+Construction
+Modern footballs are more complex than past footballs. Most footballs consist of twelve regular pentagonal and twenty regular hexagonal panels positioned in a truncated icosahedron spherical geometry. Some premium-grade 32-panel balls use non-regular polygons to give a closer approximation to sphericality. The inside of the football is made up of a latex or butyl rubber bladder which enables the football to be pressurised. The ball's outside is made of leather, synthetic leather, polyurethane or PVC panels. The surface can be textured, weaved or embossed for greater control and touch. The panel pairs are either machine-stitched, hand-stitched or thermo-bonded (glued and bonded by heat) along the edge. To prevent water absorption balls may be specially coated, or the stitches bonded with glue. The size of a football is roughly 22 cm (8.66 inches) in diameter for a regulation size 5 ball. Rules state that a size 5 ball must be 68 to 70 cm (27 to 28 in) in circumference. Averaging that to 69 cm (27 in) and then dividing by π gives a diameter of about 22 cm (8.7 in).
+
+Size and weight
+Regulation size and weight for a football is a circumference of 68–70 cm (27–28 in) and a weight of 410–450 g (14–16 oz). The ball is inflated to a pressure of 0.6–1.1 bars (8.7–16.0 psi) at sea level. This is known as "Size 5". Smaller balls, Sizes 1, 3, and 4, are also produced for younger players or as training tools. Following consultations with football associations, clubs and ball manufacturers, FIFA has developed non-compulsory recommendations for appropriate sizes, circumferences and weights of balls for different age groups of youth football.
+
+Types of ball
+There are different types of football balls depending on the match and turf including training footballs, match footballs, professional match footballs, beach footballs, street footballs, indoor footballs, turf balls, futsal footballs and mini/skills footballs.
+
+Professional/premium match footballs are developed with top professional clubs to maximize players natural abilities and skills. They are FIFA-approved for use at the highest professional and international levels and designed for performance, exact specifications, great accuracy, speed and control. Air retention, water-resistance, and performance are far superior when compared to a training ball. They are intended for all natural and artificial turf surfaces and all climates. These are the most expensive footballs.
+Matchday footballs are high performance range of balls for all playing surfaces. The outer casing is either leather or an approved synthetic and it will typically be water-resistant as well. They are guaranteed to conform to official size, weight, and texture regulations, designed to suit all levels of play and all age groups. These balls cost more than turf or training balls, which is offset by their superior level of quality.
+Recreational/practice/training footballs are tough and highly durable balls for extended use. Made of robust materials for use on all playing surfaces and used by players at any level. Practice balls are the least expensive balls when compared with match type footballs.
+Turf balls are specifically designed to work on artificial surfaces that mimic grass. They are durable and reasonably affordable, but tend to skip more when used on a natural pitch.
+Promotional balls are usually made to promote a name brand, organization or event.
+Indoor footballs come in the same sizes as outdoor soccer balls but are designed to have less bounce and rebound in them, making it possible to control the ball on a smaller court or indoor arena. The cover of an indoor ball is also the strongest of any category, so it can withstand the hard rebound impact on the court flooring and wall surfaces.
+Futsal footballs differ from typical footballs in that the bladder is filled with foam. That makes the ball heavier and with less bounce for use on the hard futsal playing surface. A futsal football is smaller in size to a football used on the football pitch.
+
+Suppliers
+Many companies throughout the world produce footballs. The earliest balls were made by local suppliers where the game was played. It is estimated that 40% of all footballs are made in Sialkot, Pakistan with other major producers being [China](2217) and India.
+As a response to the problems with the balls in the 1962 FIFA World Cup, [Adidas](1829) created the [Adidas](1829) Santiago – this led to [Adidas](1829) winning the contract to supply the match balls for all official FIFA and UEFA matches, which they have held since the 1970s, and also for the Olympic Games. They also supply the ball for the UEFA Champions League which is called the [Adidas](1829) Finale.
+
+FIFA World Cup
+In early FIFA World Cups, match balls were mostly provided by the hosts from local suppliers. Records indicate a variety of models being used within individual tournaments and even, on some occasions, individual games. Over time, FIFA took more control over the choice of ball used. Since 1970 [Adidas](1829) have supplied official match balls (all of which were made in Sialkot, Pakistan) for every tournament.
+
+League balls
+The most up-to-date balls used in various club football competitions as of 2024–25 season are:
+
+Unicode
+The association football symbol (U+26BD ⚽ SOCCER BALL) was introduced by computing standard Unicode. The symbol was representable in HTML as &#9917; or &#x26BD;. The addition of this symbol follows a 2008 proposal by Karl Pentzlin.
+
+See also
+Ball (gridiron football)
+Football (ball)
+
+Notes
+References
+External links
+
+New York Times interactive feature on the evolution of the world cup ball
+van Rheenen, Erik (16 August 2013). "Why Are Soccer Balls Made of Hexagons?". Mental Floss. Retrieved 16 August 2013.

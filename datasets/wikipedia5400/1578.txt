@@ -1,0 +1,92 @@
+1578
+Asylum seeker
+An asylum seeker is a person who leaves their country of residence, enters another country, and makes in that other country a formal application for the right of asylum according to the Universal Declaration of Human Rights Article 14. A person keeps the status of asylum seeker until the right of asylum application has concluded.
+The relevant immigration authorities of the country of asylum determine whether the asylum seeker will be granted the right of asylum protection or whether asylum will be refused and the asylum seeker becomes an illegal immigrant who may be asked to leave the country and may even be deported in line with non-refoulement. Signatories to the Universal Declaration of Human Rights create their own policies for assessing the protection status of asylum seekers, and the proportion of asylum applicants who are accepted or rejected varies each year from country to country.
+The asylum seeker may be simultaneously recognized as a refugee and given refugee status if their circumstances fall into the definition of refugee according to the Convention relating to the Status of Refugees or regionally applicable refugee laws—such as the European Convention on Human Rights, if within the [European Union](1200).
+The terms asylum seeker, refugee and illegal immigrant are often confused. In North American English, the term asylee is used both for an asylum seeker, as defined above, and a person whose right of asylum has been granted. On average, about 1-2 million people apply globally for asylum every year.
+
+Asylum and protection
+The right of asylum according to the Article 14 of Universal Declaration of Human Rights:
+
+1. Everyone has the right to seek and to enjoy in other countries asylum from persecution.
+2. This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
+
+Asylum seekers who have committed crimes against peace, a war crime or a crime against humanity, or other non-political crimes, or whose actions are contrary to the purposes and principles of the United Nations, are excluded from international protection. This asylum right is also included in 1951 Convention Relating to the Status of Refugees and 1967 Protocol Relating to the Status of Refugees. As of 1 July 2013, there were 145 parties to the 1951 Refugee Convention and 146 to the 1967 Protocol. These states are bound by an obligation under international law to grant asylum to people who fall within the definition of Convention and Protocol.  Persons who do not fall within this definition may still be granted refugee according to the refugee definitions of 1951 Convention Relating to the Status of Refugees and the 1967 Protocol Relating to the Status of Refugees and persons who fall within this definition are called Convention refugees and their status is called Convention refugee status. Complementary forms of protection exist depending on country if the person falls within other refugee definitions.
+The practical determination of whether a person obtains the right of asylum or not is most often left to certain government agencies within the host country. In some countries the refugee status determination (RSD) is done by the UNHCR. The burden of substantiating an asylum claim lies with the claimant, who must establish that they qualify for protection.
+In many countries, country-of-origin information is used by migration officials as part of the assessment of asylum claims, and governments commission research into the accuracy of their country reports. Some countries have studied the rejection rates of their migration officials making decisions, finding that individuals reject more applicants than others assessing similar cases—and migration officials are required to standardise the reasons for accepting or rejecting claims, so that the decision of one adjudicator is consistent with what their colleagues decide.
+
+Subsidiary protection status
+Subsidiary protection is an international protection for persons seeking asylum who do not qualify as refugees. It is an option to get asylum for those who do not have a well-founded fear of persecution (which is required for refugee status according to the 1951 Convention), but do indeed have a substantial risk to be subjected to torture or to a serious harm if they are returned to their country of origin, for reasons that include war, violence, conflict and massive violations of human rights. The Universal Declaration of Human Rights and [European Union](1200) law have a broader definition of who is entitled to asylum.
+
+Temporary protection visa
+Temporary protection visas are used to persons in Australia who applied for refugee status after making an unauthorised arrival. It is the main type of visa issued to refugees when released from Australian immigration detention facilities and they are required to reapply for it every three years.
+
+Statistics of asylum decisions
+Outcomes of asylum applications 2000-2023 according to UNHCR:
+
+Status determination processes
+Group determination
+Asylum seekers may be given refugee status on a group basis. Refugees who went through the group status determination are also referred to as prima facie refugees. This is done in situations when the reasons for seeking refugee status are generally well known and individual assessment would otherwise overwhelm the capacities of assessors. Group determination is more readily done in states that not only have accepted the refugee definition of the 1951 Convention, but also use a refugee definition that includes people fleeing indiscriminate or generalized violence, which are not covered in the 1951 Convention.
+
+Individual assessment
+For persons who do not come into the country as part of a bigger group, individual asylum interviews are conducted to establish whether the person has sufficient reasons for seeking asylum. Meanwhile, high numbers of asylum seekers necessitate governments to provide machine learning systems to assist both asylum seekers and immigration officers in performing fair and just assessments.
+
+Appeals
+In many countries, asylum applicants can challenge a rejection by challenging the decision in a court or migration review panel. In the United Kingdom, more than one in four decisions to refuse an asylum seeker protection are overturned by immigration judges.
+
+Rights of asylum seekers
+Whilst waiting for a decision asylum seekers have limited rights in the country of asylum. In most countries they are not allowed to work and in some countries not even to volunteer. In some countries they are not allowed to move freely within the country. Even access to health care is limited. In the [European Union](1200), those who have yet to be granted official status as refugees and are still within the asylum process have some restricted rights to healthcare access. This includes access to medical and psychological care. However, these may vary depending on the host country.  For instance, under the Asylum Seekers Benefits Act (Asylbewerberleistungsgesetz) in Germany, asylum seekers are outside primary care and are limited to emergency health care, vaccinations, pregnancy and childbirth with limitations on specialty care.  Asylum seekers have greater chance of experiencing unmet health needs as compared to the general German population. Asylum seekers also have greater odds of hospital admissions and at least one visit to a psychotherapist relative to the German general population.
+
+Concerns in asylum-seeking processes
+Research suggests cross-sector collaboration is key to assist refugees and asylum seekers resettle and integrate into receiving communities, workplaces and schools.
+Non-governmental organizations concerned with refugees and asylum seekers have pointed out difficulties for displaced persons to seek asylum in industrialized countries. As the immigration policy in many countries often focuses on the fight of illegal immigration and the strengthening of border controls, it deters displaced persons from entering territory in which they could lodge an asylum claim. The lack of opportunities to legally access the asylum procedures can force displaced persons to undertake often expensive and hazardous attempts at illegal entry.
+In recent years, the public as well as policy makers of many countries are focusing more and more on refugees arriving through third country resettlement and pay less and less attention to asylum seekers and those who have already been granted refugee status but did not come through resettlement. Asylum seekers have even been referred to as 'queue jumpers', because they did not wait for their chance to be resettled.
+Legal interpreters are assigned to assist asylum seekers throughout interviews and court proceedings. These legal interpreters reflect the training they received in the training program they were certified in. The accuracy of the legal interpretation may vary depending on the training received from the interpreter and potential biases they carry coming into the interpreting session. Lack of training in asylum settings may influence interpretation sessions.
+Quality of life of asylum seekers and refugees is highly correlated with the mental health status. The presence of mental disorders like depression or PTSD is mainly due to the forced migration and the resettlement in host countries.
+
+Challenges in Relaying Trauma and Experiences
+Asylum seekers encounter significant challenges in effectively conveying their traumatic experiences during the asylum application process. A comprehensive study by Sarah C. Bishop, examining nonverbal communication in US asylum interviews and hearings, highlights several critical elements influencing asylum seekers' ability to articulate their narratives.
+The study underscores the complexity of asylum seekers' narratives, often shaped by emotional distress and the need to recount traumatic events within strict timelines. This pressure contributes to fragmented storytelling. This case leads to difficulties in presenting a coherent account of their experiences.
+Language barriers further compound these challenges. Asylum seekers' linguistic disparities and stress during interviews impede their ability to articulate experiences accurately. Stress-induced memory lapses contribute to incomplete or non-sequential storytelling, affecting the quality and coherence of their narratives.
+Additionally, the study delves into nonverbal communication complexities, particularly regarding eye contact and credibility within asylum hearings. Cultural variations in eye contact influence credibility assessments, potentially leading to misinterpretations by immigration personnel. Differing cultural expectations impact asylum seekers' credibility assessments, potentially affecting the outcomes of their claims.
+
+Destitution
+Because asylum seekers often have to wait for months or years for the results of their asylum applications and because they are usually not allowed to work and only receive minimal or no financial support, destitution is a considerable risk.
+Asylum seekers usually get some kind of support from governments whilst their application is processed. However, in some countries this support ends immediately once they are given refugee status. But the fact that they were given refugee status does not mean that they were already given all the documents they need for starting their new lives.
+Long waiting times significantly reduce the likelihood to obtain a job and the social integration of refugees.
+
+Vacation
+Asylum seekers vacationing in home country has been argued as a reason for refusal of asylum.
+
+Identity
+Absence of identity documents or disputes of identity can make the demonstration of persecution for the right of asylum more complex.
+
+Refusal of asylum
+It often happens that the country neither recognizes the refugee status of the asylum seekers nor sees them as legitimate migrants and thus treats them as illegal aliens. If an asylum claim has been rejected, the asylum seeker is said to be refused asylum and called a failed asylum seeker. Some failed asylum seekers return home voluntarily. Depending on the country, failed asylum seekers are allowed to remain temporarily or are forcibly returned in line with non-refoulement. The latter are most often placed in immigration detention before being deported.
+
+Asylum and refugee law by jurisdiction
+See also
+Church asylum
+Dispersal Act, Netherlands asylum legislation
+Impediment to expulsion
+Internally displaced person
+Forced displacement in popular culture
+Integration of immigrants
+Refugee employment
+Refugee identity certificate
+Refugee roulette
+Sanctuary city
+Statelessness
+Transgender asylum seekers
+
+Related organizations
+Organization for Refugees Asylum and Migration
+Amnesty International
+International Committee of the Red Cross
+International Cities of Refuge Network
+United Nations High Commissioner for Refugees
+
+References
+Notes
+Further reading
+Hatton, Timothy J. 2020. "Asylum Migration to the Developed World: Persecution, Incentives, and Policy. " Journal of Economic Perspectives 34(1):75-93.

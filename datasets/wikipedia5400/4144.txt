@@ -1,0 +1,29 @@
+4144
+Ann Graybiel
+Ann Martin Graybiel (born 1942) is an Institute Professor and a faculty member in the Department of Brain and Cognitive Sciences at the [Massachusetts Institute of Technology](4006). She is also an investigator at the McGovern Institute for Brain Research. She is an expert on the basal ganglia and the neurophysiology of habit formation, implicit learning, and her work is relevant to Parkinson's disease, Huntington's disease, obsessive–compulsive disorder, substance abuse and other disorders that affect the basal ganglia.
+
+Research
+For much of her career, Graybiel has focused on the physiology of the striatum, a basal ganglia structure implicated in the control of movement, cognition, habit formation, and decision-making. In the late 1970s, Graybiel discovered that while striatal neurons appeared to be an amorphous mass, they were in fact organized into chemical compartments, which she termed striosomes. Later research revealed links between striosomal abnormalities and neurological disorders, such as mood dysfunction in Huntington's disease and depletion of dopamine in Parkinson's disease.
+Graybiel's subsequent research demonstrated how modular organization of the striatum relates to cognition, learning, and habit formation. She found that neurons project from areas in the sensory and motor cortices governing the same body part and cluster together in the striatum, forming matrisomes. Graybiel  went on to show that matrisomes exist for each body part and were organized into loops connecting the neocortex, a region responsible for cognition, perception and motor control, to the brain stem, a region coordinating movement. Studies of rodents and primates revealed that matrisomes were crucial to habit formation.
+In later work, Graybiel demonstrated, first in the striatum and later in the infralimbic cortex, that a task-bracket or "chunking" pattern of neuronal activity emerges when a habit is formed, wherein neurons activate when a habitual task is initiated, show little activity during the task, and reactivate when the task is completed.
+In more recent work, Graybiel has focused on identifying specific pathways underlying aspects of behavior such as habit formation, learning and cognition, and decision-making, including being the first to analyze the effect of dopamine depletion on the activity of neurons affected by Parkinson's disease during behavioral tasks.
+
+Career
+Graybiel majored in biology and chemistry at Harvard University, receiving her bachelor's degree in 1964. After receiving an MA in biology from Tufts University in 1966, she began doctoral study in psychology and brain science at MIT under the direction of Hans-Lukas Teuber and Walle Nauta. She received her PhD in 1971 and joined the MIT faculty in 1973.
+In 1994, Graybiel was one of 16 women faculty in the School of Science at MIT who drafted and co-signed a letter to the then-Dean of Science (now Chancellor of Berkeley) Robert Birgeneau, which started a campaign to highlight and challenge gender discrimination at MIT. 
+Also in 1994, she was named the Walter A. Rosenblith Professor Neuroscience in the Department of Brain and Cognitive Science and was named an Investigator at the MIT McGovern Institute for Brain research in 2001. She was named Institute Professor in 2008.
+
+Awards and recognition
+In 2001, Graybiel was awarded the President's National Medal of Science for "her pioneering contributions to the understanding of the anatomy and physiology of the brain, including the structure, chemistry, and function of the pathways subserving thought and movement."  In 2012, she was awarded the Kavli Prize in Neuroscience, along with Cornelia Bargmann and Winfried Denk, "for elucidating basic neuronal mechanisms underlying perception and decision."
+
+In 2018, Graybiel won the Gruber Prize in Neuroscience along with Okihide Hikosaka and Wolfram Schultz. Their work has fundamentally transformed the study of the basal ganglia and has led to influential new ideas about how the brain learns and retains new habits and skills, manages movements and processes rewards for learning and decision-making. It has also deepened our understanding of a wide range of neurodegenerative and neuropsychiatric disorders in which the basal ganglia and behavioral control is compromised.
+"When these three extraordinary scientists began their careers, few people were paying much attention to the basal ganglia," says Dr. Robert Wurtz, NIH Distinguished Investigator and chair of the Selection Advisory Board to the Prize. "Today, thanks to their pioneering research, we now recognize the central role that this area of the brain plays in normal brain function and behavior. The significance of their work cannot be overstated, as it has also transformed our understanding of the neurobiology behind some of our most devastating brain disorders, including Parkinson's disease, Huntington's disease, and drug addiction."
+
+Graybiel discovered that the striatum, the largest nucleus within the basal ganglia, has a complex, modular structure. She then followed this transformative discovery with studies describing the functionally of that architecture, including the finding that changes in striatal neural activity during the learning process lead to the formation of pathological habits, such as those that characterize obsessive compulsive disorder.She is a member of the US National Academy of Sciences, the [American Academy of Arts and Sciences](3132), the [American Philosophical Society](3133), the National Academy of Medicine (formerly Institute of Medicine), and the Norwegian Academy of Science and Letters.
+
+References
+External links
+
+Graybiel Lab
+McGovern Institute for Brain Research at MIT
+Profile of Graybiel in the MIT Technology Review.

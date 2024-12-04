@@ -1,0 +1,29 @@
+813
+Anjuta
+Anjuta was an integrated development environment written for the GNOME project. It had support for C, [C++](640), Java, JavaScript, Python and Vala programming language. In May 2022, the project was archived due to a lack of maintainers. Since October 2022 the project's former homepage no longer exists and the domain is owned by an SBOBET, an Indonesian gambling website. It has been superseded by GNOME Builder.
+
+Anjuta DevStudio
+The goal of Anjuta DevStudio was to provide a customizable and extensible IDE framework and at the same time provide implementations of common development tools. Libanjuta was the framework that realizes the Anjuta IDE plugin framework and Anjuta DevStudio realizes many of the common development plugins.
+It integrated programming tools such as the Glade Interface Designer and the Devhelp API help browser.
+
+Features
+Anjuta features:
+
+Interactive debugger built over GDB and integrated compiler
+Source code editor with source browsing,
+code completion and syntax highlighting,
+Project management
+Application wizard
+CVS and Subversion version control system integration
+
+Reception
+The German magazine LinuxUser recognized Anjuta 1.0.0 (released in 2002) as a good step to increase the number of native GNOME/GTK applications, stating that the application has a very intuitive GUI and new useful features.
+In April 2017, Anjuta was removed from the OpenBSD ports tree, with stagnation of development and existence of alternatives cited as reasons.
+
+See also
+Comparison of integrated development environments
+List of GNOME applications
+
+References
+Further reading
+Schulz, Hajo (2002). "Selbst geschneidert — Software-Kollektion für Entwickler". c't (in German) (13): 150.

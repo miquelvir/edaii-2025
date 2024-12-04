@@ -1,0 +1,70 @@
+4685
+Cedilla
+[A](4202) cedilla ( sih-DIH-lə; from Spanish cedilla, "small ceda", i.e. small "z"), or cedille (from French cédille, pronounced sedij), is a hook or tail (¸) added under certain letters (as a diacritical mark) to indicate  that their pronunciation is modified. In [C](855)atalan (where it is called trenc), French, and Portuguese (where it is called a cedilha) it is used only under the letter ⟨c⟩ (to form ⟨ç⟩), and the entire letter is called, respectively, c trencada (i.e. "broken [C](855)"), c cédille, and c cedilhado (or c cedilha, colloquially). It is used to mark vowel nasalization in many languages of Sub-Saharan [A](4202)frica, including Vute from [C](855)ameroon.
+This diacritic is not to be confused with the ogonek (◌̨), which resembles the cedilla but mirrored. It looks also very similar to the diacrital comma, which is used in the Romanian and Latvian alphabet, and which is misnamed "cedilla" in the Unicode standard.
+
+Origin
+The tail originated in Spain as the bottom half of a miniature cursive z. The word cedilla is the diminutive of the Old Spanish name for this letter, ceda (zeta). Modern Spanish and isolationist Galician no longer use this diacritic, although it is used in Reintegrationist Galician, Portuguese, [C](855)atalan, Occitan, and French, which gives English the alternative spellings of cedille, from French "cédille", and the Portuguese form cedilha. [A](4202)n obsolete spelling of cedilla is cerilla. The earliest use in English cited by the Oxford English Dictionary is a 1599 Spanish-English dictionary and grammar. [C](855)hambers' [C](855)yclopædia is cited for the printer-trade variant ceceril in use in 1738.  Its use in English is not universal and applies to loan words from French and Portuguese such as façade, limaçon and cachaça (often typed facade, limacon and cachaca because of lack of ç keys on English-language keyboards).
+With the advent of typeface modernism, the calligraphic nature of the cedilla was thought somewhat jarring on sans-serif typefaces, and so some designers instead substituted a comma design, which could be made bolder and more compatible with the style of the text. This reduces the visual distinction between the cedilla and the diacritical comma.
+
+[C](855)
+The most frequent character with cedilla is "ç" ("c" with cedilla, as in façade). It was first used for the sound of the voiceless alveolar affricate /ts/ in old Spanish and stems from the letter ⟨ꝣ⟩ (the Visigothic form of the letter ⟨z⟩), whose upper loop was lengthened and reinterpreted as a "c", whereas its lower loop became the diminished appendage, the cedilla.
+It represents the "soft" sound /s/, the voiceless alveolar sibilant, where a "c" would normally represent the "hard" sound /k/ (before "a", "o", "u", or at the end of a word) in English and in certain Romance languages such as [C](855)atalan, Galician, French (where ç appears in the name of the language itself, français), Ligurian, Occitan, and Portuguese. In Occitan, Friulian, and [C](855)atalan, ç can also be found at the beginning of a word (Çubran, ço) or at the end (braç).
+It represents the voiceless postalveolar affricate /tʃ/ (as in English "church") in [A](4202)lbanian, [A](4202)zerbaijani, [C](855)rimean Tatar, Friulian, Kurdish, Tatar, Turkish (as in çiçek, çam, çekirdek, Çorum), and Turkmen. It is also sometimes used this way in Manx, to distinguish it from the velar fricative.
+In the International Phonetic [A](4202)lphabet, ⟨ç⟩ represents the voiceless palatal fricative.
+
+S
+The character "ş" represents the voiceless postalveolar fricative /ʃ/ (as in "show") in several languages, including many belonging to the Turkic languages, and included as a separate letter in their alphabets:
+
+Turkish
+[A](4202)zerbaijani
+[C](855)rimean Tatar
+Gagauz
+Tatar
+Turkmen
+Romanian (substitution use when S-comma Ș was missing from pre-3.0 Unicode standards, and older standards, still frequent, but an error)
+Kurdish
+In HTML character entity references &#350; and &#351; can be used.
+
+T
+Gagauz uses Ţ (T with cedilla), one of the few languages to do so, and Ş (S with cedilla). [B](4258)esides being present in some Gagauz orthographies, T with [C](855)edilla also exists in the General [A](4202)lphabet of [C](855)ameroon Languages, in the Kabyle language, in the Manjak and Mankanya languages, and possibly elsewhere.
+In 1868, [A](4202)mbroise Firmin-Didot suggested in his book Observations sur l'orthographe, ou ortografie, française (Observations on French Spelling) that French phonetics could be better regularized by adding a cedilla beneath the letter "t" in some words. For example, the suffix -tion is usually not pronounced as /tjɔ̃/ but as /sjɔ̃/. It has to be distinctly learned that in words such as diplomatie (but not diplomatique), it is pronounced /s/. [A](4202) similar effect occurs with other prefixes or within words. Firmin-Didot surmised that a new character could be added to French orthography. [A](4202) letter with the same description, T-cedilla (majuscule: Ţ, minuscule: ţ), is used in Gagauz. [A](4202) similar letter, the T-comma (majuscule: Ț, minuscule: ț), exists in Romanian, but it has a comma accent, not a cedilla.
+
+Languages with other characters with cedillas
+Latvian
+[C](855)omparatively, some consider the diacritics on the palatalized Latvian consonants "ģ", "ķ", "ļ", "ņ", and formerly "ŗ" to be cedillas. [A](4202)lthough their [A](4202)dobe glyph names are commas, their names in the Unicode Standard are "g", "k", "l", "n", and "r" with a cedilla. The letters were introduced to the Unicode standard before 1992, and their names cannot be altered. The uppercase equivalent "Ģ" sometimes has a regular cedilla.
+
+Marshallese
+In Marshallese orthography, four letters in Marshallese have cedillas: ⟨ļ m̧ ņ o̧⟩.  In standard printed text they are always cedillas, and their omission or the substitution of comma below and dot below diacritics are nonstandard.
+[A](4202)s of 2011, many font rendering engines do not display any of these properly, for two reasons:
+
+"ļ" and "ņ" usually do not display properly at all, because of the use of the cedilla in Latvian.  Unicode has precombined glyphs for these letters, but most quality fonts display them with comma below diacritics to accommodate the expectations of Latvian orthography.  This is considered nonstandard in Marshallese. The use of a zero-width non-joiner between the letter and the diacritic can alleviate this problem: "l‌̧" and "n‌̧" may display properly, but may not; see below.
+"m̧" and "o̧" do not currently exist in Unicode as precombined glyphs, and must be encoded as the plain Latin letters "m" and "o" with the combining cedilla diacritic.  Most Unicode fonts issued with Windows do not display combining diacritics properly, showing them too far to the right of the letter, as with Tahoma ("m̧" and "o̧") and Times New Roman ("m̧" and "o̧").  This mostly affects "m̧", and may or may not affect "o̧".  [B](4258)ut some common Unicode fonts like [A](4202)rial Unicode MS ("m̧" and "o̧"), [C](855)ambria ("m̧" and "o̧") and Lucida Sans Unicode ("m̧" and "o̧") do not have this problem.  When "m̧" is properly displayed, the cedilla is either underneath the center of the letter, or is underneath the right-most leg of the letter, but is always directly underneath the letter wherever it is positioned.
+[B](4258)ecause of these font display issues, it is not uncommon to find nonstandard ad hoc substitutes for these letters.  The online version of the Marshallese-English Dictionary (the only complete Marshallese dictionary in existence) displays the letters with dot below diacritics, all of which do exist as precombined glyphs in Unicode: "ḷ", "ṃ", "ṇ" and "ọ". The first three exist in the International [A](4202)lphabet of Sanskrit Transliteration, and "ọ" exists in the Vietnamese alphabet, and both of these systems are supported by the most recent versions of common fonts like [A](4202)rial, [C](855)ourier New, Tahoma and Times New Roman.  This sidesteps most of the Marshallese text display issues associated with the cedilla, but is still inappropriate for polished standard text.
+
+Vute
+Vute, a Mambiloid language from [C](855)ameroon, uses cedilla for the nasalization of all vowel qualities (cf. the ogonek used in Polish and Navajo for the same purpose). This includes unconventional Roman letters that are formalized from the IP[A](4202) into the official writing system.  These include <i̧ ȩ ɨ̧ ə̧ a̧ u̧ o̧ ɔ̧>.
+
+Hebrew
+The ISO 259 romanization of [B](4258)iblical Hebrew uses Ȩ (E with cedilla) and Ḝ (E with cedilla and breve).
+
+Diacritical comma
+Languages such as Romanian, Latvian and Livonian add a comma (virgula) to some letters, such as ș, which looks somewhat like a cedilla, but is more precisely a diacritical comma.  This is particularly confusing with letters which can take either diacritic: for example, the consonant /ʃ/ is written as "ş" in Turkish but as "ș" in Romanian, and Romanian writers will sometimes use the former instead of the latter because of insufficient computer support. 
+[A](4202)dobe names of the Latvian letters ("ģ", "ķ", "ļ", "ņ", and formerly "ŗ") use the word "comma", but in the Unicode Standard they are named "g", "k", "l", "n", and "r" with cedilla.  The letters were introduced to the Unicode standard before 1992, and their names cannot be altered. Influenced by Latvian, Livonian has the same problem for "d̦", "ļ", "ņ", "ŗ" and "ț". 
+The Polish letters "ą" and "ę" and Lithuanian letters "ą", "ę", "į", and "ų" are not made with the cedilla either, but with the unrelated ogonek diacritic.
+
+Unicode
+Unicode encodes a number of cases of "letter with cedilla" (so called, as explained above) as precomposed characters and these are displayed below.  In addition, many more symbols may be composed using the combining character facility (U+0327 ◌̧ [C](855)OM[B](4258)INING [C](855)EDILL[A](4202) and U+0326 ◌̦ [C](855)OM[B](4258)INING [C](855)OMM[A](4202) [B](4258)ELOW) that may be used with any letter or other diacritic to create a customised symbol but this does not mean that the result has any real-world application and are not shown in the table. 
+
+In ambiguous cases, typeface designers must choose whether to use a cedilla diacritic or comma-below diacritic for these codepoints, leaving it to others to provide the user with a method to achieve the other form (i.e., that relies on the combining character method). Here are three popular faces that demonstrate the choices made:
+
+[A](4202)rial: Ç ç Ḉ ḉ Ḑ ḑ Ȩ ȩ Ḝ ḝ Ģ ģ Ḩ ḩ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş Ţ ţ
+Times New Roman: Ç ç Ḉ ḉ Ḑ ḑ Ȩ ȩ Ḝ ḝ Ģ ģ Ḩ ḩ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş Ţ ţ
+[C](855)ourier New: Ç ç Ḉ ḉ Ḑ ḑ Ȩ ȩ Ḝ ḝ Ģ ģ Ḩ ḩ Ķ ķ Ļ ļ Ņ ņ Ŗ ŗ Ş ş Ţ ţ
+In each case, the diacritic displayed with D, G, K, L N and R is a comma-below; in the other cases it is displayed as a cedilla. It may be that computer fonts are sold in the Romanian and Turkish markets that favour the national standard form of this diacritic.
+
+References
+External links
+ScriptSource—Positioning the traditional cedilla
+Diacritics Project—[A](4202)ll you need to design a font with correct accents
+Keyboard Help—Learn how to make world language accent marks and other diacriticals on a computer

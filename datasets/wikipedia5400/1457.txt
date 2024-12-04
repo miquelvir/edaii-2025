@@ -1,0 +1,56 @@
+1457
+City region
+City region is a term used by urbanists, economists and urban planners to refer to how one or more core cities are linked to a hinterland by functional ties, such as economic, housing-market, commuting, marketing or retail catchment factors. This concept emphasizes the importance of these functional relationships in understanding urban areas and their surrounding regions, often providing more insightful perspectives than the arbitrary boundaries assigned to administrative bodies.
+
+Global perspective
+Using Geographic information system (GIS) technology, city-regions have been mapped globally, revealing significant interconnectedness among urban centers and their surrounding areas. The Nature Cities article “Worldwide Delineation of Multi-Tier City–Regions” classified over 30,000 urban centers into four tiers—town, small, intermediate, and large city—based on population size and mapped their catchment areas based on travel time rather than administrative boundaries. Travel time is used to reflect daily commuting patterns within a 1-hour limit and less frequent activities up to a 3-hour limit. This publicly available dataset shows that 3.2 billion people have physical access to multiple tiers within an hour, and 4.7 billion within three hours. It also distinguishes between primary and secondary city-regions; in secondary ones, catchment areas of urban centers overlap with those of larger centers. This approach highlights how people rely on multiple urban centers for different needs, with larger centers offering a wider range of activities. For example, a person might shop in a nearby town, work in an intermediate city, and use an airport in a large city, thus belonging to the catchment areas of several urban centers. The City–Regions System Toolbox (CREST) allows to check out any country's distribution in population access to cities of different sizes based on travel time.
+
+United Kingdom
+In the United Kingdom, the city regional agenda began to be seen as an alternative to the regional assemblies in England that were favoured as a partial answer to the West Lothian question but rejected in a referendum by voters in North East England in November 2004.  The concept of city regions and their development features heavily in The Northern Way, a collaborative development plan between the three northernmost English regional development agencies.  An embryonic city regional framework exists in the form of the Passenger Transport Executive and the Core Cities Group.   The October 2006 Local Government White Paper did not contain firm proposals for city-region-wide authorities however.
+The New Local Government Network proposed the creation of city regions as part of on-going reform efforts, while a report released by the IPPR's Centre for Cities proposed the creation of four large city-regions based on [Birmingham](1398), Leeds, Liverpool and Greater Manchester. The strong economy of Edinburgh and its hinterland (Forth Valley, Fife, West Lothian, Midlothian and East Lothian) means it has been named as one of Europe's fasting growing city-regions.
+Also in 2006, the OECD published a number of studies on city regions, including an assessment profile of the Newcastle-Gateshead city region and a review of numerous city regions across the world.
+In July 2007, HM Treasury published its Review of sub-national economic development and regeneration, which stated that the government would allow those city regions that wished to work together to form a statutory framework for city regional activity, including powers over transport, skills, planning and economic development.  Under the government's Transport Innovation Fund, city regions can band together to pilot forms of road pricing, such as the Greater Manchester congestion charge considered by councils in Greater Manchester (but later rejected by referendum).  In the April 2009 Budget, the government announced that Greater Manchester and Leeds would be the first two city regions with formal powers.  While this was later discontinued as a result of the May 2010 general election, the  Conservative–Liberal Democrat coalition government did agree to the creation of the Greater Manchester Combined Authority in 2011, with all other proposals and the regional development agencies being subsumed into the local enterprise partnerships.
+
+France
+Since January 2010 municipalities, departments and cities can combine into a larger body known as a Metropole. The first Metropole in France, Nice-Cote-d'Azur was created in 2011. In 2014 the government of Jean-Marc Ayrault passed a bill that moved away from the voluntary nature and made it mandatory for all Metropolitan areas of over 600,000 inhabitants to become Metropoles as of January 1, 2015. The first 3 mandatory Metropoles are;
+
+Greater Paris
+Aix-Marseille-Provence
+Lyon
+Metropoles take over certain determined responsibilities from the State, other sub-national bodies or quasi-public bodies. Once devolved to the Metropole these responsibilities are the sole responsibility of the Metropole. In addition to assuming responsibility for certain policy Metropoles also take over responsibility for tax collection.
+
+Poland
+Metropolis GZM
+
+Spain
+Community of Madrid
+
+Thailand
+Bangkok Metropolitan Region
+
+Italy
+Metropolitan cities of Italy, previously Provinces of Italy, including Metropolitan City of Rome
+
+Netherlands
+A plusregio (also called stadsregio) is a regional public body of several Dutch municipalities in an urban area which statutory tasks are assigned under Chapter XI of the "Wet gemeenschappelijke regelingen".
+
+Afghanistan
+Five major city regions have been identified in Afghanistan based on functional relationships. These center around Kabul and the four regional hub cities of Herat, Kandahar, Mazari-i-Sharif and Jalalabad. It is estimated that the five city regions comprise approximately one third of the total Afghan population.
+
+References
+Bibliography
+Allen J. Scott (ed.) (2001) Global City-Regions: Trends, Theory Policy, Oxford: Oxford University Press.
+
+External links
+CityMayors feature on English city regions 1
+CityMayors feature on English city regions 2
+NLGN report Seeing the Light? Next Step for City Regions (PDF)
+Centre for Cities 'City Leadership' report
+Defining City Regions - Warwick Podcast
+
+See also
+Catchment area
+Metropolitan area
+Regional planning
+Rural development
+Urban planning

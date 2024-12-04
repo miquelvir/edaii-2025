@@ -1,0 +1,95 @@
+751
+BSD licenses
+BSD licenses are a family of permissive free software licenses, imposing minimal restrictions on the use and distribution of covered software. This is in contrast to copyleft licenses, which have share-alike requirements. The original BSD license was used for its namesake, the Berkeley Software Distribution (BSD), a Unix-like operating system. The original version has since been revised, and its descendants are referred to as modified BSD licenses.
+BSD is both a license and a class of license (generally referred to as BSD-like). The modified BSD license (in wide use today) is very similar to the license originally used for the BSD version of Unix. The BSD license is a simple license that merely requires that all code retain the BSD license notice if redistributed in source code format, or reproduce the notice if redistributed in binary format. The BSD license (unlike some other licenses e.g. GPL) does not require that source code be distributed at all.
+
+Terms
+In addition to the original (4-clause) license used for BSD, several derivative licenses have emerged that are also commonly referred to as a "BSD license". Today, the typical BSD license is the 3-clause version, which is revised from the original 4-clause version.
+In all BSD licenses as following, <year> is the year of the copyright. As published in BSD, <copyright holder> is "Regents of the University of California".
+
+Previous license
+Some releases of BSD prior to the adoption of the 4-clause BSD license used a license that is clearly ancestral to the 4-clause BSD license. These releases include some parts of 4.3BSD-Tahoe (1988), about 1000 files, and Net/1 (1989). Although largely replaced by the 4-clause license, this license can be found in 4.3BSD-Reno, Net/2, and 4.4BSD-Alpha.
+
+Copyright (c) <year> <copyright holder>.
+All rights reserved.
+Redistribution and use in source and binary forms are permitted provided that the above copyright notice and this paragraph are duplicated in all such forms and that any documentation, advertising materials, and other materials related to such distribution and use acknowledge that the software was developed by the <copyright holder>. The name of the <copyright holder> may not be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED `'AS IS″ AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+4-clause license (original "BSD License")
+The original BSD license contained a clause not found in later licenses, known as the "advertising clause". This clause eventually became controversial, as it required authors of all works deriving from a BSD-licensed work to include an acknowledgment of the original source in all advertising material. This was clause number 3 in the original license text:
+Copyright (c) <year>, <copyright holder>
+All rights reserved.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the <copyright holder>.
+Neither the name of the <copyright holder> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY <COPYRIGHT HOLDER> AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This clause was objected to on the grounds that as people changed the license to reflect their name or organization it led to escalating advertising requirements when programs were combined in a software distribution: every occurrence of the license with a different name required a separate acknowledgment. In arguing against it, Richard Stallman has stated that he counted 75 such acknowledgments in a 1997 version of NetBSD. In addition, the clause presented a legal problem for those wishing to publish BSD-licensed software which relies upon separate programs using the GNU GPL: the advertising clause is incompatible with the GPL, which does not allow the addition of restrictions beyond those it already imposes; because of this, the GPL's publisher, the Free Software Foundation, recommends developers not use the license, though it states there is no reason not to use software already using it.
+
+3-clause license ("BSD License 2.0", "Revised BSD License", "New BSD License", or "Modified BSD License")
+The advertising clause was removed from the license text in the official BSD license on July 22, 1999, by William Hoskins, Director of the Office of Technology Licensing for UC Berkeley. On January 31, 2012, UC Berkeley Executive Director of the Office of Intellectual Property and Industry Alliances established that licensees and distributors are no longer required to include the acknowledgement within advertising materials. Accordingly, the advertising clause 3 of the original 4-clause BSD license for any and all software officially licensed under a UC Berkeley version of the BSD license, was deleted in its entirety. Other BSD distributions removed the clause, but many similar clauses remain in BSD-derived code from other sources, and unrelated code using a derived license.
+While the original license is sometimes referred to as the "BSD-old", the resulting 3-clause version is sometimes referred to by "BSD-new." Other names include new BSD, "revised BSD", "BSD-3", or "3-clause BSD". This version has been vetted as an Open source license by the OSI as "The BSD License". The Free Software Foundation, which refers to the license as the "Modified BSD License", states that it is compatible with the GNU GPL. The FSF encourages users to be specific when referring to the license by name (i.e. not simply referring to it as "a BSD license" or "BSD-style") to avoid confusion with the original BSD license.
+This version allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained. The license also contains a clause restricting use of the names of contributors for endorsement of a derived work without specific permission.
+
+Copyright <year> <copyright holder>
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+2-clause license ("Simplified BSD License" or "FreeBSD License")
+An even more simplified version has come into use, primarily known for its usage in FreeBSD. It was in use there as early as 29 April 1999 and likely well before. The primary difference between it and the New BSD (3-clause) License is that it omits the non-endorsement clause. The FreeBSD version of the license also adds a further disclaimer about views and opinions expressed in the software, though this is not commonly included by other projects.
+The Free Software Foundation, which refers to the license as the FreeBSD License, states that it is compatible with the GNU GPL. In addition, the FSF encourages users to be specific when referring to the license by name (i.e. not simply referring to it as "a BSD license" or "BSD-style"), as it does with the modified/new BSD license, to avoid confusion with the original BSD license.
+
+Copyright (c) <year>, <copyright holder>
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+Other projects, such as NetBSD, use a similar 2-clause license. This version has been vetted as an Open source license by the OSI as the "Simplified BSD License."
+The ISC license without the 'and/or' wording is functionally equivalent, and endorsed by the OpenBSD project as a license template for new contributions.
+
+0-clause license ("BSD Zero Clause License")
+The BSD 0-clause license goes further than the 2-clause license by dropping the requirements to include the copyright notice, license text, or disclaimer in either source or binary forms. Doing so forms a public-domain-equivalent license, the same way as MIT No Attribution License. It is known as "0BSD", "Zero-Clause BSD", or "Free Public License 1.0.0". It was created by Rob Landley and first used in Toybox when he was disappointed after using GPL license in BusyBox.
+
+Copyright (C) year by copyright holder <email>
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Other variations
+The SPDX License List contains extra BSD license variations. Examples include:
+
+BSD-1-Clause, a license with only the source code retaining clause, used by Berkeley Software Design in the 1990s, and later used by the Boost Software License. OSI approved since 2020.
+BSD-2-Clause-Patent, a variation of BSD-2-Clause with a patent grant. OSI approved since 2017.
+BSD-3-Clause-No-Nuclear-Warranty, a variation of BSD-3-Clause that adds that a piece of software is not licensed for use in a nuclear facility.
+
+License compatibility
+Commercial license compatibility
+The FreeBSD project argues on the advantages of BSD-style licenses for companies and commercial use-cases due to their license compatibility with proprietary licenses and general flexibility, stating that the BSD-style licenses place only "minimal restrictions on future behavior" and are not "legal time-bombs", unlike copyleft licenses. The BSD License allows proprietary use and allows the software released under the license to be incorporated into proprietary products. Works based on the material may be released under a proprietary license as closed source software, allowing usual commercial usages under them.
+
+FOSS compatibility
+The 3-clause BSD license, like most permissive licenses, is compatible with almost all FOSS licenses (and as well proprietary licenses).
+Two variants of the license, the New BSD License/Modified BSD License (3-clause), and the Simplified BSD License/FreeBSD License (2-clause) have been verified as GPL-compatible free software licenses by the Free Software Foundation, and have been vetted as open source licenses by the Open Source Initiative. The original, 4-clause BSD license has not been accepted as an open source license and, although the original is considered to be a free software license by the FSF, the FSF does not consider it to be compatible with the GPL due to the advertising clause.
+
+Reception and usage
+The BSD license family is one of the oldest and most broadly used license families in the free and open-source software ecosystem, and has been the inspiration for a number of other licenses. Many FOSS software projects use a BSD license, for instance the BSD OS family (FreeBSD etc.), Google's Bionic or Toybox. As of 2015 the BSD 3-clause license ranked in popularity number five according to Black Duck Software and sixth according to GitHub data.
+
+See also
+Comparison of free and open-source software licenses
+Software using the BSD license (category)
+
+References
+External links
+Twenty Years of Berkeley Unix: From AT&T-Owned to Freely Redistributable, Marshall Kirk McKusick, in: Open Sources: Voices from the Open Source Revolution, O'Reilly 1999
+The Amazing Disappearing BSD License
+BSD License Definition – by The Linux Information Project (LINFO)

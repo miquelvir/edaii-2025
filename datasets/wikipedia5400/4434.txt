@@ -1,0 +1,93 @@
+4434
+Deixis
+In linguistics, deixis (, ) is the use of words or phrases to refer to a particular time (e.g. then), place (e.g. here), or person (e.g. you) relative to the context of the utterance. Deixis exists in all known natural languages and is closely related to anaphora, with a sometimes unclear distinction between the two. In linguistic anthropology, deixis is seen as the same as, or a subclass of, indexicality.
+The term's origin is Ancient Greek: δεῖξις, romanized: deixis, lit. 'display, demonstration, or reference'. To this, Chrysippus (c. 279 – c. 206 BCE) added the specialized meaning point of reference, which is the sense in which the term is used in contemporary linguistics.
+
+Types
+There are three main types of deictic words, as described by Charles J. Fillmore: personal, spatial, and temporal. In some languages, these may overlap, such as spatial and personal deixis in many signed pronouns. Some linguists consider social deixis to be a fourth type.
+
+Personal
+Personal deictic words, called personal pronouns in English, refer to the grammatical persons involved in an utterance. These can include the first person (speaker), second person (addressee), third, and in some languages fourth and fifth person. Personal deixis may give further information about the referent, such as gender. Examples of personal deixis include:
+
+I am going to the cinema.
+Would you like to have dinner?
+They tried to hurt me, but she helped me.
+
+Spatial
+Spatial, or place, deixis is used to refer to spatial locations relative to an utterance. Similarly to personal deixis, the locations may be either those of the speaker and addressee or those of persons or objects being referred to. Spatial demonstratives include locative adverbs (e.g. here and there) and demonstratives (e.g. this, these, that, and those) although those are far from exclusive. Spatial demonstratives are often relative to the location of the speaker such as:
+
+The shop is across the street.
+where "across the street" is understood to mean "across the street from where I the speaker am right now."
+Words relating to spatial deixis can be proximal (near, such as English right here or this), medial (near the addressee, such as English over there or that), distal (far, such as English out there or that), far-distal (far from both the speaker and addressee, such as archaic English yon and yonder). The Malagasy language has seven degrees of distance combined with two degrees of visibility, while many Inuit languages have even more complex systems.
+
+Temporal
+Temporal, or time, deixis is used to refer to time relevant to the utterance. This includes temporal adverbs (e.g. then and soon), nouns (e.g. tomorrow) and use of grammatical tense. Temporal deixis can can be relative to the time when an utterance is made (the speaker’s "now") or the time when the utterance is heard or seen (the addressee’s "now"). Although these are often the same time, they can differ in cases such as a voice recording or written text. For example:
+
+It is raining now, but I hope when you read this it will be sunny.
+Tenses are usually separated into absolute (deictic) and relative tenses. For example, simple English past tense is absolute, such as "He went." whereas the pluperfect is relative to some other deictically specified time, as in "When I got home, he had gone."
+
+Discourse deixis
+Discourse deixis, also referred to as text deixis, refers to the use of expressions within an utterance to refer to parts of the discourse that contain the utterance—including the utterance itself. For example, in "This is a great story." this refers to an upcoming portion of the discourse.
+Switch reference is a type of discourse deixis, and a grammatical feature found in some languages, which indicates whether the argument of one clause is the same as the argument of the previous clause. In some languages, this is done through same subject markers and different subject markers. In the translated example "John punched Tom, and left-same subject marker," it is John who left, and in "John punched Tom, and left-different subject marker," it is Tom who left.
+Discourse deixis has been observed in internet language, particularly with the use of iconic language forms resembling arrows.
+
+Social deixis
+Social deixis concerns the social information that is encoded within various expressions, such as relative social status and familiarity. These include T–V distinctions and honorifics.
+
+Deictic center
+A deictic center, sometimes referred to as an origo, is a set of theoretical points that a deictic expression is 'anchored' to, such that the evaluation of the meaning of the expression leads one to the relevant point. As deictic expressions are frequently egocentric, the center often consists of the speaker at the time and place of the utterance and, additionally, the place in the discourse and relevant social factors. However, deictic expressions can also be used in such a way that the deictic center is transferred to other participants in the exchange or to persons / places / etc. being described in a narrative. So, for example, in the sentence;
+
+I am standing here now.
+the deictic center is simply the person at the time and place of speaking. But say two people are talking on the phone long-distance, from London to New York. The Londoner can say,
+
+We are leaving London next week.
+in which case the deictic center is in London, or they can equally validly say,
+
+We are coming to New York next week.
+in which case the deictic center is in New York. Similarly, when telling a story about someone, the deictic center is likely to switch to him, her or they (third-person pronouns). So then in the sentence;
+
+He then ran twenty feet to the left.
+it is understood that the center is with the person being spoken of, and thus, "to the left" refers not to the speaker's left, but to the object of the story's left, that is, the person referred to as 'he' at the time immediately before he ran twenty feet.
+
+Usages
+It is helpful to distinguish between two usages of deixis, gestural and symbolic, as well as non-deictic usages of frequently deictic words. Gestural deixis refers, broadly, to deictic expressions whose understanding requires some sort of audio-visual information. A simple example is when an object is pointed at and referred to as "this" or "that". However, the category can include other types of information than pointing, such as direction of gaze, tone of voice, and so on. Symbolic usage, by contrast, requires generally only basic spatio-temporal knowledge of the utterance. So, for example
+
+I broke this finger.
+requires being able to see which finger is being held up, whereas
+
+I love this city.
+requires only knowledge of the current location. In a similar vein,
+
+I went to this city one time ...
+is a non-deictic usage of "this", which does not identify anywhere specifically. Rather, it is used as an indefinite article, much the way "a" could be used in its place.
+
+Distinction with similar terms
+The distinction between deixis and anaphora is unclearly defined. Generally, an anaphoric reference refers to something within a text that has been previously identified. For example, in "Susan dropped the plate. It shattered loudly," the word it refers to the phrase, "the plate". An expression can be both deictic and anaphoric at the same time, for example "I was born in London, and I have lived here/there all my life." here or there function anaphorically in their reference to London, and deictically in that the choice between "here" or "there" indicates whether the speaker is or is not currently in London.
+The terms deixis and indexicality are frequently used almost interchangeably, and both deal with essentially the same idea of contextually-dependent references. However, the two terms have different histories and traditions. In the past, deixis was associated specifically with spatiotemporal reference, and indexicality was used more broadly. More importantly, each is associated with a different field of study. Deixis is associated with linguistics, and indexicality is associated with philosophy as well as pragmatics.
+
+See also
+Complementiser
+Deictic field and narration
+Determiner
+Generic antecedents
+Metaphysics of presence
+Observation
+Present
+Pro-form
+Self
+Terms of orientation
+
+Notes
+References
+Further reading
+Anderson, Stephen R.; & Keenan, Edward L. (1985). Deixis. In T. Shopen (Ed.), Language typology and syntactic description: Grammatical categories and the lexicon (Vol. 3, pp. 259–308). Cambridge: Cambridge University Press.
+Fillmore, Charles J. (1966). Deictic categories in the semantics of 'come'. Foundations of Language, 2, 219–227.
+Fillmore, Charles J. (1982). Towards a descriptive framework for spatial deixis. In R. J. Jarvell & W. Klein (Eds.), Speech, place and action: Studies in deixis and related topics (pp. 31–59). London: Wiley.
+Gaynesford, M. de I: The Meaning of the First Person Term, Oxford, Oxford University Press, 2006.
+George Grigore, La deixis spatial dans l'arabe parlé à Bagdad, Estudios de dialectologia arabe n.7, Zaragoza, pp 77–90 George Grigore. 2012. "La deixis spatiale dans l’arabe parlé à Bagdad", Alexandrine Barontini, Christophe Pereira, Ángeles Vicente, Karima Ziamari (ed.), Estudios de dialectología árabe (n.7): Hommage offert à Dominique Caubet . Universidad de Zaragoza. pp: 77-90
+Kordić, Snježana (2001). Wörter im Grenzbereich von Lexikon und Grammatik im Serbokroatischen Serbo-Croatian Words on the Border Between Lexicon and Grammar. Studies in Slavic Linguistics; 18 (in German). Munich: Lincom Europa. p. 280. ISBN 3895869546. LCCN 2005530313. OCLC 47905097. OL 2863539W. Summary.
+
+External links
+
+Demonstratives & Indexicals at Internet Encyclopedia of Philosophy
+What is deixis?

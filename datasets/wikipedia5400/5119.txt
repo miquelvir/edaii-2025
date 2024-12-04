@@ -1,0 +1,18 @@
+5119
+Afzal Upal
+Muhammad Afzal Upal is a writer and a cognitive scientist with contributions to cognitive science of religion, machine learning for planning, and agent-based social simulation.
+
+Early life and education
+He was born in Pakistan with 2 sisters and 3 brothers. His family emigrated to Canada because [Ahmadiyya](4837), the form of Islam they practiced, was discriminated against in Pakistan. For his PhD research, he worked under the supervision of Professor Renee Elio at the University of Alberta.  In December 1999, he successfully defended his thesis on "Learning to Improve the Quality of Plans Produced by Partial-order Planners".
+
+Leadership
+He was chair of the First International Workshop on Cognition and Culture, the 14th Annual Conference of the North American Association for Computational, Social, and Organizational Sciences, and the AAAI-06 Workshop on Cognitive Modeling and Agent-based Social Simulation.
+
+Professional career
+In July 1999, Upal was hired as a tenure-track assistant professor of computer science at Dalhousie University's new Faculty of Computer Science.  In 2001, he moved to Information Extraction & Transport (IET) Inc. to work as a senior scientist on various DARPA sponsored projects to develop Bayesian network based decision-aid systems.  In July 2003, he joined the University of Toledo's Electrical Engineering & Computer Science Department as a tenure track assistant professor to teach computer science. From 2008 to 2017, he worked as a defense scientist at Defence R & D Canada's Toronto Research Centre. From 2017 to 2020, he served as the head of the Computing and Information Science at Mercyhurst University. From 2020 to 2023, he has worked as the Chair of the Computer Science & Software Engineering Department at University of Wisconsin-Platteville. Since 2023, he has served as the associate dean of James Madison University's College of Integrated Science and Engineering.
+
+Scientific contributions
+He has contributed to research areas of Cognition & Culture and Cognitive science of religion through the development of the Context-based model of minimal counterintuiveness. In a 2005 article in the Journal of Cognition and Culture, he proposed a cognitive science of new religious movements. Upal has also pioneered a knowledge-rich agent-based social simulation technique for simulating the development of complex cultural beliefs. In 2017, his book Moderate Fundamentalists: [Ahmadiyya](4837) Muslim Jama'at in the lens of cognitive science of religion, was published by DeGruyter Press.  The book uses Context-based model of minimal counterintuiveness to explain counterintuitive claims of new religious movement founders such as Mirza Ghulam Ahmad-the founder of [Ahmadiyya](4837) Islam. He co-edited the Brill Handbook of Islamic Sects & Movements with Professor Carole M. Cusack.
+
+
+== References ==

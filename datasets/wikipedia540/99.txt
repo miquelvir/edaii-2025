@@ -1,0 +1,59 @@
+99
+AppScale
+AppScale is a software company that offers cloud infrastructure software and services to enterprises, government agencies, contractors, and third-party service providers. The company commercially supports one software product, AppScale ATS, a managed hybrid cloud infrastructure software platform that emulates the core AWS APIs. In 2019, the company ended commercial support for its open-source serverless computing platform AppScale GTS, but AppScale GTS source code remains freely available to the open-source community.
+
+History
+AppScale began as a research project at the University of California, Santa Barbara Computer Science Department under the supervision of Professor Chandra Krintz. The project was originally funded by the NSF, with additional funding from Google, IBM and NIH. In 2012, co-founders Dr. Chandra Krintz, Chief Scientist, Dr. Navraj Chohan, Development Lead, and Woody Rollins, CEO founded AppScale Systems to commercialize the private PaaS AppScale technology. Rollins, a pioneer in private cloud infrastructure, was a co-founder and former CEO of Eucalyptus Systems. In 2014, Graziano Obertelli joined AppScale as VP of Operations from Eucalyptus Systems, where he was a co-founder. In 2017, Dimitrii Calzago joined AppScale as CTO from Hewlett Packard Enterprise, where he was Director of Cloud R&D.
+In April 2014, AppScale Systems was named a 2014 Cool Vendor in PaaS by Gartner, Inc. In September 2014, AppScale Systems won a Bossie Award from InfoWorld for best open source data center and cloud software. AppScale partnered with Optimal Dynamics on April 11, 2016. AppScale was part of the AliLaunch Program, August 9, 2016. Chandra Krintz, Chief Science Officer of AppScale, was featured on Dev Radio in the episode titled "How to Rescue your apps with the help of AppScale" on December 16, 2016.
+In late 2017, AppScale Systems started offering commercial support for Eucalyptus private cloud software after DXC Technology chose to stop the development and support of Eucalyptus. This prompted  AppScale, led by members of the Eucalyptus founding team, to fork the code and continue developing the software, which was renamed AppScale ATS.
+
+AppScale ATS
+AppScale ATS (formerly Eucalyptus) is a managed hybrid cloud infrastructure software that emulates the core AWS APIs. AppScale ATS implements AWS-compatible cloud services over dedicated infrastructure, providing a dedicated private AWS region. ATS enables the creation of cost-effective and flexible AWS hybrid cloud environments with a seamless experience for developers and workloads across public and private resources. No special-purpose hardware or unorthodox operating system configurations are required and the entire software stack utilizes open-sourced components. The software is primarily used by enterprises and government agencies to place data and compute in specific geographies (for compliance) or close to data sources (for latency).
+
+AppScale GTS
+AppScale GTS is an open-source serverless computing platform that automatically deploys and scales unmodified Google App Engine applications over public and private clouds and on-premises clusters. AppScale is modeled on the App Engine APIs and supports Go, Java, PHP, and Python applications.
+The platform has a rapid API-driven development environment that can run applications on any cloud infrastructure. It decouples app logic from its service ecosystem, allowing better control over app deployment, data storage, resource use, backup, migration, service discovery, load-balancing, fault-tolerance, and auto-scaling.
+AppScale was developed and maintained by AppScale Systems, Inc., based in Santa Barbara, California, and Google.
+
+Open source components
+Datastore API: Apache Cassandra and Apache ZooKeeper
+Memcache API: memcached
+Task Queue API: RabbitMQ and Celery
+XMPP API: ejabberd
+Channel API: ejabberd
+Blobstore API: Apache Cassandra and Apache ZooKeeper
+Images API: Python Imaging Library (PIL)
+Cron API: Crontab
+HAProxy: HAProxy
+
+Supported platforms
+Amazon EC2
+CloudStack
+DigitalOcean
+Eucalyptus
+Google Compute Engine
+Kernel-based Virtual Machine (KVM)
+Microsoft Azure
+OpenStack
+RackSpace
+SoftLayer (IBM)
+Xen
+
+Supported languages
+Go
+Java
+PHP
+Python
+
+See also
+Amazon Web Services
+Cloud computing
+Oracle Cloud
+Platform as a service
+Serverless computing
+
+External links
+Official website
+
+
+== References ==

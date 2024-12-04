@@ -1,0 +1,58 @@
+837
+Bionic (software)
+Bionic is an implementation of the [C standard library](877), developed by Google for its Android operating system. It differs from the GNU C Library (glibc) in being designed for devices with less memory and processor power than a typical Linux system. It is a combination of new code and code from Free[BSD](750), Net[BSD](750), and Open[BSD](750) released under a [BSD](750) license, rather than glibc, which uses the GNU Lesser General Public License. This difference was important in the early days of Android, when static linking was common, and since Bionic has its own application binary interface, it cannot be replaced by a different libc without breaking all existing apps.
+Bionic is a  C library for use with the Linux kernel, and provides libc, libdl, and libm (libpthread functionality is part of libc, not a separate library as on some other systems). This differs from the [BSD](750) C libraries that Bionic shares code with, because they require a [BSD](750) kernel.
+
+Original goals
+The original publicly stated goals for Bionic were the following:
+
+[BSD](750)-licensed: Google wanted to isolate Android applications from the effect of copyleft licenses to create a proprietary user-space and application ecosystem, but:
+Android is based on the Linux kernel, which is subject to the copyleft GNU General Public License (GPL) version 2.
+The most widespread standard C library for the Linux kernel is the GNU C Library (glibc), which is subject to the GNU Lesser General Public License (LGPL), also a copyleft license. In contrast to the GPL, the LGPL explicitly allows for dynamic linking but it does not allow static linking of proprietary software without providing source code or linkable object files.
+The permissive [BSD](750) license is a non-copyleft license that is compatible in both directions. A [BSD](750)-licensed glibc substitute could act as an isolation layer between the copyleft core (kernel) and the non-copyleft applications, and was therefore chosen by Google for its Bionic as a glibc substitute.
+Small size: Bionic was much smaller than the GNU C Library; more importantly its memory requirements were (and remain) much lower.
+Speed: Bionic was designed for CPUs at relatively low clock frequencies.
+
+Supported architectures
+Bionic only supports Linux kernels, but currently supports the arm, arm64, riscv64, x86, and x86-64 architectures. The platform itself required armv7 with Neon since Marshmallow, though the Android Native Development Kit (NDK) continued to support armv5 (which it called armeabi) up until NDK r16. The NDK still supports armv7, though NDK r24 dropped support for non-Neon. Historically there was partial SH-4 support in the platform, but no devices ever shipped and support has since been removed. The NDK never supported SH-4, and MIPS and MIPS64 support were removed from the NDK in r17.
+
+Components
+Some parts of the libc source, such as stdio, are from the [BSD](750)s (mainly Open[BSD](750)), whereas others, such as the pthread implementation, were written from scratch.
+The dynamic memory allocator implementation has changed over time. Before Lollipop there was a single native memory allocator, Doug Lea's dlmalloc. For Lollipop and Marshmallow there were two implementations: dlmalloc and jemalloc. jemalloc gives much higher performance than dlmalloc, but at the cost of extra memory required for bookkeeping. Most devices used jemalloc but low-memory devices still used dlmalloc. For Nougat through Android 10, all devices use jemalloc. Low-memory devices use a "svelte" configuration of jemalloc that disables the tcache to nearly match the lower memory overhead of dlmalloc while keeping most of the speed of jemalloc. In Android 11, the memory allocator for most devices was switched to Scudo, which sacrifices some of jemalloc's high performance for additional security hardening features. Low-memory devices, however, are still permitted to use jemalloc.
+Some 64-bit devices, like the Nexus 9, are effectively low-memory devices because of the extra space requirements of 64-bit pointers and hosting of two zygotes. (Zygote is an Android system service that is the parent of all Android application processes.)
+The libm source is largely Free[BSD](750)'s, but with optimized assembler contributed by the various SoC vendors.
+The dynamic linker (and libdl) were written from scratch.
+Bionic doesn't include libthread_db (used by gdbserver), but the NDK did. The Android platform included a statically linked gdbserver, so that developers can use the latest gdb even on old devices. Since Android dropped gdb support and switched to lldb, this is no longer relevant.
+There is no separate libpthread, libresolv, or librt on Android –  the functionality is all in libc. For libpthread, there is no attempt to optimize for the single-threaded case because apps are in a multi-threaded environment even before the first instruction of third-party code is ever run.
+The Android platform uses libc++ for the [C++](640) standard library (releases up to and including Lollipop used stlport). The NDK historically offered stlport and GNU libstdc++, but those were removed as of NDK r18. Note that if any native code in an Android app uses [C++](640), all the [C++](640) must use the same STL. The STL is not provided by the Android OS, and must be bundled with each app.
+
+Differences from POSIX
+Although Bionic aims to implement all of C11 and POSIX, there are still (as of Oreo) about 70 POSIX functions missing from libc. There are also POSIX functions such as the endpwent/getpwent/setpwent family that are inapplicable to Android because it lacks a passwd database. As of Oreo, libm is complete.
+Some functions deliberately do not conform to the POSIX or C standards for security reasons, such as printf which does not support the %n format string.
+Many of the most-used GNU extensions are implemented in Bionic, as are various [BSD](750) extensions.
+
+Relationship to the NDK
+Platform code uses Bionic directly, but third-party developers use the Android Native Development Kit (NDK). Many third-party developers still target older OS releases, which contributes to a widespread belief that Bionic lacks many features. Gingerbread exported 803 functions from libc but Oreo exports 1278 (a 1.6x increase).
+Historically the NDK and the platform diverged, but NDK r11 and later have replaced NDK forks with their current platform equivalents. This work initially focused on the GCC and [Clang](888) compilers.
+Prior to NDK r14, when "unified" headers were first offered on an opt-in basis, the NDK had forked copies of the platform headers for different [API](708) levels. This meant that header-only fixes (fixes to constant or structure definitions, for example) weren't available to most NDK users because they'd be targeting an older [API](708) level, but platform fixes were only going in to the current platform headers. In the Oreo development period the platform headers were annotated with [API](708) level information so that the same set of headers can be used for all [API](708) levels, with only those functions available at the developer's targeted [API](708) level being visible. These are the so-called "unified" headers, and have been the default since NDK r15.
+Prior to NDK r16, the NDK linked a library called libandroid_support.a to code using libc++ to provide functions required by libc++ that weren't in old OS releases. This wasn't the same code used by the platform and introduced numerous bugs (such as breaking positional arguments to the printf family in any code that used libc++). From NDK r16 to r25, libandroid_support.a still existed but was built directly from the then-current platform source at the time each NDK was built. From NDK r26, libandroid_support.a is gone, because all OS versions still supported by the NDK contain everything needed by libc++.
+
+Fortify source
+As of Android Jelly Bean MR1 (4.2), Bionic supports similar functionality to glibc's _FORTIFY_SOURCE, which is a feature where unsafe string and memory functions (such as strcpy(), strcat(), and memcpy()) include checks for buffer overruns. These checks are performed at compile time if the buffer sizes can be determined at compile time, or run-time otherwise. Because fortify relies on runtime support from libc, its portability to older Android releases is limited. The platform itself is built with _FORTIFY_SOURCE enabled.
+Historically, one of the shortcomings of fortify has been that it is closely tied with GCC, which makes it very difficult to support well in other compilers, like [Clang](888). This meant that when Android swapped to [Clang](888) as its default compiler, Bionic's fortify implementation became substantially less useful. In Android Oreo (8.0), Bionic's fortify was overhauled with [Clang](888) in mind, resulting in fortify on [Clang](888) providing an experience on par with fortify on GCC. Since this overhaul, some checks were added above and beyond glibc's to catch code that — while not necessarily causing undefined behavior — is obviously incorrect. Because this new implementation requires no more libc support than the prior one, the [Clang](888)-specific enhancements are available to applications targeting versions of Android before Oreo.
+
+Controversies
+For the creation of Bionic, Google used GPLv2-licensed Linux kernel header files. To get rid of the GPL, Google claimed that it cleaned the header files from any copyright-able work, reducing them to non-copyrightable "facts". Linux creator Linus Torvalds considered Google's behaviour to be acceptable, but Google's interpretation of the GPL has been challenged, for instance by Raymond Nimmer, a law professor at the University of Houston Law Center.
+
+See also
+Hybris (also known as libhybris)
+musl
+Toybox
+
+References
+External links
+Google I/O 2008 - Anatomy and Physiology of an Android on YouTube
+Developer home page for Android
+Android Native Development Kit (NDK) home page
+Bionic sources (official repository)
+Bionic notes on eLinux.org

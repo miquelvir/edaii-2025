@@ -1,0 +1,24 @@
+4221
+Alveolar consonant
+Alveolar (; UK also ) consonants are articulated with the tongue against or close to the superior alveolar ridge, which is called that because it contains the alveoli (the sockets) of the upper teeth. Alveolar consonants may be articulated with the tip of the tongue (the apical consonants), as in English, or with the flat of the tongue just above the tip (the "blade" of the tongue; called laminal consonants), as in French and Spanish.
+The International Phonetic Alphabet (IPA) does not have separate symbols for the alveolar consonants. Rather, the same symbol is used for all coronal places of articulation that are not palatalized like English palato-alveolar sh, or retroflex. To disambiguate, the bridge (s̪, t̪, n̪, l̪, etc.) may be used for a dental consonant, or the under-bar (s̠, t̠, n̠, l̠, etc.) may be used for the postalveolars. s̪ differs from dental θ in that the former is a sibilant and the latter is not. s̠ differs from postalveolar ʃ in being unpalatalized.
+The bare letters s, t, n, l, etc. cannot be assumed to specifically represent alveolars. The language may not make such distinctions, such that two or more coronal places of articulation are found allophonically, or the transcription may simply be too broad to distinguish dental from alveolar. If it is necessary to specify a consonant as alveolar, a diacritic from the Extended IPA may be used: s͇, t͇, n͇, l͇, etc., though that could also mean extra-retracted. The letters ⟨s, t, n, l⟩ are frequently called 'alveolar', and the language examples below are all alveolar sounds.
+(The Extended IPA diacritic was devised for speech pathology and is frequently used to mean "alveolarized", as in the labioalveolar sounds p͇, b͇, m͇, f͇, v͇, where the lower lip contacts the alveolar ridge.)
+
+In IPA
+Alveolar consonants are transcribed in the IPA as follows:
+
+Lack of alveolars
+There are no languages that have no alveolars at all. The alveolar or dental consonants t and n are, along with k, the most common consonants in human languages. Nonetheless, there are a few languages that lack them. A few languages on Bougainville Island and around Puget Sound, such as Makah, lack nasals and therefore n but have t. Colloquial Samoan, however, lacks both t and n but has a lateral alveolar approximant /l/. (Samoan words written with t and n are pronounced with k and ŋ in colloquial speech.) In Standard Hawaiian, t is an allophone of /k/, but /l/ and /n/ exist.
+
+Labioalveolar consonants
+In labioalveolars, the lower lip contacts the alveolar ridge. Such sounds are typically the result of a severe overbite. In the Extensions to the IPA for disordered speech, they are transcribed with the alveolar diacritic on labial letters: ⟨m͇ p͇ b͇ f͇ v͇⟩.
+
+See also
+Index of phonetics articles
+Perception of English /r/ and /l/ by Japanese speakers
+Place of articulation
+
+Notes
+References
+Ladefoged, Peter; Maddieson, Ian (1996). The Sounds of the World's Languages. Oxford: Blackwell. ISBN 0-631-19815-6.

@@ -1,0 +1,3071 @@
+3497
+Bell's theorem
+Bell's theorem is a term encompassing a number of closely related results in physics, all of which determine that quantum mechanics is incompatible with local hidden-variable theories, given some basic assumptions about the nature of measurement. "Local" here refers to the principle of locality, the idea that a particle can only be influenced by its immediate surroundings, and that interactions mediated by physical fields cannot propagate faster than the speed of light. "Hidden variables" are supposed properties of quantum particles that are not included in quantum theory but nevertheless affect the outcome of experiments. In the words of physicist John Stewart Bell, for whom this family of results is named, "If a hidden-variable theory is local it will not agree with quantum mechanics, and if it agrees with quantum mechanics it will not be local."
+The first such result was introduced by Bell in 1964, building upon the Einstein–Podolsky–Rosen paradox, which had called attention to the phenomenon of quantum entanglement. Bell deduced that if measurements are performed independently on the two separated particles of an entangled pair, then the assumption that the outcomes depend upon hidden variables within each half implies a mathematical constraint on how the outcomes on the two measurements are correlated. Such a constraint would later be named a [Bell inequality](3497). Bell then showed that quantum physics predicts correlations that violate this inequality. Multiple variations on Bell's theorem were put forward in the following years, using different assumptions and obtaining different Bell (or "Bell-type") inequalities.
+The first rudimentary experiment designed to test Bell's theorem was performed in 1972 by John Clauser and Stuart Freedman. More advanced experiments, known collectively as Bell tests, have been performed many times since. Often, these experiments have had the goal of "closing loopholes", that is, ameliorating problems of experimental design or set-up that could in principle affect the validity of the findings of earlier Bell tests. Bell tests have consistently found that physical systems obey quantum mechanics and violate Bell inequalities; which is to say that the results of these experiments are incompatible with local hidden-variable theories. 
+The exact nature of the assumptions required to prove a Bell-type constraint on correlations has been debated by physicists and by philosophers. While the significance of Bell's theorem is not in doubt, different interpretations of quantum mechanics disagree about what exactly it implies.
+
+Theorem
+There are many variations on the basic idea, some employing stronger mathematical assumptions than others. Significantly, Bell-type theorems do not refer to any particular theory of local hidden variables, but instead show that quantum physics violates general assumptions behind classical pictures of nature. The original theorem proved by Bell in 1964 is not the most amenable to experiment, and it is convenient to introduce the genre of Bell-type inequalities with a later example.
+Hypothetical characters Alice and Bob stand in widely separated locations. Their colleague Victor prepares a pair of particles and sends one to Alice and the other to Bob. When Alice receives her particle, she chooses to perform one of two possible measurements (perhaps by flipping a coin to decide which). Denote these measurements by 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{0}}
+  
+ and 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+      
+    
+    {\displaystyle A_{1}}
+  
+. Both 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{0}}
+  
+ and 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+      
+    
+    {\displaystyle A_{1}}
+  
+ are binary measurements: the result of 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{0}}
+  
+ is either 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+ or 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+, and likewise for 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+      
+    
+    {\displaystyle A_{1}}
+  
+. When Bob receives his particle, he chooses one of two measurements, 
+  
+    
+      
+        
+          B
+          
+            0
+          
+        
+      
+    
+    {\displaystyle B_{0}}
+  
+ and 
+  
+    
+      
+        
+          B
+          
+            1
+          
+        
+      
+    
+    {\displaystyle B_{1}}
+  
+, which are also both binary.
+Suppose that each measurement reveals a property that the particle already possessed. For instance, if Alice chooses to measure 
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A_{0}}
+  
+ and obtains the result 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+, then the particle she received carried a value of 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+ for a property 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+  
+. Consider the combination
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        
+          b
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            0
+          
+        
+        
+          b
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        
+          b
+          
+            0
+          
+        
+        −
+        
+          a
+          
+            1
+          
+        
+        
+          b
+          
+            1
+          
+        
+        =
+        (
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        )
+        
+          b
+          
+            0
+          
+        
+        +
+        (
+        
+          a
+          
+            0
+          
+        
+        −
+        
+          a
+          
+            1
+          
+        
+        )
+        
+          b
+          
+            1
+          
+        
+        
+        .
+      
+    
+    {\displaystyle a_{0}b_{0}+a_{0}b_{1}+a_{1}b_{0}-a_{1}b_{1}=(a_{0}+a_{1})b_{0}+(a_{0}-a_{1})b_{1}\,.}
+  
+Because both 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{0}}
+  
+ and 
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a_{1}}
+  
+ take the values 
+  
+    
+      
+        ±
+        1
+      
+    
+    {\displaystyle \pm 1}
+  
+, then either 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        =
+        
+          a
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a_{0}=a_{1}}
+  
+ or 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        =
+        −
+        
+          a
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a_{0}=-a_{1}}
+  
+. In the former case, the quantity 
+  
+    
+      
+        (
+        
+          a
+          
+            0
+          
+        
+        −
+        
+          a
+          
+            1
+          
+        
+        )
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle (a_{0}-a_{1})b_{1}}
+  
+ must equal 0, while in the latter case, 
+  
+    
+      
+        (
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        )
+        
+          b
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle (a_{0}+a_{1})b_{0}=0}
+  
+. So, one of the terms on the right-hand side of the above expression will vanish, and the other will equal 
+  
+    
+      
+        ±
+        2
+      
+    
+    {\displaystyle \pm 2}
+  
+. Consequently, if the experiment is repeated over many trials, with Victor preparing new pairs of particles, the absolute value of the average of the combination 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        
+          b
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            0
+          
+        
+        
+          b
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        
+          b
+          
+            0
+          
+        
+        −
+        
+          a
+          
+            1
+          
+        
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a_{0}b_{0}+a_{0}b_{1}+a_{1}b_{0}-a_{1}b_{1}}
+  
+ across all the trials will be less than or equal to 2. No single trial can measure this quantity, because Alice and Bob can only choose one measurement each, but on the assumption that the underlying properties exist, the average value of the sum is just the sum of the averages for each term. Using angle brackets to denote averages
+  
+    
+      
+        
+          |
+        
+        ⟨
+        
+          A
+          
+            0
+          
+        
+        
+          B
+          
+            0
+          
+        
+        ⟩
+        +
+        ⟨
+        
+          A
+          
+            0
+          
+        
+        
+          B
+          
+            1
+          
+        
+        ⟩
+        +
+        ⟨
+        
+          A
+          
+            1
+          
+        
+        
+          B
+          
+            0
+          
+        
+        ⟩
+        −
+        ⟨
+        
+          A
+          
+            1
+          
+        
+        
+          B
+          
+            1
+          
+        
+        ⟩
+        
+          |
+        
+        ≤
+        2
+        
+        .
+      
+    
+    {\displaystyle |\langle A_{0}B_{0}\rangle +\langle A_{0}B_{1}\rangle +\langle A_{1}B_{0}\rangle -\langle A_{1}B_{1}\rangle |\leq 2\,.}
+  
+
+This is a [Bell inequality](3497), specifically, the CHSH inequality.: 115  Its derivation here depends upon two assumptions: first, that the underlying physical properties 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        ,
+        
+          a
+          
+            1
+          
+        
+        ,
+        
+          b
+          
+            0
+          
+        
+        ,
+      
+    
+    {\displaystyle a_{0},a_{1},b_{0},}
+  
+ and 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b_{1}}
+  
+ exist independently of being observed or measured (sometimes called the assumption of realism); and second, that Alice's choice of action cannot influence Bob's result or vice versa (often called the assumption of locality).: 117 
+Quantum mechanics can violate the CHSH inequality, as follows. Victor prepares a pair of qubits which he describes by the Bell state
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        
+          
+            
+              
+                |
+              
+              0
+              ⟩
+              ⊗
+              
+                |
+              
+              1
+              ⟩
+              −
+              
+                |
+              
+              1
+              ⟩
+              ⊗
+              
+                |
+              
+              0
+              ⟩
+            
+            
+              2
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle |\psi \rangle ={\frac {|0\rangle \otimes |1\rangle -|1\rangle \otimes |0\rangle }{\sqrt {2}}},}
+  
+
+where 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\displaystyle |0\rangle }
+  
+ and 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |1\rangle }
+  
+ are the eigenstates of one of the Pauli matrices,
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  1
+                
+              
+            
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle \sigma _{z}={\begin{pmatrix}1&0\\0&-1\end{pmatrix}}.}
+  
+
+Victor then passes the first qubit to Alice and the second to Bob. Alice and Bob's choices of possible measurements are also defined in terms of the Pauli matrices. Alice measures either of the two observables 
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{z}}
+  
+ and 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+:
+  
+    
+      
+        
+          A
+          
+            0
+          
+        
+        =
+        
+          σ
+          
+            z
+          
+        
+        ,
+         
+        
+          A
+          
+            1
+          
+        
+        =
+        
+          σ
+          
+            x
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  0
+                
+              
+            
+            )
+          
+        
+        ;
+      
+    
+    {\displaystyle A_{0}=\sigma _{z},\ A_{1}=\sigma _{x}={\begin{pmatrix}0&1\\1&0\end{pmatrix}};}
+  
+
+and Bob measures either of the two observables
+  
+    
+      
+        
+          B
+          
+            0
+          
+        
+        =
+        −
+        
+          
+            
+              
+                σ
+                
+                  x
+                
+              
+              +
+              
+                σ
+                
+                  z
+                
+              
+            
+            
+              2
+            
+          
+        
+        ,
+         
+        
+          B
+          
+            1
+          
+        
+        =
+        
+          
+            
+              
+                σ
+                
+                  x
+                
+              
+              −
+              
+                σ
+                
+                  z
+                
+              
+            
+            
+              2
+            
+          
+        
+        .
+      
+    
+    {\displaystyle B_{0}=-{\frac {\sigma _{x}+\sigma _{z}}{\sqrt {2}}},\ B_{1}={\frac {\sigma _{x}-\sigma _{z}}{\sqrt {2}}}.}
+  
+
+Victor can calculate the quantum expectation values for pairs of these observables using the Born rule:
+  
+    
+      
+        ⟨
+        
+          A
+          
+            0
+          
+        
+        ⊗
+        
+          B
+          
+            0
+          
+        
+        ⟩
+        =
+        
+          
+            1
+            
+              2
+            
+          
+        
+        ,
+        ⟨
+        
+          A
+          
+            0
+          
+        
+        ⊗
+        
+          B
+          
+            1
+          
+        
+        ⟩
+        =
+        
+          
+            1
+            
+              2
+            
+          
+        
+        ,
+        ⟨
+        
+          A
+          
+            1
+          
+        
+        ⊗
+        
+          B
+          
+            0
+          
+        
+        ⟩
+        =
+        
+          
+            1
+            
+              2
+            
+          
+        
+        ,
+        ⟨
+        
+          A
+          
+            1
+          
+        
+        ⊗
+        
+          B
+          
+            1
+          
+        
+        ⟩
+        =
+        −
+        
+          
+            1
+            
+              2
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \langle A_{0}\otimes B_{0}\rangle ={\frac {1}{\sqrt {2}}},\langle A_{0}\otimes B_{1}\rangle ={\frac {1}{\sqrt {2}}},\langle A_{1}\otimes B_{0}\rangle ={\frac {1}{\sqrt {2}}},\langle A_{1}\otimes B_{1}\rangle =-{\frac {1}{\sqrt {2}}}\,.}
+  
+
+While only one of these four measurements can be made in a single trial of the experiment, the sum
+  
+    
+      
+        ⟨
+        
+          A
+          
+            0
+          
+        
+        ⊗
+        
+          B
+          
+            0
+          
+        
+        ⟩
+        +
+        ⟨
+        
+          A
+          
+            0
+          
+        
+        ⊗
+        
+          B
+          
+            1
+          
+        
+        ⟩
+        +
+        ⟨
+        
+          A
+          
+            1
+          
+        
+        ⊗
+        
+          B
+          
+            0
+          
+        
+        ⟩
+        −
+        ⟨
+        
+          A
+          
+            1
+          
+        
+        ⊗
+        
+          B
+          
+            1
+          
+        
+        ⟩
+        =
+        2
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \langle A_{0}\otimes B_{0}\rangle +\langle A_{0}\otimes B_{1}\rangle +\langle A_{1}\otimes B_{0}\rangle -\langle A_{1}\otimes B_{1}\rangle =2{\sqrt {2}}}
+  
+
+gives the sum of the average values that Victor expects to find across multiple trials. This value exceeds the classical upper bound of 2 that was deduced from the hypothesis of local hidden variables.: 116  The value 
+  
+    
+      
+        2
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 2{\sqrt {2}}}
+  
+ is in fact the largest that quantum physics permits for this combination of expectation values, making it a Tsirelson bound.: 140 
+
+The CHSH inequality can also be thought of as a game in which Alice and Bob try to coordinate their actions. Victor prepares two bits, 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+, independently and at random. He sends bit 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ to Alice and bit 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ to Bob. Alice and Bob win if they return answer bits 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ to Victor, satisfying
+
+  
+    
+      
+        x
+        y
+        =
+        a
+        +
+        b
+        
+        mod
+        
+        
+        2
+        
+        .
+      
+    
+    {\displaystyle xy=a+b\mod 2\,.}
+  
+
+Or, equivalently, Alice and Bob win if the logical AND of 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ and 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ is the logical XOR of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ and 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+. Alice and Bob can agree upon any strategy they desire before the game, but they cannot communicate once the game begins. In any theory based on local hidden variables, Alice and Bob's probability of winning is no greater than 
+  
+    
+      
+        3
+        
+          /
+        
+        4
+      
+    
+    {\displaystyle 3/4}
+  
+, regardless of what strategy they agree upon beforehand. However, if they share an entangled quantum state, their probability of winning can be as large as
+  
+    
+      
+        
+          
+            
+              2
+              +
+              
+                
+                  2
+                
+              
+            
+            4
+          
+        
+        ≈
+        0.85
+        
+        .
+      
+    
+    {\displaystyle {\frac {2+{\sqrt {2}}}{4}}\approx 0.85\,.}
+
+Variations and related results
+Bell (1964)
+Bell's 1964 paper points out that under restricted conditions, local hidden-variable models can reproduce the predictions of quantum mechanics. He then demonstrates that this cannot hold true in general. Bell considers a refinement by David Bohm of the Einstein–Podolsky–Rosen (EPR) thought experiment. In this scenario, a pair of particles are formed together in such a way that they are described by a spin singlet state (which is an example of an entangled state). The particles then move apart in opposite directions. Each particle is measured by a Stern–Gerlach device, a measuring instrument that can be oriented in different directions and that reports one of two possible outcomes, representable by 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+ and 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+. The configuration of each measuring instrument is represented by a unit vector, and the quantum-mechanical prediction for the correlation between two detectors with settings 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+              b
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {b}}}
+  
+ is
+
+  
+    
+      
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              b
+              →
+            
+          
+        
+        )
+        =
+        −
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              b
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle P({\vec {a}},{\vec {b}})=-{\vec {a}}\cdot {\vec {b}}.}
+  
+
+In particular, if the orientation of the two detectors is the same (
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        =
+        
+          
+            
+              b
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}={\vec {b}}}
+  
+), then the outcome of one measurement is certain to be the negative of the outcome of the other, giving 
+  
+    
+      
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              a
+              →
+            
+          
+        
+        )
+        =
+        −
+        1
+      
+    
+    {\displaystyle P({\vec {a}},{\vec {a}})=-1}
+  
+. And if the orientations of the two detectors are orthogonal (
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              b
+              →
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\vec {a}}\cdot {\vec {b}}=0}
+  
+), then the outcomes are uncorrelated, and 
+  
+    
+      
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              b
+              →
+            
+          
+        
+        )
+        =
+        0
+      
+    
+    {\displaystyle P({\vec {a}},{\vec {b}})=0}
+  
+. Bell proves by example that these special cases can be explained in terms of hidden variables, then proceeds to show that the full range of possibilities involving intermediate angles cannot.
+Bell posited that a local hidden-variable model for these correlations would explain them in terms of an integral over the possible values of some hidden parameter 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+:
+  
+    
+      
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              b
+              →
+            
+          
+        
+        )
+        =
+        ∫
+        d
+        λ
+        
+        ρ
+        (
+        λ
+        )
+        A
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        λ
+        )
+        B
+        (
+        
+          
+            
+              b
+              →
+            
+          
+        
+        ,
+        λ
+        )
+        ,
+      
+    
+    {\displaystyle P({\vec {a}},{\vec {b}})=\int d\lambda \,\rho (\lambda )A({\vec {a}},\lambda )B({\vec {b}},\lambda ),}
+  
+
+where 
+  
+    
+      
+        ρ
+        (
+        λ
+        )
+      
+    
+    {\displaystyle \rho (\lambda )}
+  
+ is a probability density function. The two functions 
+  
+    
+      
+        A
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        λ
+        )
+      
+    
+    {\displaystyle A({\vec {a}},\lambda )}
+  
+ and 
+  
+    
+      
+        B
+        (
+        
+          
+            
+              b
+              →
+            
+          
+        
+        ,
+        λ
+        )
+      
+    
+    {\displaystyle B({\vec {b}},\lambda )}
+  
+ provide the responses of the two detectors given the orientation vectors and the hidden variable:
+  
+    
+      
+        A
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        λ
+        )
+        =
+        ±
+        1
+        ,
+        
+        B
+        (
+        
+          
+            
+              b
+              →
+            
+          
+        
+        ,
+        λ
+        )
+        =
+        ±
+        1.
+      
+    
+    {\displaystyle A({\vec {a}},\lambda )=\pm 1,\,B({\vec {b}},\lambda )=\pm 1.}
+  
+
+Crucially, the outcome of detector 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ does not depend upon 
+  
+    
+      
+        
+          
+            
+              b
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {b}}}
+  
+, and likewise the outcome of 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ does not depend upon 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+  
+, because the two detectors are physically separated. Now we suppose that the experimenter has a choice of settings for the second detector: it can be set either to 
+  
+    
+      
+        
+          
+            
+              b
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {b}}}
+  
+ or to 
+  
+    
+      
+        
+          
+            
+              c
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {c}}}
+  
+. Bell proves that the difference in correlation between these two choices of detector setting must satisfy the inequality
+  
+    
+      
+        
+          |
+        
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              b
+              →
+            
+          
+        
+        )
+        −
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              c
+              →
+            
+          
+        
+        )
+        
+          |
+        
+        ≤
+        1
+        +
+        P
+        (
+        
+          
+            
+              b
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              c
+              →
+            
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle |P({\vec {a}},{\vec {b}})-P({\vec {a}},{\vec {c}})|\leq 1+P({\vec {b}},{\vec {c}}).}
+  
+
+However, it is easy to find situations where quantum mechanics violates the [Bell inequality](3497).: 425–426  For example, let the vectors 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+              b
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {b}}}
+  
+ be orthogonal, and let 
+  
+    
+      
+        
+          
+            
+              c
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {c}}}
+  
+ lie in their plane at a 45° angle from both of them. Then
+  
+    
+      
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              b
+              →
+            
+          
+        
+        )
+        =
+        0
+        ,
+      
+    
+    {\displaystyle P({\vec {a}},{\vec {b}})=0,}
+  
+
+while
+
+  
+    
+      
+        P
+        (
+        
+          
+            
+              a
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              c
+              →
+            
+          
+        
+        )
+        =
+        P
+        (
+        
+          
+            
+              b
+              →
+            
+          
+        
+        ,
+        
+          
+            
+              c
+              →
+            
+          
+        
+        )
+        =
+        −
+        
+          
+            
+              2
+            
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle P({\vec {a}},{\vec {c}})=P({\vec {b}},{\vec {c}})=-{\frac {\sqrt {2}}{2}},}
+  
+
+but
+
+  
+    
+      
+        
+          
+            
+              2
+            
+            2
+          
+        
+        ≰
+        1
+        −
+        
+          
+            
+              2
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\sqrt {2}}{2}}\nleq 1-{\frac {\sqrt {2}}{2}}.}
+  
+
+Therefore, there is no local hidden-variable model that can reproduce the predictions of quantum mechanics for all choices of 
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+  
+, 
+  
+    
+      
+        
+          
+            
+              b
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {b}}}
+  
+, and 
+  
+    
+      
+        
+          
+            
+              c
+              →
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\vec {c}}.}
+  
+ Experimental results contradict the classical curves and match the curve predicted by quantum mechanics as long as experimental shortcomings are accounted for.
+Bell's 1964 theorem requires the possibility of perfect anti-correlations: the ability to make a probability-1 prediction about the result from the second detector, knowing the result from the first. This is related to the "EPR criterion of reality", a concept introduced in the 1935 paper by Einstein, Podolsky, and Rosen. This paper posits: "If, without in any way disturbing a system, we can predict with certainty (i.e., with probability equal to unity) the value of a physical quantity, then there exists an element of reality corresponding to that quantity."
+
+GHZ–Mermin (1990)
+Daniel Greenberger, Michael A. Horne, and [Anton Zeilinger](3464) presented a four-particle thought experiment in 1990, which David Mermin then simplified to use only three particles. In this thought experiment, Victor generates a set of three spin-1/2 particles described by the quantum state
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+        =
+        
+          
+            1
+            
+              2
+            
+          
+        
+        (
+        
+          |
+        
+        000
+        ⟩
+        −
+        
+          |
+        
+        111
+        ⟩
+        )
+        
+        ,
+      
+    
+    {\displaystyle |\psi \rangle ={\frac {1}{\sqrt {2}}}(|000\rangle -|111\rangle )\,,}
+  
+
+where as above, 
+  
+    
+      
+        
+          |
+        
+        0
+        ⟩
+      
+    
+    {\displaystyle |0\rangle }
+  
+ and 
+  
+    
+      
+        
+          |
+        
+        1
+        ⟩
+      
+    
+    {\displaystyle |1\rangle }
+  
+ are the eigenvectors of the Pauli matrix 
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{z}}
+  
+. Victor then sends a particle each to Alice, Bob, and Charlie, who wait at widely separated locations. Alice measures either 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+ or 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+ on her particle, and so do Bob and Charlie. The result of each measurement is either 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+ or 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+. Applying the Born rule to the three-qubit state 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle }
+  
+, Victor predicts that whenever the three measurements include one 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+ and two 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+'s, the product of the outcomes will always be 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+. This follows because 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle }
+  
+ is an eigenvector of 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+        ⊗
+        
+          σ
+          
+            y
+          
+        
+        ⊗
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}\otimes \sigma _{y}\otimes \sigma _{y}}
+  
+ with eigenvalue 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+, and likewise for 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+        ⊗
+        
+          σ
+          
+            x
+          
+        
+        ⊗
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}\otimes \sigma _{x}\otimes \sigma _{y}}
+  
+ and 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+        ⊗
+        
+          σ
+          
+            y
+          
+        
+        ⊗
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}\otimes \sigma _{y}\otimes \sigma _{x}}
+  
+. Therefore, knowing Alice's result for a 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+ measurement and Bob's result for a 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+ measurement, Victor can predict with probability 1 what result Charlie will return for a 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+ measurement. According to the EPR criterion of reality, there would be an "element of reality" corresponding to the outcome of a 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+ measurement upon Charlie's qubit. Indeed, this same logic applies to both measurements and all three qubits. Per the EPR criterion of reality, then, each particle contains an "instruction set" that determines the outcome of a 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+ or 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+ measurement upon it. The set of all three particles would then be described by the instruction set
+  
+    
+      
+        (
+        
+          a
+          
+            x
+          
+        
+        ,
+        
+          a
+          
+            y
+          
+        
+        ,
+        
+          b
+          
+            x
+          
+        
+        ,
+        
+          b
+          
+            y
+          
+        
+        ,
+        
+          c
+          
+            x
+          
+        
+        ,
+        
+          c
+          
+            y
+          
+        
+        )
+        
+        ,
+      
+    
+    {\displaystyle (a_{x},a_{y},b_{x},b_{y},c_{x},c_{y})\,,}
+  
+
+with each entry being either 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+ or 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+, and each 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+ or 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+  
+ measurement simply returning the appropriate value.
+If Alice, Bob, and Charlie all perform the 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  
+ measurement, then the product of their results would be 
+  
+    
+      
+        
+          a
+          
+            x
+          
+        
+        
+          b
+          
+            x
+          
+        
+        
+          c
+          
+            x
+          
+        
+      
+    
+    {\displaystyle a_{x}b_{x}c_{x}}
+  
+. This value can be deduced from
+  
+    
+      
+        (
+        
+          a
+          
+            x
+          
+        
+        
+          b
+          
+            y
+          
+        
+        
+          c
+          
+            y
+          
+        
+        )
+        (
+        
+          a
+          
+            y
+          
+        
+        
+          b
+          
+            x
+          
+        
+        
+          c
+          
+            y
+          
+        
+        )
+        (
+        
+          a
+          
+            y
+          
+        
+        
+          b
+          
+            y
+          
+        
+        
+          c
+          
+            x
+          
+        
+        )
+        =
+        
+          a
+          
+            x
+          
+        
+        
+          b
+          
+            x
+          
+        
+        
+          c
+          
+            x
+          
+        
+        
+          a
+          
+            y
+          
+          
+            2
+          
+        
+        
+          b
+          
+            y
+          
+          
+            2
+          
+        
+        
+          c
+          
+            y
+          
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            x
+          
+        
+        
+          b
+          
+            x
+          
+        
+        
+          c
+          
+            x
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle (a_{x}b_{y}c_{y})(a_{y}b_{x}c_{y})(a_{y}b_{y}c_{x})=a_{x}b_{x}c_{x}a_{y}^{2}b_{y}^{2}c_{y}^{2}=a_{x}b_{x}c_{x}\,,}
+  
+
+because the square of either 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+ or 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+ is 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+. Each factor in parentheses equals 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+, so
+  
+    
+      
+        
+          a
+          
+            x
+          
+        
+        
+          b
+          
+            x
+          
+        
+        
+          c
+          
+            x
+          
+        
+        =
+        +
+        1
+        
+        ,
+      
+    
+    {\displaystyle a_{x}b_{x}c_{x}=+1\,,}
+  
+
+and the product of Alice, Bob, and Charlie's results will be 
+  
+    
+      
+        +
+        1
+      
+    
+    {\displaystyle +1}
+  
+ with probability unity. But this is inconsistent with quantum physics: Victor can predict using the state 
+  
+    
+      
+        
+          |
+        
+        ψ
+        ⟩
+      
+    
+    {\displaystyle |\psi \rangle }
+  
+ that the measurement 
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+        ⊗
+        
+          σ
+          
+            x
+          
+        
+        ⊗
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}\otimes \sigma _{x}\otimes \sigma _{x}}
+  
+ will instead yield 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+ with probability unity.
+This thought experiment can also be recast as a traditional [Bell inequality](3497) or, equivalently, as a nonlocal game in the same spirit as the CHSH game. In it, Alice, Bob, and Charlie receive bits 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+      
+    
+    {\displaystyle x,y,z}
+  
+ from Victor, promised to always have an even number of ones, that is, 
+  
+    
+      
+        x
+        ⊕
+        y
+        ⊕
+        z
+        =
+        0
+      
+    
+    {\displaystyle x\oplus y\oplus z=0}
+  
+, and send him back bits 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+  
+. They win the game if 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+  
+ have an odd number of ones for all inputs except 
+  
+    
+      
+        x
+        =
+        y
+        =
+        z
+        =
+        0
+      
+    
+    {\displaystyle x=y=z=0}
+  
+, when they need to have an even number of ones. That is, they win the game iff 
+  
+    
+      
+        a
+        ⊕
+        b
+        ⊕
+        c
+        =
+        x
+        ∨
+        y
+        ∨
+        z
+      
+    
+    {\displaystyle a\oplus b\oplus c=x\lor y\lor z}
+  
+. With local hidden variables the highest probability of victory they can have is 3/4, whereas using the quantum strategy above they win it with certainty. This is an example of quantum pseudo-telepathy.
+
+Kochen–Specker theorem (1967)
+In quantum theory, orthonormal bases for a Hilbert space represent measurements that can be performed upon a system having that Hilbert space. Each vector in a basis represents a possible outcome of that measurement. Suppose that a hidden variable 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ exists, so that knowing the value of 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ would imply certainty about the outcome of any measurement. Given a value of 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+, each measurement outcome – that is, each vector in the Hilbert space – is either impossible or guaranteed. A Kochen–Specker configuration is a finite set of vectors made of multiple interlocking bases, with the property that a vector in it will always be impossible when considered as belonging to one basis and guaranteed when taken as belonging to another. In other words, a Kochen–Specker configuration is an "uncolorable set" that demonstrates the inconsistency of assuming a hidden variable 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ can be controlling the measurement outcomes.: 196–201
+
+Free will theorem
+The Kochen–Specker type of argument, using configurations of interlocking bases, can be combined with the idea of measuring entangled pairs that underlies Bell-type inequalities. This was noted beginning in the 1970s by Kochen, Heywood and Redhead, Stairs, and Brown and Svetlichny. As EPR pointed out, obtaining a measurement outcome on one half of an entangled pair implies certainty about the outcome of a corresponding measurement on the other half. The "EPR criterion of reality" posits that because the second half of the pair was not disturbed, that certainty must be due to a physical property belonging to it. In other words, by this criterion, a hidden variable 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ must exist within the second, as-yet unmeasured half of the pair. No contradiction arises if only one measurement on the first half is considered. However, if the observer has a choice of multiple possible measurements, and the vectors defining those measurements form a Kochen–Specker configuration, then some outcome on the second half will be simultaneously impossible and guaranteed.
+This type of argument gained attention when an instance of it was advanced by John Conway and Simon Kochen under the name of the free will theorem. The Conway–Kochen theorem uses a pair of entangled qutrits and a Kochen–Specker configuration discovered by [Asher Peres](3480).
+
+Quasiclassical entanglement
+As Bell pointed out, some predictions of quantum mechanics can be replicated in local hidden-variable models, including special cases of correlations produced from entanglement. This topic has been studied systematically in the years since Bell's theorem. In 1989, Reinhard Werner introduced what are now called Werner states, joint quantum states for a pair of systems that yield EPR-type correlations but also admit a hidden-variable model. Werner states are bipartite quantum states that are invariant under unitaries of symmetric tensor-product form: 
+  
+    
+      
+        
+          ρ
+          
+            A
+            B
+          
+        
+        =
+        (
+        U
+        ⊗
+        U
+        )
+        
+          ρ
+          
+            A
+            B
+          
+        
+        (
+        
+          U
+          
+            †
+          
+        
+        ⊗
+        
+          U
+          
+            †
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle \rho _{AB}=(U\otimes U)\rho _{AB}(U^{\dagger }\otimes U^{\dagger }).}
+  
+
+In 2004, Robert Spekkens introduced a toy model that starts with the premise of local, discretized degrees of freedom and then imposes a "knowledge balance principle" that restricts how much an observer can know about those degrees of freedom, thereby making them into hidden variables. The allowed states of knowledge ("epistemic states") about the underlying variables ("ontic states") mimic some features of quantum states. Correlations in the toy model can emulate some aspects of entanglement, like monogamy, but by construction, the toy model can never violate a [Bell inequality](3497).
+
+History
+Background
+The question of whether quantum mechanics can be "completed" by hidden variables dates to the early years of quantum theory. In his 1932 textbook on quantum mechanics, the Hungarian-born polymath John von Neumann presented what he claimed to be a proof that there could be no "hidden parameters". The validity and definitiveness of von Neumann's proof were questioned by Hans Reichenbach, in more detail by Grete Hermann, and possibly in conversation though not in print by [Albert Einstein](3401). (Simon Kochen and Ernst Specker rejected von Neumann's key assumption as early as 1961, but did not publish a criticism of it until 1967.)
+Einstein argued persistently that quantum mechanics could not be a complete theory. His preferred argument relied on a principle of locality:
+
+Consider a mechanical system constituted of two partial systems A and B which have interaction with each other only during limited time. Let the ψ function before their interaction be given. Then the Schrödinger equation will furnish the ψ function after their interaction has taken place. Let us now determine the physical condition of the partial system A as completely as possible by measurements. Then the quantum mechanics allows us to determine the ψ function of the partial system B from the measurements made, and from the ψ function of the total system. This determination, however, gives a result which depends upon which of the determining magnitudes specifying the condition of A has been measured (for instance coordinates or momenta). Since there can be only one physical condition of B after the interaction and which can reasonably not be considered as dependent on the particular measurement we perform on the system A separated from B it may be concluded that the ψ function is not unambiguously coordinated with the physical condition. This coordination of several ψ functions with the same physical condition of system B shows again that the ψ function cannot be interpreted as a (complete) description of a physical condition of a unit system.
+The EPR thought experiment is similar, also considering two separated systems A and B described by a joint wave function. However, the EPR paper adds the idea later known as the EPR criterion of reality, according to which the ability to predict with probability 1 the outcome of a measurement upon B implies the existence of an "element of reality" within B.
+In 1951, David Bohm proposed a variant of the EPR thought experiment in which the measurements have discrete ranges of possible outcomes, unlike the position and momentum measurements considered by EPR. The year before, Chien-Shiung Wu and Irving Shaknov had successfully measured polarizations of photons produced in entangled pairs, thereby making the Bohm version of the EPR thought experiment practically feasible.
+By the late 1940s, the mathematician George Mackey had grown interested in the foundations of quantum physics, and in 1957 he drew up a list of postulates that he took to be a precise definition of quantum mechanics. Mackey conjectured that one of the postulates was redundant, and shortly thereafter, Andrew M. Gleason proved that it was indeed deducible from the other postulates. Gleason's theorem provided an argument that a broad class of hidden-variable theories are incompatible with quantum mechanics. More specifically, Gleason's theorem rules out hidden-variable models that are "noncontextual". Any hidden-variable model for quantum mechanics must, in order to avoid the implications of Gleason's theorem, involve hidden variables that are not properties belonging to the measured system alone but also dependent upon the external context in which the measurement is made. This type of dependence is often seen as contrived or undesirable; in some settings, it is inconsistent with special relativity. The Kochen–Specker theorem refines this statement by constructing a specific finite subset of rays on which no such probability measure can be defined.
+Tsung-Dao Lee came close to deriving Bell's theorem in 1960. He considered events where two kaons were produced traveling in opposite directions, and came to the conclusion that hidden variables could not explain the correlations that could be obtained in such situations. However, complications arose due to the fact that kaons decay, and he did not go so far as to deduce a Bell-type inequality.: 308
+
+Bell's publications
+Bell chose to publish his theorem in a comparatively obscure journal because it did not require page charges, in fact paying the authors who published there at the time. Because the journal did not provide free reprints of articles for the authors to distribute, however, Bell had to spend the money he received to buy copies that he could send to other physicists. While the articles printed in the journal themselves listed the publication's name simply as Physics, the covers carried the trilingual version Physics Physique Физика to reflect that it would print articles in English, French and Russian.: 92–100, 289 
+Prior to proving his 1964 result, Bell also proved a result equivalent to the Kochen–Specker theorem (hence the latter is sometimes also known as the Bell–Kochen–Specker or Bell–KS theorem). However, publication of this theorem was inadvertently delayed until 1966. In that paper, Bell argued that because an explanation of quantum phenomena in terms of hidden variables would require nonlocality, the EPR paradox "is resolved in the way which Einstein would have liked least."
+
+Experiments
+In 1967, the unusual title Physics Physique Физика caught the attention of John Clauser, who then discovered Bell's paper and began to consider how to perform a Bell test in the laboratory. Clauser and Stuart Freedman would go on to perform a Bell test in 1972. This was only a limited test, because the choice of detector settings was made before the photons had left the source. In 1982, [Alain Aspect](3422) and collaborators performed the first Bell test to remove this limitation. This began a trend of progressively more stringent Bell tests. The GHZ thought experiment was implemented in practice, using entangled triplets of photons, in 2000. By 2002, testing the CHSH inequality was feasible in undergraduate laboratory courses.
+In Bell tests, there may be problems of experimental design or set-up that affect the validity of the experimental findings. These problems are often referred to as "loopholes". The purpose of the experiment is to test whether nature can be described by local hidden-variable theory, which would contradict the predictions of quantum mechanics.
+The most prevalent loopholes in real experiments are the detection and locality loopholes. The detection loophole is opened when a small fraction of the particles (usually photons) are detected in the experiment, making it possible to explain the data with local hidden variables by assuming that the detected particles are an unrepresentative sample. The locality loophole is opened when the detections are not done with a spacelike separation, making it possible for the result of one measurement to influence the other without contradicting relativity. In some experiments there may be additional defects that make local-hidden-variable explanations of Bell test violations possible.
+Although both the locality and detection loopholes had been closed in different experiments, a long-standing challenge was to close both simultaneously in the same experiment. This was finally achieved in three experiments in 2015.
+Regarding these results, [Alain Aspect](3422) writes that "no experiment ... can be said to be totally loophole-free," but he says the experiments "remove the last doubts that we should renounce" local hidden variables, and refers to examples of remaining loopholes as being "far fetched" and "foreign to the usual way of reasoning in physics."
+These efforts to experimentally validate violations of the Bell inequalities would later result in Clauser, Aspect, and [Anton Zeilinger](3464) being awarded the 2022 Nobel Prize in Physics.
+
+Interpretations
+Reactions to Bell's theorem have been many and varied. Maximilian Schlosshauer, Johannes Kofler, and Zeilinger write that Bell inequalities provide "a wonderful example of how we can have a rigorous theoretical result tested by numerous experiments, and yet disagree about the implications."
+
+The Copenhagen interpretation
+Copenhagen-type interpretations generally take the violation of Bell inequalities as grounds to reject the assumption often called counterfactual definiteness or "realism", which is not necessarily the same as abandoning realism in a broader philosophical sense. For example, Roland Omnès argues for the rejection of hidden variables and concludes that "quantum mechanics is probably as realistic as any theory of its scope and maturity ever will be".: 531  Likewise, Rudolf Peierls took the message of Bell's theorem to be that, because the premise of locality is physically reasonable, "hidden variables cannot be introduced without abandoning some of the results of quantum mechanics".
+This is also the route taken by interpretations that descend from the Copenhagen tradition, such as consistent histories (often advertised as "Copenhagen done right"),: 2839  as well as QBism.
+
+Many-worlds interpretation of quantum mechanics
+The Many-worlds interpretation, also known as the Everett interpretation, is dynamically local, meaning that it does not call for action at a distance,: 17  and deterministic, because it consists of the unitary part of quantum mechanics without collapse. It can generate correlations that violate a [Bell inequality](3497) because it violates an implicit assumption by Bell that measurements have a single outcome. In fact, Bell's theorem can be proven in the Many-Worlds framework from the assumption that a measurement has a single outcome. Therefore, a violation of a [Bell inequality](3497) can be interpreted as a demonstration that measurements have multiple outcomes.
+The explanation it provides for the Bell correlations is that when Alice and Bob make their measurements, they split into local branches. From the point of view of each copy of Alice, there are multiple copies of Bob experiencing different results, so Bob cannot have a definite result, and the same is true from the point of view of each copy of Bob. They will obtain a mutually well-defined result only when their future light cones overlap. At this point we can say that the Bell correlation starts existing, but it was produced by a purely local mechanism. Therefore, the violation of a [Bell inequality](3497) cannot be interpreted as a proof of non-locality.: 28
+
+Non-local hidden variables
+Most advocates of the hidden-variables idea believe that experiments have ruled out local hidden variables. They are ready to give up locality, explaining the violation of Bell's inequality by means of a non-local hidden variable theory, in which the particles exchange information about their states. This is the basis of the Bohm interpretation of quantum mechanics, which requires that all particles in the universe be able to instantaneously exchange information with all others. One challenge for non-local hidden variable theories is to explain why this instantaneous communication can exist at the level of the hidden variables, but it cannot be used to send signals. A 2007 experiment ruled out a large class of non-Bohmian non-local hidden variable theories, though not Bohmian mechanics itself.
+The transactional interpretation, which postulates waves traveling both backwards and forwards in time, is likewise non-local.
+
+Superdeterminism
+A necessary assumption to derive Bell's theorem is that the hidden variables are not correlated with the measurement settings. This assumption has been justified on the grounds that the experimenter has "free will" to choose the settings, and that it is necessary to do science in the first place. A (hypothetical) theory where the choice of measurement is necessarily correlated with the system being measured is known as superdeterministic.
+A few advocates of deterministic models have not given up on local hidden variables. For example, Gerard 't Hooft has argued that superdeterminism cannot be dismissed.
+
+See also
+Notes
+References
+Further reading
+The following are intended for general audiences.
+
+Aczel, Amir D. (2001). Entanglement: The greatest mystery in physics. New York: Four Walls Eight Windows.
+Afriat, A.; Selleri, F. (1999). The Einstein, Podolsky and Rosen Paradox. New York and London: Plenum Press.
+Baggott, J. (1992). The Meaning of Quantum Theory. Oxford University Press.
+Gilder, Louisa (2008). The Age of Entanglement: When Quantum Physics Was Reborn. New York: Alfred A. Knopf.
+Greene, Brian (2004). The Fabric of the Cosmos. Vintage. ISBN 0-375-72720-5.
+Mermin, N. David (1981). "Bringing home the atomic world: Quantum mysteries for anybody". American Journal of Physics. 49 (10): 940–943. Bibcode:1981AmJPh..49..940M. doi:10.1119/1.12594. S2CID 122724592.
+Mermin, N. David (April 1985). "Is the moon there when nobody looks? Reality and the quantum theory". Physics Today. 38 (4): 38–47. Bibcode:1985PhT....38d..38M. doi:10.1063/1.880968.
+The following are more technically oriented.
+
+External links
+
+Mermin: Spooky Actions At A Distance? Oppenheimer Lecture.
+"Bell's theorem". Internet Encyclopedia of Philosophy.
+"Bell inequalities". Encyclopedia of Mathematics. EMS Press. 2001 1994.

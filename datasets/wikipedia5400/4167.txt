@@ -1,0 +1,44 @@
+4167
+Antoni Zygmund
+Antoni Zygmund (December 26, 1900 – May 30, 1992) was a Polish-American mathematician. He worked mostly in the area of mathematical analysis, including especially harmonic analysis, and he is considered one of the greatest analysts of the 20th century. Zygmund was responsible for creating the Chicago school of mathematical analysis together with his doctoral student [Alberto Calderón](4114), for which he was awarded the National Medal of Science in 1986.
+
+Biography
+Born in Warsaw, Zygmund obtained his Ph.D. from the University of Warsaw (1923) and was a professor at Stefan Batory University at Wilno from 1930 to 1939, when World War II broke out and Poland was occupied. In 1940 he managed to emigrate to the [United States](1100), where he became a professor at [Mount Holyoke College](4007) in South Hadley, Massachusetts. In 1945–1947 he was a professor at the University of Pennsylvania, and from 1947, until his retirement, at the University of Chicago.
+He was a member of several scientific societies. From 1930 until 1952 he was a member of the Warsaw Scientific Society (TNW), from 1946 of the Polish Academy of Learning (PAU), from 1959 of the Polish Academy of Sciences (PAN), and from 1961 of the National Academy of Sciences in the [United States](1100). In 1986 he received the National Medal of Science.
+In 1935 Zygmund published in Polish the original edition of what has become, in its English translation, the two-volume Trigonometric Series. It was described by Robert A. Fefferman as "one of the most influential books in the history of mathematical analysis" and "an extraordinarily comprehensive and masterful presentation of a ... vast field". Jean-Pierre Kahane called the book "The Bible" of a harmonic analyst. The theory of trigonometric series had remained the largest component of Zygmund's mathematical investigations.
+His work has had a pervasive influence in many fields of mathematics, mostly in mathematical analysis, and particularly in harmonic analysis. Among the most significant were the results he obtained with Calderón on singular integral operators. George G. Lorentz called it Zygmund's crowning achievement, one that "stands somewhat apart from the rest of Zygmund's work".
+Zygmund's students included [Alberto Calderón](4114), Paul Cohen, Nathan Fine, Józef Marcinkiewicz, Victor L. Shapiro, Guido Weiss,  Elias M. Stein and Mischa Cotlar. He died in Chicago.
+
+Family
+Antoni Zygmund, who had three sisters, married Irena Parnowska, a mathematician, in 1925. Upon his death he was survived by four grandsons.
+
+Mathematical objects named after Zygmund
+Calderón–Zygmund lemma
+Marcinkiewicz–Zygmund inequality
+Paley–Zygmund inequality
+Calderón–Zygmund kernel
+
+Books
+Trigonometric Series ([Cambridge University Press](645) 1959, 2002)
+Intégrales singulières (Springer-Verlag, 1971)
+Trigonometric Interpolation (University of Chicago, 1950)
+Measure and Integral: An Introduction to Real Analysis, With Richard L. Wheeden (Marcel Dekker, 1977)
+Analytic Functions, with Stanislaw Saks (Elsevier Science Ltd, 1971)
+
+See also
+Calderón–Zygmund lemma
+Zygmunt Janiszewski
+Marcinkiewicz–Zygmund inequality
+Paley–Zygmund inequality
+List of Poles
+Centipede mathematics
+
+References
+Further reading
+Kazimierz Kuratowski, A Half Century of Polish Mathematics: Remembrances and Reflections, Oxford, Pergamon Press, 1980, ISBN 0-08-023046-6.
+Gray, Jeremy (1970–1980). "Zygmund, Antoni". Dictionary of Scientific Biography. Vol. 25. New York: Charles Scribner's Sons. pp. 414–416. ISBN 978-0-684-10114-9.
+
+External links
+Antoni Zygmund at the Mathematics Genealogy Project
+Mount Holyoke biography
+O'Connor, John J.; Robertson, Edmund F., "Antoni Zygmund", MacTutor History of Mathematics Archive, University of St Andrews

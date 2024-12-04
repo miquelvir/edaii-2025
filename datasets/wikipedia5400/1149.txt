@@ -1,0 +1,206 @@
+1149
+Aleut language
+Aleut ( AL-ee-oot) or Unangam Tunuu is the language spoken by the Aleut living in the [Aleutian Islands](1150), Pribilof Islands, Commander Islands, and the [Alaska](523) Peninsula (in Aleut Alaxsxa, the origin of the state name [Alaska](523)). Aleut is the sole language in the Aleut branch of the Eskimo–Aleut language family. The Aleut language consists of three dialects, including Unalaska (Eastern Aleut), Atka/Atkan (Atka Aleut), and Attu/Attuan (Western Aleut, now extinct).
+
+Various sources estimate there are fewer than 100 to 150 remaining active Aleut speakers. Because of this, Eastern and Atkan Aleut are classified as "critically endangered and extinct" and have an Expanded Graded Intergenerational Disruption Scale (EGIDS) rating of 7. The task of revitalizing Aleut has largely been left to local government and community organizations. The overwhelming majority of schools in the historically Aleut-speaking regions lack any language/culture courses in their curriculum, and those that do fail to produce fluent or even proficient speakers.
+
+History
+The Eskimo and Aleut peoples were part of a migration from Asia across Beringia, the Bering land bridge between 4,000 and 6,000 years ago. During this period, the Proto-Eskimo-Aleut language was spoken, which broke up around 2000 BC. Differentiation of the two branches is thought to have happened in [Alaska](523) because of the linguistic diversity found in the Eskimo languages of [Alaska](523) relative to the entire geographic area where Eskimo languages are spoken (eastward through Canada to Greenland). After the split between the two branches, their development is thought to have occurred in relative isolation.
+Evidence suggests a culture associated with Aleut speakers on the Eastern [Aleutian Islands](1150) as early as 4,000 years ago, followed by a gradual expansion westward over the next 1,500 years to the Near Islands. Another westward expansion may have occurred about 1,000 years ago, which may explain the lack of obvious diversification among the Aleut dialects, with Eastern Aleut features having spread westward. This second westward expansion is characterized as a period of cultural affinity with southeastern [Alaska](523) and the Pacific Northwest Coast, which may explain linguistic features that Aleut shares with neighboring non-Eskimo languages, such as rules of plural formation.
+Due to colonization by Russian colonizers and traders in the 18th and 19th centuries, Aleut has a large portion of Russian loanwords. However, they do not affect the basic vocabulary and thus do not suggest undue influence on the language.
+In March 2021, the last native speaker of the Bering dialect, Vera Timoshenko, died aged 93 in Nikolskoye, Bering Island, Kamchatka.
+
+Dialects
+Within the Eastern group are the dialects of the [Alaska](523)n Peninsula, Unalaska, Belkofski, Akutan, the Pribilof Islands, Kashega and Nikolski. The Pribilof dialect has more living speakers than any other dialect of Aleut.
+The Atkan grouping comprises the dialects of Atka and Bering Island.
+Attuan was a distinct dialect showing influence from both Atkan and Eastern Aleut. Copper Island Aleut (also called Medny Aleut) was a Russian-Attuan mixed language (Copper Island (Russian: Медный, Medny, Mednyj) having been settled by Attuans).  Despite the name, after 1969 Copper Island Aleut was spoken only on Bering Island, as Copper Islanders were evacuated there. After the death of the last native speaker in 2022, it became extinct.
+All dialects show lexical influence from Russian; Copper Island Aleut has also adopted many Russian inflectional endings. The largest number of Russian loanwords can be seen in the Bering Aleut.
+
+Phonology
+Consonants
+The consonant phonemes of the various Aleut dialects are represented below. Each cell indicates the International Phonetic Alphabet (IPA) representation of the phoneme; consonants existing only in loanwords are in parentheses. Some phonemes are unique to specific dialects of Aleut.
+
+The palato-alveolar affricate /tʃ/ and uvular stop /q/ are pronounced with strong aspiration.
+Attuan labial fricative /v/ is pronounced voiced or devoiced.
+Voiceless approximants and devoiced nasals are preaspirated. The preaspiration of approximants causes very little friction and may pronounced more as a breathy voice. The preaspiration of devoiced nasals starts with a voiceless airstream through the nose and may end voiced before a vowel. The preaspiration feature is represented orthographically with an ⟨h⟩ preceding the given sound. For example, a devoiced, preaspirated labial nasal would be written ⟨hm⟩.
+Voiced approximants and nasals may be partly devoiced in contact with a voiceless consonant and at the end of a word.
+The voiceless glottal approximant /h/ functions as an initial aspiration before a vowel. In Atkan and Attuan, the prevocalic /h/ aspiration contrasts with an audible but not written glottal stop initiation of the vowel. Compare halal ('to turn the head') and alal ('to need'). This contrast has been lost in Eastern Aleut.
+Modern Eastern Aleut has a much simpler consonant inventory because the voice contrasts among nasals, sibilants and approximants have been lost.
+Consonants listed in the dental column have varied places of articulation. The stop, nasal, and lateral dentals commonly have a laminal articulation. The voiced dental fricative is pronounced interdentally.
+The  pronunciation of the sibilant /s/ varies from an alveolar articulation to a retracted articulation like a palato-alveolar consonant. There is no contrast between /s/ and ʃ in Aleut. Many Aleut speakers experience difficulties with this distinction while learning English.
+
+Vowels
+Aleut has a basic three-vowel system including the high front /i/, low /a/, and high back /u/. Aleut vowels contrast with their long counterparts /iː/, /aː/, and /uː/.
+Notably, Aleut /u/ is pronounced slightly lower than /i/ in the vowel space.
+The long vowel /aː/ is pronounced retracted in the vowel space creating a significant distinction relative to the vowel length of /a/. The two high vowels are pronounced with the same vowel quality regardless of vowel length.
+In contact with a uvular, /i/ is lowered to e, /a/ is backed to ɑ, and /u/ is lowered to o. In contact with a coronal, /a/ is raised to e or ɛ, and /u/ is fronted to ʉ.
+The mid-vowels ɔ and ɛ occur only in family names like Nevzorof and very recently introduced Russian loanwords.
+
+Syllable structure
+(C)(C)V(V) ± {C(C)(C)V(V)} ± C
+An Aleut word may contain one to about a dozen syllables, all syllables with a vocalic nucleus. In Atkan and Attuan, there is a word-final CC due to apocopation. There also exist word initial CCC in loanwords.
+
+Phonotactics
+A word may begin or end in a vowel, both short and long, with few exceptions. Due to apocopation, short /u/ is not found in the final position. The same is true for short /i/, except in some obsolete suffixes, such as -chi 'your' (pl.) which is realized as -chin and -chix in modern Eastern and Atkan Aleut.
+Vowels within a word are separated by at least one consonant. All single consonants can appear in an intervocalic position, with the following exceptions:
+
+/ʍ/ and /h/ do not occur in intervocalic positions
+/w/ does not occur in contact with /u/
+/ç/ does not occur in contact with /i/
+Words begin with any consonant except /θ/ and preaspirated consonants (with the exception of the preaspirated /ŋ̥/ in Atkan Aleut). Only in loanwords do /v/, /z/, and the borrowed consonants (p, b, f, d, g, ɹ/ɾ)  appear word-initially.
+The word-initial CC can take many forms, with various restrictions on the distribution of consonants:
+
+a stop or /s/, followed by a continuant other than /s/ or /z/
+a coronal stop or /s/, followed by a postlingual continuant (velar, uvular, or glottal).
+postlingual stop or /tʃ/, followed by /j/
+/k/ or /s/, followed by /n/
+Intervocalic CC can occur in normal structure or as the result of syncopation.
+In CC clusters of two voiced continuants, there is often a short transitional vowel. For example, qilĝix̂ 'umbilical cord' is pronounced -liĝ-  similar to qiliĝi-n 'brain'.
+Almost all possible combinations of coronal and postlingual consonants are attested.
+The combination of two postlingual or two coronal consonants is rare, but attested, such as hux̂xix 'rain pants', aliĝngix̂ 'wolf', asliming 'fit for me', iistalix 'to say; to tell; to call'.
+In CCC clusters, the middle consonant is either /t/, /tʃ/, /s/. For example, taxtxix̂ 'pulse', huxsx̂ilix 'to wrap up', chamchxix̂ 'short fishline'.
+The most common single consonants to appear word-final are /x/, /χ/, /m/, /n/, /ŋ/, and /j/.
+Through apocopation, word-final single consonants /l/ and /s/ occur, and word-final consonant clusters ending with /t/ or /s/.
+
+Syncopation
+The details of the extensive syncopation characteristic of the Eastern Aleut dialect are described below. In the examples, the syncopated vowel will be shown in parentheses.
+A word medial short vowel may be syncopated between single consonants, except after an initial open short syllable and/or before a final open short syllable. For example, ìx̂am(a)nákux̂ 'it is good' and alqut(a)maan 'what for?'.
+The syncopation often creates consonant clusters beyond those prescribed by the general rules of Aleut phonotactics. The resulting clusters include:
+
+clusters of two stops: asx̂at(i)kuu 'he killed it'
+geminate consonants: yuug(i)gaadakux̂ 'is young'
+a regular three consonant cluster: ingam(a)sxakum 'after a short while (he)'
+In some frequently encountered syncopated forms, which otherwise result in irregular three consonant clusters, the middle uvular fricative is deleted along with the preceding vowel. For example, (h)iis(ax̂)talix 'saying' and (h)iil(ax̂)talix 'being said'.
+At slower speeds of speech, the syncopation may not be realized. Compare txin saakutikux̂txin 'you are getting skinny' beside ting saak(u)tikuqing 'I am getting skinny'.
+
+Stress
+Aleut stress is indeterminate and often difficult to define. Stress varies based on the relation to the beginning or end of the word form, the length of the vowels, the sonority of the consonants, open- or closeness of the syllables, or the number of syllables in sentential rhythm and intonation. Stress affects the length of both vowels and consonants. Stress underlies the distinctive syncopation characteristics of Eastern Aleut. In the following discussion, the acute accent (á) indicates the stronger stress and the grave accent (à) indicates the weaker.
+In Eastern Aleut, stronger stress tends to fall on the penultimate syllable if it is short (has a short vowel), or on the last syllable if it is long (has a long vowel). The weaker stress commonly falls on the first syllable. For example, úlax̂ 'house', tùnúnax̂ 'talked', tùnulákan 'without talking', ìnaqáam 'he himself'.
+Eastern Aleut words with more than two syllables exhibit a wider variety of stress patterns. Stress may be attracted to another syllable by a long vowel or relatively sonorant consonant, or by a closed syllable. It is possible the stress can be determined by rhythmic factors so that one word will have different stress in different contexts, such as áĝadax̂ compared to àĝádax̂, both meaning 'arrow'.
+In Atkan and Attuan Aleut, stronger stress more commonly falls on the first syllable. However, long vowels, sonorants, etc. have similar effects on stress as in Eastern Aleut. For example, qánáang 'how many' vs qánang 'where'; ùĝálux̂ 'spear' vs álaĝux̂ 'sea'.
+Stress may also be expressive, as with exclamations or polite requests. Stronger stress falls on the last syllable and is accompanied by a lengthening of a short vowel. For example, kúufyax̂ àqakúx̂! 'coffee is coming'. There is a similar structure for polite requests: qadá 'please eat!' vs qáda 'eat'.
+Under ordinary strong stress, a short syllable tends to be lengthened, either by lengthening the vowel or geminating the following single consonant. Lengthening of the vowel is most common in Eastern, but is found in Atkan before a voiced consonant. In all dialects gemination is common between an initial stressed syllable with a short vowel and a following stressed syllable. For example, ìláan 'from him' pronounced -ll- and làkáayax̂ 'a boy' pronounced -kk-.
+
+Phrasal phonology
+The following descriptions involve phonological processes that occur in connected speech.
+Word-final velar and uvular fricatives are voiceless when followed by a word-initial voiceless consonant and are voiced when followed by a word-initial voiced consonant or a vowel.
+Word-final nasals /m/ and /n/ are frequently deleted before an initial consonant other than /h/. For example, tana(m) kugan 'on the ground' and ula(m) naga 'the interior of the house'.
+In Eastern Aleut, the final vowel may be elided before or contracted with the initial vowel of the following word, as in aamg(ii) iĝanalix 'he is bleeding awfully'.
+In Atkan, the final syllable of a word form may be clipped off in fast speech. This is even frequent at slow speed in certain constructions with auxiliary verbs. The result will be a sequence of vowels or full contraction:
+
+waaĝaaĝan aĝikux̂, waaĝaa-aĝikux̂, waaĝaaĝikux̂ 'he's about to come'
+ixchiinhan aĝikuq, ixchii-aĝikuq, ixchiiĝikuq 'I'll go home'
+
+Orthography
+The modern practical Aleut orthography was designed in 1972 for the [Alaska](523)n school system's bilingual program:
+
+* denotes letters typically used in loanwords
+† only found in Atkan Aleut
+
+The historic Aleut (Cyrillic) alphabet found in both [Alaska](523) and Russia has the standard pre-1918 Russian orthography as its basis, although a number of Russian letters were used only in loanwords. In addition, the extended Cyrillic letters г̑ (г with inverted breve), ҟ, ҥ, ў, х̑ (х with inverted breve) were used to represent distinctly Aleut sounds.
+A total of 24+ letters were used to represent distinctly Aleut words, including 6 vowels (а, и, й, у, ю, я) and 16 consonants (г, г̑, д, з, к, ԟ, л, м, н, ҥ, с, т, ў, х, х̑, ч). The letter ӄ has replaced the letter ԟ (Aleut Ka) for the voiceless uvular plosive /q/ in modern Aleut Cyrillic publications.
+
+* denotes letters typically used in loanwords
+† only found in Atkan Aleut
+The modern Aleut orthography (for Bering dialect):
+
+Morphology
+Open word classes in Aleut include nouns and verbs, both derived from stems with suffixes. Many stems are ambivalent, being both nominal and verbal (see § Derivation). There are no adjectives other than verbal nouns and participles. Other word classes include pronouns, contrastives, quantifiers, numerals, positional nouns, demonstratives, and interrogatives.
+
+Nouns
+Ordinary nouns have suffixes for 
+
+number: singular, dual, and plural
+relational case: absolutive and relative
+person: first, second, anaphoric third, reflexive third
+
+ 
+The anaphoric third person refers to a proceeding term, specified by being marked in the relative case or from context. For example, tayaĝu-m ula-a 'the man's house' and ula-a 'his house'.
+
+As free forms, the pronouns are used primarily as an object, like fully specified nouns. As enclitics they function as subject markers.
+
+Positional nouns
+Positional nouns indicate positional, directional, or some more abstract relation to a definite referent (a person or proceeding noun in relative case). Positional nouns have possessive suffixes but no inherent number. 
+Unlike ordinary nouns, positional nouns have two adverbial cases: locative and/or ablative. The most important stem i-, called the dative, has only a locative form (largely irregular) meaning 'to, at, for-'. 
+Most are used in absolutive case, as in ula-m agal-a agikux̂ 'he passed behind the house'. They can also be used in the relative case, as in laavki-m agal-a-n ula-a 'the house behind the store'.
+
+Numerals
+The numeral system is decimal with hatix̂ 'ten' and sisax̂ 'hundred' as the basic higher terms. The higher tens numerals are derived through multiplication (e.g. 2 x10 for 'twenty'). The multiplicative numerals are derived with the suffix -di-m on the base numeral followed by hatix̂ 'ten'. For example, qankudim hatix̂ 'forty'.
+
+Verbs
+Verbs differ from nouns morphologically by having mood/tense suffixes. Like nominal stems, verb stems may end in a short vowel or consonant. Many stems ending in a consonant had auxiliary vowels which have largely become part of the stem itself.
+Negation is sometimes suffixal, preceding or combining with the mood/tense suffix. In some cases the negation will be followed by the enclitic subject pronoun.
+
+Derivation (postbases)
+There are 570 derivational suffixes (postbases) including many composite ones, but about two thirds are found only in a small number of words. There are approximately 175 more common suffixes, considerably less than the Eskimo branch of the family.
+A postbase may be nominal or verbal, yielding nouns derived from nouns or verbs, or verbs derived from verbs or nouns, or from nominal phrases. Many stems are ambivalent, being either nominal or verbal and even some derivatives can be ambivalent.
+Difficulties distinguishing between nominal and verbal parts of speech arise because the parts of speech in Aleut are not easy to distinguish. A verbal stem may be used as a verbal predicate, and quite often as a noun. The verbal use of nouns is also very common.
+The derivational suffixes may combine in strings of up to about six components, some belonging together to form composites. In sequences, each successive suffix often modifies the preceding string.
+The majority of derivatives have a single stem that occurs also without the suffixes in question. While some stems are bound, only occurring with some derivational suffix. For example, compare iĝa-t- 'to scare, frighten' iĝa-x̂ta- 'to fear, be afraid of' iĝa-na- 'to be terrible, frightening'.
+
+Syntax
+Overview
+Most Aleut words can be classified as nouns or verbs.  Notions which in English are expressed by means of adjectives and adverbs are generally expressed in Aleut using verbs or postbases (derivational suffixes).
+Aleut's canonical word order is subject–object–verb (SOV).
+Nouns are obligatorily marked for grammatical number (singular, dual, or plural) and for absolutive case or relative case (some researchers, notably Anna Berge, dispute both the characterization of this feature as "case" and the names absolutive and relative.  This approach to Aleut nouns comes from Eskimo linguistics, but these terms can be misleading when applied to Aleut).  The absolutive form is the default form, while the relative form communicates a relationship (such as possessive or contrastive) between the noun and another member of the sentence, possibly one that has been omitted. Absolutive and relative are identical in most combinations of person and number.
+In possessive constructions, Aleut marks both possessor and possessum, with the possessor preceding the possessum:
+
+The verbal predicate of a simple sentence of the final clause of a complex sentence carries the temporal and modal marking in relation to the speech act. Verbs of non-final clauses are marked in relation to the following clause. A complex sentence may contain an unlimited number of clauses.
+Simple sentences may include a subject or no subject. The predicate may be a verb with no complement, a predicate noun with a copula, or a verb with a preceding direct object in the absolutive case and/or an oblique term or local complement.
+The number of arguments may be increased or decreased by verbal derivative suffixes. Arguments of a clause may be explicitly specified or anaphoric.
+The verb of a simple sentence or final clause may have a nominal subject in the absolutive case or a first-/second-person subject marker. If the nominal subject is left out, as known from context, the verb implies an anaphoric reference to the subject:
+
+Positional nouns are a special, closed set of nouns which may take the locative or ablative noun cases; in these cases they behave essentially as postpositions. Morphosyntactically, positional noun phrases are almost identical to possessive phrases:
+
+Verbs are inflected for mood and, if finite, for person and number.  Person/number endings agree with the subject of the verb if all nominal participants of a sentence are overt:
+
+If a 3rd person complement or subordinate part of it is omitted, as known from context, there is an anaphoric suffixal reference to it in the final verb and the nominal subject is in the relative case:
+
+When more than one piece of information is omitted, the verb agrees with the element whose grammatical number is greatest.  This can lead to ambiguity:
+
+Comparison to Eskimo grammar
+Although Aleut derives from the same parent language as the Eskimo languages, the two language groups (Aleut and Eskimo) have evolved in distinct ways, resulting in significant typological differences.  Aleut inflectional morphology is greatly reduced from the system that must have been present in Proto-Eskimo–Aleut, and where the Eskimo languages mark a verb's arguments morphologically, Aleut relies more heavily on a fixed word order.
+Unlike the Eskimo languages, Aleut is not an ergative-absolutive language.  Subjects and objects in Aleut are not marked differently depending on the transitivity of the verb (i.e. whether the verb is transitive or intransitive); by default, both are marked with a so-called absolutive noun ending.  However, if an understood complement (which may either be a complement of the verb or of some other element in the sentence) is absent, the verb takes an "anaphoric" marking and the subject noun takes a "relative" noun ending.
+A typological feature shared by Aleut and Eskimo is polysynthetic derivational morphology, which can lead to some rather long words:
+
+Research history
+The first contact of people from the Eastern Hemisphere with the Aleut language occurred in 1741, as Vitus Bering's expedition picked up place names and the names of the Aleut people they met. The first recording of the Aleut language in lexicon form appeared in a word list of the Unalaskan dialect compiled by Captain James King on Cook's voyage in 1778. At that time the Imperial Academy of Sciences in Saint Petersburg became interested in the Aleut language upon hearing of Russian expeditions for trading.
+In Catherine the Great's project to compile a giant comparative dictionary on all the languages spoken in what was the spread of the Russian empire at that time, she hired Peter Simon Pallas to conduct the fieldwork that would collect linguistic information on Aleut. During an expedition from 1791 to 1792, Carl Heinrich Merck and Michael Rohbeck collected several word lists and conducted a census of the male population that included prebaptismal Aleut names. Explorer Yuriy Feodorovich Lisyansky compiled several word lists. in 1804 and 1805, the czar's plenipotentiary, Nikolai Petrovich Rezanov collected some more. Johann Christoph Adelung and Johann Severin Vater published their Mithridates oder allgemeine Sprachkunde 1806–1817, which included Aleut among the languages it catalogued, similar to Catherine the Great's dictionary project.
+It was not until 1819 that the first professional linguist, the Dane Rasmus Rask, studied Aleut. He collected words and paradigms from two speakers of Eastern Aleut dialects living in Saint Petersburg. In 1824 came the man who would revolutionize Aleut as a literary language. Ioann Veniaminov, a Russian Orthodox priest who would later become a saint, arrived at Unalaska studying Unalaskan Aleut. He created an orthography for this language (using the Cyrillic alphabet; the Roman alphabet would come later), translated the Gospel according to St. Matthew and several other religious works into Aleut, and published a grammar of Eastern Aleut in 1846.
+The religious works were translated with the help of Veniaminov's friends Ivan Pan'kov (chief of Tigalda) and Iakov Netsvetov (the priest of Atka), both of whom were native Aleut speakers. Netsvetov also wrote a dictionary of Atkan Aleut. After Veniaminov's works were published, several religious figures took interest in studying and recording Aleut, which would help these Russian Orthodox clerics in their missionary work. Father Innocent Shayashnikov did much work in the Eastern Fox-Island dialect translating a Catechism, all four Gospels and Acts of Apostles from the New Testament, and an original composition in Aleut entitled: "Short Rule for a Pious Life".
+Most of these were published in 1902, although written years earlier in the 1860s and 1870s. Father Lavrentii Salamatov produced a Catechism, and translations of three of the four Gospels (St. Mark, St. Luke, St. John) in the Western-Atkan dialect. Of Father Lavrentii's work, the Gospel of St. Mark was published in a revised orthography (1959), and in its original, bilingual Russian-Aleut format (2007), together with his Catechism for the youth of Atka Island (2007). The Atkan-dialect Gospel of St. John was also electronically published (2008), along with the Gospel of St. Luke (2009) in the original bilingual format, completing the set of Fr. Lavrentii's biblical translations.
+The first Frenchman to record Aleut was Alphonse Pinart, in 1871, shortly after the [United States](1100) purchase of [Alaska](523). A French-Aleut grammar was also produced by Victor Henry, titled Esquisse d'une grammaire raisonnee de la langue aleoute d'apres la grammaire et le vocabulaire de Ivan Veniaminov (Paris, 1879).  In 1878, American Lucien M. Turner began work on collecting words for a word list. Benedykt Dybowski, a Pole, began taking word lists from the dialects of the Commander Islands in 1881, while Nikolai Vasilyevich Slyunin, a Russian doctor, did the same in 1892.
+From 1909 to 1910, the ethnologist Waldemar Jochelson traveled to the Aleut communities of Unalaska, Atka, Attu and Nikolski. He spent nineteen months there doing fieldwork. Jochelson collected his ethnographic work with the help of two Unalaskan speakers, Aleksey Yachmenev and Leontiy Sivtsov. He recorded many Aleut stories, folklore and myth, and had many of them not only written down but also recorded in audio. Jochelson discovered much vocabulary and grammar when he was there, adding to the scientific knowledge of the Aleut language.
+In the 1930s, two native Aleuts wrote down works that are considered breakthroughs in the use of Aleut as a literary language. Afinogen K. Ermeloff wrote down a literary account of a shipwreck in his native language, while Ardelion G. Ermeloff kept a diary in Aleut during the decade. At the same time, linguist Melville Jacobs picked up several new texts from Sergey Golley, an Atkan speaker who was hospitalized at the time.
+John P. Harrington furthered research into the Pribilof Island dialect on St. Paul Island in 1941, collecting some new vocabulary along the way. In 1944, the [United States](1100) Department of the Interior published The Aleut Language as part of the war effort, allowing World War II soldiers to understand the language of the Aleuts. This English–language project was based on Veniaminov's work.
+In 1950, Knut Bergsland began an extensive study of Aleut, perhaps the most rigorous to date, culminating in the publication of a complete Aleut dictionary in 1994 and a descriptive grammar in 1997.  Bergsland's work would not have been possible without key Aleut collaborators, especially Atkan linguist Moses Dirks.
+Michael Krauss, Jeff Leer, Michael Fortescue, and Jerrold Sadock have published articles about Aleut.
+Alice Taff has worked on Aleut since the 1970s.  Her work constitutes the most detailed accounts of Aleut phonetics and phonology available.
+Anna Berge conducts research on Aleut.  Berge's work includes treatments of Aleut discourse structure and morphosyntax, and curricular materials for Aleut, including a conversational grammar of the Atkan dialect, co-authored with Moses Dirks.
+Bering Island dialect and Mednyj Aleut language have been extensively studied by Soviet and Russian linguists: Georgy Menovshchikov, Yevgeny Golovko, Nikolay Vakhtin. A dictionary and a comprehensive grammar were published.
+In 2005, the parish of All Saints of North America Orthodox Church began to re-publish all historic Aleut language texts from 1840–1940. Archpriest Paul Merculief (originally from the Pribilofs) of the Russian Orthodox Diocese of [Alaska](523) and the [Alaska](523) State Library Historical Collection generously contributed their linguistic skills to the restoration effort. The historic Aleut texts are available in the parish's Aleut library.
+
+Revitalization
+Revitalization efforts are a recent development for the Aleut language and are mostly in the hands of the Aleuts themselves.  The first evidence of the preservation of the language came in the form of written documentation at the hands of the Russian Orthodox Church missionaries. However, as the historical events and factors transpired, Aleut's falling out of favor has brought upon a necessity for action if the language is to survive much longer.  Linguistic experts have been reaching out to the Aleut community in attempts to record and document the language from the remaining speakers.  Such efforts amount to "100 hours of conversation, along with the transcription and translation in Aleut, that will be transferred to compact disks or DVDs".  If Aleut does go extinct, these records will allow linguists and descendants of the Aleutian people to pass on as much knowledge of the language as they can.  Efforts like this to save the language are being sponsored by universities and local community interest groups, like the Aleutian/Pribilof Islands Association Task Force for Language Revitalization, while government relations with the Aleut people are severely limited.  Similarly to the native languages of California, the native languages of [Alaska](523) had been given little attention from the [United States](1100) government.  While linguists are working to record and document the language, the local Aleutian community groups are striving to preserve their language and culture by assisting the linguists and raising awareness of the Aleut population.
+There is an Aleut course named Unangam Qilinĝingin on Memrise.
+
+References
+Bibliography
+Berge, Anna; Moses Dirks (2009). Niiĝuĝis Mataliin Tunuxtazangis: How the Atkans Talk (A Conversational Grammar). Fairbanks, AK: [Alaska](523) Native Language Center, University of [Alaska](523).
+Bergsland, Knut (1994). Aleut Dictionary = Unangam Tunudgusii: an unabridged lexicon of the Aleutian, Pribilof, and Commander Islands Aleut language. Fairbanks, AK: [Alaska](523) Native Language Center, University of [Alaska](523). ISBN 978-1-55500-047-9.
+Bergsland, Knut (1997). Aleut Grammar = Unangam Tunuganaan Achixaasix̂. Fairbanks, AK: [Alaska](523) Native Language Center, University of [Alaska](523). ISBN 978-1-55500-064-6.
+Krauss, Michael E. (2007). "Native languages of [Alaska](523)". In Miyaoko, Osahito; Sakiyama, Osamu; Krauss, Michael E. (eds.). The Vanishing Voices of the Pacific Rim. Oxford: Oxford University Press.
+Rask, Rasmus; Thalbitzer, William (1921). "The Aleutian Language Compared with Greenlandic". International Journal of American Linguistics. 2 (1/2): 40–57. doi:10.1086/463733. JSTOR 1263180.
+Sadock, Jerrold M (2000). Aleut Number Agreement. Berkeley Linguistic Society 26th Annual Meeting.
+Taff, Alice; Lorna Rozelle; Taehong Cho; Peter Ladefoged; Moses Dirks; Jacob Wegelin (2001). "Phonetic structures of Aleut". Journal of Phonetics. 29 (3): 231–271. doi:10.1006/jpho.2001.0142. ISSN 0095-4470. S2CID 35100326.
+
+External links
+
+ANLA University of [Alaska](523) Fairbanks, Unangan Collections List
+[Alaska](523) Native Languages: Unangam Tunuu
+Unangam Tunuu Language Tools
+(in Russian) Aleut Language Archived 2011-05-01 at the Wayback Machine
+Orthodox texts in Aleut, 1826–1967 (cf. The [Alaska](523)n Orthodox Texts Project celebrates its 10th anniversary, May 2015)
+Learn and practice Unangam Tunuu on Memrise
+Unangam Tunuu Tools and Resources, small dictionary, phrases, stories in Eastern dialect with audio recordings
+The Aleut Language, Richard Henry Geoghegan, 1944; grammar and dictionary (old orthography)

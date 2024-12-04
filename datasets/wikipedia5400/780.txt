@@ -1,0 +1,6 @@
+780
+Cache poisoning
+Cache poisoning refers to a computer security vulnerability where invalid entries can be placed into a cache, which are then assumed to be valid when later used.  Two common varieties are DNS cache poisoning and ARP cache poisoning. Web cache poisoning involves the poisoning of web caches (which has led to security issues in programming languages, including all Python versions at the time in 2021, and expedited security updates). Attacks on other, more specific, caches also exist.
+
+
+== References ==

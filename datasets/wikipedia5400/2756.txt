@@ -1,0 +1,20 @@
+2756
+EPPO Code
+An EPPO code, formerly known as a Bayer code, is an encoded identifier that is used by the European and Mediterranean Plant Protection Organization (EPPO), in a system designed to uniquely identify organisms – namely plants, pests and pathogens – that are important to agriculture and crop protection.  EPPO codes are a core component of a database of names, both scientific and vernacular.  Although originally started by the Bayer Corporation, the official list of codes is now maintained by EPPO.
+
+EPPO code database
+All codes and their associated names are included in a database (EPPO Global [Database](955)). In total, there are over 93,500 species listed in the EPPO database, including:
+
+55,000 species of plants (e.g. cultivated, wild plants and weeds)
+27,000 species of animals (e.g. insects, mites, nematodes, rodents), biocontrol agents
+11,500 microorganism species (e.g. bacteria, fungi, viruses, viroids and virus-like)
+Plants are identified by a five-letter code, other organisms by a six-letter one. In many cases the codes are mnemonic abbreviations of the scientific name of the organism, derived from the first three or four letters of the genus and the first two letters of the species. For example, corn, or maize (Zea mays), was assigned the code "ZEAMA"; the code for potato late blight (Phytophthora infestans) is "PHYTIN". The unique and constant code for each organism provides a shorthand method of recording species. The EPPO code avoids many of the problems caused by revisions to scientific names and taxonomy which often result in different synonyms being in use for the same species. When the taxonomy changes, the EPPO code stays the same. The EPPO system is used by governmental organizations, conservation agencies, and researchers.
+
+Example
+External links
+
+EPPO Global [Database](955) (lookup EPPO codes)
+EPPO Data Services (download EPPO codes)
+
+
+== References ==

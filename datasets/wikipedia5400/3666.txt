@@ -1,0 +1,28 @@
+3666
+Brian Kobilka
+Brian Kent Kobilka (born May 30, 1955) is an American physiologist and a recipient of the 2012 Nobel Prize in [Chemistry](3696) with Robert Lefkowitz for discoveries that reveal the workings of G protein-coupled receptors. He is currently a professor in the department of Molecular and Cellular Physiology at Stanford University School of Medicine.  He is also a co-founder of ConfometRx, a biotechnology company focusing on G protein-coupled receptors. He was named a member of the National Academy of Sciences in 2011.
+
+Early life
+Kobilka attended St. Mary's Grade School in Little Falls, Minnesota, a part of the Roman Catholic Diocese of Saint Cloud. He then graduated from Little Falls High School. He received a Bachelor’s Degree in Biology and [Chemistry](3696) from the University of Minnesota Duluth, and earned his M.D., cum laude, from Yale University School of Medicine. Following the completion of his residency in internal medicine at Washington University in St. Louis School of Medicine's Barnes-Jewish Hospital. Kobilka worked in research as a postdoctoral fellow under Robert Lefkowitz at Duke University, where he started work on cloning the β2-adrenergic receptor. Kobilka moved to Stanford in 1989. He was a Howard Hughes Medical Institute (HHMI) investigator from 1987 to 2003.
+
+Research
+Kobilka is best known for his research on the structure and activity of G protein-coupled receptors (GPCRs); in particular, work from Kobilka's laboratory determined the molecular structure of the β2-adrenergic receptor. This work has been highly cited by other scientists because GPCRs are important targets for pharmaceutical therapeutics, but notoriously difficult to work with in X-ray crystallography. Before, rhodopsin was the only G-protein coupled receptor where the structure had been determined at high resolution. The β2-adrenergic receptor structure was soon followed by the determination of the molecular structure of several other G-protein coupled receptors.
+Kobilka is the 1994 recipient of the American Society for Pharmacology and Experimental Therapeutics John J. Abel Award in Pharmacology. His GPCR structure work was named "runner-up" for the 2007 "Breakthrough of the Year" award from Science. The work was, in part, supported by Kobilka's 2004 Javits Neuroscience Investigator Award from the National Institute of Neurological Disorders and Stroke. He received the 2012 Nobel Prize in [Chemistry](3696) with Robert Lefkowitz for his work on G protein-coupled receptors. In 2017, Kobilka received the Golden Plate Award of the American Academy of Achievement.
+As part of Shenzhen’s 13th Five-Year Plan funding research in emerging technologies and opening "Nobel laureate research labs", in 2017 he opened the Kobilka Institute of Innovative Drug Discovery at the Chinese University of Hong Kong, Shenzhen in Southern China.
+
+Personal life
+Kobilka is from Little Falls in central Minnesota. Both his grandfather Felix J. Kobilka (1893–1991) and his father Franklyn A. Kobilka (1921–2004) were bakers and natives of Little Falls, Minnesota. Kobilka's grandmother, Isabelle Susan Kobilka (née Medved, 1891–1980), belonged to the Medved and Kiewel families of Prussian immigrants, who from 1888 owned the historical Kiewel brewery in Little Falls. His mother is Betty L. Kobilka (née Faust, b. 1930).
+Kobilka met his wife Tong Sun Thian, a Malaysian-Chinese woman, at the University of Minnesota Duluth. They have two children, Jason and Megan Kobilka.
+
+References
+Publications
+Bokoch, Michael P.; Zou, Yaozhong; Rasmussen, Søren G.F.; Kobilka, Brian K.; et al. (2010). "Ligand-specific regulation of the extracellular surface of a G-protein-coupled receptor". Nature. 463 (1): 108–112. Bibcode:2010Natur.463..108B. doi:10.1038/nature08650. OSTI 1002248. PMC 2805469. PMID 20054398.
+Rasmussen, Søren G.F.; DeVree, Brian T.; Zou, Yaozhong; Kobilka, Tong Sun; Kobilka, Brian K.; et al. (2011). "Crystal Structure of the β2 Adrenergic Receptor—Gs Protein Complex". Nature. 477 (9): 549–555. Bibcode:2011Natur.477..549R. doi:10.1038/nature10361. OSTI 1026537. PMC 3184188. PMID 21772288.
+Haga, Kazuko; Kruse, Andrew C.; Asada, Hidetsugu; Kobilka, Brian K.; et al. (2012). "Structure of the human M2 muscarinic acetylcholine receptor bound to an antagonist". Nature. 482 (2): 547–551. Bibcode:2012Natur.482..547H. doi:10.1038/nature10753. OSTI 1035713. PMC 3345277. PMID 22278061.
+Manglik, Aashish; Kruse, Andrew C.; Kobilka, Tong Sun; Kobilka, Brian K.; et al. (2012). "Crystal structure of the µ-opioid receptor bound to a morphinan antagonist". Nature. 485 (7398): 321–326. Bibcode:2012Natur.485..321M. doi:10.1038/nature10954. OSTI 1043732. PMC 3523197. PMID 22437502.
+
+External links
+Kobilka laboratory home page
+Brian Kobilka academic profile Archived 2012-10-14 at the Wayback Machine
+ConfometRx home page
+Brian Kobilka on Nobelprize.org

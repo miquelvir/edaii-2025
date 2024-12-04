@@ -1,0 +1,22 @@
+3487
+BOOMERanG experiment
+BOOMERanG experiment (Balloon Observations Of Millimetric Extragalactic Radiation And Geophysics) was an experiment that flew a telescope on a (high-altitude) balloon and measured the cosmic microwave background radiation of a part of the sky during three sub-orbital flights. It was the first experiment to make large, high-fidelity images of the CMB temperature anisotropies, and is best known for the discovery in 2000 that the geometry of the universe is close to flat, with similar results from the competing MAXIMA experiment.
+By using a telescope which flew at over 42,000 meters high, it was possible to reduce the atmospheric absorption of microwaves to a minimum. This allowed massive cost reduction compared to a satellite probe, though only a tiny part of the sky could be scanned.
+The first was a test flight over North America in 1997. In the two subsequent flights in 1998 and 2003 the balloon was launched from McMurdo Station in the Antarctic. It was carried by the Polar vortex winds in a circle around the South Pole, returning after two weeks. From this phenomenon the telescope took its name.
+The BOOMERanG team was led by Andrew E. Lange of Caltech and Paolo de Bernardis of the University of Rome La Sapienza.
+
+Instrumentation
+The experiment uses bolometers for  radiation detection. These bolometers are kept at a temperature of 0.27 kelvin. At this temperature the material has a very low heat capacity according to the Debye law, thus incoming microwave light will cause a large temperature change, proportional to the intensity of the incoming waves, which is measured with sensitive thermometers.
+An off-axis 1.3-meter primary mirror focuses the microwaves onto the focal plane, which consist of 16 horns. These horns, operating at 145 GHz, 245 GHz and 345 GHz, are arranged into 8 pixels. Only a tiny fraction of the sky can be seen concurrently, so the telescope must rotate to scan the whole field of view.
+
+Results
+Together with experiments like the Saskatoon experiment, MAT/TOCO, MAXIMA, and others, the BOOMERanG data from 1997 and 1998 determined the angular diameter distance to the surface of last scattering with high precision.  When combined with complementary data regarding the value of Hubble's constant, the Boomerang data determined the geometry of the Universe to be flat, supporting the supernova evidence for the existence of dark energy.  The 2003 flight of Boomerang resulted in extremely high signal-to-noise ratio maps of the CMB temperature anisotropy, and a measurement of the polarization of the CMB.
+
+See also
+BESS (experiment)
+
+References
+External links
+report on the 1998 flight
+report on the 2003 flight
+Polarization Sensitive Bolometric Detector

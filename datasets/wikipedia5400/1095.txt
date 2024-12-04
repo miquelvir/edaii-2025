@@ -1,0 +1,43 @@
+1095
+Height above mean sea level
+Height above mean sea level is a measure of a location's vertical distance (height, elevation or altitude) in reference to a vertical datum based on a historic mean sea level. In geodesy, it is formalized as orthometric height. The zero level varies in different countries due to different reference points and historic measurement periods. Climate change and other forces can cause sea levels and elevations to vary over time.
+
+Uses
+Elevation or altitude above sea level is a standard measurement for:
+
+Geographic locations such as towns, mountains and other landmarks.
+The top of buildings and other structures.
+Mining infrastructure, particularly underground.
+Flying objects such as airplanes or helicopters below a Transition Altitude defined by local regulations.
+
+Units and abbreviations
+Elevation or altitude is generally expressed as "metres above mean sea level" in the metric system, or "feet above mean sea level" in United States customary and imperial units. Common abbreviations in English are:
+
+AMSL – above mean sea level
+ASL – above sea level
+FAMSL – feet above mean sea level
+FASL – feet above sea level
+MAMSL – metres above mean sea level
+MASL – metres above sea level
+MSL – mean sea level
+For elevations or altitudes, often just the abbreviation MSL is used, e.g., Mount Everest (8849 m MSL), or the reference to sea level is omitted completely, e.g., Mount Everest (8849 m).
+
+Methods of measurement
+Altimetry is the measurement of altitude or elevation above sea level. Common techniques are:
+
+Surveying, especially levelling.
+Global Navigation Satellite System (such as GPS), where a receiver determines a location from pseudoranges to multiple satellites. A geoid is needed to convert the 3D position to sea-level elevation.
+Pressure altimeter measuring atmospheric pressure, which decreases as altitude increases. Since atmospheric pressure varies with the weather, too, a recent local measure of the pressure at a known altitude is needed to calibrate the altimeter.
+Stereoscopy in aerial photography.
+Aerial lidar and satellite laser altimetry.
+Aerial or satellite radar altimetry.
+Accurate measurement of historical mean sea levels is complex. Land mass subsidence (as occurs naturally in some regions) can give the appearance of rising sea levels. Conversely, markings on land masses that are uplifted (due to geological processes) can suggest a relative lowering of mean sea level.
+
+See also
+Depth below seafloor
+Height above average terrain
+Height above ground level
+List of places on land with elevations below sea level
+
+
+== References ==

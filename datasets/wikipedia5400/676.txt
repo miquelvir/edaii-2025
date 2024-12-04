@@ -1,0 +1,146 @@
+676
+Computer accessibility
+Computer accessibility refers to the accessibility of a computer system to all people, regardless of disability type or severity of impairment. The term accessibility is most often used in reference to specialized hardware or software, or a combination of both, designed to enable the use of a computer by a person with a disability or impairment.
+
+Accessibility Features
+Accessibility features are meant to make the use of technology less challenging for those with disabilities. Common accessibility features include text-to-speech, closed-captioning, and keyboard shortcuts. More specific technologies that need additional hardware are referred to as assistive technology.
+There are many disabilities or impairments that can be a barrier to effective computer use. Some of these impairments, which can be acquired from disease, trauma, or congenital disorders, include:
+
+Cognitive impairments (head injury, autism, developmental disabilities) and learning disabilities, (such as dyslexia, dyscalculia, or ADHD).
+Visual impairment, such as low-vision, complete or partial blindness, and color blindness.
+Hearing-related disabilities (deafness), including deafness, being hard of hearing, and hyperacusis.
+Motor or dexterity impairment such as paralysis, cerebral palsy, dyspraxia, carpal tunnel syndrome, and repetitive strain injury.
+A topic closely linked to computer accessibility is web accessibility. Similar to computer accessibility, web accessibility is the practice of making the use of the World Wide Web easier to use for individuals with disabilities.
+
+Accessibility is often abbreviated as the numeronym a11y, where the number 11 refers to the number of letters omitted.  This parallels the abbreviations of internationalization and localization as i18n and l10n, respectively.  Moreover, a11y is also listed on the USPTO Supplemental Register under Accessibility Now, Inc.
+
+Special Needs Assessments
+People wishing to overcome an impairment in order to use a computer comfortably may require a "special needs assessment" by an assistive technology consultant (such as an occupational therapist, a rehabilitation engineering technologist, or an educational technologist) to help them identify and configure appropriate assistive technologies to meet individual needs.  Even those who are unable to leave their own home or who live far from assessment providers may be assessed (and assisted) remotely using remote desktop software and a web cam. For example, the assessor logs on to the client's computer via a broadband Internet connection, observes the user's computer skills, and then remotely makes accessibility adjustments to the client's computer where necessary.
+
+Accessibility options for specific impairments
+Cognitive impairments and illiteracy
+The biggest challenge in computer accessibility is to make resources accessible to people with cognitive disabilities—particularly those with poor communication and reading skills. For example, people with learning disabilities may rely on proprietary symbols and identify particular products via the product's symbols or icons.  Unfortunately, copyright laws can limit icon or symbol release to web-based programs and websites by owners who are unwilling to release them to the public.
+In these situations, an alternative approach for users who want to access public computer-based terminals in libraries, ATMs, and information kiosks is for the user to present a token to the computer terminal - such as a smart card - that has configuration information to adjust the computer speed, text size, etc. to their particular needs. 
+This concept is encompassed by the CEN standard "Identification card systems – Human-machine interface". This development of this standard has been supported in Europe by SNAPI and has been successfully incorporated into the Local Authority Smartcards Standards e-Organisation (LASSeO) specifications.
+
+Visual impairment
+Since computer interfaces often require visual input and provide visual feedback, another significant challenge in computer accessibility involves making software usable by people with visual impairments.
+For people with mild to medium vision impairment, things like large fonts, high DPI displays, high-contrast themes and icons combined with auditory feedback and screen magnifying software are very useful. In the case of severe vision impairment such as blindness, screen reader software that provides feedback via text to speech or a refreshable braille display is a necessary accommodation for interaction with a computer.
+About 8% of men and about 0.4% of women have some form of color-blindness. The main color combinations that might be confused by people with visual deficiency include red/green and blue/yellow. However, in a well-designed user interface, color isn't the primary way to distinguish between different pieces of information.
+
+Motor and dexterity impairments
+Some people may not be able to use a conventional input device, such as the mouse or the keyboard. Therefore, it is important for software functions to be accessible using both devices.  Ideally, the software will use a generic input API that permits the use even of highly specialized devices unheard of at the time of software's initial development. Keyboard shortcuts and mouse gestures are ways to achieve this access, as are more specialized solutions, including on-screen software keyboards and alternate input devices (switches, joysticks and trackballs). Users may enable a bounce key feature, allowing the keyboard to ignore repeated presses of the same key. Speech recognition technology is also a compelling and suitable alternative to conventional keyboard and mouse input as it simply requires a commonly available audio headset.
+UI design can also improve accessibility for users with motor impairments. For example, barrier pointing design allows commonly-used functions to require less accuracy to select.
+The astrophysicist Stephen Hawking is an example of someone with severe motor and physical limitations who used assistive technology to support activities of daily living. He used a switch, combined with special software, that allowed him to control his wheelchair-mounted computer using his limited and small movement ability. This personalized system allowed him to remain mobile, do research, and produce his written work.  Prof. Hawking also used augmentative and alternative communication technology to speak and an environmental control device to access equipment independently.
+A small amount of modern research indicates that utilizing a standard computer mouse device improves fine-motor skills.
+
+Hearing impairment
+While sound user interfaces have a secondary role in common desktop computing, these interfaces are usually limited to using sound effects as feedback.  Some software producers take into account people who cannot hear due to hearing impairments, silence requirements, or lack of sound-producing software.  The system sounds like beeps can be substituted or supplemented with visual notifications and captioned text (akin to closed captioning). Closed captions are a very popular means of relaying information for the Deaf and hearing-impaired communities. Modern computer animation also allows for translation of content into sign language by means of sign language avatars, such as SiMAX.
+
+Types of software accessibility
+Accessibility application programming interfaces
+Software APIs (application programming interfaces) exist to allow assistive technology products such as screen readers and screen magnifiers to work with mainstream software. The current or past APIs include:
+
+Java Accessibility and the Java Access Bridge for Java software (being standardized as ISO/IEC TR 13066-6);
+Assistive Technology Service Provider Interface (AT-SPI) on UNIX and Linux (being standardized as ISO/IEC PDTR 13066-4);
+Microsoft Active Accessibility (MSAA) on Microsoft Windows;
+IAccessible2 on Microsoft Windows, a competitor of Microsoft UI Automation also replacing MSAA by Free Standards Group (standardized as ISO/IEC 13066-3:2012);
+Mac OS X Accessibility;
+Microsoft UI Automation on Microsoft Windows, replacing MSAA.
+Some of these APIs are being standardized in the ISO/IEC 13066 series of standards.
+
+Accessibility features in mainstream software
+Accessibility software can also make input devices easier to access at the user level. These include:
+
+Keyboard shortcuts and MouseKeys allow the user to substitute keyboarding for mouse actions. Macro recorders can greatly extend the range and sophistication of keyboard shortcuts.
+Sticky keys allows characters or commands to be typed without having to hold down a modifier key (Shift, Ctrl, or Alt) while pressing a second key. Similarly, ClickLock is a Microsoft Windows feature that remembers a mouse button is down so that items can be highlighted or dragged without holding the mouse button down while scrolling.
+Customization of mouse or mouse alternatives' responsiveness to movement, double-clicking, and so forth.
+ToggleKeys is a feature of Microsoft Windows 95 onwards. A high sound is heard when the caps lock, scroll lock, or number lock key is switched on. A low sound is heard when any of those keys is switched off.
+Customization of pointer appearance, such as size, color, and shape.
+Predictive text
+Spell checkers and grammar checkers
+
+Support for learning disabilities
+Other approaches may be particularly relevant to users with a learning disability. These include: 
+
+Cause and effect software
+Switch-accessible software (navigable with a switch)
+Hand–eye coordination skills software
+Diagnostic assessment software
+Mind mapping software
+Study skills software
+Symbol-based software
+Text-to-speech
+Touch typing software
+
+Open Accessibility Framework
+The Open Accessibility Framework (OAF) provides an outline of the steps that must be in place in order for any computing platform to be considered accessible. These steps are analogous to those necessary to make a physical or built environment accessible. The OAF divides the required steps into two categories: creation and use.
+The "creation" steps describe the precursors and building blocks required for technology developers to create accessible applications and products. They are as follows:
+
+Define what "accessible" means for the identified use of the platform.  It must be clear what is meant by "accessible" as this will differ according to the modality and capabilities of each platform. Accessibility features may include tabbing navigation, theming, and an accessibility API.
+Provide accessible stock user interface elements. Pre-built "stock" user interface elements, used by application developers and authoring tools, must be implemented to make use of the accessibility features of a platform.
+Provide authoring tools that support accessibility. Application developers and content authors should be encouraged to implement tools that will improve the accessibility features of a platform. Using these tools can support accessible stock user interface elements, prompt for information required to properly implement an accessibility API, and identify accessibility evaluation and repair tools.
+The "use" steps describe what is necessary for the computing environment in which these accessible applications will run. They are as follows:
+
+Provide platform supports. [Computing](693) platforms must properly implement the accessibility features that are specified in their accessibility definition. For example, the accessibility API definitions must be implemented correctly in the program code.
+Provide accessible application software. Accessible applications must be available for the platform and they must support the accessibility features of the platform. This may be achieved by simply engaging the accessible stock elements and authoring tools that support accessibility.
+Provide assistive technologies. Assistive technologies (e.g. screen readers, screen magnifiers, voice input, adapted keyboards) must actually be available for the platform so that the users can effectively interface with the technology.
+The following examples show that the OAF can be applied to different types of platforms: desktop operating systems, web applications and the mobile platform. A more complete list can be found in the Open Source Accessibility Repository by the Open Accessibility Everywhere Group (OAEG).
+
+Accessibility APIs include the Assistive Technology Service Provider Interface and UI Automation on the desktop, WAI-ARIA in web applications, and the Blackberry Accessibility API on the Blackberry operating system.
+Other APIs are keyboard access and theming in widget libraries like Java Swing for desktop applications, the jQuery UI and Fluid Infusion for Web applications, and the Lightweight User Interface Toolkit (LWUIT) for mobile applications.
+Support for accessible development can be effective by using Glade (for the GTK+ toolkit), the DIAS plugin for NetBeans IDE, Xcode IDE for iOS applications. Accessibility inspection tools like Accerciser (for AT-SPI) and support for accessible authoring with the AccessODF plugin for LibreOffice and Apache OpenOffice also fit into this step.
+Support for UI Automation on Microsoft Windows, support for ATK and AT-SPI in Linux GNOME, WAI-ARIA support in Firefox, and the MIDP LWUIT mobile runtime (or the MIDP LCDUI mobile runtime) that is available on mobile phones with Java are examples of APIs.
+The DAISY player AMIS on the Microsoft Windows desktop and the AEGIS Contact Manager for phones with Java ME are designed for accessibility.
+The GNOME Shell Magnifier and Orca on the GNOME desktop, GNOME's ATK (Accessibility Toolkit), the web-based screen reader WebAnywhere, and the alternative text-entry system Dasher for Linux, iOS and Android are examples of assistive technologies.
+The goal of the listed tools is to embed accessibility into various mainstream technologies.
+
+Positive effects of computer accessibility
+Effects in school
+Computer accessibility plays a large role in the classroom. Accessible technology can enable personalized learning for all students.
+
+Impacts in the classroom
+When accessible technology allows personalized learning, there are positive impacts on students. Personalized learning switches the focus from what is being taught to what is being learned. This allows the students to need to become an integral part of the learning process. Accessibility in the classroom allows millions of students of all backgrounds to have equal educational opportunities and keep up with their non-disabled peers.
+When PCs are personalized for students in the classroom, students are more comfortable in the classroom, special needs students are better assisted and teachers can save time and effort.
+While PCs can provide a large amount of support in the classroom, iPads and apps can play a large role as well. Apps are constantly being developed to aid teachers, parents, and children. Educators have noted that the ease and portability of tablets make them a preferred choice that offers usage in a variety of environments. The advantages include interactivity, Internet access and text messaging. Educators have noticed improvements in motor skills, reading skills, and interaction with others in students.
+
+Impacts outside the classroom
+Parents and teachers can notice the long-term effects that accessibility has on students with disabilities. This can include enhanced social skills, better relationships with family and friends, increased understanding of the world around them, and an exhibition of self-reliance and confidence. Changes can be seen in not only children but adults as well. Social media can help parents to learn, share knowledge, and receive moral support.
+
+Effects in the workplace
+Computer accessibility plays a large role in the workplace. In the past few years, adults have had their disabilities accommodated by the ability to work from home and by the availability of reliable software. This allows workers to work in a comfortable area while still being able to support themselves. This is allowing thousands of people with disabilities to create and earn jobs for themselves. The inexpensiveness and reliability of computers has facilitated the process.
+
+Standards and regulations regarding computer accessibility
+Section 508 of the Rehabilitation Act of 1973
+Section 508 requires US Federal agencies make their electronic and information technology (EIT) accessible to all disabled employees and members of the public. The US Access Board develops and maintains the Information and Communication Technology (ICT) accessibility standards. The Access Board issued a final rule that went into effect on January 18, 2018, updating accessibility requirements under Section 508. This final rule requires that all electronic content generated by US Federal agencies must conform to Level A and Level AA success criteria in WCAG 2.0, with four exceptions for non-Web documents: 2.4.1 Bypass Blocks, 2.4.5 Multiple Ways, 3.2.3 Consistent Navigation, and 3.2.4 Consistent Identification.
+
+International Standards
+ISO 9241-171:2008
+ISO 9241-171:2008 is a standard that provides ergonomics guidance and specifications for the design of accessible software for public use.
+Compiled from independent standards experts, this document is the most comprehensive and technical standard for designing accessible features for software,  covering all disabilities and all aspects of software. It provides examples of two priority levels ('Required' and 'Recommended') and offers a handy checklist designed to help with recording software testing results.
+Because of its complexity and technical nature, and with upwards of 150 individual statements, ISO 9241-172 is difficult to interpret and apply. Luckily, not every statement is relevant to every situation, so it may be advisable to identify a subset of statements that are tailored to the particular software environment, making the use of this document much more achievable.
+
+See also
+Assistive technology
+Augmentative and alternative communication
+Digital rights
+Game accessibility
+Global Accessibility Awareness Day
+Knowbility
+Modding
+Ubiquitous computing
+Web accessibility
+
+References
+External links
+
+The annual ERCIM Workshop on 'User Interfaces for All' emphasizing accessibility
+Better Living Through Technology - contains guides on accessibility options and information about specialist assistive hardware and software
+HP Accessibility
+AbilityNet - provides information on accessibility, assistive technology, and remote assessment
+C4EA Consortium For E-learning Accessibility
+W3C Web Accessibility Initiative (WAI)
+Accessibility in the Opera web browser
+Mozilla Accessibility Project
+Open Office Accessibility Project
+EU Project Guide: Multimodal user interfaces for elderly people with mild impairments

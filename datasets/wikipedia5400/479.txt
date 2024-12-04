@@ -1,0 +1,678 @@
+479
+Aves in the 10th edition of Systema Naturae
+In the [10th edition of Systema Naturae](101), published in 1758, the Swedish naturalist Carl Linnaeus described 554 species of bird and gave each a binomial name.
+Linnaeus had first included birds in the 6th edition of his Systema Naturae, which was published in 1748. In it he listed 260 species arranged into 51 genera, in turn divided amongst six orders. The entries for each species were very brief; rather than including a description, he gave a citation to an earlier publication — often to his own Fauna suecica, which had been published in 1746. Linnaeus generally followed the classification scheme introduced by the English parson and naturalist John Ray which grouped species based on the characteristics of each species’ bill and feet.
+The 10th edition appeared in 1758 and was the first in which Linnaeus consistently used his binomial system of nomenclature. He increased the number of birds to 554 species, collectively filling 116 pages (contrasting with a mere 17 in the 6th edition). For each species he included a brief description together with one or more citations to earlier publications. He maintained 6 orders as in the 6th edition but renamed Scolopaces to Grallae. He rearranged some of the genera, dropping several and adding others to bring the total to 63.
+Living in Sweden, Linnaeus did not have access to a large collection of bird specimens. In order to expand the Systema Naturae for the 10th edition, he relied on earlier publications by other authors. For many birds his description was based on George Edwards's A Natural History of Uncommon Birds which contained 210 hand-coloured plates, nearly all of which were of birds. The four volumes were published between 1743 and 1751. For many North America species Linnaeus relied on Mark Catesby's The Natural History of Carolina, Florida and the Bahama Islands which included 220 plates of birds, reptiles, amphibians, fish, insects, mammals and plants. It was published in parts between 1729 and 1747. In his description of 81 North American bird species Linnaeus included a cite to Catesby's book and for 33 of these the only work cited is Catesby's.
+Linnaeus was not familiar with the species he described, which meant that his classification was often very defective. He sometimes placed very similar birds in different genera. For example, the [10th edition of Systema Naturae](101) includes two subspecies of the common kingfisher, one of which he placed in the genus Gracula and the other in the genus Alcedo. Similarly, he included two subspecies of the red-whiskered bulbul, one of which he placed in Lanius and the other in Motacilla. In his list Linnaeus included two penguins. He placed the southern rockhopper penguin together with the red-billed tropicbird in the genus Phaethon while the African penguin he placed together with the wandering albatross in the genus Diomedea.
+The International Commission on Zoological Nomenclature has selected 1 January 1758 as the "starting point" for zoological nomenclature, and stated that the [10th edition of Systema Naturae](101) was to be treated as if published on that date. In 2016 the list of birds of the world maintained by Frank Gill and David Donsker on behalf of the International Ornithologists' Union included 448 species for which Linnaeus's description in the 10th edition is cited as the authority. Of these species, 101 have been retained in their original genus and 347 have been moved to a different genus. In addition, there are six species on Linnaeus's 1758 list that are now considered as subspecies. Of Linnaeus's 63 genera, only Tantalus and Colymbus are not now used.
+In the 12th edition of his Systema Naturae published in 1766, Linnaeus described many additional birds that had not been included in the 10th edition. The 12th edition included 931 bird species divided into 6 orders and 78 genera.  The 12th edition is cited as the authority for 257 modern species of which only 25 have been retained in their original genus. There are now believed to be around 10,000 extant species.
+Linnaeus described the class Aves as:
+
+A beautiful and cheerful portion of created nature consisting of animals having a body covered with feathers and down; protracted and naked jaws (the beak), two wings formed for flight, and two feet. They are aereal, vocal, swift and light, and destitute of external ears, lips, teeth, scrotum, womb, bladder, epiglottis, corpus callosum and its arch, and diaphragm.
+Linnaean Characteristics
+
+Heart: 2 auricles, 2 ventricles. Warm, dark red blood
+Lungs: respires alternately
+Jaw: incombent, naked, extended, without teeth
+Eggs: covered with a calcareous shell
+Organs of Sense: tongue, nostrils, eyes, and ears without auricles
+Covering: incumbent, imbricate feathers
+Supports: 2 feet, 2 wings; and a heart-shaped rump. Flies in the Air & Sings
+In the list below, the binomial name is that used by Linnaeus.
+
+Accipitres
+Vultur (vultures & condors)
+Vultur gryphus – Andean condor
+Vultur harpyja – harpy eagle
+Vultur papa – king vulture
+Vultur aura – turkey vulture
+Vultur barbatus – bearded vulture
+Vultur percnopterus – Egyptian vulture
+
+Falco (falcons, eagles, & kin)
+Falco melanaetus – eastern imperial eagle (now Aquila heliaca Savigny, 1809)
+Falco chrysaetos – golden eagle
+Falco fulvus – synonym of golden eagle
+Falco canadensis – golden eagle (North American subspecies)
+Falco rusticolus – gyrfalcon
+Falco barbarus – nomen dubium
+Falco caerulescens – collared falconet
+Falco albicilla – white-tailed eagle
+Falco pygargus – Montagu's harrier
+Falco milvus – red kite
+Falco forficatus – swallow-tailed kite
+Falco gentilis – Eurasian goshawk
+Falco subbuteo – Eurasian hobby
+Falco buteo – common buzzard
+Falco tinnunculus – common kestrel
+Falco sufflator – synonym of the laughing falcon
+Falco cachinnans – laughing falcon
+Falco sparverius – American kestrel
+Falco columbarius – merlin
+Falco lanarius – perhaps a juvenile gyrfalcon
+Falco haliaetus – osprey
+Falco gyrfalco – synonym of the gyrfalcon
+Falco apivorus – European honey buzzard
+Falco aeruginosus – western marsh harrier
+Falco palumbarius – synonym of the Eurasian goshawk
+Falco nisus – Eurasian sparrowhawk
+Strix (owls)
+Strix bubo – Eurasian eagle-owl
+Strix scandiaca – snowy owl
+Strix asio – eastern screech owl
+Strix otus – long-eared owl
+Strix scops – Eurasian scops owl
+Strix aluco – tawny owl
+Strix funerea – Boreal owl or Tengmalm's owl
+Strix nyctea - synonym of the snowy owl
+Strix stridula – synonym of the tawny owl
+Strix ulula – northern hawk-owl
+Strix passerina – Eurasian pygmy owl
+
+Lanius (shrikes)
+
+Lanius cristatus – brown shrike
+Lanius excubitor – great grey shrike
+Lanius collurio – red-backed shrike
+Lanius tyrannus – eastern kingbird
+Lanius carnifex – Guianan red cotinga
+Lanius schach – long-tailed shrike
+Lanius senator – woodchat shrike
+Lanius caerulescens – white-bellied drongo
+Lanius jocosus – red-whiskered bulbul
+Lanius garrulus – Bohemian waxwing
+
+Picae
+Psittacus (parrots)
+
+Psittacus macao – scarlet macaw
+Psittacus ararauna – blue-and-yellow macaw
+Psittacus obscurus – nomen dubium
+Psittacus nobilis – red-shouldered macaw
+Psittacus severus – chestnut-fronted macaw
+Psittacus borneus – red lory
+Psittacus solstitialis – sun parakeet
+Psittacus carolinensis – Carolina parakeet
+Psittacus alexandri – red-breasted parakeet
+Psittacus pertinax – brown-throated parakeet
+Psittacus canicularis – orange-fronted parakeet
+Psittacus aeruginosus – subspecies of brown-throated parakeet
+Psittacus rufirostris – nomen dubium
+Psittacus ornatus – ornate lorikeet
+Psittacus agilis – black-billed amazon
+Psittacus cristatus – nomen dubium
+Psittacus niger – lesser vasa parrot
+Psittacus sordidus – red-billed parrot
+Psittacus erythroleucus – nomen dubium
+Psittacus erithacus – grey parrot
+Psittacus garrulus – chattering lory
+Psittacus aurorae – nomen dubium
+Psittacus domicella – purple-naped lory
+Psittacus lory – black-capped lory
+Psittacus caerulocephalus - nomen dubium
+Psittacus leucocephalus – Cuban amazon
+Psittacus aestivus – turquoise-fronted amazon
+Psittacus paradisi – synonym of the Cuban amazon
+Psittacus festivus – festive amazon
+Psittacus brasiliensis – red-tailed amazon
+Psittacus autumnalis – red-lored amazon
+Psittacus accipitrinus – red-fan parrot
+Psittacus melanocephalus – black-headed parrot
+Psittacus collarius – yellow-billed amazon
+Psittacus pullarius – red-headed lovebird
+Psittacus galgulus – blue-crowned hanging parrot
+Psittacus passerinus – green-rumped parrotlet
+Ramphastos (toucans)
+
+Ramphastos piperivorus – nomen dubium
+Ramphastos tucanus – white-throated toucan
+Ramphastos picatus – nomen dubium
+Ramphastos aracari – black-necked aracari
+Buceros (hornbills)
+
+Buceros bicornis – great hornbill
+Buceros rhinoceros – rhinoceros hornbill
+Crotophaga (anis)
+
+Crotophaga ani – smooth-billed ani
+
+Corvus (crows & ravens)
+Corvus corax – common raven
+Corvus corone – carrion crow
+Corvus frugilegus – rook
+Corvus cornix – hooded crow
+Corvus monedula – western jackdaw
+Corvus benghalensis – Indian roller
+Corvus glandarius – Eurasian jay
+Corvus cristatus – blue jay
+Corvus caryocatactes – spotted nutcracker
+Corvus pica – Eurasian magpie
+Corvus paradisi – Asian paradise-flycatcher
+Corvus infaustus – Siberian jay
+Coracias (rollers & orioles)
+
+Coracias garrulus – European roller
+Coracias caffra - nomen dubium
+Coracias oriolus – Eurasian golden oriole
+Coracias galbula – Baltimore oriole
+Coracias aurea – masked bowerbird
+Coracias xanthornus – black-hooded oriole
+
+Gracula (mynas)
+Gracula religiosa – common hill myna
+Gracula foetida – bare-necked fruitcrow
+Gracula barita – nomen dubium, possibly Carib grackle
+Gracula cristatella – crested myna
+Gracula saularis – Oriental magpie-robin
+Gracula quiscula – common grackle
+Gracula atthis – common kingfisher
+Paradisaea (birds-of-paradise)
+
+Paradisaea apoda – greater bird-of-paradise
+Paradisaea regia – king bird-of-paradise
+
+Cuculus (cuckoos)
+Cuculus canorus – common cuckoo
+Cuculus persa – Guinea turaco
+Cuculus vetula – Jamaican lizard cuckoo
+Cuculus glandarius – great spotted cuckoo
+Cuculus scolopaceus – Asian koel
+Cuculus niger - nomen dubium
+Cuculus americanus – yellow-billed cuckoo
+Cuculus auratus – northern flicker
+Jynx (wrynecks)
+Jynx torquilla – Eurasian wryneck
+Picus (woodpeckers)
+Picus martius – black woodpecker
+Picus principalis – ivory-billed woodpecker
+Picus pileatus – pileated woodpecker
+Picus hirundinaceus - nomen dubium
+Picus erythrocephalus – red-headed woodpecker
+Picus carolinus – red-bellied woodpecker
+Picus viridis – European green woodpecker
+Picus benghalensis – black-rumped flameback
+Picus semirostris – a "monstrosity"
+Picus major – great spotted woodpecker
+Picus medius – middle spotted woodpecker
+Picus minor – lesser spotted woodpecker
+Picus tridactylus – Eurasian three-toed woodpecker
+
+Sitta (nuthatches)
+Sitta europaea – Eurasian nuthatch
+Alcedo (kingfishers)
+Alcedo ispida – subspecies of common kingfisher
+Alcedo erithaca – black-backed dwarf kingfisher
+Alcedo alcyon – belted kingfisher
+Alcedo todus – Jamaican tody
+Alcedo smyrnensis – white-throated kingfisher
+Alcedo rudis – pied kingfisher
+Alcedo dea – paradise jacamar
+Merops (bee-eaters)
+Merops apiaster – European bee-eater
+Merops viridis – blue-throated bee-eater
+Merops cinereus – nomen dubium
+Merops cafer – Cape sugarbird
+
+Upupa (hoopoes)
+Upupa epops – Eurasian hoopoe
+Upupa paradisea – nomen dubium
+Upupa eremita – northern bald ibis
+Upupa pyrrhocorax – red-billed chough
+Certhia (treecreepers)
+Certhia familiaris – Eurasian treecreeper
+Certhia pusilla - nomen dubium
+Certhia caerulea – purple honeycreeper
+Certhia cruentata – scarlet-backed flowerpecker
+Certhia flaveola – bananaquit
+
+Trochilus (hummingbirds)
+Trochilus paradiseus - nomen dubium
+Trochilus afer - nomen dubium
+Trochilus pella – crimson topaz
+Trochilus polytmus – red-billed streamertail
+Trochilus forficatus – nomen dubium
+Trochilus colubris – ruby-throated hummingbird
+Trochilus ourissa - nomen dubium
+Trochilus mosquitus – ruby-topaz hummingbird
+Trochilus holosericeus – green-throated carib
+Trochilus mellisugus – blue-tailed emerald
+Trochilus tomineo – nomen dubium
+Trochilus surinamensis – nomen dubium
+Trochilus niger – sooty barbthroat
+Trochilus mellivorus – white-necked jacobin
+Trochilus ruber – reddish hermit
+Trochilus mango – Jamaican mango
+Trochilus cristatus – Antillean crested hummingbird
+Trochilus minimus – vervain hummingbird
+
+Anseres
+Anas (ducks, geese, & swans)
+Anas cygnus – whooper swan
+Anas cygnoides – swan goose
+Anas tadorna – common shelduck
+Anas spectabilis – king eider
+Anas fusca – velvet scoter
+Anas nigra – common scoter
+Anas anser – greylag goose
+Anas erythropus – lesser white-fronted goose
+Anas canadensis – Canada goose
+Anas caerulescens – snow goose
+Anas bernicla – brant goose
+Anas mollissima – common eider
+Anas moschata – Muscovy duck
+Anas bahamensis – white-cheeked pintail
+Anas albeola – bufflehead
+Anas clypeata – northern shoveler
+Anas platyrhynchos – mallard & domestic duck
+Anas strepera – gadwall
+Anas bucephala – synonym of common goldeneye
+Anas clangula – common goldeneye
+Anas rustica – synonym of bufflehead
+Anas perspicillata – surf scoter
+Anas glaucion – synonym common goldeneye
+Anas penelope – Eurasian wigeon
+Anas acuta – northern pintail
+Anas hyemalis – long-tailed duck
+Anas ferina – common pochard
+Anas querquedula – garganey
+Anas crecca – Eurasian teal
+Anas histrionica – harlequin duck
+Anas minuta – synonym of harlequin duck
+Anas circia – synonym of garganey
+Anas autumnalis – black-bellied whistling duck
+Anas boschas – synonym of mallard & domestic duck
+Anas adunca – synonym of mallard & domestic duck
+Anas galericulata – Mandarin duck
+Anas sponsa – wood duck
+Anas arborea – West Indian whistling duck
+Anas fuligula – tufted duck
+Mergus (mergansers)
+Mergus cucullatus – hooded merganser
+Mergus merganser – common merganser
+Mergus serrator – red-breasted merganser
+Mergus albellus – smew
+Mergus minutus – synonym for the smew
+
+Alca (auks)
+Alca torda – razorbill
+Alca impennis – great auk
+Alca arctica – Atlantic puffin
+Alca lomvia – thick-billed murre
+Alca grylle – black guillemot
+Alca alle – little auk
+Procellaria (petrels)
+Procellaria pelagica – European storm petrel
+Procellaria aequinoctialis – white-chinned petrel
+Procellaria capensis – Cape petrel
+
+Diomedea (albatrosses & penguins)
+Diomedea exulans – wandering albatross
+Diomedea demersa – African penguin
+Pelecanus (pelicans & kin)
+Pelecanus onocrotalus – great white pelican
+Pelecanus aquilus – Ascension frigatebird
+Pelecanus carbo – great cormorant
+Pelecanus bassanus – northern gannet
+Pelecanus piscator
+Phaethon (tropicbirds)
+Phaethon aethereus – red-billed tropicbird
+Phaethon demersus – southern rockhopper penguin (now Eudyptes chrysocome, (Forster, JR, 1781))
+
+Colymbus (grebes & loons)
+Colymbus arcticus – black-throated loon
+Colymbus cristatus – great crested grebe
+Colymbus auritus – horned grebe
+Colymbus podiceps – pied-billed grebe
+Larus (gulls)
+Larus tridactylus – black-legged kittiwake
+Larus canus – common gull
+Larus marinus – great black-backed gull
+Larus fuscus – lesser black-backed gull
+Larus atricilla – laughing gull
+Larus parasiticus – parasitic jaeger
+Sterna (terns)
+Sterna stolida – brown noddy
+Sterna hirundo – common tern
+Sterna nigra – black tern
+Rynchops (skimmers)
+Rynchops nigra – black skimmer
+Rynchops fulva – synonym of black skimmer
+
+Grallae
+Phoenicopterus (flamingoes)
+Phoenicopterus ruber – American flamingo
+Platalea (spoonbills)
+Platalea leucorodia – Eurasian spoonbill
+Platalea ajaja – roseate spoonbill
+Platalea pygmea – spoon-billed sandpiper
+Mycteria (storks)
+Mycteria americana – wood stork
+Tantalus
+Tantalus loculator – the "wood ibis", a synonym for the wood stork
+Ardea (herons, cranes & kin)
+Ardea pavonina – black crowned crane
+Ardea virgo – demoiselle crane
+Ardea canadensis – sandhill crane
+Ardea grus – common crane
+Ardea americana – whooping crane
+Ardea antigone – sarus crane
+Ardea ciconia – white stork
+Ardea nigra – black stork
+Ardea nycticorax – black-crowned night heron
+Ardea cinerea – grey heron
+Ardea herodias – great blue heron
+Ardea violacea – yellow-crowned night heron
+Ardea caerulea – little blue heron
+Ardea striata – striated heron
+Ardea virescens – green heron
+Ardea stellaris – Eurasian bittern
+Ardea alba – great egret
+Ardea ibis – western cattle egret
+Ardea aequinoctialis
+Scolopax (godwits, ibises & kin)
+
+Scolopax rubra – scarlet ibis
+Scolopax alba – American white ibis
+Scolopax fusca – synonym of American white ibis
+Scolopax totanus – common redshank
+Scolopax arquata – Eurasian curlew
+Scolopax phaeopus – whimbrel
+Scolopax rusticola – Eurasian woodcock
+Scolopax fedoa – marbled godwit
+Scolopax glottis – common greenshank (now Tringa nebularia)
+Scolopax limosa – black-tailed godwit
+Scolopax gallinago – common snipe
+Scolopax lapponica – bar-tailed godwit
+Scolopax aegocephala – synonym of bar-tailed godwit
+Scolopax haemastica – Hudsonian godwit
+Tringa (phalaropes and sandpipers)
+
+Tringa pugnax – ruff
+Tringa vanellus – northern lapwing
+Tringa gambetta – synonym of the common redshank
+Tringa interpres – ruddy turnstone
+Tringa lobata – red-necked phalarope
+Tringa fulicaria – red phalarope
+Tringa alpina – dunlin
+Tringa ocrophus – green sandpiper
+Tringa hypoleucos – common sandpiper
+Tringa canutus – red knot
+Tringa glareola – wood sandpiper
+Tringa littorea – synonym of wood sandpiper
+Tringa squatarola – grey plover
+Charadrius (plovers)
+
+Charadrius cristatus
+Charadrius hiaticula – common ringed plover
+Charadrius alexandrinus – Kentish plover
+Charadrius vociferus – killdeer
+Charadrius aegyptius – Egyptian plover
+Charadrius morinellus – Eurasian dotterel
+Charadrius apricarius – European golden plover
+Charadrius pluvialis – synonym European golden plover
+Charadrius oedicnemus – Eurasian stone-curlew
+Charadrius himantopus – black-winged stilt
+Charadrius spinosus – spur-winged lapwing
+Recurvirostra (avocets)
+Recurvirostra avosetta – pied avocet
+Haematopus (oystercatchers)
+Haematopus ostralegus – Eurasian oystercatcher
+Fulica (coots & kin)
+Fulica atra – Eurasian coot
+Fulica chloropus – common moorhen
+Fulica porphyrio – western swamphen
+Fulica spinosa – northern jacana
+Rallus (rails)
+Rallus crex – corn crake
+Rallus aquaticus – water rail
+Rallus lariformis
+Rallus benghalensis – greater painted-snipe
+Rallus carolinus – sora
+Psophia (trumpeters)
+Psophia crepitans – grey-winged trumpeter
+Otis (bustards)
+Otis tarda – great bustard
+Otis arabs – Arabian bustard
+Otis tetrax – little bustard
+Otis afra – southern black korhaan
+Struthio (ratites)
+Struthio camelus – ostrich
+Struthio casuarius – southern cassowary
+Struthio americanus – greater rhea
+Struthio cucullatus – dodo
+
+Gallinae
+Pavo (peafowl)
+Pavo cristatus – Indian peafowl
+Pavo bicalcaratus – grey peacock-pheasant
+Meleagris (turkeys)
+Meleagris gallopavo – wild turkey
+Meleagris cristata
+Meleagris satyra – satyr tragopan
+Crax (curassows)
+Crax nigra
+Crax rubra – great curassow
+Phasianus (pheasants & chickens)
+Phasianus gallus – red junglefowl & domesticated chicken
+Phasianus meleagris – helmeted guineafowl
+Phasianus colchicus – common pheasant
+Phasianus pictus – golden pheasant
+Phasianus nycthemerus – silver pheasant
+Tetrao (grouse & kin)
+Tetrao urogallus – western capercaillie
+Tetrao tetrix – black grouse
+Tetrao canadensis – spruce grouse
+Tetrao lagopus – willow ptarmigan
+Tetrao phasianellus – sharp-tailed grouse
+Tetrao cupido – greater prairie chicken
+Tetrao bonasia – hazel grouse
+Tetrao rufus – red-legged partridge
+Tetrao perdix – grey partridge
+Tetrao virginianus – northern bobwhite
+Tetrao marilandicus – synonym of northern bobwhite
+Tetrao orientalis – black-bellied sandgrouse
+Tetrao coturnix – common quail
+
+Passeres
+Columba (pigeons & doves)
+Columba oenas – stock dove
+Columba domestica – alternative name for the rock dove (Columba livia Gmelin JF, 1789)
+Columba gutturosa – pouter, a breed of rock dove
+Columba cucullata – Jacobin pigeon, a breed of rock dove
+Columba turbita – turbit, a breed of rock dove
+Columba tremula – broad-tailed shaker, a breed of rock dove
+Columba tabellaria – homing pigeon, a breed of rock dove
+Columba montana – ruddy quail-dove
+Columba asiatica – white-winged dove
+Columba guinea – speckled pigeon
+Columba hispanica - Roman pigeon, a breed of rock dove
+Columba palumbus – common wood pigeon
+Columba cyanocephala – blue-headed quail-dove
+Columba leucocephala – white-crowned pigeon
+Columba leucoptera - synonym white-winged dove
+Columba nicobarica – Nicobar pigeon
+Columba macroura – mourning dove
+Columba sinica - China dove, unknown and possibly extinct species
+Columba indica – common emerald dove
+Columba hispida - silky feathered pigeon, a breed of rock dove
+Columba turtur – European turtle dove
+Columba risoria – Barbary dove
+Columba passerina – common ground dove
+Alauda (larks & pipits)
+Alauda arvensis – Eurasian skylark
+Alauda pratensis – meadow pipit
+Alauda arborea – woodlark
+Alauda campestris – tawny pipit
+Alauda trivialis – tree pipit
+Alauda cristata – crested lark
+Alauda spinoletta – water pipit
+Alauda alpestris – horned lark
+Alauda magna – eastern meadowlark
+Sturnus (starlings)
+Sturnus vulgaris – common starling
+Sturnus luteolus – synonym for the black-hooded oriole
+Sturnus contra – Indian pied myna
+Sturnus cinclus – white-throated dipper
+Turdus (thrushes & kin)
+Turdus viscivorus – mistle thrush
+Turdus pilaris – fieldfare
+Turdus iliacus – redwing
+Turdus musicus – a suppressed name for the song thrush (now Turdus philomelos Brehm, 1831)
+Turdus canorus – Chinese hwamei
+Turdus rufus – brown thrasher
+Turdus polyglottos – northern mockingbird
+Turdus orpheus – subspecies of northern mockingbird
+Turdus plumbeus – red-legged thrush
+Turdus crinitus – great crested flycatcher
+Turdus roseus – rosy starling
+Turdus merula – common blackbird
+Turdus torquatus – ring ouzel
+Turdus solitarius – blue rock thrush
+Turdus arundinaceus – great reed warbler
+Turdus virens – yellow-breasted chat
+Loxia (cardinals, bullfinches & kin)
+Loxia curvirostra – red crossbill
+Loxia coccothraustes – hawfinch
+Loxia enucleator – pine grosbeak
+Loxia pyrrhula – Eurasian bullfinch
+Loxia cardinalis – northern cardinal
+Loxia dominicana – red-cowled cardinal
+Loxia cristata
+Loxia mexicana
+Loxia eryocephala – red-headed finch (a misspelling of erythrocephala)
+Loxia flavicans
+Loxia oryzivora – Java sparrow
+Loxia panicivora
+Loxia punctulata – scaly-breasted munia
+Loxia hordeacea – black-winged red bishop
+Loxia sanguinirostris
+Loxia astrild – common waxbill
+Loxia cyanea – suppressed name for the ultramarine grosbeak
+Loxia lineola – lined seedeater
+Loxia mexicana
+Loxia chloris – European greenfinch
+Loxia butyracea
+Loxia collaria
+Loxia benghalensis – black-breasted weaver
+Loxia malabarica – Indian silverbill
+Loxia fusca
+Loxia melanocephala – black-headed weaver
+Loxia cana
+Loxia nigra – Cuban bullfinch
+Loxia caerulea – blue grosbeak
+Loxia violacea – Greater Antillean bullfinch
+Loxia minuta – ruddy-breasted seedeater
+Loxia bicolor
+Emberiza (buntings)
+Emberiza nivalis – snow bunting
+Emberiza calandra – corn bunting
+Emberiza hortulana – ortolan bunting
+Emberiza citrinella – yellowhammer
+Emberiza orix – southern red bishop
+Emberiza quelea – red-billed quelea
+Emberiza militaris – red-breasted meadowlark
+Emberiza atrata
+Emberiza familiaris
+Emberiza flaveola
+Emberiza psittacea
+Emberiza paradisaea – long-tailed paradise whydah
+Emberiza ciris – painted bunting
+Emberiza alario – black-headed canary
+Fringilla (finches & kin)
+Fringilla oryzivora – bobolink
+Fringilla coelebs – Eurasian chaffinch
+Fringilla montifringilla – brambling
+Fringilla lulensis
+Fringilla lapponica – Lapland longspur
+Fringilla sylvatica
+Fringilla melancholica
+Fringilla erythrophthalma – eastern towhee
+Fringilla carduelis – European goldfinch
+Fringilla melba – green-winged pytilia
+Fringilla amandava – red avadavat
+Fringilla gyrola – bay-headed tanager
+Fringilla rubra – summer tanager
+Fringilla tristis – American goldfinch
+Fringilla zena – western spindalis
+Fringilla brasiliana
+Fringilla butyracea
+Fringilla canaria – canary
+Fringilla spinus – Eurasian siskin
+Fringilla flammea – common redpoll
+Fringilla flavirostris – twite
+Fringilla cannabina – common linnet
+Fringilla linaria - junior synonym of common redpoll
+Fringilla angolensis – blue waxbill
+Fringilla violacea – violaceous euphonia
+Fringilla schoeniclus – common reed bunting
+Fringilla domestica – house sparrow
+Fringilla montana – Eurasian tree sparrow
+Fringilla chinensis
+Fringilla hyemalis – dark-eyed junco
+Fringilla zena – repeat of binomial name for western spindalis above
+Motacilla (wagtails)
+Motacilla luscinia – thrush nightingale
+Motacilla calidris – nomen dubium
+Motacilla modularis – dunnock
+Motacilla schoenobaenus – sedge warbler
+Motacilla campestris – orangequit
+Motacilla curruca – lesser whitethroat
+Motacilla hippolais
+Motacilla salicaria
+Motacilla sylvia
+Motacilla philomela
+Motacilla ficedula
+Motacilla alba – white wagtail
+Motacilla flava – yellow wagtail
+Motacilla tiphia – common iora
+Motacilla ruticilla – American redstart
+Motacilla hispanica – black-eared wheatear
+Motacilla oenanthe – northern wheatear
+Motacilla rubetra – whinchat
+Motacilla atricapilla – Eurasian blackcap
+Motacilla emeria – subspecies of red-whiskered bulbul
+Motacilla phoenicurus – common redstart
+Motacilla erithacus
+Motacilla titys – female of the common redstart
+Motacilla svecica – bluethroat
+Motacilla sialis – eastern bluebird
+Motacilla velia – opal-rumped tanager
+Motacilla spiza – green honeycreeper
+Motacilla rubecula – European robin
+Motacilla troglodytes – Eurasian wren
+Motacilla regulus – goldcrest
+Motacilla trochilus – willow warbler
+Motacilla acredula – subspecies of willow warbler
+Motacilla pendulinus – Eurasian penduline tit
+Motacilla minuta
+Parus (tits & manakins)
+Parus cristatus – crested tit
+Parus major – great tit
+Parus americanus – northern parula
+Parus caeruleus – Eurasian blue tit
+Parus ater – coal tit
+Parus palustris – marsh tit
+Parus caudatus – long-tailed tit
+Parus biarmicus – bearded reedling
+Parus pipra – white-crowned manakin
+Parus erythrocephalus – golden-headed manakin
+Parus aureola – crimson-hooded manakin
+Parus cela – yellow-rumped cacique
+Hirundo (swallows & swifts)
+Hirundo rustica – barn swallow
+Hirundo esculenta – glossy swiftlet
+Hirundo urbica – western house martin
+Hirundo riparia – sand martin
+Hirundo apus – common swift
+Hirundo subis – purple martin
+Hirundo pelagica – chimney swift
+Hirundo melba – alpine swift
+Caprimulgus (nightjars)
+Caprimulgus europaeus – European nightjar
+Caprimulgus americanus – Jamaican poorwill
+
+Notes
+References
+Sources
+Linnaeus, Carl (1758). Systema Naturæ per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis (in Latin). Vol. 1 (10th ed.). Holmiae (Stockholm): Laurentii Salvii.

@@ -1,0 +1,25 @@
+3480
+Asher Peres
+Asher Peres (Hebrew: אשר פרס; January 30, 1934 – January 1, 2005) was an Israeli physicist. He is well known for his work relating quantum mechanics and information theory. He helped to develop the Peres–Horodecki criterion for quantum entanglement, as well as the concept of quantum teleportation, and collaborated with others on quantum information and special relativity. He also introduced the Peres metric and researched the Hamilton–Jacobi–Einstein equation in general relativity. With Mario Feingold, he published work in quantum chaos that is known to mathematicians as the Feingold–Peres conjecture and to physicists as the Feingold–Peres theory.
+
+Life
+According to his autobiography, he was born Aristide Pressman in Beaulieu-sur-Dordogne in France, where his father, a Polish electrical engineer, had found work laying down power lines. He was given the name Aristide at birth, because the name his parents wanted, Asher, the name of his maternal grandfather, was not on the list of permissible French given names. When he went to live in Israel, he changed his first name to Asher and, as was common among immigrants, changed his family name to the Hebrew Peres, which he used for the rest of his life.
+Peres obtained his Ph.D. in 1959 at Technion – Israel Institute of Technology under Nathan Rosen. Peres spent most of his academic career at Technion, where in 1988 he was appointed distinguished professor of physics.
+He died in Haifa, Israel.
+
+Quantum Theory textbook
+He authored a textbook, Quantum Theory: Concepts and Methods, of which he wrote,
+
+The purpose of this book is to clarify the conceptual meaning of quantum theory, and to explain some of the mathematical methods that it utilizes. This text is not concerned with specialized topics such as atomic structure, or strong or weak interactions, but with the very foundations of the theory.  This is not, however, a book on the philosophy of science. The approach is pragmatic and strictly instrumentalist. This attitude will undoubtedly antagonize some readers, but it has its own logic: quantum phenomena do not occur in a Hilbert space, they occur in a laboratory.
+N. David Mermin called the book "a treasure trove of novel perspectives on quantum mechanics" and said that Peres' choice of topics is "a catalogue of common omissions" from other approaches. Among its substantial discussion of the failure of hidden variable theories, the book includes a FORTRAN program for testing whether a list of vectors forms a Kochen–Specker configuration. Michael Nielsen wrote of the textbook, "Revelation! Suddenly, all the key results of 30 years of work (several of those results due to Asher) were distilled into beautiful and simple explanations." Peres downplayed the importance of the uncertainty principle, giving it only a single mention in his index, which points to that same page of the index.
+
+Views on the EPR paradox
+Peres claimed that the resolution to the Einstein–Podolsky–Rosen paradox of quantum entanglement, often called "spooky action at a distance", lies in the fact that quantum states are information. Peres wrote, "Information is not just an abstract notion. It requires a physical carrier, and the latter is (approximately) localized. After all, it was the business of the Bell Telephone Company to transport information from one telephone to another telephone, in a different location. ... When Alice measures her spin, the information she gets is localized at her position, and will remain so until she decides to broadcast it. Absolutely nothing happens at Bob's location. ... It is only when Alice informs Bob of the result she got (by mail, telephone, radio, or by means other than material carrier, which is naturally restricted to the speed of light) that Bob realizes that his particle has a definite pure state."
+
+References
+External links
+
+List of publications Foundations of Physics, 36 157-173 (2006).
+N. Lindner, P. Scudo and D. R. Terno: Asher Peres, 1934-2005 (obituary by his students).
+L. Peres Hari: Asher Peres, 1943-2005 (obituary by his daughter).
+Fuchs, Christopher A.; Peres, Asher (March 2000). "Quantum Theory Needs No 'Interpretation'". Physics Today. 53 (3): 70. Bibcode:2000PhT....53c..70F. CiteSeerX 10.1.1.77.8442. doi:10.1063/1.883004.

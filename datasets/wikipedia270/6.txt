@@ -1,0 +1,97 @@
+6
+10th edition of Systema Naturae
+The 10th edition of Systema Naturae (Latin; the English title is A General System of Nature) is a book written by Swedish naturalist Carl Linnaeus and published in two volumes in 1758 and 1759, which marks the starting point of zoological nomenclature. In it, Linnaeus introduced binomial nomenclature for animals, something he had already done for plants in his 1753 publication of Species Plantarum.
+
+Starting point
+Before 1758, most biological catalogues had used polynomial names for the taxa included, including earlier editions of Systema Naturae. The first work to consistently apply binomial nomenclature across the animal kingdom was the 10th edition of Systema Naturae. The International Commission on Zoological Nomenclature therefore chose 1 January 1758 as the "starting point" for zoological nomenclature and asserted that the 10th edition of Systema Naturae was to be treated as if published on that date. Names published before that date are unavailable, even if they would otherwise satisfy the rules. The only work which takes priority over the 10th edition is Carl Alexander Clerck's Svenska Spindlar or Aranei Suecici, which was published in 1757, but is also to be treated as if published on January 1, 1758.
+
+Revisions
+During Linnaeus' lifetime, Systema Naturae was under continuous revision. Progress was incorporated into new and ever-expanding editions; for example, in his 1st edition (1735), whales and manatees were originally classified as species of fish (as was thought to be the case then). In the 10th edition, they were both moved into the mammal class.
+
+Animals
+The animal kingdom (as described by Linnaeus): "Animals enjoy sensation by means of a living organization, animated by a medullary substance; perception by nerves; and motion by the exertion of the will. They have members for the different purposes of life; organs for their different senses; and faculties (or powers) for the application of their different perceptions. They all originate from an egg. Their external and internal structure; their comparative anatomy, habits, instincts, and various relations to each other, are detailed in authors who professedly treat on their subjects."
+The list has been broken down into the original six classes Linnaeus described for animals; Mammalia, Aves, Amphibia, Pisces, Insecta, and Vermes. These classes were ultimately created by studying the internal anatomy, as seen in his key:
+
+Heart with two auricles, two ventricles. Warm, red blood
+Viviparous: Mammalia
+Oviparous: Aves
+Heart with one auricle, one ventricle. Cold, red blood
+Lungs voluntary: Amphibia
+External gills: Pisces
+Heart with one auricle, no ventricles. Cold, pus-like blood
+Have antennae: Insecta
+Have tentacles: Vermes
+By current standards Pisces and Vermes are informal groupings, Insecta also contained arachnids and crustaceans, and one order of Amphibia comprised sharks, lampreys, and sturgeons.
+
+Mammalia
+Linnaeus described mammals as: "Animals that suckle their young by means of lactiferous teats. In external and internal structure they resemble man: most of them are quadrupeds; and with man, their natural enemy, inhabit the surface of the Earth. The largest, though fewest in number, inhabit the ocean."
+Linnaeus divided the mammals based upon the number, situation, and structure of their teeth, into the following orders and genera:
+
+Primates: Homo (humans), Simia (monkeys and apes), Lemur (lemurs and colugos) and Vespertilio (bats)
+Bruta: Elephas (elephants), Trichechus (manatees), Bradypus (sloths), Myrmecophaga (anteaters) and Manis (pangolins)
+Ferae: Phoca (seals), Canis (dogs and hyenas), Felis (cats), Viverra (mongooses and civets), Mustela (weasels and kin) and Ursus (bears)
+Bestiae: Sus (pigs), Dasypus (armadillos), Erinaceus (hedgehogs), Talpa (moles), Sorex (shrews) and Didelphis (opossums)
+Glires: Rhinoceros (rhinoceroses), Hystrix (porcupines), Lepus (rabbits and hares), Castor (beavers), Mus (mice and kin) and Sciurus (squirrels)
+Pecora: Camelus (camels), Moschus (musk deer), Cervus (deer and giraffes), Capra (goats and antelope), Ovis (sheep) and Bos (cattle)
+Belluae: Equus (horses) and Hippopotamus (hippopotamuses)
+Cete: Monodon (narwhals), Balaena (rorquals), Physeter (sperm whales) and Delphinus (dolphins and porpoises)
+
+Aves
+Linnaeus described birds as: "A beautiful and cheerful portion of created nature consisting of animals having a body covered with feathers and down; protracted and naked jaws (the beak), two wings formed for flight, and two feet. They are areal, vocal, swift and light, and destitute of external ears, lips, teeth, scrotum, womb, bladder, epiglottis, corpus callosum and its arch, and diaphragm."
+Linnaeus divided the birds based upon the characters of the bill and feet, into the following 6 orders and 63 genera:
+
+Accipitres: Vultur (vultures and condors), Falco (falcons, eagles, and kin), Strix (owls) and Lanius (shrikes)
+Picae: Psittacus (parrots), Ramphastos (toucans), Buceros (hornbills), Crotophaga (anis), Corvus (crows and ravens), Coracias (rollers and orioles), Gracula (mynas), Paradisea (birds-of-paradise), Cuculus (cuckoos), Jynx (wrynecks), Picus (woodpeckers), Sitta (nuthatches), Alcedo (kingfishers), Merops (bee-eaters), Upupa (hoopoes), Certhia (treecreepers) and Trochilus (hummingbirds)
+Anseres: Anas (ducks, geese, and swans), Mergus (mergansers), Alca (auks and puffins), Procellaria (petrels), Diomedea (albatrosses and penguins), Pelecanus (pelicans and kin), Phaethon (tropicbirds), Colymbus (grebes and loons), Larus (gulls), Sterna (terns) and Rhyncops (skimmers)
+Grallae: Phoenicopterus (flamingoes), Platalea (spoonbills), Mycteria and Tantulus (storks), Ardea (herons, cranes, and kin), Scolopax (godwits, ibises, and kin), Tringa (phalaropes and sandpipers), Charadrius (plovers), Recurvirostra (avocets), Haematopus (oystercatchers), Fulica (coots and kin), Rallus (rails), Psophia (trumpeters), Otis (bustards) and Struthio (ostriches)
+Gallinae: Pavo (peafowl), Meleagris (turkeys), Crax (curassows), Phasianus (pheasants and chickens) and Tetrao (grouse and kin)
+Passeres: Columba (pigeons and doves), Alauda (larks and pipits), Sturnus (starlings), Turdus (thrushes), Loxia (cardinals, bullfinches, and kin), Emberiza (buntings), Fringilla (finches), Motacilla (wagtails), Parus (tits and chickadees), Hirundo (swallows and swifts) and Caprimulgus (nightjars)
+
+Amphibia
+Linnaeus described his "Amphibia" (comprising reptiles and amphibians) as: "Animals that are distinguished by a body cold and generally naked; stern and expressive countenance; harsh voice; mostly lurid color; filthy odor; a few are furnished with a horrid poison; all have cartilaginous bones, slow circulation, exquisite sight and hearing, large pulmonary vessels, lobate liver, oblong thick stomach, and cystic, hepatic, and pancreatic ducts: they are deficient in diaphragm, do not transpire (sweat), can live a long time without food, are tenacious of life, and have the power of reproducing parts which have been destroyed or lost; some undergo a metamorphosis; some cast (shed) their skin; some appear to live promiscuously on land or in the water, and some are torpid during the winter."
+Linnaeus divided the amphibians based upon the limb structures and the way they breathed, into the following orders and genera:
+
+Reptiles: Testudo (turtles and tortoises), Draco (gliding lizards), Lacerta (terrestrial lizards, salamanders, and crocodilians) and Rana (frogs and toads)
+Serpentes: Crotalus (rattlesnakes), Boa (boas), Coluber (racers, cobras, and typical snakes), Anguis (slowworms and worm snakes), Amphisbaena (worm lizards) and Coecilia (caecilians)
+Nantes: Petromyzon (lampreys), Raja (rays), Squalus (sharks), Chimaera (ratfishes), Lophius (anglerfishes) and Acipenser (sturgeons)
+
+Pisces
+Linnaeus described fish as: "Always inhabiting the waters; are swift in their motion and voracious in their appetites. They breathe by means of gills, which are generally united by a bony arch; swim by means of radiate fins, and are mostly covered over with cartilaginous scales. Besides the parts they have in common with other animals, they are furnished with a nictitant membrane, and most of them with a swim-bladder, by the contraction or dilatation of which, they can raise or sink themselves in their element at pleasure."
+Linnaeus divided the fishes based upon the position of the ventral and pectoral fins, into the following orders and genera:
+
+Apodes: Muraena (eels), Gymnotus (electric knifefishes), Trichiurus (cutlassfishes), Anarhichas (wolffishes), Ammodytes (sand eels), Stromateus (butterfishes) and Xiphias (swordfishes)
+Jugulares: Callionymus (dragonets), Uranoscopus (stargazers), Trachinus (weevers), Gadus (cod and kin) and Ophidion (cusk-wels)
+Thoracici: Cyclopterus (lumpfishes), Echeneis (remoras), Coryphaena (dolphinfishes), Gobius (gobies), Cottus (sculpins), Scorpaena (scorpionfishes), Zeus (john dories), Pleuronectes (flatfishes), Chaetodon (butterflyfishes), Sparus (breams and porgies), Labrus (wrasses), Sciaena (snappers), Perca (perch), Gasterosteus (sticklebacks), Scomber (mackerel and tuna), Mullus (goatfishes) and Trigla (sea robins)
+Abdominales: Cobitis (loaches), Silurus (catfishes), Loricaria (suckermouth catfishes), Salmo (salmon and trout), Fistularia (cornetfishes), Esox (pike), Argentina (herring smelts), Atherina (silversides), Mugil (mullet), Exocoetus (flying fishes), Polynemus (threadfins), Clupea (herring) and Cyprinus (carp)
+Branchiostegi: Mormyrus (elephantfishes), Balistes (triggerfishes), Ostracion (boxfishes), Tetrodon (pufferfishes), Diodon (porcupinefishes), Centriscus (snipefishes), Syngnathus (pipefishes and seahorses) and Pegasus (seamoths)
+
+Insecta
+Linnaeus described his "Insecta" (comprising all arthropods, including insects, crustaceans, arachnids and others) as: "A very numerous and various class consisting of small animals, breathing through lateral spiracles, armed on all sides with a bony skin, or covered with hair; furnished with many feet, and moveable antennae (or horns), which project from the head, and are the probable instruments of sensation."
+Linnaeus divided the insects based upon the form of the wings, into the following orders and genera:
+
+Coleoptera: Scarabaeus (scarab beetles), Dermestes (larder beetles), Hister (clown beetles), Attelabus (leaf-rolling weevils), Curculio (true weevils), Silpha (carrion beetles), Coccinella (ladybirds or ladybugs), Cassida (tortoise beetles), Chrysomela (leaf beetles), Meloe (blister beetles), Tenebrio (darkling beetles), Mordella (tumbling flower beetles), Staphylinus (rove beetles), Cerambyx (longhorn beetles), Cantharis (soldier beetles), Elater (click beetles), Cicindela (ground beetles), Buprestis (jewel beetles), Dytiscus (Dytiscidae), Carabus (Carabus species), Necydalis (necydaline beetles), Forficula (earwigs), Blatta (cockroaches) and Gryllus (other orthopteroid insects)
+Hemiptera: Cicada (cicadas), Notonecta (backswimmers), Nepa (water scorpions), Cimex (bedbugs), Aphis (aphids), Chermes (woolly aphids), Coccus (scale insects) and Thrips (thrips)
+Lepidoptera: Papilio (butterflies), Sphinx (hawk moths), Phalaena (moths)
+Neuroptera: Libellula (dragonflies and damselflies), Ephemera (mayflies), Phryganea (caddisflies), Hemerobius (lacewings), Panorpa (scorpionflies) and Raphidia (snakeflies)
+Hymenoptera: Cynips (Gall wasps), Tenthredo (sawflies), Ichneumon (ichneumon wasps), Sphex (digger wasps), Vespa (hornets), Apis (bees), Formica (ants) and Mutilla (velvet ants)
+Diptera: Oestrus (botflies), Tipula (crane flies), Musca (house flies), Tabanus (horse flies), Culex (mosquitoes), Empis (dance flies), Conops (thick-headed flies), Asilus (robber flies), Bombylius (bee flies) and Hippobosca (louse flies)
+Aptera: Lepisma (silverfish), Podura (springtails), Termes (termites), Pediculus (lice), Pulex (fleas), Acarus (mites and ticks), Phalangium (harvestmen), Aranea (spiders), Scorpio (scorpions), Cancer (crabs, lobsters and kin), Monoculus (water fleas and kin), Oniscus (woodlice), Scolopendra (centipedes) and Julus (millipedes)
+
+Vermes
+Linnaeus described his "Vermes" as: "Animals of slow motion, soft substance, able to increase their bulk and restore parts which have been destroyed, extremely tenacious of life, and the inhabitants of moist places. Many of them are without a distinct head, and most of them without feet. They are principally distinguished by their tentacles (or feelers). By the Ancients they were not improperly called imperfect animals, as being destitute of ears, nose, head, eyes and legs; and are therefore totally distinct from Insects."
+Linnaeus divided the "Vermes" based upon the structure of the body, into the following orders and genera:
+
+Intestina: Gordius (horsehair worms), Furia, Lumbricus (earthworms), Ascaris (giant intestinal roundworms), Fasciola (liver flukes), Hirudo (leeches), Myxine (hagfishes), Teredo (shipworms)
+Mollusca: Limax (terrestrial slugs), Doris (dorid nudibranchs), Tethys (tethydid sea slugs), Nereis (polychaete worms), Aphrodita (sea mice), Lernaea (anchor worms), Priapus (priapulid worms and sea anemones), Scyllaea (scyllaeid sea slugs), Holothuria (salps and Portuguese Man o' War), Triton (triton shells), Sepia (octopuses, squids, and cuttlefishes), Medusa (jellyfishes), Asterias (starfishes), Echinus (sea urchins)
+Testacea: Chiton (chitons), Lepas (barnacles), Pholas (piddocks and angelwings), Myes (soft-shell clams), Solen (saltwater clams), Tellina (tellinid shellfishes), Cardium (cockles), Donax (wedge shells), Venus (Venus clams), Spondylus (thorny oysters), Chama (jewel box shells), Arca (ark clams), Ostrea (true oysters), Anomia (saddle oysters), Mytilus (saltwater mussels), Pinna (pen shells), Argonauta (paper nautiluses), Nautilus (nautiluses), Conus (cone snails), Cypraea (cowries), Bulla (bubble shells), Voluta (volutes), Buccinum (true whelks), Strombus (true conches), Murex (murex snails), Trochus (top snails), Turbo (turban snails), Helix (terrestrial snails), Neritha (nerites), Haliotis (abalones), Patella (true limpets and brachiopods), Dentalium (tusk shells), Serpula (serpulid worms)
+Lithophyta: Tubipora (organ pipe corals), Millepora (fire corals), Madrepora (stone corals)
+Zoophyta: Isis (soft corals), Gorgonia (sea fans), Alcyonium (tunicates), Tubularia (Tubularia), Eschara (Bryozoa), Corallina (coralline algae), Sertularia (Bryozoa), Hydra, Pennatula (sea pens), Taenia (tapeworms), Volvox
+
+Plants
+The second volume, published in 1759, detailed the kingdom Plantae, in which Linnaeus included true plants, as well as fungi, algae and lichens. In addition to repeating the species he had previously listed in his Species Plantarum (1753), and those published in the intervening period, Linnaeus described several hundred new plant species. The species from Species Plantarum were numbered sequentially, while the new species were labelled with letters. Many were sent to Linnaeus by his correspondents overseas, including Johannes Burman and David de Gorter in South Africa, Patrick Browne, Philip Miller and John Ellis in America, Jean-François Séguier, Carlo Allioni and Casimir Christoph Schmidel in the Alps, Gorter and Johann Ernst Hebenstreit in the Orient, and François Boissier de Sauvages de Lacroix, Gerard and Barnadet Gabriel across Europe.
+New plant species described in the 10th edition of Systema Naturae include:
+
+References
+External links
+The original 1758 Systema Naturae at the Biodiversity Heritage Library (BHL).
+Linnaeus 1758 Classification of Animals on the Taxonomicon

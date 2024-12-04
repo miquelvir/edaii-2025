@@ -1,0 +1,54 @@
+3686
+Charles-Augustin de Coulomb
+Charles-Augustin de Coulomb (, KOO-lom, -⁠lohm, koo-LOM, -⁠LOHM; French: kulɔ̃; 14 June 1736 – 23 August 1806) was a French officer, engineer, and physicist. He is best known as the eponymous discoverer of what is now called Coulomb's law, the description of the electrostatic force of attraction and repulsion. He also did important work on friction.
+The SI unit of electric charge, the coulomb, was named in his honor in 1880.
+
+Life
+Charles-Augustin de Coulomb was born in Angoulême, Angoumois county, France, to Henry Coulomb, an inspector of the royal demesne originally from Montpellier, and Catherine Bajet. He was baptised at the parish church of St. André. 
+The family moved to [Paris](2293) early in his childhood, and he studied at Collège Mazarin.
+His studies included philosophy, language and literature. He also received a good education in mathematics, astronomy, chemistry and botany.
+When his father suffered a financial setback, he was forced to leave [Paris](2293), and went to Montpellier. Coulomb submitted his first publication to the Society of Sciences in Montpellier during this time. He went back to [Paris](2293) and passed the exams for the École royale du génie de Mézières in 1760.
+He graduated in 1761 and joined the French army as an engineer with the rank of lieutenant.
+Over the next twenty years, he was posted to a variety of locations where he was involved in engineering: structural, fortifications, soil mechanics, as well as other fields of engineering. His first posting was to Brest but in February 1764 he was sent to Martinique, in the West Indies, where he was put in charge of building the new Fort Bourbon and this task occupied him until June 1772. His health suffered setbacks during the three years he spent in Martinique that would affect him for the rest of his life.
+On his return to France, Coulomb was sent to Bouchain. He began to write important works on applied mechanics and he presented his first work to the Académie des Sciences in [Paris](2293) in 1773. In 1779 Coulomb was sent to Rochefort to collaborate with the Marquis de Montalembert in constructing a fort made entirely from wood near Île-d'Aix. During his period at Rochefort, Coulomb carried on his research into mechanics, in particular using the shipyards in Rochefort as laboratories for his experiments. Also in 1779 he published an important investigation of the laws of friction (Théorie des machines simples, en ayant regard au frottement de leurs parties et à la roideur des cordages), which was followed twenty years later by a memoir on fluid resistance.
+Upon his return to France, with the rank of captain, he was employed at La Rochelle, the Isle of Aix and Cherbourg. He discovered first an inverse relationship of the force between electric charges and the square of its distance and then the same relationship between magnetic poles. Later these relationships were named after him as Coulomb's law.
+In 1781, he was stationed at [Paris](2293). In 1787 with Tenon he visited the Royal Naval Hospital, Stonehouse and they were impressed by the revolutionary "pavilion" design and recommended it to the French government. On the outbreak of the Revolution in 1789, he resigned his appointment as intendant des eaux et fontaines and retired to a small estate which he possessed at Blois.
+He was recalled to [Paris](2293) for a time in order to take part in the new determination of weights and measures, which had been decreed by the Revolutionary government. He became one of the first members of the French National Institute and was appointed inspector of public instruction in 1802. His health was already very feeble and four years later he died in [Paris](2293).
+
+Coulomb leaves a legacy as a pioneer in the field of geotechnical engineering for his contribution to retaining wall design. His name is one of the 72 names inscribed on the Eiffel Tower.
+
+Research
+In 1784, his memoir Recherches théoriques et expérimentales sur la force de torsion et sur l'élasticité des fils de metal (Theoretical research and experimentation on torsion and the elasticity of metal wire) appeared. This memoir contained the results of Coulomb's experiments on the torsional force for metal wires, specifically within a torsion balance. His general result is:
+
+the moment of the torque is, for wires of the same metal, proportional to the torsional angle, the fourth power of the diameter and the inverse of the length of the wire.
+
+In 1785, Coulomb presented his first three reports on electricity and magnetism:
+
+"Premier Mémoire sur l’Électricité et le Magnétisme". In this publication, Coulomb describes "How to construct and use an electric balance (torsion balance) based on the property of the metal wires of having a reaction torsion force proportional to the torsion angle." Coulomb also experimentally determined the law that explains how "two bodies electrified of the same kind of Electricity exert on each other."  On page 574 he states:
+Il résulte donc de ces trois essais, que l'action répulsive que les deux balles électrifées de la même nature d'électricité exercent l'une sur l'autre, suit la raison inverse du carré des distances.
+Translation:  It follows therefore from these three tests, that the repulsive force that the two balls — which were electrified with the same kind of electricity — exert on each other, follows the inverse proportion of the square of the distance.
+"Second Mémoire sur l’Électricité et le Magnétisme". In this publication, Coulomb carries out the "determination according to which laws both the Magnetic and the Electric fluids act, either by repulsion or by attraction."  On page 579, he states that the attractive force between two oppositely charged spheres is proportional to the product of the quantities of charge on the spheres and is inversely proportional to the square of the distance between the spheres.
+"Troisième Mémoire sur l’Électricité et le Magnétisme". "On the quantity of Electricity that an isolated body loses in a certain time period, either by contact with less humid air or in the supports more or less idio-electric."
+Four subsequent reports were published in the following years:
+
+"Quatrième Mémoire" "Where two principal properties of the electric fluid are demonstrated: first, that this fluid does not expand into any object according to a chemical affinity or by an elective attraction, but that it divides itself between different objects brought into contact; second, that in conducting objects, the fluid, having achieved a state of stability, expands on the surface of the body and does not penetrate into the interior." (1786)
+"Cinquième Mémoire" "On the manner in which the electric fluid divides itself between conducting objects brought into contact and the distribution of this fluid on the different parts of the surface of this object." (1787)
+"Sixième Mémoire" "Continuation of research into the distribution of the electric fluid between several conductors. Determination of electric density at different points on the surface of these bodies." (1788)
+"Septième Mémoire" "On magnetism" (1789)
+Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena. He thought that the attraction and repulsion were due to different kinds of fluids.
+Coulomb also made a significant contribution to the field of tribology. The findings of Guillaume Amontons and Coulomb are well known as Amontons-Coulomb laws of friction. He completed the most comprehensive study of friction undertaken in the eighteenth century and was named by Duncan Dowson as one of the 23 "Men of Tribology".
+
+See also
+List of things named after Charles Coulomb
+List of scientists whose names are used in physical constants
+
+References
+External links
+
+Works by or about Charles-Augustin de Coulomb at the Internet Archive
+Works by Charles-Augustin de Coulomb at LibriVox (public domain audiobooks) 
+Théorie des machines simples (1821)
+Collection de mémoires relatifs à la physique (1884)
+French National Library The Mémoires of Coulomb available in pdf format.
+O'Connor, John J.; Robertson, Edmund F., "Charles-Augustin de Coulomb", MacTutor History of Mathematics Archive, University of St Andrews
+Coulomb's Memoirs on Torsion, Electricity, and Magnetism Translated into English

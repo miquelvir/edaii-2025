@@ -1,0 +1,144 @@
+4899
+Antiphonary
+An antiphonary or antiphonal is one of the liturgical books intended for use in choro (i.e. in the liturgical choir), and originally characterized, as its name implies, by the assignment to it principally of the antiphons used in various parts of the Latin liturgical rites.
+Medieval antiphonaries varied with regional liturgical tradition. In 1570, following the Council of Trent, the Roman Rite antiphonary was declared universal.  The Roman Antiphonary (Antiphonale Romanum) contains the chants for the canonical hours for the hours of Lauds, Prime, Terce, Sext, None, Vespers and Compline for every day of the year.  The Vesperale Romanum is an excerpt of the Antiphonary containing the chants sung at Vespers. The music for use at the Mass is contained in the Roman Gradual (Graduale Romanum), the chants of the ordinary are also edited as an excerpt from the Gradual, the Kyriale Romanum.  The Antiphonale Romanum was substantially revised in 1910–11 in the course of the reform of the Roman Breviary under Pope Pius X, notably restoring authentic Gregorian melodies. For the 1971 "Liturgy of the Hours", there are two volumes, Antiphonale Romanum II and Liber Hymnarius.
+
+Terminology
+Alternative terms for Antiphonary are  Antiphonal or  Antiphony.  The term comes from the Latin antiphonarium, antiphonarius, antiphonarius liber, antiphonale, which came from the Greek antíphonon "antiphone, anthem".
+In current usage, Antiphonary refers more narrowly to books containing the chants for the Divine Office in distinction to the Gradual (Graduale or more rarely antiphonarium Missarum), which contains the antiphons used for the Mass.
+The Antiphonary thus included generically the antiphons and antiphonal chants sung by cantor, congregation, and choir at Mass (antiphonarium Missarum, or graduale) and at the canonical Hours ( antiphonarium officii); but now it refers only to the sung portions of the Divine Office or Breviary.
+Other English equivalents for antiphonary are antiphonar (still in reputable use) and antiphoner (considered obsolete by some English lexicographers, but still sometimes used in the early 20th century).
+In the "Prioress' Tale" of Chaucer it occurs in the form antiphonere:
+
+He Alma Redemptoris herde synge / As children lerned hir antiphonere.
+The word Antiphonary had in the earlier Middle Ages sometimes a more general, sometimes a more restricted meaning. In its present meaning it has also been variously and insufficiently defined as a "Collection of antiphons in the notation of Plain Chant", and as a liturgical book containing the antiphons "and other chants".
+In its present complete form it contains, in plain-chant notation, the music of all the sung portions of the Roman Breviary immediately placed with the texts, with the indications of the manner of singing such portions as have a common melody (such as versicles and responses, the Psalms, the Lessons, the Chapters). But the Lessons of Matins (First Nocturn) in the triduum of Holy Week, styled "Lamentations", have a melody proper to themselves, which is not therefore merely indicated but is placed immediately with the texts of the Lessons.
+
+In order to show as clearly as possible the exact position of the antiphonary amongst the liturgical books, it is proper to recall that the Roman Missal contains all the texts used at Mass; the Roman Breviary, all the texts used in the Divine Office or Canonical Hours.  While in the Missal, the introits, graduals, tracts, sequences, offertories, communions, as well as the texts of the Kyrie, Gloria, Credo, Sanctus, and Agnus Dei are both read by the celebrant and sung by the choir, their notation is not given, only the accentus or chants, of the celebrant and deacon have the music furnished (such as the intonations of the Gloria, the Credo, the chants of the various Prefaces, the two forms of the Pater Noster, the various forms of the Ite, or Benedicamus, the Blessing of the Font, etc.). The omitted chants (styled concentus), which are to be sung by the choir, are contained in a supplementary volume called the "Graduale" or "Liber Gradualis" (anciently the "Gradale").
+In like manner, the Roman Breviary, practically entirely meant for singing in choro, contains no music; and the "Antiphonarium" performs for it a service similar to that of the "Liber Gradualis" for the Missal.
+Just as the "Liber Gradualis" and the "Antiphonarium" are, for the sake of convenience, separated from the Missal and Breviary respectively, so, for the same reason, still further subdivisions have been made of each. 
+The "Antiphonarium" has been issued in a compendious form "for the large number of churches in which the Canonical Hours of the Divine Office are sung only on Sundays and Festivals".  This Antiphonarium Romanum compendiose redactum ex editionibus typicis etc., includes, however, the chants for the Masses of Christmas, the triduum of Holy Week, and other desired Offices, and is issued in a single volume. Another separate volume is the "Vesperal", which contains also the Office of Compline; and of the "Vesperal" a further compendium has been issued, entitled "Epitome ex Vesperali Romano".
+Associated somewhat in scope with the "Antiphonarium" is the "Directorium Chorii", which has been described as furnishing the ground plan for the antiphonary, inasmuch as it gives or indicates all the music of the chants (except the responsories after the Lessons), the tones of the psalms, the brief responsories, the "Venite Exultemus", the "Te Deum", Litanies etc. The text of all the psalms, the full melody of the hymns, and the new feasts were added to the "official edition" of the "Directorium" in 1888.
+The word antiphonary does not therefore clearly describe the contents of the volume or volumes thus entitled, in which are found many chants other than the antiphon per se, such as hymns, responsories, versicles, and responses, psalms, the "Te Deum," the "Venite Adoremus," and so forth. The expression "antiphonal chant" would, however, comprise all these different kinds of texts and chants, since they are so constructed as to be sung alternately by the two divisions of the liturgical choir; and in this sense the word Antiphonary would be sufficiently inclusive in its implication. On the other hand, the corresponding volume for the chants of the Mass, namely the "Graduale", or "Liber Gradualis", includes many other kinds of liturgical texts and chants in addition to the graduals, such as introits, tracts, sequences, offertories, communions, as well as the fixed texts of the "Ordinarium Missæ", or "Kyriale". It may be said, then, that these two books receive the names "Antiphonarium" and "Graduale" from the technical name of the most important chants included in them. Fundamentally all the chants, whether of the Mass or of the Divine Office, are sung antiphonally, and might, with etymological propriety, be comprised in the one general musical title of "Antiphonary."
+
+History
+Early history
+Gregory the Great is traditionally considered to have revised and collected the various texts and chants of the liturgy, giving rise to the term "Gregorian Chant" for liturgical plainsong melodies. The Gregorian Antiphonary, and the supplemental Antiphonarium Missae, left an enduring influence on the Roman liturgy.
+Earlier popes had given, a medieval writer assures us, attention to the chants; and he specifies St. Damasus (d. 384), St. Leo (d. 461), St. Gelasius (d. 496), St. Symmachus (d. 514), St. John I (d. 526) and Boniface II (d. 532). It is true, also, that the chants used at Milan were styled, in honour of St. Ambrose (called the "Father of Church Song"), the Ambrosian Chant.
+But it is not known whether any collection of the chants had been made before that of St. Gregory, concerning which his ninth-century biographer, John the Deacon, wrote: Antiphonarium centonem … compilavit. The authentic antiphonary mentioned by the biographer has not as yet been found. What was its character? What is meant by cento ("patchwork")?
+In the century in which John the Deacon wrote his life of the Saint, a cento meant the literary feat of constructing a coherent poem out of scattered excerpts from an ancient author, in such wise, for example, as to make the verses of Virgil sing the mystery of the Epiphany. The work, then, of St. Gregory was a musical cento, a compilation (centonem ... compilavit) of pre-existing material into a coherent and well-ordered whole. This does not necessarily imply that the musical centonization of the melodies was the special and original work of the Saint, as the practice of constructing new melodies from separate portions of older ones had already been in vogue two or three centuries earlier than his day. But is it clear that the cento was one of melodies as well as of texts? In answer it might indeed by said that in the earliest ages of the Church the chants must have been so very simple in form that they could easily be committed to memory; and that most of the subsequently developed antiphonal melodies could be reduced to a much smaller number of types, or typical melodies, and could thus also be memorized.
+And yet many say that it is scarcely credible that the developed melodies of St. Gregory's time had never possessed a musical notation, had never been committed to writing. What made his antiphonary so very useful to chanters (as John the Deacon esteemed it) was probably his careful presentation of a revised text with a revised melody, written either in the characters used by the ancient authors (as set down in [Boethius](3883)) or in neumatic notation. St. Augustine, sent to England by St. Gregory, carried with him a copy of the precious antiphonary, and founded at Canterbury a flourishing school of singing. A decree of the Second Council of Cloveshoo (747) directing that the celebration of the feasts, in respect to baptism, Masses and music (in cantilenæ modo), should follow the method of the book "which we received from the Roman Church".
+That this book was the Gregorian antiphonary is clear from the testimony of Egbert, Bishop of York (732-766), who in his De Institutione Catholica speaks of the "Antiphonarium" and "Missale" which the "blessed Gregory … sent to us by our teacher, blessed Augustine".
+
+Middle Ages
+It is impossible to trace here the progress of the Gregorian antiphonary throughout Europe, which resulted finally in the fact that the liturgy of Western Europe, with a very few exceptions, finds itself based fundamentally on the work of St. Gregory, whose labour comprised not merely the sacramentary, and the "Antiphonarium Missæ", but extended also to the Divine Office. Briefly, the next highly important step in the history of the antiphonary was its introduction into some dioceses of France where the liturgy had been Gallican, with ceremonies related to those of Milan and with chants developed by newer melodies.
+From the year 754 may be dated the change in favour of the Roman liturgy. St. Chrodegang, Bishop of Metz, on his return from an embassy to Rome, introduced the Roman liturgy into his diocese and founded the Chant School of Metz. Subsequently, under [Charlemagne](1454), French monks went to Rome to study the Gregorian tradition there, and some Roman teachers visited France.
+The interesting story of Ekkehard, concerning two monks,  Petrus and Romanus, sent from Rome to teach chant, is not to be taken as historical. But a certain Petrus, according to Notker, was sent to Rome by [Charlemagne](1454) and at the Abbey of St. Gall trained the monks in the Roman style. Besides Metz and St. Gall, other important schools of chant were founded at Rouen and Soissons.
+In the course of time new melodies were added, at first characterized by the simplicity of the older tradition, but gradually becoming more free in extended intervals. With respect to German manuscripts, the earliest are found in a style of neumatic notation different from that of St. Gall, while the St. Gall manuscripts are derived not directly from the Italian but from the Irish-Anglo-Saxon. It is probable that before the 10th and 11th centuries (at which period the St. Gall notation began to triumph in the German churches) the Irish and English missionaries brought with them the notation of the English antiphonary.
+It would take too much space to record here the multiplication of antiphonaries and their gradual deterioration, both in text and in chant, from the Roman standard.
+The school of Metz began the process early. Commissioned by Louis the Pious to compile a "Graduale" and antiphonary, the priest Amalarius of Metz found a copy of the Roman antiphonary in the monastery of Corbie, and placed in his own compilation an M when he followed the Metz antiphonary, R when he followed the Roman, and an I C (asking Indulgence and Charity) when he followed his own ideas.
+His changes in the "Graduale" were few; in the antiphonary, many.
+Part of the revision which, together with Elisagarus, he made in the responsories as against the Roman method, were finally adopted in the Roman antiphonary.
+In the 12th century, the commission established by St. Bernard to revise the antiphonaries of Citeaux criticized with undue severity the work of Amalarius and Elisagarus and withal produced a faulty antiphonary for the Cistercian Order.
+The multiplication of antiphonaries, the differences in style of notation, the variations in melody and occasionally in text, need not be further described here.
+In France especially, the multiplication of liturgies subsequently became so great, that when Prosper Guéranger, in the middle of the 19th century, started introducing the Roman liturgy into that country, sixty out of eighty dioceses had their own local breviaries.
+That the word antiphonarium is, or was, quite elastic in its application, is shown by the remark of Amalarius in his Liber de ordine Antiphonarii, written in the first half of the 9th century. The work which in Metz was called "Antiphonarius" was divided into three in Rome: "What we call 'Graduale' they style 'Cantatorius'; and this, in accordance with their ancient custom, is still bound in a single volume in some of their churches. The remainder they divide into two parts: the one containing the responsories is called 'Responsoriale'; while the other, containing antiphons, is called 'Antiphonarius'. I have followed our custom, and have placed together (mixtim) the responsories and the antiphons according to the order of the seasons in which our feasts are celebrated" (P. L., CV, 1245). The word "cantatory" explains itself as a volume containing chants; it was also called "Graduale", because the chanter stood on a step (gradus) of the ambo or pulpit, while singing the response after the Epistle. Other ancient names for the antiphonary seem to have been Liber Officialis (Office Book) and "Capitulare" (a term sometimes used for the book containing the Epistles and Gospels).
+
+Modern history
+Changes in the antiphonary were made in the Counter-Reformation, resulting from the reform of the Roman Breviary ordered by the Council of Trent and carried out under Pius V.
+The term antiphonarium, printed as a title to many volumes of the early modern period, is made to cover a very varied selection from the complete antiphonary. Sometimes it means practically a "Vesperale" (sometimes with Terce added; sometimes with various processional chants and blessings taken from the "Processionale" and "Rituale").
+These volumes meet the local usages in certain dioceses with respect to Church services, and offer a practical manual for the worshipper, excluding portions of the Divine Office not sung in choir in some places and including those portions which are sung. (See also names of Antiphonaries, as Armagh, Antiphonary of Bangor etc.)
+In the second half of the 19th century, there was a movement to restore medieval Gregorian music.
+Louis Lambillotte reproduced various antiphonaries and graduals, as did the "Plain Song and Medieval Music Society" and especially by André Mocquereau (1849–1930), whose  Paléographie Musicale (established 1889)
+published phototypic reproductions of antiphonaries of Einsiedeln, of St. Gall, of Hartker, of Montpellier, of the twelfth-century monastic antiphonary found in the library of the Chapter of Lucca, which in course of publication illustrated the Guidonian notation that everywhere replaced, save in the school of St. Gall, the ambiguous method of writing the neums in campo aperto,
+Mocquereau was succeeded as editor of Paléographie Musicale by his leading disciple, Joseph Gajard (1885-1972) in 1930.
+This appeal to early tradition has resulted in Pius X taking away its official sanction from the Ratisbon edition. The Ratisbon "Graduale", founded on the Medicean (which gave the chants as abbreviated and changed by Anerio and Suriano), and the "Antiphonarium" (which was based on the Antiphonale of Venice, 1585, with the responsories of Matins based on the Antwerp edition of 1611), would be replaced by the chants as found in the older codices.
+The so-called "Ratisbon edition" of the Roman antiphonary, entitled Antiphonarium et Psalterium juxta ordinem Breviarii Romani cum cantu sub auspicis Pii IX et Leonis XIII Pontif. Maxim. reformato. Curâ et auctoritate S. Rituum Congregationis digestum Romæ, (edited by Friedrich Pustet, 1879) was most widely used in the late nineteenth century, and commended for use in all the churches of the Catholic world by Pius IX and Leo XIII.
+The first of these volumes to be issued, entitled: Tomus II. continens Horus Diurnus Breviarii Romani (Vesperale), contained the antiphons, psalms, hymns and versicles of the Canonical Hours styled Horæ Diurnæ, i. e. Lauds, Prime, Terce, Sext, None, Vespers and Compline. It comprised in one volume what in some editions had been distributed in several, such as the "Antiphonarium" (in a very restricted sense), the "Psalterium", the "Hymnarium", the "Responsoriale". The Office of Matins was divided into the other two volumes, one of which contained the invitatories, antiphons, hymns, etc., of Matins for the Proprium de Tempore (Proper of the Season), and the other, for the Commune Sanctorum (Common Office of the Saints) and the Proprium Sanctorum (Proper Office of the Saints).
+A brief study of the divisions and arrangement of the Marquess of Bute's translation into English of the Roman Breviary will make clear from the above description the general character of a complete Roman antiphonary. It is suggested by some that this Ratisbon edition has lost its authentic and official character by virtue of the Motu proprio Tra le sollecitudini (22 November 1903), and the Decree of the Sacred Congregation of Rites (8 January 1904).
+Pope Pius X rejected the Ratisbon edition and ordered the creation of a new Vatican edition, in which both the texts and the melodies were to be revised in order to bring them into conformity with the results of recent palaeographic studies in Gregorian chant. The Ratisbon editions were replaced with the Vatican edition of 1912
+The  Antiphonale monasticum (1934) was produced by the Benedictines of Solesmes.
+In 1971 the Office was substantially revised and renamed the Liturgy of the Hours (Liturgia Horarum) and new books appeared: the Psalterium monasticum (1981) and the Liber hymnarius (1982).
+
+Editions
+Printed editions
+1571-1573. Antiphonarii, juxta breviarium Romanum restitutum, pars hyemalis/aestiualis. Christopher Plantin, Antwerpen
+1596. Antiphonarium Romanum, Venetiis, Ad ritum Brevarii, ex decreto Sacrosancti Concilii Tridentini restituti, & Pii V. Pont. Max. iussu editi. Venetiis apud Iuntas.1
+1602. Antiphonarium Romanum. Egidio Forcellini.
+1607. Antiphonarium Romanum. Giacomo Pergamini.
+1625 Antiphonarium Romanum. Wilhelm Eder, Ingolstadt.
+1617. Antiphonarium Romanum : Iuxta Novum Breviarium Recognitum, Pro Ecclesiis Maxime Ruralibus Dioeceseos Frisingensis accommodatum 2
+1687. Antiphonarium Romanum, juxta Breviarium Pii quinti pontificis maximi authoritate editum. Cujus modulatio concinnè disposita; in usum & gratiam monialium ordinis Sancti Avgvstini. Operâ & studio Guillelmi Gabrielis Nivers.
+1620. Antiphonale Romanum juxta Breviarium. Sacrosancti Concilii Tridentini restitutum. A. Clemente VIII. Maximo nuper recognitum. Parisiis, Apud Societatem Typographicam librerum Ecclesiasticiex Decreto Concilii Tridentini Via Iacobaea.
+1672. Antiphonarium Romanum nova et accurata notarum editione modulatum ad usum canonicorum regularium sancti Augustini ordinis S. Antonii. (Ep. ded. M. D. I. N. Joanni Rasse) sumptibus Abbatiae S. Antonii Viennensis.3
+1690. Antiphonarium Romanum de tempore et sanctis ad normam Breviarii ex decreto sacrosancti Concilii Tridentini restitut, S. Pii V Pontificis Maximi iussu editi. Apud Nicolaum Pezzana, Venice. 448 + lx pages. New editions printed in 1701, 1705, 1714, 1717, 1718, 1725, 1729, 1735, 1737, 1739, 1741, 1759, 1770, and 1771 (and possibly more), with up to 478 + lxxvii pages.
+1726. Antiphonarium Romanum, officio vesperarum præcipue accomodatum. ex typographia Gerardi à Bloemen 4
+1750. Antiphonarium seu vesperale romanum totius anni, juxta breviarium sacrosancti concilii tridentini auctoritate recognitum, Clementis VIII et Urbani VIII jussu editum et emendatum. Tolosae, J.H Guillemette.
+1760. Antiphonarium romanum juxta breviarium Sanctae Romanae Ecclesiae... typis Amati Delaroche.5
+1842. Antiphonarium seu Vesperale Romanum una cum Officio trium posteriorum dierum hebdomadae majoris editum ad usum Dioecesis Basileensis jussu. Joseph Antonii Episcopi Basileensis.
+1854. Vesperale romanum cum psalterio ex antiphonali romano fideliter extractum, cum cantu emendato. Editio prima, Mechliniae.
+1863. Antiphonarium Romanum Cantum Gregorianum ad vesperas et alia divina officia Breviarii Romani et proprii Coloniensis continens jussu . Joannis . presbyteri Cardinalis de Geissel Archiepiscopi Coloniensis.
+1865. Antiphonarium Romanum ad Normam Breviarii, ex decreto sacrosancti Concilii Tridentini restituti S. PII V Pontificis Maximi S. PII V Pontificis Maximi Jussu Editi Clementis VIII et Urbani VIII Auctoritate Recogniti Complectens Vesperas et Horas Tum De Tempore, Tum De Sanctis, Nec Non Praecipuorum Festorum Officia Nocturna, Adjecto in Fine Supplemento Officiorum Quibusdam Locis ex Apos.
+1872.  Antiphonaire Romain, Comprenant les vêpres, les petites heures et les laudes pour toute l'année. Les Matines. L'office de l'Immaculée Conception.
+1875 Vesperale Romanum Juxta Ordinem Breviarii Romani cum cantu emendato editum sub auspiciis Ss. D. N. Pii PP.IX curante Sacr. Rituum Congregatione
+1887. Compendium Antiphonarii et Breviarii Romani. Concinnatum ex editionibus typicis, cura et auctoritate sacrorum rituum congregationis publicatis. Cum privilegio.
+1891. Pothier's Monastic Antiphonale.
+Liber Antiphonarius Pro diurnis horis. Juxta ritum monasticum kalendario proprio Congregationis Gallicae ordinis Sancti Benedicti accommodatus.
+Liber Antiphonarius pro Vesperis et Completorio. Officii Romani. Cum supplemento pro aliquibus locis.
+Libri Antiphonarii Complementum pro Laudibus et Horis. Officii Romani. Cum supplemento pro aliquibus locis.
+1899.  Vesperbuch (Vesperale Romanum) lateinisch und deutsch, enthaltend die Vespern des Kirchenjahres. Für Laien bearbeitet.
+1901. Vesperale Romanum. Antiphonarii Et Breviarii Romani.
+1912. Antiphonale Sacrosanctae Romamae Ecclesiae pro diurnis horis : SS. D.N. Pii X Pontificis Maximi jussu restitutum et editum. 6
+1913. Vesperale Romanum: Excerptum Ex Antiphonali S. R. E. Jussu Ss. D. N. Pii X Pontificis Maximi Restituto Et Edito
+editio Ratisbonensis juxta Vaticanam, Ratisbonae : F. Pustet.
+editio Parisiensis juxta Vaticanam, Société d'Éditions du Chant Grégorien 7
+Manuscripts
+Reproductions by Paléographie musicale, 1st series (23 volumes, 1889–2014):
+
+(1889) Introduction générale et Codex 339 de la bibliothèque de Saint-Gall, Antiphonale missarum sancti Gregorii (s. X) ISBN 978-2-85274-144-7
+1891 Le répons-graduel Justus ut palma reproduit en fac-similé d'après plus de deux cents antiphonaires manuscrits d'origines diverses du IXe au XVIIe siècle 8
+1892 Le répons-graduel Justus ut palma reproduit en fac-similé d'après plus de deux cents antiphonaires manuscrits d'origines diverses du IXe au XVIIe siècle, deuxième partie
+(1894) Codex 121 de la bibliothèque d'Abbaye territoriale d'Einsiedeln|Einsiedeln Antiphonale missarum sancti Gregorii (Xe-XIe siècle) ISBN 978-2-85274-145-49
+(1896) Codex additional 34209 du Musée britannique, Antiphonarium Ambrosianum (s. XII) ISBN 978-2-85274-179-9
+(1900) Codex additional 34209 du Musée britannique, Antiphonarium Ambrosianum (x. XII),
+(1901) Codex H. 159 de la bibliothèque de l'École de médecine de Montpellier,  Antiphonarium tonale missarum (s. XI) ISBN 978-2-85274-177-5 10
+(1901-1905) Codex H. 159 de la bibliothèque de l'École de médecine de Montpellier, Antiphonarium tonale missarum, phototypies (première publication chez Desclée, Tournai) 11
+(1906) Codex 601 de la bibliothèque capitulaire de Lucques, Antiphonaire monastique (s. XII) ISBN 978-2-85274-175-1  12
+(1909) Codex 239 de la bibliothèque de Laon, Antiphonale missarum sancti Gregorii (s. IX-X) ISBN 978-2-85274-146-1 13
+(1912) Codex 47 de la bibliothèque de Chartres, Antiphonale missarum sancti Gregorii (s. X) ISBN 978-2-85274-187-4 14
+(1922) Codex F. 160 de la bibliothèque de la cathédrale de Worcester, Antiphonaire monastique (s. XIII) ISBN 978-2-85274-178-2 15
+(1925) Codex 903 de la bibliothèque nationale de Paris, Graduel de Saint-Yrieix (s. XI) ISBN 978-2-85274-153-916
+(1931) Codex 10673 du fonds Latin de la bibliothèque vaticane, Graduel bénéventain (s. XI) ISBN 978-2-85274-163-8  17
+(1937) Codex VI 34 de la bibliothèque captulaire de Bénévent, (s. XI-XII), Graduel avec prosaire et tropaire ISBN 978-2-85274-154-6 18
+(1955) Antiphonaire du Mont-Renaud, s. X, Graduel et Antiphonaire de Noyon,  ISBN 978-2-85274-129-4
+1958 Fragments des manuscrtis de Chartres, présentation par le chanoine Yves Delaporte. 19
+1969 Roma, Angelica Codex 123 (s. XI), à la bibliothèque Angelica de Rome, 70 p. et 265 planches de photos (publié chez Herbert Lang, Berne). 20
+1974 Le manuscrit 807,  Universitätsbibliothek Graz (s. XII), Graduel de Klosterneuburg, ISBN 978-3-261-00304-1 21
+1983 Le manuscrit VI-33, Archivio arcivescovile Benevento, Missel de Bénévent, début du s. XI. 2223
+(1992) Les témoins manuscrits du chant bénéventain par Thomas Forrest Kelly ISBN 978-2-85274-147-8
+(2001) Codex 21 de la bibliothèque capitulaire de Bénévent, Antiphonale monasticum (XIIe et XIIIe siècles) ISBN 978-2-85274-219-2
+(2014) Montecassino, Archivio dell' Abbazia, Ms. 542, Antiphonaire du s. XII, ed.  Katarina Livljanic.
+Paléographie musicale, 2nd series:
+
+(1900) Antiphonaire de Hartker, manuscrits de Saint-Gall 390 - 391 ISBN 978-2-85274-143-0
+(1924) Cantatorium de Saint-Gall, s. IX ISBN 978-2-85274-121-8
+
+See also
+Roman Catholic liturgical books
+Latin Psalters
+Gregorian chant
+Ambrosian hymns
+
+References
+This article incorporates text from a publication now in the public domain: Herbermann, Charles, ed. (1913). "Antiphonary". Catholic Encyclopedia. New York: Robert Appleton Company.
+
+External links
+Lewis E 6 Antiphonary, Dominican use at OPenn
+Lewis E 11 Antiphonary at OPenn
+Lewis E 12 Antiphonary at OPenn
+Lewis E 221 Antiphonary at OPenn
+Lewis E 222 Antiphonary at OPenn
+Lewis E 223 Antiphonary at OPenn
+Lewis E 233 Antiphonary at OPenn
+Lewis E 234 Antiphonary at OPenn
+19 Antiphonal at OPenn

@@ -1,0 +1,48 @@
+660
+Competitive programming
+Competitive programming or sport programming is a mind sport involving participants trying to program according to provided specifications. The contests are usually held over the Internet or a local network. Competitive programming is recognized and supported by several multinational software and Internet companies, such as Google, and Meta.
+A programming competition generally involves the host presenting a set of logical or mathematical problems, also known as puzzles or challenges, to the contestants (who can vary in number from tens or even hundreds to several thousand). Contestants are required to write computer programs capable of solving these problems. Judging is based mostly upon number of problems solved and time spent on writing successful solutions, but may also include other factors (quality of output produced, execution time, memory usage, program size, etc.).
+
+History
+One of the oldest contests known is the International Collegiate Programming Contest (ICPC) which originated in the 1970s and has grown to include 88 countries in its 2011 edition.
+From 1990 to 1994, Owen Astrachan, Vivek Khera and David Kotz ran one of the first distributed, internet-based programming contests inspired by the ICPC.
+Interest in competitive programming has grown extensively since 2000 to tens of thousands of participants (see Notable competitions), and is strongly connected to the growth of the Internet, which facilitates holding international contests online, eliminating geographical problems.
+
+Overview
+The aim of competitive programming is to write source code of computer programs which are able to solve given problems. A vast majority of problems appearing in programming contests are mathematical or logical in nature. Typical such tasks belong to one of the following categories: combinatorics, number theory, graph theory, algorithmic game theory, computational geometry, string analysis, discrete mathematics and data structures. Problems related to constraint programming and artificial intelligence are also popular in certain competitions.
+Irrespective of the problem category, the process of solving a problem can be divided into two broad steps: constructing an efficient algorithm, and implementing the algorithm in a suitable programming language (the set of programming languages allowed varies from contest to contest). These are the two most commonly tested skills in programming competitions.
+In most contests, the judging is done automatically by host machines, commonly known as judges. Every solution submitted by a contestant is run on the judge against a set of (usually secret) test cases. Normally, contest problems have an all-or-none marking system, meaning that a solution is "Accepted" only if it produces satisfactory results on all test cases run by the judge, and is rejected otherwise. However, some contest problems may allow for partial scoring, depending on the number of test cases passed, the quality of the results, or some other specified criteria. Some other contests only require that the contestant submit the output corresponding to given input data, in which case the judge only has to analyze the submitted output data.
+Online judges are online environments in which testing takes place. Online judges have rank lists showing users with the biggest number of accepted solutions and/or shortest execution time for a particular problem.
+
+Notable competitions
+[Algorithm](612) competitions
+In most of the above competitions, competitions are usually organized in several rounds. They usually start with online rounds, which conclude in the onsite final round. The top performers at IOI and ICPC receive gold, silver and bronze medals. In the other contests, cash prizes are awarded to the top finishers. The competitions also attract the interest of recruiters from multiple software and Internet companies, which often reach out to competitors with potential job offers.
+
+[Artificial intelligence](622) and machine learning
+List may be incomplete
+
+Contests focusing on open-source technologies
+List may be incomplete
+
+Online platforms
+The programming community around the world has created and maintained several internet-resources dedicated to competitive programming. They offer standalone contests with or without minor prizes. Users will typically be assigned a rating based on their performance on said contests. The archives of past problems are popular resources for training in competitive programming. There are several organizations that host programming competitions on a regular basis. These include:
+
+Benefits and criticism
+Participation in programming contests may increase student enthusiasm for computer science studies. The skills acquired in ICPC-like programming contests also improve career prospects, as they help to pass the "technical interviews", which often require candidates to solve complex programming and algorithmic problems on the spot.
+There has also been criticism of competitive programming, particularly from professional software developers. One critical point is that many fast-paced programming contests teach competitors bad programming habits and code style (like unnecessary use of macros, lack of OOP abstraction and comments, use of short variable names, etc.). Also, by offering only small algorithmic puzzles with relatively short solutions, programming contests like ICPC and IOI do not necessarily teach good software engineering skills and practices, as real software projects typically have many thousands of lines of code and are developed by large teams over long periods of time. Peter Norvig stated that based on the available data, being a winner of programming contests correlated negatively with a programmer's performance at their job at Google (even though contest winners had higher chances of getting hired). Norvig later stated that this correlation was observed on a small data set, but that it could not be confirmed after examining a larger data set.
+Yet another sentiment is that rather than "wasting" their time on excessive competing by solving problems with known solutions, high-profile programmers should rather invest their time in solving real-world problems.
+
+Literature
+Halim, S., Halim, F. (2013). Competitive Programming 3: The New Lower Bound of Programming Contests. Lulu.
+Laaksonen, A. (2017). Guide to Competitive Programming (Undergraduate Topics in Computer Science). Cham: Springer International Publishing.
+Xu, X. (2020) The development, prosperity and decline of Olympic in Informatics. Published online.
+Kostka, B. (2021). Sports programming in practice. University of Wrocław.
+
+See also
+[Algorithm](612)ic Puzzles
+Category:[Computer science](688) competitions
+Code golf
+Hackathon
+
+
+== References ==

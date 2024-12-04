@@ -1,0 +1,28 @@
+2782
+Germplasm Resources Information Network
+Germplasm Resources Information Network or GRIN is an online USDA National Genetic Resources Program software project to comprehensively manage the computer database for the holdings of all plant germplasm collected by the National Plant Germplasm System.
+GRIN has extended its role to manage information on the germplasm reposits of insect (invertebrate), microbial, and animal species (see sub-projects).
+
+Description
+The site is a resource for identifying taxonomic information (scientific names) as well as common names on more than 500,000 accessions (distinct varieties, cultivars etc.) of plants covering 10,000 species; both economically important ones and wild species. It profiles plants that are invasive or noxious weeds, threatened or endangered, giving out data on worldwide distribution of its habitat; as well as passport information. GRIN also incorporates an Economic Plants Database.
+The network is maintained by GRIN's Database Management Unit (GRIN/DBMU). GRIN is under the oversight of  National Germplasm Resources Laboratory (NGRL) in Beltsville, Maryland, which in 1990 replaced its forerunner, the Germplasm Services Laboratory (GSL), that had formerly run GRIN. Since November, 2015 GRIN has been running on GRIN-Global software produced by a collaborative project between the USDA and the Global Crop Diversity Trust.
+
+Sub-projects
+A stated mission of GRIN is to support the following projects:
+
+National Plant Germplasm System (NPGS)
+National Animal Germplasm Program (NAGP)
+National Microbial Germplasm Program (NMGP)
+National Invertebrate Germplasm Program (NIGP)
+
+See also
+International Plant Names Index
+List of electronic Floras (for online flora databases)
+Multilingual Multiscript Plant Name Database
+Natural Resources Conservation Service
+
+References
+External links
+
+Official website
+The NRCS also maintains the PLANT database

@@ -1,0 +1,34 @@
+430
+Anelloviridae
+Anelloviridae is a family of viruses. They are classified as vertebrate viruses and have a non-enveloped capsid, which is round with isometric, icosahedral symmetry and has a triangulation number of 3.
+The name is derived from Italian anello 'ring', referring to the circular genome of anelloviruses.
+
+Genome
+The genome is not segmented and contains a single molecule of circular, negative-sense, single-stranded DNA. The complete genome is 3000–4000 nucleotides long. They also contain a non-coding region with one to two  80–110 nt sequences that contain high GC content, forming a secondary structure of stems and loops. The genome has ORFs and a high degree of genetic diversity.
+Although the mechanism of replication has not been studied heavily, anelloviridae appears to use the rolling circle mechanism where first ssDNA is converted to dsDNA. It requires a host polymerase for replication to occur as the genome itself does not encode for a viral polymerase and, as a result, anelloviridae must replicate inside the cell's nucleus. 
+Anelloviridae also have two main open reading frames, ORF1 and ORF2. They initiate at two different AUG codons. Additional ORFs can be formed as well. These ORFs may overlap partially. 
+ORF1 is thought to encode the putative capsid protein and replication-associated protein of anelloviruses. The specific role of these replication-associated proteins are still being studied. 
+ORF2 is thought to either encode a protein with phosphatase activity (TTMVs) or a peptide that suppresses the NF-
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+  
+B pathways (TTVs). It was seen to have a highly conserved motif in the N-terminal part.
+
+Clinical
+Anellovirus species are highly prevalent and genetically diverse. Their virome has been present in most humans. They enter in the cell early in life and replicate persistently. This happens in the first month of life. It remains debated whether or not the first infection is symptomatic or not, however. They are probably repressed by host immunity, as the anelloviruses increase during host immunosuppression.
+The overall prevalence in the general population is over 90% and has been found in all continents. They cause chronic human viral infections that have not yet been associated with disease. There is also no evidence of viral clearance following infection. At least 200 different species are present in humans and animals.
+It has been shown that there are multiple methods of transmission such as saliva droplets and maternal or sexual routes.
+
+Taxonomy
+Most genera has a name pattern of a certain (Greek, Arabic or Hebrew) letter+torquevirus with the exception of gyrovirus, as Alphatorquevirus (where torque means necklace) is one of the first genera to represent the family. The family contains the following genera:
+
+References
+External links
+Anellovirus at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+ICTVdb
+Viral Zone

@@ -1,0 +1,11 @@
+517
+Afroaves
+Afroaves is a clade of birds, consisting of the kingfishers and kin (Coraciiformes), woodpeckers and kin (Piciformes), hornbills and kin (Bucerotiformes), trogons (Trogoniformes), cuckoo roller (Leptosomiformes), mousebirds (Coliiformes), owls (Strigiformes) and raptors ([Accipitriformes](504)). The most basal clades are predatory, suggesting the last common ancestor of Afroaves was also a predatory bird. This group was defined in the PhyloCode by George Sangster and colleagues in 2022 as "the least inclusive crown clade containing Accipiter nisus, Colius colius, and Picus viridis, but not Passer domesticus".
+
+Phylogeny
+The following cladogram of Afroaves relationships is based on Stiller et al (2024).
+
+Afroaves has not always been recovered as a monophyletic clade in subsequent studies. For instance, Prum et al. (2015) recovered the accipitrimorphs as the sister group to a clade (Eutelluraves) comprising the remaining afroavian orders and Australaves, while an analysis by Houde et al. (2019) recovered a clade of accipitrimorphs and owls as sister to the remaining landbirds. Wu et al. (2024) also found recovered and found support the clade of accipitrimorphs and owls (which they have named Hieraves), but found the clade to be sister to Australaves. Kukl et al. (2020) obtained an identical arrangement to Jarvis et al. (2014) but the position of the Strigiformes was only weakly supported by their data. Stiller et al. (2024) recovered the Afroaves as a clade but with the Strigiformes as sister to the Accipitrimorphae, rather than sister to the Coraciimorphae as in the Jarvis tree. Stiller et al. (2024) found that the support for their placement of the Strigiformes increased when additional taxa were included in the analysis.
+
+
+== References ==

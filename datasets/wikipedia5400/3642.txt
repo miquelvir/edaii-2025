@@ -1,0 +1,49 @@
+3642
+Arieh Warshel
+Arieh Warshel (Hebrew: אריה ורשל; born November 20, 1940) is an Israeli-American biochemist and biophysicist. He is a pioneer in computational studies on functional properties of biological molecules, Distinguished Professor of [Chemistry](3696) and Biochemistry, and holds the Dana and David Dornsife Chair in [Chemistry](3696) at the University of Southern California. He received the 2013 Nobel Prize in [Chemistry](3696), together with Michael Levitt and Martin Karplus for "the development of multiscale models for complex chemical systems".
+
+Biography
+Warshel was born to a Jewish family in 1940 in kibbutz Sde Nahum, Mandatory Palestine. Warshel served in the Israeli Armored Corps. After serving the Israeli Army (final rank Captain), Warshel attended the Technion, Haifa, where he received his BSc degree in chemistry, summa cum laude, in 1966. Subsequently, he earned both MSc and PhD degrees in Chemical Physics (in 1967 and 1969,  respectively), with Shneior Lifson at Weizmann Institute of Science, Israel. After his PhD, he did postdoctoral work at Harvard University until 1972, and from 1972 to 1976 he returned to the Weizmann Institute and worked for the Laboratory of Molecular Biology, Cambridge, England. After being denied tenure by Weizmann Institute in 1976, he joined the faculty of the department of chemistry at USC. He was awarded the 2013 Nobel Prize in [Chemistry](3696).
+As a soldier, he fought in both the 1967 Six-Day War and the 1973 Yom Kippur War, attaining the rank of captain in the IDF.
+As part of Shenzhen's 13th Five-Year Plan funding research in emerging technologies and opening "Nobel laureate research labs", in April 2017 he opened the Warshel Institute for Computational Biology at the Chinese University of Hong Kong, Shenzhen campus.
+
+Honors
+Warshel is known for his work on computational biochemistry and biophysics, in particular for pioneering computer simulations of the functions of biological systems, and for developing what is known today as Computational Enzymology.
+He is a member of many scientific organisations, most importantly:
+
+Elected member of the United States National Academy of Sciences (2009)
+Fellow of the Royal Society of [Chemistry](3696) (2008)
+Fellow of the Biophysical Society (2000)
+Fellow of the American Association for the Advancement of Science (2012)
+Honorary fellow of the Royal Society of [Chemistry](3696) (2014)
+Honorary doctorate at Bar-Ilan University (2014)
+Honorary doctorate of the Faculty of Science and Technology at Uppsala University (2015)
+
+Awards
+Annual Award of the International Society of Quantum Biology and Pharmacology (1993)
+Tolman Medal (2003)
+President's award for computational biology from  the ISQBP (2006)
+RSC Soft Matter and Biophysical [Chemistry](3696) Award (2012)
+Nobel Prize in [Chemistry](3696) (2013) together with Martin Karplus and Michael Levitt for "the development of multiscale models for complex chemical systems".
+Golden Plate Award of the American Academy of Achievement (2014)
+The Founders Award of the Biophysical Society (2014)
+The 2013 Israel Chemical Society Gold Medal (2014)
+
+Major research achievements
+Arieh Warshel made major contributions in introducing computational methods for structure–function correlation of biological molecules, pioneering and co-pioneering programs, methods and key concepts for detailed computational studies of functional properties of biological molecules using Cartesian-based force field programs, the combined Quantum [Chemistry](3696)/Molecular mechanics (i.e., QM/MM) method for simulating enzymatic reactions, the first molecular dynamics simulation of a biological process, microscopic electrostatic models for proteins, free energy perturbation in proteins and other key advances. It was for the development of these methods that Warshel shared the 2013 Nobel Prize in [Chemistry](3696).
+
+Books
+Arieh Warshel. From Kibbutz Fishponds to The Nobel Prize: Taking Molecular Functions into Cyberspace, World Scientific Publishing, 2021.
+
+See also
+List of Israeli Nobel laureates
+List of Jewish Nobel laureates
+Coarse-grained modeling
+Empirical valence bond
+
+References
+External links
+Faculty profile, USC Dornsife
+Warshel research group at the University of Southern California
+Wikidata: Q4790366 (Scholia)
+Arieh Warshel on Nobelprize.org

@@ -1,0 +1,10 @@
+186
+Barcode of Life Data System
+The Barcode of Life Data System (commonly known as BOLD or BOLDSystems) is a web platform specifically devoted to DNA barcoding. It is a cloud-based data storage and analysis platform developed at the Centre for Biodiversity Genomics in Canada. It consists of four main modules, a data portal, an educational portal, a registry of BINs (putative species), and a data collection and analysis workbench which provides an online platform for analyzing DNA sequences. Since its launch in 2005, BOLD has been extended to provide a range of functionality including data organization, validation, visualization and publication. The most recent version of the system, version 4, launched in 2017, brings a set of improvements supporting data collection and analysis but also includes novel functionality improving data dissemination, citation, and annotation. Before November 16, 2020, BOLD already contained barcode sequences for 318,105 formally described species covering animals, plants, fungi, protists (with ~8.9 million specimens).
+BOLD is freely available to any researcher with interests in DNA Barcoding. By providing specialized services, it aids in the publication of records that meet the standards needed to gain BARCODE designation in the international nucleotide sequence databases. Because of its web-based delivery and flexible data security model, it is also well positioned to support projects that involve broad research alliances.
+Data release of BOLD mainly originated from a project BARCODE 500K executed by the International Barcode of Life (iBOL) Consortium from 2010 to 2015. It aimed for data acquisition of DNA barcode records for 5M specimens representing 500K species. All the specimens collection, sequences assignment, information sorting are contributed by great amount of scientists, collaborators and facilities from nations over the world. Data accumulation increases the accuracy of DNA barcode identification and facilitates the attainment of barcoding of life.
+
+References
+External links
+
+Official website

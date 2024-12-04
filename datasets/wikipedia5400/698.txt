@@ -1,0 +1,123 @@
+698
+Continuous integration
+Continuous integration (CI) is the practice of integrating source code changes frequently and ensuring that the integrated codebase is in a workable state.
+Typically, developers merge changes to an integration branch, and an automated system builds and tests the software system. 
+Often, the automated process runs on each commit or runs on a schedule such as once a day. 
+Grady Booch first proposed the term CI in 1991, although he did not advocate integrating multiple times a day, but later, CI came to include that aspect.
+
+History
+The earliest known work (1989) on continuous integration was the Infuse environment developed by G. E. Kaiser, D. E. Perry, and W. M. Schell.
+In 1994, Grady Booch used the phrase continuous integration in Object-Oriented Analysis and Design with Applications (2nd edition) to explain how, when developing using micro processes, "internal releases represent a sort of continuous integration of the system, and exist to force closure of the micro process".
+In 1997, Kent Beck and Ron Jeffries invented extreme programming (XP) while on the Chrysler Comprehensive Compensation System project, including continuous integration. Beck published about continuous integration in 1998, emphasising the importance of face-to-face communication over technological support. In 1999, Beck elaborated more in his first full book on Extreme Programming. CruiseControl, one of the first open-source CI tools, was released in 2001.
+In 2010, Timothy Fitz published an article detailing how IMVU's engineering team had built and been using the first practical CD system. While his post was originally met with skepticism, it quickly caught on and found widespread adoption as part of the lean software development methodology, also based on IMVU.
+
+Practices
+The core activities of CI are developers co-locate code changes in a shared, integration area frequently and that the resulting integrated codebase is verified for correctness. The first part generally involves merging changes to a common version control branch. The second part generally involves automated processes including: building, testing and many other processes.
+Typically, a server builds from the integration area frequently; i.e. after each commit or periodically like once a day. The server may perform quality control checks such as running unit tests and collect software quality metrics via processes such as static analysis and performance testing.
+
+Related practices
+‹The template How-to is being considered for merging.› 
+This section lists best practices from practitioners for other practices that enhance CI.
+
+[Build automation](638)
+[Build automation](638) is a best practice.
+
+Atomic commits
+CI requires the version control system to support atomic commits; i.e., all of a developer's changes are handled as a single commit.
+
+Committing changes
+When making a code change, a developer creates a branch that is a copy of the current codebase. As other changes are committed to the repository, this copy diverges from the latest version.
+The longer development continues on a branch without merging to the integration branch, the greater the risk of multiple integration conflicts and failures when the developer branch is eventually merged back. When developers submit code to the repository they must first update their code to reflect the changes in the repository since they took their copy. The more changes the repository contains, the more work developers must do before submitting their own changes.
+Eventually, the repository may become so different from the developers' baselines that they enter what is sometimes referred to as "merge hell", or "integration hell", where the time it takes to integrate exceeds the time it took to make their original changes.
+
+Testing locally
+Proponents of CI suggest that developers should 
+use test-driven development and to
+ensure that all unit tests pass locally before committing to the integration branch so that one developer's work does not break another developer's copy. 
+Incomplete features can be disabled before committing, using feature toggles.
+
+[Continuous delivery](697) and continuous deployment
+[Continuous delivery](697) ensures the software checked in on an integration branch is always in a state that can be deployed to users, and continuous deployment automates the deployment process.
+[Continuous delivery](697) and continuous deployment are often performed in conjunction with CI and together form a [CI/CD](641) pipeline.
+
+Version control
+Proponents of CI recommend storing all files and information needed for building in version control, (for git a repository); that the system should be buildable from a fresh checkout and not require additional dependencies. 
+Martin Fowler recommends that all developers commit to the same integration branch.
+
+Automate the build
+[Build automation](638) tools automate building. 
+Proponents of CI recommend that a single command should have the capability of building the system. 
+Automation often includes automating the integration, which often includes deployment into a production-like environment. In many cases, the build script not only compiles binaries but also generates documentation, website pages, statistics and distribution media (such as Debian DEB, Red Hat RPM or Windows MSI files).
+
+Commit frequently
+Developers can reduce the effort of resolving conflicting changes by synchronizing changes with each other frequently; at least daily. Checking in a week's worth of work risks conflict both in likelihood of occurrence and complexity to resolve. Relatively small conflicts are significantly easier to resolve than larger ones. Integrating (committing) changes at least once a day is considered good practice, and more often better.
+
+Daily build
+Building daily, if not more often, is generally recommended.
+
+Every commit should be built
+The system should build commits to the current working version to verify that they integrate correctly. A common practice is to use Automated Continuous Integration, although this may be done manually. Automated Continuous Integration employs a continuous integration server or daemon to monitor the revision control system for changes, then automatically run the build process.
+
+Every bug-fix commit should come with a test case
+When fixing a bug, it is a good practice to push a test case that reproduces the bug. This avoids the fix to be reverted, and the bug to reappear, which is known as a regression.
+
+Keep the build fast
+The build needs to complete rapidly so that if there is a problem with integration, it is quickly identified.
+
+Test in a clone of the production environment
+Having a test environment can lead to failures in tested systems when they deploy in the production environment because the production environment may differ from the test environment in a significant way. However, building a replica of a production environment is cost-prohibitive. Instead, the test environment or a separate pre-production environment ("staging") should be built to be a scalable version of the production environment to alleviate costs while maintaining technology stack composition and nuances. Within these test environments, service virtualisation is commonly used to obtain on-demand access to dependencies (e.g., APIs, third-party applications, services, mainframes, etc.) that are beyond the team's control, still evolving, or too complex to configure in a virtual test lab.
+
+Make it easy to get the latest deliverables
+Making builds readily available to stakeholders and testers can reduce the amount of rework necessary when rebuilding a feature that doesn't meet requirements. Additionally, early testing reduces the chances that defects survive until deployment. Finding errors earlier can reduce the amount of work necessary to resolve them.
+All programmers should start the day by updating the project from the repository. That way, they will all stay up to date.
+
+Everyone can see the results of the latest build
+It should be easy to find out whether the build breaks and, if so, who made the relevant change and what that change was.
+
+Automate deployment
+Most CI systems allow the running of scripts after a build finishes. In most situations, it is possible to write a script to deploy the application to a live test server that everyone can look at. A further advance in this way of thinking is continuous deployment, which calls for the software to be deployed directly into production, often with additional automation to prevent defects or regressions.
+
+Benefits
+CI benefits include:
+
+Facilitates detecting bugs earlier
+Reduces effort to find cause of bugs; if a CI test fails then changes since last good build contain causing change; if build after each change then exactly one change is the cause
+Avoids the chaos of integrating many changes
+When a test fails or a bug is found, reverting the codebase to a good state results in fewer lost changes
+Frequent availability of a known-good build for testing, demo, and release
+Frequent code commit encourages modular, less complex code
+Quick feedback on system-wide impact of code changes
+Supports collection of software metrics such as code coverage, code complexity
+
+Risks
+Risks of CI include:
+
+Build system setup requires effort
+Writing and maintaining an automated test suite requires effort
+Value added depends on the quality of tests
+High build latency (sitting in queue) limits value
+Implies that incomplete code should not be integrated which is counter to some developer's preferred practice
+Safety and mission-critical development assurance (e.g., DO-178C, ISO 26262) require documentation and review which may be difficult to achieve
+
+Best practices for cloud systems
+The following practices can enhance productivity of pipelines, especially in systems hosted in the cloud: 
+
+Number of Pipelines: Small teams can be more productive by having one repository and one pipeline. In contrast, larger organizations may have separate repositories and pipelines for each team or even separate repositories and pipelines for each service within a team.
+Permissions: In the context of pipeline-related permissions, adhering to the principle of least privilege can be challenging due to the dynamic nature of architecture. Administrators may opt for more permissive permissions while implementing compensating security controls to minimize the blast radius.
+
+See also
+Application release automation – Process of packaging and deploymentPages displaying short descriptions of redirect targets
+Build light indicator – visual device used in agile software development to inform the team on the build progressPages displaying wikidata descriptions as a fallback
+Comparison of continuous integration software
+Continuous design – modular design process in which components can be freely substituted to improve the design, modify performance or change another feature at a later timePages displaying wikidata descriptions as a fallback
+Continuous testing – process of executing automated tests as part of the software delivery pipeline to obtain immediate feedback on the business risks associated with a release candidatePages displaying wikidata descriptions as a fallback
+Multi-stage continuous integration – Software development technique
+Rapid application development – Concept of software development
+
+References
+External links
+"Continuous Integration" (wiki) (a collegial discussion). C2. {{cite journal}}: Cite journal requires |journal= (help)
+Richardson, Jared. "Continuous Integration: The Cornerstone of a Great Shop" (introduction).
+Flowers, Jay. "A Recipe for Build Maintainability and Reusability". Archived from the original on 25 June 2020. Retrieved 28 May 2006.
+Duvall, Paul (4 December 2007). "Developer works". IBM.
+"Version lifecycle". MediaWiki. June 2024.

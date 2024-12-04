@@ -1,0 +1,42 @@
+4198
+Barry Mazur
+Barry Charles Mazur (; born December 19, 1937) is an American mathematician and the Gerhard Gade University Professor at Harvard University. His contributions to mathematics include his contributions to Wiles's proof of Fermat's Last Theorem in number theory, Mazur's torsion theorem in arithmetic geometry, the Mazur swindle in geometric topology, and the Mazur manifold in differential topology.
+
+Life
+Born in New York City, Mazur attended the Bronx High School of Science, and left after his junior year to attend MIT; he did not graduate from the university on account of failing a then-present ROTC requirement. He was nonetheless accepted for graduate studies at [Princeton University](4018), where he received his PhD in mathematics in 1959 after completing a doctoral dissertation titled On embeddings of spheres. Thus, his only academic degree is a PhD. He then became a Junior Fellow at Harvard University from 1961 to 1964. He is the Gerhard Gade University Professor and a Senior Fellow at Harvard. He is the brother of Joseph Mazur and the father of Alexander J. Mazur.
+
+Work
+His early work was in geometric topology. In an elementary fashion, he proved the generalized Schoenflies conjecture (his complete proof required an additional result by Marston Morse), around the same time as Morton Brown.  Both Brown and Mazur received the Veblen Prize for this achievement.  He also discovered the Mazur manifold and the Mazur swindle.
+His observations in the 1960s on analogies between primes and knots were taken up by others in the 1990s giving rise to the field of arithmetic topology.
+Coming under the influence of Alexander Grothendieck's approach to algebraic geometry, he moved into areas of diophantine geometry. Mazur's torsion theorem, which gives a complete list of the possible torsion subgroups of elliptic curves over the rational numbers, is a deep and important result in the arithmetic of elliptic curves.  Mazur's first proof of this theorem depended upon a complete analysis of the rational points on certain modular curves.  This proof was carried in his seminal paper "Modular curves and the Eisenstein ideal".
+The ideas of this paper and Mazur's notion of Galois deformations, were among the key ingredients in Wiles's proof of Fermat's Last Theorem. Mazur and Wiles had earlier worked together on the main conjecture of Iwasawa theory.
+In an expository paper, Number Theory as Gadfly, Mazur describes number theory as a field which
+
+"produces, without effort, innumerable problems which have a sweet, innocent air about them, tempting flowers; and yet... number theory swarms with bugs, waiting to bite the tempted flower-lovers who, once bitten, are inspired to excesses of effort!"
+He expanded his thoughts in the 2003 book Imagining Numbers and Circles Disturbed, a collection of essays on mathematics and narrative that he edited with writer Apostolos Doxiadis.
+
+Awards and honors
+Mazur was elected to the [American Academy of Arts and Sciences](3132) in 1978. In 1982 he was elected a member of the National Academy of Sciences. Mazur was elected to the [American Philosophical Society](3133) in 2001, and in 2012 he became a fellow of the American Mathematical Society.
+Mazur has received the Veblen Prize in geometry (1966), the Cole Prize in number theory (1982), the Chauvenet Prize for exposition (1994), and the Steele Prize for seminal contribution to research (2000) from the American Mathematical Society. In early 2013, he was presented with one of the 2011 National Medals of Science by President [Barack Obama](3180). In 2022, he was awarded the Chern Medal for outstanding lifelong achievement in mathematics.
+
+Publications
+Books
+Mazur, Barry; Stein, William (2016). Prime numbers and the Riemann hypothesis. New York, NY: Cambridge University Press. ISBN 978-1-107-49943-0.
+Mazur, Barry; Jean-Pierre, Serre, eds. (2016). Collected works of John Tate : parts i and ii. American Mathematical Society. ISBN 978-0-8218-9091-2.
+Mazur, Barry (2003). Imagining numbers : (particularly the square root of minus fifteen). New York: Farrar Straus Giroux. ISBN 0-312-42187-7. MR 1950850.
+Katz, Nicholas M.; Mazur, Barry (1985). Arithmetic moduli of elliptic curves. Annals of Mathematics Studies, 108. [Princeton University](4018) Press. ISBN 0-691-08349-5. MR 0772569.
+
+See also
+Eigencurve
+Eisenstein ideal
+Iwasawa theory
+Microbundle
+Tate vector space
+
+References
+External links
+
+Barry Mazur, Harvard University
+O'Connor, John J.; Robertson, Edmund F., "Barry Mazur", MacTutor History of Mathematics Archive, University of St Andrews
+Video of Mazur talking about his work, from the National Science & Technology Medals Foundation
+Barry Mazur and the Infinite Cheese of Knowledge, a documentary about him and his family, made by Oliver Ralfe.

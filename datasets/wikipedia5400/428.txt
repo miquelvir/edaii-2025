@@ -1,0 +1,62 @@
+428
+Ancyromonadida
+Ancyromonadida or Planomonadida is a small group of biflagellated protists found in the soil and in aquatic habitats, where they feed on bacteria. Includes freshwater or marine organisms, benthic, dorsoventrally compressed and with two unequal flagellae, each emerging from a separate pocket.  The apical anterior flagellum can be very thin or end in the cell membrane, while the posterior flagellum is long and is inserted ventrally or laterally.  The cell membrane is supported by a thin single-layered theca and the mitochondrial crests are discoidal/flat.
+The group's placement is doubtful, as it seems to fall outside the five supergroups of eukaryotes. Cavalier-Smith considers that they constitute a basal group to [Amoebozoa](420) and Opisthokonta and places it together with other related groups in Sulcozoa. However, they appear more basal than Malawimonas, placing them in Loukozoa, possibly as stem podiates, and depending on the placement of the root position of the Eukaryotes.
+
+Phylogeny
+Taxonomy
+
+Order Ancyromonadida Cavalier-Smith 1998 emend. Atkins 2000
+Family Planomonadidae Cavalier-Smith 2008 (may be paraphyletic)
+Genus Fabomonas Glücksman & Cavalier-Smith 2013
+Species F. tropica Glücksman & Cavalier-Smith 2013
+Species F. mesopelagica Yubuki et al. 2023
+Genus Planomonas Cavalier-Smith 2008 emend. Cavalier-Smith 2013
+Species P. brevis Glücksman & Cavalier-Smith 2013
+Species P. bulbosa Glücksman & Cavalier-Smith 2013
+Species P. cephalopora (Larsen & Patterson 1990) Cavalier-Smith 2008 Bodo cephalopora Larsen & Patterson 1990; Ancyromonas cephalopora (Larsen & Patterson 1990) Heiss, Walker & Simpson 2010
+Species P. elongata Glücksman & Cavalier-Smith 2013
+Species P. melba (Simpson & Patterson 1996) Cavalier-Smith 2008  Ancyromonas melba Patterson & Simpson 1996
+Species P. micra Cavalier-Smith 2008  Ancyromonas micra (Cavalier-Smith 2008) Heiss, Walker & Simpson 2010
+Family [Ancyromonadidae](429) Cavalier-Smith 1993 Phyllomonadidae Hada 1968
+Genus Ancyromonas Kent 1880 Phyllomonas Klebs 1892
+Species A. abrupta Skvortzov 1957
+Species A. atlantica Glücksman & Cavalier-Smith 2013
+Species A. contorta (Klebs 1883) Lemmermann 1914 Phyllomonas contorta Klebs 1883
+Species A. impluvium Lee 2015
+Species A. indica Glücksman & Cavalier-Smith 2013
+Species A. kenti Glücksman & Cavalier-Smith 2013
+Species A. lata Skvortzov 1957
+Species A. magna Zhang & Yang 1993
+Species A. mediterranea Yubuki et al. 2023
+Species A. metabolica Skvortzov 1957
+Species A. minuta Skvortzov 1958
+Species A. nitzschiae Skvortzov 1957
+Species A. pacifica Yubuki et al. 2023
+Species A. parasitica Massart
+Species A. prima Skvortzov 1957
+Species A. rotundata Skvortzov 1957
+Species A. rugosa Skvortzov 1957
+Species A. sigmoides Kent 1880 sensu Heiss, Walker & Simpson 2010 Planomonas mylnikovi Cavalier-Smith 2008
+Species A. sinistra Al-Qassab et al. 2002 Planomonas sinistra (Al-Qassab et al. 2002) Cavalier-Smith 2008
+Species A. socialis Skvortzov 1957
+Genus Caraotamonas Yubuki et al. 2023
+Species C. croatica Yubuki et al. 2023
+Genus Nutomonas Cavalier-Smith 2013
+Subgenus (Nutomonas) Cavalier-Smith 2013
+Species N. howeae (Cavalier-Smith 2008) Glücksman & Cavalier-Smith 2013 Planomonas howeae Cavalier-Smith 2008; Ancyromonas howeae (Cavalier-Smith 2008) Heiss, Walker & Simpson 2010
+Subspecies N. h. howeae (Cavalier-Smith 2008) Glücksman & Cavalier-Smith 2013
+Subspecies N. h. lacustris Glücksman & Cavalier-Smith 2013
+Species N. limna (Cavalier-Smith 2008) Glücksman & Cavalier-Smith 2013 Planomonas limna Cavalier-Smith 2008; Ancyromonas limna (Cavalier-Smith 2008) Heiss, Walker & Simpson 2010
+Subspecies N. l. limna (Cavalier-Smith 2008) Glücksman & Cavalier-Smith 2013
+Subspecies N. l. terrestris Cavalier-Smith & Glücksman 2013
+Genus Nyramonas Yubuki et al. 2023
+Species N. glaciarum Yubuki et al. 2023
+Species N. silfraensis Yubuki et al. 2023
+Genus Olneymonas Yubuki et al. 2023
+Species O. thurstoni Yubuki et al. 2023
+Genus Striomonas Cavalier-Smith 2013 stat. nov. Yubuki et al. 2023
+Species S. longa Cavalier-Smith & Glücksman 2013 stat. nov. Yubuki et al. 2023
+
+
+== References ==

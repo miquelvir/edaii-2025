@@ -1,0 +1,59 @@
+3688
+Charles H. Townes
+Charles Hard Townes (July 28, 1915 – January 27, 2015) was an American physicist. Townes worked on the theory and application of the maser, for which he obtained the fundamental patent, and other work in quantum electronics associated with both maser and laser devices. He shared the 1964 Nobel Prize in Physics with Nikolay Basov and [Alexander Prokhorov](3441). Townes was an adviser to the United States Government, meeting every US president from Harry S. Truman (1945) to Bill Clinton (1999).
+He directed the US government's Science and Technology Advisory Committee for the Apollo lunar landing program. After becoming a professor of the University of California, Berkeley in 1967, he began an astrophysical program that produced several important discoveries, for example, the black hole at the center of the Milky Way galaxy.
+Townes was religious and believed that science and religion are converging to provide a greater understanding of the nature and purpose of the universe.
+
+Early life and education
+Townes had German, Scottish, English, Welsh, Huguenot French, and Scotch Irish ancestry, Townes was born in Greenville, South Carolina, the son of Henry Keith Townes (1876–1958), an attorney, and Ellen Sumter Townes (née Hard; 1881–1980).  His brother, Henry Keith Townes Jr., (January 20, 1913 – May 2, 1990), was a renowned entomologist who was a world authority on Ichneumon wasps. Charles earned his B.S. in Physics and B.A. in Modern Languages at Furman University, where he graduated in 1935. Townes completed work for the Master of Arts degree in physics at Duke University in 1937, and then began graduate school at the California Institute of Technology, from which he received a Ph.D. degree in 1939. During World War II, he worked on radar bombing systems at [Bell Labs](834).
+
+Career and research
+In 1950, Townes was appointed professor at [Columbia University](2080). He served as executive director of the Columbia Radiation Laboratory from 1950 to 1952. He was Chairman of the Physics Department from 1952 to 1955.
+
+In 1951, Townes conceived a new way to create intense, precise beams of coherent radiation, for which he invented the acronym maser (for Microwave Amplification by Stimulated Emission of Radiation). When the same principle was applied to higher frequencies, the term laser was used (the word "light" substituting for the word "microwave").
+During 1953, Townes, James P. Gordon, and Herbert J. Zeiger built the first ammonia maser at [Columbia University](2080). This device used stimulated emission in a stream of energized ammonia molecules to produce amplification of microwaves at a frequency of about 24.0 gigahertz.
+From 1959 to 1961, he was on leave of absence from [Columbia University](2080) to serve as vice president and director of research of the Institute for Defense Analyses in Washington, D.C., a nonprofit organization, which advised the U.S. government and was operated by eleven universities.  Between 1961 and 1967, Townes served as both provost and professor of physics at the Massachusetts Institute of Technology.  Then, during 1967, he was appointed as a professor of physics at the University of California at Berkeley, where he remained for almost 50 years; his status was as professor emeritus by the time of his death during 2015.  Between 1966 and 1970, he was chairman of the NASA Science Advisory Committee for the Apollo lunar landing program.
+For his creation of the maser, Townes along with Nikolay Basov and [Alexander Prokhorov](3441) received the 1964 Nobel Prize in Physics.  Townes also developed the use of masers and lasers for astronomy, was part of a team that first discovered complex molecules in space, and determined the mass of the supermassive black hole at the centre of the Milky Way galaxy.
+During 2002–2003, Townes served as a Karl Schwarzschild Lecturer in Germany and the Birla Lecturer and Schroedinger Lecturer in [India](2798).
+Townes is one of the 20 American recipients of the Nobel Prize in Physics to sign a letter addressed to President George W. Bush in May 2008, urging him to "reverse the damage done to basic science research in the Fiscal Year 2008 Omnibus Appropriations Bill" by requesting additional emergency funding for the Department of Energy's Office of Science, the National Science Foundation, and the National Institute of Standards and Technology.
+
+Astrophysics
+Galactic Center
+The Galactic Center of the Milky Way had long puzzled astronomers, and thick dust obscures the view of it in visible light. During the mid to late 1970s, Townes together with Eric Wollman, John Lacy, Thomas Geballe and Fred Baas studied Sagittarius A, the H II region at the Galactic Center, at infrared wavelengths. They observed ionized neon gas swirling around the center at such velocities that the mass at the very center must be approximately equal to that of 3 million suns. Such a large mass in such a small space implied that the central object (the radio source Sagittarius A*) contains a supermassive black hole. Sagittarius A* was one of the first black holes detected; subsequently its mass has been more accurately determined to be 4.3 million solar masses.
+
+Shapes and sizes of stars
+Townes's last major technological creation was the Infrared Spatial Interferometer with Walt Fitelson, Ed Wishnow and others. The project combined three mobile infrared detectors aligned by lasers that study the same star. If each telescope is 10 meters from the other, it creates an impression of a 30-meter lens. Observations of Betelgeuse, a red giant in the shoulder of the constellation Orion, found that it is increasing and decreasing in size at the rate of 1% per year, 15% over 15 years. ISI produces extremely high angular and spatial resolution. The technology is also playing an important role in the search for extraterrestrial life in collaborations with Dan Werthimer of Search for Extraterrestrial Intelligence (SETI).
+
+Personal life and legacy
+Townes married Frances H. Brown, an activist for the homeless, during 1941. They lived in Berkeley, California and had four daughters, Linda Rosenwein, Ellen Anderson, Carla Kessler, and Holly Townes.
+A religious man and a member of the United Church of Christ, Townes believed that "science and religion are quite parallel, much more similar than most people think and that in the long run, they must converge".  He wrote in a statement after winning the Templeton Prize during 2005: "Science tries to understand what our universe is like and how it works, including us humans. Religion is aimed at understanding the purpose and meaning of our universe, including our own lives. If the universe has a purpose or meaning, this must be reflected in its structure and functioning, and hence in science."
+
+Science and religion
+Townes's opinions concerning science and religion were expounded in his essays "The Convergence of Science and Religion", "Logic and Uncertainties in Science and Religion", and his book Making Waves. Townes felt that the beauty of nature is "obviously God-made" and that God created the universe for humans to emerge and flourish. He prayed every day and ultimately felt that religion is more important than science because it addresses the most important long-range question: the meaning and purpose of our lives. Townes's belief in the convergence of science and religion is based on claimed similarities:
+
+Faith. Townes argued that the scientist has faith much like a religious person does, allowing him/her to work for years for an uncertain result.
+Revelation. Townes claimed that many important scientific discoveries, like his invention of the maser/laser, occurred as a "flash" much more akin to religious revelation than interpreting data.
+Proof. During this century the mathematician Godel discovered there can be no absolute proof in a scientific sense. Every proof requires a set of assumptions, and there is no way to check if those assumptions are self-consistent because other assumptions would be required.
+Uncertainty. Townes believed that we should be open-minded to a better understanding of science and religion in the future. This will require us to modify our theories, but not abandon them. For example, at the start of the 20th century physics was largely deterministic. But when scientists began studying the quantum mechanics they realized that indeterminism and chance play a role in our universe. Both classical physics and quantum mechanics are correct and work well within their own bailiwick, and continue to be taught to students. Similarly, Townes believes growth of religious understanding will modify, but not make us abandon, our classic religious beliefs.
+
+Death
+Townes had steadily been active at the UCB campus, visiting and working regularly in the physics department or at the Space Sciences Laboratory past his 99th birthday and only a few months before his death. Townes' health began to decline, and he died on route to the hospital in Oakland, California, on January 27, 2015, at the age of 99.  "He was one of the most important experimental physicists of the last century," Reinhard Genzel, a professor of physics at Berkeley, said of Townes. "His strength was his curiosity and his unshakable optimism, based on his deep Christian spirituality."
+
+Selected publications
+Townes work was published widely in books and peer-reviewed journal articles, including:
+
+Awards and honors
+Townes was widely recognized for his scientific work and leadership.
+
+.
+
+References
+External links
+
+Charles Townes Oral History part 1 Childhood, college, career overview, Recorded at IEEE History Center, August 1991, Retrieved May 1, 2015
+Charles Townes Oral History part 2 Studies at Caltech and work at [Bell Labs](834) on the eve of World War II, Recorded at IEEE History Center, September 1992, Retrieved May 1, 2015
+The Learning Project Charles Hard Townes, physicist, astronomer, university professor. Interview for The Learning Project: Views of Authentic Learning, June 2005
+Charles H. Townes, Ph.D., Biography and Interview with American Academy of Achievement
+Charles H. Townes on Nobelprize.org  including the Nobel Lecture, December 11, 1964 Production of Coherent Radiation by Atoms and Molecules
+Massachusetts Institute of Technology, Office of the Provost, Records of Charles H. Townes, AC-0031. Department of Distinctive Collections, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+P. Buford Price and Reinhard Genzel, "Charles H. Townes", Biographical Memoirs of the National Academy of Sciences (2016)

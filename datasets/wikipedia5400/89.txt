@@ -1,0 +1,60 @@
+89
+Dominance (genetics)
+In genetics, dominance is the phenomenon of one variant (allele) of a gene on a chromosome masking or overriding the effect of a different variant of the same gene on the other copy of the chromosome. The first variant is termed dominant and the second is called recessive. This state of having two different variants of the same gene on each chromosome is originally caused by a mutation in one of the genes, either new (de novo) or inherited. The terms autosomal dominant or autosomal recessive are used to describe gene variants on non-sex chromosomes (autosomes) and their associated traits, while those on sex chromosomes (allosomes) are termed X-linked dominant, X-linked recessive or Y-linked; these have an inheritance and presentation pattern that depends on the sex of both the parent and the child (see Sex linkage). Since there is only one copy of the Y chromosome, Y-linked traits cannot be dominant or recessive. Additionally, there are other forms of dominance, such as incomplete dominance, in which a gene variant has a partial effect compared to when it is present on both chromosomes, and co-dominance, in which different variants on each chromosome both show their associated traits.
+Dominance is a key concept in Mendelian inheritance and classical genetics. Letters and Punnett squares are used to demonstrate the principles of dominance in teaching, and the upper-case letters are used to denote dominant alleles and lower-case letters are used for recessive alleles. An often quoted example of dominance is the inheritance of seed shape in peas. Peas may be round, associated with allele R, or wrinkled, associated with allele r. In this case, three combinations of alleles (genotypes) are possible: RR, Rr, and rr. The RR (homozygous) individuals have round peas, and the rr (homozygous) individuals have wrinkled peas. In Rr (heterozygous) individuals, the R allele masks the presence of the r allele, so these individuals also have round peas. Thus, allele R is dominant over allele r, and allele r is recessive to allele R.
+Dominance is not inherent to an allele or its traits (phenotype). It is a strictly relative effect between two alleles of a given gene of any function; one allele can be dominant over a second allele of the same gene, recessive to a third, and co-dominant with a fourth. Additionally, one allele may be dominant for one trait but not others. Dominance differs from epistasis, the phenomenon of an allele of one gene masking the effect of alleles of a different gene.
+
+Background
+Gregor Johann Mendel, "The Father of Genetics", promulgated the idea of dominance in the 1860s. However, it was not widely known until the early twentieth century. Mendel observed that, for a variety of traits of garden peas having to do with the appearance of seeds, seed pods, and plants, there were two discrete phenotypes, such as round versus wrinkled seeds, yellow versus green seeds, red versus white flowers or tall versus short plants. When bred separately, the plants always produced the same phenotypes, generation after generation. However, when lines with different phenotypes were crossed (interbred), one and only one of the parental phenotypes showed up in the offspring (green, round, red, or tall). However, when these hybrid plants were crossed, the offspring plants showed the two original phenotypes, in a characteristic 3:1 ratio, the more common phenotype being that of the parental hybrid plants. Mendel reasoned that each parent in the first cross was a homozygote for different alleles (one parent AA and the other parent aa), that each contributed one allele to the offspring, with the result that all of these hybrids were heterozygotes (Aa), and that one of the two alleles in the hybrid cross dominated expression of the other: A masked a. The final cross between two heterozygotes (Aa X Aa) would produce AA, Aa, and aa offspring in a 1:2:1 genotype ratio with the first two classes showing the (A) phenotype, and the last showing the (a) phenotype, thereby producing the 3:1 phenotype ratio.
+Mendel did not use the terms gene, allele, phenotype, genotype, homozygote, and heterozygote, all of which were introduced later. He did introduce the notation of capital and lowercase letters for dominant and recessive alleles, respectively, still in use today.
+In 1928, British population geneticist Ronald Fisher proposed that dominance acted based on natural selection through the contribution of modifier genes. In 1929, American geneticist Sewall Wright responded by stating that dominance is simply a physiological consequence of metabolic pathways and the relative necessity of the gene involved.
+
+Types of dominance
+Complete dominance (Mendelian)
+In complete dominance, the effect of one allele in a heterozygous genotype completely masks the effect of the other. The allele that masks are considered dominant to the other allele, and the masked allele is considered recessive.
+When we only look at one trait determined by one pair of genes, we call it monohybrid inheritance. If the crossing is done between parents (P-generation, F0-generation) who are homozygote dominant and homozygote recessive, the offspring (F1-generation) will always have the heterozygote genotype and always present the phenotype associated with the dominant gene.
+
+However, if the F1-generation is further crossed with the F1-generation (heterozygote crossed with heterozygote) the offspring (F2-generation) will present the phenotype associated with the dominant gene ¾ times. Although heterozygote monohybrid crossing can result in two phenotype variants, it can result in three genotype variants -  homozygote dominant, heterozygote and homozygote recessive, respectively.
+In dihybrid inheritance we look at the inheritance of two pairs of genes simultaneous. Assuming here that the two pairs of genes are located at non-homologous chromosomes, such that they are not coupled genes (see genetic linkage) but instead inherited independently. Consider now the cross between parents (P-generation) of genotypes homozygote dominant and recessive, respectively. The offspring (F1-generation) will always heterozygous and present the phenotype associated with the dominant allele variant.
+
+However, when crossing the F1-generation there are four possible phenotypic possibilities and the phenotypical ratio for the F2-generation will always be 9:3:3:1.
+
+Incomplete dominance (non-Mendelian)
+Incomplete dominance (also called partial dominance, semi-dominance, intermediate inheritance, or occasionally incorrectly co-dominance in reptile genetics) occurs when the phenotype of the heterozygous genotype is distinct from and often intermediate to the phenotypes of the homozygous genotypes. The phenotypic result often appears as a blended form of characteristics in the heterozygous state. For example, the snapdragon flower color is homozygous for either red or white. When the red homozygous flower is paired with the white homozygous flower, the result yields a pink snapdragon flower. The pink snapdragon is the result of incomplete dominance. A similar type of incomplete dominance is found in the four o'clock plant wherein pink color is produced when true-bred parents of white and red flowers are crossed. In quantitative genetics, where phenotypes are measured and treated numerically, if a heterozygote's phenotype is exactly between (numerically) that of the two homozygotes, the phenotype is said to exhibit no dominance at all, i.e. dominance exists only when the heterozygote's phenotype measure lies closer to one homozygote than the other.
+When plants of the F1 generation are self-pollinated, the phenotypic and genotypic ratio of the F2 generation will be 1:2:1 (Red:Pink:White).
+
+Co-dominance (non-Mendelian)
+Co-dominance occurs when the contributions of both alleles are visible in the phenotype and neither allele masks another.
+For example, in the ABO blood group system, chemical modifications to a glycoprotein (the H antigen) on the surfaces of blood cells are controlled by three alleles, two of which are co-dominant to each other (IA, IB) and dominant over the recessive i at the ABO locus. The IA and IB alleles produce different modifications. The enzyme coded for by IA adds an N-acetylgalactosamine to a membrane-bound H antigen. The IB enzyme adds a galactose. The i allele produces no modification. Thus the IA and IB alleles are each dominant to i (IAIA and IAi individuals both have type A blood, and IBIB and IBi individuals both have type B blood), but IAIB individuals have both modifications on their blood cells and thus have type AB blood, so the IA and IB alleles are said to be co-dominant.
+Another example occurs at the locus for the beta-globin component of hemoglobin, where the three molecular phenotypes of HbA/HbA, HbA/HbS, and HbS/HbS are all distinguishable by protein electrophoresis. (The medical condition produced by the heterozygous genotype is called sickle-cell trait and is a milder condition distinguishable from sickle-cell anemia, thus the alleles show incomplete dominance concerning anemia, see above). For most gene loci at the molecular level, both alleles are expressed co-dominantly, because both are transcribed into RNA.
+Co-dominance, where allelic products co-exist in the phenotype, is different from incomplete dominance, where the quantitative interaction of allele products produces an intermediate phenotype. For example, in co-dominance, a red homozygous flower and a white homozygous flower will produce offspring that have red and white spots. When plants of the F1 generation are self-pollinated, the phenotypic and genotypic ratio of the F2 generation will be 1:2:1 (Red:Spotted:White). These ratios are the same as those for incomplete dominance. Again, this classical terminology is inappropriate – in reality, such cases should not be said to exhibit dominance at all.
+
+Relationship to other genetic concepts
+Dominance can be influenced by various genetic interactions and it is essential to evaluate them when determining phenotypic outcomes. Multiple alleles, epistasis and pleiotropic genes are some factors that might influence the phenotypic outcome.
+
+Multiple alleles
+Although any individual of a diploid organism has at most two different alleles at a given locus, most genes exist in a large number of allelic versions in the population as a whole. This is called polymorphism, and is caused by mutations. Polymorphism can have an effect on the dominance relationship and phenotype, which is observed in the ABO blood group system. The gene responsible for human blood type have three alleles; A, B, and O, and their interactions result in different blood types based on the level of dominance the alleles expresses towards each other.
+
+Pleiotropic genes
+Pleiotropic genes are genes where one single gene affects two or more characters (phenotype). This means that a gene can have a dominant effect on one trait, but a more recessive effect on another trait.
+
+Epistasis
+Epistasis is interactions between multiple alleles at different loci. Easily said, several genes for one phenotype. The dominance relationship between alleles involved in epistatic interactions can influence the observed phenotypic ratios in offspring.
+
+See also
+Ambidirectional dominance
+List of Mendelian traits in humans
+Mitochondrial DNA
+Punnett square
+Penetrance
+Summation theorems (biochemistry)
+Chimerism
+
+References
+"On-line notes for Biology 2250 – Principles of Genetics". Memorial University of Newfoundland.
+Online Mendelian Inheritance in Man (OMIM): Hemoglobin—Beta Locus; HBB - 141900 — Sickle-Cell Anemia
+Online Mendelian Inheritance in Man (OMIM): ABO Glycosyltransferase - 110300 — ABO blood groups
+
+External links
+"Online Mendelian Inheritance in Man" (OMIM)
+"Autosomal dominance of Huntington's Disease". Huntington's Disease Outreach Project for Education at Stanford

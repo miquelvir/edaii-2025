@@ -1,0 +1,88 @@
+2713
+Berry (botany)
+In botany, a berry is a fleshy fruit without a stone (pit) produced from a single flower containing one ovary. Berries so defined include grapes, currants, and tomatoes, as well as cucumbers, eggplants (aubergines), persimmons and bananas, but exclude certain fruits that meet the culinary definition of berries, such as strawberries and raspberries. The berry is the most common type of fleshy fruit in which the entire outer layer of the ovary wall ripens into a potentially edible "pericarp". Berries may be formed from one or more carpels from the same flower (i.e. from a simple or a compound ovary). The seeds are usually embedded in the fleshy interior of the ovary, but there are some non-fleshy exceptions, such as Capsicum species, with air rather than pulp around their seeds.
+Many berries are edible, but others, such as the fruits of the potato and the deadly nightshade, are poisonous to humans.
+A plant that bears berries is said to be bacciferous or baccate (from Latin bacca).
+In everyday English, a "berry" is any small edible fruit. Berries are usually juicy, round, brightly coloured, sweet or sour, and do not have a stone or pit, although many small seeds may be present.
+
+Botanical berries
+In botanical language, a berry is a simple fruit having seeds and fleshy pulp (the pericarp) produced from the ovary of a single flower. The ovary can be inferior or superior. It is indehiscent, i.e. it does not have a special "line of weakness" along which it splits to release the seeds when ripe. The pericarp is divided into three layers. The outer layer is called the "exocarp" or "epicarp"; the middle layer, the "mesocarp" or "sarcocarp"; the inner layer, the "endocarp". Botanists have not applied these terms consistently. Exocarp and endocarp may be restricted to more-or-less single-layered "skins", or may include tissues adjacent to them; thus on one view, the exocarp extends inwards to the layer of vascular bundles ("veins"). The inconsistency in usage has been described as "a source of confusion".
+The nature of the endocarp distinguishes a berry from a drupe, which has a hardened or stony endocarp (see also below). The two kinds of fruit intergrade, depending on the state of the endocarp. Some sources have attempted to quantify the difference, e.g. requiring the endocarp to be less than 2 mm thick in a berry.
+Examples of botanical berries include:
+
+Modified berries
+"True berries", or "baccae", may also be required to have a thin outer skin, not self-supporting when removed from the berry. This distinguishes, for example, a Vaccinium or Solanum berry from an Adansonia (baobab) amphisarca, which has a dry, more rigid and self-supporting skin. The fruit of citrus, such as the orange, kumquat and lemon, is a berry with a thick rind and a very juicy interior divided into segments by septa, that is given the special name "hesperidium". A specialized term, pepo, is also used for fruits of the gourd family, [Cucurbitaceae](2747), which are modified to have a hard outer rind, but are not internally divided by septa. The fruits of Passiflora (passion fruit) and Carica (papaya) are sometimes also considered pepos.
+Berries that develop from an inferior ovary are sometimes termed epigynous berries or false berries, as opposed to true berries, which develop from a superior ovary. In epigynous berries, the berry includes tissue derived from parts of the flower other than the ovary. The floral tube, formed from the basal part of the sepals, petals and stamens, can become fleshy at maturity and is united with the ovary to form the fruit. Common fruits that are sometimes classified as epigynous berries include bananas, coffee, members of the genus Vaccinium (e.g., cranberries and blueberries), and members of the family [Cucurbitaceae](2747) (gourds, cucumbers, melons and squash).
+
+Berry-like fruits
+Many fruits which are berries in the culinary definition are not berries in the botanic sense, but fall into one of the following categories:
+
+Drupes
+Drupes are varyingly distinguished from botanical berries. Drupes are fleshy fruits produced from a (usually) single-seeded ovary with a hard woody layer (called the endocarp) surrounding the seed. Familiar examples include the stonefruits of the genus Prunus (peaches, plums and cherries), olives, coconut, dates, bayberry and Persea species. Some definitions make the mere presence of an internally differentiated endocarp the defining feature of a drupe; others qualify the nature of the endocarp required in a drupe, e.g. defining berries to have endocarp less than 2 mm thick. The term "drupaceous" is used of fruits that have the general structure and texture of a drupe, without necessarily meeting the full definition. Other drupe-like fruits with a single seed that lack the stony endocarp include sea-buckthorn (Hippophae rhamnoides, Elaeagnaceae), which is an achene, surrounded by a swollen hypanthium that provides the fleshy layer. [Fruit](2777)s of Coffea species are described as either drupes or berries.
+
+Pomes
+The pome fruits produced by plants in subtribe Pyrinae of family Rosaceae, such as apples and pears, have a structure (the core) in which tough tissue clearly separates the seeds from the outer softer pericarp. Although pomes are not botanical berries, Amelanchier pomes become soft at maturity, resembling a blueberry, and are commonly called Juneberries, serviceberries or Saskatoon berries.
+
+Aggregate fruits
+Aggregate or compound fruits contain seeds from different ovaries of a single flower, with the individual "fruitlets" joined at maturity to form the complete fruit. Examples of aggregate fruits commonly called "berries" include members of the genus Rubus, such as blackberry and raspberry. Botanically, these are not berries. Other large aggregate fruits, such as soursop (Annona muricata), are not usually called "berries", although some sources do use this term.
+
+Multiple fruits
+Multiple fruits are not botanical berries. Multiple fruits are the fruits of two or more multiple flowers that are merged or packed closely together. The mulberry is a berry-like example of a multiple fruit; it develops from a cluster of tiny separate flowers that become compressed as they develop into fruit.
+
+Accessory fruits
+Accessory fruits are not botanical berries. In accessory fruits, the edible part is not generated by the ovary. Berry-like examples include:
+
+Strawberry – the non-fleshy aggregate of seed-like achenes on its exterior is actually the "fruit", derived from an aggregate of ovaries; the fleshy part develops instead from the receptacle.
+Mock strawberry (Duchesnea indica) – structured just like a strawberry.
+Sea grape (Coccoloba uvifera; Polygonaceae) – the fruit is a dry capsule surrounded by fleshy calyx.
+
+Berry-like conifer seed cones
+The female seed cones of some conifers have fleshy and merged scales, giving them a berry-like appearance. Juniper "berries" (family Cupressaceae), in particular those of Juniperus communis, are used to flavour gin. The seed cones of species in the families Podocarpaceae and Taxaceae have a bright colour when fully developed, increasing the resemblance to true berries. The "berries" of yews (Taxus species) consist of a female seed cone with which develops a fleshy red aril partially enclosing the poisonous seed.
+
+History of terminology
+The Latin word baca or bacca (plural baccae) was originally used for "any small round fruit". Andrea Caesalpinus (1519–1603) classified plants into trees and herbs, further dividing them by properties of their flowers and fruit. He did not make the modern distinction between "fruits" and "seeds", calling hard structures like nuts semina or seeds. A fleshy fruit was called a pericarpium. For Caesalpinus, a true bacca or berry was a pericarpium derived from a flower with a superior ovary; one derived from a flower with an inferior ovary was called a pomum.
+In 1751, [Carl Linnaeus](2723) wrote Philosophia Botanica, considered to be the first textbook of descriptive systematic botany. He used eight different terms for fruits, one of which was bacca or berry, distinguished from other types of fruit such as drupa (drupe) and pomum (pome). A bacca was defined as "pericarpium farctum evalve, semina ceteroquin nuda continens", meaning "unvalved solid pericarp, containing otherwise naked seeds". The adjective "farctus" here has the sense of "solid with tissue softer than the outside; stuffed". A berry or bacca was distinguished from a drupe and a pome, both of which also had an unvalved solid pericarp; a drupe also contained a nut (nux) and a pome a capsule (capsula), rather than the berry's naked seeds. Linnaeus' use of bacca and pomum was thus significantly different from that of Caesalpinus. Botanists continue to differ on how fruit should be classified.
+Joseph Gaertner published a two-volume work, De Fructibus et Seminibus Plantarum (on the fruits and seeds of plants) between 1788 and 1792. In addition to Linnaeus' eight terms, he introduced seven more, including pepo for the berry-like fruits of cucurbits. A pepo was distinguished by being a fleshy berry with the seeds distant from the axis, and so nearer the fruit wall (i.e. by having "parietal placentation" in modern terminology). Nicaise Auguste Desvaux in 1813 used the terms hesperidium and amphisarca as further subdivisions of berries. A hesperidium, called by others bacca corticata (berry with a cortex), had separate internal compartments ("loges" in the original French) and a separable membraneous epicarp or skin. An amphisarca was described as woody on the outside and fleshy on the inside. "Hesperidium" remains in general use, but "amphisarca" is rarely used.
+There remains no universally agreed system of classification for fruits, and there continues to be "confusion over classification of fruit types and the definitions given to fruit terms".
+
+Evolution and phylogenetic significance
+By definition, berries have a fleshy, indehiscent pericarp, as opposed to a dry, dehiscent pericarp. Fossils show that early flowering plants had dry fruits; fleshy fruits, such as berries or drupes, appeared only towards the end of the Cretaceous Period or the beginning of the Paleogene Period, about 66 million years ago. The increasing importance of seed dispersal by fruit-eating vertebrates, both mammals and birds, may have driven the evolution of fleshy fruits. Alternatively, the causal direction may be the other way round. Large fleshy fruits are associated with moist habitats with closed tree canopies, where wind dispersal of dry fruits is less effective. Such habitats were increasingly common in the Paleogene and the associated change in fruit type may have led to the evolution of fruit eating in mammals and birds.
+[Fruit](2777) type has been considered to be a useful character in classification and in understanding the phylogeny of plants. The evolution of fruits with a berry-like pericarp has been studied in a wide range of flowering plant families. Repeated transitions between fleshy and dry pericarps have been demonstrated regularly. One well-studied family is the Solanaceae, because of the commercial importance of fruit such as tomatoes, bell peppers, and eggplants or aubergines. Capsules, which are dry dehiscent fruits, appear to be the original form of the fruit in the earliest diverging members of the family. Berries have then evolved at least three times: in Cestrum, Duboisia, and in the subfamily Solanoideae. Detailed anatomical and developmental studies have shown that the berries of Cestrum and those of the Solanoideae are significantly different; for example, expansion of the fruit during development involves cell divisions in the mesocarp in Solanoideae berries, but not in Cestrum berries.
+When fruits described as berries were studied in the family Melastomaceae, they were found to be highly variable in structure, some being soft with an endocarp that soon broke down, others having a hard, persistent endocarp, even woody in some species. [Fruit](2777)s classified as berries are thus not necessarily homologous, with the fleshy part being derived from different parts of the ovary, and with other structural and developmental differences. The presence or absence of berries is not a reliable guide to phylogeny. Indeed, fruit type in general has proved to be an unreliable guide to flowering plant relationships.
+
+Uses
+Culinary
+Berries, defined loosely, have been valuable as a food source to humans since before the start of agriculture, and remain among the primary food sources of other primates. Botanically defined berries with culinary uses include:
+
+Berries in the strictest sense: including bananas and plantains, blueberries, cranberries, coffee berries, gooseberries, red-, black- and white currants, tomatoes, grapes and peppers (Capsicum fruits)
+Hesperidia: citrus fruits, including oranges, lemons and limes
+Pepos: cucurbits, including squashes, cucumbers, melons and watermelons
+Some berries are brightly coloured, due to plant pigments such as anthocyanins and other flavonoids. These pigments are localized mainly in the outer surface and the seeds. Such pigments have antioxidant properties in vitro, but there is no reliable evidence that they have antioxidant or any other useful functions within the human body. Consequently, it is not permitted to claim that foods containing plant pigments have antioxidant health value on product labels in the United States or Europe.
+Some spices are prepared from berries. Allspice is made from the dried berries of Pimenta dioica. The fruits (berries) of different cultivars of Capsicum annuum are used to make paprika (mildly hot), chili pepper (hot) and cayenne pepper (very hot).
+
+Others
+Pepos, characterized by a hard outer rind, have also been used as containers by removing the inner flesh and seeds and then drying the remaining exocarp. The English name of Lagenaria siceraria, "bottle gourd", reflects its use as a liquid container.
+Some true berries have also been used as a source of dyes. In [Hawaii](2789), these included berries from a species of Dianella, used to produce blue, and berries from black nightshade (Solanum americanum), used to produce green.
+
+History
+Cucurbit berries or pepos, particularly from Cucurbita and Lagenaria, are the earliest plants known to be domesticated – before 9,000–10,000 BP in the Americas, and probably by 12,000–13,000 BP in Asia. Peppers were domesticated in Mesoamerica by 8,000 BP. Many other early cultivated plants were also berries by the strict botanical definition, including grapes, domesticated by 8,000 BP and known to have been used in wine production by 6,000 BP.
+Bananas were first domesticated in Papua New Guinea and Southeast Asia. Archaeological and palaeoenvironmental evidence at Kuk Swamp in the Western Highlands Province of Papua New Guinea suggests that banana cultivation there goes back to at least 7,000 BP, and possibly to 10,000 BP.
+The history of cultivated citrus fruit remains unclear, although some recent research suggests a possible origin in Papuasia rather than continental southeast Asia. Chinese documents show that mandarins and pomelos were established in cultivation there by around 4,200 BP.
+
+Commercial production
+According to FAOSTAT data, in 2013 four of the five top fruit crops in terms of world production by weight were botanical berries. The other was a pome (apples).
+
+†Citrus fruit includes, but is not limited to, oranges, lemons, limes, grapefruit (including pomelos), tangerines, mandarins, clementines and satsumas. Oranges make up 53% of the total.
+According to FAOSTAT, in 2001, bananas (including plantains) and citrus comprised over 25% by value of the world's exported fruits and vegetables, citrus fruits being more valuable than bananas. Export quantities of fruit are not entirely comparable with production quantities, since slightly different categories are used. The top five fruit exports by weight in 2012 are shown in the table below. The top two places are again occupied by bananas and citrus.
+
+†Citrus fruit includes oranges, lemons, limes, grapefruit (including pomelos), tangerines, mandarins, clementines and satsumas. Oranges make up 43% of the total.
+‡Prepared fruit here is "fruit, nuts and peel, including frozen, prepared or preserved, jam, paste, marmalade, purée and cooked fruits, other than those listed separately".
+
+See also
+List of culinary fruits
+
+Notes
+References
+
+
+== External links ==

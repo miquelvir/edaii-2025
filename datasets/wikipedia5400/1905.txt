@@ -1,0 +1,91 @@
+1905
+Air hockey
+Air hockey is a Pong-like tabletop sport where two opposing players try to score goals against each other on a low-friction table using two hand-held discs (mallets/pushers) and a lightweight plastic puck.
+The air hockey table has raised edges that allow the puck to reflect off horizontally, and a very smooth, slippery surface that further reduces friction by suspending the puck on a thin cushion of air ejected from tiny vent holes built inside the surface. This causes the puck to hover and move easily across the table with little loss of velocity, which simulates the lubricated sliding of an ice hockey puck across a well polished rink, hence the name of the game.
+
+Federations
+United States Air Hockey Association (USAA) – 1978
+Air Hockey Players Association (AHPA) – 2015
+North Carolina Air Hockey Player Association (NCAHP) – 2016
+
+Air hockey tables
+A typical air hockey table consists of a large smooth playing surface designed to minimize friction, a surrounding rail to prevent the puck and mallets from leaving the table, and slots in the rail at either end of the table that serve as goals. On the ends of the table behind and below the goals, there is usually a puck return. Additionally, tables will typically have some sort of machinery that produces a cushion of air on the playing surface through tiny holes, with the purpose of reducing friction and increasing play speed. In some tables, the machinery is eschewed in favor of a slick table surface, usually plastic, in the interest of saving money in both manufacturing and maintenance costs. These tables are technically not air hockey tables, since no air is involved; however, they are still generally understood to be as such due to the basic similarity of gameplay. There also exist pucks that use a battery and fan to generate their own air cushion, but as they are prone to breakage, they are commonly marketed only as toys. 
+
+ 
+The only tables that are approved for play and sanctioned by the USAA (United States Air Hockey Association) and the AHPA (Air Hockey Players Association) for tournament play are 8-foot tables. Approved tables include all Gold Standard Games 8-foot tables; some 8-foot tables from Dynamo; and the original 8-foot commercial Brunswick tables. Other full-size novelty-type tables with flashing lights on the field of play, painted rails, and/or smaller pucks are not approved for tournament play. There are also smaller air hockey tables having a size of 1.5, 2, or 2.5 feet, called mini air hockey tables.
+
+A mallet (sometimes called a goalie, striker or paddle) consists of a simple handle attached to a flat surface that will usually lie flush with the surface of the table. The most common mallets, called "high-tops", resemble small plastic sombreros, but other mallets, "flat-tops", are used with a shorter nub. 
+Air hockey pucks are discs made of Lexan polycarbonate resin. Standard USAA and AHPA-approved pucks are yellow, red, and green. In competitive play, a layer of thin white tape is placed on the face-up side. Air hockey pucks come in circles and other shapes (triangle, hexagon, octagon, or square).
+Four-player tables also exist, but they are not sanctioned for competitive play.
+
+Rules
+The basic rules of play are listed as follows:
+
+The first player to reach 7 points wins the match
+First possession of the puck is determined by a coin toss
+Players may strike the puck with any part of the mallet, and each player can only use one mallet
+Players have seven seconds to complete a shot towards the opposing goal
+Once scored on, the player has ten seconds to return the puck back into play
+When the puck is in contact with any part of the centerline, either player may strike the puck
+Players can position themselves anywhere around the table as long as they stay on their side of the centerline
+Each player is permitted a ten-second time out each match, and must be called by the player when they are in possession of the puck, or the puck is out of play
+"Palming" or any use of the hand in contact with the puck is not permitted
+Contact with the puck by any part of the player is prohibited
+“Goal tending” or using the hands to prevent a goal is prohibited
+Players cannot hit the puck off the table
+Fouls are issued to players who violate any of the rules. The player who receives the foul must turn possession of the puck over to the opponent. Technical fouls are issued for more severe violations, such a goal tending. When a technical foul is called, the opposing player is given a free shot on the offender's goal. The offender is not allowed to defend the shot, but can resume play if the shot misses and bounces off their end of the table.
+
+Gameplay
+Competitive (tournament) play is usually distinguished by the following:
+
+The mallet is gripped behind the knob using one's fingertips, not on top of it. This allows more wrist action and helps the player to move the mallet around the table faster.
+For basic defense, the mallet is kept centered at least 8 inches out from the goal. In this position, very slight movements to the left and right will block virtually all straight shots. To block bank shots, one pulls back quickly to the corners of the goal. This is known as the "triangle defense".
+Shots are often hit out of "drifts", where the puck travels in set patterns designed to throw off the opponent's expectations and timing. The most popular drifts are the "center", "diamond", "diagonal", and "L".
+Shots are often organized into groups of shots which are hit with the same apparent delivery but opposite directions, caused by hitting the puck at slightly different locations on the mallet. For example, a transverse motion of the right arm can lead to a "cut shot" to the left corner of the opponent's goal or a "right wall under" (bank off the right wall, into the right corner of the opponent's goal).
+
+History
+Air hockey is a game resting on an older technology, the air table. Air tables began as a conveyor technology allowing heavy objects like cardboard boxes to easily slide over a table surface. The original air tables of the 1940s had rather large holes that were plugged by ball bearings. An object sitting on the table would depress the balls, allowing air to escape and lift the object slightly off the table.
+By 1967, this had been refined and repurposed as a tool for teaching elementary physics. The table top was a sandwich of fiberboard or plexiglass sheets separated by a honeycomb structure. The top surface was drilled with a grid of small holes, and the space between the boards was supplied with low-pressure compressed air, just enough to allow "air pucks" to float over the surface.
+In 1968, Sega released an arcade electro-mechanical game similar to air hockey, MotoPolo. Based on polo, two players moved miniature motorbikes around inside a cabinet, with each player attempting to knock the balls into the opponent's goal.
+Air hockey was created by a group of Brunswick Billiards employees from 1969 to 1972. In 1969, a trio of Brunswick engineers – Phil Crossman, Bob Kenrick and Brad Baldwin – began work on creating a game using a low-friction surface. The project stagnated for several years until it was revived by Bob Lemieux, who then focused on implementing an abstracted version of ice hockey, with a thin disc, two strikers and slit-like goals equipped with photodetectors. It was then decided that the game might appeal to a larger market and air hockey was marketed and sold to the general public. The original patents reference Crossman, Kendrick and Lemieux, as well as earlier work on air tables.
+The game was an immediate financial success and by the mid-1970s there was interest in tournament play. As early as 1973, players in Houston had formed the Houston Air Hockey Association, and soon thereafter, the Texas Air-Hockey Players Association, codifying rules and promoting the sport through local tournaments at Houston pubs Carnabys and Damians, and the University of Houston.
+The United States Air-Table Hockey Association (USAA) was formed in 1975 by J. Phillip "Phil" Arnold, largely as an official sanctioning body. Since its inception, the USAA has sanctioned at least one national-level or World championship each year, crowning 12 different champions over 30 years. In March 2015, the Air Hockey Players Association (AHPA) was announced and is providing air hockey players with an additional organization also overseeing the sport of air hockey. The two organizations run independently but abide by a similar set of rules and share many of the same players. In July 2015, the AHPA crowned its first world champion and also the youngest in the history of the sport in Colin Cummings of Beaumont, Texas.
+Today, professional air hockey is played by a close-knit community of serious players around the world, with extensive player bases near Houston, San Francisco, Sacramento, Los Angeles, North Carolina, San Diego, Denver, Chicago, New York City, Boise, and Boston in the United States; [Barcelona](1000) in Spain; Saint Petersburg, Moscow, and Novgorod in Russia; and Most and Brno in the Czech Republic. In the late 1980s, Caracas, Venezuela served as a hotbed of activity; three-time World Champion Jose Mora and other finalists originated from there. By 1999 most of the Venezuelan activity had disappeared.
+
+Competitive air hockey
+Tournament history
+USAA World Championships
+Source:
+USAA Air Hockey World Championships by Houston-based United States Air Hockey Association (USAA):
+
+World Singles Championship Since 1978
+World Doubles Championship Since 1995
+
+AHPA World Championship
+Source:
+Air Hockey Players Association (AHPA) - Air Hockey World Championship
+
+US Championship
+European Championship
+Texas State Open
+Catalan Championship
+Russian Open
+Notes
+See also
+Table football
+International Table Hockey Federation
+Pong
+Table hockey
+ITHF table hockey
+Novuss
+Park golf
+Carrom
+Crokinole
+Pichenotte
+Pitchnut
+Chapayev (game)
+Golf Billiards
+
+References
+External links
+NCAHP (North Carolina Air Hockey Players) website

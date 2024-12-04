@@ -1,0 +1,57 @@
+807
+Adobe Flash Builder
+[Adobe Flash](806) Builder (previously known as Adobe Flex Builder) is an integrated development environment (IDE) built on the Eclipse platform that speeds development of rich Internet applications (RIAs) and cross-platform desktop applications, particularly for the Adobe AIR platform. [Adobe Flash](806) Builder 4 is available in two editions: Standard and Premium.
+[Adobe Flash](806) Builder offers built-in code editors for MXML and ActionScript and a WYSIWYG editor for modifying MXML applications. [Adobe Flash](806) Builder includes an interactive debugger, allowing developers to step through code execution while inspecting variables and watching expressions. Flex Builder 3 added support for performance analysis. The profiling view displays statistical information about memory use in addition to function call execution time.
+Prior to version 4, this product was known as Flex Builder. The name change is meant to signify its connection to other products in the [Adobe Flash](806) Platform and to create a clear distinction between the open source free Flex SDK and the IDE.
+
+Versions
+Macromedia Flex 1.0 and 1.5
+Macromedia targeted the enterprise application development market with its initial releases of Flex 1.0 and 1.5. The company offered the technology at a price around US$15,000 per CPU. Required for deployment, the Java EE application server compiled MXML and ActionScript on-the-fly into Flash applications (binary SWF files). Each server license included 5 licenses for the Flex Builder IDE.
+
+Adobe Flex 2
+Adobe significantly changed the licensing model for the Flex product line with the release of Flex 2. The core Flex 2 SDK, consisting of the command-line compilers and the complete class library of user interface components and utilities, was made available as a free download. Complete Flex applications can be built and deployed with only the Flex 2 SDK, which contains no limitations or restrictions compared to the same SDK included with the Flex Builder IDE.
+Adobe based the new version of Flex Builder on the open source Eclipse platform. The company released two versions of Flex Builder 2, Standard and Professional. The Professional version includes the Flex Charting Components library.
+Enterprise-oriented services remain available through Flex Data Services 2. This server component provides data synchronization, data push, publish-subscribe and automated testing. Unlike Flex 1.0 and 1.5, Flex Data Services is not required for the deployment of Flex applications.
+Coinciding with the release of Flex 2, Adobe introduced a new version of the ActionScript programming language, known as Actionscript 3, reflecting the latest ECMAScript specification. The use of ActionScript 3 and Flex 2 requires version 9 or later of the Flash Player runtime. Flash Player 9 incorporated a new and more robust virtual machine for running the new ActionScript 3.
+Flex was the first Macromedia product to be re-branded under the Adobe name.
+
+Adobe Flex 3
+On April 26, 2007 Adobe announced their intent to release the Flex 3 SDK (which excludes the Flex Builder IDE and the LiveCycle Data Services) under the terms of the Mozilla Public License. 
+Adobe released the first beta of Flex 3, codenamed Moxie, in June 2007. Major enhancements include integration with the new versions of Adobe's Creative Suite products, support for AIR (Adobe's new desktop application runtime), and the addition of profiling and refactoring tools to the Flex Builder IDE.
+
+[Adobe Flash](806) Builder and Flex 4
+Adobe released Flex 4.0 (code named Gumbo) on March 22, 2010. The Flex 4 development environment was rebranded from Adobe Flex Builder to [Adobe Flash](806) Builder, to indicate it produces applications for [Adobe Flash](806) Player, and is not a separate platform.
+Some themes that have incorporated into Flex 4:
+
+Design in Mind: The framework has been designed for continuous collaboration between designers and developers.
+Accelerated Development: Be able to take application development from conception to reality quickly.
+Horizontal Platform Improvements: Compiler performance, language enhancements, BiDirectional components, enhanced text (Flex 4 includes the new Text Layout Framework).
+Full Support for [Adobe Flash](806) Player 10 and above.
+Broadening Horizons: Finding ways to make a framework lighter, supporting more deployment runtimes, runtime MXML.
+Simpler skinning than the previous versions.
+Integration with [Adobe Flash](806) Catalyst.
+Custom templates
+Flash Builder is available in two versions: Standard and Premium, the premium adds the following features;
+
+Testing tools
+Memory and performance profilers
+An automated testing harness to connect to all the leading testing tools
+FlexUnit support
+command-line build capability
+
+[Adobe Flash](806) Builder 4.5 and Flex 4.5
+May 3, 2011, Adobe shipped Flash Builder 4.5 copying Flex 4.5 (SDK Only) which delivers full support for building Flex and ActionScript applications for Google Android, as well as support for building ActionScript applications for BlackBerry Tablet OS and Apple iOS. An update to Flash Builder 4.5 and Flex 4.5 adds support for building Flex applications for BlackBerry Tablet OS and Apple iOS.
+Flex 4.5 SDK delivers many new components and capabilities, along with integrated support in Flash Builder 4.5 and Flash Catalyst CS 5.5. With the Adobe Flex 4.5 SDK, which is governed by three main goals:
+
+Allow developers to use Flex for multiscreen application development
+Further, mature the Spark (skinning) architecture and component set which was introduced in Flex 4
+
+End of life
+[Adobe Flash](806) Builder 4.7 reached end of core support in 2017 and end of extended support in 2019.
+
+See also
+List of Eclipse-based software
+
+References
+External links
+Official website

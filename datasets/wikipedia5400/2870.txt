@@ -1,0 +1,107 @@
+2870
+Aroma compound
+An aroma compound, also known as an odorant, aroma, fragrance or flavoring, is a chemical compound that has a smell or odor. For an individual chemical or class of chemical compounds to impart a smell or fragrance, it must be sufficiently volatile for transmission via the air to the olfactory system in the upper part of the nose. As examples, various fragrant fruits have diverse aroma compounds, particularly strawberries which are commercially cultivated to have appealing aromas, and contain several hundred aroma compounds.
+Generally, molecules meeting this specification have molecular weights of less than 310. Flavors affect both the sense of taste and smell, whereas fragrances affect only smell.  Flavors tend to be naturally occurring, and the term fragrances may also apply to synthetic compounds, such as those used in cosmetics.
+Aroma compounds can naturally be found in various foods, such as fruits and their peels, wine, spices, floral scent, perfumes, fragrance oils, and essential oils. For example, many form biochemically during the ripening of fruits and other crops. Wines have more than 100 aromas that form as byproducts of fermentation. Also, many of the aroma compounds play a significant role in the production of compounds used in the food service industry to flavor, improve, and generally increase the appeal of their products.
+An odorizer may add a detectable odor to a dangerous odorless substance, like propane, natural gas, or hydrogen, as a safety measure.
+
+Aroma compounds classified by structure
+Esters
+Linear terpenes
+Cyclic terpenes
+Note: Carvone, depending on its chirality, offers two different smells.
+
+Aromatic
+Amines
+Other aroma compounds
+Alcohols
+[Furaneol](2876) (strawberry)
+1-Hexanol (herbaceous, woody)
+cis-3-Hexen-1-ol (fresh cut grass)
+Menthol (peppermint)
+
+Aldehydes
+High concentrations of aldehydes tend to be very pungent and overwhelming, but low concentrations can evoke a wide range of aromas.
+
+Acetaldehyde (ethereal)
+Hexanal (green, grassy)
+cis-3-Hexenal (green tomatoes)
+Furfural (burnt oats)
+Hexyl cinnamaldehyde
+Isovaleraldehyde – nutty, fruity, cocoa-like
+Anisic aldehyde – floral, sweet, hawthorn. It is a crucial component of chocolate, vanilla, strawberry, raspberry, apricot, and others.
+Cuminaldehyde (4-propan-2-ylbenzaldehyde) – Spicy, cumin-like, green
+
+Esters
+Fructone (fruity, apple-like)
+Ethyl methylphenylglycidate ([Strawberry](2800))
+alpha-Methylbenzyl acetate (Gardenia)
+
+Ketones
+Cyclopentadecanone (musk-ketone)
+Dihydrojasmone (fruity woody floral)
+Oct-1-en-3-one (blood, metallic, mushroom-like)
+2-Acetyl-1-pyrroline (fresh bread, jasmine rice)
+6-Acetyl-2,3,4,5-tetrahydropyridine (fresh bread, tortillas, popcorn)
+
+Lactones
+gamma-Decalactone intense peach flavor
+gamma-Nonalactone coconut odor, popular in suntan lotions
+delta-Octalactone creamy note
+Jasmine lactone powerful fatty-fruity peach and apricot
+Massoia lactone powerful creamy coconut
+Wine lactone sweet coconut odor
+Sotolon (maple syrup, curry, fenugreek)
+
+Thiols
+Thioacetone (2-propanethione) A lightly studied organosulfur. Its smell is so potent it can be detected several hundred meters downwind mere seconds after a container is opened.
+Allyl thiol (2-propenethiol; allyl mercaptan; CH2=CHCH2SH) (garlic volatiles and garlic breath)
+(Methylthio)methanethiol (CH3SCH2SH), the "mouse thiol", found in mouse urine and functions as a semiochemical for female mice
+Ethanethiol, commonly called ethyl mercaptan (added to propane or other liquefied-petroleum gases used as fuel gases)
+2-Methyl-2-propanethiol, commonly called tert-butyl mercaptan, is added as a blend of other components to natural gas used as fuel gas.
+Butane-1-thiol, commonly called butyl mercaptan, is a chemical intermediate.
+[Grape](2882)fruit mercaptan (grapefruit)
+Methanethiol, commonly called methyl mercaptan (after eating Asparagus)
+Furan-2-ylmethanethiol, also called furfuryl mercaptan (roasted coffee)
+Benzyl mercaptan (leek or garlic-like)
+
+Miscellaneous compounds
+Methylphosphine and dimethylphosphine (garlic-metallic, two of the most potent odorants known)
+Phosphine (zinc phosphide poisoned bait)
+Diacetyl (butter flavor)
+Acetoin (butter flavor)
+Nerolin (orange flowers)
+Tetrahydrothiophene (added to natural gas)
+2,4,6-Trichloroanisole (cork taint)
+Substituted pyrazines
+
+Aroma-compound receptors
+Animals that are capable of smell detect aroma compounds with their olfactory receptors. Olfactory receptors are cell-membrane receptors on the surface of sensory neurons in the olfactory system that detect airborne aroma compounds. Aroma compounds can then be identified by gas chromatography-olfactometry, which involves a human operator sniffing the GC effluent.
+In mammals, olfactory receptors are expressed on the surface of the olfactory epithelium in the nasal cavity.
+
+Safety and regulation
+In 2005–06, fragrance mix was the third-most-prevalent allergen in patch tests (11.5%). 'Fragrance' was voted Allergen of the Year in 2007 by the American Contact Dermatitis Society. An academic study in the United States published in 2016 has shown that "34.7 % of the population reported health problems, such as migraine headaches and respiratory difficulties, when exposed to fragranced products".
+The composition of fragrances is usually not disclosed in the label of the products, hiding the actual chemicals of the formula, which raises concerns among some consumers. In the United States, this is because the law regulating cosmetics protects trade secrets.
+In the United States, fragrances are regulated by the [Food and Drug Administration](2775) if present in cosmetics or drugs, by the Consumer Products Safety Commission if present in consumer products. No pre-market approval is required, except for drugs. Fragrances are also generally regulated by the Toxic Substances Control Act of 1976 that "grandfathered" existing chemicals without further review or testing and put the burden of proof that a new substance is not safe on the EPA. The EPA, however, does not conduct independent safety testing but relies on data provided by the manufacturer.
+A 2019 study of the top-selling skin moisturizers found 45% of those marketed as "fragrance-free" contained fragrance.
+
+List of chemicals used as fragrances
+In 2010, the International Fragrance Association  published a list of  3,059  chemicals used in 2011 based on a voluntary survey of its members, identifying about 90% of the world's production volume of fragrances.
+
+See also
+Aroma of wine
+Eau de toilette
+Flavour and Fragrance Journal
+Fragrances of the World
+Foodpairing
+Odor
+Odor detection threshold
+Odorizer, a device for adding an odorant to gas flowing through a pipe
+Olfaction
+Olfactory receptor
+Olfactory system
+Pheromone
+vabbing
+
+
+== References ==

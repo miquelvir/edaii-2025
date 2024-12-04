@@ -1,0 +1,60 @@
+909
+Application checkpointing
+Checkpointing is a technique that provides fault tolerance for computing systems. It involves saving a snapshot of an application's state, so that it can restart from that point in case of failure. This is particularly important for long-running applications that are executed in failure-prone computing systems.
+
+Checkpointing in distributed systems
+In the distributed computing environment, checkpointing is a technique that helps tolerate failures that would otherwise force a long-running application to restart from the beginning. The most basic way to implement checkpointing is to stop the application, copy all the required data from the memory to reliable storage (e.g., parallel file system), then continue with execution. In the case of failure, when the application restarts, it does not need to start from scratch. Rather, it will read the latest state ("the checkpoint") from the stable storage and execute from that point. While there is ongoing debate on whether checkpointing is the dominant I/O workload on distributed computing systems, the general consensus is that checkpointing is one of the major I/O workloads.
+There are two main approaches for checkpointing in the distributed computing systems: coordinated checkpointing and uncoordinated checkpointing. In the coordinated checkpointing approach, processes must ensure that their checkpoints are consistent. This is usually achieved by some kind of two-phase commit protocol algorithm. In the uncoordinated checkpointing, each process checkpoints its own state independently. It must be stressed that simply forcing processes to checkpoint their state at fixed time intervals is not sufficient to ensure global consistency. The need for establishing a consistent state (i.e., no missing messages or duplicated messages) may force other processes to roll back to their checkpoints, which in turn may cause other processes to roll back to even earlier checkpoints, which in the most extreme case may mean that the only consistent state found is the initial state (the so-called domino effect).
+
+Implementations for applications
+Save State
+One of the original and now most common means of application checkpointing was a "save state" feature in interactive applications, in which the user of the application could save the state of all variables and other data and either continue working or exit the application and restart the application and restore the saved state at a later time. This was implemented through a "save" command or menu option in the application. In many cases, it became standard practice to ask the user, if they had unsaved work when exiting an application, if they wanted to save their work before doing so.
+This functionality became extremely important for usability in applications in which a particular task could not be completed in one sitting (such as playing a video game expected to take dozens of hours) or in which the work was being done over a long period of time (such as data entry into a document such as rows in a spreadsheet).
+The problem with save state is it requires the operator of a program to request the save. For non-interactive programs, including automated or batch processed workloads, the ability to checkpoint such applications also had to be automated.
+
+Checkpoint/Restart
+As batch applications began to handle tens to hundreds of thousands of transactions, where each transaction might process one record from one file against several different files, the need for the application to be restartable at some point without the need to rerun the entire job from scratch became imperative. Thus the "checkpoint/restart" capability was born, in which after a number of transactions had been processed, a "snapshot" or "checkpoint" of the state of the application could be taken.  If the application failed before the next checkpoint, it could be restarted by giving it the checkpoint information and the last place in the transaction file where a transaction had successfully completed. The application could then restart at that point.
+Checkpointing tends to be expensive, so it was generally not done with every record, but at some reasonable compromise between the cost of a checkpoint vs. the value of the computer time needed to reprocess a batch of records. Thus the number of records processed for each checkpoint might range from 25 to 200, depending on cost factors, the relative complexity of the application and the resources needed to successfully restart the application.
+
+Fault Tolerance Interface (FTI)
+FTI is a library that aims to provide computational scientists with an easy way to perform checkpoint/restart in a scalable fashion. FTI leverages local storage plus multiple replications and erasures techniques to provide several levels of reliability and performance. FTI provides application-level checkpointing that allows users to select which data needs to be protected, in order to improve efficiency and avoid space, time and energy waste. It offers a direct data interface so that users do not need to deal with files and/or directory names. All metadata is managed by FTI in a transparent fashion for the user. If desired, users can dedicate one process per node to overlap fault tolerance workload and scientific computation, so that post-checkpoint tasks are executed asynchronously.
+
+Berkeley Lab Checkpoint/Restart (BLCR)
+The Future Technologies Group at the Lawrence National Laboratories are developing a hybrid kernel/user implementation of checkpoint/restart called BLCR. Their goal is to provide a robust, production quality implementation that checkpoints a wide range of applications, without requiring changes to be made to application code. BLCR focuses on checkpointing parallel applications that communicate through MPI, and on compatibility with the software suite produced by the SciDAC Scalable Systems Software ISIC. Its work is broken down into 4 main areas: Checkpoint/Restart for Linux (CR), Checkpointable MPI Libraries, Resource Management Interface to Checkpoint/Restart and Development of Process Management Interfaces.
+
+DMTCP
+DMTCP (Distributed MultiThreaded Checkpointing) is a tool for transparently checkpointing the state of an arbitrary group of programs spread across many machines and connected by sockets. It does not modify the user's program or the operating system. Among the applications supported by DMTCP are Open MPI, Python, Perl, and many programming languages and shell scripting languages. With the use of TightVNC, it can also checkpoint and restart X Window applications, as long as they do not use extensions (e.g. no OpenGL or video). Among the Linux features supported by DMTCP are open file descriptors, pipes, sockets, signal handlers, process id and thread id virtualization (ensure old pids and tids continue to work upon restart), ptys, fifos, process group ids, session ids, terminal attributes, and mmap/mprotect (including mmap-based shared memory). DMTCP supports the OFED [API](708) for InfiniBand on an experimental basis.
+
+Collaborative checkpointing
+Some recent protocols perform collaborative checkpointing by storing fragments of the checkpoint in nearby nodes. This is helpful because it avoids the cost of storing to a parallel file system (which often becomes a bottleneck for large-scale systems) and it uses storage that is closer. This has found use particularly in large-scale supercomputing clusters. The challenge is to ensure that when the checkpoint is needed when recovering from a failure, the nearby nodes with fragments of the checkpoints are available.
+
+Docker
+Docker and the underlying technology contain a checkpoint and restore mechanism.
+
+CRIU
+CRIU is a user space checkpoint library.
+
+Implementation for embedded and ASIC devices
+Mementos
+Mementos is a software system that transforms general-purpose tasks into interruptible programs for platforms with frequent interruptions such as power outages. It was designed for batteryless embedded devices such as RFID tags and smart cards which rely on harvesting energy from ambient background sources. Mementos frequently senses the available energy in the system and decides whether to checkpoint the program due to impending power loss versus continuing computation. If checkpointing, data will be stored in a non-volatile memory. When the energy becomes sufficient for reboot, the data is retrieved from non-volatile memory and the program continues from the stored state. Mementos has been implemented on the MSP430 family of microcontrollers. Mementos is named after Christopher Nolan's Memento.
+
+Idetic
+Idetic is a set of automatic tools which helps application-specific integrated circuit (ASIC) developers automatically embed checkpoints in their designs. It targets high-level synthesis tools and adds the checkpoints at the register-transfer level (Verilog code). It uses a dynamic programming approach to locate low overhead points in the state machine of the design. Since the checkpointing in hardware level involves sending the data of dependent registers to a non-volatile memory, the optimum points are required to have minimum number of registers to store. Idetic is deployed and evaluated on energy harvesting RFID tag device.
+
+See also
+Process image
+Save states, a similar concept provided by video game console emulators
+
+References
+Further reading
+Yibei Ling, Jie Mi, Xiaola Lin: A Variational Calculus Approach to Optimal Checkpoint Placement. IEEE Trans. Computers 50(7): 699-708 (2001)
+R.E. Ahmed, R.C. Frazier, and P.N. Marinos, " Cache-Aided Rollback Error Recovery (CARER) Algorithms for Shared-Memory Multiprocessor Systems", IEEE 20th International Symposium on Fault-Tolerant [Computing](693) (FTCS-20), Newcastle upon Tyne, UK, June 26–28, 1990, pp. 82–88.
+
+External links
+LibCkpt
+FTI
+Berkeley Lab Checkpoint/Restart (BLCR)
+Distributed MultiThreaded CheckPointing (DMTCP)
+OpenVZ
+CRIU
+Cryopid2

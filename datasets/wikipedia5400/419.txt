@@ -1,0 +1,20 @@
+419
+Ambulacraria
+Ambulacraria , or Coelomopora , is a clade of invertebrate phyla that includes echinoderms and hemichordates; a member of this group is called an ambulacrarian. Phylogenetic analysis suggests the echinoderms and hemichordates separated around 533 million years ago. The Ambulacraria are part of the deuterostomes, a clade that also includes the many Chordata, and the few extinct species belonging to the Vetulicolia.
+
+Phylogeny
+The two living clades with representative organisms are:
+
+Echinodermata (sea stars, sea urchins, brittle stars, sea cucumbers, feather stars, sea lilies, etc.)
+Hemichordata (acorn worms (Enteropnuesta) and Pterobranchia (including Graptolithina))
+(These together sometimes are called the lower deuterostomes.)
+Whether the Xenacoelomorpha clade is the sister group to the Ambulacraria remains a contentious issue, with some authors arguing that the former should be placed more basally among metazoans, and other authors asserting that the best choices of phylogenetic methods support the position of Xenacoelomorpha as the sister group to Ambulacraria.
+Two extinct taxa of uncertain placement, Vetulocystida and Yanjiahella, have each been proposed as either stem-group echinoderms or stem-group ambulacrarians.  Vetulocystids have also been tentatively proposed as the basal-most stem-group chordates, while Yanjiahella has also been proposed to be a stem-group hemichordate.
+The following cladogram is based on a simplification of Li et al. 2023, with the possible placements of uncertain potential ambulacrarians shown with dashed lines and question marks:
+
+Ontogeny
+As for many animals, the egg cell of any extant ambulacrarian divides and develops into a blastula ("cell ball"), which develops into a triploblast ("three-layered") gastrula. The gastrula then develops into a dipleurula larva form in the Asteroidea, Holothuroidea, Crinoidea, and Hemichordata, and into a pluteus larva form in the Echinoidea and Ophiuroidea. This, in its turn, is developed in various different kinds of larvae for different taxa of ambulacrarians.
+It has been suggested that the adult form of the last common ancestor of the ambulacrarians was anatomically similar to the dipleurula larva; this hypothetic ancestor sometimes also is called dipleurula.
+
+
+== References ==

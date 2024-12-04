@@ -1,0 +1,85 @@
+454
+Arachnid
+Arachnids are arthropods in the class Arachnida () of the subphylum Chelicerata. Arachnida includes, among others, spiders, scorpions, ticks, mites, pseudoscorpions, harvestmen, camel spiders, whip spiders and vinegaroons.
+Adult arachnids have eight legs attached to the  cephalothorax. In some species the frontmost pair of legs has converted to a sensory function, while in others, different appendages can grow large enough to take on the appearance of extra pairs of legs. 
+Almost all extant arachnids are terrestrial, living mainly on land. However, some inhabit freshwater environments and, with the exception of the pelagic zone, marine environments as well. They comprise over 110,000 named species, of which 51,000 are species of spiders.
+The term is derived from the Greek word ἀράχνη (aráchnē, 'spider'), from the myth of the hubristic human weaver Arachne, who was turned into a spider.
+
+Morphology
+Almost all adult arachnids have eight legs, unlike adult insects which all have six legs. However, arachnids also have two further pairs of appendages that have become adapted for feeding, defense, and sensory perception. The first pair, the chelicerae, serve in feeding and defense. The next pair, the pedipalps, have been adapted for feeding, locomotion, and/or reproductive functions. In scorpions, pseudoscorpions, and ricinuleids the pedipalps end in a pair of pinchers, while in whip scorpions, Schizomida, Amblypygi, and most harvestmen, they are raptorial and used for prey capture. In Solifugae, the palps are quite leg-like, so that these animals appear to have ten legs. The larvae of mites and Ricinulei have only six legs; a fourth pair usually appears when they moult into nymphs. However, mites are variable: as well as eight, there are adult mites with six or, like in Eriophyoidea, even four legs. While the adult males in some members of Podapolipidae have six legs, the adult females have only a single pair.
+Arachnids are further distinguished from insects by the fact they do not have antennae or wings. Their body is organized into two tagmata, called the prosoma and opisthosoma, also referred to as the cephalothorax and abdomen. However, there are questions about the validity of the latter terms. While the term cephalothorax implies a fused cephalon (head) and thorax, there is currently neither fossil nor embryological evidence that arachnids ever had a separate thorax-like division. Likewise, the 'abdomen' of many arachnids contains organs atypical of an abdomen, such as a heart and respiratory organs. 
+The cephalothorax is usually covered by a single, unsegmented carapace. The abdomen is segmented in the more primitive forms, but varying degrees of fusion between the segments occur in many groups. It is typically divided into a preabdomen and postabdomen, although this is only clearly visible in scorpions, and in some orders, such as the mites, the abdominal sections are completely fused. A telson is present in scorpions, where it has been modified to a stinger, and into a flagellum in the Palpigradi, Schizomida (very short) and whip scorpions. At the base of the flagellum in the two latter groups there are glands which produce acetic acid as a chemical defense. Except for a pair of pectines in scorpions, and the spinnerets in spiders, the abdomen has no appendages.
+Like all arthropods, arachnids have an exoskeleton, and they also have an internal structure of cartilage-like tissue, called the endosternite, to which certain muscle groups are attached. The endosternite is even calcified in some Opiliones.
+
+Locomotion
+Most arachnids lack extensor muscles in the distal joints of their appendages. Spiders and whip scorpions extend their limbs hydraulically using the pressure of their hemolymph. Solifuges and some harvestmen extend their knees by the use of highly elastic thickenings in the joint cuticle. Scorpions, pseudoscorpions and some harvestmen have evolved muscles that extend two leg joints (the femur-patella and patella-tibia joints) at once. The equivalent joints of the pedipalps of scorpions though, are extended by elastic recoil.
+
+Physiology
+There are characteristics that are particularly important for the terrestrial lifestyle of arachnids, such as internal respiratory surfaces in the form of tracheae, or modification of the book gill into a book lung, an internal series of vascular lamellae used for gas exchange with the air. While the tracheae are often individual systems of tubes, similar to those in insects, ricinuleids, pseudoscorpions, and some spiders possess sieve tracheae, in which several tubes arise in a bundle from a small chamber connected to the spiracle. This type of tracheal system has almost certainly evolved from the book lungs, and indicates that the tracheae of arachnids are not homologous with those of insects.
+Further adaptations to terrestrial life are appendages modified for more efficient locomotion on land, internal fertilisation, special sensory organs, and water conservation enhanced by efficient excretory structures as well as a waxy layer covering the cuticle.
+The excretory glands of arachnids include up to four pairs of coxal glands along the side of the prosoma, and one or two pairs of Malpighian tubules, emptying into the gut. Many arachnids have only one or the other type of excretory gland, although several do have both. The primary nitrogenous waste product in arachnids is guanine.
+Arachnid blood is variable in composition, depending on the mode of respiration. Arachnids with an efficient tracheal system do not need to transport oxygen in the blood, and may have a reduced circulatory system. In scorpions and some spiders, however, the blood contains haemocyanin, a copper-based pigment with a similar function to haemoglobin in vertebrates. The heart is located in the forward part of the abdomen, and may or may not be segmented. Some mites have no heart at all.
+
+Diet and digestive system
+Arachnids are mostly carnivorous, feeding on the pre-digested bodies of insects and other small animals. But ticks, and many mites, are parasites, some of which are carriers of disease. The diet of mites also include tiny animals, fungi, plant juices and decomposing matter. Almost as varied is the diet of harvestmen, where we will find predators, decomposers and omnivores feeding on decaying plant and animal matter, droppings, animals and mushrooms. The harvestmen and some mites, such as the house dust mite, are also the only arachnids able to ingest solid food, which exposes them to internal parasites, although it is not unusual for spiders to eat their own silk. And one species of spider is mostly herbivorous. Scorpions, spiders and pseudoscorpions secrete venom from specialized glands to kill prey or defend themselves. Their venom also contains pre-digestive enzymes that helps breaking down the prey. The saliva of ticks contains anticoagulants and anticomplements, and several species produce a neurotoxin. 
+Arachnids produce digestive enzymes in their stomachs, and use their pedipalps and chelicerae to pour them over their dead prey. The digestive juices rapidly turn the prey into a broth of nutrients, which the arachnid sucks into a pre-buccal cavity located immediately in front of the mouth. Behind the mouth is a muscular, sclerotised pharynx, which acts as a pump, sucking the food through the mouth and on into the oesophagus and stomach. In some arachnids, the oesophagus also acts as an additional pump.
+The stomach is tubular in shape, with multiple diverticula extending throughout the body. The stomach and its diverticula both produce digestive enzymes and absorb nutrients from the food. It extends through most of the body, and connects to a short sclerotised intestine and anus in the hind part of the abdomen.
+
+Senses
+Arachnids have two kinds of eyes: the lateral and median ocelli. The lateral ocelli evolved from compound eyes and may have a tapetum, which enhances the ability to collect light. With the exception of scorpions, which can have up to five pairs of lateral ocelli, there are never more than three pairs present. The median ocelli develop from a transverse fold of the ectoderm. The ancestors of modern arachnids probably had both types, but modern ones often lack one type or the other. The cornea of the eye also acts as a lens, and is continuous with the cuticle of the body. Beneath this is a transparent vitreous body, and then the retina and, if present, the tapetum. In most arachnids, the retina probably does not have enough light sensitive cells to allow the eyes to form a proper image.
+In addition to the eyes, almost all arachnids have two other types of sensory organs. The most important to most arachnids are the fine sensory hairs that cover the body and give the animal its sense of touch. These can be relatively simple, but many arachnids also possess more complex structures, called trichobothria.
+Finally, slit sense organs are slit-like pits covered with a thin membrane. Inside the pit, a small hair touches the underside of the membrane, and detects its motion. Slit sense organs are believed to be involved in proprioception, and possibly also hearing.
+
+Reproduction
+Arachnids may have one or two gonads, which are located in the abdomen. The genital opening is usually located on the underside of the second abdominal segment. In most species, the male transfers sperm to the female in a package, or spermatophore. The males in harvestmen and some mites have a penis. Complex courtship rituals have evolved in many arachnids to ensure the safe delivery of the sperm to the female. Members of many orders exhibit sexual dimorphism.
+Arachnids usually lay yolky eggs, which hatch into immatures that resemble adults. Scorpions, however, are either ovoviviparous or viviparous, depending on species, and bear live young. Also some mites are ovoviviparous and viviparous, even if most lay eggs. In most arachnids only the females provide parental care, with harvestmen being one of the few exceptions.
+
+Taxonomy and evolution
+Phylogeny
+The phylogenetic relationships among the main subdivisions of arthropods have been the subject of considerable research and dispute for many years. A consensus emerged from about 2010 onwards, based on both morphological and molecular evidence; extant (living) arthropods are a monophyletic group and are divided into three main clades: chelicerates (including arachnids), pancrustaceans (the paraphyletic crustaceans plus insects and their allies), and myriapods (centipedes, millipedes and allies). The three groups are related as shown in the cladogram below. Including fossil taxa does not fundamentally alter this view, although it introduces some additional basal groups.
+
+The extant chelicerates comprise two marine groups: Sea spiders and horseshoe crabs, and the terrestrial arachnids. These have been thought to be related as shown below. (Pycnogonida (sea spiders) may be excluded from the chelicerates, which are then identified as the group labelled "Euchelicerata".) A 2019 analysis nests Xiphosura deeply within Arachnida.
+
+Discovering relationships within the arachnids has proven difficult as of March 2016, with successive studies producing different results. A study in 2014, based on the largest set of molecular data to date, concluded that there were systematic conflicts in the phylogenetic information, particularly affecting the orders Acariformes, Parasitiformes and Pseudoscorpiones, which have had much faster evolutionary rates. Analyses of the data using sets of genes with different evolutionary rates produced mutually incompatible phylogenetic trees. The authors favoured relationships shown by more slowly evolving genes, which demonstrated the monophyly of Chelicerata, Euchelicerata and Arachnida, as well as of some clades within the arachnids. The diagram below summarizes their conclusions, based largely on the 200 most slowly evolving genes; dashed lines represent uncertain placements.
+
+Tetrapulmonata, here consisting of Araneae, Amblypygi and Uropygi (Thelyphonida s.s.) (Schizomida was not included in the study), received strong support. Somewhat unexpectedly, there was support for a clade comprising Opiliones, Ricinulei and Solifugae, a combination not found in most other studies. In early 2019, a molecular phylogenetic analysis placed the horseshoe crabs, Xiphosura, as the sister group to Ricinulei. It also grouped pseudoscorpions with mites and ticks, which the authors considered may be due to long branch attraction. The addition of Scorpiones to produce a clade called Arachnopulmonata was also well supported. Pseudoscorpiones may also belong here, as all six orders share the same ancient whole genome duplication, and analyses support pseudoscorpions as the sister group of scorpions. Genetic analysis has not yet been done for Ricinulei, Palpigradi, or Solifugae, but horseshoe crabs have gone through two whole genome duplications, which gives them five Hox clusters with 34 Hox genes, the highest number found in any invertebrate, yet it is not clear if the oldest genome duplication is related to the one in Arachnopulmonata.
+
+More recent phylogenomic analyses that have densely sampled both genomic datasets and morphology have supported horseshoe crabs as nested inside Arachnida, suggesting a complex history of terrestrialization. Morphological analyses including fossils tend to recover the Tetrapulmonata, including the extinct group the Haptopoda, but recover other ordinal relationships with low support.
+
+Fossil history
+The Uraraneida are an extinct order of spider-like arachnids from the Devonian and Permian.
+A fossil arachnid in 100 million year old (mya) amber from Myanmar, Chimerarachne yingi, has spinnerets (to produce silk); it also has a tail, like the Palaeozoic Uraraneida, some 200 million years after other known fossils with tails. The fossil resembles the most primitive living spiders, the mesotheles.
+
+Taxonomy
+The subdivisions of the arachnids are usually treated as orders. Historically, mites and ticks were treated as a single order, Acari. However, molecular phylogenetic studies suggest that the two groups do not form a single clade, with morphological similarities being due to convergence. They are now usually treated as two separate taxa – Acariformes, mites, and Parasitiformes, ticks – which may be ranked as orders or superorders. The arachnid subdivisions are listed below alphabetically; numbers of species are approximate.
+
+Extant forms
+Acariformes – mites (32,000 species)
+Amblypygi – "blunt rump" tail-less whip scorpions with front legs modified into whip-like sensory structures as long as 25 cm or more (250 species)
+Araneae – spiders (51,000 species)
+Opiliones – phalangids, harvestmen or daddy-long-legs (6,700 species)
+Palpigradi – microwhip scorpions (130 species)
+Parasitiformes – ticks (12,000 species)
+Pseudoscorpionida – pseudoscorpions (4,000 species)
+Ricinulei – ricinuleids, hooded tickspiders (100 species)
+Schizomida – "split middle" whip scorpions with divided exoskeletons (350 species)
+Scorpiones – scorpions (2,700 species)
+Solifugae – solpugids, windscorpions, sun spiders or camel spiders (1,200 species)
+Uropygi (also called Thelyphonida) – whip scorpions or vinegaroons, forelegs modified into sensory appendages and a long tail on abdomen tip (120 species)
+Extinct forms
+†Haptopoda – extinct arachnids apparently part of the Tetrapulmonata, the group including spiders and whip scorpions (1 species)
+†Phalangiotarbida – extinct arachnids of uncertain affinity (30 species)
+†Trigonotarbida – extinct (late Silurian Early Permian)
+†Uraraneida – extinct spider-like arachnids, but with a "tail" and no spinnerets (2 species)
+It is estimated that 110,000 arachnid species have been described, and that there may be over a million in total.
+
+See also
+Arachnophobia
+Endangered spiders
+Glossary of spider terms
+List of extinct arachnids
+
+References
+External links
+
+Arachnid, Natural History Museum, London

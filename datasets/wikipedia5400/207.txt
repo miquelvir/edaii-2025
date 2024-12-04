@@ -1,0 +1,92 @@
+207
+Aging in dogs
+Aging in dogs varies from breed to breed, and affects the dog's health and physical ability. As with humans, advanced years often bring changes in a dog's ability to hear, see, and move about easily. Skin condition, appetite, and energy levels often degrade with geriatric age. Medical conditions such as cancer, kidney failure, arthritis, dementia, and joint conditions, and other signs of old age may appear.
+The aging profile of dogs varies according to their adult size (often determined by their breed): smaller breeds have an average lifespan of 10-15 years, with some even exceeding 18 years in age; medium breeds typically live for 10 to 13 years; and giant dog breeds have the lowest minimum lifespan, with an overall average of 8 to 13 years. The latter reach maturity at a slightly older age than smaller breeds, with giant breeds reaching adulthood at around two years old compared to the norm of around 13–15 months for other breeds. The accelerated rate of growth required by the drastic change in size exhibited in giant breeds is speculated by scientists at the American Kennel Club to lead to a higher risk of abnormal cell growth and cancer.
+
+Terminology
+The terms dog years and human years are frequently used when describing the age of a dog. However, there are two diametrically opposed ways in which the terms are defined:
+
+One common nomenclature uses "human years" to represent a strict calendar basis (365 days) and a "dog year" to be the equivalent portion of a dog's lifetime, as a calendar year would be for a human being. Under this system, a 6-year-old dog would be described as having an age of 6 human years or 40–50 (depending on the breed) dog years.
+The other common system defines "dog years" to be the actual calendar years (365 days each) of a dog's life, and "human years" to be the equivalent age of a human being. By this terminology, the age of a 6-year-old dog is described as 6 dog years or 40–50 human years, a reversal from the previous definition.
+However, regardless of which set of terminology is used, the relationship between dog years and human years is not linear, as the following section explains.
+
+Aging profile
+Dog age concepts can be summarized into three types:
+
+Popular myth — It is popularly believed that one human year equals seven dog years. This is inaccurate because dogs often reproduce at age 1 while humans virtually never reproduce at age 7.
+One size fits all — A general rule of thumb is that the first year of a dog's life is equivalent to 15 human years, the second year equivalent to 9 human years, and each subsequent year about 5 human years. So, a dog age 2 is equivalent to a human age 24, while a dog age 10 is equivalent to a human age 64. This is more accurate but still fails to account for size/breed, which is a significant factor.
+Size- or breed-specific calculators — These try to factor in the size or breed as well. These are the most accurate types. They typically work either by expected adult weight or by categorizing the dog as "small", "medium", or "large".
+No one formula for dog-to-human age conversion is scientifically agreed on, although within fairly close limits they show great similarities. Researchers suggest that dog age depends on DNA methylation which is an epigenetic process. Epigenetic changes occur nonlinear in dogs compared to human.
+Oxidative stress appears to be a significant determinant of longevity in small breed compared to large breed dogs. Oxidative damage to DNA can be measured by assessing the level of 8-Oxo-2'-deoxyguanosine in DNA.  Oxidative DNA damage measured in puppies was found to be higher in larger dog breeds with shorter lifespans than in smaller breed dogs with longer life spans.  This result suggested that DNA repair mechanisms fail earlier in larger breed dogs so that more DNA damage is accumulated sooner in these breeds leading to reduced longevity.
+Emotional maturity occurs, as with humans, over an extended period of time and in stages. As in other areas, development of giant breeds is slightly delayed compared to other breeds, and, as with humans, there is a difference between adulthood and full maturity (compare humans age 20 and age 40 for example). In all but large breeds, sociosexual interest arises around 6–9 months, becoming emotionally adult around 15–18 months and fully mature around 3–4 years, although as with humans learning and refinement continue thereafter.
+According to the UC Davis Book of Dogs, small-breed dogs (such as small terriers) become geriatric at about 11 years; medium-breed dogs (such as larger spaniels) at 10 years; large-breed dogs (such as German Shepherd Dogs) at 8 years; and giant-breed dogs (such as Great Danes) at 7 years.
+
+Life expectancy by breed
+Life expectancy usually varies within a range. For example, a [Beagle](274) (average life expectancy 13.3 years) usually lives to around 12–15 years, and a Scottish Terrier (average life expectancy 12 years) usually lives to around 10–16 years. The longest living verified dog is Bluey, an [Australian Cattle Dog](247) who died at 29 years. Bobi, a male purebred Rafeiro do Alentejo, was claimed to have died at age 31 in 2023.
+Two of the longest living dogs on record, "Bluey" and "Chilla", were [Australian Cattle Dog](247)s. This has prompted a study of the longevity of the [Australian Cattle Dog](247) to examine if the breed might have exceptional longevity. The 100-dog survey yielded a mean longevity of 13.41 years with a standard deviation of 2.36 years. The study concluded that while [Australian Cattle Dog](247)s are a healthy breed and do live on average almost a year longer than most dogs of other breeds in the same weight class, record ages such as Bluey's or Chilla's should be regarded as uncharacteristic exceptions rather than as indicators of common exceptional longevity for the entire breed.
+A random-bred dog (also known as a mongrel or a mutt) has an average life expectancy of 13.2 years in the Western world.
+Some attempts have been made to determine the causes for breed variation in life expectancy.
+
+Sorted by breed or life expectancy
+The following data is from a 2024 study published in Scientific Reports. The total sample size for his study was about 584,734 unique dogs located in the UK, of which 284,734 were deceased.
+
+Factors affecting life expectancy
+Apart from breed, several factors influence life expectancy:
+
+Frequency of feeding — Researchers associated with the Dog Aging Project report that dogs that are fed just once daily are healthier on average than dogs fed more frequently.  Dogs that received one meal per day had fewer disorders of their dental, gastrointestinal, musculoskeletal, kidney, and urinary systems.
+Diet — There are some disagreements regarding the ideal diet. Commonly, senior dogs are fed commercially manufactured senior dog food diets. However, at least two dogs died at 27 years old with non-traditional diets: a Border Collie who was fed a purely vegetarian diet, and a bull terrier cross fed primarily kangaroo and emu meat. They died only 2 years and 5 months younger than the second oldest reported dog, Bluey.
+Spaying and neutering — According to a study by the British Veterinary Association (author AR Michell is the president of the Royal College of Veterinary Surgeons), "Neutered females lived longest of dogs dying of all causes, though entire females lived longest of dogs dying of natural causes, with neutered males having the shortest lifespan in each category." Neutering reduces or eliminates the risk of some causes of early death, for example pyometra in females, and testicular cancer in males, as well as indirect causes of early death such as accident and euthanasia (intact dogs roam and tend to be more aggressive), but there might increase the risk of death from other conditions (neutering in cited paper only showed an increase in the risk for prostate cancer but has not been repeated in subsequent papers) in males, and neutered males might have a higher rate for urinary tract cancers such as transitional cell carcinoma and prostatic adenocarcinoma. Caution should be used when interpreting the results of these studies. This is especially important when you consider the frequency of transitional cell carcinoma and prostate carcinoma in a male dog versus the chance an intact male dog will succumb to death from roaming (hit by car or other injuries), benign hyperplasia of the prostate causing prostatic abscesses or inability to urinate (causing euthanasia if this does not resolve with therapy) or euthanasia due to fighting or aggression.
+Another study showed that spayed females live longer than intact females (0.8 years more on average) but, unlike the previous study, there were no differences between neutered and intact males. But both groups lived 0.4 years more than intact females.
+For more information, see Health effects of neutering.
+A major study of dog longevity, which considered both natural and other factors affecting life expectancy, concluded that:
+
+"The mean age at death (all breeds, all causes) was 11 years and 1 month, but in dogs dying of natural causes it was 12 years and 8 months. Only 8 percent of dogs lived beyond 15, and 64 percent of dogs died of disease or were euthanized as a result of disease. Nearly 16 percent of deaths were attributed to cancer, twice as many as to heart disease. ... In neutered males the importance of cancer as a cause of death was similar to heart disease. ... The results also include breed differences in lifespan, susceptibility to cancer, road accidents and behavioral problems as a cause of euthanasia."
+In 2024, a study published in the journal Scientific Reports involving 584,734 British dogs across over 150 breeds revealed that larger breeds and those with flattened faces tended to have shorter average lifespans compared to smaller dogs and breeds with elongated snouts. Female dogs were found to live slightly longer than male dogs.
+
+Effects of aging
+In general, dogs age in a manner similar to humans. Their bodies begin to develop problems that are less common at younger ages, they are more prone to serious or fatal conditions such as cancer, stroke, etc. They become less physically active and less mobile and may develop joint problems such as arthritis. They also become less able to handle change, including wide climatic or temperature variation, and may develop dietary or skin problems or go deaf. In some cases incontinence may develop and breathing difficulties may appear.
+
+"Aging begins at birth, but its manifestations are not noticeable for several years. The first sign of aging is a general decrease in activity level, including a tendency to sleep longer and more soundly, a waning of enthusiasm for long walks and games of catch, and a loss of interest in the goings on in the home."
+In studies of cognitive abilities in aging dogs, it has been shown that qualities such as problem-solving, boldness and playfulness tend to decline with age. However, in tasks involving high motivation and low physical demands, older dogs have learned to perform a new task just as well as younger ones. In old age dogs may develop dementia, which is associated with amyloid-beta, a misfolded protein that has been observed in both dogs and humans.
+The most common effects of aging are:
+
+Loss of hearing
+Loss of vision (cataracts)
+Decreased activity, more sleeping, and reduced energy (in part due to reduced lung function)
+Weight gain (calorie needs can be 30–40% lower in older dogs)
+Weakening of immune system leading to infections
+Skin changes (thickening or darkening of skin, dryness leading to reduced elasticity, loss or whitening of hair)
+Change in feet and nails (thicker and more brittle nails makes trimming harder)
+[Arthritis](164), dysplasia and other joint problems
+Loss of teeth
+Gastrointestinal upset (stomach lining, diseases of the pancreas, constipation)
+Weakness in muscles and bones
+Urinary issues (incontinence in both genders, and prostatitis/straining to urinate in males)
+Mammary cysts and tumors in females
+Dementia
+Heart murmurs
+Diabetes
+
+Importance of diet in aging
+By changing the nutrition of a dog's diet as it ages, certain ailments and side effects of aging can be prevented or slowed.
+Some important nutrients and ingredients in senior dog diets include: 
+
+Good sources of protein to meet higher protein requirements
+Glucosamine and chondroitin sulfate to help maintain joint and bone health
+Omega-3 fatty acids for joint and bone health as well as maintaining immune system health
+Calcium and phosphorus for maintenance of bone structure
+Beet pulp and flaxseed for gastrointestinal health
+Fructooligosaccharides and mannanoligosaccharides work to improve the health of the gastrointestinal tract by increasing the number of "good" bacteria and decreasing the amount of "bad" bacteria
+Appropriate levels of vitamin E and addition of L-carnitine to support brain and cognitive health
+Dietary antioxidants such as vitamin E.
+
+See also
+Aging
+List of oldest dogs
+Old age
+Pet loss
+Dog year
+Bobi
+
+
+== References ==

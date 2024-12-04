@@ -1,0 +1,74 @@
+2092
+Comparison of association football and futsal
+Futsal began in the 1930s in South America as a version of association football, taking elements of its parent game into an indoor format so players could still play during inclement weather.
+Over the years, both sports have developed, creating a situation where the two sports share common traits while also hosting various differences.
+The Laws of the Game for each sport both have 17 laws, all of which cover the same topics, although with some variations in certain areas.
+
+Similarities
+Area of play
+Playing area markings: Both sports are played on a rectangular field marked with lines with a centre circle midway between two goals. The two longer lines are called touch lines and the two shorter lines are called goal lines.
+Corners: At the confluence of the goal line and the touch line, also known as the corner, there is a quarter circle called the corner arc.
+Penalty area: both sports have a penalty area extending from the outside of each goal post along the goal line.
+Goals: Goals are placed at the centre of each goal line, with two posts equidistant from the corners. The two posts are connected by a crossbar.
+
+Starts and stoppages
+Scoring: Scoring takes place when the entire ball passes over the goal line in between the goal posts.
+Boundary stoppages: The ball is also considered out of play in both sports when it completely passes over the goal line or the touch line and the attacking team kicks the ball back into play in a [Corner kick](2097) when the defending team kicks the ball over the goal line. During restarts from the touch line, futsal and association football require at least part of the ball to be behind the touch line until the ball is back in play.
+Kick-offs: Kick-offs also take place in each sport at the beginning of each half or after the scoring of a goal and dropped-balls occur when play is interrupted for any reason not otherwise specified within the laws of the game.
+
+Fouls
+Direct free kick fouls: There are ten identical fouls that result in direct free kicks and if any one of these fouls occur in the penalty area, a penalty kick is awarded.
+The advantage rule: Referees are also allowed to let play continue if the stoppage of play would reward the team committing the foul, better known as the "Advantage Rule".
+ Yellow and red cards: Cautions and sending-off offences are also identical, and the procedure regarding free kicks is the same, although in association football all opponents must stay at least 9.15 metres from the ball until it is back in play where in futsal, all opponents must stay at least 5 metres from the ball until it is back in play.
+
+Miscellaneous
+Laws of the Game: As of 2016, the primary governing body for both association football and futsal is FIFA, with the laws of each game determined by International [Football](2000) Association Board, a body consisting of FIFA, The [Football](2000) Association, the Scottish [Football](2000) Association, the [Football](2000) Association of Wales and the Irish [Football](2000) Association.
+
+Differences
+Scope, speed and field surface
+Size of field: A futsal pitch is approximately a third of the size of an association football pitch and a futsal ball is also about six centimetres smaller on average, and has about 30 percent less bounce. Understandably, there are fewer players on the pitch in futsal (five, including a goalkeeper) than in association football (eleven, including a goalkeeper).
+Field markings: While there are similarities, there are key differences, most notably regarding the penalty area. A football field's penalty area is rectangular and approximately the minimum allowable size for an entire futsal pitch. In futsal, a semi-circle radiating 6 metres from the goalposts and heading into the field in an arc.
+More goal scoring: Due to this more concentrated focus, the speed of play and the number of goals is higher in futsal than association football. For example, the 2016 FIFA Futsal World Cup had an average of 6.77 goals per match while the 2014 FIFA World Cup had an average of 2.67 goals per match.
+Pitch colour and surface: The pitch in association football must be either a green-coloured natural grass or a green-coloured artificial turf substitute while the pitch in futsal is played on flat, smooth and non-abrasive surfaces, preferably wood or artificial material. Artificial turf is permitted only in exceptional cases, and never at the international level.
+
+Referees
+Number of referees: In a regulation match, association football will generally have one referee and two assistant referees while futsal will have one referee and one "second" referee. The three-referee system in association football holds much clearer distinctions among the officiating team than the two-referee futsal system.
+"Official" assistant referees exist in higher level futsal matches, serving as replacement referees  and either third referees (generally overseeing substitutions and time-outs) or as timekeepers (keeping a record of the time and goals scored at the discretion of the referee.)
+Difference in leadership structure on referee teams: In association football, determinations made within the duties of the assistant referees are subject the final decision of the referee. This is technically not the case in futsal, as the two referees are equal in everything outside of timekeeping and the decision to suspend or abandon a match. However, in practice, the second referee is considered subordinate to the "primary" referee and is expected to defer to their decisions whenever there is any conflict, comparable to the assistant referee/referee dynamic, although this is far more rare than in association football.
+
+Referee positioning: In the three-referee system, the assistant referees are located along the right touch line of each team's attacking half, keeping in line with the second-to-last defender, the ball or the half line. Per what is known as the "Diagonal Control System," the referee's optimal position is in a location approximately equal to the two assistant referees and the ball that allows the referee to watch play so calls may be made if needed. Futsal referees move along the touch line up and down the width of the court, with one "leading" referee situated ahead of play and one "trailing" referee situated behind play, comparable to [Basketball](1674). Their positioning is also similar to that of assistant referees in association football, as they try to stay in line with the second to last defender or the ball, although unlike in association football, they are not set to stay with one half of the pitch.
+Referee signals: [Association football](1576) assistant referees also hold flags to indicate calls. Futsal referees do not have flags, but make motions comparable to assistant referees to indicate when the ball is out of play.
+
+Match duration
+The duration of the match can vary depending on league variations. However, at the highest levels of play, both sports are separated into two standardized halves of equal time, allowing for extra time to be played at the referee's discretion to make up for any time wasted.
+In futsal, that standardized time for each half is 20 minutes and in association football, the standardized time for each half is 45 minutes.
+Also in futsal, teams are allowed to call a time-out once per half whenever the ball is out of play and in their possession. Teams can't call a time-out while the ball is in play. An unused time-out from the first half cannot be carried over to the second half; if a match in the knockout stage of a competition goes to extra time, no time-outs are allowed. There are no team time-outs at all in association football, except for a cooling break at the referee's discretion during matches played in extremely high temperatures.
+
+Accumulated fouls
+Unlike in association football, futsal keeps track of fouls that award a direct free kick, also known as "accumulated foul."
+Upon the sixth accumulated foul in a half and every accumulated foul after the sixth, the free kick is generally taken from what is known as the "second penalty mark,"
+After the sixth accumulated foul, the advantage rule generally no longer applies, with referees granting an immediate free kick outside of very clear goal scoring opportunities.
+If the infringement takes place in the attacking half of the pitch, the fouled player may take the free kick from the spot of the infringement or from the second penalty mark, which on a regulation futsal pitch is 10 metres from the goal (the penalty mark is six metres from the goal.)
+Unlike a penalty kick, the goalkeeper is required only to stay 5 metres from the spot of the free kick and does not have to stay on the goal line until the ball is kicked. The player kicking the ball must also shoot at the goal and all other players must stay behind the ball until the ball is kicked.
+
+Offside
+In association football, a player is in an offside position if they are beyond the half-line, beyond the second to last defender and beyond the ball at the moment when their teammate touches the ball, excluding when the teammate is engaged in a goal kick, throw-in, or corner kick.
+They are committing an infringement if they are in an offside position and are interfering with an opponent, interfering with play or gaining an advantage from being in an offside position.
+In futsal, there is no comparable offside rule, although a portion of the Futsal Laws of the Game is dedicated to indicating that there is no offside rule.
+
+Restarts
+Defensive goal line restarts/touch line restarts: The use of the foot on a goal kick and the hands on throw-ins are reversed in futsal with the goal clearance and a kick-in.
+During play in futsal, if the attacking team sends the ball over the goal line, the goalkeeper restarts the ball through a goal clearance, where they throw the ball to another player outside of the penalty area. When either team sends the ball over the touch line in futsal, the other team kicks rather than throws the ball back into play in what is known as a kick-in.
+Speed of restart: With goal clearances, kick-ins, corner kicks, the ball must be put back into play within four seconds. Whenever the goalkeeper otherwise has possession of the ball in their own half, they also must give up possession of the ball within four seconds once they are ready to release the ball.
+Goalkeepers must release the ball within six seconds in association football, but this rule is often ignored as long as the goalkeeper is seen to be making "a sincere attempt to release" the ball.
+
+Substitutions
+In both sports, the referee has discretion over which players can or cannot come into the pitch, but in futsal, substitutions can happen during play provided that players come on and off the pitch simultaneously and through a designated area.
+In association football, players must wait until a stoppage in play to enter the pitch, and then only after the referee has been advised of the substitution. Although there are many variations, at the highest levels of competition, generally five substitutions are allowed per side during a match.
+
+Penalty kick
+In football, the penalty kick is taken at a spot inside the centre of the Penalty Area 12 yards from the goal, called the penalty mark.
+In futsal, the first penalty mark is analogous to the penalty mark in football and is 6 metres from the midpoint of the goalposts.
+
+
+== References ==

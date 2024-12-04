@@ -1,0 +1,546 @@
+3846
+Apollonius of Perga
+Apollonius of Perga (Ancient Greek: Ἀπολλώνιος ὁ Περγαῖος Apollṓnios ho Pergaîos; c. 240 BC – c. 190 BC) was an ancient Greek geometer and astronomer known for his work on conic sections. Beginning from the earlier contributions of Euclid and [Archimedes](3851) on the topic, he brought them to the state prior to the invention of analytic geometry. His definitions of the terms ellipse, parabola, and hyperbola are the ones in use today. With his predecessors Euclid and [Archimedes](3851), Apollonius is generally considered among the greatest mathematicians of antiquity. 
+Aside from geometry, Apollonius worked on numerous other topics, including astronomy. Most of this work has not survived, where exceptions are typically fragments referenced by other authors like Pappus of Alexandria. His hypothesis of eccentric orbits to explain the apparently aberrant motion of the planets, commonly believed until the Middle Ages, was superseded during the Renaissance. The Apollonius crater on the Moon is named in his honor.
+
+Life
+Despite his momentous contributions to the field of mathematics, scant biographical information on  Apollonius remains. The 6th century Greek commentator Eutocius of Ascalon, writing on Apollonius' Conics, states: 
+
+Apollonius, the geometrician, ...  came from Perga in Pamphylia in the times of Ptolemy III Euergetes, so records Herakleios the biographer of [Archimedes](3851) ....
+From this passage Apollonius can be approximately dated, but specific birth and death years stated by modern scholars are only speculative. Ptolemy III Euergetes ("benefactor") was third Greek dynast of Egypt in the Diadochi succession, who reigned 246–222/221 BC. "Times" are always recorded by ruler or officiating magistrate, so Apollonius was likely born after 246. The identity of Herakleios is uncertain.
+Perga was a Hellenized city in Pamphylia, Anatolia, whose ruins yet stand. It was a center of Hellenistic culture. Eutocius appears to associate Perga with the Ptolemaic dynasty of Egypt. Never under Egypt, Perga in 246 BC belonged to the Seleucid Empire, an independent diadochi state ruled by the Seleucid dynasty. During the last half of the 3rd century BC, Perga changed hands a number of times, being alternatively under the Seleucids and under the Attalids of Pergamon to the north. Someone designated "of Perga" might be expected to have lived and worked there; to the contrary, if Apollonius was later identified with Perga, it was not on the basis of his residence. The remaining autobiographical material implies that he lived, studied, and wrote in Alexandria.
+A letter by the Greek mathematician and astronomer Hypsicles was originally part of the supplement taken from Euclid's Book XIV, part of the thirteen books of Euclid's Elements.
+
+Basilides of Tyre, O Protarchus, when he came to Alexandria and met my father, spent the greater part of his sojourn with him on account of the bond between them due to their common interest in mathematics. And on one occasion, when looking into the tract written by Apollonius about the comparison of the dodecahedron and icosahedron inscribed in one and the same sphere, that is to say, on the question what ratio they bear to one another, they came to the conclusion that Apollonius' treatment of it in this book was not correct; accordingly, as I understood from my father, they proceeded to amend and rewrite it. But I myself afterwards came across another book published by Apollonius, containing a demonstration of the matter in question, and I was greatly attracted by his investigation of the problem. Now the book published by Apollonius is accessible to all; for it has a large circulation in a form which seems to have been the result of later careful elaboration.
+
+Autobiographical prefaces
+Some autobiographical material can be found in the surviving prefaces to the books of Conics. These are letters Apollonius addressed to influential friends asking them to review the book enclosed with the letter. The first two prefaces are addressed to Eudemus of Pergamon.
+Eudemus likely was or became the head of the research center of the Museum of Pergamon, a city known for its books and parchment industry from which the name parchment is derived. Research in Greek mathematical institutions, which followed the model of the Athenian Lycaeum, was part of the educational effort to which the library and museum were adjunct. There was only one such school in the state, under royal patronage. Books were rare and expensive and collecting them was a royal obligation.
+Apollonius's preface to Book I tells Eudemus that the first four books were concerned with the development of elements while the last four were concerned with special topics. Apollonius reminds Eudemus that Conics was initially requested by Naucrates, a geometer and house guest at Alexandria otherwise unknown to history. Apollonius provided Naucrates the first draft of all eight books, but he refers to them as being "without a thorough purgation", and intended to verify and correct the books, releasing each one as it was completed.
+Having heard this plan from Apollonius himself, who visited Pergamon, Eudemus insisted Apollonius send him each book before release. At this stage Apollonius was likely still a young geometer, who according to Pappus stayed at Alexandria with the students of Euclid (long after Euclid's time), perhaps the final stage of his education. Eudemus may have been a mentor from Appolonius' time in Pergamon.
+There is a gap between the first and second prefaces. Apollonius has sent his son, also named Apollonius, to deliver the second. He speaks with more confidence, suggesting that Eudemus use the book in special study groups. Apollonius mentions meeting Philonides of Laodicea, a geometer whom he introduced to Eudemus in Ephesus, and who became Eudemus' student. Philonides lived mainly in Syria during the 1st half of the 2nd century BC. Whether the meeting indicates that Apollonius now lived in Ephesus is unresolved; the intellectual community of the Mediterranean was cosmopolitan and scholars in this "golden age of mathematics" sought employment internationally, visited each other, read each other's works and made suggestions, recommended students, and communicated via some sort of postal service. Surviving letters are abundant.
+The preface to Book III is missing, and during the interval Eudemus died, says Apollonius in the preface to Book IV. Prefaces to Books IV–VII are more formal, mere summaries omitting personal information. All four are addressed to a mysterious Attalus, a choice made, Apollonius says, "because of your earnest desire to possess my works". Presumably Attalus was important to be sent Apollonius' manuscripts. One theory is that Attalus is Attalus II Philadelphus (220–138 BC), general and defender of Pergamon whose brother Eumenes II was king, and who became co-regent after his brother's illness in 160 BC and acceded to the throne in 158 BC. Both brothers were patrons of the arts, expanding the library into international magnificence. Attalus was a contemporary of Philonides and Apollonius' motive is consonant with Attalus' book-collecting initiative.
+In Preface VII Apollonius describes Book VIII as "an appendix ... which I will take care to send you as speedily as possible." There is no record that it was ever sent, and Apollonius might have died before finishing it. Pappus of Alexandria, however, provided lemmas for it, so it must have been in circulation in some form.
+
+Conics
+Apollonius was a prolific geometer, turning out a large number of works. Only one survives, Conics. Of its eight books, only the first four persist as untranslated original texts of Apollonius. Books 5-7 are only preserved via an Arabic translation by Thābit ibn Qurra commissioned by the Banū Mūsā; the original Greek is lost. The status of Book 8 is unknown. A first draft existed, but whether the final draft was ever produced is not known. A "reconstruction" of it by Edmond Halley exists in Latin, but there is no way to know how much of it, if any, is verisimilar to Apollonius.
+The Greek text of Conics uses the Euclidean arrangement of definitions, figures and their parts; i.e., the “givens,” followed by propositions “to be proved.” Books I-VII present 387 propositions. This type of arrangement can be seen in any modern geometry textbook of the traditional subject matter. As in any course of mathematics, the material is very dense and consideration of it, necessarily slow.  Apollonius had a plan for each book, which is partly described in the Prefaces. The headings, or pointers to the plan, are somewhat in deficit, Apollonius having depended more on the logical flow of the topics.
+
+Book I
+Book I presents 58 propositions. Its most salient content is all the basic definitions concerning cones and conic sections. These definitions are not exactly the same as the modern ones of the same words. Etymologically the modern words derive from the ancient, but the etymon often differs in meaning from its reflex.
+A conical surface is generated by a line segment rotated about a bisector point such that the end points trace circles, each in its own plane. A cone, one branch of the double conical surface, is the surface with the point (apex or vertex), the circle (base), and the axis, a line joining vertex and center of base.
+A section (Latin sectio, Greek tome) is an imaginary "cutting"  of a cone by a plane.
+
+Proposition I.3: “If a cone is cut by a plane through the vertex, the section is a triangle.” In the case of a double cone, the section is two triangles such that the angles at the vertex are vertical angles.
+Proposition I.4 asserts that sections of a cone parallel to the base are circles with centers on the axis.
+Proposition I.13 defines the ellipse, which is conceived as the cutting of a single cone by a plane inclined to the plane of the base and intersecting the latter in a line perpendicular to the diameter extended of the base outside the cone (not shown). The angle of the inclined plane must be greater than zero, or the section would be a circle. It must be less than the corresponding base angle of the axial triangle, at which the figure becomes a parabola.
+Proposition I.11 defines a parabola. Its plane is parallel to a side in the conic surface of the axial triangle.
+Proposition I.12 defines a hyperbola. Its plane is parallel to the axis. It cut both cones of the pair, thus acquiring two distinct branches (only one is shown).
+The Greek geometers were interested in laying out select figures from their inventory in various applications of engineering and architecture, as the great inventors, such as [Archimedes](3851), were accustomed to doing. A demand for conic sections existed then and exists now. The development of mathematical characterization had moved geometry in the direction of Greek geometric algebra, which visually features such algebraic fundamentals as assigning values to line segments as variables. They used a coordinate system intermediate between a grid of measurements and the Cartesian coordinate system. The theories of proportion and application of areas allowed the development of visual equations. (See below under Methods of Apollonius).
+
+The "application of areas" implicitly asks, given an area and a line segment, does this area apply; that is, is it equal to, the square on the segment? If yes, an applicability (parabole) has been established. Apollonius followed Euclid in asking if a rectangle on the abscissa of any point on the section applies to the square of the ordinate. If it does, his word-equation is the equivalent of 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        =
+        k
+        x
+      
+    
+    {\textstyle y^{2}=kx}
+  
+ which is one modern form of the equation for a parabola. The rectangle has sides 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+ and 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+. It was he who accordingly named the figure, parabola, "application".
+The "no applicability" case is further divided into two possibilities. Given a function, 
+  
+    
+      
+        f
+        (
+        x
+        )
+      
+    
+    {\textstyle f(x)}
+  
+, such that, in the applicability case, 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        =
+        g
+        (
+        x
+        )
+      
+    
+    {\textstyle y^{2}=g(x)}
+  
+, in the no applicability case, either 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        >
+        g
+        (
+        x
+        )
+      
+    
+    {\textstyle y^{2}>g(x)}
+  
+ or 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        <
+        g
+        (
+        x
+        )
+      
+    
+    {\textstyle y^{2}<g(x)}
+  
+. In the former, 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+  
+ falls short of 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+      
+    
+    {\textstyle y^{2}}
+  
+ by a quantity termed the ellipsis, "deficit".  In the latter, 
+  
+    
+      
+        g
+        (
+        x
+        )
+      
+    
+    {\displaystyle g(x)}
+  
+ overshoots by a quantity termed the hyperbole, "surfeit".
+Applicability could be achieved by adding the deficit, 
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        =
+        f
+        (
+        x
+        )
+        =
+        g
+        (
+        x
+        )
+        +
+        d
+        ,
+      
+    
+    {\textstyle y^{2}=f(x)=g(x)+d,}
+  
+ or subtracting the surfeit, 
+  
+    
+      
+        g
+        (
+        x
+        )
+        −
+        s
+        .
+      
+    
+    {\displaystyle g(x)-s.}
+  
+ The figure compensating for a deficit was named an ellipse; for a surfeit, a hyperbola. The terms of the modern equation depend on the translation and rotation of the figure from the origin, but the general equation for an ellipse,
+
+  
+    
+      
+        A
+        
+          x
+          
+            2
+          
+        
+        +
+        B
+        
+          y
+          
+            2
+          
+        
+        =
+        C
+      
+    
+    {\displaystyle Ax^{2}+By^{2}=C}
+  
+
+can be placed in the form
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          |
+          
+            
+              
+                A
+                B
+              
+            
+            
+              x
+              
+                2
+              
+            
+          
+          |
+        
+        +
+        
+          
+            C
+            B
+          
+        
+      
+    
+    {\displaystyle y^{2}=\left|{\frac {A}{B}}x^{2}\right|+{\frac {C}{B}}}
+  
+
+where 
+  
+    
+      
+        C
+        
+          /
+        
+        B
+      
+    
+    {\displaystyle C/B}
+  
+ is the deficit, while an equation for the hyperbola,
+
+  
+    
+      
+        A
+        
+          x
+          
+            2
+          
+        
+        −
+        B
+        
+          y
+          
+            2
+          
+        
+        =
+        C
+      
+    
+    {\displaystyle Ax^{2}-By^{2}=C}
+  
+
+becomes
+
+  
+    
+      
+        
+          y
+          
+            2
+          
+        
+        =
+        
+          |
+          
+            
+              
+                A
+                B
+              
+            
+            
+              x
+              
+                2
+              
+            
+          
+          |
+        
+        −
+        
+          
+            C
+            B
+          
+        
+      
+    
+    {\displaystyle y^{2}=\left|{\frac {A}{B}}x^{2}\right|-{\frac {C}{B}}}
+  
+
+where 
+  
+    
+      
+        C
+        
+          /
+        
+        B
+      
+    
+    {\displaystyle C/B}
+  
+ is the surfeit.
+
+Book II
+Book II contains 53 propositions. Apollonius says that he intended to cover "the properties having to do with the diameters and axes and also the asymptotes and other things ... for limits of possibility." His definition of "diameter" is different from the traditional, as he finds it necessary to refer the intended recipient of the letter to his work for a definition. The elements mentioned are those that specify the shape and generation of the figures. Tangents are covered at the end of the book.
+
+Book III
+Book III contains 56 propositions. Apollonius claims original discovery for theorems "of use for the construction of solid loci ... the three-line and four-line locus ...." The locus of a conic section is the section. The three-line locus problem (as stated by Taliafero's appendix to Book III) finds "the locus of points whose distances from three given fixed straight lines ... are such that the square of one of the distances is always in a constant ratio to the rectangle contained by the other two distances." This is the proof of the application of areas resulting in the parabola. The four-line problem results in the ellipse and hyperbola. Analytic geometry derives the same loci from simpler criteria supported by algebra, rather than geometry, for which Descartes was highly praised. He supersedes Apollonius in his methods.
+
+Book IV
+Book IV contains 57 propositions. The first sent to Attalus, rather than to Eudemus, it thus represents his more mature geometric thought. The topic is rather specialized: "the greatest number of points at which sections of a cone can meet one another, or meet a circumference of a circle, ...." Nevertheless, he speaks with enthusiasm, labeling them "of considerable use" in solving problems (Preface 4).
+
+Book V
+Book V, known only through translation from the Arabic, contains 77 propositions, the most of any book. They cover the ellipse (50 propositions), the parabola (22), and the hyperbola (28). These are not explicitly the topic, which in Prefaces I and V Apollonius states to be maximum and minimum lines. These terms are not explained. In contrast to Book I, Book V contains no definitions and no explanation.
+The ambiguity has served as a magnet to exegetes of Apollonius, who must interpret without sure knowledge of the meaning of the book's major terms. Until recently Heath's view prevailed: the lines are to be treated as normals to the sections. A normal in this case is the perpendicular to a curve at a tangent point sometimes called the foot. If a section is plotted according to Apollonius’ coordinate system (see below under Methods of Apollonius), with the diameter (translated by Heath as the axis) on the x-axis and the vertex at the origin on the left, the phraseology of the propositions indicates that the minima/maxima are to be found between the section and the axis. Heath is led into his view by consideration of a fixed point p on the section serving both as tangent point and as one end of the line. The minimum distance between p and some point g on the axis must then be the normal from p.
+In modern mathematics, normals to curves are known for being the location of the center of curvature of that small part of the curve located around the foot. The distance from the foot to the center is the radius of curvature. The latter is the radius of a circle, but for other than circular curves, the small arc can be approximated by a circular arc. The curvature of non-circular curves; e.g., the conic sections, must change over the section. A map of the center of curvature; i.e., its locus, as the foot moves over the section, is termed the evolute of the section. Such a figure, the edge of the successive positions of a line, is termed an envelope today. Heath believed that in Book V we are seeing Apollonius establish the logical foundation of a theory of normals, evolutes, and envelopes.
+Heath's was accepted as the authoritative interpretation of Book V for the entire 20th century, but the changing of the century brought with it a change of view. In 2001, Apollonius scholars Fried & Unguru, granting all due respect to other Heath chapters, balked at the historicity of Heath's analysis of Book V, asserting that he “reworks the original to make it more congenial to a modern mathematician ... this is the kind of thing that makes Heath’s work of dubious value for the historian, revealing more of Heath’s mind than that of Apollonius.” Some of his arguments are in summary as follows. There is no mention of maxima/minima being per se normals in either the prefaces or the books proper. Out of Heath's selection of 50 propositions said to cover normals, only 7, Book V: 27–33, state or imply maximum/minimum lines being perpendicular to the tangents. These 7 Fried classifies as isolated, unrelated to the main propositions of the book. They do not in any way imply that maxima/minima in general are normals. In his extensive investigation of the other 43 propositions, Fried proves that many cannot be.
+Fried and Unguru counter by portraying Apollonius as a continuation of the past rather than a foreshadowing of the future. First is a complete philological study of all references to minimum and maximum lines, which uncovers a standard phraseology. There are three groups of 20-25 propositions each. The first group contains the phrase “from a point on the axis to the section,” which is exactly the opposite of a hypothetical “from a point on the section to the axis.” The former does not have to be normal to anything, although it might be. Given a fixed point on the axis, of all the lines connecting it to all the points of the section, one will be longest (maximum) and one shortest (minimum). Other phrases are “in a section,” “drawn from a section,” “cut off between the section and its axis,” cut off by the axis,” all referring to the same image.
+In the view of Fried and Unguru, the topic of Book V is exactly what Apollonius says it is, maximum and minimum lines. These are not code words for future concepts, but refer to ancient concepts then in use. The authors cite Euclid, Elements, Book III, which concerns itself with circles, and maximum and minimum distances from interior points to the circumference. Without admitting to any specific generality they use terms such as “like” or “the analog of.” They are known for innovating the term “neusis-like.” A neusis construction was a method of fitting a given segment between two given curves. Given a point P, and a ruler with the segment marked off on it. one rotates the ruler around P cutting the two curves until the segment is fitted between them. In Book V, P is the point on the axis. Rotating a ruler around it, one discovers the distances to the section, from which the minimum and maximum can be discerned. The technique is not applied to the situation, so it is not neusis. The authors use neusis-like, seeing an archetypal similarity to  the ancient method.
+
+Book VI
+Book VI, known only through translation from the Arabic, contains 33 propositions, the least of any book. It also has large lacunae, or gaps in the text, due to damage or corruption in the previous texts.
+The topic is relatively clear and uncontroversial. Preface 1 states that it is “equal and similar sections of cones.” Apollonius extends the concepts of congruence and similarity presented by Euclid for more elementary figures, such as triangles, quadrilaterals, to conic sections. Preface 6 mentions “sections and segments” that are “equal and unequal” as well as “similar and dissimilar,” and adds some constructional information.
+Book VI features a return to the basic definitions at the front of the book. “Equality” is determined by an application of areas. If one figure; that is, a section or a segment, is “applied” to another (Halley's si applicari possit altera super alteram), they are “equal” (Halley's aequales) if they coincide and no line of one crosses any line of the other. This is obviously a standard of congruence following Euclid, Book I, Common Notions, 4: “and things coinciding (epharmazanta) with one another are equal (isa).” Coincidence and equality overlap, but they are not the same: the application of areas used to define the sections depends on quantitative equality of areas but they can belong to different figures.
+Between instances that are the same (homos), being equal to each other, and those that are different, or unequal, are figures that are “same-ish” (hom-oios), or similar. They are neither entirely the same nor different, but share aspects that are the same and do not share aspects that are different. Intuitively the geometricians had scale in mind; e.g., a map is similar to a topographic region. Thus figures could have larger or smaller versions of themselves.
+The aspects that are the same in similar figures depend on the figure. Book 6 of Euclid's Elements presents similar triangles as those that have the same corresponding angles. A triangle can thus have miniatures as small as you please, or giant versions, and still be “the same” triangle as the original.
+In Apollonius' definitions at the beginning of Book VI, similar right cones have similar axial triangles. Similar sections and segments of sections are first of all in similar cones. In addition, for every abscissa of one must exist an abscissa in the other at the desired scale. Finally, abscissa and ordinate of one must be matched by coordinates of the same ratio of ordinate to abscissa as the other. The total effect is as though the section or segment were moved up and down the cone to achieve a different scale.
+
+Book VII
+Book VII, also a translation from the Arabic, contains 51 Propositions. These are the last that Heath considers in his 1896 edition. In Preface I, Apollonius does not mention them, implying that, at the time of the first draft, they may not have existed in sufficiently coherent form to describe. Apollonius uses obscure language, that they are “peri dioristikon theorematon”, which Halley translated as “de theorematis ad determinationem pertinentibus,” and Heath as “theorems involving determinations of limits.” This is the language of definition, but no definitions are forthcoming. Whether the reference might be to a specific kind of definition is a consideration but to date nothing credible has been proposed. The topic of Book VII, completed toward the end of Apollonius’ life and career, is stated in Preface VII to be diameters and “the figures described upon them,” which must include conjugate diameters, as he relies heavily on them. In what way the term “limits” or “determinations” might apply is not mentioned.
+Diameters and their conjugates are defined in Book I (Definitions 4–6). Not every diameter has a conjugate. The topography of a diameter (Greek diametros) requires a regular curved figure. Irregularly-shaped areas, addressed in modern times, are not in the ancient game plan. Apollonius has in mind, of course, the conic sections, which he describes in often convolute language: “a curve in the same plane” is a circle, ellipse or parabola, while “two curves in the same plane” is a hyperbola. A chord is a straight line whose two end points are on the figure; i.e., it cuts the figure in two places. If a grid of parallel chords is imposed on the figure, then the diameter is defined as the line bisecting all the chords, reaching the curve itself at a point called the vertex. There is no requirement for a closed figure; e.g., a parabola has a diameter.
+A parabola has symmetry in one dimension. If you imagine it folded on its one diameter, the two halves are congruent, or fit over each other. The same may be said of one branch of a hyperbola. Conjugate diameters (Greek suzugeis diametroi, where suzugeis is “yoked together”), however, are symmetric in two dimensions. The figures to which they apply require also an areal center (Greek kentron), today called a centroid, serving as a center of symmetry in two directions. These figures are the circle, ellipse, and two-branched hyperbola. There is only one centroid, which must not be confused with the foci. A diameter is a chord passing through the centroid, which always bisects it.
+For the circle and ellipse, let a grid of parallel chords be superimposed over the figure such that the longest is a diameter and the others are successively shorter until the last is not a chord, but is a tangent point. The tangent must be parallel to the diameter. A conjugate diameter bisects the chords, being placed between the centroid and the tangent point. Moreover, both diameters are conjugate to each other, being called a conjugate pair. It is obvious that any conjugate pair of a circle are perpendicular to each other, but in an ellipse, only the major and minor axes are, the elongation destroying the perpendicularity in all other cases.
+Conjugates are defined for the two branches of a hyperbola resulting from the cutting of a double cone by a single plane. They are called conjugate branches. They have the same diameter. Its centroid bisects the segment between vertices. There is room for one more diameter-like line: let a grid of lines parallel to the diameter cut both branches of the hyperbola. These lines are chord-like except that they do not terminate on the same continuous curve. A conjugate diameter can be drawn from the centroid to bisect the chord-like lines.
+These concepts mainly from Book I get us started on the 51 propositions of Book VII defining in detail the relationships between sections, diameters, and conjugate diameters. As with some of Apollonius other specialized topics, their utility today compared to Analytic Geometry remains to be seen, although he affirms in Preface VII that they are both useful and innovative; i.e., he takes the credit for them.
+
+Early printed editions
+The early printed editions began for the most part in the 16th century. At that time in Europe, scholarly books were expected to be in Neo-Latin. As few mathematical manuscripts were written in Latin, the editors of the early printed works translated from Greek or Arabic. Often Greek and Latin were juxtaposed, with the Greek text representing either the original or an editor's restoration. Critical commentary of the time was typically in Latin. (Earlier commentaries had been written in ancient or medieval Greek or Arabic.) Only in the 18th and 19th centuries did editions in modern languages begin to appear. A representative list of early printed editions is given below.
+
+Pergaeus, Apollonius (1566). Conicorum libri quattuor: una cum Pappi Alexandrini lemmatibus, et commentariis Eutocii Ascalonitae. Sereni Antinensis philosophi libri duo ... quae omnia nuper Federicus Commandinus Vrbinas mendis quampluris expurgata e Graeco conuertit, & commentariis illustrauit (in Ancient Greek and Latin). Bononiae: Ex officina Alexandri Benatii. A presentation of the first four books of Conics in Greek by Fredericus Commandinus with his own translation into Latin and the commentaries of Pappus of Alexandria, Eutocius of Ascalon and Serenus of Antinouplis.
+Apollonius; Barrow, I (1675). Apollonii conica: methodo nova illustrata, & succinctè demonstrata (in Latin). Londini: Excudebat Guil. Godbid, voeneunt apud Robertum Scott, in vico Little Britain. Translation by Barrow from ancient Greek to Neo-Latin of the first four books of Conics. The copy linked here, located in the Boston Public Library, once belonged to John Adams.
+Apollonius; Pappus; Halley, E. (1706). Apollonii Pergaei de sectione rationis libri duo: Ex Arabico ms. Latine versi. Accedunt ejusdem de sectione spatii libri duo restituti (in Latin). Oxonii. A presentation of two lost but reconstructed works of Apollonius. De Sectione Rationis comes from an unpublished manuscript in Arabic in the Bodleian Library at Oxford originally partially translated by Edward Bernard but interrupted by his death. It was given to Edmond Halley, professor, astronomer, mathematician and explorer, after whom Halley's Comet later was named. Unable to decipher the corrupted text, he abandoned it. Subsequently, David Gregory (mathematician) restored the Arabic for Henry Aldrich, who gave it again to Halley. Learning Arabic, Halley created De Sectione Rationis and as an added emolument for the reader created a Neo-Latin translation of a version of De Sectione Spatii reconstructed from Pappus Commentary on it. The two Neo-Latin works and Pappus' ancient Greek commentary were bound together in the single volume of 1706. The author of the Arabic manuscript is not known. Based on a statement that it was written under the "auspices" of Al-Ma'mun, Latin Almamon, astronomer and Caliph of Baghdad in 825, Halley dates it to 820 in his "Praefatio ad Lectorem."
+Apollonius; Alexandrinus Pappus; Halley, Edmond; Eutocius; Serenus (1710). Apollonii Pergaei Conicorum libri octo, et Sereni Antissensis De sectione cylindri & coni libri duo (PDF) (in Latin and Ancient Greek). Oxoniae: e Theatro Sheldoniano. Encouraged by the success of his translation of David Gregory's emended Arabic text of de Sectione rationis, published in 1706, Halley went on to restore and translate into Latin Apollonius’ entire elementa conica. Books I-IV had never been lost. They appear with the Greek in one column and Halley's Latin in a parallel column. Books V-VI came from a windfall discovery of a previously unappreciated translation from Greek to Arabic that had been purchased by the antiquarian scholar Jacobus Golius in Aleppo in 1626. On his death in 1696 it passed by a chain of purchases and bequests to the Bodleian Library (originally as MS Marsh 607, dated 1070). The translation, dated much earlier, comes from the branch of Almamon's school entitled the Banū Mūsā, “sons of Musa,” a group of three brothers, who lived in the 9th century. The translation was performed by writers working for them. In Halley's work, only the Latin translation of Books V-VII is given. This is its first printed publication. Book VIII was lost before the scholars of Almamon could take a hand at preserving it. Halley's concoction, based on expectations developed in Book VII, and the lemmas of Pappus, is given in Latin. The commentary of Eutocius, the lemmas of Pappus, and two related treatises by Serenus are included as a guide to the interpretation of the Conics.
+
+Commentary and influence
+The difficulty of Conics made an intellectual niche for later commentators, each presenting Apollonius in the most lucid and relevant way for his own times. They use a variety of methods: annotation, extensive prefatory material, different formats, additional drawings, superficial reorganization by the addition of capita, and so on. There are subtle variations in interpretation.
+
+Modern English commentary
+Limited material about Conics was ever written in English, because European mathematicians of the 16th–18th century, including English mathematicians such as Edmund Halley and Isaac Newton, preferred Neo-Latin. In later centuries, geometry was re-established using coordinates (analytic geometry) and synthetic methods fell out of favor, so Conics' direct influence on mathematical research declined.
+Presentations written entirely in native English begin in the late 19th century.
+
+Thomas Heath
+Particularly influential is Thomas Heath's translation Treatise on Conic Sections. His extensive prefatory commentary includes such items as a lexicon of Apollonian geometric terms giving the Greek, the meanings, and usage. Commenting that "the apparently portentious bulk of the treatise has deterred many from attempting to make its acquaintance", he promises to add headings, changing the organization superficially, and to clarify the text with modern notation. His work thus references two systems of organization, his own and Apollonius', parenthetically cross-referenced.
+
+St. John's College
+Heath was active in the late 19th and early 20th century, passing away in 1940, but meanwhile another point of view developed. St. John's College (Annapolis/Santa Fe), which had been a military school since colonial times, preceding the United States Naval Academy at Annapolis, Maryland, to which it is adjacent, in 1936 lost its accreditation and was on the brink of bankruptcy. In desperation the board summoned Stringfellow Barr and Scott Buchanan from the University of Chicago, where they had been developing a new theoretical program for instruction of the Classics. Leaping at the opportunity, in 1937 they instituted the “new program” at St. John's, later dubbed the Great Books program, a fixed curriculum that would teach the works of select key contributors to the culture of western civilization. At St. John's, Apollonius came to be taught as himself, not as some adjunct to analytic geometry.
+The “tutor” of Apollonius was R. Catesby Taliaferro, a new PhD in 1937 from the University of Virginia. He tutored until 1942 and then later for one year in 1948, supplying the English translations by himself, translating Ptolemy's [Almagest](3819) and Apollonius’ Conics. These translations became part of the Encyclopædia Britannica's Great Books of the Western World series. Only Books I-III are included, with an appendix for special topics (a translation of Book IV of the Conics by Michael N. Fried was produced in 2002). Unlike Heath, Taliaferro did not attempt to reorganize Apollonius, even superficially, or to rewrite him. His translation into modern English follows the Greek fairly closely. He does use modern geometric notation to some degree.
+
+Loeb Classical Library
+Contemporaneously with Taliaferro's work, Ivor Thomas an Oxford don of the World War II era, was taking an intense interest in Greek mathematics. He planned a compendium of selections, which came to fruition during his military service as an officer in the Royal Norfolk Regiment. After the war it found a home in the Loeb Classical Library, where it occupies two volumes, all translated by Thomas, with the Greek on one side of the page and the English on the other, as is customary for the Loeb series. Thomas' work has served as a handbook for the golden age of Greek mathematics. For Apollonius he only includes mainly those portions of Book I that define the sections.
+
+Other works
+The rest of Apollonius's works are fragmentary or lost. Many of the lost works are described or mentioned by commentators. In addition are ideas attributed to Apollonius by other authors without documentation. Credible or not, they are hearsay. Some authors identify Apollonius as the author of certain ideas, consequently named after him. Others attempt to express Apollonius in modern notation or phraseology with indeterminate degrees of fidelity.
+Edmond Halley reconstructed De Rationis Sectione and De Spatii Sectione. Beyond these works, except for a handful of fragments, documentation that might in any way be interpreted as descending from Apollonius ends.
+
+Lost and reconstructed works described by Pappus
+Besides Conics, Pappus mentions other treatises of Apollonius:
+
+Λόγου ἀποτομή, De Rationis Sectione ("Cutting of a Ratio")
+Χωρίου ἀποτομή, De Spatii Sectione ("Cutting of an Area")
+Διωρισμένη τομή, De Sectione Determinata ("Determinate Section")
+Ἐπαφαί, De Tactionibus ("Tangencies")
+Νεύσεις, De Inclinationibus ("Inclinations")
+Τόποι ἐπίπεδοι, De Locis Planis ("Plane Loci").
+Each of these was divided into two books, and—with the Data, the Porisms, and Surface-Loci of Euclid and the Conics of Apollonius—were, according to Pappus, included in the body of the ancient analysis. Descriptions follow of the six works mentioned above.
+
+De Rationis Sectione
+De Rationis Sectione sought to resolve a simple problem: Given two straight lines and a point in each, draw through a third given point a straight line cutting the two fixed lines such that the parts intercepted between the given points in them and the points of intersection with this third line may have a given ratio.
+
+De Spatii Sectione
+De Spatii Sectione discussed a similar problem requiring the rectangle contained by the two intercepts to be equal to a given rectangle.
+In the late 17th century, Edward Bernard discovered a version of De Rationis Sectione in the Bodleian Library. Although he began a translation, it was Halley who finished it and included it in a 1706 volume with his restoration of De Spatii Sectione.
+
+De Sectione Determinata
+De Sectione Determinata deals with problems in a manner that may be called an analytic geometry of one dimension; with the question of finding points on a line that were in a ratio to the others. The specific problems are: Given two, three or four points on a straight line, find another point on it such that its distances from the given points satisfy the condition that the square on one or the rectangle contained by two has a given ratio either (1) to the square on the remaining one or the rectangle contained by the remaining two or (2) to the rectangle contained by the remaining one and another given straight line. Several have tried to restore the text to discover Apollonius's solution, among them Snellius (Willebrord Snell, Leiden, 1698); Alexander Anderson of [Aberdeen](2014), in the supplement to his Apollonius Redivivus (Paris, 1612); and Robert Simson in his Opera quaedam reliqua (Glasgow, 1776), by far the best attempt.
+
+De Tactionibus
+De Tactionibus embraced the following general problem: Given three things (points, straight lines, or circles) in position, describe a circle passing through the given points and touching the given straight lines or circles. The most difficult and historically interesting case arises when the three given things are circles. In the 16th century, Vieta presented this problem (sometimes known as the Apollonian Problem) to Adrianus Romanus, who solved it with a hyperbola. Vieta thereupon proposed a simpler solution, eventually leading him to restore the whole of Apollonius's treatise in the small work Apollonius Gallus (Paris, 1600). The history of the problem is explored in fascinating detail in the preface to J. W. Camerer's brief Apollonii Pergaei quae supersunt, ac maxime Lemmata Pappi in hos Libras, cum Observationibus, &c (Gothae, 1795, 8vo).
+
+De Inclinationibus
+The object of De Inclinationibus was to demonstrate how a straight line of a given length, tending towards a given point, could be inserted between two given (straight or circular) lines. Though Marin Getaldić and Hugo d'Omerique (Geometrical Analysis, Cadiz, 1698) attempted restorations, the best is by Samuel Horsley (1770).
+
+De Locis Planis
+De Locis Planis is a collection of propositions relating to loci that are either straight lines or circles. Since Pappus gives somewhat full particulars of its propositions, this text has also seen efforts to restore it, not only by P. Fermat (Oeuvres, i., 1891, pp. 3–51) and F. Schooten (Leiden, 1656) but also, most successfully of all, by R. Simson (Glasgow, 1749).
+
+Lost works mentioned by other ancient writers
+Ancient writers refer to other works of Apollonius that are no longer extant:
+
+Περὶ τοῦ πυρίου, On the Burning-Glass, a treatise probably exploring the focal properties of the parabola
+Περὶ τοῦ κοχλίου, On the Cylindrical Helix (mentioned by Proclus)
+A comparison of the dodecahedron and the icosahedron inscribed in the same sphere
+Ἡ καθόλου πραγματεία, a work on the general principles of mathematics that perhaps included Apollonius's criticisms and suggestions for the improvement of Euclid's Elements
+Ὠκυτόκιον ("Quick Bringing-to-birth"), in which, according to Eutocius, Apollonius demonstrated how to find closer limits for the value of π than those of [Archimedes](3851), who calculated 3+1⁄7 as the upper limit and 3+10⁄71 as the lower limit
+an arithmetical work (see Pappus) on a system both for expressing large numbers in language more everyday than that of [Archimedes](3851)' The Sand Reckoner and for multiplying these large numbers
+a great extension of the theory of irrationals expounded in Euclid, Book x., from binomial to multinomial and from ordered to unordered irrationals (see extracts from Pappus' comm. on Eucl. x., preserved in Arabic and published by Woepke, 1856).
+
+Attributed ideas
+Contribution to astronomy
+The equivalence of two descriptions of planet motions, one using eccentrics and another deferent and epicycles, is attributed to Apollonius. Ptolemy describes this equivalence in the [Almagest](3819).
+
+Methods of Apollonius
+According to Heath, the "Methods of Apollonius" were not personal to him; whatever influence he had on later theorists was the influence of geometry, not of his own innovation of technique. Heath says, 
+
+As a preliminary to the consideration in detail of the methods employed in the Conics, it may be stated generally that they follow steadily the accepted principles of geometrical investigation which found their definitive expression in the Elements of Euclid.
+When referring to golden age geometers, modern scholars use the term "method" to mean the visual, reconstructive way in which the geometer produces a result equivalent to that produced by algebra today. As a simple example, the algebraic method to compute the area of a square is to square its side length; the analogous geometric method is to construct a visual square. Geometric methods in the golden age could produce most of the results of elementary algebra.
+
+Geometrical algebra
+Heath goes on to use the term geometrical algebra for the methods of the entire golden age. The term had been defined by Henry Burchard Fine in 1890 or before, who applied it to La Géométrie of René Descartes, the first full-blown work of analytic geometry. Establishing as a precondition that “two algebras are formally identical whose fundamental operations are formally the same,” Fine says that Descartes’ work “is not ... mere numerical algebra, but what may for want of a better name be called the algebra of line segments. Its symbolism is the same as that of numerical algebra; ....”
+For example, in Apollonius a line segment AB (the line between Point A and Point B) is also the numerical length of the segment. It can have any length. AB therefore becomes the same as an algebraic variable, such as x (the unknown), to which any value might be assigned; e.g., x=3.
+Variables are defined in Apollonius by such word statements as “let AB be the distance from any point on the section to the diameter,” a practice that continues in algebra today. Every student of basic algebra must learn to convert “word problems” to algebraic variables and equations, to which the rules of algebra apply in solving for x. Apollonius had no such rules. His solutions are geometric.
+Relationships not readily amenable to pictorial solutions were beyond his grasp; however, his repertory of pictorial solutions came from a pool of complex geometric solutions generally not known (or required) today. One well-known exception is the indispensable Pythagorean Theorem, even now represented by a right triangle with squares on its sides illustrating an expression such as a2 + b2 = c2. The Greek geometers called those terms “the square on AB,” etc. Similarly, the area of a rectangle formed by AB and CD was "the rectangle on AB and CD."
+These concepts gave the Greek geometers algebraic access to linear functions and quadratic functions, which latter the conic sections are. They contain powers of 1 or 2 respectively. Apollonius had not much use for cubes (featured in solid geometry), even though a cone is a solid. His interest was in conic sections, which are plane figures. Powers of 4 and up were beyond visualization, requiring a degree of abstraction not available in geometry, but ready at hand in algebra.
+
+The coordinate system of Apollonius
+All ordinary measurement of length in public units, such as inches, using standard public devices, such as a ruler, implies public recognition of a Cartesian grid; that is, a surface divided into unit squares, such as one square inch, and a space divided into unit cubes, such as one cubic inch. The ancient Greek units of measurement had provided such a grid to Greek mathematicians since the Bronze Age. 
+Prior to Apollonius, Menaechmus and [Archimedes](3851) had already started locating their figures on an implied window of the common grid by referring to distances conceived to be measured from a left-hand vertical line marking a low measure and a bottom horizontal line marking a low measure, the directions being rectilinear, or perpendicular to one another. These edges of the window become, in the Cartesian coordinate system, the axes. One specifies the rectilinear distances of any point from the axes as the coordinates. The ancient Greeks did not have that convention. They simply referred to distances.
+Apollonius does have a standard window in which he places his figures. Vertical measurement is from a horizontal line he calls the “diameter.”  The word is the same in Greek as it is in English, but the Greek is somewhat wider in its comprehension.  If the figure of the conic section is cut by a grid of parallel lines, the diameter bisects all the line segments included between the branches of the figure. It must pass through the vertex (koruphe, "crown"). A diameter thus comprises open figures such as a parabola as well as closed, such as a circle. There is no specification that the diameter must be perpendicular to the parallel lines, but Apollonius uses only rectilinear ones.
+The rectilinear distance from a point on the section to the diameter is termed tetagmenos in Greek, etymologically simply “extended.”  As it is only ever extended “down” (kata-) or “up” (ana-), the translators interpret it as ordinate. In that case the diameter becomes the x-axis and the vertex the origin. The y-axis then becomes a tangent to the curve at the vertex. The abscissa is then defined as the segment of the diameter between the ordinate and the vertex.
+Using his version of a coordinate system, Apollonius manages to develop in pictorial form the geometric equivalents of the equations for the conic sections, which raises the question of whether his coordinate system can be considered Cartesian. There are some differences. The Cartesian system is to be regarded as universal, covering all figures in all space applied before any calculation is done. It has four quadrants divided by the two crossed axes. Three of the quadrants include negative coordinates meaning directions opposite the reference axes of zero.
+Apollonius has no negative numbers, does not explicitly have a number for zero, and does not develop the coordinate system independently of the conic sections. He works essentially only in Quadrant 1, all positive coordinates. Carl Boyer, a modern historian of mathematics, therefore says:
+
+However, Greek geometric algebra did not provide for negative magnitudes; moreover, the coordinate system was in every case superimposed a posteriori upon a given curve in order to study its properties .... Apollonius, the greatest geometer of antiquity, failed to develop analytic geometry....
+Nevertheless, according to Boyer, Apollonius' treatment of curves is in some ways similar to the modern treatment, and his work seems to anticipate analytical geometry.
+Apollonius occupies some sort of intermediate niche between the grid system of conventional measurement and the fully developed Cartesian Coordinate System of Analytic Geometry. In reading Apollonius, one must take care not to assume modern meanings for his terms.
+
+The theory of proportions
+Apollonius uses the "Theory of Proportions" as expressed in Euclid’s Elements, Books 5 and 6. Devised by Eudoxus of Cnidus, the theory is intermediate between purely graphic methods and modern number theory. A standard decimal number system is lacking, as is a standard treatment of fractions. The propositions, however, express in words rules for manipulating fractions in arithmetic. Heath proposes that they stand in place of multiplication and division.
+By the term “magnitude”  Eudoxus hoped to go beyond numbers to a general sense of size, a meaning it still retains. With regard to the figures of Euclid, it most often means numbers, which was the Pythagorean approach. Pythagoras believed the universe could be characterized by quantities, which belief has become the current scientific dogma. Book V of Euclid begins by insisting that a magnitude (megethos, “size”) must be divisible evenly into units (meros, “part”). A magnitude is thus a multiple of units. They do not have to be standard measurement units, such as meters or feet. One unit can be any designated line segment.
+There follows perhaps the most useful fundamental definition ever devised in science: the ratio (Greek logos, meaning roughly “explanation.”) is a statement of relative magnitude. Given two magnitudes, say of segments AB and CD. the ratio of AB to CD, where CD is considered unit, is the number of CD in AB; for example, 3 parts of 4, or 60 parts per million, where ppm still uses the “parts” terminology. The ratio is the basis of the modern fraction, which also still means “part,” or “fragment”,  from the same Latin root as fracture.
+The ratio is the basis of mathematical prediction in the logical structure called a “proportion”  (Greek analogos). The proportion states that if two segments, AB and CD, have the same ratio as two others, EF and GH, then AB and CD are proportional to EF and GH, or, as would be said in Euclid, AB is to CD as EF is to GH.
+Algebra reduces this general concept to the expression AB/CD = EF/GH. Given any three of the terms, one can calculate the fourth as an unknown. Rearranging the above equation, one obtains AB = (CD/GH)•EF, in which, expressed as y = kx, the CD/GH is known as the “constant of proportionality.” The Greeks had little difficulty with taking multiples (Greek pollaplasiein), probably by successive addition.
+Apollonius uses ratios almost exclusively of line segments and areas, which are designated by squares and rectangles. The translators have undertaken to use the colon notation introduced by Leibniz in [Acta Eruditorum](2904), 1684. Here is an example from Conics, Book I, on Proposition 11:
+
+Literal translation of the Greek: Let it be contrived that the (square) of BC be to the (rectangle) of BAC as FH is to FA
+Taliaferro’s translation: “Let it be contrived that sq. BC : rect. BA.AC :: FH : FA”
+Algebraic equivalent: BC2/BA•BC = FH/FA
+
+References
+Notes
+Citations
+Sources
+Further reading
+External links
+The Editors of Encyclopædia Britannica (2006). "Apollonius of Perga". Encyclopaedia Britannica.
+O'Connor, John J.; Robertson, Edmund F., "Apollonius of Perga", MacTutor History of Mathematics Archive, University of St Andrews
+David Dennis; Susan Addington (2009). "Apollonius and Conic Sections" (PDF). Mathematical Intentions. quadrivium.info.
+Scans of old editions of some of Apollonius' works in several languages at wilbourhall.org

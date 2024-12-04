@@ -1,0 +1,44 @@
+968
+Distributed algorithmic mechanism design
+Distributed algorithmic mechanism design (DAMD) is an extension of algorithmic mechanism design.
+DAMD differs from [Algorithm](612)ic mechanism design since the algorithm is computed in a distributed manner rather than by a central authority.  This greatly improves computation time since the burden is shared by all agents within a network.
+One major obstacle in DAMD is ensuring that agents reveal the true costs or preferences related to a given scenario.  Often these agents would rather lie in order to improve their own utility.
+DAMD is full of new challenges since one can no longer assume an obedient networking and mechanism infrastructure where rational players control the message paths and mechanism computation.
+
+Game theoretic model
+Game theory and distributed computing both deal with a system with many agents, in which the agents may possibly pursue different goals. However they have different focuses. For instance one of the concerns of distributed computing is to prove the correctness of algorithms that tolerate faulty agents and agents performing actions concurrently. On the other hand, in game theory the focus is on devising a strategy which leads us to an equilibrium in the system.
+
+Nash equilibrium
+Nash equilibrium is the most commonly-used notion of equilibrium in game theory. However Nash equilibrium does not deal with faulty or unexpected behavior. A protocol that reaches Nash equilibrium is guaranteed to execute correctly in the face of rational agents, with no agent being able to improve its utility by deviating from the protocol.
+
+Solution preference
+There is no trusted center as there is in AMD.  Thus, mechanisms must be implemented by the agents themselves. The solution preference assumption requires that each agent prefers any outcome to no outcome at all:  thus, agents have no incentive to disagree on an outcome or cause the algorithm to fail. In other words, as Afek et al. said, "agents cannot gain if the algorithm fails". As a result, though agents have preferences, they have no incentive to fail the algorithm.
+
+Truthfulness
+A mechanism is considered to be truthful if the agents gain nothing by lying about 
+their or other agents' values.
+A good example would be a leader election algorithm that selects a computation server within a network. The algorithm specifies that agents should send their total computational power to each other, after which the most powerful agent is chosen as the leader to complete the task. In this algorithm agents may lie about their true computation power because they are potentially in danger of being tasked with CPU-intensive jobs which will reduce their power to complete local jobs. This can be overcome with the help of truthful mechanisms which, without any a priori knowledge of the existing data and inputs of each agent, cause each agent to respond truthfully to requests.
+A well-known truthful mechanism in game theory is the Vickrey auction.
+
+Classic distributed computing problems
+Leader election (completely connected network, synchronous case)
+Leader election is a fundamental problem in distributed computing and there are numerous protocols to solve this problem. System agents are assumed to be rational, and therefore prefer having a leader to not having one. The agents may also have different preferences regarding who becomes the leader (an agent may prefer that he himself becomes the leader). Standard protocols may choose leaders based on the lowest or highest ID of system agents. However, since agents have an incentive to lie about their ID in order to improve their utility such protocols are rendered useless in the setting of algorithmic mechanism design. 
+A protocol for leader election in the presence of rational agents has been introduced by Ittai et al.:
+
+At round 1, each agent i sends everyone his id;
+At round 2, agent i sends each other agent j the set of ids that he has received (including his own). If the sets received by agent i are not all identical or if i does not receive an id from some agent, then i sets its output to Null, and leader election fails. Otherwise, let n be the cardinality of the set of ids.
+Agent i chooses a random number Ni in {0, ..., n−1} and sends it to all the other agents.
+Each agent i then computes Σni=1 Ni (mod n), and then takes the agent with the Nth highest id in the set to be the leader. (If some agent j does not send i a random number, then i sets its output to Null.)
+This protocol correctly elects a leader while reaching equilibrium and is truthful since no agent can benefit by lying about its input.
+
+See also
+[Algorithm](612)ic mechanism design
+Mechanism design
+Game theory
+[Distributed computing](900)
+
+References
+External links
+1 Distributed [Algorithm](612)ic Mechanism Design: Recent Results and Future Directions
+2 Distributed algorithmic mechanism design and network security
+3 Service Allocation in Selfish Mobile Ad Hoc Networks Using Vickrey Auction

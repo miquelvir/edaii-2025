@@ -1,0 +1,89 @@
+936
+Client–server model
+The client–server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients. Often clients and servers communicate over a computer network on separate hardware, but both client and server may be on the same device. A server host  runs one or more server programs, which share their resources with clients. A client usually does not share any of its resources, but it requests content or service from a server. Clients, therefore, initiate communication sessions with servers, which await incoming requests.
+Examples of computer applications that use the client–server model are email, network printing, and the World Wide Web.
+
+Client and server role
+The server component provides a function or service to one or many clients, which initiate requests for such services.
+Servers are classified by the services they provide. For example, a web server serves web pages and a file server serves computer files. A shared resource may be any of the server computer's software and electronic components, from programs and data to processors and storage devices. The sharing of resources of a server constitutes a service.
+Whether a computer is a client, a server, or both, is determined by the nature of the application that requires the service functions. For example, a single computer can run a web server and file server software at the same time to serve different data to clients making different kinds of requests. The client software can also communicate with server software within the same computer. Communication between servers, such as to synchronize data, is sometimes called inter-server or server-to-server communication.
+
+Client and server communication
+Generally, a service is an abstraction of computer resources and a client does not have to be concerned with how the server performs while fulfilling the request and delivering the response. The client only has to understand the response based on the relevant application protocol, i.e. the content and the formatting of the data for the requested service.
+Clients and servers exchange messages in a request–response messaging pattern. The client sends a request, and the server returns a response. This exchange of messages is an example of inter-process communication. To communicate, the computers must have a common language, and they must follow rules so that both the client and the server know what to expect. The language and rules of communication are defined in a communications protocol. All protocols operate in the application layer. The application layer protocol defines the basic patterns of the dialogue. To formalize the data exchange even further, the server may implement an application programming interface (API). The API is an abstraction layer for accessing a service.  By restricting communication to a specific content format, it facilitates parsing. By abstracting access, it facilitates cross-platform data exchange.
+A server may receive requests from many distinct clients in a short period. A computer can only perform a limited number of tasks at any moment, and relies on a scheduling system to prioritize incoming requests from clients to accommodate them. To prevent abuse and maximize availability, the server software may limit the availability to clients. Denial of service attacks are designed to exploit a server's obligation to process requests by overloading it with excessive request rates.
+Encryption should be applied if sensitive information is to be communicated between the client and the server.
+
+Example
+When a bank customer accesses online banking services with a web browser (the client), the client initiates a request to the bank's web server. The customer's login credentials may be stored in a database, and the webserver accesses the database server as a client. An application server interprets the returned data by applying the bank's business logic and provides the output to the webserver. Finally, the webserver returns the result to the client web browser for display.
+In each step of this sequence of client–server message exchanges, a computer processes a request and returns data. This is the request-response messaging pattern. When all the requests are met, the sequence is complete and the web browser presents the data to the customer.
+This example illustrates a design pattern applicable to the client–server model: separation of concerns.
+
+Server-side
+Server-side refers to programs and operations that run on the server. This is in contrast to client-side programs and operations which run on the client. (See below)
+
+General concepts
+"Server-side software" refers to a computer application, such as a web server, that runs on remote server hardware, reachable from a user's local computer, smartphone, or other device.  Operations may be performed server-side because they require access to information or functionality that is not available on the client, or because performing such operations on the client side would be slow, unreliable, or insecure.
+Client and server programs may be commonly available ones such as free or commercial web servers and web browsers, communicating with each other using standardized protocols.  Or, programmers may write their own server, client, and communications protocol which can only be used with one another.
+Server-side operations include both those that are carried out in response to client requests, and non-client-oriented operations such as maintenance tasks.
+
+[Computer](675) security
+In a computer security context, server-side vulnerabilities or attacks refer to those that occur on a server computer system, rather than on the client side, or in between the two.  For example, an attacker might exploit an SQL injection vulnerability in a web application in order to maliciously change or gain unauthorized access to data in the server's database.  Alternatively, an attacker might break into a server system using vulnerabilities in the underlying operating system and then be able to access database and other files in the same manner as authorized administrators of the server.
+
+Examples
+In the case of distributed computing projects such as SETI@home and the Great Internet Mersenne Prime Search, while the bulk of the operations occur on the client side, the servers are responsible for coordinating the clients, sending them data to analyze, receiving and storing results, providing reporting functionality to project administrators, etc.  In the case of an Internet-dependent user application like Google Earth, while querying and display of map data takes place on the client side, the server is responsible for permanent storage of map data, resolving user queries into map data to be returned to the client, etc.
+In the context of the World Wide Web, commonly encountered server-side computer languages include:
+
+C# or Visual Basic in ASP.NET environments
+Java
+Perl
+PHP
+Python
+Ruby
+Node.js
+Swift
+However, web applications and services can be implemented in almost any language, as long as they can return data to standards-based web browsers (possibly via intermediary programs) in formats which they can use.
+
+Client side
+Client-side refers to operations that are performed by the client in a computer network.
+
+General concepts
+Typically, a client is a computer application, such as a web browser, that runs on a user's local computer, smartphone, or other device, and connects to a server as necessary.  Operations may be performed client-side because they require access to information or functionality that is available on the client but not on the server, because the user needs to observe the operations or provide input, or because the server lacks the processing power to perform the operations in a timely manner for all of the clients it serves.  Additionally, if operations can be performed by the client, without sending data over the network, they may take less time, use less bandwidth, and incur a lesser security risk.
+When the server serves data in a commonly used manner, for example according to standard protocols such as HTTP or FTP, users may have their choice of a number of client programs (e.g. most modern web browsers can request and receive data using both HTTP and FTP).  In the case of more specialized applications, programmers may write their own server, client, and communications protocol which can only be used with one another.
+Programs that run on a user's local computer without ever sending or receiving data over a network are not considered clients, and so the operations of such programs would not be termed client-side operations.
+
+[Computer](675) security
+In a computer security context, client-side vulnerabilities or attacks refer to those that occur on the client / user's computer system, rather than on the server side, or in between the two.  As an example, if a server contained an encrypted file or message which could only be decrypted using a key housed on the user's computer system, a client-side attack would normally be an attacker's only opportunity to gain access to the decrypted contents.  For instance, the attacker might cause malware to be installed on the client system, allowing the attacker to view the user's screen, record the user's keystrokes, and steal copies of the user's encryption keys, etc.  Alternatively, an attacker might employ cross-site scripting vulnerabilities to execute malicious code on the client's system without needing to install any permanently resident malware.
+
+Examples
+[Distributed computing](900) projects such as SETI@home and the Great Internet Mersenne Prime Search, as well as Internet-dependent applications like Google Earth, rely primarily on client-side operations.  They initiate a connection with the server (either in response to a user query, as with Google Earth, or in an automated fashion, as with SETI@home), and request some data.  The server selects a data set (a server-side operation) and sends it back to the client.  The client then analyzes the data (a client-side operation), and, when the analysis is complete, displays it to the user (as with Google Earth) and/or transmits the results of calculations back to the server (as with SETI@home).
+In the context of the World Wide Web, commonly encountered computer languages which are evaluated or run on the client side include:
+
+Cascading Style Sheets (CSS)
+HTML
+JavaScript
+
+Early history
+An early form of client–server architecture is remote job entry, dating at least to OS/360 (announced 1964), where the request was to run a job, and the response was the output.
+While formulating the client–server model in the 1960s and 1970s, computer scientists building [ARPANET](902) (at the Stanford Research Institute) used the terms server-host (or serving host) and user-host (or using-host), and these appear in the early documents RFC 5 and RFC 4. This usage was continued at Xerox PARC in the mid-1970s.
+One context in which researchers used these terms was in the design of a computer network programming language called Decode-Encode Language (DEL). The purpose of this language was to accept commands from one computer (the user-host), which would return status reports to the user as it encoded the commands in network packets. Another DEL-capable computer, the server-host, received the packets, decoded them, and returned formatted data to the user-host. A DEL program on the user-host received the results to present to the user. This is a client–server transaction. Development of DEL was just beginning in 1969, the year that the United States Department of Defense established [ARPANET](902) (predecessor of Internet).
+
+Client-host and server-host
+Client-host and server-host have subtly different meanings than client and server. A host is any computer connected to a network. Whereas the words server and client may refer either to a computer or to a computer program, server-host and client-host always refer to computers. The host is a versatile, multifunction computer; clients and servers are just programs that run on a host. In the client–server model, a server is more likely to be devoted to the task of serving.
+An early use of the word client occurs in "Separating Data from Function in a Distributed File System", a 1978 paper by Xerox PARC computer scientists Howard Sturgis, James Mitchell, and Jay Israel. The authors are careful to define the term for readers, and explain that they use it to distinguish between the user and the user's network node (the client). By 1992, the word server had entered into general parlance.
+
+Centralized computing
+The client-server model does not dictate that server-hosts must have more resources than client-hosts. Rather, it enables any general-purpose computer to extend its capabilities by using the shared resources of other hosts. Centralized computing, however, specifically allocates a large number of resources to a small number of computers. The more computation is offloaded from client-hosts to the central computers, the simpler the client-hosts can be. It relies heavily on network resources (servers and infrastructure) for computation and storage. A diskless node loads even its operating system from the network, and a computer terminal has no operating system at all; it is only an input/output interface to the server. In contrast, a rich client, such as a personal computer, has many resources and does not rely on a server for essential functions.
+As microcomputers decreased in price and increased in power from the 1980s to the late 1990s, many organizations transitioned computation from centralized servers, such as mainframes and minicomputers, to rich clients. This afforded greater, more individualized dominion over computer resources, but complicated information technology management. During the 2000s, web applications matured enough to rival application software developed for a specific microarchitecture. This maturation, more affordable mass storage, and the advent of service-oriented architecture were among the factors that gave rise to the cloud computing trend of the 2010s.
+
+Comparison with peer-to-peer architecture
+In addition to the client-server model, distributed computing applications often use the peer-to-peer (P2P) application architecture.
+In the client-server model, the server is often designed to operate as a centralized system that serves many clients. The computing power, memory and storage requirements of a server must be scaled appropriately to the expected workload. Load-balancing and failover systems are often employed to scale the server beyond a single physical machine.
+Load balancing is defined as the methodical and efficient distribution of network or application traffic across multiple servers in a server farm. Each load balancer sits between client devices and backend servers, receiving and then distributing incoming requests to any available server capable of fulfilling them.
+In a peer-to-peer network, two or more computers (peers) pool their resources and communicate in a decentralized system. Peers are coequal, or equipotent nodes in a non-hierarchical network. Unlike clients in a client-server or client-queue-client network, peers communicate with each other directly.  In peer-to-peer networking, an algorithm in the peer-to-peer communications protocol balances load, and even peers with modest resources can help to share the load. If a node becomes unavailable, its shared resources remain available as long as other peers offer it. Ideally, a peer does not need to achieve high availability because other, redundant peers make up for any resource downtime; as the availability and load capacity of peers change, the protocol reroutes requests.
+Both client-server and master-slave are regarded as sub-categories of distributed peer-to-peer systems.
+
+See also
+
+
+== Notes ==

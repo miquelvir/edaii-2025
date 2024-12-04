@@ -1,0 +1,164 @@
+3897
+Central angle
+A central angle is an angle whose apex (vertex) is the center O of a circle and whose legs (sides) are radii intersecting the circle in two distinct points A and B. Central angles are subtended by an arc between those two points, and the arc length is the central angle of a circle of radius one (measured in radians). The central angle is also known as the arc's angular distance. The arc length spanned by a central angle on a sphere is called spherical distance.
+The size of a central angle Θ is  0° < Θ < 360°  or   0 < Θ < 2π (radians). When defining or drawing a central angle, in addition to specifying the points A and B, one must specify whether the angle being defined is the convex angle (<180°) or the reflex angle (>180°). Equivalently, one must specify whether the movement from point A to point B is clockwise or counterclockwise.
+
+Formulas
+If the intersection points A and B of the legs of the angle with the circle form a diameter, then Θ = 180° is a straight angle. (In radians, Θ = π.)
+Let L be the minor arc of the circle between points A and B, and let R be the radius of the circle.
+
+If the central angle Θ is subtended by L, then 
+
+  
+    
+      
+        
+          0
+          
+            ∘
+          
+        
+        <
+        Θ
+        <
+        
+          180
+          
+            ∘
+          
+        
+        
+        ,
+        
+        
+        Θ
+        =
+        
+          
+            (
+            
+              
+                
+                  180
+                  L
+                
+                
+                  π
+                  R
+                
+              
+            
+            )
+          
+          
+            ∘
+          
+        
+        =
+        
+          
+            L
+            R
+          
+        
+        .
+      
+    
+    {\displaystyle 0^{\circ }<\Theta <180^{\circ }\,,\,\,\Theta =\left({\frac {180L}{\pi R}}\right)^{\circ }={\frac {L}{R}}.}
+  
+
+If the central angle Θ is not subtended by the minor arc L, then Θ is a reflex angle and
+
+  
+    
+      
+        
+          180
+          
+            ∘
+          
+        
+        <
+        Θ
+        <
+        
+          360
+          
+            ∘
+          
+        
+        
+        ,
+        
+        
+        Θ
+        =
+        
+          
+            (
+            
+              360
+              −
+              
+                
+                  
+                    180
+                    L
+                  
+                  
+                    π
+                    R
+                  
+                
+              
+            
+            )
+          
+          
+            ∘
+          
+        
+        =
+        2
+        π
+        −
+        
+          
+            L
+            R
+          
+        
+        .
+      
+    
+    {\displaystyle 180^{\circ }<\Theta <360^{\circ }\,,\,\,\Theta =\left(360-{\frac {180L}{\pi R}}\right)^{\circ }=2\pi -{\frac {L}{R}}.}
+  
+
+If a tangent at A and a tangent at B intersect at the exterior point P, then denoting the center as O, the angles ∠BOA (convex) and ∠BPA are supplementary (sum to 180°).
+
+Central angle of a regular polygon
+A regular polygon with n sides has a circumscribed circle upon which all its vertices lie, and the center of the circle is also the center of the polygon. The central angle of the regular polygon is formed at the center by the radii to two adjacent vertices. The measure of this angle is 
+  
+    
+      
+        2
+        π
+        
+          /
+        
+        n
+        .
+      
+    
+    {\displaystyle 2\pi /n.}
+
+See also
+Chord (geometry)
+Inscribed angle
+Great-circle navigation
+
+References
+External links
+"Central angle (of a circle)". Math Open Reference. 2009. Retrieved December 30, 2013. interactive
+"Central [Angle](3833) Theorem". Math Open Reference. 2009. Retrieved December 30, 2013. interactive
+Inscribed and Central [Angle](3833)s in a Circle

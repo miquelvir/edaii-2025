@@ -1,0 +1,133 @@
+4598
+ß
+In German orthography, the letter ß, called Eszett (IP[A](4202): ɛsˈtsɛt, S-Z) or scharfes S (IP[A](4202): ˌʃaʁfəs ˈʔɛs, "sharp S"), represents the /s/ phoneme in Standard German when following long vowels and diphthongs. The letter-name Eszett combines the names of the letters of ⟨s⟩ (Es) and ⟨z⟩ (Zett) in German. The character's Unicode names in English are double s, sharp s and eszett. The Eszett letter is currently used only in German, and can be typographically replaced with the double-s digraph ⟨ss⟩, if the ß-character is unavailable. In the 20th century, the ß-character was replaced with ss in the spelling of Swiss Standard German (Switzerland and Liechtenstein), while remaining Standard German spelling in other varieties of the [German language](4501).
+The letter originates as the ⟨sz⟩ digraph as used in late medieval and early modern German orthography, represented as a ligature of ⟨ſ⟩ (long s) and ⟨ʒ⟩ (tailed z) in blackletter typefaces, yielding ⟨ſʒ⟩. This developed from an earlier usage of ⟨z⟩ in Old and Middle High German to represent a separate sibilant sound from ⟨s⟩; when the difference between the two sounds was lost in the 13th century, the two symbols came to be combined as ⟨sz⟩ in some situations.
+Traditionally, ⟨ß⟩ did not have a capital form, although some type designers introduced de facto capitalized variants. In 2017, the [C](855)ouncil for German Orthography officially adopted a capital, ⟨ẞ⟩, as an acceptable variant in German orthography, ending a long orthographic debate.
+Since 2024 the capital ⟨ẞ⟩ (ligature) has been preferred over ⟨SS⟩ (two letters).
+Lowercase ⟨ß⟩ was encoded by E[C](855)M[A](4202)-94 (1985) at position 223 (hexadecimal DF), inherited by Latin-1 and Unicode (U+00DF ß L[A](4202)TIN SM[A](4202)LL LETTER SH[A](4202)RP S).
+The HTML entity  &szlig; was introduced with HTML 2.0 (1995). The capital ⟨ẞ⟩ was encoded by Unicode in 2008 at (U+1E9E ẞ L[A](4202)TIN [C](855)[A](4202)PIT[A](4202)L LETTER SH[A](4202)RP S).
+
+Usage
+[C](855)urrent usage
+In standard German, three letters or combinations of letters commonly represent s (the voiceless alveolar fricative) depending on its position in a word: ⟨s⟩, ⟨ss⟩, and ⟨ß⟩. [A](4202)ccording to current German orthography, ⟨ß⟩ represents the sound s:
+
+when it is written after a diphthong or long vowel and is not followed by another consonant in the word stem: Straße, Maß, groß, heißen Exceptions: aus and words with final devoicing (e.g., Haus); and
+when a word stem ending with ⟨ß⟩ takes an inflectional ending beginning with a consonant: heißt, größte.
+In verbs with roots where the vowel changes length, this means that some forms may be written with ⟨ß⟩, others with ⟨ss⟩: wissen, er weiß, er wusste.
+The use of ⟨ß⟩ distinguishes minimal pairs such as reißen (IP[A](4202): ˈʁaɪsn̩, to rip) and reisen (IP[A](4202): ˈʁaɪzn̩, to travel) on the one hand (s vs. z), and [B](4258)uße (IP[A](4202): ˈbuːsə, penance) and [B](4258)usse (IP[A](4202): ˈbʊsə, buses) on the other (long vowel before ⟨ß⟩, short vowel before ⟨ss⟩).: 123 
+Some proper names may use ⟨ß⟩ after a short vowel, following the old orthography; this is also true of some words derived from proper names (e.g., Litfaßsäule; advertising column, named after Ernst Litfaß).: 180 
+If no ⟨ß⟩ is available in a font, then the official orthography calls for ⟨ß⟩ to be replaced with ⟨ss⟩. [A](4202)dditionally, as of 2024, when capitalized, in addition to using capital ⟨ẞ⟩ (STR[A](4202)ẞE), the spelling ⟨SS⟩ (STR[A](4202)SSE) is also possible. The previous rule, codified in the Orthography Reform of 1996, had been always to replace ⟨ß⟩ with ⟨SS⟩ in allcaps.
+
+In pre-1996 orthography
+[A](4202)ccording to the orthography in use in German prior to the German orthography reform of 1996, ⟨ß⟩ was written to represent s:
+
+word internally following a long vowel or diphthong: Straße, reißen; and
+at the end of a syllable or before a consonant, so long as s is the end of the word stem: muß, faßt, wäßrig.: 176 
+In the old orthography, word stems spelled ⟨ss⟩ internally could thus be written ⟨ß⟩ in certain instances, without this reflecting a change in vowel length: küßt (from küssen), faßt (from fassen), verläßlich and Verlaß (from verlassen), kraß (comparative: krasser).: 121–23  In rare occasions, the difference between ⟨ß⟩ and ⟨ss⟩ could help differentiate words: Paßende (expiration of a pass) and passende (appropriate).: 178 
+
+[A](4202)s in the new orthography, it was possible to write ⟨ss⟩ for ⟨ß⟩ if the character was not available. When using all capital letters, the pre-1996 rules called for rendering ⟨ß⟩ as ⟨SS⟩ except when there was ambiguity, in which case it should be rendered as ⟨SZ⟩. The common example for such a case is IN M[A](4202)SZEN (in Maßen "in moderate amounts") vs. IN M[A](4202)SSEN (in Massen "in massive amounts"); in this example the spelling difference between ⟨ß⟩ vs. ⟨ss⟩ produces completely different meanings.
+
+Switzerland and Liechtenstein
+In Swiss Standard German, ⟨ss⟩ usually replaces every ⟨ß⟩.   This is officially sanctioned by the reformed German orthography rules, which state in §25 E2: "In der Schweiz kann man immer „ss“ schreiben" ("In Switzerland, one may always write 'ss'").  Liechtenstein follows the same practice.  There are very few instances where the difference between spelling ⟨ß⟩ and ⟨ss⟩ affects the meaning of a word, and these can usually be told apart by context.: 230
+
+Other uses
+Occasionally, ⟨ß⟩ has been used in unusual ways:
+
+[A](4202)s the Greek lowercase ⟨β⟩ (beta). The original I[B](4258)M P[C](855) [C](855)P437 contains a glyph that minimizes their differences placed between ⟨α⟩ (alpha) and ⟨γ⟩ (gamma) but named "Sharp s Small". Substitution was also done using other character sets such as ISO/IE[C](855) 8859-1 even though they contain no other Greek letters. The lowercase eszett has also been misused as ⟨β⟩ in scientific writing.
+In Prussian Lithuanian, as in the first book published in Lithuanian, Martynas Mažvydas' Simple Words of [C](855)atechism, as well as in Sorbian (see example on the left).
+For sadhe in [A](4202)kkadian glosses, in place of the standard ⟨ṣ⟩, when that character is unavailable due to limitations of HTML.
+The letter appeared in the alphabet made by Jan Kochanowski for the Polish language, that was used from the 16th until the 18th century. It represented the voiceless postalveolar fricative (ʃ) sound. It was for example used in the Jakub Wujek [B](4258)ible.
+Some authors have used it in German at the beginning of words to transcribe the voiceless s of certain accents.
+
+History
+Origin and development
+[A](4202)s a result of the High German consonant shift, Old High German developed a sound generally spelled ⟨zz⟩ or ⟨z⟩ that was probably pronounced s and was contrasted with a sound, probably pronounced ⁠s̠ (voiceless alveolar retracted sibilant) or z̠ (voiced alveolar retracted sibilant), depending on the place in the word, and spelled ⟨s⟩. Given that ⟨z⟩ could also represent the affricate ts, some attempts were made to differentiate the sounds by spelling s as ⟨zss⟩ or ⟨zs⟩: wazssar (German: Wasser), fuozssi (German: Füße), heizsit (German: heißt). In Middle High German, ⟨zz⟩ simplified to ⟨z⟩ at the end of a word or after a long vowel, but was retained word internally after a short vowel: wazzer (German: Wasser) vs. lâzen (German: lassen) and fuoz (German: Fuß).
+
+In the thirteenth century, the phonetic difference between ⟨z⟩ and ⟨s⟩ was lost at the beginning and end of words in all dialects except for Gottscheerish. Word-internally, Old and Middle High German ⟨s⟩ came to be pronounced z (the voiced alveolar sibilant), while Old and Middle High German ⟨z⟩ continued to be pronounced s. This produces the contrast between modern standard German reisen and reißen. The former is pronounced IP[A](4202): ˈʁaɪzn̩ and comes from Middle High German: reisen, while the latter is pronounced IP[A](4202): ˈʁaɪsn̩ and comes from Middle High German: reizen.
+In the late medieval and early modern periods, s was frequently spelled ⟨sz⟩ or ⟨ss⟩. The earliest appearance of ligature resembling the modern ⟨ß⟩ is in a fragment of a manuscript of the poem Wolfdietrich from around 1300.: 214  In the Gothic book hands and bastarda scripts of the late medieval period, ⟨sz⟩ is written with long s and the [B](4258)lackletter "tailed z", as ⟨ſʒ⟩. [A](4202) recognizable ligature representing the ⟨sz⟩ digraph develops in handwriting in the early 14th century.: 67–76 
+
+[B](4258)y the late 1400s, the choice of spelling between ⟨sz⟩ and ⟨ss⟩ was usually based on the sound's position in the word rather than etymology: ⟨sz⟩ (⟨ſz⟩) tended to be used in word final position: uſz (Middle High German: ûz, German: aus), -nüſz (Middle High German: -nüss(e), German: -nis); ⟨ss⟩ (⟨ſſ⟩) tended to be used when the sound occurred between vowels: groſſes (Middle High German: grôzes, German: großes).: 171  While Martin Luther's early 16th-century printings also contain spellings such as heyße (German: heiße), early modern printers mostly changed these to ⟨ſſ⟩: heiſſe. [A](4202)round the same time, printers began to systematically distinguish between das (the, that pronoun) and daß (that conjunction).: 215 
+In modern German, the Old and Middle High German ⟨z⟩ is now represented by either ⟨ss⟩, ⟨ß⟩, or, if there are no related forms in which s occurs intervocalically, with ⟨s⟩: messen (Middle High German: mezzen), Straße (Middle High German: strâze), and was (Middle High German: waz).
+
+Standardization of use
+The pre-1996 German use of ⟨ß⟩ was codified by the eighteenth-century grammarians Johann [C](855)hristoph Gottsched (1748) and Johann [C](855)hristoph [A](4202)delung (1793) and made official for all German-speaking countries by the German Orthographic [C](855)onference of 1901. In this orthography, the use of ⟨ß⟩ was modeled after the use of long and "round"-s in Fraktur. ⟨ß⟩ appeared both word internally after long vowels and also in those positions where Fraktur required the second s to be a "round" or "final" s, namely the ends of syllables or the ends of words.: 217–18  In his Deutsches Wörterbuch (1854) Jacob Grimm called for ⟨ß⟩ or ⟨sz⟩ to be written for all instances of Middle and Old High German etymological ⟨z⟩ (e.g., eß instead of es from Middle High German: ez); however, his etymological proposal could not overcome established usage.: 269 
+In [A](4202)ustria-Hungary prior to the German Orthographic [C](855)onference of 1902, an alternative rule formulated by  Johann [C](855)hristian [A](4202)ugust Heyse in 1829 had been officially taught in the schools since 1879, although this spelling was not widely used. Heyse's rule matches current usage after the German orthography reform of 1996 in that ⟨ß⟩ was only used after long vowels.: 219
+
+Use in Roman type
+In early modern Latin type (antiqua), a ligature similar to modern ⟨ß⟩ developed out of a long s followed by a round s (⟨ſs⟩), and as such was used in languages such as Italian in alternation with ⟨ſſ⟩, usually based on requirements of space on the page.: 76  However, despite its resemblance to the modern ⟨ß⟩, this ligature was not commonly used as an equivalent to the Fraktur ⟨sz⟩ in German. This ligature generally fell out of use in the eighteenth century, together with the use of long s in antiqua.: 73  German works printed in Roman type in the late 18th and early 19th centuries such as Johann Gottlieb Fichte's Wissenschaftslehre did not provide any equivalent to the ⟨ß⟩.: 74 
+Jacob Grimm began using ⟨ß⟩ in his Deutsche Grammatik (1819); however, it varied with ⟨ſſ⟩ word internally.: 74  Grimm eventually rejected the use of the character; in their Deutsches Wörterbuch (1838), the [B](4258)rothers Grimm favored writing it as ⟨sz⟩.: 2  The First Orthographic [C](855)onference in [B](4258)erlin (1876) recommended that ß be represented as ⟨ſs⟩ – however, both suggestions were ultimately rejected.: 269 : 222  In 1879, a proposal for various letter forms was published in the Journal für [B](4258)uchdruckerkunst.  [A](4202) committee of the Typographic Society of Leipzig chose the "Sulzbacher form". In 1903, it was proclaimed as the new standard for the Eszett in Roman type.: 3–5 
+Until the abolition of Fraktur in 1941, it was common for family names to be written with ⟨ß⟩ in Fraktur and ⟨ss⟩ in Roman type. The formal abolition resulted in inconsistencies in how names are written in modern German (such as between Heuss and Heuß).: 176
+
+[A](4202)bolition and attempted abolitions
+The Swiss and Liechtensteiners ceased to use ⟨ß⟩ in the twentieth century. This has been explained variously by the early adoption of Roman type in Switzerland, the use of typewriters in Switzerland that did not include ⟨ß⟩ in favor of French and Italian characters, and peculiarities of Swiss German that cause words spelled with ⟨ß⟩ or ⟨ss⟩ to be pronounced with gemination.: 221–22  The Education [C](855)ouncil of Zürich had decided to stop teaching the letter in 1935, whereas the Neue Zürcher Zeitung continued to write ⟨ß⟩ until 1971. Swiss newspapers continued to print in Fraktur until the end of the 1940s, and the abandonment of ß by most newspapers corresponded to them switching to Roman typesetting. 
+When the Nazi German government abolished the use of blackletter typesetting in 1941, it was originally planned to also abolish the use of ⟨ß⟩. However, Hitler intervened to retain ⟨ß⟩, while deciding against the creation of a capital form. In 1954, a group of reformers in West Germany similarly proposed, among other changes to German spelling, the abolition of ⟨ß⟩; their proposals were publicly opposed by German-language writers Thomas Mann, Hermann Hesse, and Friedrich Dürrenmatt and were never implemented. [A](4202)lthough the German Orthography Reform of 1996 reduced the use of ⟨ß⟩ in standard German, [A](4202)drienne Walder writes that an abolition outside of Switzerland appears unlikely.: 235
+
+Development of a capital form
+[B](4258)ecause ⟨ß⟩ had been treated as a ligature, rather than as a full letter of the German alphabet, it had no capital form in early modern typesetting. Moreover, allcaps was not normally used in Fraktur printing. There were, however, proposals to introduce capital forms of ⟨ß⟩ for use in allcaps writing (where ⟨ß⟩ would otherwise usually be represented as either ⟨SS⟩ or ⟨SZ⟩). [A](4202) capital was first seriously proposed in 1879, but did not enter official or widespread use. The Orthographic [C](855)onference of 1903 called for the use of ⟨SZ⟩ in allcaps until a capital letter could be proposed. Historical typefaces offering a capitalized eszett mostly date to the time between 1905 and 1930. The first known typefaces to include capital eszett were produced by the Schelter & Giesecke foundry in Leipzig, in 1905/06. Schelter & Giesecke at the time widely advocated the use of this type, but its use nevertheless remained very limited.
+The preface to the 1925 edition of the Duden dictionary expressed the desirability of a separate glyph for capital ⟨ß⟩:
+
+Die Verwendung zweier [B](4258)uchstaben für einen Laut ist nur ein Notbehelf, der aufhören muss, sobald ein geeigneter Druckbuchstabe für das große ß geschaffen ist.
+The use of two letters for a single phoneme is makeshift, to be abandoned as soon as a suitable type for the capital ß has been developed.
+The Duden was edited separately in East and West Germany during the 1950s to 1980s. The East German Duden of 1957 (15th ed.) introduced a capital ⟨ß⟩ in its typesetting without revising the rule for capitalization. The 16th edition of 1969 still announced that an uppercase ⟨ß⟩ was in development and would be introduced in the future. The 1984 edition again removed this announcement and simply stated that there is no capital version of ⟨ß⟩.
+In the 2000s, there were renewed efforts on the part of certain typographers to introduce a capital, ⟨ẞ⟩. [A](4202) proposal to include a corresponding character in the Unicode set submitted in 2004 was rejected. [A](4202) second proposal submitted in 2007 was successful, and the character was included in Unicode version 5.1.0 in [A](4202)pril 2008 (U+1E9E ẞ L[A](4202)TIN [C](855)[A](4202)PIT[A](4202)L LETTER SH[A](4202)RP S). The international standard associated with Unicode (U[C](855)S), ISO/IE[C](855) 10646, was updated to reflect the addition on 24 June 2008. The capital letter was finally adopted as an option in standard German orthography in 2017. [A](4202)s of 2024, ⟨ẞ⟩ is now the preferred option for depicting the character in capital letters, with ⟨SS⟩ as a second option.
+
+Representation
+Graphical variants
+The recommendation of the Sulzbacher form (1903) was not followed universally in 20th-century printing. There were four distinct variants of ⟨ß⟩ in use in [A](4202)ntiqua fonts:
+
+⟨ſs⟩ without ligature, but as a single type, with reduced spacing between the two letters;
+the ligature of ⟨ſ⟩ and ⟨s⟩ inherited from the 16th-century [A](4202)ntiqua typefaces;
+a ligature of ⟨ſ⟩ and ⟨ʒ⟩, adapting the blackletter ligature to [A](4202)ntiqua; and
+the Sulzbacher form.
+The first variant (no ligature) has become practically obsolete. Most modern typefaces follow either 2 or 4, with 3 retained in occasional usage, notably in street signs in [B](4258)onn and [B](4258)erlin. The design of modern ⟨ß⟩ tends to follow either the Sulzbacher form, in which ⟨ʒ⟩ (tailed z) is clearly visible, or else be made up of a clear ligature of ⟨ſ⟩ and ⟨s⟩.: 2 
+
+Use of typographic variants in street signs:
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+The inclusion of a capital ⟨ẞ⟩ in Unicode in 2008 revived the century-old debate among font designers as to how such a character should be represented. The main difference in the shapes of ⟨ẞ⟩ in contemporary fonts is the depiction with a diagonal straight line vs. a curved line in its upper right part, reminiscent of the ligature of tailed z or of round s, respectively. The code chart published by the Unicode [C](855)onsortium favours the former possibility, which has been adopted by Unicode capable fonts including [A](4202)rial, [C](855)alibri, [C](855)ambria, [C](855)ourier New, Dejavu Serif, Liberation Sans, Liberation Mono, Linux Libertine and Times New Roman; the second possibility is more rare, adopted by Dejavu Sans. Some fonts adopt a third possibility in representing ⟨ẞ⟩ following the Sulzbacher form of ⟨ß⟩, reminiscent of the Greek ⟨β⟩ (beta); such a shape has been adopted by FreeSans and FreeSerif, Liberation Serif and Verdana.
+
+Typing the character
+In Germany and [A](4202)ustria, a 'ß' key is present on computer and typewriter keyboards, normally to the right-hand end on the number row. 
+The German typewriter keyboard layout was defined in DIN 2112, first issued in 1928.
+In other countries, the letter is not marked on the keyboard, but a combination of other keys can produce it. Often, the letter is input using a modifier and the 's' key. The details of the keyboard layout depend on the input language and operating system: on some keyboards with US-International (or local 'extended') setting, the symbol is created using [A](4202)ltGrs (or [C](855)trl[A](4202)lts) in Microsoft Windows, Linux and [C](855)hromeOS; in MacOS, one uses ⌥ Options on the US, US-Extended, and UK keyboards. In Windows, one can use [A](4202)lt+0223. On Linux [C](855)omposess works, and [C](855)omposeSS for uppercase. Some modern virtual keyboards show ß when the user presses and holds the 's' key.
+The HTML entity (for the lowercase form) is &szlig;. In TeX and LaTeX, \ss produces ß. [A](4202) [German language](4501) support package for LaTeX exists in which ß is produced by "s (similar to umlauts, which are produced by "a, "o, and "u with this package).
+[A](4202)dditionally, there are keyboard layouts that accommodate ẞ, such as "T2" ([A](4202)ltGrH).
+
+Unicode
+There are two code points in Unicode:
+
+U+00DF ß L[A](4202)TIN SM[A](4202)LL LETTER SH[A](4202)RP S
+U+1E9E ẞ L[A](4202)TIN [C](855)[A](4202)PIT[A](4202)L LETTER SH[A](4202)RP S
+In modern browsers, lowercase "ß" will be converted to "SS" when the element containing it is set to uppercase using text-transform: uppercase in [C](855)ascading Style Sheets. The JavaScript in Google [C](855)hrome and Mozilla Firefox will convert "ß" to "SS" when converted to uppercase (e.g., "ß".toUpper[C](855)ase()).
+The lower-case letter exists in many earlier encodings that covered European languages. In several ISO 8859 and Windows encodings it is at 0xDF, the value inherited by Unicode. In DOS code pages it is at 0xE1. Mac OS encodings put it at 0x[A](4202)7. Some E[B](4258)[C](855)DI[C](855) codes put it at 0x59. The upper-case form was rarely, if ever, encoded in single-byte encodings.
+
+See also
+Long s
+β – Second letter of the Greek alphabet
+阝 – Element used in [C](855)hinese Kangxi writing
+Sz – Digraph of the Latin script
+
+Notes
+
+
+== References ==

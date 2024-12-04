@@ -1,0 +1,45 @@
+811
+Amsterdam Compiler Kit
+The Amsterdam [Compiler](662) Kit (ACK) is a retargetable compiler suite and toolchain written by Andrew Tanenbaum and Ceriel Jacobs, since 2005 maintained by David Given. It has frontends for the following programming languages: C, Pascal, Modula-2, Occam, and [BASIC](748).
+
+History
+The ACK's notability stems from the fact that in the early 1980s it was one of the first portable compilation systems designed to support multiple source languages and target platforms.
+The ACK was known as MINIX's native compiler toolchain until the MINIX userland was largely replaced by that of NetBSD (MINIX 3.2.0) and [Clang](888) was adopted as the system compiler.
+It was originally closed-source software (that allowed binaries to be distributed for MINIX as a special case), but in April 2003 it was released under the [BSD licenses](751).
+
+Working principle
+Maximum portability is achieved by using an intermediate language using bytecode, called EM. Each language front-end produces EM object files, which are then processed through several generic optimisers before being translated by a back-end into native machine code.
+ACK comes with a generic linker and librarian capable of manipulating files in the ACK's own a.out-based format; it will work on files containing EM code as well as native machine code. However, EM code cannot be linked to native machine code without translating the EM binary first.
+
+Target processors
+ACK backends can produce native machine code for a wide range of CPUs, even starting with small 8 bit CPUs. 
+
+6502
+65C124 - used for the first software controlled implantable defibrrillator, the target was unique in that the C/EM code word size was 1 byte for an int and 2 bytes for a long.
+6800 (assembler only)
+6805 (assembler only)
+6809 (assembler only)
+ARM
+8080*
+Z80
+Z8000
+Intel 8086*
+i386
+68000
+68020
+68040
+NS32016
+S2650 (assembler only)
+SPARC
+VAX4
+PDP-11
+Broadcom VideoCore IV (BCM2708)*
+* Version 6.0
+
+See also
+Portable C compiler
+
+References
+External links
+Official website 
+Official sourcecode repository, including changelog (GitHub)

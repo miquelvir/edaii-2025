@@ -1,0 +1,146 @@
+2748
+Cucurbitacin
+Cucurbitacins are a class of biochemical compounds that some plants – notably members of the pumpkin and gourd family, [Cucurbitaceae](2747) – produce and which function as a defense against herbivores.  Cucurbitacins and their derivatives have also been found in many other plant families (including Brassicaceae,  Scrophulariaceae, Begoniaceae, Elaeocarpaceae, Datiscaceae, Desfontainiaceae, Polemoniaceae, Primulaceae, Rubiaceae, Sterculiaceae, Rosaceae, and Thymelaeaceae), in some mushrooms (including Russula and Hebeloma) and even in some marine mollusks.
+Cucurbitacins may be a taste deterrent in plants foraged by some animals and in some edible plants preferred by humans, such as cucumbers and zucchinis. In laboratory research, cucurbitacins have cytotoxic properties and are under study for their potential biological activity.
+Cucurbitacins are chemically classified as triterpenes, formally derived from cucurbitane, a triterpene hydrocarbon – specifically, from the unsaturated variant cucurbit-5-ene, or 19(10→9β)-abeo-10α-lanost-5-ene.  They often occur as glycosides.  Most cucurbitacins are tetracyclic except some have an extra ring due to formal cyclization between C16 and C24 as in cucurbitacin S and cucurbitacin T.
+
+Biosynthesis
+The biosynthesis of cucurbitacin C has been described. Zhang et al. (2014) identified nine cucumber genes in the pathway for biosynthesis of cucurbitacin C and elucidated four catalytic steps. These authors also discovered the transcription factors Bl (Bitter leaf) and Bt (Bitter fruit) that regulate this pathway in leaves and fruits, respectively. The Bi gene confers bitterness to the entire plant and is genetically associated with an operon-like gene cluster, similar to the gene cluster involved in thalianol biosynthesis in Arabidopsis. Fruit bitterness requires both Bi and the dominant Bt (Bitter fruit) gene. Nonbitterness of cultivated cucumber fruit is conferred by bt, an allele selected during domestication. Bi is a member of the oxidosqualene cyclase (OSC) gene family. Phylogenetic analysis showed that Bi is the ortholog of cucurbitadienol synthase gene CPQ in squash (Cucurbita pepo)
+
+Variants
+The cucurbitacins include:
+
+Cucurbitacin A
+Cucurbitacin A found in some species of [Cucumis](2741) : 1 
+Pentanorcucurbitacin A, or 22-hydroxy-23,24,25,26,27-pentanorcucurbit-5-en-3-one C25H40O2, white powder: 1
+
+Cucurbitacin B
+Cucurbitacin B from Hemsleya endecaphylla (62 mg/72 g): 4  and other plants (e.g. Cucurbita andreana); anti-inflammatory, any-hepatotoxic: 2 
+Cucurbitacin B 2-O-glucoside, from Begonia heracleifolia: 3 
+23,24-Dihydrocucurbitacin B from Hemsleya endecaphylla, 49 mg/72 g: 5 
+23,24-Dihydrocucurbitacin B 2-O-glucoside from roots of Picrorhiza kurrooa: 4 
+Deacetoxycucurbitacin B 2-O-glucoside from roots of Picrorhiza kurrooa: 5 
+Isocucurbitacin B, from Echinocystis fabacea: 6 
+23,24-Dihydroisocucurbitacin B 3-glucoside from Wilbrandia ebracteata: 7 
+23,24-Dihydro-3-epi-isocucurbitacin B, from Bryonia verrucosa: 8 
+Pentanorcucurbitacin B or 3,7-dioxo-23,24,25,26,27-pentanorcucurbit-5-en-22-oic acid, C25H36O4,  white powder: 2
+
+Cucurbitacin C
+Cucurbitacin C, from [Cucumis](2741) sativus (cucumber): 11
+
+Cucurbitacin D
+Cucurbitacin D, from Trichosanthes kirilowii and many other plants (e.g. Cucurbita andreana): 12 
+3-Epi-isocucurbitacin D, from species of Physocarpus: 14  and Phormium tenax
+22-Deoxocucurbitacin D from Hemsleya endecaphylla, 14 mg/72 g: 6 
+23,24-Dihydrocucurbitacin D from Trichosanthes kirilowii: 13  also from H. endecaphylla, 80 mg/72 g: 3 
+23,24-Dihydro-epi-isocucurbitacin D, from Acanthosicyos horridus: 20 
+22-Deoxocucurbitacin D from Wilbrandia ebracteata: 21 
+Anhydro-22-deoxo-3-epi-isocucurbitacin D from Ecballium elaterium: 22 
+25-O-Acetyl-2-deoxycucurbitacin D (amarinin) from Luffa amara: 24 
+2-Deoxycucurbitacin D, from Sloanea zuliaensis: 23
+
+Cucurbitacin E
+Cucurbitacin E (α-Elaterin), from roots of Wilbrandia ebracteata. Strong antifeedant for the flea beetle, inhibits cell adhesion (also in e.g. Cucurbita andreana): 27 
+22,23-Dihydrocucurbitacin E from Hemsleya endecaphylla, 9 mg/72 g,: 8  and from roots of Wilbrandia ebracteata: 28 
+22,23-Dihydrocucurbitacin E 2-glucoside from roots of Wilbrandia ebracteata: 29 
+Isocucurbitacin E, from [Cucumis](2741) prophetarum: 30 
+23,24-Dihydroisocucurbitacin E, from [Cucumis](2741) prophetarum: 31
+
+Cucurbitacin F
+Cucurbitacin F from Elaeocarpus dolichostylus: 33 
+Cucurbitacin F 25-acetate from Helmseya graciliflora: 34 
+23,24-Dihydrocucurbitacin F from Helmseya amabilis: 35 
+25-Acetoxy-23,24-dihydrocucurbitacin F from Helmseya amabilis (hemslecin A): 36 
+23,24-Dihydrocucurbitacin F glucoside from Helmseya amabilis: 40 
+Cucurbitacin II glucoside from Helmseya amabilis: 41 
+Hexanorcucurbitacin F from Elaeocarpus dolichostylus: 43 
+Perseapicroside A from Persea mexicana: 44 
+Scandenoside R9 from Hemsleya panacis-scandens: 45 
+15-Oxo-cucurbitacin F from Cowania mexicana: 46 
+15-oxo-23,24-dihydrocucurbitacin F from Cowania mexicana: 47 
+Datiscosides B, D, and H, from Datisca glomerata: 48–50
+
+Cucurbitacin G
+Cucurbitacin G from roots of Wilbrandia ebracteata: 52 
+3-Epi-isocucurbitacin G, from roots of Wilbrandia ebracteata: 54
+
+Cucurbitacin H
+Cucurbitacin H, stereoisomer of cucurbitacin G, from roots of Wilbrandia ebracteata: 53
+
+Cucurbitacin I
+Cucurbitacin I (elatericin B) from Hemsleya endecaphylla, 10 mg/72 g,: 7  also from Ecballium elaterium [Citrullus colocynthis](2734), Cucurbita andreana, deters feeding by flea beetle: 55 
+Hexanorcucurbitacin I from Ecballium elaterium: 56 
+23,24-Dihydrocucurbitacin I see Cucurbitacin L
+Khekadaengosides D and K from the fruits of Trichosanthes tricuspidata: 57, 58 
+11-Deoxocucurbitacin I, from Desfontainia spinosa: 59 
+Spinosides A and B, from Desfontainia spinosa: 61, 62 
+23,24-dihydro-11-Deoxocucurbitacin I from Desfontainia spinosa: 60
+
+Cucurbitacin J
+Cucurbitacin J from Iberis amara: 69 
+Cucurbitacin J 2-O-β-glucopyranoside from Trichosanthes tricuspidata: 71
+
+Cucurbitacin K
+Cucurbitacin K, stereoisomer of cucurbitacin J,: 2  from Iberis amara: 70 
+Cucurbitacin K 2-O-β-glucopyranoside from Trichosanthes tricuspidata: 72
+
+Cucurbitacin L
+Cucurbitacin L, or 23,24-dihydrocucurbitacin I,: 63 : 1 
+Brydioside A from Bryonia dioica: 64 
+Bryoamaride from Bryonia dioica: 65 
+25-O-Acetylbryoamaride from Trichosanthes tricuspidata: 66 
+Khekadaengosides A and B from Trichosanthes tricuspidata: 67–68
+
+Cucurbitacin O
+Cucurbitacin O from Brandegea bigelovii: 73 
+Cucurbitacin Q 2-O-glucoside, from Picrorhiza kurrooa: 76 
+16-Deoxy-D-16-hexanorcucurbitacin O from Ecballium elaterium: 77 
+Deacetylpicracin from Picrorhiza scrophulariaeflora: 78 
+Deacetylpicracin 2-O-glucoside from Picrorhiza scrophulariaeflora: 80 
+22-Deoxocucurbitacin O from Wilbrandia ebracteata: 83
+
+Cucurbitacin P
+Cucurbitacin P from Brandegea bigelovii: 74 
+Picracin from Picrorhiza scrophulariaeflora: 79 
+Picracin 2-O-glucoside from Picrorhiza scrophulariaeflora: 79
+
+Cucurbitacin Q
+Cucurbitacin Q from Brandegea bigelovii: 75 
+23,24-Dihydrodeacetylpicracin 2-O-glucoside from Picrorhiza kurrooa: 82 
+Cucurbitacin Q1 from [Cucumis](2741) species, actually Cucurbitacin F 25-acetate
+
+Cucurbitacin R
+Cucurbitacin R is actually 23,24-dihydrocucurbitacin D.
+
+Cucurbitacin S
+Cucurbitacin S from Bryonia dioica: 84–85
+
+Cucurbitacin T
+Cucurbitacin T, from the fruits of [Citrullus colocynthis](2734): 86
+
+28/29 Norcucurbitacins
+There are several substances that can be seen as deriving from cucurbit-5-ene skeleton by loss of one of the methyl groups (28 or 29) attached to carbon 4; often with the adjacent ring (ring A) becoming aromatic.: 87–130
+
+Other
+Several other cucurbitacins have been found in plants.: 152–156, 164–165
+
+Occurrence and bitter taste
+Constituents of the colocynth fruit and leaves ([Citrullus colocynthis](2734)) include cucurbitacins. The 2-O-β-D-glucopyranosides of cucurbitacins K and L can be extracted with ethanol from fruits of Cucurbita pepo cv dayangua. Pentanorcucurbitacins A and B can be extracted with methanol from the stems of Momordica charantia. Cucurbitacins B and I, and derivatives of cucurbitacins B, D and E, can be extracted with methanol from dried tubers of Hemsleya endecaphylla.
+Cucurbitacins impart a bitter taste in plant foods such as cucumber, zucchini, melon and pumpkin.
+
+Research and toxicity
+Cucurbitacins are under basic research for their biological properties, including toxicity and potential pharmacological uses in development of drugs for inflammation, cancer, cardiovascular diseases, and diabetes, among others.
+The toxicity associated with consumption of foods high in cucurbitacins is sometimes referred to as "toxic squash syndrome".  In France in 2018, two women who ate soup made from bitter pumpkins became sick, involving nausea, vomiting, and diarrhea, and had hair loss weeks later. Another French study of poisoning from bitter squash consumption found similar acute illnesses and no deaths. The high concentration of toxin in the plants could result from cross-pollination with wild cucurbitaceae species, or from plant growth stress due to high temperature and drought.
+
+See also
+Goyaglycoside
+Hemslecin
+Mogroside
+Momordicine
+Momordicoside
+Neomogroside
+Scandenosides R1–R8, R10-R11
+Siamenoside I
+
+
+== References ==

@@ -1,0 +1,49 @@
+916
+Berkeley Open Infrastructure for Network Computing
+The Berkeley Open Infrastructure for Network Computing (BOINC, pronounced  – rhymes with "oink") is an open-source middleware system for volunteer computing (a type of distributed computing).  Developed originally to support SETI@home, it became the platform for many other applications in areas as diverse as medicine, molecular biology, mathematics, linguistics, climatology, environmental science, and astrophysics, among others. The purpose of BOINC is to enable researchers to utilize processing resources of personal computers and other devices around the world.
+BOINC development began with a group based at the Space Sciences Laboratory (SSL) at the University of California, Berkeley, and led by David P. Anderson, who also led SETI@home. As a high-performance volunteer computing platform, BOINC brings together 34,236 active participants employing 136,341 active computers (hosts) worldwide, processing daily on average 20.164 PetaFLOPS as of 16 November 2021 (it would be the 21st largest processing capability in the world compared with an individual supercomputer). The National Science Foundation (NSF) funds BOINC through awards SCI/0221529, SCI/0438443 and SCI/0721124. Guinness World Records ranks BOINC as the largest computing grid in the world.
+BOINC code runs on various operating systems, including Microsoft Windows, macOS, Android, Linux, and FreeBSD. BOINC is free software released under the terms of the GNU Lesser General Public License (LGPL).
+
+History
+BOINC was originally developed to manage the SETI@home project. David P. Anderson has said that he chose its name because he wanted something that was not "imposing", but rather "light, catchy, and maybe - like 'Unix' - a little risqué", so he "played around with various acronyms and settled on 'BOINC'".
+The original SETI client was a non-BOINC software exclusively for SETI@home. It was one of the first volunteer computing projects, and not designed with a high level of security. As a result, some participants in the project attempted to cheat the project to gain "credits", while others submitted entirely falsified work. BOINC was designed, in part, to combat these security breaches.
+The BOINC project started in February 2002, and its first version was released on April 10, 2002. The first BOINC-based project was Predictor@home, launched on June 9, 2004. In 2009, AQUA@home deployed multi-threaded CPU applications for the first time, followed by the first OpenCL application in 2010.
+As of 15 August 2022, there are 33 projects on the official list. There are also, however, BOINC projects not included on the official list. Each year, an international BOINC Workshop is hosted to increase collaboration among project administrators. In 2021, the workshop was hosted virtually.
+While not affiliated with BOINC officially, there have been several independent projects that reward BOINC users for their participation, including Charity Engine (sweepstakes based on processing power with prizes funded by private entities who purchase computational time of CE users), Bitcoin Utopia (now defunct), and Gridcoin (a blockchain which mints coins based on processing power).
+
+Design and structure
+BOINC is software that can exploit the unused CPU and GPU cycles on computer hardware to perform scientific computing. In 2008, BOINC's website announced that Nvidia had developed a language called [CUDA](928) that uses GPUs for scientific computing. With NVIDIA's assistance, several BOINC-based projects (e.g., MilkyWay@home. SETI@home) developed applications that run on NVIDIA GPUs using [CUDA](928). BOINC added support for the ATI/AMD family of GPUs in October 2009. The GPU applications run from 2 to 10 times faster than the former CPU-only versions. GPU support (via OpenCL) was added for computers using macOS with AMD Radeon graphic cards, with the current BOINC client supporting OpenCL on Windows, Linux, and macOS. GPU support is also provided for Intel GPUs.
+BOINC consists of a server system and client software that communicate to  process and distribute work units and return results.
+
+Mobile application
+A BOINC app also exists for Android, allowing every person owning an Android device – smartphone, tablet and/or Kindle – to share their unused computing power. The user is allowed to select the research projects they want to support, if it is in the app's available project list.
+By default, the application will allow computing only when the device is connected to a WiFi network, is being charged, and the battery has a charge of at least 90%. Some of these settings can be changed to users needs. Not all BOINC projects are available and some of the projects are not compatible with all versions of Android operating system or availability of work is intermittent. Currently available projects are Asteroids@home, Einstein@Home,  LHC@home, Moo! Wrapper, Rosetta@home,  Universe@Home, World Community Grid and Yoyo@home. As of September 2021, the most recent version of the mobile application can only be downloaded from the BOINC website or the F-Droid repository as the official Google Play store does not allow downloading and running executables not signed by the app developer and each BOINC project has their own executable files.
+
+User interfaces
+BOINC can be controlled remotely by remote procedure calls (RPC), from the command line, and from a BOINC Manager.
+BOINC Manager currently has two "views": the Advanced View and the Simplified GUI. The Grid View was removed in the 6.6.x clients as it was redundant.
+The appearance (skin) of the Simplified GUI is user-customizable, in that users can create their own designs.
+
+Account managers
+A BOINC Account Manager is an application that manages multiple BOINC project accounts across multiple computers (CPUs) and operating systems. Account managers were designed for people who are new to BOINC or have several computers participating in several projects. The account manager concept was conceived and developed jointly by GridRepublic and BOINC. Current and past account managers include:
+
+BAM! (BOINC Account Manager) (The first publicly available Account Manager, released for public use on May 30, 2006)
+GridRepublic (Follows the ideas of simplicity and neatness in account management)
+Charity Engine (Non-profit account manager for hire, uses prize draws and continuous charity fundraising to motivate people to join the grid)
+Science United (An account manager designed to make BOINC easier to use which automatically selects vetted BOINC projects for users based on desired research areas such as "medicine" or "physics")
+Dazzler (Open-source Account Manager, to ease institutional management resources)
+
+Credit system
+The BOINC Credit System is designed to avoid bad hardware and cheating by validating results before granting credit.
+The credit management system helps to ensure that users are returning results which are both statistically and scientifically accurate.
+Online volunteer computing is a complicated and variable mix of long-term users, retiring users and new users with different personal aspirations.
+
+Projects
+BOINC is used by many groups and individuals. Some BOINC projects are based at universities and research labs while others are independent areas of research or interest.
+
+Active
+Completed
+See also
+References
+External links
+Official website

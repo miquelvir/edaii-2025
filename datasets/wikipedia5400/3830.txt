@@ -1,0 +1,136 @@
+3830
+Ancient Greek astronomy
+[Ancient Greek](3061) astronomy is the astronomy written in the Greek language during classical antiquity. Greek astronomy is understood to include the [Ancient Greek](3061), Hellenistic, Greco-Roman, and late antique eras. [Ancient Greek](3061) astronomy can be divided into three primary phases: Classical Greek [Astronomy](3865), which encompassed the 5th and 4th centuries BC, and Hellenistic [Astronomy](3865), which encompasses the subsequent period until the formation of the Roman Empire ca. 30 BC, and finally Greco-Roman astronomy, which refers to the continuation of the tradition of Greek astronomy in the Roman world. During the Hellenistic era and onwards, Greek astronomy expanded beyond the geographic region of Greece as the Greek language had become the language of scholarship throughout the Hellenistic world, in large part delimited by the boundaries of the Macedonian Empire established by [Alexander the Great](3751). The most prominent and influential practitioner of Greek astronomy was Ptolemy, whose treatise [Almagest](3819) shaped astronomical thinking until the modern era. Most of the most prominent constellations known today are taken from Greek astronomy, albeit via the terminology they took on in Latin.
+Greek astronomy was heavily influenced by Babylonian astronomy and, to a lesser extent, [Egypt](1987)ian astronomy. In later periods, ancient Greek astronomical works were translated and promulgated in other languages, most notably in Arabic by the astronomers and mathematicians within the various Arab-Muslim empires of the Middle Ages.
+
+Key texts
+Many Greek astronomical texts are known only by name, and perhaps by a description or quotations. Some elementary works have survived because they were largely non-mathematical and suitable for use in schools. Books in this class include the Phaenomena of Euclid and two works by [Autolycus of Pitane](3870). Three important textbooks, written shortly before Ptolemy's time, were written by Cleomedes, Geminus, and Theon of Smyrna. Books by Roman authors like Pliny the Elder and Vitruvius contain some information on Greek astronomy. The most important primary source is the [Almagest](3819), since Ptolemy refers to the work of many of his predecessors.
+
+Beginnings of Greek astronomy
+Early Greek cosmology
+The main features of Archaic Greek cosmology are shared with those found in ancient near eastern cosmology. They include (a flat) earth, a heaven (firmament) where the sun, moon, and stars are located, an outer ocean surrounding the inhabited human realm, and the netherworld (Tartarus), the first three of which corresponded to the gods Ouranos, Gaia, and Oceanus (or Pontos).
+
+Ionian school
+The philosopher Thales, one of the primary figures of the Ionian school of Greek philosophy is usually credited for initiating the tradition of Greek science. Thales was the first to offer a non-mythological explanation for the composition of the cosmos. Like his predecessors, such as Hesiod and Homer, he believed the Earth to have been flat and resting on a primordial and endless ocean. However, he proposed that the universe was fundamentally composed of water. The most famous successors of the tradition begun by Thales were Plato and [Aristotle](162); while much thought continued to rely on intuition, the lasting legacy of this work was that it offered non-supernatural explanations for the normal operations of the universe; mathematics (especially geometry) was significantly developed and applied on the problems that were worked on; and it was thought that observation could disqualify candidate explanations for how the world worked.  
+Anaximander, a student of Thales and another prominent member of the Ionian school, realized that the northern sky seems to turn around the North star, which led him to the concept of a Celestial sphere around Earth. And, as the sky seems to vary with latitude, he also considered that Earth's surface may be curved as well. However, he incorrectly thought that the Earth was a cylinder as opposed to a sphere. The notion of a spherical Earth first found an audience with the Pythagoreans, but this was due to philosophical as opposed to scientific reasons: the sphere was considered a perfectly geometrical figure.
+
+Framework
+Axioms
+According to Ptolemy in his [Almagest](3819) (1.2), Greek astronomy was predicated on the following assumptions (or hypotheses in Greek terminology):
+
+The heavens are spherical
+The heavenly sphere rotates
+The Earth is spherical
+The Earth is the center of the cosmos
+"the Earth in size and distance has the ratio of a point to the sphere of the fixed stars"
+The Earth is immobile
+The first book of the [Almagest](3819) included a chapter dedicated to the defense of each of these assumptions and refuting alternative positions, using both philosophy and astronomical observation.
+
+Planets
+The term "planet" comes from the Greek term πλανήτης (planētēs), meaning "wanderer", as ancient astronomers noted how certain points of lights moved across the sky in relation to the other stars (which appear fixed). Five planets can be seen with the naked eye: Mercury, Venus, Mars, Jupiter, and Saturn, the Greek names being Hermes, Aphrodite, Ares, Zeus and Cronus. Early Greek astronomers thought that the evening and morning appearances of Venus represented two different objects, calling it Hesperus ("evening star") when it appeared in the western evening sky and Phosphorus ("light-bringer") when it appeared in the eastern morning sky. They eventually came to recognize that both objects were the same planet. Credit is variously attributed to Pythagoras or Parmenides for this discovery.
+
+Constellations
+Eudoxus is typically thought to have standardized the names of the constellations. The earliest extant description of the constellations, the Phaenomena of Aratus (270 BC), is the primary source for his work on this subject. The seventh and eighth books of the [Almagest](3819) would constitute a star catalogue of the names, positions, and magnitudes of over a thousand stars that Ptolemy placed into the traditional classification of 48 constellations. The most important of these were the twelve constellations that defined the zodiac.
+
+Sizes of astral bodies
+Aristarchus also wrote a book On the Sizes and Distances of the Sun and Moon, which is his only work to have survived. In this work, he calculated the sizes of the Sun and Moon, as well as their distances from the Earth in Earth radii. Shortly afterwards, Eratosthenes calculated the size of the Earth, providing a value for the Earth radii which 252,000 stades, which may be equivalent to 39,690 kilometers, rather close to the true figure of 40,120 kilometers. Hipparchus wrote another book On the Sizes and Distances of the Sun and Moon, which has not survived. Both Aristarchus and Hipparchus drastically underestimated the distance of the Sun from the Earth.
+
+Geocentrism and heliocentrism
+Geocentrism, the idea that the Earth was at the center of the solar system (or even cosmos) and that the other heavenly bodies, including the sun, moon, and the planets revolved around it, was dominant in ancient Greece and ancient cosmographical systems more generally. However, various alternatives appeared at one time or another. For example, the Pythagorean astronomical system, as proposed by Philolaus in the 5th century BC, proposed that there was an unseen "Central Fire" (not to be confused with the sun) around which all other bodies of the cosmos revolved. Heraclides Ponticus posited a geo-heliocentric system, where the sun rotated around the earth, but all other bodies rotated around the sun. Finally, in the 3rd century BCE, [Aristarchus of Samos](3856) (sometimes called the "Ancient Copernicus") was the first and only premodern figure to propose a truly heliocentric model of the Solar System, placing the sun, not the earth, at the center of the universe.
+
+Classical Greek astronomy
+Plato and Eudoxus of Cnidus were both active in astronomical thought in the first half of the fourth century BC, and with them came a decisive shift in Greek astronomy. The work of these two figures represents a shift from earlier stellar concerns, focusing on the study of the stars, to the study of the planet. A new two-sphere model of the solar system was proposed, and, for the first time, explanations for planetary observations were posited in the form of geometric theories. The two-sphere model posits that heaven and earth are a pair of concentric spheres. That is to say, that both heaven and earth are conceived of as a sphere which have the same center. In this way, they resemble the structure of an (conceptually spherical) egg, with an outer sphere (the heaven) encompassing an inner sphere (the earth). The outer, celestial sphere contains the fixed stars as well as the sun, moon, and planets moving along its surface. The inner terrestrial sphere is fixed in the center. Out of this arises the concept of a "celestial equator", which is the same as the equator of the earth, projected outward onto the celestial sphere. The term "ecliptic" refers to the annual path of the sun around the celestial sphere. This path is tilted 23° with respect to the celestial equator. The two locations where the ecliptic and the celestial equator meet represent the equinoxes (in the spring and fall). The two points where the ecliptic is furthest away from the equator represents the solstices (summer and winter).
+Eudoxus of Cnidus lived and practiced astronomy in the first half of the fourth century BC. His works are lost and so information about him comes from secondary references in ancient texts. There is a group of fragments about astronomy in the fourth century BC known as the Eudoxus Papyrus, but it contains little relevant informations about the views of Eudoxus himself. According to Hipparchus in his commentary on Aratus, Eudoxus is thought to have written include one called Mirror and another called Phaenomena, though an Oktaeteris is pseudonymously attributed to him. Another work, On Speeds, endeavored to understand the then-unpredictable motions of the planets. He began his work in [Athens](599) and [Egypt](1987), he went on to found a school in Cyzicus where he gained his reputation. His pupils include Menaechmus, credited as the inventor of the notion of conic sections, and Polemarchus, whose own pupil [Callippus](3889) offered well-received modifications of the Eudoxan theory of homocentric spheres. He also contributed to the calendar and the parapegma literature.
+Eudoxus' model of planetary motion survives as summarized by [Aristotle](162) (Metaphysics XII, 8) as well as the commentary of Simplicius on the De caelo of [Aristotle](162), produced in the 6th century AD. Eudoxus' model attempted to explain the planetary motions being observed. The key means by which it did so was by saying the fixed stars were moved along one rotating sphere, whereas each of the planets moved along several nested rotated spheres each with their own speed and pole. Eudoxus established a school of thought that prioritized the use of geometrical models to explain the apparent paths of the stars. Some, however, noticed flaws in the system of Eudoxus. [Autolycus of Pitane](3870) observed that the moon would be observed to be a different size when the observation was taken at different times. However, this contradicted the Eudoxan theory of homocentrics, since it did not allow for any variation in the distance between the earth and the moon.
+
+Hellenistic astronomy
+[Apollonius of Perga](3846)
+[Apollonius of Perga](3846) (c. 240 BCE – c. 190 BCE) responded to the problems in earlier astronomical theories, especially that of Eudoxus, by producing the theory of eccentrics and epicycles (and their deferents). This was further elaborated on by Hipparchus in the second century BC and, later, by Ptolemy in the 2nd century AD. This model allowed for theory to account for changes in the distance between the earth and other astral bodies. However, while Apollonius is often credited with developing this theory, some think that the evidence for this is tenuous. Some evidence may tie in an earlier author, [Archimedes](3851), with knowledge of epicycles and eccentrics, and the Antikythera mechanism also appears to presuppose eccentrics and epicycles in the way it produces calculations.
+
+Hipparchus
+Hipparchus was a substantial figure of Greek astronomy in the 2nd century BC. He compiled a star catalogue, according to Pliny the Elder observed a nova (new star), and discovered the precession of the equinoxes. He appears to have had substantial information about Babylonian astronomers; no indications of such knowledge of Babylonian astronomy exists for previous Greek authors. It is not known how he had access to this information and it is likely that knowledge of Babylonian astronomy among the successors of Hipparchus in later eras, such as Ptolemy, relied on Hipparchus for their information of it. Hipparchus' observations allowed him to discover that the tropical year was slightly less than 365.25 days, whereas the sidereal year was slightly more than 365.25 days. Hipparchus is now known to have been correct, although it is not clear how Hipparchus discovered this.
+
+Ptolemaic astronomy
+Overview
+Claudius Ptolemy was a mathematician who worked in the city of [Alexandria](1844) in Roman [Egypt](1987) in the 2nd century AD, deeply examining the shape and motion of the Earth and other celestial bodies. Ptolemy's most important work was the [Almagest](3819) (also known as the Mathematical Composition) and he composed other works such as the Hypotheses, Tetrabiblos, Handy Tables, the Canobic Inscription, and other minor works.
+
+The [Almagest](3819)
+The [Almagest](3819) is one of the most influential books in the history of Western astronomy. The [Almagest](3819) was a monumental series of 13 books including roughly a quarter-million words in Greek that gave a comprehensive treatment of astronomy until its time, incorporating theorems, models, and observations from many previous mathematicians. The topics covered by the 13 books are as follows:
+
+Book 1 explains the presuppositions and tools that he is working with.
+Book 2 provides the basic results that one can arrive at with a spherical astronomy.
+Book 3 provides a theory of the sun.
+Book 4 provides an equivalent treatment for the moon.
+Book 5 deals with the new complications that arise from applying Ptolemy's theory to the moon, as opposed to the simpler case of the sun.
+Book 6 combines the theory of the sun and the moon to produce a theory that predicts eclipses.
+Books 7 and 8 start freshly; they lay out the theory and practice when working with fixed stars and conclude with a catalogue of 1,022 stars.
+Books 9 to 13 are dedicated to the five visible (and thus, at the time, the five known) planets.
+Book 9 lays out a general approach for all the planets, followed by the theory for Mercury.
+Book 10 deals with Venus and Mars.
+Book 11 deals with Jupiter and Saturn.
+Book 12 deals with the phenomena of retrogradation and other features of planetary motion.
+Book 13 deals with deviations of the planets from the ecliptic.
+
+Eccentrics and epicycles
+The Greeks sought to explain how a model could explain the irregular motions of the heavenly bodies. Since the moon and other objects appear to change in size depending on the time of observation, it was understood that the earths distance to other astral bodies was changing, and that a simple circular motion of another body around the earth, as in the homocentric theory of Eudoxus, was unable to account for this. Ptolemy accepted and elaborated on the notion of eccentrics and epicycles to explain this phenomenon. The eccentric is the posit that the observer is not located at the center of rotation. Therefore, if the earth were not, for example, at the center of the rotation of the earth, the moon would appear to have a nonuniform motion to an observation from the earth: when the moon was passing by closer to the earth, its motion would seem faster and it would look larger (because it was closer); otherwise, it would appear slower and smaller. The notion of an epicycle was to say that there was a circle of rotation around the earth, but to reject the idea that the rotating body itself would be placed on that circle. Instead, a smaller rotating circle would be placed on the larger circle rotating around the earth, and this smaller circle is called a deferent. The body itself rotates around the circle of the deferent, meanwhile the deferent as a whole would be rotating around the earth. This would also enable an observer from the earth to observe an irregular motion on the part of the astral body. 
+Eccentrics and epicycles are the two main tools of Ptolemaic astronomy, and Ptolemy demonstrated that the two were closely related. In the case of the sun, Ptolemy understood that its motion could be predicted either by an eccentric or by an epicycle. Once celestial bodies other than the sun were introduced to the model, such as the planets, it became more complex. The models for Jupiter, Saturn, and Mars included the center of the circle, the equant point, the epicycle, and an observer from earth to give perspective. The discovery of this model was that the center of the Mercury and Venus epicycles must always be colinear with the Sun. This assures of bounded elongation. Bounded elongation is the angular distance of celestial bodies from the center of the universe. Ptolemy's model of the cosmos and his studies landed him an important place in history in the development of modern-day science. In the Ptolemaic system, the Earth was at the center of the universe with the Moon, the Sun, and five planets circling it. The circle of fixed stars marked the outermost sphere of the universe and beyond that would be the philosophical "aether" realm. The Earth was at the exact center of the cosmos. The sphere carrying the Moon is described as the boundary between the corruptible and changing sublunary world and the incorruptible and unchanging heavens above it.
+
+Influence
+Reception of Ptolemy's [Almagest](3819)
+Ptolemaic astronomy became standard in medieval western European and Islamic astronomy until it was displaced by Maraghan, heliocentric and Tychonic systems by the 16th century. 
+The first critical discussion of the [Almagest](3819) is by Artemidorus in the late second or early third century, though he understood it poorly. In the fourth century, Pappus of [Alexandria](1844) and Theon of [Alexandria](1844) composed commentaries or treatises on sections of the [Almagest](3819). These works, however, only sought to understand the [Almagest](3819) as opposed to improving or building upon it. This changed in the fifth century with the Neoplatonist philosopher Proclus. His exposition of the [Almagest](3819) displayed, unlike his predecessors, a detailed grasp of the technical details of Ptolemy's work. Though Proclus criticized some elements of the [Almagest](3819), such as its suggestion of the existence of epicycles, he and future Neoplatonists believed astronomy was essential to theology and continued to read Ptolemy's works. Students and successors of Proclus to continue working in the tradition of the [Almagest](3819) included Hilarius of Antioch and Marinus. An ill-studied full-scale commentary on the [Almagest](3819) was produced in the sixth century, and of interest to historians are the significant number of scholia to its margins and between columns by scribes copying the text in later centuries that further engage with the [Almagest](3819). The author of the original commentary is, however, not known, as many plausible candidates studied in the astronomy of Ptolemy lived in this era, such as Eutocius of Ascalon and John Philoponus.
+
+Indian astronomy
+Several Greco-Roman astrological treatises are also known to have been imported into India during the first few centuries of our era. The Yavanajataka ("Sayings of the Greeks") was translated from Greek to Sanskrit by Yavanesvara during the 2nd century, under the patronage of the Western Satrap Saka king Rudradaman I. Rudradaman's capital at Ujjain "became the Greenwich of Indian astronomers and the Arin of the Arabic and Latin astronomical treatises; for it was he and his successors who encouraged the introduction of Greek horoscopy and astronomy into India."
+Later in the 6th century, the Romaka Siddhanta ("Doctrine of the Romans"),  and the Paulisa Siddhanta (sometimes attributed as the "Doctrine of Paul" or in general the Doctrine of Paulisa muni) were considered as two of the five main astrological treatises, which were compiled by Varahamihira in his Pañca-siddhāntikā ("Five Treatises").
+
+Notable Greek astronomers
+In addition to the authors named in the article, the following list of people who worked on mathematical astronomy or cosmology may be of interest.
+
+See also
+[Astronomy](3865) instruments
+Antikythera mechanism
+Greek mathematics
+History of astronomy
+Babylonian influence on Greek astronomy
+
+References
+Citations
+Sources
+Bailey, Harold W. (1943). Zoroastrian Problems In The Ninth Century Books. Clarendon Press.
+Bennett, Jeffrey; Shostak, Seth; Schneider, Nicholas; MacGregor, Meredith (2017). Life in the Universe. Princeton University Press.
+Bowler, Peter J.; Morus, Iwan Rhys (2010). Making Modern Science: A Historical Survey. University of Chicago Press. ISBN 978-0-226-06862-6.
+Clagett, Marshall (1955). Greek Science in Antiquity. Dover Publications. ISBN 978-0-486-41973-2.
+Clay, Diskin (1992). "The World of Hesiod". Ramus. 21 (2): 131–155.
+Gilbert, Robert Andrew (2024). "Varahamihira: Indian philosopher and scientist". Britannica.
+Evans, James (1998). The History and Practice of Ancient [Astronomy](3865). New York: Oxford University Press. ISBN 978-0-19-509539-5.
+Evans, Ben (2022). NASA's Voyager Missions: Exploring the Outer Solar System and Beyond (2nd ed.). Springer. doi:10.1007/978-3-031-07923-8. ISBN 978-3-031-07922-1.
+Grosu, Emanuel (2019). "The Heliocentrism of the Ancient: Between Geometry and Physics". Hermeneia. 23: 53–61.
+Heath, Thomas L. (1913). [Aristarchus of Samos](3856). Oxford: Cambridge University Press. ISBN 978-1-108-06233-6.
+Lindberg, David C. (2010). The Beginnings of Western Science: The European Scientific Tradition in Philosophical, Religious, and Institutional Context, 600 B.C. to A.D. 1450 (2 ed.). Chicago: University of Chicago Press. ISBN 978-0-226-48204-0.
+Marinatos, Nanno (2010). "Light and Darkness and Archaic Greek Cosmography". In Christopoulos, Menelaos; Karakantza, Efimia D.; Levaniouk, Olga (eds.). Light and Darkness in [Ancient Greek](3061) Myth and Religion. Lexington Books. pp. 193–200.
+Montelle, Clemency (2020). "The Celestial Sphere". In Bowen, Alan C.; Rochberg, Francesca (eds.). Hellenistic [Astronomy](3865): The Science in Its Contexts. Brill. pp. 9–23.
+Netz, Reviel (2022). A New History of Greek Mathematics. Cambridge University Press. ISBN 978-1-108-83384-4.
+Neugebauer, Otto E. (1975). A History of Ancient Mathematical [Astronomy](3865). Berlin: Springer. ISBN 978-0-387-06995-1.
+Pingree, David (1963). "[Astronomy](3865) and Astrology in India and Iran". Isis. 54 (2): 229–246. doi:10.1086/349703.
+Pingree, David (1973). "The Greek Influence on Early Islamic Mathematical [Astronomy](3865)". Journal of the American Oriental Society. 93 (1): 32–43. doi:10.2307/600515. JSTOR 600515.
+Pingree, David (1994). "The Teaching of the [Almagest](3819) in Late Antiquity". Apeiron. 27 (4): 75–98. doi:10.1515/APEIRON.1994.27.4.75.
+Ross, Micah T. (2020). "Hellenistic [Egypt](1987)ian Planetary Theory". In Bowen, Alan C.; Rochberg, Francesca (eds.). Hellenistic [Astronomy](3865): The Science in Its Contexts. Brill. pp. 160–165.
+Simon-Shoshan, Moshe (2008). ""The Heavens Proclaim the Glory of God..." A Study in Rabbinic Cosmology" (PDF). Bekhol Derakhekha Daehu–Journal of Torah and Scholarship. 20: 67–96.
+Thurston, Hugh (2012). Early [Astronomy](3865). Springer. ISBN 978-1-4612-4322-9.
+Wildberg, Christian (1988). John Philoponus' Criticism of [Aristotle](162)'s Theory of Aether. De Gruyter.
+
+Further reading
+Aaboe, Asger H. (2001). Episodes from the Early History of [Astronomy](3865). New York: Springer. doi:10.1007/978-1-4613-0109-7. ISBN 978-0-387-95136-2.
+Bardi, Alberto (2023). "Cultures of Mathematical Practice in [Alexandria](1844) in [Egypt](1987): Claudius Ptolemy and His Commentators (Second–Fourth Century CE)". In Sriraman, B. (ed.). Handbook of the History and Philosophy of Mathematical Practice. Springer, Cham. pp. 1–19. doi:10.1007/978-3-030-19071-2_111-1. ISBN 978-3-030-19071-2.
+Bowen & Rochberg (eds.), Hellenistic [Astronomy](3865), Brill, 2020. Link.
+Dreyer, John L. E. (1953). A History of [Astronomy](3865) from Thales to Kepler (2nd ed.). New York: Dover Publications. ISBN 978-0-486-60079-6.
+Lloyd, Geoffrey E. R. (1970). Early Greek Science: Thales to [Aristotle](162). New York: W. W. Norton & Co. ISBN 978-0-393-00583-7.
+Newton, Robert R. (1977). The Crime of Claudius Ptolemy. Baltimore: Johns Hopkins University Press. ISBN 978-0-8018-1990-2.
+Pedersen, Olaf (1993). Early Physics and [Astronomy](3865): A Historical Introduction (2nd ed.). Cambridge: Cambridge University Press. ISBN 978-0-521-40340-5.
+
+External links
+
+[Almagest](3819) Planetary Model Animations
+MacTutor History of Mathematics Archive
+Greek [Astronomy](3865) Archived 2019-07-19 at the Wayback Machine

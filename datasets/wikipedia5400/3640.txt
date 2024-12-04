@@ -1,0 +1,107 @@
+3640
+Aplastic anemia
+Aplastic anemia (AA) is a severe hematologic condition in which the body fails to make blood cells in sufficient numbers. Blood cells are produced in the bone marrow by stem cells that reside there. Aplastic anemia causes a deficiency of all blood cell types: red blood cells, white blood cells, and platelets.
+It occurs most frequently in people in their teens and twenties but is also common among the elderly. It can be caused by immune disease, or by exposure to chemicals, drugs, or radiation. However, in about half of cases, the cause is unknown.
+Aplastic anemia can be definitively diagnosed by bone marrow biopsy. Normal bone marrow has 30–70% blood stem cells, but in aplastic anemia, these cells are mostly gone and are replaced by fat.
+First-line treatment for aplastic anemia consists of immunosuppressive drugs—typically either anti-lymphocyte globulin or anti-thymocyte globulin—combined with corticosteroids, chemotherapy, and ciclosporin. Hematopoietic stem cell transplantation is also used, especially for patients under 30 years of age with a related, matched marrow donor.
+Aplastic anemia is known to have caused the deaths of [Marie Curie](3601), Eleanor Roosevelt, Luana Reyes, and Molly Holzschlag.
+
+Signs and symptoms
+Anemia may lead to fatigue, pale skin, severe bruising, and a fast heart rate.
+Low platelets are associated with an increased risk of bleeding, bruising, and petechiae, with lower blood counts that impact the ability of the blood to clot. Low white blood cells increase the risk of infections.
+
+Causes
+Aplastic anemia can be caused by immune disease or exposure to certain chemicals, drugs, radiation, or infection; in about half the cases, a definitive cause is unknown. It is not a hereditary condition, nor is it contagious.
+Aplastic anemia is also sometimes associated with exposure to toxins such as benzene or with the use of certain drugs, including chloramphenicol, carbamazepine, felbamate, phenytoin, quinine, and phenylbutazone. However, the probability that these drugs will lead to aplastic anemia in a given patient is very low. Chloramphenicol treatment is associated with aplasia in less than one in 40,000 treatment courses, and carbamazepine aplasia is even rarer.
+Exposure to ionizing radiation from radioactive materials or radiation-producing devices is also associated with the development of aplastic anemia. [Marie Curie](3601), famous for her pioneering work in the field of radioactivity, died of aplastic anemia after working unprotected with radioactive materials for a long period of time; the damaging effects of ionizing radiation were not then known.
+Aplastic anemia is present in up to 2% of patients with acute viral hepatitis.
+One known cause is an autoimmune disorder in which white blood cells attack the bone marrow. Acquired aplastic anemia is a T-cell mediated autoimmune disease, in which regulatory T cells are decreased and T-bet, a transcription factor and key regulator of Th1 development and function, is upregulated in affected T-cells. As a result of active transcription of the interferon gamma (IFN-gamma) gene by T-bet, IFN-gamma levels are increased, which reduces colony formation of hematopoietic progenitor cells in vitro by inducing apoptosis of CD34+ cells in the bone marrow.
+Short-lived aplastic anemia can also be a result of parvovirus infection. In humans, the P antigen (also known as globoside), one of many cellular receptors that contribute to a person's blood type, is the cellular receptor for parvovirus B19, which causes erythema infectiosum (fifth disease) in children. Because it infects red blood cells as a result of the affinity for the P antigen, parvovirus causes complete cessation of red blood cell production. In most cases, this goes unnoticed, as red blood cells live on average 120 days, and the drop in production does not significantly affect the total number of circulating cells. However, in people with conditions where the cells die early (such as sickle cell disease), parvovirus infection can lead to severe anemia.
+More frequently, parvovirus B19 is associated with aplastic crisis, which involves only red blood cells (despite the name). Aplastic anemia involves all cell lines.
+Other viruses that have been linked to the development of aplastic anemia include hepatitis, Epstein-Barr, cytomegalovirus, and HIV.
+In some animals, aplastic anemia may have other causes. For example, in the ferret (Mustela putorius furo), it is caused by estrogen toxicity, because female ferrets are induced ovulators, so mating is required to bring the female out of heat. Intact females, if not mated, will remain in heat, and after some time the high levels of estrogen will cause the bone marrow to stop producing red blood cells.
+
+Diagnosis
+Aplastic anemia must be differentiated from pure red cell aplasia. In aplastic anemia, the patient has pancytopenia (i.e., also leukopenia and thrombocytopenia) resulting in a decrease of all formed elements. In contrast, pure red cell aplasia is characterized by a reduction in red cells only. The diagnosis can only be confirmed with a bone marrow examination.
+Before this procedure is undertaken, a patient will generally have had other blood tests to find diagnostic clues, including a complete blood count, renal function and electrolytes, liver enzymes, thyroid function tests, vitamin B12 and folic acid levels.
+Tests that may aid in determining an etiology for aplastic anemia include:
+
+History of iatrogenic exposure to cytotoxic chemotherapy: transient bone marrow suppression
+Vitamin B12 and folate levels: vitamin deficiency
+Liver tests: liver diseases
+Viral studies: viral infections
+Chest X-ray: infections
+X-rays, computed tomography (CT) scans, or ultrasound imaging tests: enlarged lymph nodes (sign of lymphoma), kidneys, and bones in arms and hands (abnormal in Fanconi anemia)
+Antibody test: immune competency
+Blood tests for paroxysmal nocturnal hemoglobinuria
+Bone marrow aspirate and biopsy: to rule out other causes of pancytopenia (i.e., neoplastic infiltration or significant myelofibrosis).
+
+Pathogenesis
+For many years, the cause of acquired aplastic anemia was not clear. Now, autoimmune processes are considered to be responsible. The majority of cases are hypothesized to be the result of T-cell-mediated autoimmunity and destruction of the bone marrow, which leads to defective or nearly absent hematopoiesis. It is suggested that unidentified antigens cause a polyclonal expansion of dysregulated CD4+ T cells and overproduction of pro-inflammatory cytokines, such as interferon-γ and tumor necrosis factor-α. Ex vivo bone marrow models show an expansion of dysregulated CD8+ T cell populations. Activated T cells also induce apoptosis in hematopoietic stem cells.
+Aplastic anemia is associated with increased levels of Th17 cells—which produce pro-inflammatory cytokine IL-17—and interferon-γ-producing cells in the peripheral blood and bone marrow. Th17 cell populations also negatively correlate with regulatory T-cell populations, suppressing auto-reactivity to normal tissues, including the bone marrow. Deep phenotyping of regulatory T-cells showed two subpopulations with specific phenotypes, gene expression signatures, and functions.
+Studies in patients who responded to immunosuppressive therapy found dominant subpopulations characterized by higher expression of HLA-DR2 and HLA-DR15 (mean age of two groups: 34 and 21 years), FOXP3, CD95, and CCR4; lower expression of CD45RA (mean age: 45 years); and expression of the IL-2/STAT5 pathway. Higher frequency of HLA-DR2 and HLA-DR15 may cause augmented presentation of antigens to CD4+ T-cells, resulting in immune-mediated destruction of the stem cells. In addition, HLA-DR2-expressing cells augment the release of tumor necrosis factor-α, which plays a role in disease pathology.
+The hypothesis of aberrant, disordered T-cell populations as the initiators of aplastic anemia is supported by findings that immunosuppressive therapy for T-cells (for example, anti-thymocyte globulin and ciclosporin) results in a response in up to 80% of severe aplastic anemia patients.
+CD34+ progenitor cells and lymphocytes in the bone marrow over-express the Fas receptor, the main element in apoptotic signaling. A significant increase in the proportion of apoptotic cells in the bone marrow of aplastic anemia patients has been demonstrated. This suggests that cytokine-induced and Fas-mediated apoptosis play roles in bone marrow failure because annihilation of CD34+ progenitor cells leads to hematopoietic stem cell deficiency.
+
+Frequently detected autoantibodies
+A study of blood and bone marrow samples obtained from 18 aplastic anemia patients revealed more than 30 potential specific candidate autoantigens after the serologic screening of a fetal liver library with sera from 8 patients. The human fetal liver cDNA library (chosen because of its high enrichment of CD34+ cells), compared with peripheral blood or the bone marrow, significantly increased the likelihood of detection of possible stem cell autoantigens.
+ELISA and Western blot analysis revealed that an IgG antibody response to one of the candidate autoantigens, kinectin, was present in a significant number of patients (39%). In contrast, no antibody was detected in 35 healthy volunteers. Antibody was detected in both transfused and transfusion-naive patients, suggesting that antikinectin autoantibody development was not due to transfusion-related alloreactivity. Negative sera from patients with other autoimmune diseases (systemic lupus erythematosus, rheumatoid arthritis, and multiple sclerosis) showed a specific association of antikinectin antibodies with aplastic anemia. These results support the hypothesis that immune response to kinectin may be involved in the pathophysiology of the disease.
+Kinectin is a large molecule (1,300 amino acid residues) expressed by CD34+ cells. Several kinectin-derived peptides can be processed and presented by HLA I and can induce antigen-specific CD8+ T-cell responses.
+
+Bone marrow microenvironment
+A critical factor for healthy stem cell production is the bone marrow microenvironment. Important components are stromal cells, the extracellular matrix, and local cytokine gradients. The hematopoietic and non-hematopoietic elements of the bone marrow closely interact with each other and sustain and maintain the balance of hematopoiesis.
+In addition to low numbers of hematopoietic stem cells, aplastic anemia patients have altered hematopoietic niche
+
+cytotoxic T-cells (polyclonal expansion of dysregulated CD4+ T-cells) trigger apoptosis in bone marrow cells
+activated T-cells induce apoptosis in hematopoietic stem cells
+there is abnormal production of interferon-γ, tumor necrosis factor-α, and transforming growth factor
+overexpression of Fas receptor leads to apoptosis of hematopoietic stem cells
+poor quality and quantity of regulatory T-cells means failure in suppressing auto-reactivity, which leads to abnormal T-cell expansion
+due to higher amounts of interferon-γ, macrophages are more frequent in the bone marrow of aplastic anemia patients; interferon-mediated loss of hematopoietic stem cells occurs only in the presence of macrophages
+interferon-γ can cause direct exhaustion and depletion of hematopoietic stem cells and indirect reduction of their functions through cells that are part of the bone marrow microenvironment (e.g., macrophages and mesenchymal stem cells)
+increased numbers of B cells produce autoantibodies against hematopoietic stem cells
+increased numbers of adipocytes and decreased numbers of pericytes also play a role in suppressing hematopoiesis
+
+Treatment
+Treating immune-mediated aplastic anemia involves suppression of the immune system, an effect achieved by daily medicine or, in more severe cases, a bone marrow transplant, a potential cure. The transplanted bone marrow replaces the failing bone marrow cells with new ones from a matching donor. The multipotent stem cells in the bone marrow reconstitute all three blood cell lines, giving the patient a new immune system, red blood cells, and platelets. However, besides the risk of graft failure, there is also a risk that the newly created white blood cells may attack the rest of the body ("graft-versus-host disease").
+In young patients with an HLA-matched sibling donor, bone marrow transplant can be considered as a first-line treatment. Patients lacking a matched sibling donor typically pursue immunosuppression as a first-line treatment, and matched, unrelated donor transplants are considered second-line therapy.
+Treatment often includes a course of antithymocyte globulin (ATG) and several months of treatment with ciclosporin to modulate the immune system. Chemotherapy with agents such as cyclophosphamide may also be effective but is more toxic than ATG. Antibody therapy such as ATG targets T cells, which are believed to attack the bone marrow. Corticosteroids are generally ineffective, though they are used to ameliorate serum sickness caused by ATG. Normally, success is judged by bone marrow biopsy six months after initial treatment with ATG.
+One prospective study involving cyclophosphamide was terminated early due to a high incidence of mortality from severe infections as a result of prolonged neutropenia.
+Before the above treatments became available, patients with low leukocyte counts were often confined to a sterile room or bubble (to reduce risk of infection), as in the case of Ted DeVita.
+
+Follow-up
+Full blood counts are required on a regular basis to determine whether the patient is still in remission.
+Many patients with aplastic anemia also have clones of cells characteristic of paroxysmal nocturnal hemoglobinuria (PNH), a rare disease that causes anemia with thrombocytopenia and/or thrombosis and is sometimes referred to as AA/PNH. Occasionally PNH dominates over time, with the major manifestation of intravascular hemolysis. The overlap of AA and PNH has been speculated to be an escape mechanism by the bone marrow against destruction by the immune system. Flow cytometry testing is performed regularly in people with previous aplastic anemia to monitor for the development of PNH.
+
+Prognosis
+Untreated, severe aplastic anemia has a high risk of death. Modern treatment produces a five-year survival rate that exceeds 85%, with younger age associated with higher survival.
+Survival rates for stem cell transplants vary depending on the age and availability of a well-matched donor. They are better for patients who have donors that are matched siblings and worse for patients who receive their marrow from unrelated donors. Overall, the five-year survival rate is higher than 75% among recipients of blood marrow transplantation.
+Older people (who are generally too frail to undergo bone marrow transplants) and people who are unable to find a good bone marrow match have five-year survival rates of up to 35% when undergoing immune suppression.
+Relapses are common. Relapse following ATG/ciclosporin use can sometimes be treated with a repeated course of therapy. In addition, 10–15% of severe aplastic anemia cases evolve into myelodysplastic syndrome and leukemia. According to one study, 15.9% of children who responded to immunosuppressive therapy eventually relapsed.
+Milder disease may resolve on its own.
+
+Etymology
+Aplastic is a combination of two ancient Greek elements: a- (meaning "not") and -plasis ("forming into a shape"). Anemia is a combination of the ancient Greek element an- ("not") and -emia (Neo-Latin from the Greek -(h)aimia, meaning "blood").
+
+Epidemiology
+Aplastic anemia is a rare, noncancerous disorder in which the blood marrow is unable to adequately produce blood cells required for survival. It is estimated that the incidence of aplastic anemia is 0.7–4.1 cases per million people worldwide, with the prevalence between men and women being approximately equal. The incidence rate of aplastic anemia in Asia is 2–3 times higher than it is in the West; the incidence in the United States is 300–900 cases per year. The disease most commonly affects adults aged 15–25 and over the age of 60, but it can be observed in all age groups.
+The disease is usually acquired during life and not inherited. Acquired cases are often linked to environmental exposures such as chemicals, drugs, and infectious agents that damage the bone marrow and compromise its ability to generate new blood cells. However, in many instances the underlying cause for the disease is not found. This is referred to as idiopathic aplastic anemia and accounts for 75% of cases. This compromises the effectiveness of treatment since treatment of the disease is often aimed at the underlying cause.
+Those with a higher risk for aplastic anemia include individuals who are exposed to high-dose radiation or toxic chemicals, take certain prescription drugs, have pre-existing autoimmune disorders or blood diseases, or are pregnant. No screening test currently exists for early detection of aplastic anemia.
+
+Notable cases
+[Marie Curie](3601)
+Eleanor Roosevelt
+Donny Schmit
+Ted DeVita
+Demetrio Stratos
+John Dill (British Field Marshal)
+Robert McFall (asbestos worker from Pittsburgh who unsuccessfully sued his cousin for a transfusion of bone marrow)
+
+See also
+Fanconi anemia
+Acquired pure red cell aplasia
+
+References
+External links
+Mayo Clinic
+MedlinePlus Encyclopedia: 000554—Idiopathic aplastic anemia

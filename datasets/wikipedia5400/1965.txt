@@ -1,0 +1,5236 @@
+1965
+Composite material
+A composite material (also called a composition material or shortened to composite, which is the common name) is a material which is produced from two or more constituent materials. These constituent materials have notably dissimilar chemical or physical properties and are merged to create a material with properties unlike the individual elements. Within the finished structure, the individual elements remain separate and distinct, distinguishing composites from mixtures and solid solutions. Composite materials with more than one distinct layer are called composite laminates.
+Typical engineered composite materials include:
+
+Reinforced concrete and masonry
+Composite wood such as plywood
+Reinforced plastics, such as fibre-reinforced polymer or fiberglass
+Ceramic matrix composites (composite ceramic and metal matrices)
+Metal matrix composites
+and other advanced composite materials
+There are various reasons where new material can be favoured. Typical examples include materials which are less expensive, lighter, stronger or more durable when compared with common materials, as well as composite materials inspired from animals and natural sources with low carbon footprint.
+More recently researchers have also begun to actively include sensing, actuation, computation, and communication into composites, which are known as robotic materials.
+Composite materials are generally used for buildings, bridges, and structures such as boat hulls, swimming pool panels, racing car bodies, shower stalls, bathtubs, storage tanks, imitation granite, and cultured marble sinks and countertops. They are also being increasingly used in general automotive applications.
+The most advanced examples perform routinely on spacecraft and aircraft in demanding environments.
+
+History
+The earliest composite materials were made from straw and mud combined to form bricks for building construction. Ancient brick-making was documented by Egyptian tomb paintings.
+Wattle and daub is one of the oldest composite materials, at over 6000 years old. Concrete is also a composite material, and is used more than any other synthetic material in the world. As of 2009, about 7.5 billion cubic metres of concrete are made each year
+
+Woody plants, both true wood from trees and such plants as palms and bamboo, yield natural composites that were used prehistorically by humankind and are still used widely in construction and scaffolding.
+Plywood, 3400 BC, by the Ancient Mesopotamians; gluing wood at different angles gives better properties than natural wood.
+Cartonnage, layers of linen or papyrus soaked in plaster dates to the First Intermediate Period of Egypt c. 2181–2055 BC and was used for death masks.
+Cob mud bricks, or mud walls, (using mud (clay) with straw or gravel as a binder) have been used for thousands of years.
+Concrete was described by Vitruvius, writing around 25 BC in his Ten Books on Architecture, distinguished types of aggregate appropriate for the preparation of lime mortars. For structural mortars, he recommended pozzolana, which were volcanic sands from the sandlike beds of Pozzuoli brownish-yellow-gray in colour near Naples and reddish-brown at Rome. Vitruvius specifies a ratio of 1 part lime to 3 parts pozzolana for cements used in buildings and a 1:2 ratio of lime to pulvis Puteolanus for underwater work, essentially the same ratio mixed today for concrete used at sea. Natural cement-stones, after burning, produced cements used in concretes from post-Roman times into the 20th century, with some properties superior to manufactured Portland cement.
+Papier-mâché, a composite of paper and glue, has been used for hundreds of years.
+The first artificial fibre reinforced plastic was a combination of fiber glass and bakelite, performed in 1935 by Al Simison and Arthur D Little in Owens Corning Company
+One of the most common and familiar composite is fibreglass, in which small glass fibre are embedded within a polymeric material (normally an epoxy or polyester). The glass fibre is relatively strong and stiff (but also brittle), whereas the polymer is ductile (but also weak and flexible). Thus the resulting fibreglass is relatively stiff, strong, flexible, and ductile.
+Composite bow
+Leather cannon, wooden cannon
+
+Examples
+Composite materials
+Concrete is the most common artificial composite material of all and typically consists of loose stones (aggregate) held with a matrix of cement. Concrete is an inexpensive material, and will not compress or shatter even under quite a large compressive force. However, concrete cannot survive tensile loading (i.e., if stretched it will quickly break apart). Therefore, to give concrete the ability to resist being stretched, steel bars, which can resist high stretching (tensile) forces, are often added to concrete to form reinforced concrete.
+Fibre-reinforced polymers include carbon-fiber-reinforced polymers and glass-reinforced plastic. If classified by matrix then there are thermoplastic composites, short fibre thermoplastics, long fibre thermoplastics or long-fiber-reinforced thermoplastics. There are numerous thermoset composites, including paper composite panels. Many advanced thermoset polymer matrix systems usually incorporate aramid fibre and carbon fibre in an epoxy resin matrix.
+Shape-memory polymer composites are high-performance composites, formulated using fibre or fabric reinforcements and shape-memory polymer resin as the matrix. Since a shape-memory polymer resin is used as the matrix, these composites have the ability to be easily manipulated into various configurations when they are heated above their activation temperatures and will exhibit high strength and stiffness at lower temperatures. They can also be reheated and reshaped repeatedly without losing their material properties. These composites are ideal for applications such as lightweight, rigid, deployable structures; rapid manufacturing; and dynamic reinforcement.
+High strain composites are another type of high-performance composites that are designed to perform in a high deformation setting and are often used in deployable systems where structural flexing is advantageous. Although high strain composites exhibit many similarities to shape-memory polymers, their performance is generally dependent on the fibre layout as opposed to the resin content of the matrix.
+Composites can also use metal fibres reinforcing other metals, as in metal matrix composites (MMC) or ceramic matrix composites (CMC), which includes bone (hydroxyapatite reinforced with collagen fibres), cermet (ceramic and metal), and concrete. Ceramic matrix composites are built primarily for fracture toughness, not for strength. Another class of composite materials involve woven fabric composite consisting of longitudinal and transverse laced yarns. Woven fabric composites are flexible as they are in form of fabric.
+Organic matrix/ceramic aggregate composites include asphalt concrete, polymer concrete, mastic asphalt, mastic roller hybrid, dental composite, syntactic foam, and mother of pearl. Chobham armour is a special type of composite armour used in military applications.
+Additionally, thermoplastic composite materials can be formulated with specific metal powders resulting in materials with a density range from 2 g/cm3 to 11 g/cm3 (same density as lead). The most common name for this type of material is "high gravity compound" (HGC), although "lead replacement" is also used. These materials can be used in place of traditional materials such as aluminium, stainless steel, brass, bronze, copper, lead, and even tungsten in weighting, balancing (for example, modifying the centre of gravity of a tennis racquet), vibration damping, and radiation shielding applications. High density composites are an economically viable option when certain materials are deemed hazardous and are banned (such as lead) or when secondary operations costs (such as machining, finishing, or coating) are a factor.
+There have been several studies indicating that interleaving stiff and brittle epoxy-based carbon-fiber-reinforced polymer laminates with flexible thermoplastic laminates can help to make highly toughened composites that show improved impact resistance. Another interesting aspect of such interleaved composites is that they are able to have shape memory behaviour without needing any shape-memory polymers or shape-memory alloys e.g. balsa plies interleaved with hot glue, aluminium plies interleaved with acrylic polymers or PVC and carbon-fiber-reinforced polymer laminates interleaved with polystyrene.
+A sandwich-structured composite is a special class of composite material that is fabricated by attaching two thin but stiff skins to a lightweight but thick core. The core material is normally low strength material, but its higher thickness provides the sandwich composite with high bending stiffness with overall low density.
+Wood is a naturally occurring composite comprising cellulose fibres in a lignin and hemicellulose matrix. Engineered wood includes a wide variety of different products such as wood fibre board, plywood, oriented strand board, wood plastic composite (recycled wood fibre in polyethylene matrix), Pykrete (sawdust in ice matrix), plastic-impregnated or laminated paper or textiles, Arborite, Formica (plastic), and Micarta. Other engineered laminate composites, such as Mallite, use a central core of end grain balsa wood, bonded to surface skins of light alloy or GRP. These generate low-weight, high rigidity materials.
+Particulate composites have particle as filler material dispersed in matrix, which may be nonmetal, such as glass, epoxy. Automobile tire is an example of particulate composite.
+Advanced diamond-like carbon (DLC) coated polymer composites have been reported where the coating increases the surface hydrophobicity, hardness and wear resistance.
+Ferromagnetic composites, including those with a polymer matrix consisting, for example, of nanocrystalline filler of Fe-based powders and polymers matrix. Amorphous and nanocrystalline powders obtained, for example, from metallic glasses can be used. Their use makes it possible to obtain ferromagnetic nanocomposites with controlled magnetic properties.
+
+Products
+Fibre-reinforced composite materials have gained popularity (despite their generally high cost) in high-performance products that need to be lightweight, yet strong enough to take harsh loading conditions such as aerospace components (tails, wings, fuselages, propellers), boat and scull hulls, bicycle frames, and racing car bodies. Other uses include fishing rods, storage tanks, swimming pool panels, and baseball bats. The Boeing 787 and Airbus A350 structures including the wings and fuselage are composed largely of composites. Composite materials are also becoming more common in the realm of orthopedic surgery, and it is the most common hockey stick material.
+Carbon composite is a key material in today's launch vehicles and heat shields for the re-entry phase of spacecraft. It is widely used in solar panel substrates, antenna reflectors and yokes of spacecraft. It is also used in payload adapters, inter-stage structures and heat shields of launch vehicles. Furthermore, disk brake systems of airplanes and racing cars are using carbon/carbon material, and the composite material with carbon fibres and silicon carbide matrix has been introduced in luxury vehicles and sports cars.
+In 2006, a fibre-reinforced composite pool panel was introduced for in-ground swimming pools, residential as well as commercial, as a non-corrosive alternative to galvanized steel.
+In 2007, an all-composite military Humvee was introduced by TPI Composites Inc and Armor Holdings Inc, the first all-composite military vehicle. By using composites the vehicle is lighter, allowing higher payloads. In 2008, carbon fibre and DuPont Kevlar (five times stronger than steel) were combined with enhanced thermoset resins to make military transit cases by ECS Composites creating 30-percent lighter cases with high strength.
+Pipes and fittings for various purpose like transportation of potable water, fire-fighting, irrigation, seawater, desalinated water, chemical and industrial waste, and sewage are now manufactured in glass reinforced plastics.
+Composite materials used in tensile structures for facade application provides the advantage of being translucent. The woven base cloth combined with the appropriate coating allows better light transmission. This provides a very comfortable level of illumination compared to the full brightness of outside.
+The wings of wind turbines, in growing sizes in the order of 50 m length are fabricated in composites since several years.
+Two-lower-leg-amputees run on carbon-composite spring-like artificial feet as quick as non-amputee athletes.
+High-pressure gas cylinders typically about 7–9 litre volume x 300 bar pressure for firemen are nowadays constructed from carbon composite. Type-4-cylinders include metal only as boss that carries the thread to screw in the valve.
+On 5 September 2019, HMD Global unveiled the Nokia 6.2 and Nokia 7.2 which are claimed to be using polymer composite for the frames.
+
+Overview
+Composite materials are created from individual materials. These individual materials are known as constituent materials, and there are two main categories of it. One is the matrix (binder) and the other reinforcement. A portion of each kind is needed at least. The reinforcement receives support from the matrix as the matrix surrounds the reinforcement and maintains its relative positions. The properties of the matrix are improved as the reinforcements impart their exceptional physical and mechanical properties. The mechanical properties become unavailable from the individual constituent materials by synergism. At the same time, the designer of the product or structure receives options to choose an optimum combination from the variety of matrix and strengthening materials.
+To shape the engineered composites, it must be formed. The reinforcement is placed onto the mould surface or into the mould cavity. Before or after this, the matrix can be introduced to the reinforcement. The matrix undergoes a melding event which sets the part shape necessarily. This melding event can happen in several ways, depending upon the matrix nature, such as solidification from the melted state for a thermoplastic polymer matrix composite or chemical polymerization for a thermoset polymer matrix.
+According to the requirements of end-item design, various methods of moulding can be used. The natures of the chosen matrix and reinforcement are the key factors influencing the methodology. The gross quantity of material to be made is another main factor. To support high capital investments for rapid and automated manufacturing technology, vast quantities can be used. Cheaper capital investments but higher labour and tooling expenses at a correspondingly slower rate assists the small production quantities.
+Many commercially produced composites use a polymer matrix material often called a resin solution. There are many different polymers available depending upon the starting raw ingredients. There are several broad categories, each with numerous variations. The most common are known as polyester, vinyl ester, epoxy, phenolic, polyimide, polyamide, polypropylene, PEEK, and others. The reinforcement materials are often fibres but also commonly ground minerals. The various methods described below have been developed to reduce the resin content of the final product, or the fibre content is increased. As a rule of thumb, lay up results in a product containing 60% resin and 40% fibre, whereas vacuum infusion gives a final product with 40% resin and 60% fibre content. The strength of the product is greatly dependent on this ratio.
+Martin Hubbe and Lucian A Lucia consider wood to be a natural composite of cellulose fibres in a matrix of lignin.
+
+Cores in composites
+Several layup designs of composite also involve a co-curing or post-curing of the prepreg with many other media, such as foam or honeycomb. Generally, this is known as a sandwich structure. This is a more general layup for the production of cowlings, doors, radomes or non-structural parts.
+Open- and closed-cell-structured foams like polyvinyl chloride, polyurethane, polyethylene, or polystyrene foams, balsa wood, syntactic foams, and honeycombs are generally utilized core materials. Open- and closed-cell metal foam can also be utilized as core materials. Recently, 3D graphene structures ( also called graphene foam) have also been employed as core structures. A recent review by Khurram and Xu et al., have provided the summary of the state-of-the-art techniques for fabrication of the 3D structure of graphene, and the examples of the use of these foam like structures as a core for their respective polymer composites.
+
+Semi-crystalline polymers
+Although the two phases are chemically equivalent, semi-crystalline polymers can be described both quantitatively and qualitatively as composite materials. The crystalline portion has a higher elastic modulus and provides reinforcement for the less stiff, amorphous phase. Polymeric materials can range from 0% to 100% crystallinity aka volume fraction depending on molecular structure and thermal history. Different processing techniques can be employed to vary the percent crystallinity in these materials and thus the mechanical properties of these materials as described in the physical properties section. This effect is seen in a variety of places from industrial plastics like polyethylene shopping bags to spiders which can produce silks with different mechanical properties. In many cases these materials act like particle composites with randomly dispersed crystals known as spherulites. However they can also be engineered to be anisotropic and act more like fiber reinforced composites. In the case of spider silk, the properties of the material can even be dependent on the size of the crystals, independent of the volume fraction. Ironically, single component polymeric materials are some of the most easily tunable composite materials known.
+
+Methods of fabrication
+Normally, the fabrication of composite includes wetting, mixing or saturating the reinforcement with the matrix. The matrix is then induced to bind together (with heat or a chemical reaction) into a rigid structure. Usually, the operation is done in an open or closed forming mould. However, the order and ways of introducing the constituents alters considerably. Composites fabrication is achieved by a wide variety of methods, including advanced fibre placement (automated fibre placement), fibreglass spray lay-up process, filament winding, lanxide process, tailored fibre placement, tufting, and z-pinning.
+
+Overview of mould
+The reinforcing and matrix materials are merged, compacted, and cured (processed) within a mould to undergo a melding event. The part shape is fundamentally set after the melding event. However, under particular process conditions, it can deform. The melding event for a thermoset polymer matrix material is a curing reaction that is caused by the possibility of extra heat or chemical reactivity such as an organic peroxide. The melding event for a thermoplastic polymeric matrix material is a solidification from the melted state. The melding event for a metal matrix material such as titanium foil is a fusing at high pressure and a temperature near the melting point.
+It is suitable for many moulding methods to refer to one mould piece as a "lower" mould and another mould piece as an "upper" mould. Lower and upper does not refer to the mould's configuration in space, but the different faces of the moulded panel. There is always a lower mould, and sometimes an upper mould in this convention. Part construction commences by applying materials to the lower mould. Lower mould and upper mould are more generalized descriptors than more common and specific terms such as male side, female side, a-side, b-side, tool side, bowl, hat, mandrel, etc. Continuous manufacturing utilizes a different nomenclature.
+Usually, the moulded product is referred to as a panel. It can be referred to as casting for certain geometries and material combinations. It can be referred to as a profile for certain continuous processes. Some of the processes are autoclave moulding, vacuum bag moulding, pressure bag moulding, resin transfer moulding, and light resin transfer moulding.
+
+Other fabrication methods
+Other types of fabrication include casting, centrifugal casting, braiding (onto a former), continuous casting, filament winding, press moulding, transfer moulding, pultrusion moulding, and slip forming. There are also forming capabilities including CNC filament winding, vacuum infusion, wet lay-up, compression moulding, and thermoplastic moulding, to name a few. The practice of curing ovens and paint booths is also required for some projects.
+
+Finishing methods
+The composite parts finishing is also crucial in the final design. Many of these finishes will involve rain-erosion coatings or polyurethane coatings.
+
+Tooling
+The mould and mould inserts are referred to as "tooling". The mould/tooling can be built from different materials. Tooling materials include aluminium, carbon fibre, invar, nickel, reinforced silicone rubber and steel. The tooling material selection is normally based on, but not limited to, the coefficient of thermal expansion, expected number of cycles, end item tolerance, desired or expected surface condition, cure method, glass transition temperature of the material being moulded, moulding method, matrix, cost, and other various considerations.
+
+Physical properties
+Usually, the composite's physical properties are not isotropic (independent of the direction of applied force) in nature. But they are typically anisotropic (different depending on the direction of the applied force or load). For instance, the composite panel's stiffness will usually depend upon the orientation of the applied forces and/or moments. The composite's strength is bounded by two loading conditions, as shown in the plot to the right.
+
+Isostrain rule of mixtures
+If both the fibres and matrix are aligned parallel to the loading direction, the deformation of both phases will be the same (assuming there is no delamination at the fibre-matrix interface). This isostrain condition provides the upper bound for composite strength, and is determined by the rule of mixtures:
+
+  
+    
+      
+        
+          E
+          
+            C
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+        
+        
+          V
+          
+            i
+          
+        
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{C}=\sum _{i=1}V_{i}E_{i}}
+  
+
+where EC is the effective composite Young's modulus, and Vi and Ei are the volume fraction and Young's moduli, respectively, of the composite phases.
+For example, a composite material made up of α and β phases as shown in the figure to the right under isostrain, the Young's modulus would be as follows:
+  
+    
+      
+        
+          E
+          
+            C
+          
+        
+        =
+        
+          V
+          
+            α
+          
+        
+        
+          E
+          
+            α
+          
+        
+        +
+        
+          V
+          
+            β
+          
+        
+        
+          E
+          
+            β
+          
+        
+      
+    
+    {\displaystyle E_{C}=V_{\alpha }E_{\alpha }+V_{\beta }E_{\beta }}
+  
+where Vα and Vβ are the respective volume fractions of each phase.
+This can be derived by considering that in the isostrain case,
+  
+    
+      
+        
+          ϵ
+          
+            C
+          
+        
+        =
+        
+          ϵ
+          
+            α
+          
+        
+        =
+        
+          ϵ
+          
+            β
+          
+        
+        =
+        ϵ
+      
+    
+    {\displaystyle \epsilon _{C}=\epsilon _{\alpha }=\epsilon _{\beta }=\epsilon }
+  
+ Assuming that the composite has a uniform cross section, the stress on the composite is a weighted average between the two phases,
+  
+    
+      
+        
+          σ
+          
+            C
+          
+        
+        =
+        
+          σ
+          
+            α
+          
+        
+        
+          V
+          
+            α
+          
+        
+        +
+        
+          σ
+          
+            β
+          
+        
+        
+          V
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \sigma _{C}=\sigma _{\alpha }V_{\alpha }+\sigma _{\beta }V_{\beta }}
+  
+ The stresses in the individual phases are given by Hooke's Law,
+  
+    
+      
+        
+          σ
+          
+            β
+          
+        
+        =
+        
+          E
+          
+            β
+          
+        
+        ϵ
+      
+    
+    {\displaystyle \sigma _{\beta }=E_{\beta }\epsilon }
+  
+
+  
+    
+      
+        
+          σ
+          
+            α
+          
+        
+        =
+        
+          E
+          
+            α
+          
+        
+        ϵ
+      
+    
+    {\displaystyle \sigma _{\alpha }=E_{\alpha }\epsilon }
+  
+ Combining these equations gives that the overall stress in the composite is
+  
+    
+      
+        
+          σ
+          
+            C
+          
+        
+        =
+        
+          E
+          
+            α
+          
+        
+        
+          V
+          
+            α
+          
+        
+        ϵ
+        +
+        
+          E
+          
+            β
+          
+        
+        
+          V
+          
+            β
+          
+        
+        ϵ
+        =
+        (
+        
+          E
+          
+            α
+          
+        
+        
+          V
+          
+            α
+          
+        
+        +
+        
+          E
+          
+            β
+          
+        
+        
+          V
+          
+            β
+          
+        
+        )
+        ϵ
+      
+    
+    {\displaystyle \sigma _{C}=E_{\alpha }V_{\alpha }\epsilon +E_{\beta }V_{\beta }\epsilon =(E_{\alpha }V_{\alpha }+E_{\beta }V_{\beta })\epsilon }
+  
+ Then it can be shown that
+  
+    
+      
+        
+          E
+          
+            C
+          
+        
+        =
+        (
+        
+          E
+          
+            α
+          
+        
+        
+          V
+          
+            α
+          
+        
+        +
+        
+          E
+          
+            β
+          
+        
+        
+          V
+          
+            β
+          
+        
+        )
+      
+    
+    {\displaystyle E_{C}=(E_{\alpha }V_{\alpha }+E_{\beta }V_{\beta })}
+
+Isostress rule of mixtures
+The lower bound is dictated by the isostress condition, in which the fibres and matrix are oriented perpendicularly to the loading direction:
+  
+    
+      
+        
+          σ
+          
+            C
+          
+        
+        =
+        
+          σ
+          
+            α
+          
+        
+        =
+        
+          σ
+          
+            β
+          
+        
+        =
+        σ
+      
+    
+    {\displaystyle \sigma _{C}=\sigma _{\alpha }=\sigma _{\beta }=\sigma }
+  
+and now the strains become a weighted average
+  
+    
+      
+        
+          ϵ
+          
+            C
+          
+        
+        =
+        
+          ϵ
+          
+            α
+          
+        
+        
+          V
+          
+            α
+          
+        
+        +
+        
+          ϵ
+          
+            β
+          
+        
+        
+          V
+          
+            β
+          
+        
+      
+    
+    {\displaystyle \epsilon _{C}=\epsilon _{\alpha }V_{\alpha }+\epsilon _{\beta }V_{\beta }}
+  
+Rewriting Hooke's Law for the individual phases
+  
+    
+      
+        
+          ϵ
+          
+            β
+          
+        
+        =
+        
+          
+            σ
+            
+              E
+              
+                β
+              
+            
+          
+        
+      
+    
+    {\displaystyle \epsilon _{\beta }={\frac {\sigma }{E_{\beta }}}}
+  
+
+  
+    
+      
+        
+          ϵ
+          
+            α
+          
+        
+        =
+        
+          
+            σ
+            
+              E
+              
+                α
+              
+            
+          
+        
+      
+    
+    {\displaystyle \epsilon _{\alpha }={\frac {\sigma }{E_{\alpha }}}}
+  
+ This leads to
+  
+    
+      
+        
+          ϵ
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            β
+          
+        
+        
+          
+            σ
+            
+              ϵ
+              
+                β
+              
+            
+          
+        
+        +
+        
+          V
+          
+            α
+          
+        
+        
+          
+            σ
+            
+              ϵ
+              
+                α
+              
+            
+          
+        
+        =
+        (
+        
+          
+            
+              V
+              
+                α
+              
+            
+            
+              ϵ
+              
+                α
+              
+            
+          
+        
+        +
+        
+          
+            
+              V
+              
+                β
+              
+            
+            
+              ϵ
+              
+                β
+              
+            
+          
+        
+        )
+        σ
+      
+    
+    {\displaystyle \epsilon _{c}=V_{\beta }{\frac {\sigma }{\epsilon _{\beta }}}+V_{\alpha }{\frac {\sigma }{\epsilon _{\alpha }}}=({\frac {V_{\alpha }}{\epsilon _{\alpha }}}+{\frac {V_{\beta }}{\epsilon _{\beta }}})\sigma }
+  
+From the definition of Hooke's Law
+  
+    
+      
+        
+          
+            1
+            
+              E
+              
+                C
+              
+            
+          
+        
+        =
+        
+          
+            
+              V
+              
+                α
+              
+            
+            
+              E
+              
+                α
+              
+            
+          
+        
+        +
+        
+          
+            
+              V
+              
+                β
+              
+            
+            
+              E
+              
+                β
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{E_{C}}}={\frac {V_{\alpha }}{E_{\alpha }}}+{\frac {V_{\beta }}{E_{\beta }}}}
+  
+and, in general,
+
+  
+    
+      
+        
+          
+            1
+            
+              E
+              
+                C
+              
+            
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+        
+        
+          
+            
+              V
+              
+                i
+              
+            
+            
+              E
+              
+                i
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{E_{C}}}=\sum _{i=1}{\frac {V_{i}}{E_{i}}}}
+  
+
+Following the example above, if one had a composite material made up of α and β phases under isostress conditions as shown in the figure to the right, the composition Young's modulus would be:
+  
+    
+      
+        
+          E
+          
+            C
+          
+        
+        =
+        (
+        
+          E
+          
+            α
+          
+        
+        
+          E
+          
+            β
+          
+        
+        )
+        
+          /
+        
+        (
+        
+          V
+          
+            α
+          
+        
+        
+          E
+          
+            β
+          
+        
+        +
+        
+          V
+          
+            β
+          
+        
+        
+          E
+          
+            α
+          
+        
+        )
+      
+    
+    {\displaystyle E_{C}=(E_{\alpha }E_{\beta })/(V_{\alpha }E_{\beta }+V_{\beta }E_{\alpha })}
+  
+ The isostrain condition implies that under an applied load, both phases experience the same strain but will feel different stress. Comparatively, under isostress conditions both phases will feel the same stress but the strains will differ between each phase. A generalized equation for any loading condition between isostrain and isostress can be written as:
+
+  
+    
+      
+        (
+        
+          X
+          
+            c
+          
+        
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          V
+          
+            m
+          
+        
+        (
+        
+          X
+          
+            m
+          
+        
+        
+          )
+          
+            n
+          
+        
+        +
+        
+          V
+          
+            r
+          
+        
+        (
+        
+          X
+          
+            r
+          
+        
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (X_{c})^{n}=V_{m}(X_{m})^{n}+V_{r}(X_{r})^{n}}
+  
+
+where X is a material property such as modulus or stress, c, m, and r stand for the properties of the composite, matrix, and reinforcement materials respectively, and n is a value between 1 and −1.
+The above equation can be further generalized beyond a two phase composite to an m-component system:
+
+  
+    
+      
+        (
+        
+          X
+          
+            c
+          
+        
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          V
+          
+            i
+          
+        
+        (
+        
+          X
+          
+            i
+          
+        
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle (X_{c})^{n}=\sum _{i=1}^{m}V_{i}(X_{i})^{n}}
+  
+
+Though composite stiffness is maximized when fibres are aligned with the loading direction, so is the possibility of fibre tensile fracture, assuming the tensile strength exceeds that of the matrix. When a fibre has some angle of misorientation θ, several fracture modes are possible. For small values of θ the stress required to initiate fracture is increased by a factor of (cos θ)−2 due to the increased cross-sectional area (A cos θ) of the fibre and reduced force (F/cos θ) experienced by the fibre, leading to a composite tensile strength of σparallel /cos2 θ where σparallel  is the tensile strength of the composite with fibres aligned parallel with the applied force.
+Intermediate angles of misorientation θ lead to matrix shear failure. Again the cross sectional area is modified but since shear stress is now the driving force for failure the area of the matrix parallel to the fibres is of interest, increasing by a factor of 1/sin θ. Similarly, the force parallel to this area again decreases (F/cos θ) leading to a total tensile strength of τmy /sin θ cos θ where τmy is the matrix shear strength.
+Finally, for large values of θ (near π/2) transverse matrix failure is the most likely to occur, since the fibres no longer carry the majority of the load. Still, the tensile strength will be greater than for the purely perpendicular orientation, since the force perpendicular to the fibres will decrease by a factor of 1/sin θ and the area decreases by a factor of 1/sin θ producing a composite tensile strength of σperp /sin2θ where σperp  is the tensile strength of the composite with fibres align perpendicular to the applied force.
+
+The majority of commercial composites are formed with random dispersion and orientation of the strengthening fibres, in which case the composite Young's modulus will fall between the isostrain and isostress bounds. However, in applications where the strength-to-weight ratio is engineered to be as high as possible (such as in the aerospace industry), fibre alignment may be tightly controlled.
+Panel stiffness is also dependent on the design of the panel. For instance, the fibre reinforcement and matrix used, the method of panel build, thermoset versus thermoplastic, and type of weave.
+In contrast to composites, isotropic materials (for example, aluminium or steel), in standard wrought forms, possess the same stiffness typically despite the directional orientation of the applied forces and/or moments. The relationship between forces/moments and strains/curvatures for an isotropic material can be described with the following material properties: Young's Modulus, the shear modulus, and the Poisson's ratio, in relatively simple mathematical relationships. For the anisotropic material, it needs the mathematics of a second-order tensor and up to 21 material property constants. For the special case of orthogonal isotropy, there are three distinct material property constants for each of Young's Modulus, Shear Modulus and Poisson's ratio—a total of 9 constants to express the relationship between forces/moments and strains/curvatures.
+Techniques that take benefit of the materials' anisotropic properties involve mortise and tenon joints (in natural composites such as wood) and pi joints in synthetic composites.
+
+Mechanical properties of composites
+Particle reinforcement
+In general, particle reinforcement is strengthening the composites less than fiber reinforcement. It is used to enhance the stiffness of the composites while increasing the strength and the toughness. Because of their mechanical properties, they are used in applications in which wear resistance is required. For example, hardness of cement can be increased by reinforcing gravel particles, drastically. Particle reinforcement a highly advantageous method of tuning mechanical properties of materials since it is very easy implement while being low cost.
+The elastic modulus of particle-reinforced composites can be expressed as,
+
+  
+    
+      
+        
+          E
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            m
+          
+        
+        
+          E
+          
+            m
+          
+        
+        +
+        
+          K
+          
+            c
+          
+        
+        
+          V
+          
+            p
+          
+        
+        
+          E
+          
+            p
+          
+        
+      
+    
+    {\displaystyle E_{c}=V_{m}E_{m}+K_{c}V_{p}E_{p}}
+  
+
+where E is the elastic modulus, V is the volume fraction. The subscripts c, p and m are indicating composite, particle and matrix, respectively. 
+  
+    
+      
+        
+          K
+          
+            c
+          
+        
+      
+    
+    {\displaystyle K_{c}}
+  
+ is a constant can be found empirically.
+Similarly, tensile strength of particle-reinforced composites can be expressed as,
+
+  
+    
+      
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            m
+          
+        
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            m
+          
+        
+        +
+        
+          K
+          
+            s
+          
+        
+        
+          V
+          
+            p
+          
+        
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            p
+          
+        
+      
+    
+    {\displaystyle (T.S.)_{c}=V_{m}(T.S.)_{m}+K_{s}V_{p}(T.S.)_{p}}
+  
+
+where T.S. is the tensile strength, and 
+  
+    
+      
+        
+          K
+          
+            s
+          
+        
+      
+    
+    {\displaystyle K_{s}}
+  
+ is a constant (not equal to 
+  
+    
+      
+        
+          K
+          
+            c
+          
+        
+      
+    
+    {\displaystyle K_{c}}
+  
+) that can be found empirically.
+
+Continuous fiber reinforcement
+In general, continuous fiber reinforcement is implemented by incorporating a fiber as the strong phase into a weak phase, matrix. The reason for the popularity of fiber usage is materials with extraordinary strength can be obtained in their fiber form. Non-metallic fibers are usually showing a very high strength to density ratio compared to metal fibers because of the covalent nature of their bonds. The most famous example of this is carbon fibers that have many applications extending from sports gear to protective equipment to space industries.
+The stress on the composite can be expressed in terms of the volume fraction of the fiber and the matrix.
+
+  
+    
+      
+        
+          σ
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            f
+          
+        
+        
+          σ
+          
+            f
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          σ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \sigma _{c}=V_{f}\sigma _{f}+V_{m}\sigma _{m}}
+  
+
+where 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the stress, V is the volume fraction. The subscripts c, f and m are indicating composite, fiber and matrix, respectively.
+Although the stress–strain behavior of fiber composites can only be determined by testing, there is an expected trend, three stages of the stress–strain curve. The first stage is the region of the stress–strain curve where both fiber and the matrix are elastically deformed. This linearly elastic region can be expressed in the following form.
+
+  
+    
+      
+        
+          σ
+          
+            c
+          
+        
+        −
+        
+          E
+          
+            c
+          
+        
+        
+          ϵ
+          
+            c
+          
+        
+        =
+        
+          ϵ
+          
+            c
+          
+        
+        (
+        
+          V
+          
+            f
+          
+        
+        
+          E
+          
+            f
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          E
+          
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma _{c}-E_{c}\epsilon _{c}=\epsilon _{c}(V_{f}E_{f}+V_{m}E_{m})}
+  
+
+where 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the stress, 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ is the strain, E is the elastic modulus, and V is the volume fraction. The subscripts c, f, and m are indicating composite, fiber, and matrix, respectively.
+After passing the elastic region for both fiber and the matrix, the second region of the stress–strain curve can be observed. In the second region, the fiber is still elastically deformed while the matrix is plastically deformed since the matrix is the weak phase. The instantaneous modulus can be determined using the slope of the stress–strain curve in the second region. The relationship between stress and strain can be expressed as,
+
+  
+    
+      
+        
+          σ
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            f
+          
+        
+        
+          E
+          
+            f
+          
+        
+        
+          ϵ
+          
+            c
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        (
+        
+          ϵ
+          
+            c
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma _{c}=V_{f}E_{f}\epsilon _{c}+V_{m}\sigma _{m}(\epsilon _{c})}
+  
+
+where 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the stress, 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ is the strain, E is the elastic modulus, and V is the volume fraction. The subscripts c, f, and m are indicating composite, fiber, and matrix, respectively. To find the modulus in the second region derivative of this equation can be used since the slope of the curve is equal to the modulus.
+
+  
+    
+      
+        
+          E
+          
+            c
+          
+          ′
+        
+        =
+        
+          
+            
+              d
+              
+                σ
+                
+                  c
+                
+              
+            
+            
+              d
+              
+                ϵ
+                
+                  c
+                
+              
+            
+          
+        
+        =
+        
+          V
+          
+            f
+          
+        
+        
+          E
+          
+            f
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          (
+          
+            
+              
+                d
+                
+                  σ
+                  
+                    c
+                  
+                
+              
+              
+                d
+                
+                  ϵ
+                  
+                    c
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle E_{c}'={\frac {d\sigma _{c}}{d\epsilon _{c}}}=V_{f}E_{f}+V_{m}\left({\frac {d\sigma _{c}}{d\epsilon _{c}}}\right)}
+  
+
+In most cases it can be assumed
+  
+    
+      
+        
+          E
+          
+            c
+          
+          ′
+        
+        =
+        
+          V
+          
+            f
+          
+        
+        
+          E
+          
+            f
+          
+        
+      
+    
+    {\displaystyle E_{c}'=V_{f}E_{f}}
+  
+ since the second term is much less than the first one.
+In reality, the derivative of stress with respect to strain is not always returning the modulus because of the binding interaction between the fiber and matrix. The strength of the interaction between these two phases can result in changes in the mechanical properties of the composite. The compatibility of the fiber and matrix is a measure of internal stress.
+The covalently bonded high strength fibers (e.g. carbon fibers) experience mostly elastic deformation before the fracture since the plastic deformation can happen due to dislocation motion. Whereas, metallic fibers have more space to plastically deform, so their composites exhibit a third stage where both fiber and the matrix are plastically deforming. Metallic fibers have many applications to work at cryogenic temperatures that is one of the advantages of composites with metal fibers over nonmetallic. The stress in this region of the stress–strain curve can be expressed as,
+
+  
+    
+      
+        
+          σ
+          
+            c
+          
+        
+        (
+        
+          ϵ
+          
+            c
+          
+        
+        )
+        =
+        
+          V
+          
+            f
+          
+        
+        
+          σ
+          
+            f
+          
+        
+        
+          ϵ
+          
+            c
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        (
+        
+          ϵ
+          
+            c
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma _{c}(\epsilon _{c})=V_{f}\sigma _{f}\epsilon _{c}+V_{m}\sigma _{m}(\epsilon _{c})}
+  
+
+where 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the stress, 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ is the strain, E is the elastic modulus, and V is the volume fraction. The subscripts c, f, and m are indicating composite, fiber, and matrix, respectively. 
+  
+    
+      
+        
+          σ
+          
+            f
+          
+        
+        (
+        
+          ϵ
+          
+            c
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma _{f}(\epsilon _{c})}
+  
+ and 
+  
+    
+      
+        
+          σ
+          
+            m
+          
+        
+        (
+        
+          ϵ
+          
+            c
+          
+        
+        )
+      
+    
+    {\displaystyle \sigma _{m}(\epsilon _{c})}
+  
+ are for fiber and matrix flow stresses respectively. Just after the third region the composite exhibit necking. The necking strain of composite is happened to be between the necking strain of the fiber and the matrix just like other mechanical properties of the composites. The necking strain of the weak phase is delayed by the strong phase. The amount of the delay depends upon the volume fraction of the strong phase.
+Thus, the tensile strength of the composite can be expressed in terms of the volume fraction.
+
+  
+    
+      
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            f
+          
+        
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            f
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          σ
+          
+            m
+          
+        
+        (
+        
+          ϵ
+          
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle (T.S.)_{c}=V_{f}(T.S.)_{f}+V_{m}\sigma _{m}(\epsilon _{m})}
+  
+
+where T.S. is the tensile strength, 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the stress, 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ is the strain, E is the elastic modulus, and V is the volume fraction. The subscripts c, f, and m are indicating composite, fiber, and matrix, respectively. The composite tensile strength can be expressed as
+
+  
+    
+      
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            m
+          
+        
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            m
+          
+        
+      
+    
+    {\displaystyle (T.S.)_{c}=V_{m}(T.S.)_{m}}
+  
+ for 
+  
+    
+      
+        
+          V
+          
+            f
+          
+        
+      
+    
+    {\displaystyle V_{f}}
+  
+ is less than or equal to 
+  
+    
+      
+        
+          V
+          
+            c
+          
+        
+      
+    
+    {\displaystyle V_{c}}
+  
+ (arbitrary critical value of volume fraction)
+
+  
+    
+      
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            c
+          
+        
+        =
+        
+          V
+          
+            f
+          
+        
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            f
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        (
+        
+          σ
+          
+            m
+          
+        
+        )
+      
+    
+    {\displaystyle (T.S.)_{c}=V_{f}(T.S.)_{f}+V_{m}(\sigma _{m})}
+  
+ for 
+  
+    
+      
+        
+          V
+          
+            f
+          
+        
+      
+    
+    {\displaystyle V_{f}}
+  
+ is greater than or equal to 
+  
+    
+      
+        
+          V
+          
+            c
+          
+        
+      
+    
+    {\displaystyle V_{c}}
+  
+
+The critical value of volume fraction can be expressed as,
+
+  
+    
+      
+        
+          V
+          
+            c
+          
+        
+        =
+        
+          
+            
+              
+              (
+              T
+              .
+              S
+              .
+              
+                )
+                
+                  m
+                
+              
+              −
+              
+                σ
+                
+                  m
+                
+              
+              (
+              
+                ϵ
+                
+                  f
+                
+              
+              )
+              
+            
+            
+              
+              (
+              T
+              .
+              S
+              .
+              
+                )
+                
+                  f
+                
+              
+              +
+              (
+              T
+              .
+              S
+              .
+              
+                )
+                
+                  m
+                
+              
+              −
+              
+                σ
+                
+                  m
+                
+              
+              (
+              
+                ϵ
+                
+                  f
+                
+              
+              )
+              
+            
+          
+        
+      
+    
+    {\displaystyle V_{c}={\frac {(T.S.)_{m}-\sigma _{m}(\epsilon _{f})}{(T.S.)_{f}+(T.S.)_{m}-\sigma _{m}(\epsilon _{f})}}}
+  
+
+Evidently, the composite tensile strength can be higher than the matrix if 
+  
+    
+      
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            c
+          
+        
+      
+    
+    {\displaystyle (T.S.)_{c}}
+  
+ is greater than 
+  
+    
+      
+        (
+        T
+        .
+        S
+        .
+        
+          )
+          
+            m
+          
+        
+      
+    
+    {\displaystyle (T.S.)_{m}}
+  
+.
+Thus, the minimum volume fraction of the fiber can be expressed as,
+
+  
+    
+      
+        
+          V
+          
+            c
+          
+        
+        =
+        
+          
+            
+              
+              (
+              T
+              .
+              S
+              .
+              
+                )
+                
+                  m
+                
+              
+              −
+              
+                σ
+                
+                  m
+                
+              
+              (
+              
+                ϵ
+                
+                  f
+                
+              
+              )
+              
+            
+            
+              
+              (
+              T
+              .
+              S
+              .
+              
+                )
+                
+                  f
+                
+              
+              −
+              
+                σ
+                
+                  m
+                
+              
+              (
+              
+                ϵ
+                
+                  f
+                
+              
+              )
+              
+            
+          
+        
+      
+    
+    {\displaystyle V_{c}={\frac {(T.S.)_{m}-\sigma _{m}(\epsilon _{f})}{(T.S.)_{f}-\sigma _{m}(\epsilon _{f})}}}
+  
+
+Although this minimum value is very low in practice, it is very important to know since the reason for the incorporation of continuous fibers is to improve the mechanical properties of the materials/composites, and this value of volume fraction is the threshold of this improvement.
+
+The effect of fiber orientation
+Aligned fibers
+A change in the angle between the applied stress and fiber orientation will affect the mechanical properties of fiber-reinforced composites, especially the tensile strength. This angle, 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+, can be used predict the dominant tensile fracture mechanism.
+At small angles, 
+  
+    
+      
+        θ
+        ≈
+        
+          0
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \theta \approx 0^{\circ }}
+  
+, the dominant fracture mechanism is the same as with load-fiber alignment, tensile fracture. The resolved force acting upon the length of the fibers is reduced by a factor of 
+  
+    
+      
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle \cos \theta }
+  
+ from rotation. 
+  
+    
+      
+        
+          F
+          
+            
+              res
+            
+          
+        
+        =
+        F
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle F_{\mbox{res}}=F\cos \theta }
+  
+. The resolved area on which the fiber experiences the force is increased by a factor of 
+  
+    
+      
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle \cos \theta }
+  
+ from rotation. 
+  
+    
+      
+        
+          A
+          
+            
+              res
+            
+          
+        
+        =
+        
+          A
+          
+            0
+          
+        
+        
+          /
+        
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle A_{\mbox{res}}=A_{0}/\cos \theta }
+  
+. Taking the effective tensile strength to be 
+  
+    
+      
+        (
+        
+          
+            T.S.
+          
+        
+        
+          )
+          
+            
+              c
+            
+          
+        
+        =
+        
+          F
+          
+            
+              res
+            
+          
+        
+        
+          /
+        
+        
+          A
+          
+            
+              res
+            
+          
+        
+      
+    
+    {\displaystyle ({\mbox{T.S.}})_{\mbox{c}}=F_{\mbox{res}}/A_{\mbox{res}}}
+  
+ and the aligned tensile strength 
+  
+    
+      
+        
+          σ
+          
+            ∥
+          
+          
+            ∗
+          
+        
+        =
+        F
+        
+          /
+        
+        A
+      
+    
+    {\displaystyle \sigma _{\parallel }^{*}=F/A}
+  
+.
+
+  
+    
+      
+        (
+        
+          
+            T.S.
+          
+        
+        
+          )
+          
+            
+              c
+            
+          
+        
+        
+        (
+        
+          
+            longitudinal fracture
+          
+        
+        )
+        =
+        
+          
+            
+              σ
+              
+                ∥
+              
+              
+                ∗
+              
+            
+            
+              
+                cos
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle ({\mbox{T.S.}})_{\mbox{c}}\;({\mbox{longitudinal fracture}})={\frac {\sigma _{\parallel }^{*}}{\cos ^{2}\theta }}}
+  
+
+At moderate angles, 
+  
+    
+      
+        θ
+        ≈
+        
+          45
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \theta \approx 45^{\circ }}
+  
+, the material experiences shear failure. The effective force direction is reduced with respect to the aligned direction. 
+  
+    
+      
+        
+          F
+          
+            
+              res
+            
+          
+        
+        =
+        F
+        cos
+        ⁡
+        θ
+      
+    
+    {\displaystyle F_{\mbox{res}}=F\cos \theta }
+  
+. The resolved area on which the force acts is 
+  
+    
+      
+        
+          A
+          
+            
+              res
+            
+          
+        
+        =
+        
+          A
+          
+            m
+          
+        
+        
+          /
+        
+        sin
+        ⁡
+        θ
+      
+    
+    {\displaystyle A_{\mbox{res}}=A_{m}/\sin \theta }
+  
+. The resulting tensile strength depends on the shear strength of the matrix, 
+  
+    
+      
+        
+          τ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \tau _{m}}
+  
+.
+
+  
+    
+      
+        (
+        
+          
+            T.S.
+          
+        
+        
+          )
+          
+            
+              c
+            
+          
+        
+        
+        (
+        
+          
+            shear failure
+          
+        
+        )
+        =
+        
+          
+            
+              τ
+              
+                m
+              
+            
+            
+              sin
+              ⁡
+              
+                θ
+              
+              cos
+              ⁡
+              
+                θ
+              
+            
+          
+        
+      
+    
+    {\displaystyle ({\mbox{T.S.}})_{\mbox{c}}\;({\mbox{shear failure}})={\frac {\tau _{m}}{\sin {\theta }\cos {\theta }}}}
+  
+
+At extreme angles, 
+  
+    
+      
+        θ
+        ≈
+        
+          90
+          
+            ∘
+          
+        
+      
+    
+    {\displaystyle \theta \approx 90^{\circ }}
+  
+, the dominant mode of failure is tensile fracture in the matrix in the perpendicular direction. As in the isostress case of layered composite materials, the strength in this direction is lower than in the aligned direction. The effective areas and forces act perpendicular to the aligned direction so they both scale by 
+  
+    
+      
+        sin
+        ⁡
+        θ
+      
+    
+    {\displaystyle \sin \theta }
+  
+. The resolved tensile strength is proportional to the transverse strength, 
+  
+    
+      
+        
+          σ
+          
+            ⊥
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \sigma _{\perp }^{*}}
+  
+.
+
+  
+    
+      
+        (
+        
+          
+            T.S.
+          
+        
+        
+          )
+          
+            
+              c
+            
+          
+        
+        
+        (
+        
+          
+            transverse fracture
+          
+        
+        )
+        =
+        
+          
+            
+              σ
+              
+                ⊥
+              
+              
+                ∗
+              
+            
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle ({\mbox{T.S.}})_{\mbox{c}}\;({\mbox{transverse fracture}})={\frac {\sigma _{\perp }^{*}}{\sin ^{2}\theta }}}
+  
+
+The critical angles from which the dominant fracture mechanism changes can be calculated as,
+
+  
+    
+      
+        
+          θ
+          
+            
+              c
+              
+                1
+              
+            
+          
+        
+        =
+        
+          tan
+          
+            −
+            1
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                τ
+                
+                  m
+                
+              
+              
+                σ
+                
+                  ∥
+                
+                
+                  ∗
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta _{c_{1}}=\tan ^{-1}\left({\frac {\tau _{m}}{\sigma _{\parallel }^{*}}}\right)}
+  
+
+  
+    
+      
+        
+          θ
+          
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        
+          tan
+          
+            −
+            1
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                σ
+                
+                  ⊥
+                
+                
+                  ∗
+                
+              
+              
+                τ
+                
+                  m
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \theta _{c_{2}}=\tan ^{-1}\left({\frac {\sigma _{\perp }^{*}}{\tau _{m}}}\right)}
+  
+
+where 
+  
+    
+      
+        
+          θ
+          
+            
+              c
+              
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle \theta _{c_{1}}}
+  
+ is the critical angle between longitudinal fracture and shear failure, and 
+  
+    
+      
+        
+          θ
+          
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \theta _{c_{2}}}
+  
+ is the critical angle between shear failure and transverse fracture.
+By ignoring length effects, this model is most accurate for continuous fibers and does not effectively capture the strength-orientation relationship for short fiber reinforced composites. Furthermore, most realistic systems do not experience the local maxima predicted at the critical angles. The Tsai-Hill criterion provides a more complete description of fiber composite tensile strength as a function of orientation angle by coupling the contributing yield stresses: 
+  
+    
+      
+        
+          σ
+          
+            ∥
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \sigma _{\parallel }^{*}}
+  
+, 
+  
+    
+      
+        
+          σ
+          
+            ⊥
+          
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \sigma _{\perp }^{*}}
+  
+, and 
+  
+    
+      
+        
+          τ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \tau _{m}}
+  
+.
+
+  
+    
+      
+        (
+        
+          
+            T.S.
+          
+        
+        
+          )
+          
+            
+              c
+            
+          
+        
+        
+        (
+        
+          
+            Tsai-Hill
+          
+        
+        )
+        =
+        
+          
+            
+          
+        
+        
+          
+            
+              
+                cos
+                
+                  4
+                
+              
+              ⁡
+              θ
+            
+            
+              (
+              
+                
+                  σ
+                  
+                    ∥
+                  
+                  
+                    ∗
+                  
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        θ
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        θ
+        
+          (
+          
+            
+              
+                1
+                
+                  (
+                  
+                    
+                      τ
+                      
+                        m
+                      
+                    
+                  
+                  
+                    )
+                    
+                      2
+                    
+                  
+                
+              
+            
+            −
+            
+              
+                1
+                
+                  (
+                  
+                    
+                      σ
+                      
+                        ∥
+                      
+                      
+                        ∗
+                      
+                    
+                  
+                  
+                    )
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        +
+        
+          
+            
+              
+                sin
+                
+                  4
+                
+              
+              ⁡
+              θ
+            
+            
+              (
+              
+                
+                  σ
+                  
+                    ⊥
+                  
+                  
+                    ∗
+                  
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              
+            
+          
+          
+            −
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle ({\mbox{T.S.}})_{\mbox{c}}\;({\mbox{Tsai-Hill}})={\bigg }{\frac {\cos ^{4}\theta }{({\sigma _{\parallel }^{*}})^{2}}}+\cos ^{2}\theta \sin ^{2}\theta \left({\frac {1}{({\tau _{m}})^{2}}}-{\frac {1}{({\sigma _{\parallel }^{*}})^{2}}}\right)+{\frac {\sin ^{4}\theta }{({\sigma _{\perp }^{*}})^{2}}}{\bigg }^{-1/2}}
+
+Randomly oriented fibers
+Anisotropy in the tensile strength of fiber reinforced composites can be removed by randomly orienting the fiber directions within the material. It sacrifices the ultimate strength in the aligned direction for an overall, isotropically strengthened material.
+
+  
+    
+      
+        
+          E
+          
+            c
+          
+        
+        =
+        K
+        
+          V
+          
+            f
+          
+        
+        
+          E
+          
+            f
+          
+        
+        +
+        
+          V
+          
+            m
+          
+        
+        
+          E
+          
+            m
+          
+        
+      
+    
+    {\displaystyle E_{c}=KV_{f}E_{f}+V_{m}E_{m}}
+  
+
+Where K is an empirically determined reinforcement factor; similar to the particle reinforcement equation. For fibers with randomly distributed orientations in a plane, 
+  
+    
+      
+        K
+        ≈
+        0.38
+      
+    
+    {\displaystyle K\approx 0.38}
+  
+, and for a random distribution in 3D, 
+  
+    
+      
+        K
+        ≈
+        0.20
+      
+    
+    {\displaystyle K\approx 0.20}
+  
+.
+
+Stiffness and Compliance Elasticity
+For real application, most composite is anisotropic material or orthotropic material. The three-dimension stress tensor is required for stress and strain analysis. The stiffness and compliance can be written as follows
+
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    σ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      4
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      5
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    C
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      13
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      14
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      15
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      16
+                    
+                  
+                
+              
+              
+                
+                  
+                    C
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      22
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      23
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      24
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      25
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      26
+                    
+                  
+                
+              
+              
+                
+                  
+                    C
+                    
+                      13
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      23
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      33
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      34
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      35
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      36
+                    
+                  
+                
+              
+              
+                
+                  
+                    C
+                    
+                      14
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      24
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      34
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      44
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      45
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      46
+                    
+                  
+                
+              
+              
+                
+                  
+                    C
+                    
+                      15
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      25
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      35
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      45
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      55
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      56
+                    
+                  
+                
+              
+              
+                
+                  
+                    C
+                    
+                      16
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      26
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      36
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      46
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      56
+                    
+                  
+                
+                
+                  
+                    C
+                    
+                      66
+                    
+                  
+                
+              
+            
+            
+          
+        
+        
+          
+            
+            
+              
+                
+                  
+                    ε
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      4
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      5
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{3}\\\sigma _{4}\\\sigma _{5}\\\sigma _{6}\end{bmatrix}}={\begin{bmatrix}C_{11}&C_{12}&C_{13}&C_{14}&C_{15}&C_{16}\\C_{12}&C_{22}&C_{23}&C_{24}&C_{25}&C_{26}\\C_{13}&C_{23}&C_{33}&C_{34}&C_{35}&C_{36}\\C_{14}&C_{24}&C_{34}&C_{44}&C_{45}&C_{46}\\C_{15}&C_{25}&C_{35}&C_{45}&C_{55}&C_{56}\\C_{16}&C_{26}&C_{36}&C_{46}&C_{56}&C_{66}\end{bmatrix}}{\begin{bmatrix}\varepsilon _{1}\\\varepsilon _{2}\\\varepsilon _{3}\\\varepsilon _{4}\\\varepsilon _{5}\\\varepsilon _{6}\end{bmatrix}}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    ε
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      4
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      5
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    S
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      13
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      14
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      15
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      16
+                    
+                  
+                
+              
+              
+                
+                  
+                    S
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      22
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      23
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      24
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      25
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      26
+                    
+                  
+                
+              
+              
+                
+                  
+                    S
+                    
+                      13
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      23
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      33
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      34
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      35
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      36
+                    
+                  
+                
+              
+              
+                
+                  
+                    S
+                    
+                      14
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      24
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      34
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      44
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      45
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      46
+                    
+                  
+                
+              
+              
+                
+                  
+                    S
+                    
+                      15
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      25
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      35
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      45
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      55
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      56
+                    
+                  
+                
+              
+              
+                
+                  
+                    S
+                    
+                      16
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      26
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      36
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      46
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      56
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      66
+                    
+                  
+                
+              
+            
+            
+          
+        
+        
+          
+            
+            
+              
+                
+                  
+                    σ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      4
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      5
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}\varepsilon _{1}\\\varepsilon _{2}\\\varepsilon _{3}\\\varepsilon _{4}\\\varepsilon _{5}\\\varepsilon _{6}\end{bmatrix}}={\begin{bmatrix}S_{11}&S_{12}&S_{13}&S_{14}&S_{15}&S_{16}\\S_{12}&S_{22}&S_{23}&S_{24}&S_{25}&S_{26}\\S_{13}&S_{23}&S_{33}&S_{34}&S_{35}&S_{36}\\S_{14}&S_{24}&S_{34}&S_{44}&S_{45}&S_{46}\\S_{15}&S_{25}&S_{35}&S_{45}&S_{55}&S_{56}\\S_{16}&S_{26}&S_{36}&S_{46}&S_{56}&S_{66}\end{bmatrix}}{\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{3}\\\sigma _{4}\\\sigma _{5}\\\sigma _{6}\end{bmatrix}}}
+  
+
+In order to simplify the 3D stress direction, the plane stress assumption is apply that the out–of–plane stress and out–of–plane strain are insignificant or zero. That is 
+  
+    
+      
+        
+          σ
+          
+            3
+          
+        
+        =
+        
+          σ
+          
+            4
+          
+        
+        =
+        
+          σ
+          
+            5
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \sigma _{3}=\sigma _{4}=\sigma _{5}=0}
+  
+ and 
+  
+    
+      
+        
+          ε
+          
+            4
+          
+        
+        =
+        
+          ε
+          
+            5
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \varepsilon _{4}=\varepsilon _{5}=0}
+  
+.
+
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    ε
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      4
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      5
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    
+                      
+                        1
+                        
+                          E
+                          
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              21
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              31
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              3
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              12
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          E
+                          
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              32
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              3
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              13
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              23
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          E
+                          
+                            
+                              3
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          G
+                          
+                            
+                              23
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          G
+                          
+                            
+                              31
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          G
+                          
+                            
+                              12
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+        
+          
+            
+            
+              
+                
+                  
+                    σ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      3
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      4
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      5
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}\varepsilon _{1}\\\varepsilon _{2}\\\varepsilon _{3}\\\varepsilon _{4}\\\varepsilon _{5}\\\varepsilon _{6}\end{bmatrix}}={\begin{bmatrix}{\tfrac {1}{E_{\rm {1}}}}&-{\tfrac {\nu _{\rm {21}}}{E_{\rm {2}}}}&-{\tfrac {\nu _{\rm {31}}}{E_{\rm {3}}}}&0&0&0\\-{\tfrac {\nu _{\rm {12}}}{E_{\rm {1}}}}&{\tfrac {1}{E_{\rm {2}}}}&-{\tfrac {\nu _{\rm {32}}}{E_{\rm {3}}}}&0&0&0\\-{\tfrac {\nu _{\rm {13}}}{E_{\rm {1}}}}&-{\tfrac {\nu _{\rm {23}}}{E_{\rm {2}}}}&{\tfrac {1}{E_{\rm {3}}}}&0&0&0\\0&0&0&{\tfrac {1}{G_{\rm {23}}}}&0&0\\0&0&0&0&{\tfrac {1}{G_{\rm {31}}}}&0\\0&0&0&0&0&{\tfrac {1}{G_{\rm {12}}}}\\\end{bmatrix}}{\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{3}\\\sigma _{4}\\\sigma _{5}\\\sigma _{6}\end{bmatrix}}}
+  
+
+The stiffness matrix and compliance matrix can be reduced to
+
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    σ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    
+                      
+                        
+                          E
+                          
+                            
+                              1
+                            
+                          
+                        
+                        
+                          1
+                          −
+                          
+                            
+                              ν
+                              
+                                
+                                  12
+                                
+                              
+                            
+                          
+                          
+                            
+                              ν
+                              
+                                
+                                  21
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          
+                            E
+                            
+                              
+                                2
+                              
+                            
+                          
+                          
+                            
+                              ν
+                              
+                                
+                                  12
+                                
+                              
+                            
+                          
+                        
+                        
+                          1
+                          −
+                          
+                            
+                              ν
+                              
+                                
+                                  12
+                                
+                              
+                            
+                          
+                          
+                            
+                              ν
+                              
+                                
+                                  21
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  
+                    
+                      
+                        
+                          
+                            E
+                            
+                              
+                                2
+                              
+                            
+                          
+                          
+                            
+                              ν
+                              
+                                
+                                  12
+                                
+                              
+                            
+                          
+                        
+                        
+                          1
+                          −
+                          
+                            
+                              ν
+                              
+                                
+                                  12
+                                
+                              
+                            
+                          
+                          
+                            
+                              ν
+                              
+                                
+                                  21
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          E
+                          
+                            
+                              2
+                            
+                          
+                        
+                        
+                          1
+                          −
+                          
+                            
+                              ν
+                              
+                                
+                                  12
+                                
+                              
+                            
+                          
+                          
+                            
+                              ν
+                              
+                                
+                                  21
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    G
+                    
+                      
+                        12
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+        
+          
+            
+            
+              
+                
+                  
+                    ε
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{6}\end{bmatrix}}={\begin{bmatrix}{\tfrac {E_{\rm {1}}}{1-{\nu _{\rm {12}}}{\nu _{\rm {21}}}}}&{\tfrac {E_{\rm {2}}{\nu _{\rm {12}}}}{1-{\nu _{\rm {12}}}{\nu _{\rm {21}}}}}&0\\{\tfrac {E_{\rm {2}}{\nu _{\rm {12}}}}{1-{\nu _{\rm {12}}}{\nu _{\rm {21}}}}}&{\tfrac {E_{\rm {2}}}{1-{\nu _{\rm {12}}}{\nu _{\rm {21}}}}}&0\\0&0&G_{\rm {12}}\\\end{bmatrix}}{\begin{bmatrix}\varepsilon _{1}\\\varepsilon _{2}\\\varepsilon _{6}\end{bmatrix}}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    ε
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    ε
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    
+                      
+                        1
+                        
+                          E
+                          
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              21
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  −
+                  
+                    
+                      
+                        
+                          ν
+                          
+                            
+                              12
+                            
+                          
+                        
+                        
+                          E
+                          
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          E
+                          
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  
+                    
+                      
+                        1
+                        
+                          G
+                          
+                            
+                              12
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+        
+          
+            
+            
+              
+                
+                  
+                    σ
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    σ
+                    
+                      6
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}\varepsilon _{1}\\\varepsilon _{2}\\\varepsilon _{6}\end{bmatrix}}={\begin{bmatrix}{\tfrac {1}{E_{\rm {1}}}}&-{\tfrac {\nu _{\rm {21}}}{E_{\rm {2}}}}&0\\-{\tfrac {\nu _{\rm {12}}}{E_{\rm {1}}}}&{\tfrac {1}{E_{\rm {2}}}}&0\\0&0&{\tfrac {1}{G_{\rm {12}}}}\\\end{bmatrix}}{\begin{bmatrix}\sigma _{1}\\\sigma _{2}\\\sigma _{6}\end{bmatrix}}}
+  
+
+For fiber-reinforced composite, the fiber orientation in material affect anisotropic properties of the structure. From characterizing technique i.e. tensile testing, the material properties were measured based on sample (1-2) coordinate system. The tensors above express stress-strain relationship in (1-2) coordinate system. While the known material properties is in the principal coordinate system (x-y) of material. Transforming the tensor between two coordinate system help identify the material properties of the tested sample. The transformation matrix with 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ degree rotation is 
+
+  
+    
+      
+        T
+        (
+        θ
+        
+          )
+          
+            ϵ
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    cos
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+              
+              
+                
+                  s
+                  i
+                  
+                    n
+                    
+                      2
+                    
+                  
+                  θ
+                
+                
+                  
+                    cos
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                
+                  −
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+              
+              
+                
+                  −
+                  2
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+                
+                  2
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+                
+                  
+                    cos
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                  −
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle T(\theta )_{\epsilon }={\begin{bmatrix}\cos ^{2}\theta &\sin ^{2}\theta &\cos \theta \sin \theta \\sin^{2}\theta &\cos ^{2}\theta &-\cos \theta \sin \theta \\-2\cos \theta \sin \theta &2\cos \theta \sin \theta &\cos ^{2}\theta -\sin ^{2}\theta \end{bmatrix}}}
+  
+ for 
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    
+                      
+                        ϵ
+                        ´
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        T
+        (
+        θ
+        
+          )
+          
+            ϵ
+          
+        
+        
+          
+            
+            
+              
+                
+                  ϵ
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}{\acute {\epsilon }}\end{bmatrix}}=T(\theta )_{\epsilon }{\begin{bmatrix}\epsilon \end{bmatrix}}}
+  
+
+  
+    
+      
+        T
+        (
+        θ
+        
+          )
+          
+            σ
+          
+        
+        =
+        
+          
+            
+            
+              
+                
+                  
+                    cos
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                
+                  2
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+              
+              
+                
+                  s
+                  i
+                  
+                    n
+                    
+                      2
+                    
+                  
+                  θ
+                
+                
+                  
+                    cos
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                
+                  −
+                  2
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+              
+              
+                
+                  −
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+                
+                  cos
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  θ
+                
+                
+                  
+                    cos
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                  −
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle T(\theta )_{\sigma }={\begin{bmatrix}\cos ^{2}\theta &\sin ^{2}\theta &2\cos \theta \sin \theta \\sin^{2}\theta &\cos ^{2}\theta &-2\cos \theta \sin \theta \\-\cos \theta \sin \theta &\cos \theta \sin \theta &\cos ^{2}\theta -\sin ^{2}\theta \end{bmatrix}}}
+  
+ for 
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    
+                      
+                        σ
+                        ´
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+        =
+        T
+        (
+        θ
+        
+          )
+          
+            σ
+          
+        
+        
+          
+            
+            
+              
+                
+                  σ
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}{\acute {\sigma }}\end{bmatrix}}=T(\theta )_{\sigma }{\begin{bmatrix}\sigma \end{bmatrix}}}
+
+Types of fibers and their mechanical properties
+The most common types of fibers used in industry are glass fibers, carbon fibers, and kevlar due to their ease of production and availability. Their mechanical properties are very important to know, therefore the table of their mechanical properties is given below to compare them with S97 steel. The angle of fiber orientation is very important because of the anisotropy of fiber composites (please see the section "Physical properties" for a more detailed explanation). The mechanical properties of the composites can be tested using standard mechanical testing methods by positioning the samples at various angles (the standard angles are 0°, 45°, and 90°) with respect to the orientation of fibers within the composites. In general, 0° axial alignment makes composites resistant to longitudinal bending and axial tension/compression, 90° hoop alignment is used to obtain resistance to internal/external pressure, and ± 45° is the ideal choice to obtain resistance against pure torsion.
+
+Mechanical properties of fiber composite materials
+Mechanical properties of aerospace grade & commercial grade carbon fiber composites, fiberglass composite, and aluminum alloy and steel
+This table is demonstrating one of the most important features and advantage of fiber composites over metal, that is specific strength and specific stiffness. Although the steel and the aluminum alloy have comparable strength and stiffness with fiber composites, the specific strength and stiffness of composites are around higher than steel and the aluminum alloy.
+
+Failure
+Shock, impact of varying speed, or repeated cyclic stresses can provoke the laminate to separate at the interface between two layers, a condition known as delamination. Individual fibres can separate from the matrix, for example, fibre pull-out.
+Composites can fail on the macroscopic or microscopic scale. Compression failures can happen at both the macro scale or at each individual reinforcing fibre in compression buckling. Tension failures can be net section failures of the part or degradation of the composite at a microscopic scale where one or more of the layers in the composite fail in tension of the matrix or failure of the bond between the matrix and fibres.
+Some composites are brittle and possess little reserve strength beyond the initial onset of failure while others may have large deformations and have reserve energy absorbing capacity past the onset of damage. The distinctions in fibres and matrices that are available and the mixtures that can be made with blends leave a very broad range of properties that can be designed into a composite structure. The most famous failure of a brittle ceramic matrix composite occurred when the carbon-carbon composite tile on the leading edge of the wing of the Space Shuttle Columbia fractured when impacted during take-off. It directed to the catastrophic break-up of the vehicle when it re-entered the Earth's atmosphere on 1 February 2003.
+Composites have relatively poor bearing strength compared to metals.
+
+Testing
+Composites are tested before and after construction to assist in predicting and preventing failures. Pre-construction testing may adopt finite element analysis (FEA) for ply-by-ply analysis of curved surfaces and predicting wrinkling, crimping and dimpling of composites. Materials may be tested during manufacturing and after construction by various non-destructive methods including ultrasonic, thermography, shearography and X-ray radiography, and laser bond inspection for NDT of relative bond strength integrity in a localized area.
+
+See also
+3D composites
+Aluminium composite panel
+American Composites Manufacturers Association
+Chemical vapour infiltration
+Composite laminate
+Discontinuous aligned composite
+Epoxy granite
+Hybrid material
+Lay-up process
+Nanocomposite
+Pykrete
+Rule of mixtures
+Scaled Composites
+Smart material
+Smart Materials and Structures
+Void (composites)
+
+References
+Further reading
+External links
+
+Composites Design and Manufacturing HUB
+Distance learning course in polymers and composites
+OptiDAT composite material database Archived 2013-11-04 at the Wayback Machine

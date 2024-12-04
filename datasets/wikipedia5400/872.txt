@@ -1,0 +1,53 @@
+872
+C file input/output
+The C programming language provides many standard library functions for file input and output. These functions make up the bulk of the [C standard library](877) header <stdio.h>. The functionality descends from a "portable I/O package" written by Mike Lesk at [Bell Labs](834) in the early 1970s, and officially became part of the Unix operating system in Version 7.
+The I/O functionality of C is fairly low-level by modern standards; C abstracts all file operations into operations on streams of bytes, which may be "input streams" or "output streams". Unlike some earlier programming languages, C has no direct support for random-access data files; to read from a record in the middle of a file, the programmer must create a stream, seek to the middle of the file, and then read bytes in sequence from the stream.
+The stream model of file I/O was popularized by Unix, which was developed concurrently with the C programming language itself. The vast majority of modern operating systems have inherited streams from Unix, and many languages in the C programming language family have inherited C's file I/O interface with few if any changes (for example, PHP).
+
+Overview
+This library uses what are called streams to operate with physical devices such as keyboards, printers, terminals or with any other type of files supported by the system. Streams are an abstraction to interact with these in a uniform way. All streams have similar properties independent of the individual characteristics of the physical media they are associated with.
+
+Functions
+Most of the C file input/output functions are defined in <stdio.h> (or in the [C++](640) header cstdio, which contains the standard C functionality but in the std namespace).
+
+Constants
+Constants defined in the <stdio.h> header include:
+
+Variables
+Variables defined in the <stdio.h> header include:
+
+Member types
+Data types defined in the <stdio.h> header include:
+
+FILE – also known as a file handle or a FILE pointer, this is an opaque pointer containing the information about a file or text stream needed to perform input or output operations on it, including:
+platform-specific identifier of the associated I/O device, such as a file descriptor
+the buffer
+stream orientation indicator (unset, narrow, or wide)
+stream buffering state indicator (unbuffered, line buffered, fully buffered)
+I/O mode indicator (input stream, output stream, or update stream)
+binary/text mode indicator
+end-of-file indicator
+error indicator
+the current stream position and multibyte conversion state (an object of type mbstate_t)
+reentrant lock (required as of C11)
+fpos_t – a non-array type capable of uniquely identifying the position of every byte in a file and every conversion state that can occur in all supported multibyte character encodings
+size_t – an unsigned integer type which is the type of the result of the sizeof operator.
+
+Extensions
+The POSIX standard defines several extensions to stdio in its Base Definitions, among which are a readline function that allocates memory, the fileno and fdopen functions that establish the link between FILE objects and file descriptors, and a group of functions for creating FILE objects that refer to in-memory buffers.
+
+Example
+The following C program opens a binary file called myfile, reads five bytes from it, and then closes the file.
+
+Alternatives to stdio
+Several alternatives to stdio have been developed. Among these is the [C++](640) iostream library, part of the ISO [C++](640) standard. ISO [C++](640) still requires the stdio functionality.
+Other alternatives include the Sfio (A Safe/Fast I/O Library) library from AT&T Bell Laboratories. This library, introduced in 1991, aimed to avoid inconsistencies, unsafe practices and inefficiencies in the design of stdio. Among its features is the possibility to insert callback functions into a stream to customize the handling of data read from or written to the stream. It was released to the outside world in 1997, and the last release was 1 February 2005.
+
+See also
+printf format string
+scanf format string
+
+References
+External links
+
+ Media related to C file input/output at Wikimedia Commons

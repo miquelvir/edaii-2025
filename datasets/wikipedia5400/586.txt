@@ -1,0 +1,15 @@
+586
+Archelosauria
+Archelosauria is a clade grouping turtles and archosaurs (birds and crocodilians) and their fossil relatives, to the exclusion of lepidosaurs (the clade containing lizards, snakes and the tuatara). The majority of phylogenetic analyses based on molecular data (e.g. DNA and proteins) have supported a sister-group relationship between turtles and archosaurs. On the other hand, Archelosauria had not been historically supported by most morphological analyses, which have instead found turtles to either be descendants of parareptiles, early-diverging diapsids outside of Sauria, or close relatives of lepidosaurs within the clade Ankylopoda. Some recent morphological analyses have also found support for Archelosauria.
+
+Classification
+Multiple sequence alignments of DNA and protein sequences and phylogenetic inferences have shown that turtles are the closest living relatives to birds and crocodilians. There are about 1000 ultra-conserved elements in the genome that are unique to turtles and archosaurs, but which are not found in lepidosaurs. Other genome-wide analyses also support this grouping.
+Archelosauria was named in a 2015 article by Crawford et al. The name is meant to evoke the archosaurs and chelonians (turtles), the two living subgroups of the clade. Crawford et al. defined Archelosauria as the clade formed by the descendants of the most recent common ancestor of Crocodylus niloticus (the Nile crocodile) and Testudo graeca (the Greek tortoise). A 2021 article by Joyce et al. modified the definition to specifically exclude the lizard Lacerta agilis from the group.
+Below is the phylogeny from Crawford et al., showing interrelationships of Testudines at family level down to Durocryptodira. Archelosauria was grouped within Sauria (the clade formed by archosaurs and lepidosaurs), as the sister branch to Lepidosauria, the clade containing lizards, snakes and the tuatara.
+
+Analyses based on morphological data have generally recovered turtles either as non-diapsid reptiles nested within Parareptilia (a group of basal reptiles that lived from the Carboniferous to the Triassic), as early-diverging diapsids outside of Sauria, or as close relatives of Lepidosauria. The hypothetical clade formed by turtles and lepidosaurs to the exclusion of archosaurs is known as Ankylopoda. A 2022 analysis by Simões et al. found a monophyletic Archelosauria using only morphological data for the first time, thus agreeing with most molecular analyses. Archelosauria was diagnosed by two unambiguous synapomorphies (shared derived traits): a sagittal crest on the supraoccipital bone, and the lack of an entepicondylar foramen on the humerus. A cladogram adapted from their analysis is shown below:
+
+Wolniewicz et al (2023) also found evidence for an expanded Archelosauria containing the three Mesozoic marine reptile clades of uncertain placement:
+
+
+== References ==

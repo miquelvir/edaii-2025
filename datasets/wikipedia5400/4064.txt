@@ -1,0 +1,15 @@
+4064
+Cope reaction
+The Cope reaction or Cope elimination, developed by [Arthur C. Cope](4003), is the elimination reaction of an N-oxide to an alkene and a hydroxylamine.Typically, the amine oxide is prepared from the corresponding amine with a peroxy acid or comparable oxidant.  The actual elimination requires just heat.  
+Illustrative is a synthesis of methylenecyclohexane:
+
+Mechanism and related eliminations
+The reaction proceeds through the Ei pathway, with an intramolecular, cyclic 5-membered transition state.1  Consequently, the elimination product is always syn and rarely occurs with 6-membered rings.  (Rings with 5 or 7 or more members undergo the reaction just fine.)  
+
+This organic reaction is closely related to the Hofmann elimination,2 but the base is a part of the leaving group.  Sulfoxides can undergo an essentially identical reaction to produce sulfenic acids, which is important in the antioxidant chemistry of garlic and other alliums. Selenoxides likewise undergo selenoxide eliminations.
+
+Reverse reaction
+The reverse or retro-Cope elimination has been reported, in which an N,N-disubstituted hydroxylamine reacts with an alkene to form a tertiary N-oxide. The reaction is a form of hydroamination and can be extended to the use of unsubstituted hydroxylamine, in which case oximes are produced.
+
+
+== References ==

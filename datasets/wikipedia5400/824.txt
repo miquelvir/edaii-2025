@@ -1,0 +1,34 @@
+824
+Atom (text editor)
+Atom is a free and open-source text and source-code editor for macOS, Linux, and Windows with support for plug-ins written in JavaScript, and embedded Git control. Developed by GitHub, Atom was released on June 25, 2015. 
+On June 8, 2022, GitHub announced Atom's end-of-life, occurring on December 15 of the same year, justifying its need "to prioritize technologies that enable the future of software development", specifically its GitHub Codespaces and Visual Studio Code, developed by Microsoft which had acquired GitHub in 2018.
+
+Features
+Atom is a "hackable" text editor, which means it is customizable using HTML, CSS, and JavaScript.
+Atom is a desktop application built using web technologies. It is based on the Electron framework, which was developed for that purpose, and hence was formerly called Atom Shell. Electron is a framework that enables cross-platform desktop applications using Chromium and Node.js. 
+Atom was initially written in [CoffeeScript](795) and Less, but much of it was converted to JavaScript.
+Atom uses Tree-sitter to provide syntax highlighting for multiple programming languages and file formats.
+
+Packages
+Like most other configurable text editors, Atom enabled users to install third-party packages and themes to customize the features and looks of the editor. Packages could be installed, managed and published via Atom's package manager apm. All types of packages, including but not limited to: Syntactic highlighting support for languages other than the default, debuggers, etc. could have been installed via apm.
+
+History
+Atom was developed in 2008 by GitHub founder Chris Wanstrath as a text editor using the Electron Framework (originally called Atom Shell), a framework designed as the base for Atom.
+Between May 2015 and December 2018, Facebook developed Nuclide and Atom IDE projects to turn Atom into an integrated development environment (IDE).
+In 2018 when Microsoft announced they would be acquiring GitHub, users expressed concern that Microsoft might discontinue Atom, as it competed with Microsoft's Visual Studio Code. The future GitHub CEO assured users that development and support for Atom would continue. However, within four years, development ceased.  On June 8, 2022, GitHub announced shutdown of Atom development and archival of all development repositories of Atom by December 15, 2022.
+A former developer on Atom, Nathan Sobo, announced that he was building the "spiritual successor" to Atom, titled Zed. Unlike Atom, Zed would be written in Rust and not use the Electron framework.
+On January 30, 2023, GitHub announced a breach which exposed "a set of encrypted code signing certificates" some of which were used to sign Atom releases. GitHub advised users to downgrade to earlier versions of Atom signed with a different key.
+Following Atom's end-of-life, development continued on a community fork named Pulsar.
+
+License
+Atom was made fully open source in May 2014 under the MIT License, including its desktop framework Electron.
+
+See also
+List of text editors
+Comparison of text editors § Programming features
+Comparison of HTML editors
+List of formerly proprietary software
+
+References
+External links
+Official website

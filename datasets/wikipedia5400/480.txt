@@ -1,0 +1,34 @@
+480
+Avsunviroidae
+The Avsunviroidae  are a family of viroids. There are four species in three genera (Avsunviroid, Elaviroid and Pelamoviroid). They consist of RNA genomes between 246 and 375 nucleotides in length. They are single-stranded covalent circles and have intramolecular base pairing. All members lack a central conserved region.
+
+Replication
+Replication occurs in the chloroplasts of plant cells. Key features of replication include no helper virus required and no proteins are encoded for. Unlike the other family of viroids, Pospiviroidae, Avsunviroidae are thought to replicate via a symmetrical rolling mechanism. It is thought the positive RNA strand acts as a template to form negative strands with the help of an enzyme thought to be RNA polymerase plus 3 II. The negative RNA strands are then cleaved by ribozyme activity and circularises. A second rolling circle mechanism forms a positive strand which is also cleaved by ribozyme activity and then ligated to become circular.
+The site of replication is unknown but it is thought to be in the chloroplast and in the presence of Mg2+ ions.
+
+Structure
+Predictions of structure have suggested that they exist either as rod-shaped molecules with regions of base pairing causing formation of some hairpin loops or have branched configurations.
+The family has four stretches of conserved nucleotides, guuuc, uc, ucag, ac from 5' to 3', plus their Watson-Crick pairings on the other end of the loop. This is part of its hammerhead ribozyme. Otherwise there is little structural similarity in the family. They do not have the conserved CCH, TCR, or TCH motifs, which is one of the features defining their separation from the Pospiviroidae.
+
+Classification
+The family has three genera, with a total of five species.
+
+Family Avsunviroidae
+Genus Avsunviroid;
+Species: Avocado sunblotch viroid (ASBVd, acc. J02020, gen. len. 247nt)
+Genus Elaviroid;
+Species: Eggplant latent viroid (ELVd, acc. AJ536613, gen. len. 333nt)
+Genus Pelamoviroid;
+Species: Appler hammerhead viroid, Chrysanthemum chlorotic mottle viroid (CChMVd, acc. Y14700, gen. len. 399nt) and Peach latent mosaic viroid (PLMVd, acc. M83545, gen. len. 337nt)
+
+Detection
+The lack of a long, central conserved region makes Avsunviroidae harder to identify than Pospiviroidae. A method to detect them is to use their circularity: a computer can piece together many overlapping reads that appear to form repeats when placed linearly.
+
+References
+Flores, Ricardo; Hernández, Carmen; Alba, A. Emilio Martínez de; Daròs, José-Antonio; Serio, Francesco Di (2005). "Viroids and Viroid-Host Interactions". Annual Review of Phytopathology. 43 (1). Annual Reviews: 117–139. doi:10.1146/annurev.phyto.43.040204.140243. ISSN 0066-4286. PMID 16078879.
+
+External links
+ICTV Online (10th) Report; Avsunviroidae
+MicrobiologyBytes: Viroids, archived from the original on 2007-02-24, retrieved 2007-03-16
+Description of Plant Viruses- Avsunviroidae, archived from the original on 2007-02-13, retrieved 2007-03-16
+STUDIES ON CATALYTIC RNA MOLECULES RELEVANT TO THE RNA WORLD HYPOTHESIS (PDF), archived from the original (PDF) on 2011-07-22

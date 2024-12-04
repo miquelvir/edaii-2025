@@ -1,0 +1,41 @@
+2842
+Ellagitannin
+The ellagitannins are a diverse class of hydrolyzable tannins, a type of polyphenol formed primarily from the oxidative linkage of galloyl groups in 1,2,3,4,6-pentagalloyl glucose. Ellagitannins differ from gallotannins, in that their galloyl groups are linked through C-C bonds, whereas the galloyl groups in gallotannins are linked by depside bonds.
+Ellagitannins contain various numbers of hexahydroxydiphenoyl units, as well as galloyl units and/or sanguisorboyl units bounded to sugar moiety. In order to determine the quantity of every individual unit, the hydrolysis of the extracts with trifluoroacetic acid in methanol/water system is performed. Hexahydroxydiphenic acid, created after hydrolysis, spontaneously lactonized to ellagic acid, and sanguisorbic acid to sanguisorbic acid dilactone, while gallic acid remains intact.
+Ellagitannins generally form macrocycles, whereas gallotannins do not.
+
+Examples
+Castalagin
+Castalin
+Casuarictin
+Grandinin
+Oenothein B from Willowherbs (Epilobium spp.)
+Roburin A
+Tellimagrandin II
+Terflavin B
+Vescalagin
+Pomegranate ellagitannins, many compounds
+Punicalagin
+Punicalin
+
+Metabolism
+Degradation
+Urolithins, such as urolithin A, are microflora human metabolites of dietary ellagic acid derivatives.
+
+Natural occurrences
+Ellagitannins are reported in dicotyledoneous angiospermes, and notably in species in the order Myrtales, such as the pomegranate.
+
+See also
+Urolithin - Urolithin A
+Polyphenols
+List of antioxidants in food
+
+Other links
+MALDI-TOF Mass Spectrometric Analysis of Hydrolysable Tannins
+
+References
+Further reading
+Quideau, Stéphane (editor). Chemistry and Biology of Ellagitannins: An Underestimated Class of Bioactive Plant Polyphenols, 2009, World Scientific Publishing.  Table of Contents. Preface.  Chapter 1.
+
+External links
+Tannin Chemistry (Tannin Handbook, Copyright 1998, 2002, 2011,  Ann E. Hagerman)

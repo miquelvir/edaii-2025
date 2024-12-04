@@ -1,0 +1,69 @@
+783
+Capella (notation program)
+capella is a musical notation program or scorewriter developed by the German company capella-software AG (formerly WHC), running on Microsoft Windows or corresponding emulators in other operating systems, like Wine on Linux and others on Apple Macintosh. Capella requires to be activated after a trial period of 30 days. The publisher writes the name in lower case letters only. The program was initially created by Hartmut Ring, and is now maintained and developed by Bernd Jungmann.
+Capella is one of the earliest computer programs for music notation and has a relatively moderate price compared with Finale or Sibelius, though up to version 7 it ran only on Windows. Capella claims to have 300,000 users for the music notation program and 120,000 for the OCR program. Digital sheet music in capella formats is available in various online music libraries, especially in German speaking areas. The German Protestant hymnal Evangelisches Gesangbuch has been digitized using capella software.
+Originally available only in German, capella is now available in English (US and British), French, Dutch, Finnish, Polish (version 5.3) and Czech (capella 2008).
+
+Features
+The current version is Capella Professional 8.0, which includes guitar chord notation ability, and guitar tab writing functions, in addition to the standard music notation tools. A capella start program is offered with several restrictions for a lower price. A free capella reader can display, print and play a capella score.
+Data entry is possible via computer keyboard entirely, via mouse or in a combination with a MIDI keyboard. It is intended for multi staff scores like choir music, or orchestral music.
+Capella is a practically oriented application suited for amateur and professional musicians alike. It includes engraving as well as MIDI import and export.
+capella can play back the score (the full score or an arbitrary selection of staves) via the computer's sound card, to MIDI devices or using VST modules. capella's captune module allows to select the output channels and to fine-tune the sounds.
+Version 7 brought live voice extraction: one can switch between the view on the full score for the whole orchestra and the view on a selection of the staves of one or a group of instruments. On printing and exporting, only the voices being shown in the current view will be used. Specific instruction of individual voices can be marked as "only visible in extracted voice". Live voice extraction is also available in the free Reader program; in the limited version of the editor Capella start, such live voice extractions are not available for editing.
+Version 7.1 introduced Unicode compatibility; UTF-8 is now the standard text encoding format.
+
+Current features
+The following modules are advertised for Capella 7 (February 2016):
+
+capella
+For the production of large complex music scores. Edit and arrange a score of voices/instruments in any number of pages of any number of staves per line, with multiple voice parts per stave. Playback with MIDI sound, import/export with other music software via MusicXML.
+
+capella start
+Cut-down version of capella with up to 4 staves per line, up to 2 voices per stave, and up to 100 bars.
+
+Technicalities
+The file format of capella evolved from a proprietary digital encoding (filename extension *.cap) to an open, XML text based format called CapXML with extension *.capx. There are CapXML 1.0 and 2.0 formats. Each *.capx file is a ZIP archive containing the actual XML with filename score.xml. CapXML differs from MusicXML in various aspects, one being that in CapXML the basic node is the chord which can have one or more notes, whereas in MusicXML the notes of a chord are single nodes which have to be put into relation with one another. Capella can import and export MusicXML files.
+Documentation of CapXML and the binary CAP file format, as well as of the programming interface is available for download at the Capella website.
+Capella provides a programming interface for Python scripts with a set of Python-classes providing the capella object hierarchy. Python scripts can be used as a plug-in to the capella program or run stand-alone, i.e. within a Capella editing session or externally, directly on the file or group of files. CapXML scores can, of course, be directly processed by any XML-aware software.
+Capella-programmer Bernd Jungmann used the Python scripting to produce a Braille-interface to Capella for blind users with a refreshable Braille display. Braille printing is possible using the MakeBraille service of the German Central Library for the Blind (DZB - Deutsche Zentralbibliothek für Blinde) in Leipzig, which accepts CapXML and MusicXML files as input, and offers its service for private, non-commercial uses only.
+
+Companion products
+Companion products to capella provide Music OCR (Capella Scan, which uses the FineReader engine from the Russian company ABBYY to recognize text, including Gothic letters), music recognition out of audio files (Capella Wave Kit), music teaching and training (rondo, audite!), composition aids (tonica fugata, with automatic composition of polyphonic sets, canons, and fugues), and production of accompaniment music files or CDs for karaoke-like uses for amateurs and professionals (Capella Playalong).
+
+capella-scan
+Convert scanned sheet music into a capella score for editing. including transposition.
+
+capella melody trainer
+Personal trainer for singers and instrumentalists.
+
+capella playAlong
+Converts capella, musicXML and MIDI to MP3 format.
+
+tonica fugata
+Add a three- or four-part harmonisation to a melody, compose a canon fugue on a given melody, analyse the harmonies in a given work.
+
+tonica pop
+Add harmonisation in 'pop' style.
+
+History
+Before capella, there was tonica, a program to analyse musical notation. Since some people used tonica mainly to print musical scores, the idea for a scorewriter was born.
+The first version was published in 1992 as a program named "Allegro", running under MS-DOS with its own graphical interface. Since the name was already taken, the name had to be changed - taking the name from the brightest star in the constellation Auriga, Capella. Only the original file name extension ALL was kept for the binary notation file format. The first real capella is version 1.01 dated 15 May 1992. Version 1.5 was the last MS-DOS Version, published in 1993.
+The only alternative back then was the much more expensive Finale on Atari ST or Macintosh, or since 1993 Sibelius on Acorn Computers.
+Version 2 used Windows 3.1. The file format changed to another proprietary binary format with extension CAP. Many details, including lyrics, were lost in the conversion from ALL to CAP files.
+Version 3.0 moved from 16-bit to 32-bit software. The file format changed again, also with some losses in the conversion. This format is internally designated as CAP3. This binary file format was kept, until the XML-based format CapXML 1.0 with extension CAPX was introduced.
+In 2004, scripting was introduced.
+Capella has always used and uses copy protection; initially by requiring the installation CD to be in the CD reader, today by requiring activation (after a trial period of 30 days).
+The company was originally called "whc Musiksoftware", then "whc Musiksoftware GmbH". The name was changed to "capella-software GmbH" in the fall of 2002, changing the legal form from GmbH to AG (Aktiengesellschaft) in March 2011.
+Version 8, published in late 2017, is a major rewrite of the program using the Qt, a cross-platform application framework and widget toolkit, which made possible the publication of a version for macOS, i.e. Apple Macintosh. The Reader 8, using the Qt platform, had already been released March 29, 2016, 20 months before the main program.
+
+See also
+List of music software
+
+References
+External links
+capella company homepage (English)
+capella-blind by Bernd Jungmann
+Independent Wiki on capella with scripts to download (German)
+Independent forum on capella (German)
+Variations on the term "a capella"
+Scores in Capella format (in German, English, and Russian)

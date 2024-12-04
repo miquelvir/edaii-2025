@@ -1,0 +1,62 @@
+4130
+Allen Newell
+Allen Newell (March 19, 1927 – July 19, 1992) was an American researcher in computer science and cognitive psychology at the RAND Corporation and at Carnegie Mellon University's School of Computer Science, Tepper School of Business, and Department of Psychology. He contributed to the Information Processing Language (1956) and two of the earliest AI programs, the Logic Theorist (1956) and the General Problem Solver (1957) (with Herbert A. Simon). He was awarded the ACM's A.M. Turing Award along with Herbert A. Simon in 1975 for their contributions to artificial intelligence and the psychology of human cognition.
+
+Early studies
+Newell completed his bachelor's degree in physics from Stanford in 1949. He was a graduate student at [Princeton University](4018) from 1949 to 1950, where he studied mathematics. Due to his early exposure to an unknown field known as game theory and the experiences from the study of mathematics, he was convinced that he would prefer a combination of experimental and theoretical research to pure mathematics. 
+In 1950, he left Princeton and joined the RAND Corporation in Santa Monica where he worked for "a group that was studying logistics problems of the Air Force". His work with Joseph Kruskal led to the creation of two theories: A Model for Organization Theory and Formulating Precise Concepts in Organization Theory.  Newell eventually earned his PhD from the now Tepper School of Business at Carnegie Mellon with Herbert Simon serving as his advisor.
+Afterwards, Newell "turned to the design and conduct of laboratory experiments on decision making in small groups". He was dissatisfied, however, with the accuracy and validity of their findings produced from small-scale laboratory experiments. He joined with fellow RAND teammates John Kennedy, Bob Chapman, and Bill Biel at an Air Force Early Warning Station to study organizational processes in flight crews. They received funding from the Air Force in 1952 to build a simulator that would enable them to examine and analyze the interactions in the cockpit related to decision-making and information-handling. From these studies, Newell came to believe that information processing is the central activity in organizations.
+
+[Artificial intelligence](622)
+In September 1954, Newell enrolled in a seminar where Oliver Selfridge "described a running computer program that learned to recognize letters and other patterns". This was when Allen came to believe that systems may be created and contain intelligence and have the ability to adapt. With this in mind, Allen, after a couple of months, wrote in 1955 The Chess Machine: An Example of Dealing with a Complex Task by Adaptation, which "outlined an imaginative design for a computer program to play chess in humanoid fashion".
+His work came to the attention of economist (and future nobel laureate) Herbert A. Simon, and, together with programmer J. C. Shaw, they developed the first true artificial intelligence program(see notes), the Logic Theorist. Newell's work on the program laid the foundations of the field. His inventions included: list processing, the most important programming paradigm used by AI ever since;  the application of means-ends analysis to general reasoning (or "reasoning as search"); and the use of heuristics to limit the search space.
+They presented the program at the Dartmouth conference of 1956, an informal gathering of researchers who were interested in simulating intelligence with machines. The conference, now widely considered the "birth of artificial intelligence", was enormously influential and those who attended became the leaders of AI research for the next two decades, Newell included.
+
+Later achievements
+Newell and Simon formed a lasting partnership. They founded an artificial intelligence laboratory at Carnegie Mellon University and produced a series of important programs and theoretical insights throughout the late fifties and sixties. This work included the General Problem Solver, a highly influential implementation of means–ends analysis, and the physical symbol systems hypothesis, the controversial philosophical assertion that all intelligent behavior could be reduced to the kind of symbol manipulation that Newell's programs demonstrated.
+Newell's work culminated in the development of a cognitive architecture known as Soar and his unified theory of cognition, published in 1990, but their improvement was the objective of his efforts up to his death (one of the last Newell's letters Archived 2011-05-14 at the Wayback Machine). The field of cognitive architectures, that he initiated, is still active in both the artificial intelligence and computational cognitive science communities.
+
+Awards and honors
+1971 — John Danz Lecturer, University of Washington
+1971 — Harry Goode Memorial Award, American Federation of Information Processing Societies
+1972 — Elected to member of the United States National Academy of Sciences
+1972 — Elected to Fellow of the [American Academy of Arts and Sciences](3132)
+1975 — A. M. Turing Award (with Herbert A. Simon), [Association for Computing Machinery](823)
+1976–77 — Guggenheim Fellowship, John Simon Guggenheim Memorial Foundation
+1979 — Alexander C. Williams Jr. Award (with William C. Biel, Robert Chapman and John L. Kennedy), Human Factors Society
+1980 — Elected to member of the United States National Academy of Engineering
+1980 — First President, American Association for Artificial Intelligence
+1981 — Charter recipient of the Computer Pioneer Award from the IEEE Computer Society
+1985 — Distinguished Scientific Contribution Award, American Psychological Association
+1986 — Doctor of Science (Honorary), University of Pennsylvania
+1987 — William James Lectures, Harvard University
+1989 — Award for Research Excellence, International Joint Conference on Artificial Intelligence
+1989 — Doctor in the Behavioral and Social Sciences (Honorary), University of Groningen, The Netherlands
+1989 — William James Fellow Award (charter recipient), American Psychological Society
+1990 — IEEE Emanuel R. Piore Award
+1990 — IEEE W.R.G. Baker Prize Paper Award
+1990 — Fellow of the Association for the Advancement of Artificial Intelligence
+1992 — U.S. National Medal of Science
+1992 — The Franklin Institute's Louis E. Levy Medal
+The ACM - AAAI Allen Newell Award was named in his honor.  The Award for Research Excellence of the Carnegie Mellon School of Computer Science was also named in his honor.
+
+See also
+List of pioneers in computer science
+
+Notes
+Logic theorist is usually considered the first true AI program, although Arthur Samuel's checkers program was released earlier. Christopher Strachey also wrote a checkers program in 1951
+
+References
+Further reading
+Allen Newell at the Mathematics Genealogy Project
+Allen Newell at the AI Genealogy Project.
+Oral history interview with Allen Newell at Charles Babbage Institute, University of Minnesota, Minneapolis.  Newell discusses his entry into computer science, funding for computer science departments and research, the development of the Computer Science Department at Carnegie Mellon University, including the work of Alan Perlis and Raj Reddy, and the growth of the computer science and artificial intelligence research communities.  Compares computer science programs at Stanford, MIT, and Carnegie Mellon.
+Full-text digital archive of Allen Newell papers
+Biography
+Mind Models online Artificial Intelligence exhibit
+Publications by Allen Newell from Interaction-Design.org
+Allen Newell Archived 2012-10-07 at the Wayback Machine by Gualtiero Piccinini in New Dictionary of Scientific Biography, Thomson Gale, ed.
+
+External links
+Herbert A. Simon, "Allen Newell", Biographical Memoirs of the National Academy of Sciences (1997)
+ Quotations related to Allen Newell at Wikiquote

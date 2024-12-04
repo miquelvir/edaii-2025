@@ -1,0 +1,39 @@
+923
+Boost (C++ libraries)
+Boost is a set of libraries for the [C++](640) programming language that provides support for tasks and structures such as linear algebra, pseudorandom number generation, multithreading, image processing, regular expressions, and unit testing. It contains 164 individual libraries (as of version 1.76).
+All of the Boost libraries are licensed under the Boost Software License, designed to allow Boost to be used with both free and proprietary software projects. Many of Boost's founders are on the [C++](640) standards committee, and several Boost libraries have been accepted for incorporation into the [C++](640) Technical Report 1, the [C++](640)11 standard (e.g. smart pointers, thread, regex, random, ratio, tuple) and the [C++](640)17 standard (e.g. filesystem, any, optional, variant, string_view).
+The Boost community emerged around 1998, when the first version of the standard was released. It has grown continuously since then and now plays a big role in the standardization of [C++](640). Even though there is no formal relationship between the Boost community and the standardization committee, some of the developers are active in both groups.
+
+Design
+The libraries are aimed at a wide range of [C++](640) users and application domains. They range from general-purpose libraries like the smart pointer library, to operating system abstractions like Boost FileSystem, to libraries primarily aimed at other library developers and advanced [C++](640) users, like the template metaprogramming (MPL) and domain-specific language (DSL) creation (Proto).
+In order to ensure efficiency and flexibility, Boost makes extensive use of templates. Boost has been a source of extensive work and research into generic programming and metaprogramming in [C++](640).
+Most Boost libraries are header based, consisting of inline functions and templates, and as such do not need to be built in advance of their use. Some Boost libraries coexist as independent libraries.
+
+Associated people
+The original founders of Boost that are still active in the community includes David Abrahams. An author of several books on [C++](640), Nicolai Josuttis, contributed to the Boost array library in 2001. There are mailing lists devoted to Boost library use and library development, active as of 2023.
+
+License
+Boost is licensed under its own free, open-source license, known as the Boost Software License. It is a permissive license in the style of the BSD license and the MIT license, but without requiring attribution for redistribution in binary form. The license has been OSI-approved since February 2008 and is considered a free software license, compatible with the GNU General Public License, by the Free Software Foundation.
+
+See also
+Apache Portable Runtime – used by the [Apache HTTP Server](814)
+GLib – the equivalent upon which GNOME is built
+KDE Frameworks – the equivalent upon which KDE Software Compilation is built
+List of [C++](640) template libraries
+Software using the Boost license (category)
+Standard Template Library
+
+References
+Further reading
+Demming, Robert & Duffy, Daniel J. (2010). Introduction to the Boost [C++](640) Libraries. Vol. 1 - Foundations. Datasim. ISBN 978-94-91028-01-4.
+Demming, Robert & Duffy, Daniel J. (2012). Introduction to the Boost [C++](640) Libraries. Vol. 2 - Advanced Libraries. Datasim. ISBN 978-94-91028-02-1.
+Mukherjee, Arindam (2015). Learning Boost [C++](640) Libraries. Packt. ISBN 978-1-78355-121-7.
+Polukhin, Antony (2013). Boost [C++](640) Application Development Cookbook. Packt. ISBN 978-1-84951-488-0.
+Polukhin, Antony (2017). Boost [C++](640) Application Development Cookbook (2 ed.). Packt. ISBN 978-1-78728-224-7.
+Schäling, Boris (2011). The Boost [C++](640) Libraries. XML Press. ISBN 978-0-9822191-9-5.
+Schäling, Boris (2014). The Boost [C++](640) Libraries (2 ed.). XML Press. p. 570. ISBN 978-1-937434-36-6.
+Siek, Jeremy G.; Lee, Lie-Quan & Lumsdaine, Andrew (2001). The Boost Graph Library: User Guide and Reference Manual. Addison-Wesley. ISBN 978-0-201-72914-6.
+
+External links
+
+Official website

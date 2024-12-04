@@ -1,0 +1,53 @@
+3856
+Aristarchus of Samos
+Aristarchus of Samos (; Ancient Greek: Ἀρίσταρχος ὁ Σάμιος, Aristarkhos ho Samios; c. 310 – c. 230 BC) was  an ancient Greek astronomer and mathematician who presented the first known heliocentric model that placed the Sun at the center of the universe, with the Earth revolving around the Sun once a year and rotating about its axis once a day. He also supported the theory of [Anaxagoras](3828) according to which the Sun was just another star.
+He likely moved to [Alexandria](1844), and he was a student of Strato of Lampsacus, who later became the third head of the Peripatetic School in Greece. According to Ptolemy, he observed the summer solstice of 280 BC. Along with his contributions to the heliocentric model, as reported by Vitruvius, he created two separate sundials: one that is a flat disc; and one hemispherical. 
+Aristarchus was influenced by the concept presented by Philolaus of Croton (c. 470 – 385 BC) of a fire at the center of the universe, but Aristarchus identified the "central fire" with the Sun and he arranged the other planets in their correct order of distance around the Sun.
+Like [Anaxagoras](3828) before him, Aristarchus suspected that the stars were just other bodies like the Sun, albeit farther away from Earth. His astronomical ideas were often rejected in favor of the geocentric theories of [Aristotle](162) and Ptolemy. Nicolaus Copernicus knew that Aristarchus had a 'moving Earth' theory, although it is unlikely that Copernicus was aware that it was a heliocentric theory.
+Aristarchus estimated the sizes of the Sun and Moon as compared to Earth's size. He also estimated the distances from the Earth to the Sun and Moon. He is considered one of the greatest astronomers of antiquity along with Hipparchus.
+
+Heliocentrism
+The original text has been lost, but a reference in a book by [Archimedes](3851), entitled The Sand Reckoner (Archimedis Syracusani Arenarius & Dimensio Circuli), describes a work in which Aristarchus advanced the heliocentric model as an alternative hypothesis to geocentrism:
+
+You are now aware 'you' being King Gelon that the "universe" is the name given by most astronomers to the sphere the centre of which is the centre of the earth, while its radius is equal to the straight line between the centre of the sun and the centre of the earth. This is the common account (τὰ γραφόμενα) as you have heard from astronomers. But Aristarchus has brought out a book consisting of certain hypotheses, wherein it appears, as a consequence of the assumptions made, that the universe is many times greater than the "universe" just mentioned. His hypotheses are that the fixed stars and the sun remain unmoved, that the earth revolves about the sun on the circumference of a circle, the sun lying in the middle of the orbit, and that the sphere of the fixed stars, situated about the same centre as the sun, is so great that the circle in which he supposes the earth to revolve bears such a proportion to the distance of the fixed stars as the centre of the sphere bears to its surface.
+Aristarchus suspected the stars were other suns that are very far away, and that in consequence there was no observable parallax, that is, a movement of the stars relative to each other as the Earth moves around the Sun. Since stellar parallax is only detectable with telescopes, his accurate speculation was unprovable at the time.
+It is a common misconception that the heliocentric view was considered sacrilegious by the contemporaries of Aristarchus. Lucio Russo traces this to Gilles Ménage's printing of a passage from Plutarch's On the Apparent Face in the Orb of the Moon, in which Aristarchus jokes with Cleanthes, who is head of the Stoics, a sun worshipper, and opposed to heliocentrism. In the manuscript of Plutarch's text, Aristarchus says Cleanthes should be charged with impiety. Ménage's version, published shortly after the trials of Galileo and Giordano Bruno, transposes an accusative and nominative so that it is Aristarchus who is purported to be impious. The resulting misconception of an isolated and persecuted Aristarchus is still promulgated.
+According to Plutarch, while Aristarchus postulated heliocentrism only as a hypothesis, Seleucus of Seleucia, a Hellenistic astronomer who lived a century after Aristarchus, maintained it as a definite opinion and gave a demonstration of it, but no full record of the demonstration has been found. In his Naturalis Historia, Pliny the Elder later wondered whether errors in the predictions about the heavens could be attributed to a displacement of the Earth from its central position.  Pliny and Seneca referred to the retrograde motion of some planets as an apparent (unreal) phenomenon, which is an implication of heliocentrism rather than geocentrism. Still, no stellar parallax was observed, and Plato, [Aristotle](162), and Ptolemy preferred the geocentric model that was believed throughout the Middle Ages.
+The heliocentric theory was revived by Copernicus, after which Johannes Kepler described planetary motions with greater accuracy with his three laws. Isaac Newton later gave a theoretical explanation based on laws of gravitational attraction and dynamics.
+After realizing that the Sun was much larger than the Earth and the other planets, Aristarchus concluded that planets revolved around the Sun.
+
+Distance to the Sun
+The only known work attributed to Aristarchus, On the Sizes and Distances of the Sun and Moon, is based on a geocentric worldview. Historically, it has been read as stating that the angle subtended by the Sun's diameter is two degrees, but [Archimedes](3851) states in The Sand Reckoner that Aristarchus had a value of half a degree, which is much closer to the average value of 32' or 0.53 degrees. The discrepancy may come from a misinterpretation of which unit of measure was meant by a Greek term in the text of Aristarchus.
+Aristarchus claimed that at half moon (first or last quarter moon), the angle between the Sun and Moon was 87°. He may have proposed 87° as a lower bound, since gauging the lunar terminator's deviation from linearity to one degree of accuracy is beyond the unaided human ocular limit (which is about three arcminutes of accuracy). Aristarchus is known to have studied light and vision as well.
+Using correct geometry, but the insufficiently accurate 87° datum, Aristarchus concluded that the Sun was between 18 and 20 times farther away from the Earth than the Moon. (The correct value of this angle is close to 89° 50', and the Sun's distance is approximately 400 times that of the Moon.) The implicit inaccurate solar parallax of slightly under three degrees was used by astronomers up to and including Tycho Brahe, c. AD 1600. Aristarchus pointed out that the Moon and Sun have nearly equal apparent angular sizes, and therefore their diameters must be in proportion to their distances from Earth.
+
+Size of the Moon and Sun
+In On the Sizes and Distances of the Sun and Moon, Aristarchus discusses the size of the Moon and Sun in relation to the Earth. In order to achieve these measurements and subsequent calculations, he used several key notes made while observing a lunar eclipse. The first of these consisted of the time that it took for the Earth's shadow to fully encompass the Moon, along with how long the Moon remained within the shadow. This was used to estimate the angular radius of the shadow. From there, using the width of the cone that was created by the shadow in relation to the Moon, he determined that it was twice the diameter of the Moon at the full, non-central eclipse. In addition to this, Aristarchus estimated that the length of the shadow extended around 2.4 times the distance of the Moon from the Earth.
+Using these calculations, along with his estimated distances of the Sun from the Earth and Moon from the Earth, he created a triangle. Employing geometry similar to that he had already used for the distances, he was able to determine that the diameter of the Moon is roughly one-third of the Earth's diameter. In order to estimate the size of the Sun, Aristarchus considered the proportion of the Sun's distance to Earth in comparison to the Moon's distance from Earth, which was found to be roughly 18 to 20 times the length. Therefore, the size of the Sun is around 19 times wider than the Moon, making it approximately six times wider than the Earth's diameter.
+
+Legacy
+The lunar crater Aristarchus, the minor planet 3999 Aristarchus, and the telescope Aristarchos are named after him.
+
+See also
+[Aristarchus's inequality](3855)
+Eratosthenes (c. 276 – c. 194/195 BC), a Greek mathematician who calculated the circumference of the Earth and also the distance from the Earth to the Sun.
+Hipparchus (c. 190 – c. 120 BC), a Greek mathematician who measured the radii of the Sun and the Moon as well as their distances from the Earth.
+Posidonius (c. 135 – c. 51 BC), a Greek astronomer and mathematician who calculated the circumference of the Earth.
+
+References
+Bibliography
+Heath, Sir Thomas (1913). Aristarchus of Samos, the ancient Copernicus; a history of Greek astronomy to Aristarchus, together with Aristarchus's Treatise on the sizes and distances of the sun and moon : a new Greek text with translation and notes. London: Oxford University Press.
+Dreyer, John Louis Emil (1953) 1906. A History of Astronomy from Thales to Kepler. New York: Dover Publications.
+
+Further reading
+Carman, Christián C.; Buzón, Rodolfo P. (26 May 2023). Aristarchus of Samos: On the Sizes and Distances of the Sun and Moon: Greek Text, Translation, Analysis, and Relevant Scholia. Taylor & Francis. ISBN 978-1-000-86986-6.
+Gomez, Alberto (2023). Decoding Aristarchus. Berlin: Peter Lang Verlag. ISBN 9783631892619.
+Stahl, William (1970). "Aristarchus of Samos". Dictionary of Scientific Biography. Vol. 1. New York: Charles Scribner's Sons. pp. 246–250. ISBN 0-684-10114-9.
+
+External links
+
+Biography: JRASC, 75 (1981) 29
+First estimate of the Moon's distance and First estimate of the Sun's distance from educational website From Stargazers to Starships
+Aristarchus of Samos, The Ancient Copernicus (https://archive.org/details/aristarchusofsam00heatuoft
+O'Connor, John J.; Robertson, Edmund F., "Aristarchus of Samos", MacTutor History of Mathematics Archive, University of St Andrews
+Online Galleries, History of Science Collections, University of Oklahoma Libraries Archived 2012-05-15 at the Wayback Machine High resolution images of works by Aristarchus of Samos in .jpg and .tiff format.

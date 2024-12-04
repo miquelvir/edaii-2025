@@ -1,0 +1,31 @@
+849
+Turbo C
+Turbo C is a discontinued integrated development environment (IDE) and compiler for the C programming language from Borland. First introduced in 1987, it was noted for its integrated development environment, small size, fast compile speed, comprehensive manuals and low price.
+In May 1990, Borland replaced Turbo C with Turbo [C++](640). In 2006, Borland reintroduced the Turbo moniker.
+
+Early history
+In the early 1980s, Borland enjoyed considerable success with their Turbo Pascal product and it became a popular choice when developing applications for the PC. Borland followed up that success by releasing Turbo Prolog (in 1986), and in 1987, Turbo Basic and Turbo C. Turbo C has similar properties to Turbo Pascal: an integrated development environment, a fast compiler (though not near the speed of Turbo Pascal), a good editor, and a competitive price.
+Turbo C competed with other professional programming tools, such as Microsoft C, Watcom C, and Lattice C, while Turbo Pascal was successful with hobbyists and schools as well as professional programmers.
+
+Version history
+Version 1.0 (May 13, 1987) offered the first integrated development environment for C on IBM PCs. Like many Borland products of the time, the software was bought from another company (in this case Wizard C compiler by Bob Jervis), and branded with the "Turbo" name. It ran in 384 kB of memory. It allowed inline assembly with full access to C symbolic names and structures, supported all memory models, and offered optimizations for speed, size, constant folding, and jump elimination.
+Version 1.5 (January 1988) was an incremental improvement over version 1.0. It included more sample programs, improved manuals and bug fixes. It was shipped on five 360 KB diskettes of uncompressed files, and came with sample C programs, including a stripped down spreadsheet called mcalc. This version introduced the <conio.h> header file (which provided fast, PC-specific console I/O routines).
+Version 2.0 (late 1988) featured the first "blue screen" version, which would be typical of all future Borland releases for MS-DOS. It was also available bundled with Turbo Assembler and Turbo Debugger. Turbo C 2.0 was also released (in Germany only) for the Atari ST; the program was not maintained by Borland, but sold and renamed PureC. This version introduced the <graphics.h> header file, which provided the Borland Graphics Interface already included in Turbo Pascal. 
+With the release of Turbo [C++](640) 1.0 (in 1990), the two products were folded into one and the name "Turbo C" was discontinued. The [C++](640) compiler was developed under contract by a company in San Diego, and was one of the first "true" compilers for [C++](640) (until then, it was common to use pre-compilers that generated C code, ref. Cfront).
+
+Freeware release
+In 2006, Borland's successor, Embarcadero Technologies, re-released Turbo C and the MS-DOS versions of the Turbo [C++](640) compilers as freeware.
+
+Reception
+BYTE in January 1989 listed Turbo C and Turbo Pascal as among the "Distinction" winners of the BYTE Awards. Citing their user interface and continued emphasis on speed, the magazine stated that "for rapid prototyping there's not much better". In a February 1989 overview of optimizing C compilers, BYTE said that Turbo C Professional 2.0 "is no exception" to the company's "well-deserved reputation for pricing good software". The magazine reported that Turbo C "compiles faster—much faster—than any other compiler we reviewed", and praised the addition of Turbo Debugger ("the best source debugger"). BYTE concluded that Turbo C did not produce the fastest or smallest executable, "but it's definitely the one that is most fun to use".
+
+See also
+Turbo Assembler
+Turbo Debugger
+
+References
+External links
+borland.com - Borland Developer Network Museum
+codegear.com - Turbo [C++](640) version 1.01 Archived 2008-06-25 at the Wayback Machine
+borland.com - Turbo C 2.01 Free download from EDN
+computermuseum-muenchen.de - Computer Museum in Munich with a large collection of software, including Turbo C 1.0 ff

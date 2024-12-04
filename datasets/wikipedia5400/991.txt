@@ -1,0 +1,48 @@
+991
+Fiber (computer science)
+In computer science, a fiber is a particularly lightweight thread of execution.
+Like threads, fibers share address space. However, fibers use cooperative multitasking while threads use preemptive multitasking. Threads often depend on the kernel's thread scheduler to preempt a busy thread and resume another thread; fibers yield themselves to run another fiber while executing.
+
+Threads, fibers and coroutines
+The key difference between fibers and kernel threads is that fibers use cooperative context switching, instead of preemptive time-slicing. In effect, fibers extend the concurrency taxonomy:
+
+on a single computer, multiple processes can run
+within a single process, multiple threads can run
+within a single thread, multiple fibers can run
+Fibers (sometimes called stackful coroutines or user mode cooperatively scheduled threads) and stackless coroutines (compiler synthesized state machines) represent two distinct programming facilities with vast performance and functionality differences.
+
+Advantages and disadvantages
+Because fibers multitask cooperatively, thread safety is less of an issue than with preemptively scheduled threads, and synchronization constructs including spinlocks and atomic operations are unnecessary when writing fibered code, as they are implicitly synchronized.  However, many libraries yield a fiber implicitly as a method of conducting non-blocking I/O; as such, some caution and documentation reading is advised. A disadvantage is that fibers cannot utilize multiprocessor machines without also using preemptive threads; however, an M:N threading model with no more preemptive threads than CPU cores can be more efficient than either pure fibers or pure preemptive threading.
+In some server programs fibers are used to soft block themselves to allow their single-threaded parent programs to continue working. In this design, fibers are used mostly for I/O access which does not need CPU processing. This allows the main program to continue with what it is doing. Fibers yield control to the single-threaded main program, and when the I/O operation is completed fibers continue where they left off.
+
+Operating system support
+Less support from the operating system is needed for fibers than for threads. They can be implemented in modern Unix systems using the library functions getcontext, setcontext and swapcontext in ucontext.h, as in GNU Portable Threads, or in assembler as boost.fiber.
+On Microsoft Windows, fibers are created using the ConvertThreadToFiber and CreateFiber calls; a fiber that is currently suspended may be resumed in any thread. Fiber-local storage, analogous to thread-local storage, may be used to create unique copies of variables.
+Symbian OS used a similar concept to fibers in its Active Scheduler. An active object contained one fiber to be executed by the Active Scheduler when one of several outstanding asynchronous calls completed. Several Active objects could be waiting to execute (based on priority) and each one had to restrict its own execution time.
+
+Fiber implementation examples
+Fibers can be implemented without operating system support, although some operating systems or libraries provide explicit support for them.
+
+Win32 supplies a fiber [API](708) (Windows NT 3.51 SP3 and later)
+The C++ Boost libraries have a fiber class since Boost version 1.62
+Ruby had Green threads (before version 1.9)
+Netscape Portable Runtime (includes a user-space fibers implementation)
+ribs2
+PHP since version 8.1
+Rust fibers that use Futures under the hood
+Crystal provides fibers as a part of the language and standard library
+
+See also
+setcontext/getcontext library routines
+Green threads and virtual threads
+call-with-current-continuation
+
+References
+External links
+GNU Portable threads
+"Portable Coroutine Library". Freecode.
+Fiber Pool A multicore-capable C++ framework based on fibers for Microsoft Windows.
+State Threads
+Protothreads
+ribs2
+boost.fiber

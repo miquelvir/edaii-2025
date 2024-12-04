@@ -1,0 +1,53 @@
+2875
+Furan
+Furan is a heterocyclic organic compound, consisting of a five-membered aromatic ring with four carbon atoms and one oxygen atom.  Chemical compounds containing such rings are also referred to as furans.
+Furan is a colorless, flammable, highly volatile liquid with a boiling point close to room temperature. It is soluble in common organic solvents, including alcohol, ether, and acetone, and is slightly soluble in water.  Its odor is "strong, ethereal; chloroform-like".  It is toxic and may be carcinogenic in humans. Furan is used as a starting point for other speciality chemicals.
+
+History
+The name "furan" comes from the Latin furfur, which means bran (furfural is produced from bran). The first furan derivative to be described was 2-furoic acid, by Carl Wilhelm Scheele in 1780. Another important derivative, furfural, was reported by Johann Wolfgang Döbereiner in 1831 and characterised nine years later by John Stenhouse. Furan itself was first prepared by Heinrich Limpricht in 1870, although he called it "tetraphenol" (as if it were a four-carbon analog to phenol, C6H5OH).
+
+Production
+Industrially, furan is manufactured by the palladium-catalyzed decarbonylation of furfural, or by the copper-catalyzed oxidation of 1,3-butadiene:
+
+In the laboratory, furan can be obtained from furfural by oxidation to 2-furoic acid, followed by decarboxylation. It can also be prepared directly by thermal decomposition of pentose-containing materials, and cellulosic solids, especially pine wood.
+
+Synthesis of furans
+The Feist–Benary synthesis is a classic way to synthesize furans.  The reaction involves alkylation of 1,3-diketones with α-bromoketones followed by dehydration of an intermediate hydroxydihydrofuran. The other traditional route involve the reaction of 1,4-diketones with phosphorus pentoxide (P2O5) in the Paal–Knorr synthesis. 
+Many routes exist for the synthesis of substituted furans.
+
+	Furan in nature and commerce
+
+Structure and bonding
+Furan has aromatic character because one of the lone pairs of electrons on the oxygen atom is delocalized into the ring, creating a 4n + 2 aromatic system (see Hückel's rule).  The aromaticity is modest relative to that for benzene and related heterocycles thiophene and pyrrole. The resonance energies of benzene, pyrrole, thiophene, and furan are, respectively, 152, 88, 121, and 67 kJ/mol (36, 21, 29, and 16 kcal/mol). Thus, these heterocycles, especially furan, are far less aromatic than benzene, as is manifested in the lability of these rings. The molecule is flat but the C=C groups attached to oxygen retain significant double bond character. The other lone pair of electrons of the oxygen atom extends in the plane of the flat ring system. 
+Examination of the resonance contributors shows the increased electron density of the ring, leading to increased rates of electrophilic substitution.
+
+Reactivity
+Because of its partial aromatic character, furan's behavior is intermediate between that of an enol ether and an aromatic ring.  It is dissimilar vs ethers such as tetrahydrofuran. 
+Like enol ethers, 2,5-disubstituted furans are susceptible to hydrolysis to reversibly give 1,4-diketones.  
+Furan serves as a diene in Diels–Alder reactions with electron-deficient dienophiles such as ethyl (E)-3-nitroacrylate. The reaction product is a mixture of isomers with preference for the endo isomer:
+
+Diels-Alder reaction of furan with arynes provides corresponding derivatives of dihydronaphthalenes, which are useful intermediates in synthesis of other polycyclic aromatic compounds.
+
+It is considerably more reactive than benzene in electrophilic substitution reactions, due to the electron-donating effects of the oxygen heteroatom.  It reacts with bromine at 0 °C to give 2-bromofuran.
+Hydrogenation of furans sequentially affords dihydrofurans and tetrahydrofurans.
+In the Achmatowicz reaction, furans are converted to dihydropyran compounds.
+Pyrrole can be prepared industrially by treating furan with ammonia in the presence of solid acid catalysts, such as SiO2 and Al2O3.
+
+Safety
+Furan is found in heat-treated commercial foods and is produced through thermal degradation of natural food constituents. It can be found in roasted coffee, instant coffee, and processed baby foods. Research has indicated that coffee made in espresso makers and coffee made from capsules contain more furan than that made in traditional drip coffee makers, although the levels are still within safe health limits.
+Exposure to furan at doses about 2,000 times the projected level of human exposure from foods increases the risk of hepatocellular tumors in rats and mice and bile duct tumors in rats.  Furan is therefore listed as a possible human carcinogen.
+
+See also
+BS 4994 – Furan resin as thermoset FRP for chemical process plant equipments
+Furanocoumarin
+Furanoflavonoid
+Furanose
+Furantetracarboxylic acid
+Simple aromatic rings
+Furan fatty acids
+Tetrahydrofuran
+
+References
+External links
+
+Recent synthetic methods

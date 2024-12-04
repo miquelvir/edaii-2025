@@ -1,0 +1,31 @@
+882
+Carriage return
+A carriage return, sometimes known as a cartridge return and often shortened to CR, <CR> or return, is a control character or mechanism used to reset a device's position to the beginning of a line of text. It is closely associated with the line feed and newline concepts, although it can be considered separately in its own right.
+
+Typewriters
+Originally, the term "carriage return" referred to a mechanism or lever on a typewriter. For machines where the type element was fixed and the paper held in a moving carriage, this lever was on the left attached to the moving carriage, and operated after typing a line of text to cause the carriage to return to the far right so the type element would be aligned to the left side of the paper. The lever would also usually feed the paper to advance to the next line.
+Many electric typewriters such as IBM Electric or Underwood Electric made carriage return to be another key on the keyboard instead of a lever. The key was usually labeled "carriage return", "return", or "power return". With typewriters like the Selectric, where the type element moved when typing and the paper was held stationary, the key returned the type element to the far left and the term "carrier return" was sometimes used for this function.
+To improve the keyboard for non-English-speakers, the symbol ↵ (U+21B5, HTML entity &crarr;) was introduced to communicate the combined carriage return and line feed action.
+
+Computers
+In computing, the carriage return is one of the control characters in ASCII code, Unicode, EBCDIC, and many other codes. It commands a printer, or other output system such as the display of a system console, to move the position of the cursor to the first position on the same line. It was mostly used along with line feed (LF), a move to the next line, so that together they start a new line. Together, this sequence can be referred to as CRLF.
+The carriage return and line feed functions were split for practical reasons:
+
+Carriage return by itself provided the ability to overprint the line with new text. This could be used to produce bold or accented characters, underscores, struck-out text, and some composite symbols.
+Early mechanical printers were too slow to return the carriage in the time it took to process one character. Therefore, the time spent sending the line feed was not wasted (often several more characters had to be sent to ensure the carriage return had happened before sending a printing character). This is why the carriage return was always sent first.
+It was then also possible to fit multiple line feed operations into the time taken for a single carriage return—for example for printing doublespaced text, headers/footers or title pages—to save print and transmission time without the need for additional circuitry or mechanical complexity to "filter out" spurious additional CR signals.
+As early as 1901, Baudot code contained separate carriage return and line feed characters.
+Many computer programs use the carriage return character, alone or with a line feed, to signal the end of a line of text, but other characters are also used for this function (see newline); others use it only for a paragraph break (a "hard return"). Some standards which introduce their own representations for line and paragraph control (for example HTML) and many programming languages treat carriage return and line feed as whitespace.
+In both ASCII and Unicode, the carriage return is assigned code point 13 (or 0D in hexadecimal); it may also be seen as control+M or ^M. In character and string constants in the C programming language and in many other languages (including representations of regular expressions) influenced by C, \r denotes this character.
+
+See also
+Newline
+Enter key
+Soft return
+Hard return
+Unix2dos
+C0 and C1 control codes
+
+References
+External links
+"What is Carriage Return and How Does it Benefit You?". Lenovo US.

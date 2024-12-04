@@ -1,0 +1,75 @@
+4684
+Cayuga language
+Cayuga (Cayuga: Gayogo̱hó꞉nǫˀ) is a Northern Iroquoian language of the Iroquois Proper (also known as "Five Nations Iroquois") subfamily, and is spoken on Six Nations of the Grand River First Nation, Ontario, by around 240 Cayuga people, and on the Cattaraugus Reservation, New York, by fewer than 10.
+Cayuga is critically endangered, with only 115 people of the Indigenous population reporting Cayuga as their mother tongue in the 2021 Canadian census. The Cayuga people are working to revitalize the language. As an example of such, Six Nations Polytechnic has developed apps on IOS and study programs in Cayuga, Oneida, Mohawk and others.
+
+Dialects
+There are at least two distinct dialects of Cayuga. Two are spoken at Six Nations of the Grand River in southern Ontario. Another, called "Seneca-Cayuga", was spoken in Oklahoma until its extinction in the 1980s.
+The two dialects of the Cayuga at Six Nations are often associated with the two Cayuga longhouses, Sour Springs or “Upper” Cayuga and “Lower” Cayuga. Differences between these two dialects of southern Ontario are known to include two phonological patterns. In the Lower Cayuga (LC) variety, underlying *tj sequences surface as /ky/, e.g. LC gyę:gwa’ /kjɛ̃ːkwaʔ/ vs (UC) ję:gwa’ /tjɛ̃ːkwaʔ/. Another apparent difference involves the metrical pattern of Laryngeal Spreading. In Lower Cayuga words, odd-numbered vowels preceding /h/ or /ʔ/ are pronounced with the voice quality of the following consonant. That is to say, such vowels are pronounced with whispered vowels when preceding /h/ or creaky voice before /ʔ/. An example of this occurs in the word for ‘nine,’ gyoHdo̜h kjo̤htõh.
+
+Phonology
+Modern dialects
+There are two varieties of Cayuga. The Lower Cayuga dialect is spoken by those of the Lower End of the Six Nations and the Upper Cayuga are from the Upper End.  The main difference between the two is that the Lower Cayuga use the sound kj and the Upper use the sound tj. Also, pronunciation differs between individual speakers of Cayuga and their preferences.
+
+Vowels
+There are five oral vowels in Cayuga, as well as four long vowels, iː, aː, oː, and eː. Cayuga also has three nasalized vowels, ɛ̃, õ, and ã. Both u and ã are rare sounds in Cayuga. The latter is not phonemic, but surfaces due to a phonological pattern of nasalization, where underlying /a/ becomes ã when following a nasal vowel. Sometimes, the sounds u and o are used interchangeably according to the speaker's preference.  After long eː and oː, an n sound can be heard, especially when before t, d, k, ɡ, ts, and j.
+Vowels can be devoiced as V̥ allophonically, indicated in the orthography used at Six Nations by underlining them.
+
+/ɑ̃/ occurs in only a few words. /ɛ̃/ may be pronounced ʌ̃, and /õ/ may be ũ.
+
+Long vowels
+Length is important because it alone can distinguish two completely different meanings from one another. For example:
+haʔseʔ you are going
+haʔseː you went
+
+Devoiced vowels
+Following are some words that demonstrate what some vowels sound like when they occur before h. In words like ehaʔ, ẽhaʔ, ohaʔ, and õha, e and ẽ devoiced as e̥, ẽ̥, sound like a whispered j, and o and õ devoiced as o̥, õ̥, sound like a whispered w.  Furthermore, the ã in ẽhãʔ and õhã is nasalized because of ẽ  and õ. The consonant before the nasalized vowel becomes voiceless. Also, odd-numbered vowels followed by h are devoiced, while even-numbered vowels followed by h are not.
+
+Consonants
+Like other Iroquoian languages, Cayuga has a very small consonant inventory.
+
+Allophonic variations that occur in Cayuga:
+
+/t/ becomes voiced d before sonorants. The sound d does not exist word-finally.
+/k/ becomes voiced g before sonorants.
+/s/ becomes ʃ before /i/, /j/ or /ɹ/.
+/ts/ becomes tʃ when preceding front vowels /i/ and /e/, and as dʒ before sonorants. It can also be heard as dz and ds freely before a and o, respectively. Speakers may use dz and ds interchangeably according to the speaker's preference.
+/w/ can be voiceless as w̥ (sounds like hw or ʍ).
+/j/ can also be voiceless j̊ (sounds like hj).
+/h/:
+"A vowel devoices if the vowel and a following h are in an odd-numbered syllable." For example: the õ in ehjátõ̥hkʷʰaʔ
+The vowel is voiced when it and a following /h/ are in an even-numbered syllable and in "absolute word-initial position or in word-final position, or preceded by another h." For example: sʰehóːwih 'tell her'; ehjáːtõh 'she writes'
+
+Accent
+Most words have accented vowels, resulting in a higher pitch. Where the stress is placed is dependent on the "position of the word in the phrase." The default location for stress for nouns is on final vowel. "In words that are at the end of a phrase, accent falls on the 2nd last vowel, the 3rd last vowel, or occasionally, on the 4th vowel from the end of the word." For example:
+
+neʔ kiʔ tsõːh akaːˈtʰõːteʔ
+'I just heard it'
+These sounds are long, especially in an even-numbered position. When nouns and verbs are not at the end of a phrase, accent is placed on the final vowel. For example:
+
+akaːtʰõːtéʔ tsõːh tʰeʔ niːʔ teʔtéːkẽːʔ
+'I heard it, I didn't see it'
+
+Morphosyntax
+Cayuga is a polysynthetic language. As with other Iroquoian languages, the verbal template contains an optional prepronominal prefix, a pronominal prefix (indicating agreement), an optional incorporated noun, a verbal root, and an aspectual suffix. The nominal template consists of an agreement prefix (usually neuter for non-possessed nouns), the nominal root, and a suffix.
+
+Notes
+References
+Froman, Frances; Keye, Alfred; Keye, Lottie; Dyck, Carrie (2002). English-Cayuga/Cayuga-English Dictionary. Toronto: University of Toronto Press.
+Mithun, Marianne (1999). The Languages of Native North America. Cambridge University Press. ISBN 0-521-29875-X.
+Rijkhoff, Jan (2002). The Noun Phrase. Oxford University Press. ISBN 0-19-823782-0.
+Dyck C, Froman F, Keye A, Keye L (2024). A grammar and dictionary of Gayogo̱hó:nǫˀ (Cayuga) (pdf). Berlin: Language Science Press. doi:10.5281/zenodo.10473483. ISBN 9783961104345.
+
+Further reading
+Mithun, Marianne; Henry, Reginald (January 2007). Wadęwayę́stanih: A Cayuga Teaching Grammar (PDF) (2nd ed.). Brantford, ON: Woodland Indian Cultural Educational Centre. ISBN 978-0-919775-00-8. Archived from the original (PDF) on 9 October 2012.
+Dyck, Carrie, Frances Froman, Alfred Keye & Lottie Keye. LIN 6050 Structure of Cayuga. Course Package.. Ms. Memorial University of NL and Woodland Cultural Centre.
+
+External links
+Cayuga: Our Oral Legacy (COOL)
+Cayuga: Our Oral Legacy (COOL)(NEW)
+Cayuga at LanguageGeek
+Ohwęjagehká: Ha’degaénage: Cayuga
+Sgę́nǫ’ Ga?hnawiyo'geh! - How to say "hello" in Cayuga
+"School fights to revive native Canadian language". Reuters. 15 February 2008. Retrieved 16 February 2008.
+"Government of [Canada](1956) Announces New Research Project to Revitalize Cayuga Language at Six Nations of the Grand River Reserve, Ontario". Marketwire. 16 July 2010. Retrieved 23 October 2012.
+OLAC resources in and about the Cayuga language

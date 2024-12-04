@@ -1,0 +1,27 @@
+3870
+Autolycus of Pitane
+Autolycus of Pitane (Greek: Αὐτόλυκος ὁ Πιταναῖος; c. 360 – c. 290 BC) was a Greek astronomer, mathematician, and geographer. He is known today for his two surviving works On the Moving Sphere and On Risings and Settings, both about spherical geometry.
+
+Life
+Autolycus was born in Pitane, a town of Aeolis within Ionia, Asia Minor. Of his personal life nothing is known, although he was a contemporary of [Aristotle](162) and his works seem to have been completed in [Athens](599) between 335–300 BC. Euclid references some of Autolycus' work, and Autolycus is known to have taught [Arcesilaus](3850).
+The lunar crater Autolycus was named in his honour.
+
+Work
+Autolycus' two surviving works are about spherical geometry with application to astronomy: On the Moving Sphere and On Risings and Settings (of stars). In late antiquity, both were part of the "Little [Astronomy](3865)", a collection of miscellaneous short works about geometry and astronomy which were commonly transmitted together. They were translated into Arabic in the 9th century, and with the addition of a few additional works became known as the "Middle Books" (sitting between Euclid's Elements and Ptolemy's [Almagest](3819)). Both were preserved both in Greek and in Arabic, but were unknown in medieval Western Europe. They were translated from Arabic into Latin in the 12th century. Later, remaining Greek copies were also translated into Latin.
+
+On the Moving Sphere
+On the Moving Sphere (Ancient Greek: Περὶ κινουμένης σφαίρας Perí kinouménis sphaíras) concerns the movements of points and arcs on the sphere as it rotates on an axis. While the obvious application is the diurnal motion of the stars as the celestial sphere appears to rotate about an immobile Earth (as modeled at the time), Autolycus' treatise never explicitly discusses this application: its content consists entirely of elementary theorems about the arcs of great circles and parallel small circles on an abstract sphere. The work is simple and probably derivative of older works, but each theorem includes a clearly enunciated statement, a figure of the construction alongside its proof, and finally a concluding remark.
+On the Moving Sphere is believed to be the oldest mathematical treatise from ancient Greece that is completely preserved: All prior Greek mathematical works are taken from later summaries, commentaries, or descriptions of the works. It shows that by Autolycus' day there was a thoroughly established textbook tradition in geometry that is today regarded as typical of classical Greek geometry. Moreover, it gives indications of what theorems were well known in his day (around 320 BC).
+Two hundred years later Theodosius wrote the Spherics, a treatise establishing the fundamental definitions and constructions in spherical geometry whose content is believed to have a common origin with On the Moving Sphere in some pre-Euclidean textbook, possibly written by Eudoxus.  In contrast to later astronomical analyses by Hipparchus (2nd century BC) and Ptolemy (2nd century AD), but similarly to the planar geometry of Euclid's Elements, both Autolycus's work and Theodosius' does not involve concrete quantification or trigonometry: spherical arcs are compared in size, but not given any numerical measure.
+
+On Risings and Settings
+In the two-book treatise On Risings and Settings (Ancient Greek: Περὶ ἐπιτολῶν καὶ δύσεων Perí epitolón kaí dýseon), Autolycus studied the relationship between the rising and the setting of the stars throughout the year. The second book is an expansion of the first and of higher quality. He wrote that "any star which rises and sets always rises and sets at the same point in the horizon." Autolycus relied heavily on Eudoxus' astronomy and was a strong supporter of Eudoxus' theory of homocentric spheres.
+
+Footnotes
+References
+Huxley, G. L. (1970). "Autolycus of Pitane". Dictionary of Scientific Biography. Vol. 1. New York: Charles Scribner's Sons. pp. 338–39. ISBN 0-684-10114-9. on line at "Autolycus of Pitane". HighBeam Research. Retrieved 26 March 2015.
+O'Connor, John J.; Robertson, Edmund F. (April 1999), "Autolycus of Pitane", MacTutor History of Mathematics Archive, University of St Andrews
+
+External links
+Autolycus On The Moving Sphere from the Million Books Project (Greek with Latin translation) 
+ΠΕΡΙ ΚΙΝΟΥΜΕΝΗΣ ΣΦΑΙΡΑΣ and ΠΕΡΙ ΕΠΙΤΟΛΩΝ ΚΑΙ ΔΥΣΕΩΝ (Mogenet ed., 1950)

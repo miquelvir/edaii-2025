@@ -1,0 +1,154 @@
+3333
+Basalt
+Basalt (UK: ; US: ) is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron (mafic lava) exposed at or very near the surface of a rocky planet or moon. More than 90% of all volcanic rock on Earth is basalt. Rapid-cooling, fine-grained basalt is chemically equivalent to slow-cooling, coarse-grained gabbro. The eruption of basalt lava is observed by geologists at about 20 volcanoes per year. Basalt is also an important rock type on other planetary bodies in the Solar System. For example, the bulk of the plains of Venus, which cover ~80% of the surface, are basaltic; the lunar maria are plains of flood-basaltic lava flows; and basalt is a common rock on the surface of Mars.
+Molten basalt lava has a low viscosity due to its relatively low silica content (between 45% and 52%), resulting in rapidly moving lava flows that can spread over great areas before cooling and solidifying. Flood basalts are thick sequences of many such flows that can cover hundreds of thousands of square kilometres and constitute the most voluminous of all volcanic formations.
+Basaltic magmas within Earth are thought to originate from the upper mantle. The chemistry of basalts thus provides clues to processes deep in Earth's interior.
+
+Definition and characteristics
+Basalt is composed mostly of oxides of silicon, iron, magnesium, potassium, aluminum, titanium, and calcium. Geologists classify igneous rock by its mineral content whenever possible; the relative volume percentages of quartz (crystalline silica (SiO2)), alkali feldspar, plagioclase, and feldspathoid (QAPF) are particularly important. An aphanitic (fine-grained) igneous rock is classified as basalt when its QAPF fraction is composed of less than 10% feldspathoid and less than 20% quartz, and plagioclase makes up at least 65% of its feldspar content. This places basalt in the basalt/andesite field of the QAPF diagram. Basalt is further distinguished from andesite by its silica content of under 52%.
+It is often not practical to determine the mineral composition of volcanic rocks, due to their very small grain size, in which case geologists instead classify the rocks chemically, with particular emphasis on the total content of alkali metal oxides and silica (TAS); in that context, basalt is defined as volcanic rock with a content of between 45% and 52% silica and no more than 5% alkali metal oxides. This places basalt in the B field of the TAS diagram. Such a composition is described as mafic.
+Basalt is usually dark grey to black in colour, due to a high content of augite or other dark-coloured pyroxene minerals, but can exhibit a wide range of shading. Some basalts are quite light-coloured due to a high content of plagioclase; these are sometimes described as leucobasalts. It can be difficult to distinguish between lighter-colored basalt and andesite, so field researchers commonly use a rule of thumb for this purpose, classifying it as basalt if it has a color index of 35 or greater.
+The physical properties of basalt result from its relatively low silica content and typically high iron and magnesium content. The average density of basalt is 2.9 g/cm3, compared, for example, to granite’s typical density of 2.7 g/cm3. The viscosity of basaltic magma is relatively low—around 104 to 105 cP—similar to the viscosity of ketchup, but that is still several orders of magnitude higher than the viscosity of water, which is about 1 cP).
+Basalt is often porphyritic, containing larger crystals (phenocrysts) that formed before the extrusion event that brought the magma to the surface, embedded in a finer-grained matrix. These phenocrysts are usually made of augite, olivine, or a calcium-rich plagioclase, which have the highest melting temperatures of any of the minerals that can typically crystallize from the melt, and which are therefore the first to form solid crystals.
+Basalt often contains vesicles; they are formed when dissolved gases bubble out of the magma as it decompresses during its approach to the surface; the erupted lava then solidifies before the gases can escape. When vesicles make up a substantial fraction of the volume of the rock, the rock is described as scoria.
+The term basalt is at times applied to shallow intrusive rocks with a composition typical of basalt, but rocks of this composition with a phaneritic (coarser) groundmass are more properly referred to either as diabase (also called dolerite) or—when they are more coarse-grained (having crystals over 2 mm across)—as gabbro. Diabase and gabbro are thus the hypabyssal and plutonic equivalents of basalt.
+
+During the Hadean, [Archean](459), and early Proterozoic eons of Earth's history, the chemistry of erupted magmas was significantly different from what it is today, due to immature crustal and asthenosphere differentiation. The resulting ultramafic volcanic rocks, with silica (SiO2) contents below 45% and high magnesium oxide (MgO) content, are usually classified as komatiites.
+
+Etymology
+The word "basalt" is ultimately derived from Late Latin basaltes, a misspelling of Latin basanites "very hard stone", which was imported from [Ancient Greek](3061) βασανίτης (basanites), from βάσανος (basanos, "touchstone"). The modern petrological term basalt, describing a particular composition of lava-derived rock, became standard because of its use by Georgius Agricola in 1546, in his work De Natura Fossilium. Agricola applied the term "basalt" to the volcanic black rock beneath the Bishop of Meissen's Stolpen castle, believing it to be the same as the "basaniten" described by Pliny the Elder in AD 77 in Naturalis Historiae.
+
+Types
+On Earth, most basalt is formed by decompression melting of the mantle. The high pressure in the upper mantle (due to the weight of the overlying rock) raises the melting point of mantle rock, so that almost all of the upper mantle is solid. However, mantle rock is ductile (the solid rock slowly deforms under high stress). When tectonic forces cause hot mantle rock to creep upwards, pressure on the ascending rock decreases, and this can lower its melting point enough for the rock to partially melt, producing basaltic magma.
+Decompression melting can occur in a variety of tectonic settings, including in continental rift zones, at mid-ocean ridges, above geological hotspots, and in back-arc basins. Basalt also forms in subduction zones, where mantle rock rises into a mantle wedge above the descending slab. The slab releases water vapor and other volatiles as it descends, which further lowers the melting point, further increasing the amount of decompression melting. Each tectonic setting produces basalt with its own distinctive characteristics.  
+
+Tholeiitic basalt, which is relatively rich in iron and poor in alkali metals and aluminium, include most basalts of the ocean floor, most large oceanic islands, and continental flood basalts such as the Columbia River Plateau.
+High- and low-titanium basalt rocks, which are sometimes classified based on their titanium (Ti) content in High-Ti and Low-Ti varieties. High-Ti and Low-Ti basalt have been distinguished from each other in the Paraná and Etendeka traps and the Emeishan Traps.
+Mid-ocean ridge basalt (MORB) is a tholeiitic basalt that has almost exclusively erupted at ocean ridges; it is characteristically low in incompatible elements. Although all MORBs are chemically similar, geologists recognize that they vary significantly in how depleted they are in incompatible elements. When they are present in close proximity along mid-ocean ridges, that is seen as evidence for mantle inhomogeneity.
+Enriched MORB (E-MORB) is defined as MORB that is relatively undepleted in incompatible elements. It was once thought to be mostly located in hot spots along mid-ocean ridges, such as Iceland, but it is now known to be located in many other places along those ridges.
+Normal MORB (N-MORB) is defined as MORB that has an average amount of incompatible elements.
+D-MORB, depleted MORB, is defined as MORB that is highly depleted in incompatible elements.
+Alkali basalt is relatively rich in alkali metals. It is silica-undersaturated and may contain feldspathoids, alkali feldspar, phlogopite, and kaersutite. Augite in alkali basalts is titanium-enriched augite; low-calcium pyroxenes are never present. They are characteristic of continental rifting and hotspot volcanism.
+High-alumina basalt has greater than 17% alumina (Al2O3) and is intermediate in composition between tholeiitic basalt and alkali basalt. Its relatively alumina-rich composition is based on rocks without phenocrysts of plagioclase. These represent the low-silica end of the calc-alkaline magma series and are characteristic of volcanic arcs above subduction zones.
+Boninite is a high-magnesium form of basalt that is erupted generally in back-arc basins; it is distinguished by its low titanium content and trace-element composition.
+Ocean island basalts include both tholeiites and alkali basalts; the tholeiites predominate early in the eruptive history of the island. These basalts are characterized by elevated concentrations of incompatible elements, which suggests that their source mantle rock has produced little magma in the past (it is undepleted).
+
+Petrology
+The mineralogy of basalt is characterized by a preponderance of calcic plagioclase feldspar and pyroxene. Olivine can also be a significant constituent. Accessory minerals present in relatively minor amounts include iron oxides and iron-titanium oxides, such as magnetite, ulvöspinel, and ilmenite. Because of the presence of such oxide minerals, basalt can acquire strong magnetic signatures as it cools, and paleomagnetic studies have made extensive use of basalt.
+In tholeiitic basalt, pyroxene (augite and orthopyroxene or pigeonite) and calcium-rich plagioclase are common phenocryst minerals. Olivine may also be a phenocryst, and when present, may have rims of pigeonite. The groundmass contains interstitial quartz or tridymite or cristobalite. Olivine tholeiitic basalt has augite and orthopyroxene or pigeonite with abundant olivine, but olivine may have rims of pyroxene and is unlikely to be present in the groundmass.
+Alkali basalts typically have mineral assemblages that lack orthopyroxene but contain olivine. Feldspar phenocrysts typically are labradorite to andesine in composition. Augite is rich in titanium compared to augite in tholeiitic basalt. Minerals such as alkali feldspar, leucite, nepheline, sodalite, phlogopite mica, and apatite may be present in the groundmass.
+Basalt has high liquidus and solidus temperatures—values at the Earth's surface are near or above 1200 °C (liquidus) and near or below 1000 °C (solidus); these values are higher than those of other common igneous rocks.
+The majority of tholeiitic basalts are formed at approximately 50–100 km depth within the mantle. Many alkali basalts may be formed at greater depths, perhaps as deep as 150–200 km. The origin of high-alumina basalt continues to be controversial, with disagreement over whether it is a primary melt or derived from other basalt types by fractionation.: 65
+
+Geochemistry
+Relative to most common igneous rocks, basalt compositions are rich in MgO and CaO and low in SiO2 and the alkali oxides, i.e., Na2O + K2O, consistent with their TAS classification. Basalt contains more silica than picrobasalt and most basanites and tephrites but less than basaltic andesite. Basalt has a lower total content of alkali oxides than trachybasalt and most basanites and tephrites.
+Basalt generally has a composition of 45–52 wt% SiO2, 2–5 wt% total alkalis, 0.5–2.0 wt% TiO2, 5–14 wt% FeO and 14 wt% or more Al2O3. Contents of CaO are commonly near 10 wt%, those of MgO commonly in the range 5 to 12 wt%.
+High-alumina basalts have aluminium contents of 17–19 wt% Al2O3; boninites have magnesium (MgO) contents of up to 15 percent. Rare feldspathoid-rich mafic rocks, akin to alkali basalts, may have Na2O + K2O contents of 12% or more.
+The abundances of the lanthanide or rare-earth elements (REE) can be a useful diagnostic tool to help explain the history of mineral crystallisation as the melt cooled. In particular, the relative abundance of europium compared to the other REE is often markedly higher or lower, and called the europium anomaly. It arises because Eu2+ can substitute for Ca2+ in plagioclase feldspar, unlike any of the other lanthanides, which tend to only form 3+ cations.
+Mid-ocean ridge basalts (MORB) and their intrusive equivalents, gabbros, are the characteristic igneous rocks formed at mid-ocean ridges. They are tholeiitic basalts particularly low in total alkalis and in incompatible trace elements, and they have relatively flat REE patterns normalized to mantle or chondrite values. In contrast, alkali basalts have normalized patterns highly enriched in the light REE, and with greater abundances of the REE and of other incompatible elements. Because MORB basalt is considered a key to understanding plate tectonics, its compositions have been much studied. Although MORB compositions are distinctive relative to average compositions of basalts erupted in other environments, they are not uniform. For instance, compositions change with position along the Mid-Atlantic Ridge, and the compositions also define different ranges in different ocean basins. Mid-ocean ridge basalts have been subdivided into varieties such as normal (NMORB) and those slightly more enriched in incompatible elements (EMORB).
+Isotope ratios of elements such as strontium, neodymium, lead, hafnium, and osmium in basalts have been much studied to learn about the evolution of the Earth's mantle. Isotopic ratios of noble gases, such as 3He/4He, are also of great value: for instance, ratios for basalts range from 6 to 10 for mid-ocean ridge tholeiitic basalt (normalized to atmospheric values), but to 15–24 and more for ocean-island basalts thought to be derived from mantle plumes.
+Source rocks for the partial melts that produce basaltic magma probably include both peridotite and pyroxenite.
+
+Morphology and textures
+The shape, structure and texture of a basalt is diagnostic of how and where it erupted—for example, whether into the sea, in an explosive cinder eruption or as creeping pāhoehoe lava flows, the classic image of [Hawaii](2789)an basalt eruptions.
+
+Subaerial eruptions
+Basalt that erupts under open air (that is, subaerially) forms three distinct types of lava or volcanic deposits: scoria; ash or cinder (breccia); and lava flows.
+Basalt in the tops of subaerial lava flows and cinder cones will often be highly vesiculated, imparting a lightweight "frothy" texture to the rock. Basaltic cinders are often red, coloured by oxidized iron from weathered iron-rich minerals such as pyroxene.
+ʻAʻā types of blocky cinder and breccia flows of thick, viscous basaltic lava are common in Hawaiʻi. Pāhoehoe is a highly fluid, hot form of basalt which tends to form thin aprons of molten lava which fill up hollows and sometimes forms lava lakes. Lava tubes are common features of pāhoehoe eruptions.
+Basaltic tuff or pyroclastic rocks are less common than basaltic lava flows. Usually basalt is too hot and fluid to build up sufficient pressure to form explosive lava eruptions but occasionally this will happen by trapping of the lava within the volcanic throat and buildup of volcanic gases. Hawaiʻi's Mauna Loa volcano erupted in this way in the 19th century, as did Mount Tarawera, New Zealand in its violent 1886 eruption. Maar volcanoes are typical of small basalt tuffs, formed by explosive eruption of basalt through the crust, forming an apron of mixed basalt and wall rock breccia and a fan of basalt tuff further out from the volcano.
+Amygdaloidal structure is common in relict vesicles and beautifully crystallized species of zeolites, quartz or calcite are frequently found.
+
+Columnar basalt
+During the cooling of a thick lava flow, contractional joints or fractures form. If a flow cools relatively rapidly, significant contraction forces build up. While a flow can shrink in the vertical dimension without fracturing, it cannot easily accommodate shrinking in the horizontal direction unless cracks form; the extensive fracture network that develops results in the formation of columns. These structures, or basalt prisms, are predominantly hexagonal in cross-section, but polygons with three to twelve or more sides can be observed. The size of the columns depends loosely on the rate of cooling; very rapid cooling may result in very small (<1 cm diameter) columns, while slow cooling is more likely to produce large columns.
+
+Submarine eruptions
+The character of submarine basalt eruptions is largely determined by depth of water, since increased pressure restricts the release of volatile gases and results in effusive eruptions. It has been estimated that at depths greater than 500 metres (1,600 ft), explosive activity associated with basaltic magma is suppressed. Above this depth, submarine eruptions are often explosive, tending to produce pyroclastic rock rather than basalt flows. These eruptions, described as Surtseyan, are characterised by large quantities of steam and gas and the creation of large amounts of pumice.
+
+Pillow basalts
+When basalt erupts underwater or flows into the sea, contact with the water quenches the surface and the lava forms a distinctive pillow shape, through which the hot lava breaks to form another pillow. This "pillow" texture is very common in underwater basaltic flows and is diagnostic of an underwater eruption environment when found in ancient rocks. Pillows typically consist of a fine-grained core with a glassy crust and have radial jointing. The size of individual pillows varies from 10 cm up to several metres.
+When pāhoehoe lava enters the sea it usually forms pillow basalts. However, when ʻaʻā enters the ocean it forms a littoral cone, a small cone-shaped accumulation of tuffaceous debris formed when the blocky ʻaʻā lava enters the water and explodes from built-up steam.
+The island of Surtsey in the [Atlantic Ocean](1580) is a basalt volcano which breached the ocean surface in 1963. The initial phase of Surtsey's eruption was highly explosive, as the magma was quite fluid, causing the rock to be blown apart by the boiling steam to form a tuff and cinder cone. This has subsequently moved to a typical pāhoehoe-type behaviour.
+Volcanic glass may be present, particularly as rinds on rapidly chilled surfaces of lava flows, and is commonly (but not exclusively) associated with underwater eruptions.
+Pillow basalt is also produced by some subglacial volcanic eruptions.
+
+Distribution
+Earth
+Basalt is the most common volcanic rock type on Earth, making up over 90% of all volcanic rock on the planet. The crustal portions of oceanic tectonic plates are composed predominantly of basalt, produced from upwelling mantle below the ocean ridges. Basalt is also the principal volcanic rock in many oceanic islands, including the islands of Hawaiʻi, the Faroe Islands, and Réunion. The eruption of basalt lava is observed by geologists at about 20 volcanoes per year.
+
+Basalt is the rock most typical of large igneous provinces. These include continental flood basalts, the most voluminous basalts found on land. Examples of continental flood basalts included the Deccan Traps in [India](2798), the Chilcotin Group in British Columbia, [Canada](1956), the Paraná Traps in [Brazil](2718), the Siberian Traps in Russia, the Karoo flood basalt province in South Africa, and the Columbia River Plateau of Washington and Oregon. Basalt is also prevalent across extensive regions of the Eastern Galilee, Golan, and Bashan in Israel and Syria.
+Basalt also is common around volcanic arcs, specially those on thin crust.
+Ancient Precambrian basalts are usually only found in fold and thrust belts, and are often heavily metamorphosed. These are known as greenstone belts, because low-grade metamorphism of basalt produces chlorite, actinolite, epidote and other green minerals.
+
+Other bodies in the Solar System
+As well as forming large parts of the Earth's crust, basalt also occurs in other parts of the Solar System. Basalt commonly erupts on Io (the third largest moon of Jupiter), and has also formed on the Moon, Mars, Venus, and the asteroid Vesta.
+
+The Moon
+The dark areas visible on Earth's moon, the lunar maria, are plains of flood basaltic lava flows. These rocks were sampled both by the crewed American Apollo program and the robotic Russian Luna program, and are represented among the lunar meteorites.
+Lunar basalts differ from their Earth counterparts principally in their high iron contents, which typically range from about 17 to 22 wt% FeO. They also possess a wide range of titanium concentrations (present in the mineral ilmenite), ranging from less than 1 wt% TiO2, to about 13 wt.%. Traditionally, lunar basalts have been classified according to their titanium content, with classes being named high-Ti, low-Ti, and very-low-Ti. Nevertheless, global geochemical maps of titanium obtained from the Clementine mission demonstrate that the lunar maria possess a continuum of titanium concentrations, and that the highest concentrations are the least abundant.
+Lunar basalts show exotic textures and mineralogy, particularly shock metamorphism, lack of the oxidation typical of terrestrial basalts, and a complete lack of hydration. Most of the Moon's basalts erupted between about 3 and 3.5 billion years ago, but the oldest samples are 4.2 billion years old, and the youngest flows, based on the age dating method of crater counting, are estimated to have erupted only 1.2 billion years ago.
+
+Venus
+From 1972 to 1985, five Venera and two VEGA landers successfully reached the surface of Venus and carried out geochemical measurements using X-ray fluorescence and gamma-ray analysis. These returned results consistent with the rock at the landing sites being basalts, including both tholeiitic and highly alkaline basalts. The landers are thought to have landed on plains whose radar signature is that of basaltic lava flows. These constitute about 80% of the surface of Venus. Some locations show high reflectivity consistent with unweathered basalt, indicating basaltic volcanism within the last 2.5 million years.
+
+Mars
+Basalt is also a common rock on the surface of Mars, as determined by data sent back from the planet's surface, and by Martian meteorites.
+
+Vesta
+Analysis of Hubble Space Telescope images of Vesta suggests this asteroid has a basaltic crust covered with a brecciated regolith derived from the crust. Evidence from Earth-based telescopes and the Dawn mission suggest that Vesta is the source of the HED meteorites, which have basaltic characteristics. Vesta is the main contributor to the inventory of basaltic asteroids of the main Asteroid Belt.
+
+Io
+Lava flows represent a major volcanic terrain on Io. Analysis of the Voyager images led scientists to believe that these flows were composed mostly of various compounds of molten sulfur. However, subsequent Earth-based infrared studies and measurements from the Galileo spacecraft indicate that these flows are composed of basaltic lava with mafic to ultramafic compositions. This conclusion is based on temperature measurements of Io's "hotspots", or thermal-emission locations, which suggest temperatures of at least 1,300 K and some as high as 1,600 K. Initial estimates suggesting eruption temperatures approaching 2,000 K have since proven to be overestimates because the wrong thermal models were used to model the temperatures.
+
+Alteration of basalt
+Weathering
+Compared to granitic rocks exposed at the Earth's surface, basalt outcrops weather relatively rapidly. This reflects their content of minerals that crystallized at higher temperatures and in an environment poorer in water vapor than granite. These minerals are less stable in the colder, wetter environment at the Earth's surface. The finer grain size of basalt and the volcanic glass sometimes found between the grains also hasten weathering. The high iron content of basalt causes weathered surfaces in humid climates to accumulate a thick crust of hematite or other iron oxides and hydroxides, staining the rock a brown to rust-red colour. Because of the low potassium content of most basalts, weathering converts the basalt to calcium-rich clay (montmorillonite) rather than potassium-rich clay (illite). Further weathering, particularly in tropical climates, converts the montmorillonite to kaolinite or gibbsite. This produces the distinctive tropical soil known as laterite. The ultimate weathering product is bauxite, the principal ore of aluminium.
+Chemical weathering also releases readily water-soluble cations such as calcium, sodium and magnesium, which give basaltic areas a strong buffer capacity against acidification. Calcium released by basalts binds CO2 from the atmosphere forming CaCO3 acting thus as a CO2 trap.
+
+Metamorphism
+Intense heat or great pressure transforms basalt into its metamorphic rock equivalents. Depending on the temperature and pressure of metamorphism, these may include greenschist, amphibolite, or eclogite. Basalts are important rocks within metamorphic regions because they can provide vital information on the conditions of metamorphism that have affected the region.
+Metamorphosed basalts are important hosts for a variety of hydrothermal ores, including deposits of gold, copper and volcanogenic massive sulfides.
+
+Life on basaltic rocks
+The common corrosion features of underwater volcanic basalt suggest that microbial activity may play a significant role in the chemical exchange between basaltic rocks and seawater. The significant amounts of reduced iron, Fe(II), and manganese, Mn(II), present in basaltic rocks provide potential energy sources for bacteria. Some Fe(II)-oxidizing bacteria cultured from iron-sulfide surfaces are also able to grow with basaltic rock as a source of Fe(II). Fe- and Mn- oxidizing bacteria have been cultured from weathered submarine basalts of Kamaʻehuakanaloa Seamount (formerly Loihi). The impact of bacteria on altering the chemical composition of basaltic glass (and thus, the oceanic crust) and seawater suggest that these interactions may lead to an application of hydrothermal vents to the origin of life.
+
+Uses
+Basalt is used in construction (e.g. as building blocks or in the groundwork), making cobblestones (from columnar basalt) and in making statues. Heating and extruding basalt yields stone wool, which has potential to be an excellent thermal insulator.
+Carbon sequestration in basalt has been studied as a means of removing carbon dioxide, produced by human industrialization, from the atmosphere. Underwater basalt deposits, scattered in seas around the globe, have the added benefit of the water serving as a barrier to the re-release of CO2 into the atmosphere.
+
+See also
+Basalt fan structure – Rock formation
+Basalt fiber – Structural fibres spun from melted basalt
+Bimodal volcanism – Eruption of both mafic and felsic lavas from a single volcanic centre
+Plutonism – Geological theory that Earth's igneous rocks formed by solidification of molten material
+Polybaric melting – A mode of origin of basaltic magma
+Shield volcano – Low-profile volcano usually formed almost entirely of fluid lava flows
+Spilite – Fine-grained igneous rock, resulting from alteration of oceanic basalt
+Sideromelane – Vitreous basaltic volcanic glass
+Volcano – Rupture in a planet's crust where material escapes
+ Geology portal
+
+References
+Sources
+Blatt, Harvey; Tracy, Robert J. (1996). Petrology: igneous, sedimentary, and metamorphic (2nd ed.). New York: W.H. Freeman. ISBN 978-0-7167-2438-4.
+Blatt, Harvey; Middleton, Gerard; Murray, Raymond (1980). Origin of sedimentary rocks (2d ed.). Englewood Cliffs, N.J.: Prentice-Hall. ISBN 978-0-13-642710-0.
+Crawford, A.J. (1989). Boninites. London: Unwin Hyman. ISBN 978-0-04-445003-0.
+Hyndman, Donald W. (1985). Petrology of igneous and metamorphic rocks (2nd ed.). McGraw-Hill. ISBN 978-0-07-031658-4.
+Klein, Cornelis; Hurlbut, Cornelius S. Jr. (1993). Manual of mineralogy : (after James D. Dana) (21st ed.). New York: Wiley. ISBN 978-0-471-57452-1.
+Levin, Harold L. (2010). The earth through time (9th ed.). Hoboken, N.J.: J. Wiley. ISBN 978-0-470-38774-0.
+Lillie, Robert J. (2005). Parks and plates : the geology of our national parks, monuments, and seashores (1st ed.). New York: W.W. Norton. ISBN 978-0-393-92407-7.
+Macdonald, Gordon A.; Abbott, Agatin T.; Peterson, Frank L. (1983). Volcanoes in the sea : the geology of [Hawaii](2789) (2nd ed.). Honolulu: University of [Hawaii](2789) Press. ISBN 978-0-8248-0832-7.
+McBirney, Alexander R. (1984). Igneous petrology. San Francisco, Calif.: Freeman, Cooper. ISBN 978-0-19-857810-9.
+Parfitt, Elisabeth Ann; Parfitt, Liz; Wilson, Lionel (2008). Fundamentals of Physical Volcanology. Wiley. ISBN 978-0-632-05443-5.
+Philpotts, Anthony R.; Ague, Jay J. (2009). Principles of igneous and metamorphic petrology (2nd ed.). Cambridge, UK: Cambridge University Press. ISBN 978-0-521-88006-0.
+Schmincke, Hans-Ulrich (2003). Volcanism. Berlin: Springer. ISBN 978-3-540-43650-8.
+
+Further reading
+External links
+
+Basalt Columns
+Basalt in Northern Ireland Archived 24 February 2021 at the Wayback Machine
+Lava–water interface
+PetDB, the Petrological Database
+Petrology of Lunar Rocks and Mare Basalts
+Pillow lava USGS

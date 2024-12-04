@@ -1,0 +1,97 @@
+3364
+Catenary arch
+A catenary arch is a type of architectural arch that follows an inverted catenary curve. The catenary curve has been employed in buildings since ancient times.  It forms an underlying principle to the overall system of vaults and buttresses in stone vaulted Gothic cathedrals  and in Renaissance domes. It is not a parabolic arch.
+
+In history
+The 17th-century scientist Robert Hooke wrote: "Ut pendet continuum flexile, sic stabit contiguum rigidum inversum", or, "As hangs a flexible cable so, inverted, stand the touching pieces of an arch."
+A note written by Thomas Jefferson in 1788 reads, "I have lately received from Italy a treatise on the equilibrium of arches, by the Abbé Mascheroni. It appears to be a very scientific work. I have not yet had time to engage in it; but I find that the conclusions of his demonstrations are, that every part of the catenary is in perfect equilibrium".
+
+Structural properties
+Architecturally, a catenary arch has the ability to withstand the weight of the material from which it is constructed, without collapsing. For an arch of uniform density and thickness, supporting only its own weight, the catenary is the ideal curve.
+Catenary arches are strong because they redirect the vertical force of gravity into compression forces pressing along the arch's curve. In a uniformly loaded catenary arch, the line of thrust runs through its center. 
+This principle has been employed architecturally to create arched structures that follow exactly, and in a visibly apparent way, the form of an inverted catenary. A significant early example of this is the arch of Taq Kasra. The catenary, spun 180 degrees, forms the structure of simple domed building such as the beehive homes of the Dingle Peninsula, Ireland. 
+The principle of the catenary is also the underlying factor in the much more complex architectural systems  of the Medieval and Renaissance architecture.  Buildings that have heavy roofs that are arched in shape and deliver a strong outward thrust must comply with the form of the catenary curve in order not to collapse. This does not imply that the arches themselves are catenary in form, but that the total system of walls or buttresses that support the roof or dome contain a catenary curve, which delivers the downward thrust.  
+In the 15th century Brunelleschi designed the pointed, octagonal, Gothic dome on Florence Cathedral in a manner that utilised the principle of the catenary arch. In the 17th century, Christopher Wren designed the dome of St Paul's Cathedral based directly on a catenary curve. The vaulted roof and buttresses of Kings College Chapel, Cambridge, have been discovered to comply with the formula of the catenary arch.
+
+Examples
+Cathedrals and churches
+King’s College Chapel, in Cambridge, England
+St Paul's Dome
+Brunelleschi's Dome
+[Casa Batlló](3353) has catenary arches
+Casa Mila, in Barcelona, Spain was designed by Antoni Gaudi, who used many catenary arches
+[Church of Colònia Güell](3374)
+
+Natural arches
+Rainbow Natural Bridge in the U.S. state of Utah has a natural catenary shape, possibly produced by weathering in high-stress areas. Kolob Arch and Landscape Arch, also in Utah, have a catenary shape as well.
+
+Human-made arches
+The Gateway Arch in the American city of St. Louis (Missouri) is a catenary arch.
+Due to aspect ratio, the top being thinner than the bottom, its actual shape is technically a "weighted catenary".
+
+Ancient Egyptian
+The unfinished Saqqara ostracon has a catenary shape.
+
+High-rises
+Marquette Plaza in Minneapolis used catenary arches.
+
+Kilns
+Kilns are often designed with catenary arch cross-section.
+
+Igloos
+Igloos are designed with a catenary arch cross-section. This shape offers an optimal balance between height and diameter, avoiding the risk of collapsing under the weight of compacted snow.
+
+Other architecture
+The inside of Budapest’s Keleti Railway Station forms a catenary arch.
+The Nubian ton is a burial vault, of Nubia, For greatest stability, the structure’s cross-section follows a catenary arch.
+The beehive homes (clocháns) of Ireland’s Skellig Michael have a cross-section that follows the style of a catenary arch.
+
+Homes
+The Rice House has catenary arches.
+
+Hotels
+The Icehotel in Sweden employs catenary arches.
+
+Bridges
+A catenary bridge has the form of a catenary arch.
+One famous example is the An-Lan Bridge, in China.
+
+Monuments
+In Iraq, the Taq Kasra has the shape of a catenary arch.
+
+Airports
+The roof of Washington Dulles International Airport is a suspended catenary curve.
+A catenary steel cable system supports the roof of Denver International Airport.
+
+Train stations
+New York City’s Pennsylvania Station has a roof in the form of a catenary arch.
+
+Banks
+On the Federal Reserve Bank of Minneapolis, the building has been remodeled, but still visible is the catenary arch suspending the original building.
+
+Mud huts
+Cameroon's musgum mud huts have a catenary cross-section.
+
+See also
+Arch bridge
+Catenary
+Gothic arch
+Lancet window
+Mathematics and architecture
+Parabolic arch
+Simple suspension bridge
+Steel catenary riser
+
+References
+External links
+The use of the catenary arch in architecture
+Natural arches that are catenary arches
+Twisted Physics reference
+Used in building
+More on the catenary, used in arches
+A few catenary arches
+An experiment
+A youtube, all about catenary arches
+A second youtube
+a youtube on building a catenary arch
+Another youtube

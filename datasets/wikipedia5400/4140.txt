@@ -1,0 +1,50 @@
+4140
+Andrew Viterbi
+Andrew James Viterbi (born Andrea Giacomo Viterbi, March 9, 1935) is an Italian Jewish–American electrical engineer and businessman who co-founded Qualcomm Inc. and invented the Viterbi algorithm.  He is the Presidential Chair Professor of Electrical Engineering at the University of Southern California's Viterbi School of Engineering, which was named in his honor in 2004 in recognition of his $52 million gift.
+
+Early life
+Viterbi was born to an Italian Jewish family in Bergamo, Italy and emigrated with them to the United States two years before World War II. His original name was Andrea, but when he was naturalized in the US, his parents anglicized it to Andrew.
+
+Education
+Viterbi attended the Boston Latin School, and then entered [Massachusetts Institute of Technology](4006) (MIT) in 1952, studying electrical engineering. He received both BS and MS in electrical engineering in 1957 from MIT. He was elected to membership in the honor society Eta Kappa Nu in 1956 through the MIT chapter.
+He worked at Raytheon and later at Jet Propulsion Laboratory (JPL) in Pasadena, California, where he started working on telemetry for uncrewed space missions, also helping to develop the phase-locked loop. Simultaneously, he was carrying out PhD studies at the University of Southern California, where he graduated in 1963 in digital communications.
+
+Career
+After receiving his PhD, he applied successfully for an academic position at University of California, Los Angeles (UCLA).
+Viterbi was later a professor of electrical engineering at UCLA and University of California, San Diego (UCSD). In 1967 he proposed the Viterbi algorithm to decode convolutionally encoded data. It is still used widely in cellular phones for error correcting codes, as well as for speech recognition, DNA analysis, and many other applications of Hidden Markov models.  On advice of a lawyer, Viterbi did not patent the algorithm.
+Viterbi also helped to develop the Code Division Multiple Access (CDMA) standard for cell phone networks.
+Viterbi was the cofounder of Linkabit Corporation, with Irwin M. Jacobs in 1968, a small telecommunications contractor. He was also the co-founder of Qualcomm Inc. with Jacobs in 1985. As of 2003, he is the president of the venture capital company The Viterbi Group. He continues to be involved in wireless communications technology companies as a strategic advisor to Ingenu's board of directors.
+
+Virterbi was elected a member of the National Academy of Engineering in 1978.  In 1998 he was one of the few receiving a Golden Jubilee Award for Technological Innovation from the [IEEE](4014) Information Theory Society. Viterbi earned it for "the invention of the Viterbi algorithm".  He was inducted into the Wireless Hall of Fame, in 2000, for his dedication to the cellular industry. In 2002, Viterbi dedicated the Andrew Viterbi '52 Computer Center at his alma mater, Boston Latin School.  On March 2, 2004, the University of Southern California School of Engineering was renamed the Viterbi School of Engineering in his honor, following his $52 million donation to the school. He is a member of the USC board of trustees.
+He is also on the Board of Trustees at The Scripps Research Institute.
+He is also founding member of ISSNAF (The Italian Scientists and Scholars in North America Foundation).
+In 2005, he was awarded the Benjamin Franklin Medal in Electrical Engineering.
+In 2006, he was made an Eminent Member of Eta Kappa Nu.
+Viterbi and Irwin M. Jacobs received the 2007 [IEEE](4014)/RSE Wolfson James Clerk Maxwell Award, for "fundamental contributions, innovation, and leadership that enabled the growth of wireless telecommunications".
+In 2008, he was named a Millennium Technology Prize finalist for the invention of the Viterbi algorithm. At the award ceremony in [Finland](2238) on June 11, 2008, he was awarded a prize of EUR 115,000 and the prize trophy "Peak" as a 2008 Millennium Technology Laureate.
+In September 2008, he was awarded the National Medal of Science for developing "the 'Viterbi algorithm', and for his contributions to Code Division Multiple Access (CDMA) wireless technology that transformed the theory and practice of digital communications".
+In 2010, he received the [IEEE](4014) Medal of Honor and in the same year he also received the IIC Lifetime Achievement Award by the Italian Cultural Institute of Los Angeles. In 2011, he received the John Fritz Medal from the American Association of Engineering Societies.
+In 2013, Viterbi was inducted into the National Inventors Hall of Fame.
+In 2017, Viterbi, along with Irwin Jacobs, received the [IEEE](4014) Milestone Award for their CDMA and spread spectrum development that drives the mobile industry.
+
+Viterbi's problem on the coincidence of PLL ranges
+A. Viterbi analytically showed that for the first-order PLL model (filterless model) the three main ranges (hold-in, pull-in, lock-in ranges) coincide.: 4–5  Various conjectures (e.g., Egan's conjecture on the pull-in range of type II APLL) and estimates of the ranges of higher-order PLL models appeared based on this result, which led to the problem of determining the regions of the physical parameters of the PLL (parameters of the phase detector, filter, and voltage-controlled oscillator) where the ranges coincide. In the framework of mathematical control theory, this result is a development of the ideas of the possibility of determining the global behavior of a nonlinear system via linear analysis and various well-known conjectures on global stability (Kalman's conjecture and others) for a cylindrical phase space.
+
+Personal life
+Viterbi was married to Erna Finci (1934–2015), who was a Jewish refugee from Sarajevo in the former Yugoslavia. Erna was a Shoah survivor. In 1941, during World War II, the Finci family fled German-occupied Yugoslavia for the Italian-occupied zone from which they were deported and interned in the Parma region of Italy. In 1943, when the Nazis occupied Italy, the family was saved from deportation to extermination camps by the people of Gramignazzo di Sissa, the village where they had been interned; they were cared for by the local Ponghellini family, who hid them in their vineyard when German forces advanced into Italy. Other Italians helped them escape to Switzerland, walking across the Alps, where they waited out the war.
+They had three children, Alan Viterbi, Audrey Viterbi, and Alexander Viterbi (who died in 2011 at age 40).
+
+See also
+List of International Fellows of the Royal Academy of Engineering
+Viterbi Center for Public Opinion and Policy Research
+
+References
+Further reading
+Brodsky, Ira. "The History of Wireless: How Creative Minds Produced Technology for the Masses" (Telescope Books, 2008)
+
+External links
+
+[IEEE](4014) History Center Interview
+The Quiet Genius, Trudy E. Bell (PDF)
+Noteworthy alumni page at MIT
+Fleeing Fascism: Andrew Viterbi Remembers

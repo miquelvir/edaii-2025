@@ -1,0 +1,14 @@
+514
+Aequornithes
+Aequornithes (, from Latin aequor, expanse of water + Greek ornithes, birds), or core water birds, are defined in the PhyloCode as "the least inclusive crown clade containing Pelecanus onocrotalus and Gavia immer".
+The monophyly of the group is currently supported by several molecular phylogenetic studies.
+Aequornithes includes the clades Gaviiformes, Sphenisciformes, Procellariiformes, Ciconiiformes, Suliformes and Pelecaniformes. It does not include several unrelated groups of aquatic birds such as flamingos and grebes (Mirandornithes), shorebirds, gulls, and auks (Charadriiformes), or the [Anseriformes](564) (waterfowl).
+Based on a whole-genome analysis of the bird orders, the kagu and sunbittern (Eurypygiformes) and the three species of tropicbirds (Phaethontiformes) together styled as the Eurypygimorphae are the closest sister group of the Aequornithes, in a clade later named Phaethoquornithes.
+
+Phylogeny
+The cladogram below is based on Burleigh, J.G. et al. (2015) with some names after Sangster, G. & Mayr, G. (2021). 
+
+The clade Feraequornithes was named by Sangster & Mayr, 2021 to include the Pelecanimorphae and Procellariimorphae to the exclusion of the loons (Gaviiformes). They defined this clade in the PhyloCode as "the least inclusive clade containing Pelecanus onocrotalus and Procellaria aequinoctialis".
+
+
+== References ==

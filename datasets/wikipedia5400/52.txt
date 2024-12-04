@@ -1,0 +1,102 @@
+52
+Carnivore protoparvovirus 1
+Carnivore protoparvovirus 1 is a species of parvovirus that infects carnivorans. It causes a highly contagious disease in both dogs and cats separately. The disease is generally divided into two major genogroups: FPV containing the classical feline panleukopenia virus (FPLV), and CPV-2 containing the canine parvovirus type 2 (CPV-2) which appeared in the 1970s.
+Belonging to the family Parvoviridae, FPLV have linear, single-stranded DNA (ssDNA) genomes. This agent is one of the smallest animal viruses, barely 18 to 20 nm in diameter. Like other parvovirus genomes, it has hairpin structures at both ends of its genome: 3-genome Y-type structure and 5-terminal U-shaped structure, making it challenging to amplify the full-length genome of parvovirus despite its small size. Sequences in the genome show a high degree of nucleotide conservation in the VP2 gene after over 90 years since it has emerged; the VP2 gene codes for the capsid protein VP2, a main structural protein, which determines the major mutations during the evolution of CPV.
+FPLV is known to infect all wild and domestic members of the felid (cat) family worldwide. It is a highly contagious, severe infection that causes gastrointestinal, immune system, and nervous system disease. Its primary effect is to decrease the number of white blood cells, causing the disease known as feline panleukopenia.
+Although it was once thought that only FPLV caused panleukopenia in cats, it has been confirmed that a feline panleukopenia illness can be caused by CPV 2a, 2b, and 2c.
+FPLV is commonly referred to as:
+
+feline infectious enteritis virus (FIE)
+feline parvovirus (FPV or FP or "feline parvo")
+feline parvoviral enteritis
+It is sometimes confusingly referred to as "cat plague" and "feline distemper".
+In addition to members of the felid family, it can also affect other carnivorans (e.g. raccoon, mink).
+
+Etymology
+Formed within English using elements derived from Greek: pan- a combining form meaning "universal" or "worldwide", -leuco- a combining form meaning (in biologic sciences) "white blood cell", and -penia a combining form meaning "loss of" or "decrease of". Thus the word means universal loss of white blood cells. The universal part refers to both its worldwide distribution and to the fact that all species of cats are infected.
+
+Transmission
+The feline panleukopenia virus is considered ubiquitous, meaning it is in virtually every place that is not regularly disinfected. The infection is highly contagious among unvaccinated cats.
+Antibodies against FPLV, produced by the adaptive immune system, play an important role in the feline response to the virus. Maternally-derived antibodies (MDA) efficiently protect kittens from fatal infection. This passively acquired immunity is later replaced by an active immune response obtained by vaccination or as a consequence of a natural infection. In kittens, the period of greatest susceptibility to infection is when maternal antibodies are absent, or waning, and vaccine-induced immunity has not yet fully developed.
+Free-roaming cats are thought to be exposed to the virus during their first year of life. Those that develop a subclinical infection or survive acute illness mount a robust, long-lasting, protective immune response.
+An infected cat sheds large amounts of virus in all body secretions including feces, vomit, urine, saliva, and mucus during the acute phase of illness. It can continue to shed the virus for as long as six weeks after recovery. Subclinically ill cats can also shed the virus in body secretions. The virus can be carried or transferred on an infected object (such as bedding, food dishes, fur) or by other animals, fleas, and humans (see: fomites). It persists long after evidence of the original body secretion has faded away, and can be transported long distances. Like all parvoviruses, FPLV is extremely resistant to inactivation and can survive for longer than one year in a suitable environment. Kitten deaths have been reported in households of fully vaccinated cats, possibly because of exposure to large amounts of virus in the environment. In a recent study, microRNA responses to FPLV infection were identified in feline kidney cells by sequencing, providing a possible link between miRNA expression and pathogenesis of FPV infection.
+Infection occurs when the virus enters the body through the mouth or nose. Whether illness results or not depends on the immunity in the victim vs. the number of individual virus particles (i.e. the amount of virus) entering the body.
+
+Clinical signs
+The clinical manifestations of FPLV are variable based on the dose of the virus, the age of the cat, potential breed predispositions, and prior immunity from maternal antibodies, previous exposure, or vaccination. Most infections are subclinical, as evidenced by the high seroprevalence of anti-FPV antibodies among some populations of unvaccinated, healthy cats. The cats that become clinically ill are usually less than one year old, but older cats are also at risk. There is high mortality in clinically affected kittens, and sudden death can occur.
+Clinical signs usually develop in 4–6 days after exposure, but can show in 2–14 days. The virus infects and destroys actively dividing cells in bone marrow, lymphoid tissues, intestinal epithelium, and—in very young animals—in the cerebellum and retina. The virus primarily attacks the lining of the gastrointestinal tract, causing internal ulceration and, ultimately, total sloughing of the intestinal epithelium.
+Primary signs include:
+
+anorexia
+lethargy
+profuse watery to bloody diarrhea (bloody diarrhea is more common in dogs with parvovirus than cats)
+vomiting (most common in cats)
+Clinical laboratory findings include (but are not limited to):
+
+electrolyte and total protein concentrations that reflect dehydration, vomiting, and diarrhea.
+leukopenia
+lymphopenia
+neutropenia
+thrombocytopenia
+Other signs include: fever, loss of skin elasticity due to dehydration, abdominal pain, sternal recumbency with splayed legs and head droop, nasal discharge and conjunctivitis. Cats may sit at a water bowl, but not drink. Terminal cases are hypothermic and may develop septic shock and disseminated intravascular coagulation.
+Infection in pregnant cats can result in fetal resorption, mummification, abortion, or stillbirth of neonates. Fetuses infected in utero that survive and kittens less than a few weeks of age that become infected can have cerebellar hypoplasia, retinal dysplasia, and optic neuropathy.
+
+Diagnosis
+A presumptive clinical diagnosis of FPLV can be made for kittens with appropriate signalment, history, clinical findings and the history of no prior vaccination.
+The clinical diagnosis is usually supported by documenting parvovirus antigen in feces by ELISA (enzyme-linked immunosorbent assay) and PCR (polymerase chain reaction) assays. The availability of validated assays varies by country but is becoming more common. PCR assays are so sensitive that FPV DNA can be amplified from feces of cats vaccinated with modified live strains of the virus. Attenuated parvoviruses in MLV vaccines replicate in the blood and intestine, and post-vaccinal fecal shedding of FPV has been demonstrated, which can result in recent vaccinations giving false positive results on diagnostic tests. At least one of the ELISA antigen tests for dogs (SNAP®Parvo; IDEXX Laboratories) detects FPV in feline feces and has a cut point for a positive test result that excludes most vaccinated cats. Thus, this ELISA is superior to PCR for screening cats for FPV infection and can also be performed in the veterinary clinic. (These are only approved and licensed for detecting canine parvovirus, but it is generally known that they also detect FPL viral antigen in feline feces. These tests are used extra-label because they allow rapid, inexpensive, in-house detection of the virus.) Positive fecal SNAP test results, including weak positives, are highly likely to be true positives in clinically affected animals. Some cats will have completed the shedding period by the time the test is run, leading to false-negative results. Electron microscopy, virus isolation and seroconversion can also be used to document active or recent infection.
+Leukopenia on a complete blood count (nadir 50–3,000 WBC/μL) supports a diagnosis of FPLV. In an unvaccinated cat, the presence of antibodies against FPV indicates that the cat either has the disease or has had the disease in the past. Elevated IgM titers (1:10 or greater) indicate active infection and if clinical signs are obvious (diarrhea, panleukopenia) the prognosis is poor. Elevated IgG titers (1:100 or greater) in a cat with clinical signs indicates a better prognosis.
+Differential diagnoses include salmonellosis, enteric toxins, feline immunodeficiency virus (FIV), feline leukemia virus (FeLV), cryptosporidiosis, pancreatitis, septicaemia with acute endotoxemia, toxoplasmosis, peritonitis, and lymphoma.
+
+Treatment
+To contain the virus, cats with suspected or diagnosed FPLV should be kept in isolation.
+It requires immediate, aggressive treatment if the cat is to survive, as it can be fatal in less than 24 hours. Several articles and publications provide guidance for rescuers and veterinarians for optimizing outcomes.
+Treatment involves:
+
+anti-emetics
+IV antibiotics
+intravenous fluids with electrolytes
+injections of vitamin B
+plasma or whole blood transfusion
+Feeding should be continued as long as possible. A highly digestible diet is preferred, but the individual animal's preferences may dictate giving whatever it will eat. In anorexic, hypoproteinemic, vomiting and diarrheic cats parenteral nutrition is required.
+In a disease outbreak, unvaccinated kittens or adults can be given anti-FPV serum containing FPV antibodies injected subcutaneously or intraperitoneal. This may provide protection for 2–4 weeks. Therapeutic efficacy of anti-FPV serum has been demonstrated in dogs, and similar beneficial effects may be expected in cats.
+Several studies have shown recombinant feline interferon omega is effective in the treatment of parvoviral enteritis in dogs and also inhibits replication of FPV in cell culture. So far no data are available on its efficacy in FPV-infected cats.
+
+Complications
+Cats typically die due to complications associated with sepsis, dehydration, and disseminated intravascular coagulopathy (DIC). Leukocytopenia predisposes patients to secondary infections, especially bacterial and fungal, though secondary viral infections also occur.
+It has been stated that cats with FPLV may be at risk for endocarditis or cardiomyopathy (since CPV-2 is a well-known cause of viral myocarditis in young puppies), but a 2017 retrospective study concluded that "Feline Panleukopenia Virus Is Not Associated With Myocarditis or Endomyocardial Restrictive Cardiomyopathy in Cats".
+
+Prognosis
+Mortality in affected felid litters varies between 20 and 100%. Mortality of FPLV is 25–90% in domestic cats with the acute form of the disease and up to 100% in cats with peracute disease.
+In 2010, a retrospective study of 244 infected cats showed that "leukocyte and thrombocyte counts as well as serum albumin and potassium concentrations at presentation are prognostic indicators in cats with panleukopenia, whereas vaccination status, age, clinical signs, and housing conditions are not."
+A survival rate of about 50% has been reported with supportive therapies. Cats with FPLV that survive the first five days of treatment usually recover; however, the decrease in the cat's white blood cells compromises its immune system, leaving it vulnerable to secondary infection.
+Lifelong immunity is thought to follow recovery from disease, and a carrier state of the disease has never been identified.
+
+Preventing transmission from infected cats
+Quarantine/isolation
+Cats with suspected or diagnosed FPLV should be kept in isolation. This non-enveloped virus is very resistant to environmental conditions and many disinfectants, is highly contagious, and rapidly accumulates in the environment due to high shedding of virus from affected animals. Strict protocols for containment – with isolation, minimal handling, and disinfection of all potential sources of fomites – is warranted. Recovered cats can still shed the virus for up to six weeks and can carry it on their body for prolonged periods.
+
+Vaccination
+The practice of recommending and giving vaccines on a fixed schedule with annual boosters has been widely discarded. Current recommendations are based on the philosophy of vaccinating each cat no more frequently than necessary. These recommendations take into account considerations for the efficacy and longevity of each specific vaccine; the exposure, risk, and need of different cat populations; and socioeconomic limitations.
+Recommendations vary for:
+
+animal shelters
+boarding facilities (or animals going into them)
+breeders
+community cats (free-roaming and/or feral) or TNR (Trap Neuter Return) programs
+owned pets (and based on "inside only" or "in and out")
+The FPLV vaccination is considered a "core" (essential for health) vaccine and is recommended for all domestic cats. Even cats kept indoors can be infected from fomite transmission.
+Several types and brands of commercial FPLV vaccines are available to induce acquired immunity. These include:
+
+killed virus ("non-infectious") adjuvanted
+killed virus non adjuvanted
+modified-live virus (MLV or "infectious") adjuvanted
+modified-live virus non adjuvanted
+Combination vaccines that protect against several common viruses, including FPLV, are also available.
+Selection or use of a specific type/brand of a vaccine may vary depending on the overall risk of viral infection to the specific animal in its environment, along with considerations for the time it takes to confer protection, its overall efficacy, the animal's health, and the potential risks associated with MLV vs killed, adjuvanted vs nonadjuvanted, intranasal/ocular vs injection.
+Modified-live FPLV vaccines are not recommended in pregnant queens, very young kittens, or cats with FIV or FeLV.
+Kittens without maternally derived antibodies are especially vulnerable. FPLV vaccination can start as early as 4 weeks of age for kittens at high risk but are usually started at 6 weeks, then given every 3–4 weeks until 16 weeks of age. For cats older than 16 weeks, 2 doses, 3 to 4 weeks apart is generally recommended, followed by a 6-month to 1-year booster. Thereafter, a booster vaccination every 3 years is usually recommended; a blood titer test can be done to determine individual antibody levels for catering the timing of boosters.
+
+References
+External links
+Feline Distemper (Panleukopenia) from The Pet Health Library
+How to Limit Parvo in Shelters, Rescues and Transfer Animals

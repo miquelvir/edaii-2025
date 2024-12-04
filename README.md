@@ -14,7 +14,11 @@ Group number: (todo, add the group number here)
 # Repository Contents
 
 - [.github/workflows/unit-tests.yml](./.github/workflows/unit-tests.yml): script to run tests when pushing to GitHub (CI)
-- [datasets/animals](./datasets/animals/): a dataset of documents your search engine needs to search through
+- [datasets](./datasets/): datasets of documents you can use to test your search engine
+    - [wikipedia12](./datasets/wikipedia12/): a dataset of 13 documents about animals
+    - [wikipedia270](./datasets/wikipedia270/): a dataset of 271 documents about different topics
+    - [wikipedia540](./datasets/wikipedia540/): a dataset of 541 documents about different topics
+    - [wikipedia5400](./datasets/wikipedia5400/): a dataset of 5401 documents about different topics
 - [src](./src/): folder with all `.c` and `.h` files to run your program
     - [main.c](./src/main.c): entrypoint to your program
     - [sample_lib.c](./src/sample_lib.c): an example of how to write `.c` files

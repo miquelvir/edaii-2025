@@ -1,0 +1,127 @@
+449
+Indo-European ablaut
+In linguistics, the Indo-European ablaut ( AB-lowt, from German [Ablaut](449) pronounced ˈaplaʊt) is a system of apophony (regular vowel variations) in the Proto-Indo-European language (PIE).
+An example of ablaut in English is the strong verb sing, sang, sung and its related noun song, a paradigm inherited directly from the Proto-Indo-European stage of the language. Traces of ablaut are found in all modern Indo-European languages, though its prevalence varies greatly.
+
+History of the concept
+The phenomenon of Indo-European ablaut  was first recorded by Sanskrit grammarians in the later Vedic period (roughly 8th century BCE), and was codified by Pāṇini in his Aṣṭādhyāyī (4th century BCE), where the terms guṇa and vṛddhi were used to describe the phenomena now known respectively as the full grade and lengthened grade.
+In the context of European languages, the phenomenon was first described in the early 18th century by the Dutch linguist Lambert ten Kate, in his book Gemeenschap tussen de Gottische spraeke en de Nederduytsche ("Common aspects of the Gothic and Dutch languages", 1710). 
+The term ablaut is borrowed from German, and derives from the noun Laut "sound", and the prefix ab-, which indicates movement downwards or away, or deviation from a norm; thus the literal meaning is "sound reduction". It was coined in this sense in 1819 by the German linguist Jacob Grimm in his Deutsche Grammatik, though the word had been used before him. In particular, the 17th-century grammarian Schottelius had used the word negatively to suggest that German verbs lacked the sophistication of the classics, but there is no hint of this disdain in Grimm or in modern scholarly usage.
+In English, the term became established through the 1845 translation of Bopp's Comparative Grammar.
+
+[Ablaut](449) and vowel gradation
+Vowel gradation is any vowel difference between two related words (such as photograph ˈfəʊtəgrɑːf and photography fəˈtɒgrəfi) or two forms of the same word (such as man and men). The difference does not need to be indicated in the spelling. There are many kinds of vowel gradation in English and other languages, which are discussed generally in the article apophony. Some involve a variation in vowel length (quantitative gradation: photograph / photography shows reduction of the first vowel to a schwa), others in vowel coloring (qualitative gradation: man / men) and others the complete disappearance of a vowel (reduction to zero: could not → couldn't).
+For the study of European languages, one of the most important instances of vowel gradation is the Indo-European ablaut, remnants of which can be seen in the English verbs ride, rode, ridden, or fly, flew, flown. For simply learning English grammar, it is enough to note that these verbs are irregular, but understanding why they have unusual forms that seem irregular (and indeed why they are actually perfectly regular within their own terms) requires an understanding of the grammar of the reconstructed proto-language.
+[Ablaut](449) is the oldest and most extensive single source of vowel gradation in the Indo-European languages and must be distinguished clearly from other forms of gradation, which developed later, such as Germanic umlaut (man / men, goose / geese, long / length) or the results of modern English word-stress patterns (man / woman, photograph / photography). Confusingly, in some contexts, the terms 'ablaut', 'vowel gradation', 'apophony' and 'vowel alternation' are used synonymously, especially in synchronic comparisons, but historical linguists prefer to keep 'ablaut' for the specific Indo-European phenomenon, which is the meaning intended by the linguists who first coined the word.
+
+[Ablaut](449) grades
+In Proto-Indo-European, the basic, inherent vowel of most syllables was a short e. [Ablaut](449) is the name of the process whereby this short e changed, becoming short o, long ē, long ō or sometimes disappearing entirely to leave no vowel at all.
+Thus, ablaut results in the alternation of the following sounds:
+
+If a syllable had a short e, it is said to be in the "e-grade" or "full grade". When it had no vowel, it is said to be in the "zero grade". Syllables with long vowels are said to be in "lengthened grade". (When the e-grade or the o-grade is referred to, the short vowel forms are meant.)
+A classic example of the five grades of ablaut in a single root is provided by the different case forms of two closely related Greek words. In the following table, an acute accent (´) marks the syllable carrying the word stress; a macron (¯) marks long vowels and the syllable in bold is the one illustrating the different vowel gradations.
+
+In this unusually neat example, the following can be seen:
+
+A switch to the zero-grade when the word stress moves to the following syllable.
+A switch to the o-grade when the word stress moves to the preceding syllable.
+A lengthening of the vowel when the syllable is in word-final position before a sonorant.
+As with most reconstructions, however, scholars differ about the details of this example.
+One way to think of this system is to suppose that Proto-Indo-European originally had only one vowel, short e, and over time, it changed according to phonetic context, so the language started to develop a more complex vowel system. Thus, it has often been speculated that an original e-grade underwent two changes in some phonetic environments: under certain circumstances, it changed to o (the o-grade) and in others, it disappeared entirely (the zero-grade).
+However, that is not certain: the phonetic conditions that controlled ablaut have never been determined, and the position of the word stress may not have been a key factor at all. There are many counterexamples to the proposed rules: *deywós and its nominative plural *deywóes show pretonic and posttonic e-grade, respectively, and  *wĺ̥kʷos has an accented zero grade.
+
+Lengthened grades
+Many examples of lengthened grades, including those listed above, are not directly conditioned by ablaut. Instead, they are a result of sound changes like Szemerényi's law and Stang's law, which caused compensatory lengthening of originally short vowels. In the examples above, Szemerényi's law affected the older sequences *ph2-tér-s and *n̥-péh2-tor-s, changing them to *ph2-tḗr and *n̥-péh2-tōr. Thus, these forms were originally in the regular, unlengthened e-grade and o-grade. Such lengthened vowels were, however, later grammaticalised and spread to other words in which the change did not occur.
+Nevertheless, there are examples of true lengthened grades, in which short e alternates with long ē. Examples are the verbs with "Narten" inflection, and nouns like *mḗh₁-n̥s "moon", genitive *méh₁-n̥s-os. Alternations of this type were rare, however, and the e ~ o ~ ∅ alternation was the most common by far. The long ō grade was rarer still and may not have actually been a part of the ablaut system at all.
+
+Zero grade
+The zero grade of ablaut may appear difficult for speakers of English. In the case of *ph2trés, which may already have been pronounced something like pɐtrés, it is not difficult to imagine it as a contraction of an older *ph2terés, pronounced perhaps pɐterés, as this combination of consonants and vowels would be possible in English as well. In other cases, however, the absence of a vowel strikes the speaker of a modern western European language as unpronounceable.
+To understand, one must be aware that there were a number of sounds that were consonants in principle but could operate in ways analogous to vowels: the four syllabic sonorants, the three laryngeals and the two semi-vowels:
+
+The syllabic sonorants are m, n, r and l, which could be consonants much as they are in English, but they could also be held on as continuants and carry a full syllable stress and then are transcribed with a small circle beneath them. There are many modern languages who show these sounds in syllable nuclei, including Indo-European ones (e.g. Czech).
+The laryngeals could be pronounced as consonants, in which case they were probably variations on the h sound and so normally transcribed as h1, h2 and h3. However, they could also carry a syllable stress, in which case they were more like vowels. Thus, some linguists prefer to transcribe them ə1, ə2 and ə3. The vocalic pronunciation may have originally involved the consonantal sounds with a very slight schwa before and/or after the consonant.
+In pre-vocalic positions, the phonemes u and i were semi-vowels, probably pronounced like English w and y, but they could also become pure vowels when the following ablaut vowel reduced to zero.
+When u and i came in postvocalic positions, the result was a diphthong. [Ablaut](449) is nevertheless regular and looks like this:
+
+Thus, any of these could replace the ablaut vowel when it was reduced to the zero-grade: the pattern CVrC (for example, *bʰergʰ-) could become CrC (*bʰr̥gʰ-).
+However, not every PIE syllable was capable of forming a zero grade; some consonant structures inhibited it in particular cases, or completely. Thus, for example, although the preterite plural of a Germanic strong verb (see below) is derived from the zero grade, classes 4 and 5 have instead vowels representing the lengthened e-grade, as the stems of these verbs could not have sustained a zero grade in this position.
+Zero grade is said to be from pre-Proto-Indo-European syncope in unaccented syllables, but in some cases the lack of accent does not cause zero grade: *deywó-, nominative plural *-es "god". There does not seem to be a rule governing the unaccented syllables that take zero grade and the ones that take stronger grades.
+
+a-grade
+It is still a matter of debate whether PIE had an original a-vowel at all. In later PIE, the disappearance of the laryngeal h2 could leave an a-colouring and this may explain all occurrences of a in later PIE. However, some argue controversially that the e-grade could sometimes be replaced by an a-grade without the influence of a laryngeal, which might help to explain the vowels in class 6 Germanic verbs, for example.
+
+Subsequent development
+Although PIE had only this one, basically regular, ablaut sequence, the development in the daughter languages is frequently far more complicated, and few reflect the original system as neatly as Greek. Various factors, such as vowel harmony, assimilation with nasals, or the effect of the presence of laryngeals in the Indo-European (IE) roots as well as their subsequent loss in most daughter languages, mean that a language may have several different vowels representing a single vowel in the parent language.
+In particular, the zero grade was often subject to modification from changes in the pronunciation of syllabic sonorants. For example, in Germanic, syllabic sonorants acquired an epenthetic -u-, thus converting the original zero grade to a new "u-grade" in many words. Thus, while ablaut survives in some form in all Indo-European languages, it became progressively less systematic over time.
+[Ablaut](449) explains vowel differences between related words of the same language. For example:
+
+English strike and stroke both come from the same IE root *streyg-. The former comes from the e-grade, the latter from the o-grade.
+German Berg (mountain, hill) and Burg (castle) both come from the root *bʰergʰ-, which presumably meant "high". The former comes from the e-grade, the latter from the zero-grade. (Zero-grade followed by r becomes ur in Germanic.)
+[Ablaut](449) also explains vowel differences between cognates in different languages.
+
+English tooth comes from Germanic *tanþ-s (e.g. Old English tōþ, Old High German zand), genitive *tund-iz (Gothic tunþus, but also aiƕa-tundi "thornbush", literally "horse-tooth"). This form is related to Latin dens, dentis and Greek ὀδούς, ὀδόντος, with the same meaning, and is reflected in the English words dentist and orthodontic. One reconstructed IE form is *dónts, genitive *dn̥tés. The consonant differences can be explained by regular sound shifts in primitive Germanic but not the vowel differences: by the regular laws of sound changes, Germanic a can originate from PIE o, but un usually goes back to a syllabic n̥.
+The explanation is that the Germanic and Greek nominative forms developed from the o-grade, the Latin word and the Germanic genitive from the zero-grade (in which syllabic n̥ developed into en much in the same way as it became un in Germanic). Going a step further back, some scholars reconstruct *h1dónts, from the zero grade of the root *h1ed- 'to eat' and the participle -ont- and explain it as 'the eating one'.
+English foot comes from the lengthened o-grade of *ped-. Greek πούς, ποδός and Latin pes, pedis (compare English octopus and pedestrian), come from the (short) o-grade and the e-grade respectively.
+For the English-speaking non-specialist, a good reference work for quick information on IE roots, including the difference of ablaut grade behind related lexemes, is Watkins (2000). (Note that in discussions of lexis, Indo-European roots are normally cited in the e-grade, without any inflections.)
+
+Grammatical function
+In PIE, there were already ablaut differences within the paradigms of verbs and nouns. These were not the main markers of grammatical form, since the inflection system served this purpose, but they must have been significant secondary markers.
+An example of ablaut in the paradigm of the noun in PIE can be found in *pértus, from which the English words ford and (via Latin) port are derived (both via the zero-grade stem *pr̥t-).
+
+An example in a verb is *bʰeydʰ- "to wait" (cf. "bide").
+
+In the daughter languages, these came to be important markers of grammatical distinctions. The vowel change in the Germanic strong verb, for example, is the direct descendant of that seen in the Indo-European verb paradigm. Examples in modern English are the following:
+
+It was in this context of Germanic verbs that ablaut was first described, and this is still what most people primarily associate with the phenomenon. A fuller description of ablaut operating in English, German and Dutch verbs and of the historical factors governing these can be found at the article Germanic strong verb.
+The same phenomenon is displayed in the verb tables of Latin, Ancient Greek and Sanskrit. Examples of ablaut as a grammatical marker in Latin are the vowel changes in the perfect stem of verbs.
+
+[Ablaut](449) can often explain apparently random irregularities. For example, the verb "to be" in Latin has the forms est (he is) and sunt (they are). The equivalent forms in German are very similar: ist and sind. The same forms were present in Proto-Slavic: *estь and *sǫtь, and developed into e.g. Polish jest and są.
+The difference between singular and plural in these languages is easily explained: the PIE root is *h1es-. In the singular, the stem is stressed, so it remains in the e-grade, and it takes the inflection -ti. In the plural, however, the inflection -énti was stressed, causing the stem to reduce to the zero grade: *h1es-énti → *h1s-énti. See main article: Indo-European copula.
+Some of the morphological functions of the various grades are as follows:
+e-grade:
+
+Present tense of thematic verbs; root stress.
+Present singular of athematic verbs; root stress.
+Accusative and vocative singular, nominative, accusative and vocative dual, nominative plural of nouns.
+o-grade:
+
+Verbal nouns
+stem-stressed masculine action nouns (Greek gónos "offspring", Sanskrit jánas "creature, person"; Greek trókhos "circular course" < "*act of running");
+ending-stressed feminine, originally collective, action nouns (Greek gonḗ "offspring", Sanskrit janā́ "birth");
+ending-stressed masculine agent nouns (Greek trokhós "wheel" < "*runner").
+Nominative, vocative and accusative singular of certain nouns (acrostatic root nouns such as dṓm, plural dómes "house"; proterokinetic neuter nouns such as *wódr̥ "water" or dóru "tree").
+Present tense of causative verbs; stem (not root) stress.
+Perfect singular tense.
+zero-grade:
+
+Present dual and plural tense of athematic verbs; ending stress.
+Perfect dual and plural tense; ending stress.
+Past participles; ending stress.
+Some verbs in the aorist (the Greek thematic "second aorist").
+Oblique singular/dual/plural, accusative plural of nouns.
+lengthened grade:
+
+Nominative singular of many nouns.
+Present singular of certain athematic verbs (so-called Narten-stem verbs).
+Some verbs in the aorist.
+Some derived verbal nouns (so-called proto-vrddhi).
+Many examples of lengthened-grade roots in the daughter languages are actually caused by the effect of laryngeals and of Szemerényi's law and Stang's law, which operated within Indo-European times.
+
+See also
+Notes
+References
+Bibliography
+Beekes, Robert S. P. (1995). Comparative Indo-European Linguistics: An Introduction. Amsterdam: John Benjamins. ISBN 90-272-2150-2. (Europe), (U.S.).
+Fortson, Benjamin W (2010). Indo-European Language and Culture (2010 ed.). Wiley-Blackwell. ISBN 978-1-4051-8895-1.
+Burrow, Thomas (2001). The Sanskrit Language (2001 ed.). Motilal Banarsidass. ISBN 81-208-1767-2.
+Whitney, William Dwight (January 2008). Sanskrit Grammar (2000 ed.). Motilal Banarsidass. ISBN 978-81-208-0620-7.
+Coulson, Michael (2003). Sanskrit (2003 ed.). McGraw Hill. ISBN 0-340-85990-3.
+Coetsem, Frans van (1993). [Ablaut](449) and Reduplication in the Germanic Verb (=Indogermanische Bibliothek. vol 3). Heidelberg: Winter Verlag. ISBN 3-8253-4267-0.
+Harper, Douglas (2001). "ablaut (n.)". Online Etymological Dictionary (Etymonline). Retrieved 2022-04-21.
+Kluge, Friedrich (1963). Etymologisches Wörterbuch der deutschen Sprache (19 ed.). Walter de Gruyter GmbH & Co KG. p. 3. ISBN 9783111698847.
+Kuryłowicz, Jerzy; Manfred Mayrhofer (1968–1969). Indogermanische Grammatik. Heidelberg: Winter Verlag. ISBN 3-533-03487-9.
+Meier-Brügger, Michael (2002). Indogermanische Sprachwissenschaft. de Gruyter. ISBN 3-11-017243-7.
+Schoppe, Georg (1923). "Nomina ante res". Germanisch-Romanische Monatsschrift. XI: 182-185.
+Szemerényi, Oswald J. L. (1996). Introduction to Indo-European Linguistics. Oxford: Oxford University Press. ISBN 0-19-824015-5.
+Trübner, Karl (1939). Deutsches Wörterbuch (in German). Walter de Gruyter. p. 18. ISBN 9783110849349.
+Watkins, Calvert (2000). The American Heritage Dictionary of Indo-European Roots (2nd ed.). Boston & New York: Houghton Mifflin. ISBN 0-618-08250-6.

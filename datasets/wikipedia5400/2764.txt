@@ -1,0 +1,89 @@
+2764
+Eudicots
+The eudicots, Eudicotidae, or eudicotyledons are a clade of flowering plants (angiosperms) which are mainly characterized by having two seed leaves (cotyledons) upon germination. The term derives from dicotyledon (etymologically, eu = true; di = two; cotyledon = seed leaf). Historically, authors have used the terms tricolpates or non-magnoliid dicots. The current botanical terms were introduced in 1991, by evolutionary botanist James A. Doyle and paleobotanist Carol L. Hotton, to emphasize the later evolutionary divergence of tricolpate dicots from earlier, less specialized, dicots.
+Scores of familiar plants are eudicots, including many commonly cultivated and edible plants, numerous trees, tropicals and ornamentals. Among the most well-known eudicot genera are those of the sunflower (Helianthus), dandelion (Taraxacum), forget-me-not (Myosotis), cabbage (Brassica), apple (Malus), buttercup (Ranunculus), maple (Acer) and macadamia (Macadamia). Most leafy, mid-latitude trees are also classified as eudicots, with notable exceptions being the magnolias and American tulip tree (Liriodendron)—which belong to the magnoliids—and Ginkgo biloba, which is not an angiosperm.
+
+Description
+The close relationships among flowering plants with tricolpate pollen grains was initially seen in morphological studies of shared derived characters. These plants have a distinct trait in their pollen grains of exhibiting three colpi or grooves paralleling the polar axis.
+Later molecular evidence confirmed the genetic basis for the evolutionary relationships among flowering plants with tricolpate pollen grains and dicotyledonous traits. The term means "true dicotyledons", as it contains the majority of plants that have been considered dicots and have characteristics of the dicots. One of the genetic traits which defines the eudicots is the duplication of DELLA protein-encoding genes in their most recent common ancestor. The term "eudicots" has subsequently been widely adopted in botany to refer to one of the two largest clades of angiosperms (constituting over 70% of the angiosperm species), monocots being the other. The remaining angiosperms include magnoliids and what are sometimes referred to as basal angiosperms or paleodicots, but these terms have not been widely or consistently adopted, as they do not refer to a monophyletic group.
+According to molecular clock calculations, the lineage that led to eudicots split from other plants about 134 million years ago or 155-160 million years ago.
+
+Taxonomy
+The earlier name for the eudicots is tricolpates, a name which refers to the grooved structure of the pollen. Members of the group have tricolpate pollen, or forms derived from it. These pollens have three or more pores set in furrows called colpi. In contrast, most of the other seed plants (that is the gymnosperms, the monocots and the paleodicots) produce monosulcate pollen, with a single pore set in a differently oriented groove called the sulcus. The name "tricolpates" is preferred by some botanists to avoid confusion with the dicots, a nonmonophyletic group.
+The name "eudicots" (plural) is used in the APG systems (from APG system, of 1998, to APG IV system, of 2016) for classification of angiosperms. It is applied to a clade, a monophyletic group, which includes most of the (former) dicots.
+"Tricolpate" is a synonym for the "Eudicot" monophyletic group, the "true dicotyledons" (which are distinguished from all other flowering plants by their tricolpate pollen structure). The number of pollen grain furrows or pores helps classify the flowering plants, with eudicots having three colpi (tricolpate), and other groups having one sulcus.
+Pollen apertures are any modification of the wall of the pollen grain. These modifications include thinning, ridges and pores, they serve as an exit for the pollen contents and allow shrinking and swelling of the grain caused by changes in moisture content. The elongated apertures/ furrows in the pollen grain are called colpi (singular colpus), which, along with pores, are a chief criterion for identifying the pollen classes.
+
+Subdivisions
+The eudicots can be divided into two groups: the basal eudicots and the core eudicots. Basal eudicot is an informal name for a paraphyletic group. The core eudicots are a monophyletic group. A 2010 study suggested the core eudicots can be divided into two clades, Gunnerales and a clade called Pentapetalae, comprising all the remaining core eudicots.
+The Pentapetalae can be then divided into three clades:
+
+Dilleniales
+superrosids consisting of  Saxifragales and rosids (the APG IV system includes the Vitales in the rosids)
+superasterids consisting of Santalales, Berberidopsidales, Caryophyllales and asterids
+This division of the eudicots is shown in the following cladogram:
+
+The following is a more detailed breakdown according to APG IV, showing within each clade and orders:
+
+clade Eudicots
+order Ranunculales
+order Proteales
+order Trochodendrales
+order Buxales
+clade Core eudicots
+order Gunnerales
+order Dilleniales
+clade Superrosids
+order Saxifragales
+clade Rosids
+order Vitales
+clade Fabids
+order Fabales
+order Rosales
+order Fagales
+order [Cucurbitales](2749)
+order Oxalidales
+order Malpighiales
+order Celastrales
+order Zygophyllales
+clade Malvids
+order Geraniales
+order Myrtales
+order Crossosomatales
+order Picramniales
+order Malvales
+order Brassicales
+order Huerteales
+order Sapindales
+clade Superasterids
+order Berberidopsidales
+order Santalales
+order Caryophyllales
+clade Asterids
+order Cornales
+order Ericales
+clade Campanulids
+order Aquifoliales
+order Asterales
+order Escalloniales
+order Bruniales
+order Apiales
+order Dipsacales
+order Paracryphiales
+clade Lamiids
+order Solanales
+order Lamiales
+order Vahliales
+order Gentianales
+order Boraginales
+order Garryales
+order Metteniusales
+order Icacinales
+
+References
+Bibliography
+External links
+
+"Eudicots". The [Encyclopedia of Life](2762).
+Eudicots, Tree of Life Web Project
+Dicots Archived 2015-02-24 at the Wayback Machine Plant Life Forms

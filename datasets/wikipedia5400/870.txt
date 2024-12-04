@@ -1,0 +1,27 @@
+870
+C date and time functions
+‹The template Manual is being considered for merging.› 
+
+The C date and time functions are a group of functions in the standard library of the C programming language implementing date and time manipulation operations. They provide support for time acquisition, conversion between date formats, and formatted output to strings.
+
+History
+The format string used in strftime traces back to at least PWB/UNIX 1.0, released in 1977. Its date system command includes various formatting options. In 1989, the [ANSI C](803) standard is released including strftime and other date and time functions.
+
+Overview of functions
+The C date and time operations are defined in the time.h header file (ctime header in [C++](640)).
+
+The timespec and related types were originally proposed by Markus Kuhn to provide a variety of time bases, but only TIME_UTC was accepted. The functionalities were, however, added to [C++](640) in 2020 in std::chrono.
+
+Example
+The following C source code prints the current time to the standard output stream.
+
+The output is:
+
+See also
+Unix time
+Year 2038 problem
+
+References
+
+
+== External links ==

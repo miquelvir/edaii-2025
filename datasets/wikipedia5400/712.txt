@@ -1,0 +1,56 @@
+712
+Abaqus
+Abaqus FEA (formerly ABAQUS) is a software suite for finite element analysis and computer-aided engineering, originally released in 1978. The name and logo of this software are based on the abacus calculation tool.
+The Abaqus product suite consists of five core software products:
+
+Abaqus/CAE, or "Complete Abaqus Environment" (a backronym with a root in Computer-Aided Engineering). It is a software application used for both the modeling and analysis of mechanical components and assemblies (pre-processing) and visualizing the finite element analysis result. A subset of Abaqus/CAE including only the post-processing module can be launched independently in the Abaqus/Viewer product.
+Abaqus/Standard, a general-purpose Finite-Element analyzer that employs implicit integration scheme (traditional).
+Abaqus/Explicit, a special-purpose Finite-Element analyzer that employs explicit integration scheme to solve highly nonlinear systems with many complex contacts under transient loads.
+Abaqus/CFD, a Computational Fluid Dynamics software application which provides advanced computational fluid dynamics capabilities with extensive support for preprocessing and postprocessing provided in Abaqus/CAE - discontinued in Abaqus 2017 and further releases.
+Abaqus/Electromagnetic, a Computational electromagnetics software application which solves advanced computational electromagnetic problems.
+The Abaqus products use the open-source scripting language Python for scripting and customization. Abaqus/CAE uses the fox-toolkit for GUI development.
+
+History
+The name of Abaqus was initially written as ABAQUS when it was first released. The early history of ABAQUS is very tightly connected with the early history of MARC Analysis Research Corporation. Dr. David Hibbitt, Dr. Bengt Karlsson, and Dr. Paul Sorensen co-founded the company later known as Hibbitt, Karlsson & Sorensen, Inc., (HKS) in Jan, 1978 to develop and market ABAQUS software. Hibbitt and Sorensen had met while completing their Ph.Ds at Brown University while Karlsson encountered the two in his capacity as a support analyst in a data centre in Stockholm.  The original logo of ABAQUS company is a stylized abacus calculator, and its beads are set to the company's official launch date of February 1, 1978 (2-1-1978). 
+ABAQUS version 1 was created for a specific client -- Westinghouse Hanford Company which used the software to analyze nuclear fuel rod assemblies. ABAQUS version 3 was released in June 1979. In the early days, ABAQUS was designed primarily for the nonlinear static and dynamic analysis of structures, and nonlinear steady and transient analysis of heat transfer or conduction problems. It was initially distributed via CDC's Cybernet service. The first parallel version of ABAQUS, version 5.4, was made available to users in 1995.
+The core product, eventually known as ABAQUS/Standard which is an implicit finite element solver, was complemented by other software packages including ABAQUS/Explicit, a dynamic explicit analysis package released in 1992, and ABAQUS/CAE, a finite element pre- and post-processing package released in 1999. The first official release of ABAQUS/Explicit was hand-delivered to M.I.T. in 1992. Later on, the company's name was changed to ABAQUS, Inc. in late 2002 to reflect the company's focus on this product line. Then, in October 2005, the company with its 525 employees was acquired by Dassault Systèmes for $413 million or about four times the company's annual revenue of approximately $100 million. After that, ABAQUS, Inc. became part of Dassault Systèmes Simulia Corp.
+Dr. David Hibbitt was still with the company he co-founded as chairman while Mark Goldstein was president and CEO when the company was acquired by Dassault Systèmes. After 23 years of leadership, David Hibbitt retired in 2001; Bengt Karlsson and Paul Sorensen followed suit in the following year. All three are still living in New England.
+The headquarters of the company was located in Providence, Rhode Island until 2014. Since 2014, the headquarters of the company are located in Johnston, Rhode Island, United States.
+
+Release history
+The first version of ABAQUS was delivered/released in Sept. 1978. Version 3 of ABAQUS was released in June 1979. The first official release of ABAQUS/Explicit was in 1992. Version 0 of ABAQUS/Viewer was released as a standalone product in 1998. The same features were made available as the Visualization module of ABAQUS/CAE when it was first released in 1999.
+
+In recent years, a new version of Abaqus has been released near the end of every year.
+
+Applications
+Abaqus is used in the automotive, aerospace, and industrial products in industries. The product is popular with non-academic and research institutions in engineering due to the wide material modeling capability, and the program's ability to be customized, for example, users can define their own material models so that new materials could also be simulated in Abaqus.  Abaqus also provides a good collection of multiphysics capabilities, such as coupled acoustic-structural, piezoelectric, and structural-pore capabilities, making it attractive for production-level simulations where multiple fields need to be coupled.
+Abaqus was initially designed to address non-linear physical behavior; as a result, the package has an extensive range of material models such as elastomeric (rubberlike) and hyperelastic (soft tissue) material capabilities.
+Here are some animated examples
+
+Solution Sequence
+Every complete finite-element analysis consists of 3 separate stages:
+
+Pre-processing or modeling: This stage involves creating an input file which contains an engineer's design for a finite-element analyzer (also called "solver").
+Processing or finite element analysis: This stage produces an output visual file.
+Post-processing or generating report, image, animation, etc. from the output file: This stage is a visual rendering stage.
+Abaqus/CAE is capable of pre-processing, post-processing, and monitoring the processing stage of the solver; however, the first stage can also be done by other compatible CAD software, or even a text editor. Abaqus/Standard, Abaqus/Explicit or Abaqus/CFD are capable of accomplishing the processing stage. Dassault Systemes also produces Abaqus for CATIA for adding advanced processing and post processing stages to a pre-processor like CATIA.
+
+Solvers Comparison
+The following is a comparison between the solver capabilities of Abaqus/Standard and Abaqus/Explicit.
+
+Notes
+
+^*  The more complex the contacts become, the more repetitive calculations ABAQUS/Standard has to solve, and the more time and disk space needed; ABAQUS Explicit is the optimal choice in this case
+^**  Like static elements (see the picture,) dynamic elements, thermal elements and electrical elements
+^ ^***  Steady, Static and Constant loads are the same. Transient loads include: quasi-static loads (slowly varying loads in which the effect of inertial is small enough to neglect) and dynamic loads (faster varying loads).
+
+See also
+ABAQUS, Inc
+List of finite element software packages
+Dassault Systèmes
+
+References
+External links
+
+Official website
+Dassault Systèmes

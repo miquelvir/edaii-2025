@@ -1,0 +1,76 @@
+147
+Animal disease model
+An animal model (short for animal disease model) is a living, non-human, often genetic-engineered animal used during the research and investigation of human disease, for the purpose of better understanding the disease process without the risk of harming a human. Although biological activity in an animal model does not ensure an effect in humans, many drugs, treatments and cures for human diseases are developed in part with the guidance of animal models. Animal models representing specific taxonomic groups in the research and study of developmental processes are also referred to as model organisms. There are three main types of animal models: Homologous, Isomorphic and Predictive.
+Homologous animals have the same causes, symptoms and treatment options as would humans who have the same disease.
+Isomorphic animals share the same symptoms and treatments, only.
+Predictive models are similar to a particular human disease in only a couple of aspects. However, these are useful in isolating and making predictions about mechanisms of a set of disease features.
+
+Phylogeny and genetic similarity
+Although scientific study of animals predates Charles Darwin by several hundred years, the primary justification for the use of animals in research is based on the evolutionary principle that all organisms share some degree of relatedness and genetic similarity due to common ancestry. The study of taxonomic human relatives, then, can provide a great deal of information about mechanism and disease within the human body that can be useful in medicine.
+Various phylogenetic trees for vertebrates have been constructed using comparative proteomics, genetics, genomics as well as the geochemical and fossil record. These estimations tell us that humans and chimpanzees last shared a common ancestor about 6 million years ago (mya). As our closest relatives, chimpanzees have a lot of potential to tell us about mechanisms of disease (and what genes may be responsible for human intelligence). However, chimpanzees are rarely used in research and are protected from highly invasive procedures. The most common animal model is the rodent. Phylogenic trees estimate that humans and rodents last shared a common ancestor ~80-100mya. Despite this distant split, humans and rodents have far more similarities than they do differences. This is due to the relative stability of large portions of the genome; making the use of vertebrate animals particularly productive.
+Recently, genomic data has been added to techniques to make close comparisons between species and determine relatedness. Humans share about 99% of our genome with chimpanzees (98.7% with bonobos) and over 90% with the mouse. With so much of the genome conserved across species, it is relatively impressive that the differences between humans and mice can be accounted for in approximately six thousand genes (of ~30,000 total). Scientists have been able to take advantage of these similarities in generating experimental and predictive models of human disease.
+
+Disease models
+Animal models serving in research may have an existing, inbred or induced disease or injury that is similar to a human condition. These test conditions are often termed as animal models of disease. The use of animal models allows researchers to investigate disease states in ways which would be inaccessible in a human patient, performing procedures on the non-human animal that imply a level of harm that would not be considered ethical to inflict on a human.
+As in noted the introduction, animal models can be classified as homologous, isomorphic or predictive. Animal models can also be more broadly classified into four categories: 1) experimental, 2) spontaneous, 3) negative, 4) orphan.
+Experimental models are most common. These refer to models of disease that resemble human conditions in phenotype or response to treatment but are induced artificially in the laboratory. Some examples include:
+
+The use of metrazol (pentylenetetrazol) as an animal model of epilepsy
+Immunisation with an auto-antigen to induce an immune response to model autoimmune diseases such as Experimental autoimmune encephalomyelitis
+Occlusion of the middle cerebral artery as an animal model of ischemic stroke
+Injection of blood in the basal ganglia of mice as a model for hemorrhagic stroke
+Sepsis and septic shock induction by impairing the integrity of barrier tissues, administering live pathogens or toxins
+Infecting animals with pathogens to reproduce human infectious diseases
+Injecting animals with agonists or antagonists of various neurotransmitters to reproduce human mental disorders
+Using ionizing radiation to cause tumors
+Using gene transfer to cause tumors
+Implanting animals with tumors to test and develop treatments using ionizing radiation
+Genetically selected (such as in diabetic mice also known as NOD mice)
+Various animal models for screening of drugs for the treatment of glaucoma
+The use of the ovariectomized rat in osteoporosis research
+Use of Plasmodium yoelii as a model of human malaria 
+Spontaneous models refer to diseases that are analogous to human conditions that occur naturally in the animal being studied. These models are rare, but informative.
+Negative models essentially refer to control animals, which are useful for validating an experimental result.
+Orphan models refer to diseases for which there is no human analog and occur exclusively in the species studied.
+The increase in knowledge of the genomes of non-human primates and other mammals that are genetically close to humans is allowing the production of genetically engineered animal tissues, organs and even animal species which express human diseases, providing a more robust model of human diseases in an animal model.
+The best models of disease are similar in etiology (mechanism of cause) and phenotype (signs and symptoms) to the human equivalent. However complex human diseases can often be better understood in a simplified system in which individual parts of the disease process are isolated and examined. For instance, behavioral analogues of anxiety or pain in laboratory animals can be used to screen and test new drugs for the treatment of these conditions in humans. A 2000 study found that animal models concorded (coincided on true positives and false negatives) with human toxicity in 71% of cases, with 63% for nonrodents alone and 43% for rodents alone.
+In 1987, Davidson et al. suggested that selection of an animal model for research be based on nine considerations. These include "1) appropriateness as an analog, 2) transferability of information, 3) genetic uniformity of organisms, where applicable, 4) background knowledge of biological properties, 5) cost and availability, 6) generalizability of the results, 7) ease of and adaptability to experimental manipulation, 8) ecological consequences, and 9) ethical implications."
+
+Behavioral sciences
+Animal models observed in the sciences of psychology and sociology are often termed animal models of behavior. It is difficult to build an animal model that perfectly reproduces the symptoms of depression in patients. Animals lack self-consciousness, self-reflection and consideration; moreover, hallmarks of the disorder such as depressed mood, low self-esteem or suicidality are hardly accessible in non-humans. However, depression, as other mental disorders, consists of endophenotypes  that can be reproduced independently and evaluated in animals. An ideal animal model offers an opportunity to understand molecular, genetic and epigenetic factors that may lead to depression. By using animal models, the underlying molecular alterations and the causal relationship between genetic or environmental alterations and depression can be examined, which would afford a better insight into pathology of depression. In addition, animal models of depression are indispensable for identifying novel therapies for depression.
+
+Challenges and criticisms
+Many animal models serving as test subjects in biomedical research, such as rats and mice, may be selectively sedentary, obese and glucose intolerant. This may confound their use to model human metabolic processes and diseases as these can be affected by dietary energy intake and exercise.
+Animal models of psychiatric illness give rise to other concerns. Qualitative assessments of behavior are too often subjective. This would lead the investigator to observe what they want to observe in subjects, and to render conclusions in line with their expectations. Also, the imprecise diagnostic criteria for psychiatric illnesses inevitably lead to problems modeling the condition; e.g., since a person with major depressive disorder may experience weight loss or weight gain, insomnia or hypersomnia, we cannot with any certainty say that a rat with insomnia and weight loss is depressed. Furthermore, the complex nature of psychiatric conditions makes it difficult/impossible to translate human behaviors and deficits; e.g., language deficit plays a major role in autistic spectrum disorders, but – since rodents do not have language – it is not possible to develop a language-impaired "autistic" mouse.
+
+Ethics
+Debate about the ethical use of animals in research dates at least as far back as 1822 when the British Parliament enacted the first law for animal protection preventing cruelty to cattle see text. This was followed by the Cruelty to Animals Act of 1835 and 1849, which criminalized ill-treating, over-driving, and torturing animals. In 1876, under pressure from the National Anti-Vivisection Society, the Cruelty to Animals Act was amended to include regulations governing the use of animals in research. This new act stipulated that 1) experiments must be proven absolutely necessary for instruction, or to save or prolong human life; 2) animals must be properly anesthetized; and 3) animals must be killed as soon as the experiment is over (see text). Today, these three principles are central to the laws and guidelines governing the use of animals and research. In the U.S., the Animal Welfare Act of 1970 (see also Laboratory Animal Welfare Act) set standards for animal use and care in research. This law is enforced by APHIS's Animal Care program see AWA policies.
+In academic settings in which NIH funding is used for animal research, institutions are governed by the NIH Office of Laboratory Animal Welfare (OLAW). At each site, OLAW guidelines and standards are upheld by a local review board called the Institutional Animal Care and Use Committee (IACUC). All laboratory experiments involving living animals are reviewed and approved by this committee. In addition to proving the potential for benefit to human health, minimization of pain and distress, and timely and humane euthanasia, experimenters must justify their protocols based on the principles of Replacement, Reduction and Refinement.
+Replacement refers to efforts to engage alternatives to animal use. This includes the use of computer models, non-living tissues and cells, and replacement of "higher-order" animals (primates and mammals) with "lower" order animals (e.g. cold-blooded animals, invertebrates, bacteria) wherever possible (list of common model organisms approved for use by the NIH).
+Reduction refers to efforts to minimize number of animals used during the course of an experiment, as well as prevention of unnecessary replication of previous experiments. To satisfy this requirement, mathematical calculations of statistical power are employed to determine the minimum number of animals that can be used to get a statistically significant experimental result. Reduction involves methods to maximize information provided while minimizing the number of animals applied.
+Refinement refers to efforts to make experimental design as painless and efficient as possible in order to minimize the suffering of each animal subject.
+While significant advances have been made in the care and treatment of animals, this is an ever-evolving debate. Animal rights and protection groups such as the ASPCA, PETA and BUAV continue to advocate for the best laboratory conditions, and experimental protocols possible for animals in research. Pressure from these groups has also led to novel modes of experimentation, which does not involve the sacrifice of live animals.
+One aspect of this debate; however, continues to be difficult to resolve: the classification of animals according to a hierarchy, which protects some species more than others. Next to humans, primates are the most protected species in experimentation. The rationale for this has both evolutionary and philosophical underpinnings. Because chimpanzees and other non-human primates can demonstrate intelligence, and social structure that they have a life experiences that is more cognitively complex than lower species. Conversely, this kind of moralizing of complexity of interaction and thought could be considered "specieisism." Ultimately, this is an argument not likely to be resolved, however most people are more comfortable with the idea of experimentation that involves worms or flies than mice, dogs, or monkeys.
+
+Alternatives
+Ethical concerns, as well as the cost, maintenance and relative inefficiency of animal research has encouraged development of alternative methods for the study of disease. Cell culture and in vitro studies provide an alternative that preserves the physiology of the living cell, but does not require the sacrifice of an animal for mechanistic studies. Human induced pluripotent stem cells can also elucidate new mechanisms for understanding cancer and cell regeneration. Imaging studies (such as MRI or PET scans) enable non-invasive study of human subjects. Recent advances in genetics and genomics can identify disease-associated genes, which can be targeted for therapies.
+
+See also
+Animal models of autism
+Animal models of schizophrenia
+Animal testing on invertebrates
+Animal testing on rodents
+Animal testing
+Britches (monkey)
+Ensembl genome database
+History of animal testing
+History of model organisms
+In vivo
+Knockout rat
+Mouse models of colorectal and intestinal cancer
+
+References
+External links
+Transgenic Animal Models – Biomedcode
+Knock Out Rat Consortium – KORC
+Emice – National Cancer Institute

@@ -1,0 +1,38 @@
+5248
+Arba'ah Turim
+Arba'ah Turim (Hebrew: אַרְבָּעָה טוּרִים), often called simply the Tur, is an important Halakhic code composed by Yaakov ben Asher ([Cologne](1462), 1270 – Toledo, Spain c. 1340, also referred to as Ba'al Ha-Turim). The four-part structure of the Tur and its division into chapters (simanim) were adopted by the later code Shulchan Aruch. This was the first book to be printed in Southeast Europe and the Near East.
+
+Meaning of the name
+The title of the work in Hebrew means "four rows", in allusion to the jewels on the High Priest's breastplate.  Each of the four divisions of the work is a "Tur", so a particular passage may be cited as "Tur Orach Chayim, siman 22", meaning "Orach Chayim division, chapter 22".  This was later misunderstood as meaning "Tur, Orach Chayim, chapter 22" (to distinguish it from the corresponding passage in the Shulchan Aruch), so that "Tur" came to be used as the title of the whole work.
+
+Arrangement and contents
+The Arba'ah Turim, as the name implies, consists of four divisions ("Turim"); these are further organised by topic and section (siman, pl. simanim).
+
+The four Turim are as follows:
+Orach Chayim - laws of prayer and synagogue, Sabbath, holidays
+Yoreh De'ah - miscellaneous ritualistic laws, such as shechita and kashrut
+Even Ha'ezer - laws of marriage, divorce
+Choshen Mishpat - laws of finance, financial responsibility, damages (personal and financial) and legal procedure
+In the Arba'ah Turim, Rabbi Jacob traces the practical Jewish law from the Torah text and the dicta of the Talmud through the Rishonim.  He used the code of Rabbi Isaac Alfasi as his starting point; these views are then compared to those of Maimonides, as well as to the [Ashkenazi](5254) traditions contained in the Tosafist literature.  Unlike Maimonides' Mishneh Torah, the Tur is not limited to normative positions, but compares the various opinions on any disputed point. (In most instances of debate, Rabbi Jacob follows the opinion of his father, Rabbi Asher ben Jehiel, the Rosh.) The Arba'ah Turim also differs from the Mishneh Torah, in that, unlike Maimonides' work, it deals only with areas of Jewish law that are applicable in the Jewish exile.
+
+Later developments
+The best-known commentary on the Arba'ah Turim is the Beit Yosef by rabbi Joseph ben Ephraim Karo: this goes beyond the normal functions of a commentary, in that it attempts to review all the relevant authorities and come to a final decision on every point, so as to constitute a comprehensive resource on Jewish law. Other commentaries are Bayit Chadash by rabbi Joel Sirkis, Darkhei Moshe by Moses Isserles, Beit Yisrael (Perishah u-Derishah) by rabbi Joshua Falk, as well as works by a number of other [Acharonim](5215). These often defend the views of the Tur against the Beit Yosef.
+The Tur continues to play an important role in Halakha.
+
+Joseph Caro's Shulchan Aruch, the fundamental work of Halakha, is a condensation of his Beit Yosef and follows the basic structure of the Arba'ah Turim, including its division into four sections and chapters - Tur's structure down to the siman is retained in the Shulchan Aruch.
+The views in the other commentaries are often relevant in ascertaining or explaining the [Ashkenazi](5254) version of Jewish law, as codified by Moses Isserles in his Mappah.
+Students of the Shulchan Aruch, particularly in Orthodox Semikhah programs, typically study the Tur and the Beit Yosef concurrently with the Shulchan Aruch itself: in some editions the two works are printed together, to allow comparison of corresponding simanim.
+
+See also
+Mishneh Torah
+Shulchan Aruch
+Mishnah Berurah
+Shulchan Aruch HaRav
+Kitzur Shulchan Aruch
+[Aruch HaShulchan](5253)
+
+References
+External links
+Arba'ah Turim, Prof. Eliezer Segal
+"Question 3.38: What is the Arba'ah Turim (The Tur, The Four Rows)?". faqs.org.
+Tur text in clear Hebrew print, TurShulchanArukh – AlHaTorah.org

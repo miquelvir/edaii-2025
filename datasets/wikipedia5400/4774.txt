@@ -1,0 +1,127 @@
+4774
+Conditional mood
+The conditional mood (abbreviated cond) is a grammatical mood used in conditional sentences to express a proposition whose validity is dependent on some condition, possibly counterfactual.
+It may refer to a distinct verb form that expresses the conditional set of circumstances proper in the dependent clause or protasis (e.g. in Turkish or Azerbaijani), or which expresses the hypothetical state of affairs or uncertain event contingent to it in the independent clause or apodosis, or both (e.g. in Hungarian or Finnish). Some languages distinguish more than one conditional mood; the East African language Hadza, for example, has a potential conditional expressing possibility, and a veridical conditional expressing certainty. Other languages  do not have a conditional mood at all . In some informal contexts, such as language teaching, it may be called the "conditional tense".
+Some languages have verb forms called "conditional" although their use is not exclusive to conditional expression. Examples are the English and French conditionals (an analytic construction in English, but inflected verb forms in French), which are morphologically futures-in-the-past, and of which each has thus been referred to as a "so-called conditional" (French: soi-disant conditionnel) in modern and contemporary linguistics (e.g. French je chanterais, from Late Latin cantāre habēbam, in si vous me le permettiez, je chanterais, "if you allowed me to do so, I would sing" so-called conditional vs. j'ai dit que je chanterais, "I said that I would sing" future-in-the-past). The English would construction may also be used for past habitual action ("When I was young I would happily walk three miles to school every day").
+This article describes the formation of the conditional forms of verbs in certain languages. For fuller details of the construction of conditional sentences, see Conditional sentence (and for English specifically, English conditional sentences).
+
+Germanic languages
+English
+English does not have an inflective (morphological) conditional mood, except in as much as the modal verbs could, might, should and would may in some contexts be regarded as conditional forms of can, may, shall and will respectively. What is called the English conditional mood (or just the conditional) is formed periphrastically using the modal verb would in combination with the bare infinitive of the following verb. (Occasionally should is used in place of would with a first person subject – see shall and will. Also the aforementioned modal verbs could, might and should may replace would in order to express appropriate modality in addition to conditionality.)
+English has three types of conditional sentences, which may be described as factual ("conditional 0": "When I feel well, I sing"), predictive ("conditional I": "If I feel well, I shall sing"), and counterfactual ("conditional II" or "conditional III": "If I felt well, I would sing"; "If I had felt well, I would have sung"; or "Were I well (if I were well) I would have sung"). As in many other languages, it is only the counterfactual type that causes the conditional mood to be used.
+Conditionality may be expressed in several tense–aspect forms. These are the simple conditional (would sing), the conditional progressive (would be singing), the conditional perfect (would have sung), and conditional perfect progressive (would have been singing). For the uses of these, see Uses of English verb forms. The conditional simple and progressive may also be called the present conditional, while the perfect forms can be called past conditional.
+For details of the formation of conditional clauses and sentences in English, see English conditional sentences.
+
+German
+In German, the following verbal constructions are sometimes referred to as conditional (German: Konditional):
+
+Konjunktiv II,  corresponds to English's present conditional. It is formed either with vowel change or with the auxiliary verb werden in its subjunctive form, plus the infinitive:
+Ich käme ("I would come")
+Ich würde kommen ("I would come")
+Konjunktiv II, Plusquamperfekt corresponds to English's past conditional. It is a form of the perfect construction, using a form of the auxiliary haben or sein (depending on the main verb) together with the past participle of the main verb. The auxiliary in this case takes past subjunctive form: hätte/st/t/n (in the case of haben) or wäre/st/t/n (in the case of sein).
+Ich hätte gesungen ("I had subjunctive sung", i.e. "I would have sung")
+Sie wären gekommen ("They were subjunctive come", i.e. "They would have come")
+For more information, see German conjugation.
+
+Dutch
+The main conditional construction in Dutch involves the past tense of the verb zullen, the auxiliary of the future tenses, cognate with English 'shall'. 
+
+Ik zou zingen 'I would sing', lit. 'I should sing' — referred to as onvoltooid verleden toekomende tijd 'imperfect past future tense'
+Ik zou gegaan zijn 'I would have gone', lit. 'I should have gone' — referred to as voltooid verleden toekomende tijd 'perfect past future tense'
+The latter tense is sometimes replaced by the past perfect (plusquamperfect).
+
+Ik was gegaan, lit. 'I had gone'
+
+Romance languages
+While Latin did not conjugate separately for the conditional (it used Imperfect Subjunctive and Pluperfect Subjunctive for present and perfect conditional respectively), most of the Romance languages developed a conditional paradigm. The evolution of these forms (and of the innovative Romance future tense forms) is a well-known example of grammaticalization, whereby a syntactically and semantically independent word becomes a bound morpheme with a highly reduced semantic function. The Romance conditional (and future) forms are derived from the Latin infinitive followed by a finite form of the verb habēre. This verb originally meant "to have" in Classical Latin, but in Late Latin picked up a grammatical use as a temporal or modal auxiliary. The fixing of word order (infinitive + auxiliary) and the phonological reduction of the inflected forms of habēre eventually led to the fusion of the two elements into a single synthetic form.
+In French, Spanish, Portuguese, Catalan and Occitan, the conditional endings come from the imperfect of Latin habēre. For example, in the first person singular:
+
+A trace of the historical presence of two separate verbs can still be seen in the possibility of mesoclisis in conservative varieties of European Portuguese, where an object pronoun can appear between the verb stem and the conditional ending (e.g. cantá-lo-ia; see Portuguese personal pronouns § Proclisis, enclisis, and mesoclisis).
+
+Italian
+Old Italian had originally three different forms of conditional:
+
+one based on infinitive + conditional endings from the perfect of Latin habēre, (Tuscan type), e.g. canterebbe - he would sing (literally from 'he had to sing');
+one based on infinitive + conditional endings from the imperfect of Latin habēre, (Sicilian/Provençal type), e.g. cantarìa (literally from 'he was having to sing');
+one derived directly from Latin pluperfect, e.g. cantàra (literally from 'he had sung').
+Only the Tuscan form survives in modern Italian:
+
+future stem canter- + Old It. preterit abbe '(s)he had' > Old It. canterabbe '(s)he would have sung' > It. canterebbe '(s)he would sing'
+The second and third types have slowly disappeared remaining until the 19th century in some poetic composition for metric needs.
+
+Romanian
+Romanian uses a periphrastic construction for the conditional, e.g. 1sg aș, 2sg ai, 3sg/pl ar, 1pl am, 2pl ați + cânta 'sing'. The modal clitic mixes forms of Latin habēre:
+
+ai, am, and ați (if not auxiliary clitics) are presumably from the Latin imperfect (*eas, eamus, eatis < habēbās, habēbāmus, habēbātis);
+ar (< older ară, are) allegedly comes from the imperfect subjunctive (3sg 'habēret and 3pl habērent); and
+aș (< older ași) continues Latin pluperfect subjunctive habessim (cf. Italian impf. subj. avessi, French eusse) which formed the basis of the Romance imperfect subjunctive.
+Old Romanian, on the other hand, used a periphrastic construction with the imperfect of vrea 'to want' + verb, e.g. vrea cânta 'I would sing', vreai cânta 'you would sing', etc. Until the 17th century, Old Romanian also preserved a synthetic conditional, e.g. cântare 'I would sing', cântarem 'we would sing', and darear 'he would give', retained from either the Latin future perfect or perfect subjunctive (or a mixture of both). Aromanian and Istro-Romanian have maintained the same synthetic conditional:
+
+Aromanian: s-cãntárimu 'I would sing', s-cãntári(și), s-cãntári, s-cãntárimu, s-cãntáritu, s-cãntári; and
+Istro-Romanian: aflår 'I would find', aflåri, aflåre, aflårno, aflåritu, aflåru.
+
+Portuguese
+In Portuguese, the  conditional is formed by the imperfect form of habēre affixed to the main verb's infinitive. However, in spoken language, the periphrastic form is also extremely common.
+
+Portuguese conditional is also called past future futuro do pretérito, as it describes both conjectures that would occur given a certain condition and actions that were to take place in the future, from a  past perspective. When the conditional has the former purpose, it imperatively comes along with a conditional subordinate clause in the past subjunctive.
+The Conditional is also one of the two Portuguese tenses which demand mesoclisis when proclisis is forbidden – since enclisis is always considered ungrammatical.
+
+Não o falaríamos/ Não te falaríamos (we would not say it/ we would not say it to you) Grammatical use of proclisis.
+Falá-lo-íamos/ Falar-te-íamos (we would say it/ we would say it to you) Grammatical use of mesoclisis.
+O falaríamos/ Te falaríamos (we would say it/ we would say it to you) Ungrammatical use of proclisis.
+Falaríamo-lo/ Falaríamo-te (we would say it/ we would say it to you) Ungrammatical use of enclisis.
+
+Spanish
+In Spanish the conditional is formed by the infinitive of the verb with a postfix, e.g. -ía, for all verbs. For irregular verbs, the stem is modified.
+
+Slavic languages
+Russian
+In Russian, the conditional mood is formed by the past tense of the verb with the particle бы, by, which usually follows the verb. For example:
+
+Я хотел петь, ja khotél pet' ("I wanted to sing")
+Я хотел бы петь, ja khotél by pet' ("I would like, lit. would want, to sing")
+This form is sometimes also called the subjunctive mood. For more information on its usage, see Russian verbs.
+
+Polish
+Polish forms the conditional mood in a similar way to Russian, using the particle by together with the past tense of the verb. This is an enclitic particle, which often attaches to the first stressed word in the clause, rather than following the verb. It also takes the personal endings (in the first and second persons) which usually attach to the past tense. For example:
+
+śpiewałem/śpiewałam ("I sang", masculine/feminine)
+śpiewał(a)bym, or ja bym śpiewał(a) ("I would sing")
+The clitic can move after conjunctions, e.g.:
+
+gdybym śpiewał ("if I sang"), forming a conditional conjunction gdyby, jeśliby is also possible here
+myślę, że by śpiewał ("I think that he would sing")
+Note that the clitic can not form a single verb with certain conjunctions, nor start the subordinate clause, as it would change the meaning to the subjunctive, e.g.
+
+chcę, żeby śpiewał or a shorter chcę, by śpiewał ("I want him to sing")
+There is also a past conditional, which also includes the past tense of the copular verb być, as in był(a)bym śpiewał(a) ("I would have sung"), but this is rarely used.
+For details see Polish verbs.
+
+Uralic languages
+Hungarian
+Hungarian uses a marker for expressing the conditional mood. This marker has four forms: -na, -ne, -ná and -né. In the present tense, the marker appears right after the verb stem and just before the affix of the verbal person. For example: 'I would sit': ül (sit) + ne + k (referring to the person I) = ülnék. (In Hungarian, when a word ends with a vowel, and a suffix or a marker or an affix is added to its end, the vowel becomes long.) When making an if-sentence, the conditional mood is used in both apodosis and the protasis:
+
+Elmennék Olaszországba, ha lenne elég pénzem. "I would go to Italy if I had enough money."
+In Hungarian, the past tense is expressed with a marker as well, but two verbal markers are never used in sequence. Therefore, the auxiliary verb volna is used for expressing the conditional mood in the past. The word volna is the conditional form of the verb van (be). The marker of past is -t/-tt, and is put exactly the same place as the marker of conditional mood in the present.
+
+Elmentem volna Olaszországba, ha lett volna elég pénzem. "I would have gone to Italy if I had had enough money."
+Expressing a future action with the conditional mood is exactly the same as the present, although an additional word referring to either a definite or indefinite time in the future is often used: majd (then), holnap (tomorrow), etc.
+
+Ha holnap ráérnék, megcsinálnám a házimat. "If I had time tomorrow, I would do my homework."
+The conditional mood is often used with potential suffixes attached to the verb stem (-hat/-het), and the two are therefore often confused.
+
+Megeheted az ebédem, ha akarod. "You can/may eat my lunch if you want to." (Not conditional)
+Megehetnéd az ebédem, ha akarnád. "You could eat my lunch if you wanted to." (Conditional with potential suffixes)
+Megehetted volna az ebédem, ha akartad volna. "You could have eaten my lunch, if you had wanted to." (Conditional with potential suffixes in the past)
+
+Finnish
+In Finnish the conditional mood is used in both the apodosis and the protasis, just like in Hungarian. It uses the conditional marker -isi-:
+
+Ostaisin talon, jos ansaitsisin paljon rahaa. "I would buy a house if I earned a lot of money."
+
+Notes
+References
+Further reading
+Aski, Janice M. 1996. "Lightening the Teacher's Load: Linguistic Analysis and Language Instruction". Italica 73(4): 473–492.
+Benveniste, E. 1968. "Mutations of linguistic categories". In Y. Malkiel and W.P. Lehmann (eds) Directions for historical linguistics, pp. 83–94. Austin and London: University of Texas Press.
+Joseph, Brian D. 1983. The synchrony and diachrony of the Balkan infinitive: a study in general, areal, and historical linguistics. Cambridge: Cambridge University Press. ISBN 0-521-27318-8.

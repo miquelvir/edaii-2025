@@ -1,0 +1,70 @@
+4700
+Chipilo Venetian dialect
+Chipilo Venetian (Venetan) or Chipileño, is a diaspora language and linguistic variant of Venetan, a Romance language belonging to the Western Romance group and native to the Veneto region of Northern Italy, spoken in Chipilo, a town in the Mexican state of Puebla.
+
+History
+Immigrants mainly from the comune of Segusino, some 60 km northwest of Venice, arrived in the region in 1868 during the Porfiriato. At that time, limited schooling and widespread illiteracy among poorer Italians made the use of the regional Italian languages predominant in both formal and informal contexts in Italy. Italians migrating to Mexico were primarily from northeastern Italy, and a large majority spoke variants of the Venetian language. Although Chipileño is very close to other Venetian dialects, it is the only Venetian dialect spoken in Mexico and can be compared to the Venetian Talian of southern Brazil, another Venetian dialect spoken by non-Italians.
+More than 100 years after the arrival of the settlers, the Venetian dialect is widespread throughout its main city and nationwide. This dialect joins other Mexican languages that lack official status, such as Euskera, Galician, Catalan, Plautdietsch, and Romani, among other unrecognized ones, which are spoken by some 6.7 million members of the Mexican population.
+The community has maintained its unique culture and language as a linguistic enclave in contact with Spanish. Although the city of Puebla has grown to include the dialect and its speakers, the city of Chipilo remained isolated for much of the 20th century. Because of this, the Chipileños, unlike other European immigrants who arrived in Mexico, did not absorb as much Mexican culture, preserving many of their traditions and their language while mixing with the culture of Mexico as well.
+The language and culture were rooted in Mexican soil due to the isolation they had from the local inhabitants, many of whom spoke the indigenous language of Nahuatl and Spanish. Over time, the language was influenced by Mexican Spanish and Nahuatl, due to its contact with other communities near the south of the City of Puebla.
+The American linguist Carolyn MacKay wrote Cipilo and Cipilegno when proposing a script for the Venetian dialect that is spoken in this locality. The writer Eduardo Montagner, who was the first to publish a novel in Chipilo Venetian, proposed that the Mexican government include this language in the catalog of minority languages, but has not yet succeeded.
+
+Chipileño Veneto orthography
+As with all languages that do not have a current written tradition, Chipileño Veneto has various issues. One of those is the problem of finding a comprehensive orthography. There have been several attempts to establish a writing system for the language spoken in Chipilo. One such system was created by Carolyn McKay, an American linguist who conducted postgraduate research at the Universidad de las Américas. Her proposed system, based entirely on the Italian alphabet, was published in a book entitled Il dialetto veneto di Segusino e Chipilo. This system has been used in some publications made by Cipiłàn/chipileños, but it has not received wide acceptance because of the striking differences between Venetian and Italian orthographic representation of phonemes. Most of the speakers use the Spanish system they learn at school, even though it does not have letters for specific sounds such as the voiced-S (written ⟨x⟩ in modern Venetan), or the θ (written ⟨th⟩ in modern Venetan), and ð (written ⟨dh⟩ in modern Venetan). Nevertheless, Eduardo Montagner Anguiano, linguist and writer from Chipilo, has developed a system based on the Spanish orthography making a diagnosis of literacy in his hometown, with street surveys, interviews at a meeting where residents were called to discuss the problem and analyzing both written texts and everyday handwritten messages in his 2006 university thesis and publishing literature with that graphic proposal. MacKay also developed a system based on the Spanish orthography, which she presents in her Spanish book "El Véneto de Segusino y Chipilo" (2017), in which she states that one of the issues of orthography development is the problem of finding one that is comprehensive. But this system was presented 24 years after publishing her book several times, a system almost identical to Montagner's, but without diagnosis or the work that Montagner and the inhabitants of Chipilo did for themselves in 2006, and she makes no reference to this in the foreword to her book, despite the existence in Chipilo of a book written entirely in ethnic language using this graphic system. She does not even mention her own analysis made years before of the Spanish based writing of the inhabitants of Chipilo in a paper he presented in Modena, Italy. Montagner found out about this study on the internet, which caused annoyance not only for him but also for the other works of locals mentioned in that study, like the group that produced the Al Nostro cultural bulletin for years, adopting Montagner's proposal. Until now, the system presented by Mackay has not produced any book or follower of his graphic proposal, so it has remained only within the academic field, which is perhaps the only reason for its existence.
+For linguists, that each sound is represented by a symbol (or letter) that distinguishes it from others is important; nevertheless, a phonetic transcription would have to use symbols that are alien to those who are not linguists. Mackay's transcription adopts a simple to use orthography which also maintains necessary distinctions, reflections that Montagner had already made precisely by opposing graphic functionality against the graphic connotation that MacKay used for years in his publications. In the graphic functionality, according to Montagner, each phoneme corresponds to the grapheme with which the speakers have been alphabetized, while the graphic connotation prioritizes other interests away from reading and writing comprehension. For these reflections, Montagner based himself on the graphematic science of Nina Catach, on Walter J. Ong, on Daniel Cassany, among others. He also had the approval and advice of the Italian linguist Flavia Ursini, co-author of the book Cent'anni di emigrazione, 1983, on which MacKay also relies for the Italian-style writing of the Chipilo language. In short, Montagner's graphic proposal came from a local who studied at the university and was discussed and read among locals who saw this proposal reflected in books, advertisements and all kinds of writings in their community 1. Apparently MacKay did not think this proposal was enough. In Chipilo an Italian-based orthography is not used, instead one based principally on Spanish is preferred. This is easier to use on a keyboard, and the familiarity of graphemes used for Spanish reduces the possibility of confusion. For example, to represent the palatal nasal /ɲ/ in the word meaning 'nothing', Italian norms require a digraph, thus gnent, whereas the Spanish system provides a uniquely interpretable single grapheme familiar to Chipileños schooled in Mexico: ñent.
+Some considerations:
+a) the grave accent is used with è and ò to indicate that the pronunciation of the vowel is open, e.g. ɛ spècho (mirror) and ɔ stòrder (twist);
+b) the acute accent is used to indicate an undetermined tonic accent
+c) ‘zh’ is used to indicate the voiceless dental fricative (θ) e.g. giazh (ice)
+d) ‘ch’ is used to represent the voiceless postalveolar affricate (t͡ʃ) e.g., chacholar (converse), ranch (spider) or schec (cheese)
+e) ‘ge’ or ‘gi’ is used for the voiced postalveolar affricate (d͡ʒ) which does not exist in Spanish orthography. Thus, Chipileño Veneto orthography follows the Italian model in this respect e.g. génderna (nit), giazh (ice), giozh (drop) or giust (right)
+f) ‘que’ or ‘qui’ represent the voiceless velar stop (k) when followed by ‘e’ or ‘i’ and with ‘c’ when followed by ‘a’, ‘o’, and ‘u’. This follows the Spanish model e.g. quizha (glandular inflammation), cavar su (tear), bianc (white)
+g) ‘gue’ and ‘gui’ represent the voiced velar stop (ɡ) when followed by ‘e’ and ‘i’ and ‘g’ when followed by ‘a’, ‘o’, and ‘u’ e.g. guirla (swirl), galozhada (kick), góder (enjoy), guzá (sharp)
+h) represents the semiconsonant (j/y) when it is in a clear consonantal position e.g. yozha (drop), it does not form part of a diphthong.
+
+Vowels
+Consonants
+Phonology
+Chipileño has 21 consonants, one more consonant (/x/) than in Segusino Venetan. The consonants in IPA (International Phonetic Alphabet) are the following:
+
+Furthermore, there is no longer the opposition between /b/ and /v/ between the younger generations of speakers due to the influence of Spanish.
+
+Grammar
+Chipilo Venetan follows the common word order of Romance languages, subject-verb-object. This is used in common declarative clauses, although the subject after the verb is common as well. Nonetheless, the language presents SVO order as the least marked and most common.
+Articles are divided into definite and indefinite. The definite articles of this variant are:
+
+al "the" (masculine singular)
+i "the" (masculine plural)
+la "the" (feminine singular)
+le "the" (feminine plural).
+Indefinite articles are:
+
+an "a", (masculine singular)
+ni "some" (masculine plural)
+na "a", or 'some' (feminine singular and plural).
+The independent personal pronouns in Chipileño have their own accent. These are:
+
+me "I"
+tí "you" (informal)
+vú "you" (formal)
+lú "he" (informal)
+éla "her" (formal)
+nuatri "we" (formal)
+nuatre "us" (formal)
+vuatri "you" (masculine plural)
+vuatre "you" (feminine plural)
+luri "they" (plural)
+ele "them" (plural).
+
+Literature
+The novel Al prim (The first), written by Eduardo Montagner Anguiano, is the first prose book written in Veneto Chipileño. With this work, great steps have been taken in the graphization of a minority language that was in the process of disappearing. Montagner also writes poetry in Chipileño. In 2010, he published Ancora fon ora, a compilation of his stories and poems in Chipileño.
+
+See also
+Italian Mexican
+Talian dialect (Brazilian Venetian)
+Venetian language
+Italian Immigration to Mexico
+
+References
+External links
+(in Spanish) El dialecto véneto de Chipilo (Chipilo Venetan dialect) by Eduardo Montagner

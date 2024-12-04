@@ -1,0 +1,195 @@
+4653
+Blackfoot language
+The Blackfoot language, also called Siksiká ( SIK-sə-kə; Blackfoot: sɪksiká, ᓱᖽᐧᖿ) is an Algonquian language spoken by the Blackfoot or Niitsitapi people, who currently live in the northwestern plains of North America. There are four dialects, three of which are spoken in [Alberta](3213), [Canada](1956), and one of which is spoken in the [United States](1100): Siksiká / ᓱᖽᐧᖿ (Blackfoot), to the southeast of Calgary, [Alberta](3213); Kainai / ᖿᐟᖻ (Blood, Many Chiefs), spoken in [Alberta](3213) between Cardston and Lethbridge; Aapátohsipikani / ᖳᑫᒪᐦᓱᑯᖿᖹ (Northern Piegan), to the west of Fort MacLeod which is Brocket (Piikani) and Aamsskáápipikani / ᖳᐢᔈᖿᑯᑯᖿᖹ (Southern Piegan), in northwestern Montana. The name Blackfoot probably comes from the blackened soles of the leather shoes that the people wore.
+
+There is a distinct difference between Old Blackfoot (also called High Blackfoot), the dialect spoken by many older speakers, and New Blackfoot (also called Modern Blackfoot), the dialect spoken by younger speakers. Among the [Algonquian languages](4624), Blackfoot is relatively divergent in phonology and lexicon. The language has a fairly small phoneme inventory, consisting of 11 basic consonants and three basic vowels that have contrastive length counterparts. Blackfoot is a pitch accent language. Blackfoot language has been declining in the number of native speakers and is classified as either a threatened or endangered language, depending on the source used.
+Like the other [Algonquian languages](4624), Blackfoot is considered to be a polysynthetic language due to its large morpheme inventory and word internal complexity. A majority of Blackfoot morphemes have a one–to–one correspondence between form and meaning, a defining feature of agglutinative languages. However, Blackfoot does display some fusional characteristics as there are morphemes that are polysemous. Both noun and verb stems cannot be used bare but must be inflected. Due to its morphological complexity, Blackfoot has a flexible word order.
+The Blackfoot language has experienced a substantial decrease in speakers since the 1960s and is classified as "definitely endangered" by the UNESCO Atlas of the World's Languages in Danger. In [Canada](1956), this loss has been attributed largely to residential schools, where Indigenous students were often punished severely for speaking their first languages. Widespread language loss can also be attributed to the Sixties Scoop, through which thousands of Indigenous children were taken from their families, often without parental consent, and relocated by the government into non-Indigenous families. As a result of these losses, the Blackfoot community has launched numerous language revitalization efforts, include the Piikani Traditional Knowledge Services and many more.
+
+Language variations
+Pied Noir
+Pied-Noir is an alternate name for the Blackfoot tribe. The exact translation is 'black foot' in French.
+Other 
+Siksikáíʼpowahsin (syllabics: ᓱᘁᓱᘁᖳᐟᑲᖷᑊᓱᐡ) and Niitsipowahsin (ᖹᐨᓱᑲᖷᑊᓱᐡ) are two other language variations for Blackfoot.
+
+Classification
+Blackfoot is a member of the Algonquian language family belonging to the Plains areal grouping along with Arapaho, Gros Ventre, and Cheyenne. Blackfoot is spoken in Northwestern Montana and throughout [Alberta](3213), [Canada](1956), making it geographically one of the westernmost [Algonquian languages](4624).
+
+History
+The Blackfoot people had been one of many Native American nations that inhabited the Great Plains west of the Mississippi River. The people were bison hunters, with settlements in what is now the northern [United States](1100) and southern [Canada](1956). Forced to move because of wars with neighboring tribes, the Blackfoot people settled all around the plains area, eventually concentrating in what is now Montana and [Alberta](3213). Blackfoot hunters would track and hunt game, while the remaining people would gather food, and other necessities for the winter. The northern plains, where the Blackfoot settled, had incredibly harsh winters, and the flat land provided little escape from the winds. The Blackfoot Nation thrived, along with many other native groups, until the European settlers arrived in the late eighteenth century. The settlers brought with them horses and technology, but also disease and weapons. Diseases like smallpox, foreign to the natives, decimated the Blackfoot population in the mid-nineteenth century. Groups of Blackfoot people rebelled against the Europeans, such as Mountain Chief's tribe. But in 1870, a tribe of peaceful Blackfoot were mistaken for the rebellious tribe and hundreds were slaughtered. Over the next thirty years, settlers had eradicated the bison from the Great Plains. This took away the main element of Blackfoot life and the people's ability to be self-sustaining. With their main food source gone, the Blackfoot were forced to rely on government support.
+In 1886, the Old Sun Residential School opened on the Blackfoot Reserve in [Alberta](3213). In 1908, it was described by an official survey as "unsanitary" and "unsuitable in every way for such an institution". Regardless, it remained operational until its closure in 1971. Dozens of Blackfoot children died while attending. The school was rife with physical, sexual, and psychological abuse, which left a lasting impact on the Blackfoot children who attended. The trauma endured by students, as well as the subsequent repression of their Indigenous language and culture, has been credited, in part, with the loss in the number of Blackfoot speakers.
+
+Phonology
+Consonants
+Blackfoot has nineteen consonants, of which all but /ʔ/, /x/, /j/ and /w/ form pairs distinguished by length. One of the two affricates /k͡s/ is unusual for being heterorganic. Blackfoot has several allophones, ç is a allophone of /x/.
+
+Vowels
+Monophthongs
+Blackfoot has a vowel system with three monophthongs, /i o a/.
+
+The short monophthongs exhibit allophonic changes as well. The vowels /a/ and /o/ are raised to ʌ and ʊ respectively when followed by a long consonant. The vowel /i/ becomes ɪ in closed syllables.
+
+Diphthongs
+There are three additional diphthongs in Blackfoot. The first diphthong ai is pronounced ɛ before a long consonant, ei (or ai, in the dialect of the Blackfoot Reserve) before /i/ or /ʔ/, and elsewhere is pronounced æ in the Blood Reserve dialect or ei in the Blackfoot Reserve dialect. The second diphthong ao is pronounced au before /ʔ/ and ɔ elsewhere. The third diphthong oi may be pronounced y before a long consonant and as oi elsewhere.
+
+Length
+Length is contrastive in Blackfoot for both vowels and consonants. Vowel length refers to the duration of a vowel and not a change in quality. The vowel /oo/ is therefore the same sound as /o/ only differing in the length of time over which it is produced.
+
+Consonants can also be lengthened with the exception of  /ʔ/, /x/, /j/ and /w/.
+
+Pitch accent
+Blackfoot is a pitch accent language and it is a contrastive feature in the language. Every word will have at least one high pitched vowel or diphthong but may have more than one. Note that high pitch here is used relative to the contiguous syllables. Blackfoot utterances experience a gradual drop in pitch therefore if an utterance contains a set of accented vowels the first will be higher in pitch than the second but the second will be higher in pitch than the syllables directly surrounding it. Pitch is illustrated in the Latin-based orthography with an acute accent.
+
+Phonological rules
+Blackfoot is rich with morpho-phonological changes. Below is a limited sample of phonological rules.
+
+Semi-vowel loss
+Glides are deleted after another consonant, except a glottal stop, or word initially but kept in other conditions.
+
+Accent spread
+Accent will spread from an accented vowel to the following vowel across morpheme boundaries.
+
+Vowel devoicing
+At the end of a word, non-high pitched vowels are devoiced, regardless of length.
+
+Grammar – general
+Lexical categories
+Lexical categories in Blackfoot are a matter of debate in the literature, with the exception of nouns and verbs. Additional proposed categories, proposed by Uhlenbeck, are adjectives, pronouns, adverbs, and particles. Taylor classifies the Blackfoot language as having two major classes, substantives (nouns and pronouns) and verbs, with one minor class consisting of particles. Frantz classifies adjectives and adverbs as affixes but not independent classes.
+
+Agreement
+Agreement morphology is extensive in Blackfoot and agreement morphemes are often fusional, i.e. animacy and number (nouns) or person and number (verbs) are indicated within the same affix.
+
+[Animacy](4333)
+All nouns are required to be inflected for animacy and are classified as either animate or inanimate. Verbs are inflected to match the animacy of its arguments. [Animacy](4333) in Blackfoot is a grammatical construct for noun classification. Therefore, some semantically inherently inanimate objects, such as drums and knives are grammatically animate.
+Verbs are marked with a transitivity marker which must agree with the animacy of its arguments. Even in stories in which grammatically inanimate objects are markedly anthropomorphized, such as talking flowers, speakers will not use animate agreement markers with them.
+
+Number
+All nouns are required to be inflected as either singular or plural. Verbal inflection matches the number of its arguments.
+
+Person marking
+Blackfoot has five grammatical persons – first, second, third (proximate), fourth (obviative), and fifth (sub-obviative).
+
+Word order
+Word order is flexible in Blackfoot. Subjects are not required to precede the verb. Independent noun phrases may be included but these are typically dropped in Blackfoot. Due to the extensive person inflection on the verb they are not necessary for interpreting the meaning of the utterance. However, if first or second person pronouns are present it yields an emphatic reading. There is an ordering restriction if the Distinct Third Person (DTP) attached pronoun /-aawa/ is used in which the subject independent noun phrase must occur before the verb. If the independent noun phrase occurs after the verb then the DTP may not be used.
+
+Subjecthood
+Blackfoot nouns must be grammatically particular in order to be a subject of a verb. In transitive constructions the subject must be volitional to be interpreted as subject.
+
+Person hierarchy
+It has been asserted that Blackfoot, along with other [Algonquian languages](4624), violates the Universal Person Hierarchy in verb complexes by ranking second person over first person. The hierarchy has traditionally been published as 2nd person > 1st person > 3rd person (proximate) > 4th person (obviative). However, alternative analyses of Blackfoot person hierarchy have been published that suggest the Universal Person Hierarchy is applicable to Blackfoot.
+
+Verbal structure
+The Blackfoot verbal template contains a stem with several prefixes and suffixes. The structure of the verb stem in Blackfoot can be roughly broken down into the pre-verb, the root, the medial, and the final. The root and final are required elements.
+Generally, information encoded in the pre-verb can include adverbs, most pronouns, locatives, manners, aspect, mood, and tense. Incorporated objects appear in the medial. The final includes transitivity and animacy markers, and valency markers.
+
+Grammar – nouns
+Agreement morphology
+Noun classes are split based on grammatical gender into two categories: animate and inanimate. Additionally, all nouns must be marked for number. Number agreement suffixes attach to noun stems and take four forms, as shown in the table below.
+
+Proximate and obviative
+When a sentence contains two or more particular animate gender nouns as arguments proximate (major third person/3rd) and obviative (minor third person/4th) markings are used to disambiguate. There may only be one proximate argument in any given sentence but multiple obviates are permissible. Proximate arguments are more prominent in discourse. Redirectional markers, referred to as inverse and direct theme in the literature, can be applied to indicate that the fourth person is the subject argument.
+
+Particularity/referentiality
+Blackfoot nouns must be grammatically particular, according to Frantz (2009), in order to be a subject of a verb. To be the subject of any verb in Blackfoot the noun must point to a specific referent in the world. In transitive constructions the subject must also be volitional to be interpreted as subject. If the subject of a transitive verb is non-specific or non-volitional then the verb must be inflected as having an unspecified subject.
+
+Grammar – verbs
+Verbal morphology template
+There are four verb categories in Blackfoot: intransitive inanimate, intransitive animate, transitive inanimate, and transitive animate. The parameters of transitivity and animacy for verb selection are typically referred to as stem agreement in order to delineate it from person agreement. The animacy for intransitive verbs is determined by the subject of the verb whereas the transitive verbs are defined by the animacy of their primary object.
+The only required component of a clause in Blackfoot is the verb, referred to as a verbal complex in the Algonquian literature, that must be appropriately inflected according to the standard template:		 	
+
+preverb – root – medial – final
+Preverbs are prefixes which encode adverbs, most pronouns, locatives, manners, aspect, mood, and tense. Medials are suffixes which primarily encode manner and incorporated objects. Finals are suffixes which encode transitivity, animacy, and valency. Roots and finals are always required in a verbal complex whereas preverb and medials are not.
+
+Inverse and direct theme
+When there are two animate arguments acting in a transitive animate verb stem one of the arguments must be acting on the other. Which argument is the actor (subject) and which is the acted upon (object) is indicated by the use of direct or inverse theme marking. If a subject argument is higher than the object argument on the person hierarchy then the direct suffix is used. Conversely, when an object outranks the sentences subject then the inverse suffix is used.
+
+Direct
+
+Inverse
+
+Voice and valency
+Blackfoot voice alterations occur as suffixes on the verb and fall into the category of finals. Finals can include causative, benefactive, reciprocal, and reflexive affixes that either decrease or increase the valency of the stem they are attached to. Below is an example of the reflexive final suffix. It can only be added to a transitive animate stem and results in an animate intransitive stem. This is then interpreted as being a reflexive verb, where the subject of the AI (animate intransitive) stem is understood to be both the underlying subject and object of the original verb stem.
+
+Relative clauses
+Relative clauses are rare in Blackfoot but they do occur. In order to embed a clause, it needs to be nominalized first. The reclassification strategy for nominalization is displayed here followed by a relative clause that uses a nominal formed by this strategy. Reclassification is done by adding nominal inflection to the verb stem instead of person inflection. This derived form then refers to the underlying subject and agrees in both number and animacy.
+
+Examples below show how a reclassified nominalized clause is used in a relative clause. Note the nominal agreement morphology on the verb matches the subject, singular and plural, respectively.
+
+Orthography
+Latin-based orthography
+The Siksiká, Kainai, and Aapátohsipikani reserves adopted a standardized roman-based orthography in 1975. The Blackfoot alphabet consists of 13 letters: ⟨a, h, i, k, m, n, o, p, s, t, w, y⟩, and a glottal stop (ʼ).
+
+Two digraphs are also used: ts ⟨ts⟩ and ks ⟨ks⟩.
+
+Vowels can be marked with an acute accent or underlined to illustrate pitch accent. Vowels and consonants that are long are written with a double letter (aa = ⟨aː⟩).
+
+Syllabic writing system
+A syllabics script, ᑯᖾᖹ ᖿᐟᖻ ᓱᖽᐧᖿ piikani kainai siksika, was created by Anglican missionary John William Tims around 1888, for his Bible translation work. Although conceptually nearly identical to Western Cree syllabics, the letter forms are innovative. Two series (s, y) were taken from Cree but given different vowel values; three more (p, t, m) were changed in consonant values as well, according to the Latin letter they resembled; and the others (k, n, w) were created from asymmetrical parts of Latin and Greek letters; or in the case of the zero consonant, possibly from the musical notation for quarter note. The Latin orientation of the letters is used for the e series, after the names of the Latin letters, pe, te, etc.
+
+The direction for each vowel is different from Cree, reflecting Latin alphabetic order. The e orientation is used for the diphthong /ai/. Symbols for consonants are taken from the consonant symbol minus the stem, except for diphthongs (Ca plus ⟨ᐠ⟩ for Cau, and Ca plus ⟨ᐟ⟩ for Coi, though there are also cases of writing subphonemic ai, ei, eu with these finals).
+
+There are additional finals: allophones ⟨ᑊ⟩ h and ⟨ᐦ⟩ x, and three medials: ⟨ᖿᐧ⟩ ksa, ⟨ᒣᐧ⟩ tsa, ⟨ᖿᑉ⟩ kya, ⟨ᖿᙿ⟩ kwa.
+⟨᙮⟩ is used for a period.
+Also, sometimes it is written in Latin letters but with different spelling on computers because not all computers support the letters used in the Blackfoot language.
+
+Literature
+John Tims was an Anglican clergyman with the Church Missionary Society. He was at Blackfoot reserve from 1883 to 1895. Tims translated parts of the Bible into Blackfoot. Selections from Matthew were published by the Church Missionary Society Mission Press in 1887. The Gospel of Matthew was published by the British and Foreign Bible Society in 1890, and other portions of Scripture were published as Readings from the Holy Scriptures by the Society for Promoting Christian Knowledge in 1890. He used both Roman script and a Canadian Aboriginal syllabics script. The Gospel of Mark was translated by Donald G. Frantz and Patricia Frantz, and published by Scriptures Unlimited, a joint venture of the New York Bible Society (later called Biblica) and the World Home Bible League (later called the Bible League) in 1972. The Gospel of John was Translated by Wycliffe Bible Translators and Blackfoot people and published by the Canadian Bible Society in 1979.
+
+Causes of endangerment
+Negative attitude towards Blackfoot is the primary reason for endangerment. Most children were discouraged from speaking the minority language in schools or public places. Children were often beaten for speaking their native language and were sent home. Teachers were very ashamed when their students spoke their native language.
+
+Vitality
+According to the UNESCO Factor 1: Intergenerational Transmission, Blackfoot is classified under severely endangered. It is predicted that Blackfoot is used mostly by the grandparental generation and up. In fact, there are no more than 1500 native speakers, most of whom are likely over the age of 50. Due to the lack of speakers, the language will likely be extinct within the next 40 years. Once older people pass away, no one will be speaking Blackfoot unless something changes.
+According to the UNESCO Factor 9: Amount and Quality of Documentation, there may be adequate grammar or sufficient amount of grammar, dictionaries, and texts. For example, a secondary documentation exists today, Blackfoot Dictionary of Stems, Roots and Affixes, 3rd Edition (2017), written by Donald G. Frantz and Norma Jean Russell. The newest edition includes more than 1,000 new entries, major additions to verb stems, contains more than 5,500 Blackfoot–English entries, and an English index of more than 6,000 entries. The transcription uses an official, technically accurate alphabet and the authors of this book have classified entries and selected examples based on more than 46 years of research. This book is comprehensive and includes enough information for those who wish to learn Blackfoot and for those who have an interest in Native Studies and North American linguistics.
+
+Revitalization efforts
+In the late 1900s, many tribes began a surge of revitalization efforts to encourage cultural awareness of indigenous customs and traditions. Of these, the Blackfoot revitalization effort has proven to be quite successful, producing various institutions, including a college dedicated to preserving and promoting Blackfoot traditions. Today, there are head-start programs in primary and secondary schools on the reservation to teach even infants and toddlers about the history of the tribe from an early age.
+
+The Piegan Institute
+In 1987, Dorothy Still Smoking and Darrell Robes Kipp founded the Piegan Institute, a private 501(c)(3) non-profit foundation in Montana dedicated to researching, promoting, and preserving the Native American Languages, particularly the Blackfoot language. Piegan Institute founded Nizipuhwahsin (also Nizi Puh Wah Sin or Niitsípuwahsin or Cuts Wood) School in 1995 as a Blackfoot language K–8 immersion school. Since its inception the school has grown and relocated to the center of Browning, Montana, in a custom-built schoolhouse. Recently, some of the school's first graduates have returned to teach the newest generation the Blackfoot language.
+
+Blackfeet Community College
+Blackfeet Community College (BCC), founded in 1974, is a two-year, nationally accredited college that was made possible by the Indian Education Act of 1972 and the 1964 Act enacted by the Office of Economic Opportunity. BCC is a member of both the American Indian Higher Education Consortium and the American Indian Science and Engineering Society (AISES). It allows teenagers and adults alike to take classes in a wide range of subjects, from classes in Psychology and Digital Photography to classes on Blackfoot language and tradition. They have beginning Blackfoot language classes with labs for members and non-members of the community to learn the language.
+
+Chief Mountain Technologies
+In order to create jobs for the Blackfoot people with real-world applications, the Blackfeet Tribal Business Council launched a company called Chief Mountain Technologies in 2009. This company gives tribal members the opportunity to work in the fields of computer science and business in Browning, Montana, on behalf of various government organizations. The establishment of this company in the Blackfoot community allows the people to use their culture and their language in the modern world while maintaining their traditions.
+
+Radio programming in Blackfoot
+Radio station KBWG in Browning, Montana, broadcasts a one-hour show for Blackfoot language learners four times a week. The Voice of Browning, Thunder Radio, FM 107.5, or Ksistsikam ayikinaan (literally 'voice from nowhere') went live in 2010, and focuses on positive programming. In 2011, John Davis, a 21-year-old Blackfeet Community College student explained, "I was the first Blackfeet to ever talk on this radio", Davis said. "This is my coup story." A story in the Great Falls Tribune noted, "When the station was replaying programming that originated elsewhere, the radio was all 'tear in my beer' and 'your cheatin' heart.' They called it the suicide station for its depressing old country themes ..." The station's offerings have now expanded beyond country to include AC/DC and Marvin Gaye, and "on-the-air jokes they would never hear on a Clear Channel radio station, such as: 'The captain is as cool as commodity cheese.'"
+"So far we have broadcasting Monday through Friday from around 6:30, Indian time", quipped station manager Lona Burns, "to around 11, Indian time." ... "It's Indian radio", agreed Running Crane. "Where else can you hear today's hits with traditional music?"
+
+Canadian government support
+The Canadian government has provided support for the languages through funds and other financial resources. According to James Moore, the former Minister of Canadian Heritage and Official Languages, "the Government of [Canada](1956) is committed to the revitalization and preservation of Aboriginal languages." The funding was put to use in the form of digital libraries containing interviews with native speakers, online courses, and various other resources in the hopes of promoting Blackfoot language and passing it down to subsequent generations. On top of both of these government efforts, the Canadian Government has also provided over $40,000 through the Aboriginal Languages Initiative Fund to promote the use of Aboriginal languages in community and family settings.
+In 2019 the Canadian government announced their investment of over $1.5 million towards supporting Indigenous languages in Southern [Alberta](3213). Eleven out of seventeen projects approved for funding focus on revitalization of the Blackfoot language and include efforts such as language classes, illustrated workbooks, graphic novels, a video game, and a mobile app.
+In addition to federal funding, the Blackfoot language is also supported through [Alberta](3213)'s Indigenous Languages in Education grant program. This program offers up to $285,000 annually towards the development of Indigenous language training, programs, and curricula for instructors between Kindergarten and Grade 12, and an additional $50,000 annually towards development of new resources for Indigenous language teaching and learning.
+
+Piikani Traditional Knowledge Services
+Piikani Traditional Knowledge Services serve the Piikani Nation as the first stop in understanding the development of meaningful relationships with the Indigenous Nation. Their vision is to enhance, preserve, protect, and be keepers of the Piikani culture, language, spirituality, songs, customs, and history. This program is committed to sustaining and preserving Piikanisinni, the way of life of the Piikani, that identifies characteristic values, principles, and integrity maintained from ancient Piikani culture and practices. The program includes Piikanissi cultural education and training, Piikanissini cultural mobilization, Piikanissini data management, and provides resources that promote Piikanissini. This program is community-based and focuses on keeping the Blackfoot culture and language alive.
+
+References
+Bibliography
+Further reading
+Aikhenvald, Alexandra Y. 2007. "Typological distinctions in word-formation." Language Typology and Syntactic Description: Vol 3, ed. by T. Shopen, 1–65. Cambridge: Cambridge University Press.
+Armoskaite, Solveiga. 2011. The destiny of roots in Blackfoot and Lithuanian. PhD Dissertation, University of British Columbia.
+Bortolin, Leah and Sean McLennan (1995). "Blackfoot". University of Calgary, [Alberta](3213). Retrieved 2017-04-16.
+Frantz, Donald G. "The Blackfoot Language". Lethbridge, [Alberta](3213), University of Lethbridge. Archived from the original on 2015-01-10. Retrieved 2017-04-16.
+Frantz, Donald G. (1999). "The Sounds of Blackfoot". Lethbridge, [Alberta](3213), University of Lethbridge. Archived from the original on 2007-05-23. Retrieved 2007-04-11.
+Gibson, Karen B. (2003). The Blackfeet: People of the Dark Moccasins. Mankato, Minnesota: Bridgestone Books. ISBN 978-0736815659.
+Hammarström, Harald; Robert Forkel; Martin Haspelmath, eds. (2017). "Glottolog 3.0". Jena, Germany: Max Planck Institute for the Science of Human History.
+Thomason, Sarah Grey (2015). Endangered Languages: An Introduction. Vol. 166. Cambridge, England: Cambridge University Press.
+
+External links
+
+Piegan Institute
+Blackfoot Language Group, University of Montana
+Don Frantz's page on the Blackfoot language
+Blackfoot – English Dictionary: from *Webster's Online Dictionary – The Rosetta Edition.
+Blackfeet Language at Saokio Heritage
+Blackfoot Digital Library.org
+Biblical online study material (articles, publications, audio and video files) in Blackfoot language by Jehovah's Witnesses
+Tribal immersion schools rescue language and culture
+Teacher on use of Nintendo for Siksika instruction
+OLAC resources in and about the Siksika language
+Stocken, Harry W.G.: First ten chapters of St. Matthew's Gospel = ᖳᐦᓱᒧᐧᖹᖽᐧᖹ ᒉᒧᔭ ᖲᐨᓱᖻᐟᑊᑯ (Akhsitsiniksini Matiyo otsinaihpi). Toronto?, 1888 (Peel 1755)
+http://www.endangeredlanguages.com/profile/15784/contributions
+http://www.piikanitks.org/ptks-programs---services.html

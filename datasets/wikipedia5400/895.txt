@@ -1,0 +1,66 @@
+895
+Comma operator
+In the C and [C++](640) programming languages, the comma operator (represented by the token ,) is a binary operator that evaluates its first operand and discards the result, and then evaluates the second operand and returns this value (and type); there is a sequence point between these evaluations.
+The use of the comma token as an operator is distinct from its use in function calls and definitions, variable declarations, enum declarations, and similar constructs, where it acts as a separator.
+
+Syntax
+The comma operator separates expressions (which have value) in a way analogous to how the semicolon terminates statements, and sequences of expressions are enclosed in parentheses analogously to how sequences of statements are enclosed in braces: (a, b, c) is a sequence of expressions, separated by commas, which evaluates to the last expression c, while {a; b; c;} is a sequence of statements, and does not evaluate to any value. A comma can only occur between two expressions – commas separate expressions – unlike the semicolon, which occurs at the end of a (non-block) statement – semicolons terminate statements.
+The comma operator has the lowest precedence of any C operator, and acts as a sequence point. In a combination of commas and semicolons, semicolons have lower precedence than commas, as semicolons separate statements but commas occur within statements, which accords with their use as ordinary punctuation: a, b; c, d is grouped as (a, b); (c, d) because these are two separate statements.
+The comma operator has been deprecated in subscripting expressions (as of [C++](640)20); to reduce confusion, and open up the future possibility of repurposing the syntax for multidimensional array indexing. In [C++](640)23, the ability to overload operator with multiple arguments was added making unparenthesised comma expressions unusable in subscripts. The comma operator is still usable and not deprecated in this context if the comma expression is surrounded by parentheses (as in a(b,c)).
+
+Examples
+In this example, the differing behavior between the second and third lines is due to the comma operator having lower precedence than assignment.  The last example differs as well since the return expression must be fully evaluated before the function can return.
+
+Uses
+The comma operator has relatively limited use cases. Because it discards its first operand, it is generally only useful where the first operand has desirable side effects that must be sequenced before the second operand. Further, because it is rarely used outside of specific idioms, and easily mistaken with other commas or the semicolon, it is potentially confusing and error-prone. Nevertheless, there are certain circumstances where it is commonly used, notably in for loops and in SFINAE. For embedded systems which may have limited debugging capabilities, the comma operator can be used in combination with a macro to seamlessly override a function call, to insert code just before the function call.
+
+For loops
+The most common use is to allow multiple assignment statements without using a block statement, primarily in the initialization and the increment expressions of a for loop. This is the only idiomatic use in elementary C programming. In the following example, the order of the loop's initializers is significant:
+
+An alternative solution to this problem in other languages is parallel assignment, which allows multiple assignments to occur within a single statement, and also uses a comma, though with different syntax and semantics. This is used in Go in its analogous for loop.
+Outside of for loop initializers (which have a special use of semicolons), the comma might be used instead of a semicolon, particularly when the statements in question function similarly to a loop increment (e.g. at the end of a while loop):
+
+Macros
+The comma can be used in preprocessor macros to perform multiple operations in the space of a single syntactic expression.
+One common use is to provide custom error messages in failed assertions. This is done by passing a parenthesized expression list to the assert macro, where the first expression is an error string and the second expression is the condition being asserted. The assert macro outputs its argument verbatim on an assertion failure. The following is an example:
+
+Output:
+
+i = 0
+i = 1
+i = 2
+i = 3
+i = 4
+assert: assert.c:6: test_assert: Assertion `( "i is too big!", i <= 4 )' failed.
+Aborted
+
+However the assert macro is usually disabled in production code, so use it only for debug purposes.
+
+Condition
+The comma can be used within a condition (of an if, while, do while, or for) to allow auxiliary computations, particularly calling a function and using the result, with block scoping:
+
+A similar idiom exists in Go, where the syntax of the if statement explicitly allows an optional statement.
+
+Complex return
+The comma can be used in return statements, to assign to a global variable or out parameter (passed by reference). This idiom suggests that the assignments are part of the return, rather than auxiliary assignments in a block that terminates with the actual return. For example, in setting a global error number:
+
+This can be written more verbosely as:
+
+Avoid a block
+For brevity, the comma can be used to avoid a block and associated braces, as in:
+
+instead of:
+
+Other languages
+In the OCaml and Ruby programming languages, the semicolon (";") is used for this purpose. JavaScript and Perl utilize the comma operator in the same way C/[C++](640) does. In Java, the comma is a separator used to separate elements in a list in various contexts. It is not an operator and does not evaluate to the last element in the list.
+
+See also
+Sequence point
+Operators in C and [C++](640)
+Operator (programming)
+
+References
+Bibliography
+External links
+"Effect of using a comma instead of a semi-colon in C and [C++](640)", Stack Overflow
+Boost.Assignment – facility from the Boost library that makes it easy to fill containers by overloading the comma operator

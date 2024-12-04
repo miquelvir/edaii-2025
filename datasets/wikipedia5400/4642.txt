@@ -1,0 +1,86 @@
+4642
+Babine-Witsuwitʼen language
+Babine–Witsuwitʼen or Nadotʼen-Wetʼsuwetʼen is an Athabaskan language spoken in the Central Interior of British Columbia. Its closest relative is Carrier. Because of this linguistic relationship together with political and cultural ties, Babine–Witsuwitʼen is often referred to as Northern Carrier or Western Carrier. Specialist opinion is, however, that it should be considered a separate, though related, language (Kari 1975, Story 1984, Kari and Hargus 1989).
+A term used briefly in the 1990s is Bulkley Valley – Lakes District Language, abbreviated BVLD. Ethnologue uses the bare name Babine for the language as a whole, not just for the Babine dialect.
+As its name suggests, Babine–Witsuwitʼen consists of two main dialects: 
+
+"Babine/Nedut'en" spoken by the Babine (Nadot'en) around Babine Lake, Trembleur Lake, and Takla Lake, and
+"Witsuwitʼen" spoken by the Wet'suwet'en ("People of the Wet'sinkwha / Wa Dzun Kwuh River, i.e. Bulkley River", literally: "People of the blue and green River") in the Bulkley Valley, around Broman Lake, and in the vicinity of Skins Lake.
+The two dialects are very similar and are distinguished primarily by the fact that in Babine but not in Witsuwitʼen the Athabaskan front velar series have become palatal affricates.
+Like most languages native to British Columbia, Babine–Witsuwitʼen is an endangered language. It is spoken by a minority of the population, primarily elders.  There are 161 fluent and 159 partial speakers of the Babine dialect and 131 fluent and 61 partial speakers of the Witsuwitʼen dialect. At most, a handful of children are still speaking the language.
+
+Classification
+Babine-Witsuwitʼen is classified as Northern Athabaskan, in the same linguistic subgrouping as Dakelh and Chilcotin (though the latter is far more distinctly separate from Babine-Witsuwitʼen).
+Several non-specialist sources (the First Peoples' Heritage Language and Culture Council, the British Columbia Ministry of Education, and the University of British Columbia Museum of Anthropology) classify Witsuwitʼen as one language and Babine as a distinct language, either on its own or together with Carrier proper under the name Dakelh. Experts on the languages reject this classification. All agree that the differences between Babine and Witsuwitʼen are small and that the major split is between Babine and Witsuwitʼen on the one hand and Carrier proper on the other hand. The distinction is because speakers of Babine and of Carrier proper call themselves and their language Dakelh but that speakers of Witsuwitʼen do not.
+
+Writing system
+Phonology
+Consonants
+Witsuwitʼen
+Witsuwitʼen has 35 consonants. Aspirated and ejective labials are rarer than other consonants.
+
+The ejective consonants are lenis and may be perceived as voiced; see neighboring Gitxsan language for a similar situation.
+
+Babine
+Vowels
+Witsuwitʼen and Babine both have six underlying vowels in its inventory.
+
+Grammar
+Lexical categories
+Witsuwitʼen lexical categories include nouns, verbs, adjectives, and postpositions. Directional terms are considered to be a lexical group in Witsuwitʼen found throughout lexical categories.
+
+Nouns
+Witsuwitʼen nouns are only inflected for possession, and no case marking exists in Witsuwitʼen. Possessive morphology takes different forms depending on whether the referent is alienable or inalienable.
+
+Because trap bait is an alienable entity which need not be possessed by anyone/anything, it does not include any possessive morphology but stands alone in its bare form. In contrast, brother is an inalienable entity; a brother cannot exist without someone else to be in relation to. Thus, brother requires possessive morphology, as exampled in səɬtsen 'my brother'.
+
+Verbs
+The basic lexical verb in Witsuwitʼen is the verb theme, a unit composed of two parts: a verbal root and required thematic prefixes.
+Verbal morpheme order is stable throughout the Athabaskan family; thus, the template of the Witstuwitʼen verb is very similar to other [Athabaskan languages](4639). Prefixes which are furthest away from the lexical stem display more variability. The Witsuwitʼen verb consists of a lexical root and an aspectual, tense, or modal affix (most often a suffix). All Witsuwitʼen verbs carry tense and subject inflection; there is no Witsuwitʼen equivalent to the English infinitive.
+
+Postpositions
+Postpositional object marking is demonstrated in the examples below. Postpositions can stand by themselves, as in the example '3s was playing with it,'  or attach to the verbal complex.
+
+Directional terms
+Complex directional systems and directional terms have been described in Ahtna, Slavey, Kaska, Koyukon, Tsek'ene, and Witsuwitʼen. Directional terms are composed of a directional root, prefixes which describe distance, and suffixes which indicate motion or rest.
+
+Syntax
+Like most [Athabaskan languages](4639), basic word order in Babine-Witsuwitʼen is Subject-Object-Verb (SOV), demonstrated in the example below.
+
+Grammatical relations
+Babine-Witsuwitʼen uses verbal morphology to express grammatical roles. Subjects of transitive and intransitive constructions are marked in the same way and appear in identical positions within the sentence, while objects of transitive constructions may differ in position and occasionally in morphological form. Subjects are marked in different places within the verbal complex, with 1st and 2nd person subjects appearing more closely to the verb stem and 3rd person subjects and direct objects further to the left.
+Two object prefixes hiy- and y-:
+
+1st and 2nd person subjects include 1SG, 2SG, and 2PL. 3rd person subjects can be expressed as unspecified (human), indefinite, or 4th person (referred to as the obviative in [Algonquian languages](4624)).
+
+Voice / Valence
+[Athabaskan languages](4639) like Babine-Witstuwitʼen make use of two main argument transferring morphemes known as classifiers. However, the term classifier is recognized among Athabaskanists as a misnomer; voice and valence markers are more appropriate descriptors. Each lexical entry of Witsuwitʼen verbs features a lexicalized voice/valence marker fused with the verb stem, though this element sometimes appears as zero. The classifiers ɬ and d regulate transitivity: ɬ increases transitivity by creating causatives and the d classifier lowers transitivity to create middle voice. The valence marker l is more complex in nature, indicating a combination of ɬ and d where a middle is built upon a causative.
+
+Words and phrases
+Source: First Voices
+
+See also
+Babine
+Wetʼsuwetʼen
+Dakelh
+[Carrier language](4682)
+
+References
+Sources
+Hargus, Sharon (2016). "Sounds and writing systems of Deg Xinag, Tsek'ene and Witsuwit'en" (PDF). University of Washington. Archived (PDF) from the original on 18 May 2022.
+
+Bibliography
+Hargus, Sharon (November 2011). Witsuwit'en Grammar: Phonetics, Phonology, Morphology. UBC Press. ISBN 9780774841245.
+Kari, James (1975). Babine, a New Athabaskan Linguistic Grouping. Fairbanks, AK: Alaska Native Language Center.
+Kari, James; Hargus, Sharon (1989). Dialectology, Ethnonymy and Prehistory in the Northwest Portion of the 'Carrier' Language Area. Fairbanks, AK: Alaska Native Language Center.
+Krauss, Michael E.; Golla, Victor (1981). "Northern Athapaskan Languages". In Helm, June (ed.). Handbook of North American Indians. Vol. 6: Subarctic. Washington, DC: Smithsonian Institution. pp. 67–85.
+Rice, Keren (2000). Dixon, R.M.W.; Aikhenvald, A.Y. (eds.). Voice and valence in the Athapaskan family. Changing Valency: Case Studies in Transitivity. Cambridge: Cambridge University Press. pp. 173–234. doi:10.1017/CBO9780511627750.007.
+Story, Gillian L. (1984). Babine and Carrier Phonology: A Historically Oriented Study. Arlington, TX: Summer Institute of Linguistics. ISBN 0-88312-094-1. LCCN 83-051454.
+Wright, Richard; Hargus, Sharon; Davis, Katharine (2002). "On the categorization of ejectives: data from Witsuwitʼen". Journal of the International Phonetic Association. 32 (1): 43–77. doi:10.1017/S0025100302000142. S2CID 145579984.
+
+External links
+First Voices: Contains Learning Resources for Witsuwitʼen
+Entry on First Nations Languages of British Columbia site
+Family Tree of Athabaskan Languages
+Status of the Native Languages of British Columbia
+Map of Northwest Coast First Nations Note, however, that the Carrier-speaking region is marked incorrectly on this map and that Babine-Witsuwitʼen is not indicated. The area around Babine Lake and Takla Lake, included in the Dakelh region on the map, is actually Babine speaking. A correct map would attach the Babine Lake and Takla Lake areas to what is shown on this map as "Wetʼsuwetʼen" and label the combination "Babine-Witsuwitʼen".

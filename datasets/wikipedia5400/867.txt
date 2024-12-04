@@ -1,0 +1,12 @@
+867
+C POSIX library
+The C POSIX library is a specification of a [C standard library](877) for POSIX systems. It was developed at the same time as the [ANSI C](803) standard. Some effort was made to make POSIX compatible with standard C; POSIX includes additional functions to those introduced in standard C. On the other hand, the 5 headers that were added to the [C standard library](877) with C11, were not likewise included in subsequent revisions of POSIX.
+
+C POSIX library header files
+References
+Official List of headers in the POSIX library on opengroup.org
+"Lists headers in the POSIX library". Archived from the original on July 24, 2010. Retrieved November 6, 2007.
+Description of the posix library from the Flux OSKit
+
+
+== Further reading ==

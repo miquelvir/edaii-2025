@@ -1,0 +1,11 @@
+3947
+Help:Authority control
+Authority control is a way of associating a unique identifier to articles on Wikipedia. This is useful to disambiguate different items with similar or identical headings, as well as establish a single standard title for an item that is commonly known by two or more titles. When used, authority control data links can be found near the bottom of Wikipedia pages, linking to bibliographical records on worldwide library catalogs. Authority control is often used in biographical articles because it is quite common for more than one person to share the same name. It is commonly used in other subject material as well.
+Authority control enables researchers to search more easily for pertinent information on the subject of an article, without needing to disambiguate the subject manually. For example, authority control is used on music articles so that the information in the article can be easily cross-referenced with popular databases.
+More generally, authority control is a method of creating and maintaining index terms for bibliographical material in a library catalog, similar to the Dewey Decimal System. The links produced by the authority control template on Wikipedia go to authority control data in worldwide library catalogs. As an example, the Wikipedia authority control information for [Alexander Graham Bell](3117) looks like this:
+
+The abbreviations in the box represent the following: International Standard Name Identifier (ISNI); Virtual International Authority File (VIAF); Library of Congress Control Number (LCCN); and Integrated Authority File (GND), Gemeinsame Normdatei in German. WorldCat is a global cooperative union catalog which itemizes the collections of 72,000 libraries in 170 countries and territories.
+
+The following authority files are supported on the English Wikipedia:
+
+Authority control

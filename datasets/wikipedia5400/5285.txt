@@ -1,0 +1,50 @@
+5285
+Biblical Aramaic
+Biblical Aramaic is the form of Aramaic that is used in the books of Daniel and Ezra in the Hebrew [Bible](5086). It should not be confused with the Targums – Aramaic paraphrases, explanations and expansions of the Hebrew scriptures.
+
+History
+During the [Babylonian captivity](5261) of the Jews, which began around 600 BC, the language spoken by the Jews started to change from Hebrew to Aramaic, and Aramaic square script replaced the Paleo-Hebrew alphabet. After the [Achaemenid Empire](1740) annexed the Neo-Babylonian Empire in 539 BC, Aramaic became the main language of public life and administration. Darius the Great declared Imperial Aramaic to be the official language of the western half of his empire in 500 BC, and it is that Imperial Aramaic that forms the basis of Biblical Aramaic.
+[Biblical Hebrew](5286) was gradually reduced to the status of a liturgical language and a language of theological learning, and the Jews of the Second Temple period that started in 516 BC would have spoken a western form of Old Aramaic until their partial Hellenization from the 3rd century BC and the eventual emergence of Middle Aramaic in the 3rd century BC.
+As Imperial Aramaic had served as a lingua franca throughout the Ancient Near East from the second half of the 8th century BC to the end of the 4th century BC, linguistic contact with even the oldest stages of [Biblical Hebrew](5286), the main language of the Hebrew [Bible](5086), is easily accounted for.
+Biblical Aramaic's relative chronology has been debated mostly in the context of dating the Book of Daniel. In 1929, Harold Rowley argued that its origin must be later than the 6th century BC and that the language was more similar to the targums than to the Imperial Aramaic documents available at his time.
+Others have argued that the language most closely resembles the 5th-century BC Elephantine papyri, and so is a good representative of typical Imperial Aramaic, including Jongtae Choi's doctoral dissertation at Trinity Evangelical Divinity School. Kenneth Kitchen takes an agnostic position and states that the Aramaic of the Book of Daniel is compatible with any period from the 5th to early 2nd century BC.
+
+Aramaic and Hebrew
+[Biblical Hebrew](5286) is the main language of the Hebrew [Bible](5086). Aramaic accounts for only 269 verses out of a total of over 23,000.  Biblical Aramaic is closely related to Hebrew, as both are in the Northwest Semitic language family. Some obvious similarities and differences are listed below:
+
+Similarities
+Hebrew and Aramaic have simplified the inflections of the noun, adjective and verb. These are more highly inflected in classical Arabic, Babylonian and Ugaritic.
+
+Differences
+The definite article is a suffixed -ā (א) in Aramaic (an emphatic or determined state), but a prefixed h- (ה) in Hebrew.
+Aramaic is not a Canaanite language and so did not experience the Canaanite vowel shift from *ā to ō.
+In Aramaic, the preposition dalet functions as a conjunction and is often used instead of the construct to indicate the genitive/possessive relationship.
+
+Sound changes
+In the Hebrew [Bible](5086)
+Undisputed occurrences
+Genesis 31:47 – translation of a Hebrew placename, Jegar-Sahadutha (Strong's #H3026)
+Proverbs 31:2 –  the Aramaic word bar is used instead of the usual Hebrew ben, both meaning "son"
+Jeremiah 10:11 – a single sentence denouncing idolatry occurs in the middle of a Hebrew text.
+Daniel 2:4b–7:28 – five stories about Daniel and his colleagues, and an apocalyptic vision.
+Ezra 4:8–6:18 and 7:12–26 – quotations of documents from the 5th century BCE on the restoration of the Temple in Jerusalem.
+
+Other suggested occurrences
+Genesis 15:1 – the word במחזה (ba-maħaze, "in a vision"). According to the Zohar (I:88b), the word is Aramaic, as the usual Hebrew word would be במראה‎ (ba-mar’e).
+Numbers 23:10 – the word רבע (rôḇa‘, usually translated as "stock" or "fourth part"). Joseph H. Hertz, in his commentary on this verse, cites Friedrich Delitzsch's claim (cited in William F. Albright' JBL 63 (1944), p. 213, n.28) that it is an Aramaic word meaning "dust".
+Job 36:2a ("כַּתַּר־ לִ֣י זְ֭עֵיר וַאֲחַוֶּ֑ךָּ") – Rashi, in his commentary on the verse, states that the phrase is in Aramaic.
+Psalm 2:12 – the word בר (bar) is interpreted by some Christian sources (including the King James Version) to be the Aramaic word for "son" and renders the phrase נשקו-בר  (nashəqū-bar) as "kiss the Son," a reference to Jesus. Jewish sources and some Christian sources (including Jerome's Vulgate) follow the Hebrew reading of בר‎ ("purity") and translate the phrase as "embrace purity." See Psalm 2 for further discussion of the controversy.
+
+Chaldean misnomer
+For many centuries, from at least the time of Jerome of Stridon (d. 420), Biblical Aramaic was misnamed as "Chaldean" (Chaldaic, Chaldee). That label remained common in early Aramaic studies, and persisted up to the nineteenth century. The "Chaldean" misnomer was consequently abandoned, when further research showed conclusively that the Aramaic dialect used in the Hebrew [Bible](5086) was not related to the ancient Chaldeans and their language.
+
+See also
+Aramaic studies
+Biblical studies
+Israelian Hebrew
+Language of Jesus
+
+References
+
+
+== Sources ==

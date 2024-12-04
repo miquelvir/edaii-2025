@@ -1,0 +1,44 @@
+2799
+Integrated Taxonomic Information System
+The Integrated Taxonomic Information System (ITIS) is an American partnership of federal agencies designed to provide consistent and reliable information on the taxonomy of biological species. ITIS was originally formed in 1996 as an interagency group within the US federal government, involving several US federal agencies, and has now become an international body, with Canadian and Mexican government agencies participating. The database draws from a large community of taxonomic experts. Primary content staff are housed at the Smithsonian National Museum of Natural History and IT services are provided by a US Geological Survey facility in Denver. The primary focus of ITIS is North American species, but many biological groups exist worldwide and ITIS collaborates with other agencies to increase its global coverage.
+
+Reference database
+ITIS provides an automated reference database of scientific and common names for species. As of May 2016, it contains over 839,000 scientific names, synonyms, and common names for terrestrial, marine, and freshwater taxa from all biological kingdoms (animals, plants, fungi, and microbes). While the system does focus on North American species at minimum, it also includes many species not found in North America, especially among birds, fishes, amphibians, mammals, bacteria, many reptiles, several plant groups, and many invertebrate animal groups. Data presented in ITIS are considered public information, and may be freely distributed and copied, though appropriate citation is requested. ITIS is frequently used as the de facto source of taxonomic data in biodiversity informatics projects.
+ITIS couples each scientific name with a stable and unique taxonomic serial number (TSN) as the "common denominator" for accessing information on such issues as invasive species, declining amphibians, migratory birds, fishery stocks, pollinators, agricultural pests, and emerging diseases.  It presents the names in a standard classification that contains author, date, distributional, and bibliographic information related to the names. In addition, common names are available through ITIS in the major official languages of the Americas (English, French, Spanish, and Portuguese).
+
+[Catalogue of Life](2727)
+ITIS and its international partner, Species 2000, cooperate to annually produce the [Catalogue of Life](2727), a checklist and index of the world's species. The [Catalogue of Life](2727)'s goal was to complete the global checklist of 1.9 million species by 2011. As of May 2012, the [Catalogue of Life](2727) has reached 1.4 million species—a major milestone in its quest to complete the first up-to-date comprehensive catalogue of all living organisms.
+ITIS and the [Catalogue of Life](2727) are core to the [Encyclopedia of Life](2762) initiative announced May 2007. EOL will be built largely on various Creative Commons licenses.
+
+Legacy database
+Of the ~714,000 (May 2016) scientific names in the current database, approximately 210,000 were inherited from the database formerly maintained by the National Oceanographic Data Center (NODC) of the US National Oceanic and Atmospheric Administration (NOAA). The newer material has been checked to higher standards of taxonomic credibility, and over half of the original material has been checked and improved to the same standard.
+Building on efforts by Richard Swartz, Marvin Wass, and Donald Boesch in 1972 to establish an "intelligent" numeric coding system for taxonomy, the first edition of the NODC Taxonomic Code was published in 1977. Hard copy editions were published until 1984. Subsequent editions were published digitally until 1996. 1996 marked the release of NODC version 8, which served as a bridge to ITIS, which abandoned "intelligent" numeric codes in favor of more stable, but "un-intelligent" Taxonomic Serial Numbers.
+
+Standards
+Biological taxonomy is not fixed, and opinions about the correct status of taxa at all levels, and their correct placement, are constantly revised as a result of new research. Many aspects of classification remain a matter of scientific judgment. The ITIS database is updated to take account of new research as it becomes available.
+Records within ITIS include information about how far it has been possible to check and verify them. Its information should be checked against other sources where these are available, and against the primary research scientific literature where possible.
+
+Member agencies
+Agriculture and Agri-Food Canada
+Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)
+National Oceanic and Atmospheric Administration
+National Park Service
+NatureServe
+Smithsonian Institution
+United States Department of Agriculture
+United States Environmental Protection Agency
+United States Geological Survey
+United States Fish and Wildlife Service
+
+See also
+[Encyclopedia of Life](2762)
+PlantList
+Wikispecies
+World Register of Marine Species
+
+References
+External links
+
+Official website – Integrated Taxonomic Information System (ITIS)
+Canada Interface: Integrated Taxonomic Information System (ITIS*CA)
+Mexico Interface: Sistema Integrado de Información Taxonómica (SIIT*MX) (archived link)

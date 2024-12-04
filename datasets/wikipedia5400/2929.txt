@@ -1,0 +1,18 @@
+2929
+BanLec
+BanLec (also BanLec-I or [Banana](2900) lectin) is a lectin from the jacalin-related lectin family isolated from the fruit of the bananas Musa acuminata and Musa balbisiana. BanLec is one of the predominant proteins in the pulp of ripe bananas and has binding specificity for mannose and mannose-containing oligosaccharides. A 2010 study reported that BanLec was a potent inhibitor of HIV replication.
+
+Activity
+BanLec has a number of similarities to Concanavalin A and binds to mannose-related carbohydrate structures. It was discovered due to its highly immunogenic properties—BanLec induces a strong IgG4 antibody response—and appears to be an important antigen involved in banana allergies.
+BanLec expression can be induced by the plant hormone methyl jasmonate.
+
+Structure and stability
+BanLec exists as a homodimer of two identical 15 kDa subunits  and has also been reported as a tetramer complex. The protein is highly stable, unfolding only at high temperatures
+All jacalin-related lectins feature type I beta-prism folding motifs (the beta-prism I fold is like a perfect beta-prism with each side made up of a four-stranded greek key motif), but BanLec is the first jacalin-related lectin from the monocot family of plants, while all other members are dicots; other monocot mannose-binding lectins exhibit beta-prism II folding instead.
+BanLec features strong intersubunit interactions with high levels of hydrogen bonding and water bridges allowing resistance to denaturing when exposed to high temperatures or high concentrations of chaotropes such as guanidium hydrochloride. Crystal structures of BanLec suggest that the lectin has two saccharide binding sites.
+
+HIV inhibition
+In 2010, BanLec was reported to be a potent inhibitor of HIV replication. Researchers at the University of Michigan determined that BanLec bound to the HIV-1 envelope protein gp120, which is high in sugar content, inhibiting viral entry into human cells. The researchers suggest that such an inhibitor of HIV infection may find use as a topical treatment, such as a vaginal microbicide, and may be cheaper to produce than current antiviral topical treatments.
+
+
+== References ==

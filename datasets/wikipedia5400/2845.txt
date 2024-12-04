@@ -1,0 +1,233 @@
+2845
+Ester
+In chemistry, an ester is a compound derived from an acid (organic or inorganic) in which the hydrogen atom (H) of at least one acidic hydroxyl group (−OH) of that acid is replaced by an organyl group (R′). These compounds contain a distinctive functional group.  Analogues derived from oxygen replaced by other chalcogens belong to the ester category as well.  According to some authors, organyl derivatives of acidic hydrogen of other acids are esters as well (e.g. amides), but not according to the IUPAC.
+Glycerides are fatty acid esters of glycerol; they are important in biology, being one of the main classes of lipids and comprising the bulk of animal fats and vegetable oils. Lactones are cyclic carboxylic esters; naturally occurring lactones are mainly 5- and 6-membered ring lactones. Lactones contribute to the aroma of fruits, butter, cheese, vegetables like celery and other foods.
+Esters can be formed from oxoacids (e.g. esters of acetic acid, carbonic acid, sulfuric acid, phosphoric acid, nitric acid, xanthic acid), but also from acids that do not contain oxygen (e.g. esters of thiocyanic acid and trithiocarbonic acid). An example of an ester formation is the substitution reaction between a carboxylic acid (R−C(=O)−OH) and an alcohol (R'−OH), forming an ester (R−C(=O)−O−R'), where R stands for any group (typically hydrogen or organyl) and R′ stands for organyl group.
+Organyl esters of carboxylic acids typically have a pleasant smell; those of low molecular weight are commonly used as fragrances and are found in essential oils and pheromones. They perform as high-grade solvents for a broad array of plastics, plasticizers, resins, and lacquers, and are one of the largest classes of synthetic lubricants on the commercial market. Polyesters are important plastics, with monomers linked by ester moieties. Esters of phosphoric acid form the backbone of DNA molecules. Esters of nitric acid, such as nitroglycerin, are known for their explosive properties.
+There are compounds in which an acidic hydrogen of acids mentioned in this article are not replaced by an organyl, but by some other group. According to some authors, those compounds are esters as well, especially when the first carbon atom of the organyl group replacing acidic hydrogen, is replaced by another atom from the group 14 elements (Si, Ge, Sn, Pb); for example, according to them, trimethylstannyl acetate (or trimethyltin acetate) CH3COOSn(CH3)3 is a trimethylstannyl ester of acetic acid, and dibutyltin dilaurate (CH3(CH2)10COO)2Sn((CH2)3CH3)2 is a dibutylstannylene ester of lauric acid, and the Phillips catalyst CrO2(OSi(OCH3)3)2 is a trimethoxysilyl ester of chromic acid (H2CrO4).
+
+Nomenclature
+Etymology
+The word ester was coined in 1848 by a German chemist Leopold Gmelin, probably as a contraction of the German Essigäther, "acetic ether".
+
+IUPAC nomenclature
+The names of esters that are formed from an alcohol and an acid, are derived from the parent alcohol and the parent acid, where the latter may be organic or inorganic. Esters derived from the simplest carboxylic acids are commonly named according to the more traditional, so-called "trivial names" e.g. as formate, acetate, propionate, and butyrate, as opposed to the IUPAC nomenclature methanoate, ethanoate, propanoate, and butanoate. Esters derived from more complex carboxylic acids are, on the other hand, more frequently named using the systematic IUPAC name, based on the name for the acid followed by the suffix -oate. For example, the ester hexyl octanoate, also known under the trivial name hexyl caprylate, has the formula CH3(CH2)6CO2(CH2)5CH3.
+
+The chemical formulas of organic esters formed from carboxylic acids and alcohols usually take the form RCO2R' or RCOOR', where R and R' are the organyl parts of the carboxylic acid and the alcohol, respectively, and R can be a hydrogen in the case of esters of formic acid. For example, butyl acetate (systematically butyl ethanoate), derived from butanol and acetic acid (systematically ethanoic acid) would be written CH3CO2(CH2)3CH3. Alternative presentations are common including BuOAc and CH3COO(CH2)3CH3.
+Cyclic esters are called lactones, regardless of whether they are derived from an organic or inorganic acid. One example of an organic lactone is γ-valerolactone.
+
+Orthoesters
+An uncommon class of esters are the orthoesters. One of them are the esters of orthocarboxylic acids. Those esters have the formula RC(OR′)3, where R stands for any group (organic or inorganic) and R′ stands for organyl group. For example, triethyl orthoformate (HC(OCH2CH3)3) is derived, in terms of its name (but not its synthesis) from esterification of orthoformic acid (HC(OH)3) with ethanol.
+
+Esters of inorganic acids
+Esters can also be derived from inorganic acids.
+
+Perchloric acid forms perchlorate esters, e.g., methyl perchlorate (CH3−O−Cl(=O)3)
+Sulfuric acid forms sulfate esters, e.g., dimethyl sulfate ((CH3−O−)2S(=O)2) and methyl bisulfate (CH3−O−S(=O)2−OH)
+Nitric acid forms nitrate esters, e.g. methyl nitrate (CH3−O−NO2) and nitroglycerin (CH(−O−NO2)(−CH2−O−NO2)2)
+Phosphoric acid forms phosphate esters, e.g. triphenyl phosphate (O=P(−O−C6H5)3) and methyl dihydrogen phosphate (O=P(−O−CH3)(−OH)2)
+Pyrophosphoric (diphosphoric) acid forms pyrophosphate esters, e.g. tetraethyl pyrophosphate, ADP, dADP, ADPR, cADPR, CDP, dCDP, GDP, dGDP, UDP, dTDP, MEcPP, HMBPP, DMAPP, IPP, GPP, FPP, GGPP, ThDP, FAD, NAD, NADP.
+Triphosphoric acid forms triphosphate esters, e.g. ATP, dATP, CTP, dCTP, GTP, dGTP, UTP, dTTP, ITP, XTP, ThTP, AThTP.
+Carbonic acid forms carbonate esters, e.g. dimethyl carbonate ((CH3−O−)2C=O) and 5-membered cyclic ethylene carbonate ((−CH2−O−)2C=O) (if one classifies carbonic acid as an inorganic compound)
+Trithiocarbonic acid forms trithiocarbonate esters, e.g. dimethyl trithiocarbonate ((CH3−S−)2C=S) (if one classifies trithiocarbonic acid as an inorganic compound)
+Chloroformic acid forms chloroformate esters, e.g. methyl chloroformate (Cl−C(=O)−O−CH3) (if one classifies chloroformic acid as an inorganic compound)
+Boric acid forms borate esters, e.g. trimethyl borate (B(−O−CH3)3)
+Chromic acid forms di-tert-butyl chromate (((CH3)3C−O−)2Cr(=O)2)
+Inorganic acids that exist as tautomers form two or more types of esters.
+
+Thiosulfuric acid forms two types of thiosulfate esters, e.g. O,O-dimethyl thiosulfate ((CH3−O−)2S(=O)(=S)) and O,S-dimethyl thiosulfate ((CH3−O−)(CH3−S−)S(=O)2)
+Thiocyanic acid forms thiocyanate esters, e.g. methyl thiocyanate (CH3−S−C≡N) (if one classifies thiocyanic acid as an inorganic compound), but forms isothiocyanate "esters" as well, e.g. methyl isothiocyanate (CH3−N=C=S), although organyl isothiocyanates are not classified as esters by the IUPAC
+Phosphorous acid forms two types of esters: phosphite esters, e.g. triethyl phosphite (P(−O−CH2CH3)3), and phosphonate esters, e.g. diethyl phosphonate (H−P(=O)(−O−CH2CH3)2)
+Some inorganic acids that are unstable or elusive form stable esters.
+
+Sulfurous acid, which is unstable, forms stable dimethyl sulfite ((CH3−O−)2S=O)
+Dicarbonic acid, which is unstable, forms stable dimethyl dicarbonate (CH3−O−C(=O)−O−C(=O)−O−CH3)
+In principle, a part of metal and metalloid alkoxides, of which many hundreds are known, could be classified as esters of the corresponding acids (e.g. aluminium triethoxide (Al(OCH2CH3)3) could be classified as an ester of aluminic acid which is aluminium hydroxide, tetraethyl orthosilicate (Si(OCH2CH3)4) could be classified as an ester of orthosilicic acid, and titanium ethoxide (Ti(OCH2CH3)4) could be classified as an ester of orthotitanic acid).
+
+Structure and bonding
+Esters derived from carboxylic acids and alcohols contain a carbonyl group C=O, which is a divalent group at C atom, which gives rise to 120° C–C–O and O–C–O angles. Unlike amides, carboxylic acid esters are structurally flexible functional groups because rotation about the C–O–C bonds has a low barrier. Their flexibility and low polarity is manifested in their physical properties; they tend to be less rigid (lower melting point) and more volatile (lower boiling point) than the corresponding amides. The pKa of the alpha-hydrogens on esters of carboxylic acids is around 25 (alpha-hydrogen is a hydrogen bound to the carbon adjacent to the carbonyl group (C=O) of carboxylate esters).
+Many carboxylic acid esters have the potential for conformational isomerism, but they tend to adopt an S-cis (or Z) conformation rather than the S-trans (or E) alternative, due to a combination of hyperconjugation and dipole minimization effects. The preference for the Z conformation is influenced by the nature of the substituents and solvent, if present. Lactones with small rings are restricted to the s-trans (i.e. E) conformation due to their cyclic structure.
+
+Physical properties and characterization
+Esters derived from carboxylic acids and alcohols are more polar than ethers but less polar than alcohols. They participate in hydrogen bonds as hydrogen-bond acceptors, but cannot act as hydrogen-bond donors, unlike their parent alcohols. This ability to participate in hydrogen bonding confers some water-solubility. Because of their lack of hydrogen-bond-donating ability, esters do not self-associate. Consequently, esters are more volatile than carboxylic acids of similar molecular weight.
+
+Characterization and analysis
+Esters are generally identified by gas chromatography, taking advantage of their volatility. IR spectra for esters feature an intense sharp band in the range 1730–1750 cm−1 assigned to νC=O. This peak changes depending on the functional groups attached to the carbonyl. For example, a benzene ring or double bond in conjunction with the carbonyl will bring the wavenumber down about 30 cm−1.
+
+Applications and occurrence
+Esters are widespread in nature and are widely used in industry. In nature, fats are, in general, triesters derived from glycerol and fatty acids. Esters are responsible for the aroma of many fruits, including apples, durians, pears, bananas, pineapples, and strawberries. Several billion kilograms of polyesters are produced industrially annually, important products being polyethylene terephthalate, acrylate esters, and cellulose acetate.
+
+Preparation
+Esterification is the general name for a chemical reaction in which two reactants (typically an alcohol and an acid) form an ester as the reaction product. Esters are common in organic chemistry and biological materials, and often have a pleasant characteristic, fruity odor. This leads to their extensive use in the fragrance and flavor industry. Ester bonds are also found in many polymers.
+
+Esterification of carboxylic acids with alcohols
+The classic synthesis is the Fischer esterification, which involves treating a carboxylic acid with an alcohol in the presence of a dehydrating agent:
+
+RCO2H + R'OH ⇌ RCO2R' + H2O
+The equilibrium constant for such reactions is about 5 for typical esters, e.g., ethyl acetate. The reaction is slow in the absence of a catalyst. Sulfuric acid is a typical catalyst for this reaction. Many other acids are also used such as polymeric sulfonic acids. Since esterification is highly reversible, the yield of the ester can be improved using Le Chatelier's principle:
+
+Using the alcohol in large excess (i.e., as a solvent).
+Using a dehydrating agent: sulfuric acid not only catalyzes the reaction but sequesters water (a reaction product). Other drying agents such as molecular sieves are also effective.
+Removal of water by physical means such as distillation as a low-boiling azeotrope with toluene, in conjunction with a Dean-Stark apparatus.
+Reagents are known that drive the dehydration of mixtures of alcohols and carboxylic acids. One example is the Steglich esterification, which is a method of forming esters under mild conditions. The method is popular in peptide synthesis, where the substrates are sensitive to harsh conditions like high heat. DCC (dicyclohexylcarbodiimide) is used to activate the carboxylic acid to further reaction. 4-Dimethylaminopyridine (DMAP) is used as an acyl-transfer catalyst.
+
+Another method for the dehydration of mixtures of alcohols and carboxylic acids is the Mitsunobu reaction:
+
+RCO2H + R'OH + P(C6H5)3 + R2N2 → RCO2R' + OP(C6H5)3 + R2N2H2
+Carboxylic acids can be esterified using diazomethane:
+
+RCO2H + CH2N2 → RCO2CH3 + N2
+Using this diazomethane, mixtures of carboxylic acids can be converted to their methyl esters in near quantitative yields, e.g., for analysis by gas chromatography. The method is useful in specialized organic synthetic operations but is considered too hazardous and expensive for large-scale applications.
+
+Esterification of carboxylic acids with epoxides
+Carboxylic acids are esterified by treatment with epoxides, giving β-hydroxyesters:
+
+RCO2H + RCHCH2O → RCO2CH2CH(OH)R
+This reaction is employed in the production of vinyl ester resin from acrylic acid.
+
+Alcoholysis of acyl chlorides and acid anhydrides
+Alcohols react with acyl chlorides and acid anhydrides to give esters:
+
+RCOCl + R'OH → RCO2R' + HCl
+(RCO)2O + R'OH → RCO2R' + RCO2H
+The reactions are irreversible simplifying work-up. Since acyl chlorides and acid anhydrides also react with water, anhydrous conditions are preferred. The analogous acylations of amines to give amides are less sensitive because amines are stronger nucleophiles and react more rapidly than does water. This method is employed only for laboratory-scale procedures, as it is expensive.
+
+Alkylation of carboxylic acids and their salts
+Trimethyloxonium tetrafluoroborate can be used for esterification of carboxylic acids under conditions where acid-catalyzed reactions are infeasible:
+
+RCO2H + (CH3)3OBF4  →  RCO2CH3 + (CH3)2O + HBF4
+Although rarely employed for esterifications, carboxylate salts (often generated in situ) react with electrophilic alkylating agents, such as alkyl halides, to give esters. Anion availability can inhibit this reaction, which correspondingly benefits from phase transfer catalysts or such highly polar aprotic solvents as DMF. An additional iodide salt may, via the Finkelstein reaction, catalyze the reaction of a recalcitrant alkyl halide. Alternatively, salts of a coordinating metal, such as silver, may improve the reaction rate by easing halide elimination.
+
+Transesterification
+Transesterification, which involves changing one ester into another one, is widely practiced:
+
+RCO2R' + CH3OH → RCO2CH3 + R'OH
+Like the hydrolysation, transesterification is catalysed by acids and bases. The reaction is widely used for degrading triglycerides, e.g. in the production of fatty acid esters and alcohols. Poly(ethylene terephthalate) is produced by the transesterification of dimethyl terephthalate and ethylene glycol: 
+
+n (C6H4)(CO2CH3)2 + 2n C2H4(OH)2 → (C6H4)(CO2)2(C2H4)n + 2n CH3OH
+A subset of transesterification is the alcoholysis of diketene. This reaction affords 2-ketoesters.
+
+(CH2CO)2 + ROH → CH3C(O)CH2CO2R
+
+Carbonylation
+Alkenes undergo carboalkoxylation in the presence of metal carbonyl catalysts. Esters of propanoic acid are produced commercially by this method:
+
+H2C=CH2 + ROH + CO → CH3CH2CO2R
+A preparation of methyl propionate is one illustrative example. 
+
+H2C=CH2 + CO + CH3OH → CH3CH2CO2CH3
+The carbonylation of methanol yields methyl formate, which is the main commercial source of formic acid. The reaction is catalyzed by sodium methoxide:
+
+CH3OH + CO → HCO2CH3
+
+Addition of carboxylic acids to alkenes and alkynes
+In hydroesterification, alkenes and alkynes insert into the O−H bond of carboxylic acids. Vinyl acetate is produced industrially by the addition of acetic acid to acetylene in the presence of zinc acetate catalysts:
+
+HC≡CH + CH3CO2H → CH3CO2CH=CH2
+Vinyl acetate can also be produced by palladium-catalyzed reaction of ethylene, acetic acid, and oxygen:
+
+2 H2C=CH2 + 2 CH3CO2H + O2 → 2 CH3CO2CH=CH2 + 2 H2O
+Silicotungstic acid is used to manufacture ethyl acetate by the alkylation of acetic acid by ethylene:
+
+H2C=CH2 + CH3CO2H → CH3CO2CH2CH3
+
+From aldehydes
+The Tishchenko reaction involves disproportionation of an aldehyde in the presence of an anhydrous base to give an ester. Catalysts are aluminium alkoxides or sodium alkoxides. Benzaldehyde reacts with sodium benzyloxide (generated from sodium and benzyl alcohol) to generate benzyl benzoate. The method is used in the production of ethyl acetate from acetaldehyde.
+
+Other methods
+Favorskii rearrangement of α-haloketones in presence of base
+Baeyer–Villiger oxidation of ketones with peroxides
+Pinner reaction of nitriles with an alcohol
+Nucleophilic abstraction of a metal–acyl complex
+Hydrolysis of orthoesters in aqueous acid
+Cellulolysis via esterification
+Ozonolysis of alkenes using a work up in the presence of hydrochloric acid and various alcohols.
+Anodic oxidation of methyl ketones leading to methyl esters.
+Interesterification exchanges the fatty acid groups of different esters.
+
+Reactions
+Esters are less reactive than acid halides and anhydrides. As with more reactive acyl derivatives, they can react with ammonia and primary and secondary amines to give amides, although this type of reaction is not often used, since acid halides give better yields.
+
+Transesterification
+Esters can be converted to other esters in a process known as transesterification. Transesterification can be either acid- or base-catalyzed, and involves the reaction of an ester with an alcohol. Unfortunately, because the leaving group is also an alcohol, the forward and reverse reactions will often occur at similar rates. Using a large excess of the reactant alcohol or removing the leaving group alcohol (e.g. via distillation) will drive the forward reaction towards completion, in accordance with Le Chatelier's principle.
+
+Hydrolysis and saponification
+[Acid](107)-catalyzed hydrolysis of esters is also an equilibrium process – essentially the reverse of the Fischer esterification reaction. Because an alcohol (which acts as the leaving group) and water (which acts as the nucleophile) have similar pKa values, the forward and reverse reactions compete with each other. As in transesterification, using a large excess of reactant (water) or removing one of the products (the alcohol) can promote the forward reaction.
+
+Basic hydrolysis of esters, known as saponification, is not an equilibrium process; a full equivalent of base is consumed in the reaction, which produces one equivalent of alcohol and one equivalent of a carboxylate salt. The saponification of esters of fatty acids is an industrially important process, used in the production of soap.
+Esterification is a reversible reaction. Esters undergo hydrolysis under acidic and basic conditions. Under acidic conditions, the reaction is the reverse reaction of the Fischer esterification. Under basic conditions, hydroxide acts as a nucleophile, while an alkoxide is the leaving group. This reaction, saponification, is the basis of soap making.
+
+The alkoxide group may also be displaced by stronger nucleophiles such as ammonia or primary or secondary amines to give amides (ammonolysis reaction):
+
+RCO2R' + NH2R″ → RCONHR″ + R'OH
+This reaction is not usually reversible. Hydrazines and hydroxylamine can be used in place of amines. Esters can be converted to isocyanates through intermediate hydroxamic acids in the Lossen rearrangement.
+Sources of carbon nucleophiles, e.g., Grignard reagents and organolithium compounds, add readily to the carbonyl.
+
+Reduction
+Compared to ketones and aldehydes, esters are relatively resistant to reduction. The introduction of catalytic hydrogenation in the early part of the 20th century was a breakthrough; esters of fatty acids are hydrogenated to fatty alcohols.
+
+RCO2R' + 2 H2 → RCH2OH + R'OH
+A typical catalyst is copper chromite. Prior to the development of catalytic hydrogenation, esters were reduced on a large scale using the Bouveault–Blanc reduction. This method, which is largely obsolete, uses sodium in the presence of proton sources.
+Especially for fine chemical syntheses, lithium aluminium hydride is used to reduce esters to two primary alcohols. The related reagent sodium borohydride is slow in this reaction. DIBAH reduces esters to aldehydes.
+Direct reduction to give the corresponding ether is difficult as the intermediate hemiacetal tends to decompose to give an alcohol and an aldehyde (which is rapidly reduced to give a second alcohol). The reaction can be achieved using triethylsilane with a variety of Lewis acids.
+
+Claisen condensation and related reactions
+Esters can undergo a variety of reactions with carbon nucleophiles. They react with an excess of a Grignard reagent to give tertiary alcohols. Esters also react readily with enolates. In the Claisen condensation, an enolate of one ester (1) will attack the carbonyl group of another ester (2) to give tetrahedral intermediate 3. The intermediate collapses, forcing out an alkoxide (R'O−) and producing β-keto ester 4.
+
+Crossed Claisen condensations, in which the enolate and nucleophile are different esters, are also possible. An intramolecular Claisen condensation is called a Dieckmann condensation or Dieckmann cyclization, since it can be used to form rings. Esters can also undergo condensations with ketone and aldehyde enolates to give β-dicarbonyl compounds. A specific example of this is the Baker–Venkataraman rearrangement, in which an aromatic ortho-acyloxy ketone undergoes an intramolecular nucleophilic acyl substitution and subsequent rearrangement to form an aromatic β-diketone. The Chan rearrangement is another example of a rearrangement resulting from an intramolecular nucleophilic acyl substitution reaction.
+
+Other ester reactivities
+Esters react with nucleophiles at the carbonyl carbon. The carbonyl is weakly electrophilic but is attacked by strong nucleophiles (amines, alkoxides, hydride sources, organolithium compounds, etc.). The C–H bonds adjacent to the carbonyl are weakly acidic but undergo deprotonation with strong bases. This process is the one that usually initiates condensation reactions. The carbonyl oxygen in esters is weakly basic, less so than the carbonyl oxygen in amides due to resonance donation of an electron pair from nitrogen in amides, but forms adducts.
+As for aldehydes, the hydrogen atoms on the carbon adjacent ("α to") the carboxyl group in esters are sufficiently acidic to undergo deprotonation, which in turn leads to a variety of useful reactions. Deprotonation requires relatively strong bases, such as alkoxides. Deprotonation gives a nucleophilic enolate, which can further react, e.g., the Claisen condensation and its intramolecular equivalent, the Dieckmann condensation. This conversion is exploited in the malonic ester synthesis, wherein the diester of malonic acid reacts with an electrophile (e.g., alkyl halide), and is subsequently decarboxylated. Another variation is the Fráter–Seebach alkylation.
+
+Other reactions
+Esters can be directly converted to nitriles.
+Methyl esters are often susceptible to decarboxylation in the Krapcho decarboxylation.
+Phenyl esters react to hydroxyarylketones in the Fries rearrangement.
+Specific esters are functionalized with an α-hydroxyl group in the Chan rearrangement.
+Esters with β-hydrogen atoms can be converted to alkenes in ester pyrolysis.
+Pairs of esters are coupled to give α-hydroxyketones in the acyloin condensation
+
+Protecting groups
+As a class, esters serve as protecting groups for carboxylic acids. Protecting a carboxylic acid is useful in peptide synthesis, to prevent self-reactions of the bifunctional amino acids. Methyl and ethyl esters are commonly available for many amino acids; the t-butyl ester tends to be more expensive. However, t-butyl esters are particularly useful because, under strongly acidic conditions, the t-butyl esters undergo elimination to give the carboxylic acid and isobutylene, simplifying work-up.
+
+List of ester odorants
+Many esters have distinctive fruit-like odors, and many occur naturally in the essential oils of plants. This has also led to their common use in artificial flavorings and fragrances which aim to mimic those odors.
+
+See also
+List of esters
+Amide
+Thioamide
+Carboximidate
+Carbamate
+Xanthate
+Amidine
+Cyanate
+Thiocyanate
+Selenocyanate
+Tellurocyanate
+Polyester, plastics made of polymeric ester
+Oligoester, a polymeric ester made of small number of ester monomers
+Polyolester, an ester that is a synthetic oil used in refrigeration compressors
+Thioester
+Transesterification
+Ether lipid, an ester that is a lipid and an ether
+Acylal ((R1−C(=O)−O−)(R2−C(=O)−O−)CH−R3)
+Ortho ester, an ester of an ortho acid (e.g. esters of orthocarboxylic acids, orthocarbonic acid, orthosilicic acid, orthotelluric acid, orthophosphoric acid, orthoboric acid, ...)
+Depside, a polymeric ester, a type of polyphenolic compound composed of two or more monocyclic aromatic units linked by an ester group
+Depsipeptide, a type of ester that is a peptide in which one or more of its amide groups (−C(=O)−NH−) are replaced by the corresponding ester groups (−C(=O)−O−)
+Glyceride ((R1−C(=O)−O−CH2−)(R2−C(=O)−O−CH2−)(R3−C(=O)−O−)CH), an ester of fatty acids and glycerol
+Lactone, a cyclic carboxylic ester
+Lactide, a type of lactone ester
+Vitamin C (ascorbic acid), a lactone ester, an essential nutrient for humans and other animals
+Phthalide, a type of lactone ester
+Coumarin, a type of lactone ester
+Macrolide, a class of natural esters that consist of a large macrocyclic lactone ring to which one or more deoxy sugars may be attached
+Formate
+Chloroformate
+
+References
+External links
+
+An introduction to esters
+Molecule of the month: Ethyl acetate and other esters

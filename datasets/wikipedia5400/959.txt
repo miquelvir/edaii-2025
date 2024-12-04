@@ -1,0 +1,19 @@
+959
+David Peleg (computer scientist)
+David Peleg (Hebrew: דוד פלג) is an Israeli computer scientist. He is a professor at the Weizmann Institute of Science, holding the Norman D. Cohen Professorial Chair of Computer Sciences, and the present dean of the Faculty of Mathematics and Computer Science in Weizmann Institute.
+ His main research interests are algorithms, computer networks, and distributed computing. Many of his papers deal with a combination of all three.
+He received his Ph.D. from the Weizmann Institute under the supervision of David Harel. He has published numerous papers and a book, chaired leading conferences in computer science, and is an editor of several scientific journals.
+
+Awards and honors
+In 2008, he was awarded the Edsger W. [Dijkstra Prize](964) in Distributed Computing along with Baruch Awerbuch for their 1990 paper “Sparse partitions.”
+In 2011, he won the SIROCCO Prize for Innovation in Distributed Computing, awarded annually at the SIROCCO conference.
+In 2017 he became a Fellow of the Association for Computing Machinery.
+Since 2020, Peleg is editor-in-chief of the journal Information and Computation.
+
+Selected publications
+Awerbuch, Baruch; Peleg, David (1990), "Sparse partitions", Proceedings of the 31st Annual Symposium on Foundations of Computer Science (FOCS 1990), pp. 503–513, doi:10.1109/FSCS.1990.89571, ISBN 978-0-8186-2082-9, S2CID 2138822. [Dijkstra Prize](964) 2008.
+Peleg, David (2000), Distributed Computing: A Locality-Sensitive Approach, SIAM, ISBN 978-0-89871-464-7, MR 1790362, archived from the original on 2009-08-06, retrieved 2009-05-25
+
+Notes
+References
+David Peleg's home page.

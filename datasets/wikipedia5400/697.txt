@@ -1,0 +1,72 @@
+697
+Continuous delivery
+Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time. It aims at building, testing, and releasing software with greater speed and frequency. The approach helps reduce the cost, time, and risk of delivering changes by allowing for more incremental updates to applications in production. A straightforward and repeatable deployment process is important for continuous delivery.
+
+Principles
+According to Neal Ford, continuous delivery adopts "Bring the pain forward," tackling tough tasks early, fostering automation and swift issue detection. 
+Continuous delivery treats the commonplace notion of a deployment pipeline as a lean Poka-Yoke: a set of validations through which a piece of software must pass on its way to release. Code is compiled if necessary and then packaged by a build server every time a change is committed to a source control repository, then tested by a number of different techniques (possibly including manual testing) before it can be marked as releasable.
+Developers used to a long cycle time may need to change their mindset when working in a CD environment. Any code commit may be released to customers at any point. Patterns such as feature toggles can be very useful for committing code early which is not yet ready for use by end users. Using NoSQL can eliminate the step of data migrations and schema changes, often manual steps or exceptions to a continuous delivery workflow. Other useful techniques for developing code in isolation such as code branching are not obsolete in a CD world, but must be adapted to fit the principles of CD - for example, running multiple long-lived code branches can prove impractical, as a releasable artifact must be built early in the CD process from a single code branch if it is to pass through all phases of the pipeline.
+
+Deployment pipeline
+Continuous delivery is enabled through the deployment pipeline. The purpose of the deployment pipeline has three components: visibility, feedback, and continually deploy.
+
+Visibility – All aspects of the delivery system including building, deploying, testing, and releasing are visible to every member of the team to promote collaboration.
+Feedback – Team members learn of problems as soon as possible when they occur so that they are able to fix them as quickly as possible.
+Continually deploy – Through a fully automated process, you can deploy and release any version of the software to any environment.
+
+According to Yan Cui, when it comes to serverless environments, ephemeral resources should be kept together and have their own deployment pipeline to achieve a high cohesion. However, shared resources that have a long spin-up time and landing zone should have their own separate repository, deployment pipeline and stack.
+
+Tools/tool types
+Continuous delivery takes automation from source control all the way through production. There are various tools that help accomplish all or part of this process. These tools are part of the deployment pipeline which includes continuous delivery. The types of tools that execute various parts of the process include: continuous integration, application release automation, build automation, application lifecycle management.
+
+Architecting for continuous delivery
+To practice continuous delivery effectively, software applications have to meet a set of architecturally significant requirements (ASRs) such as deployability, modifiability, and testability. These ASRs require a high priority and cannot be traded off lightly.
+Microservices are often used when architecting for continuous delivery. The use of Microservices can increase a software system's deployability and modifiability. The observed deployability improvements include: deployment independence, shorter deployment time, simpler deployment procedures, and zero downtime deployment. The observed modifiability improvements include: shorter cycle time for small incremental functional changes, easier technology selection changes, incremental quality attribute changes, and easier language and library upgrades.
+
+Implementation and usage
+The original CD book written by Jez Humble and David Farley (2010) popularized the term; however, since its creation the definition has continued to advance and now has a more developed meaning. Companies today are implementing these continuous delivery principles and best practices. The difference in domains, e.g. medical vs. web, is still significant and affects the implementation and usage. Well-known companies that have this approach include Yahoo!, Amazon, Facebook, Google, Paddy Power and Wells Fargo.
+
+Benefits and obstacles
+Several benefits of continuous delivery have been reported.
+
+Accelerated time to market: Continuous delivery lets an organization deliver the business value inherent in new software releases to customers more quickly. This capability helps the company stay a step ahead of the competition.
+Building the right product: Frequent releases let the application development teams obtain user feedback more quickly. This lets them work on only the useful features. If they find that a feature isn't useful, they spend no further effort on it. This helps them build the right product.
+Improved productivity and efficiency: Significant time savings for developers, testers, operations engineers, etc. through automation.
+Reliable releases: The risks associated with a release have significantly decreased, and the release process has become more reliable. With continuous delivery, the deployment process and scripts are tested repeatedly before deployment to production. So, most errors in the deployment process and scripts have already been discovered. With more frequent releases, the number of code changes in each release decreases. This makes finding and fixing any problems that do occur easier, reducing the time in which they have an impact.
+Improved product quality: The number of open bugs and production incidents has decreased significantly.
+Improved customer satisfaction: A higher level of customer satisfaction is achieved.
+Obstacles have also been investigated.
+
+Customer preferences: Some customers do not want frequent updates to their systems.
+Domain restrictions: In some domains, such as telecom, medical, avionics, railway and heavy industries, regulations require customer-side or even on-site testing of new versions.
+Lack of test automation: Lack of test automation leads to a lack of developer confidence and can prevent using continuous delivery.
+Differences in environments: Different environments used in the development, testing and production can result in undetected issues slipping to the production environment.
+Tests needing a human oracle: Not all quality attributes can be verified with automation. These attributes require humans in the loop, slowing down the delivery pipeline.
+Eight further adoption challenges were raised and elaborated on by Chen. These challenges are in the areas of organizational structure, processes, tools, infrastructure, legacy systems, architecting for continuous delivery, continuous testing of non-functional requirements, and test execution optimization.
+
+Strategies to overcome adoption challenges
+‹The template How-to is being considered for merging.› 
+Several strategies to overcome continuous delivery adoption challenges have been reported.
+
+Best practices for cloud systems
+The following practices can enhance productivity of pipelines, especially in systems hosted in the cloud: 
+
+Number of Pipelines: Small teams can be more productive by having one repository and one pipeline. In contrast, larger organizations may have separate repositories and pipelines for each team or even separate repositories and pipelines for each service within a team.
+Permissions: In the context of pipeline-related permissions, adhering to the principle of least privilege can be challenging due to the dynamic nature of architecture. Administrators may opt for more permissive permissions while implementing compensating security controls to minimize the blast radius.
+
+Relationship to DevOps
+DevOps is a software engineering approach that centers around cultural change, specifically the collaboration of the various teams involved in software delivery (developers, operations, quality assurance, management, etc.), as well as automating the processes in software delivery.
+
+Relationship to Continuous Deployment
+Continuous deployment is a software engineering approach which uses automated software deployments.
+In it, software is produced in short cycles but through automated software deployments even to production rather than requiring a "click of a button" for that last step.: 52  Therefore, continuous deployment can be considered a more sophisticated form of automation.
+Academic literature differentiates between continuous delivery and continuous deployment according to deployment method; manual vs. automated.
+
+See also
+Further reading
+Humble, Jez; Farley, David (2010). Continuous Delivery: Reliable Software Releases Through Build, Test and Deployment Automation. Addison-Wesley. ISBN 978-0-321-60191-9.
+Wolff, Eberhard (2017). A Practical Guide to Continuous Delivery. Addison-Wesley. ISBN 978-0-134-69147-3.
+
+References
+External links
+Continuous delivery practices

@@ -1,0 +1,12 @@
+1142
+Air traffic management
+Air traffic management (ATM) aims at ensuring the safe and efficient flow of air traffic. It encompasses three types of services: 
+
+air traffic services (ATS) including air traffic control (ATC), air traffic advisory services, flight information services and alerting services,
+airspace management (ASM), the purpose of which is to allocate air routes, zones, flight levels to different airspace users and the airspace structure, and
+air traffic flow and capacity management (ATFCM) (or Air Traffic Flow Management, ATFM) consisting in regulating the flow of aircraft as efficiently as possible in order to avoid congestion in airspace and airports.
+The Chicago Convention 1944 (52 signatory states) required each state to provide air navigation services for their own state and early air navigation service providers (ANSPs) were state-controlled monopolies. En-route navigation is still offered by state-run monopolies although in Europe since 1997 they were under a performance review framework and since 2009 and 2013, under performance and risk-sharing charging regulations. In Europe, the organisation of ATM is highly fragmented, with each member state having its own ANSPs operating airport towers and centres under various ownership models. The 37 European ANSPs operate 60 control centres in 10.8 million km2. Apart from five largest ANSPs (DFS in Germany, DSNA in France, ENAIRE in Spain, ENAV in Italy and NATS in the UK) bearing 60% of total European gate-to-gate service provision costs and operating 54% of European traffic, the remaining 40% of gate-to-gate traffic (airport towers and approach services) costs are borne by 32 smaller ANSPs. Such fragmentation leads to delays and costs EUR 4 bn a year. The Single European Sky programme was due to be delivered in 2020 but despite extensive collaboration (such as Functional Airspace Blocks transcending national borders) and research, this has not yet been successful. 
+ATM encompasses both airspace and ground airport operations. Since the rise of computer sciences, risk management and decision-making are software-assisted. Recent system developments balance interests of airspace and runways on one side, and capacity overloads for taxiway network and terminals on the other.
+
+
+== References ==

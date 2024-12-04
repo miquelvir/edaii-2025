@@ -1,0 +1,130 @@
+4864
+Anaphora (liturgy)
+The Anaphora, Eucharistic Prayer, or Great Thanksgiving, is a portion of the Christian liturgy of the Eucharist in which, through a prayer of thanksgiving, the elements of bread and wine are consecrated. The prevalent historical Roman Rite form is called the "Canon of the Mass".
+"Anaphora" is a Greek word (ἀναφορά) meaning a "carrying up", thus an "offering" (hence its use in reference to the offering of sacrifice to God). (This sense is distinct from the usage of "anaphora" in rhetoric and linguistics to mean a "carrying back".) In the sacrificial language of the Greek version of the Old Testament known as the Septuagint, προσφέρειν (prospherein) is used of the offerer's bringing the victim to the altar, and ἀναφέρειν (anapherein) is used of the priest's offering up the selected portion upon the altar (see, for instance, Leviticus 2:14, 2:16, 3:1, 3:5).
+
+Elements
+To describe the structure of the Anaphoras as it became standardized from the 4th century, we can look at the structure of the anaphoras in the Antiochene  family of liturgies (West Syriac Rite and Byzantine Rite) : 6  which display an order and logic that finds no equal elsewhere.: 121  This structure is still valid, with some significant variations typical of each rite, for the [Catholic Church](4801), Eastern Orthodox Churches and Oriental Orthodox Church, while it was modified, both in the pattern and in the underlying theology, during the Protestant Reformation. Beginning with the Oxford Movement of the 1840s and after the Liturgical Reform Movement of the 1950s, a systematic examination of historic anaphoras began and this in turn has caused the reform of many Eucharistic prayers within mainline Protestant denominations.
+The structure of the standardized 4th century Antiochene anaphora, which is placed after the offertory and the Creed and comes before the Lord's Prayer, the Elevation and the Communion rites, can be summarized as follows:: 6 
+
+Sursum Corda or Opening Dialogue: it is the introductory dialogue that opens with a liturgical greeting by the priest (for instance, "The Lord be with you" in the Roman Rite, or "The grace of our Lord Jesus Christ, and the love of God the Father, and the communion of the Holy Spirit be with you all" in the Byzantine Rite) and the response of the congregation or choir. Classic call and response ties together the response of the priest and congregation to the Glory of God. Then the priest exhorts those participating in the liturgy to lift up their hearts. When they express their agreement ("We lift them up to the Lord"), he then introduces the great theme of thanksgiving, in Greek εὐχαριστία (eucharistia), saying: "Let us give thanks to the Lord our God.";
+Preface: is the great prayer of thanksgiving for the work of Salvation or for some special aspect of it;
+Sanctus: is a hymn of praise adapted from Isaiah 6:3 beginning Holy, Holy, Holy immediately followed by the Benedictus taken from Matthew 21:9. This hymn is usually introduced by the expression of the desire of the community to unite itself with the heavenly Angelic liturgy; it also follows the words of Christ, taken from Mt 23:39: "For I say to you, you shall not see me henceforth till you say: Blessed is He that cometh in the name of the Lord", itself being a quotation of Psalm 118:26.
+Post-Sanctus: is a prayer that links the Sanctus with the following part. It can be very short or resume the great theme of thanksgiving, giving ground for the following requests.
+Institution narrative: is an account of the Last Supper, in which are pronounced the Words of Institution spoken by Jesus Christ, changing the bread and wine into his Body and Blood.
+Anamnesis: is the statement in which the Church refers to the memorial character of the Eucharist itself and/or to the Passion, Resurrection and Ascension of Christ.
+Oblation: is the offering to the Lord of the sacrifice of the Eucharistic bread and wine and of the prayers and thanksgiving of faithfuls.
+Epiclesis: is the "invocation" or "calling down from on high" by which the priest invokes the Holy Spirit (or the power of His blessing or Christ in some early texts) upon the Eucharistic bread and wine;
+Intercessions: is the prayer, sometimes long, in which the Church asks God to help all her members, living and dead, and all the humanity because of the grace given by the Eucharist. In this section there is usually the request to God to grant to the believers the same glory given to Mary and to the saints. The list of the living people who are commemorated (diptychs) includes generally the name of the current pope, patriarch, bishop recognized by the community;
+Doxology: is a solemn hymn of praises to the Trinity.
+This structure can have variations in liturgical families different from the Antiochene one: in the East Syriac Rites the Epiclesis is just before the final doxology and in Addai and Mari the Institution narrative is missing; the Intercessions can be found after the Preface in the [Alexandrian Rite](4847): 6  and even before the Sursum Corda in the Mozarabic Rite. An Epiclesis can be found before the Institution narrative in the [Alexandrian Rite](4847), and this place of the Epiclesis is the standard in the Roman Canon and in the Latin rites.
+The anaphoras are addressed by the Church to the Father, even if in antiquity there were cases of Eucharistic prayers addressed to Christ, as the anaphora of Gregory Nazianzen or partially the Third Anaphora of St. Peter (Sharar). Also, the Ethiopian Orthodox Täwaḥədo Church unusually has an Anaphora of the Virgin Mary. Most parts of the anaphora, as the Preface, the Institution narrative, the Epiclesis, are always reserved to the celebrant, a bishop or a priest, while the faithfuls usually sung the Sanctus and some acclamations, which can be more or less frequent and length according to the specific rite. Sometime, particularly in the past, in both East and West the main celebrant said a part of his prayers inaudibly or covered by the choir.
+The Eastern Rites know many anaphoras, but each of them is almost completely invariable. On the contrary the Western Church had for centuries only one anaphora, the Roman Canon, but it has variable parts according to the liturgical year, mainly the Preface. In other Latin rites, as in the Mozarabic Rite or the Gallican rite also the post-sanctus and the prayer after the Institution narrative till the doxology are completely variable.: 147
+
+Early texts
+Many ancient texts of anaphorae have survived, and even if no more in use, they are useful to trace the history of the anaphorae, and in general the history of the Eucharist  during the centuries.  Most of these texts became parts of anaphorae still in use.
+The earlier liturgical texts related to the celebration of the Eucharist are the chapters 9 and 10 of the Didache, even though there is no consensus among scholars if these texts are meant to be a Eucharist or not. We have next the Anaphora of the Apostolic Tradition, called also the anaphora of Hippolytus, the Liturgy of the seventh book of the Apostolic Constitutions and the Liturgy of the eighth book of the Apostolic Constitutions that developed in the famous Byzantine Anaphora now part of the Liturgy of St. John Chrysostom, through the lost Greek version of the Anaphora of the Twelve Apostles (of which we have a later Syrian version).
+The more ancient text of the Basilean family of anaphoras was found in 1960 in a Sahidic Coptic version, possibly a text written by St. Basil himself, and recent scholars believes that this text, united with the anaphora described in The Catechisms of St. Cyril of Jerusalem, has been the base for the Anaphora of St. James included in the Liturgy of St James. The present Byzantine text of the Anaphora included in the Liturgy of Saint Basil is the final development of this anaphoric family.
+In the East the more ancient text is probably the ancient form of the Anaphora of Addai and Mari, followed by the East Syriac Rite 
+Churches. The third Anaphora (Anaphora of Nestorius) is also in use. Another important source is the anaphora described in the Mystagogical Cathecheses of  Theodore of Mopsuestia.
+In [Egypt](1987) we have the Anaphora of Barcellona (and its related Louvain Coptic Papyrus), the Prayer into the Euchologion of Serapion, the Deir Balyzeh Papyrus, the Strasbourg papyrus and the ancient Anaphora of Saint Mark in Greek, which developed in the Coptic Liturgy of Saint Cyril. The [Egypt](1987)ian Anaphoras (known as Alexandrian type Anaphoras) seem to have a distinctive structure in the post sanctus section, which is organized as such: Epiclesis I—Institution Narrative—Anamnesis—Epiclesis II. This structure stands out for having two epicleses surrounding the institution narrative, which different from other traditions. Some scholars have argued that the numerous epicleses in the Alexandrian type traditions favors an understanding of consecration as a process, rather than a single moment of consecration.
+Scholars find structural similarities in between the Roman and [Egypt](1987)ian anaphoral traditions:: 141  for instance the Barcelona Papyrus, as well as Deir Balyzeh Papyrus, include an epiclesis before the Words of Institution as in the Roman Canon. The earliest text similar to the Roman Canon is the quoted in De Sacramentis of Ambrose which include prayers close to the Canon's prayers such as Quam Oblationem, Qui pridie, Unde et Memores, Supra quae - Suplices te.: 140  The Roman Canon's prayers Communicantes, Hanc igitur, and the post-consecration Memento etiam and Nobis quoque were added in the 5th century, and it achieved practically its present form when modified by Gregory the Great (590-604) (see History of the Roman Canon).
+
+Eucharistic Prayer in Western Christianity
+When referring to the Western Christian uses, the term "Eucharistic Prayer" is more used than "anaphora", and sometime it refers only to the portion of the anaphora starting after the Sanctus because the Preface in the Latin rites is variable and follows the liturgical year.
+
+Roman Rite of the [Catholic Church](4801)
+Between the Council of Trent and the reform of the Catholic liturgy, undertaken in 1969 (see Mass of Paul VI), the only anaphora used in the Roman Rite was the Roman Canon (or Canon of the Mass). For the history of the "Roman Canon" see also the articles Canon of the Mass, Pre-Tridentine Mass and Tridentine Mass.
+With introduction in 1969 of the Mass of Paul VI,  multiple choices of Eucharistic Prayer were allowed, although the authorization of new Eucharistic Prayers is reserved to the Holy See. All the new Eucharistic Prayers follow the Antiochene structure with the noticeable difference that the Epiclesis is placed, in accordance with the Roman tradition, before the Words of Institution and not after. The first approved Eucharistic Prayers are four:
+
+Eucharistic Prayer no. 1: This is the ancient Roman Canon with minimal variations. The ancient text is especially appropriate for Sundays, unless for pastoral reasons Eucharistic Prayer no. 3 is preferred.
+Eucharistic Prayer no. 2: This is based on the ancient anaphora of the apostolic tradition with some adaptations: 90  to bring it into line with the other prayers. It is quite short, so it is appropriate for weekday use. It has its own Preface, based on the Anaphora of the Apostolic Tradition, but the proper Preface of the Mass of the day can be substituted.
+Eucharistic Prayer no. 3: This is a new composition that uses the Antiochene structure filled with Alexandrine and Roman themes.: 123–5  Its use is preferred on Sundays and feast days and it is to be used with the proper Preface of the day.
+Eucharistic Prayer no. 4: This is a new composition with a strong sacrificial wording and a fuller summary of salvation history. It has its own integral Preface; a substitute is not allowed. It is based on Eastern anaphoras, especially that of St. Basil the Great.
+In the years after the reform of Pope Paul VI other Eucharistic Prayers were authorized:
+
+Four Eucharistic Prayers for Various Needs and Occasions proposed by the Swiss Synod (these are sometimes called the "Swiss Synod Eucharistic Prayers") were approved by the Holy See on August 8, 1974. These four prayers, structured as a single prayer with four thematic variations, have been allowed in France since 1978 and in Italy since 1980; the English version was approved in 1995.
+Two Eucharistic Prayers for Masses of Reconciliation were approved provisionally (ad experimentum) in 1975.
+Three Eucharistic Prayers for Masses with Children were also approved provisionally in 1975. Many bishops' conferences asked for permission to use vernacular translations of all three prayers, and their use was generally permitted for a limited period of time. In 1980 Pope John Paul II allowed their continued use on an interim basis, but official versions have not appeared in Roman Missals issued since 2008.
+
+Other Latin rites in the [Catholic Church](4801)
+A typical characteristic of the Latin rites different from the Roman Rite is the great variability of portions of the Roman Canon which change according to the liturgical year and the Mass.
+The Mozarabic Rite has as variable texts the Illatio (i.e. the Preface), the Post-Sanctus and the Post-Pridie, that is the prayer said between the Institution narrative and the doxology in place of the Intercessions which are placed before the Sursum Corda. In the Gallican Rite the Preface is named Contestatio or Immolatio and the Institution narrative is named Secreta or Mysterium: 148 
+The [Ambrosian Rite](4859) during the centuries has lost its ancient variety, even if it maintains a richness of choices for the Preface and its first Eucharistic Prayer is slightly different form the Roman one mainly in the Words of Institution. Recently two typical additional ancient Eucharistic Prayers have been restored, to be used mainly on Easter and Holy Thursday.
+
+Methodist Rite
+The United Methodist Church has twenty-two Eucharistic Prayers that are modeled on the pattern of the Antiochene pattern; these are contained in the Book of Worship. The "notion of a sacrifice of praise and thanksgiving", dating back to Irenaeus, is emphasized in the United Methodist Church's "anamnesis and offering: 'And so in remembrance of these your mighty acts in Jesus Christ, we offer ourselves as a holy and living sacrifice, in union with Christ's offering for us, as we proclaim the mystery of faith: Christ has died...'" The Methodist Rite, as with the Presbyterian liturgy, places the Memorial Acclamation "after the anamnesis and offering". In both the Methodist Church of Great Britain and the United Methodist Church, the "post-Sanctus transitioned almost immediately to the Institution Narrative". In addition, the "offering was our sacrifice of praise and thanksgiving, and ourselves," reflecting the theology of Thomas Cranmer and Methodism's Anglican heritage in general.
+
+[Antiochene Rite](4898)s
+This important liturgical family includes many well studied historical anaphoras, as the Anaphora of the Apostolic Tradition, the Liturgy of the seventh book of the Apostolic Constitutions and the Liturgy of the eighth book of the Apostolic Constitutions. The main currently used anaphoras belonging to this family are the following, divided by rite:
+
+Byzantine Rite
+The Byzantine Rite uses three anaphoras, which are the core part of the Divine Liturgies which take the same name:
+
+The Anaphora of St. John Chrysostom;
+The Anaphora of St. Basil, once used throughout the year, and now used only on some Sundays and feasts;
+The Anaphora of St. James
+The anaphora is introduced with the Opening Dialogue between priest and choir/congregation:
+
+The priest chants: "The grace of our Lord Jesus Christ, and the love of God the Father, and the communion of the Holy Spirit be with you all."
+The choir/congregation respond: "And with thy spirit."
+Priest: "Let us lift up our hearts."
+Choir/Congregation: "We lift them up unto the Lord."
+Priest: "Let us give thanks unto the Lord."
+Choir/Congregation: "It is right and just to worship Father, Son, and Holy Spirit, the Trinity one in essence and undivided."
+While the above response is sung, the priest begins to pray the first part of the anaphora quietly, although in some places this is said aloud. This section, corresponding to the Preface in the Roman Rite, gives thanks to God for the mysteries of creation, redemption, and sanctification. It is followed by the choir and congregation singing the Sanctus.
+After the Sanctus follows a recapitulation of salvation history, especially the Incarnation, and leads into the words of Jesus over the bread and wine at the Mystical Supper, as Eastern Christians often refer to the Last Supper: "Take, eat, this is my body, which is broken for you, for the forgiveness of sins." and "Drink ye all of this; this is my blood of the New Testament, which is shed for you and for many for the forgiveness of sins." The priest always says these words aloud, and the congregation and choir respond: "Amen."
+The priest continues with the Anamnesis in that it references Jesus' command, at least implicitly, to "do this in memory of me" and states that the gifts of bread and wine are offered to God in memory of Jesus' life, death, resurrection, and second coming. It culminates with the Oblation in which the bread and wine is lifted up while the priest exclaims: "Thine own of thine own we offer unto thee on behalf of all and for all."
+While the people sing a hymn of thanksgiving and supplication, the priest prays the epiclesis. God the Father is invoked to send down the Holy Spirit in order to, according to the Divine Liturgy of St. John Chrysostom, "...make this bread the precious Body of thy Christ... And that which is in this cup the precious Blood of thy Christ... Changing them by thy Holy Spirit." This is the most solemn point of the anaphora, as it is from that point on the bread and wine are considered to be the literal body and blood of Christ and not from the Words of Institution as in some other traditions.
+The rest of the anaphora consists of a lengthy set of intercessions for the Church, its bishops and other clergy, the leaders of nations, the faithful departed, and the Church as a whole, as well as commemorations of the Saints, especially the Blessed Virgin Mary, John the Baptist, the saint being commemorated that day, and "Forefathers, Fathers, Patriarchs, Prophets, Apostles, Preachers, Evangelists, Martyrs, Confessors, Ascetics, and for every righteous spirit in faith made perfect." In the Byzantine Rite the anaphora, whether that of St. John Chrysostom or St. Basil, ends with the following doxology sung by the priest: "And grant us with one mouth and one heart to glorify and hymn thine all-honorable and magnificent name, of the Father, and of the Son, and of Holy Spirit, now and ever and unto ages of ages." The congregation and choir respond: "Amen."
+
+Syro-[Antiochene Rite](4898)
+The anaphoras currently used by the Syro-[Antiochene Rite](4898) (or West Syriac Rite) are numerous and the main are:
+
+Anaphora of Twelve Apostles
+Anaphora of St. James, a different anaphora from the Byzantine Rite's one
+Anaphora of St. Mark the Evangelist
+Anaphora of St. Peter
+Anaphora of St. John the Evangelist
+Anaphora of St. Xystus of Rome
+Anaphora of St. Julius of Rome
+Anaphora of St. John Chrysostom, a different anaphora from the Byzantine Rite version
+Anaphora of St. Cyril of Alexandria
+Anaphora of St. Jacob of Serugh
+Anaphora of St. Philoxenus of Mabbug
+Anaphora of St. Severus of Antioch
+Anaphora of Mar Jacob Bar-Salibi
+Anaphora of Mar Ivanios
+The Antiochene Maronite Church is  one of the richest in the number of anaphorae contained in its Liturgy, most of them belong to the tradition of the Antiochene rites. There are at least seventy-two Maronite Anaphorae.
+
+Armenian Rite
+The Armenian Rite, used mainly by the Armenian Apostolic Church, uses currently the Anaphora of St. Athanasius.
+
+Others
+The Coptic Church, even if its own rite is the [Alexandrian Rite](4847), uses two anaphoras that belong to the literal tradition of the Antiochene rites:
+Anaphora of St. Basil, a different anaphora from the Byzantine Rite's one, even if related and probably older
+Anaphora of St Gregory
+In the East Syriac Church, two anaphorae that belong to the literal tradition of the Antiochene rite are employed:
+Qudasha of Mar Theodore
+Qudasha of Mar Nestorius
+
+[Alexandrian Rite](4847)
+The only anaphora still in use within the [Alexandrian Rite](4847) is the Liturgy of Saint Cyril the Great, which is a revision of the first Alexandrian Liturgy composed by Saint Mark. The Ethiopian Orthodox Church makes use of no less than 14 official anaphoras. Some Ethiopian monasteries use additional Anaphoras as a local practice. The Coptic Church has since started to use West Syriac Anaphoras such as the [Egypt](1987)ian Liturgy of St. Basil (most often used) and the Anaphora of St. Gregory the Theologian.
+
+Edessan Rite
+The most important and currently used anaphorae (Qudashe) of the Edessan Rite (Babylonian Rite or East Syriac Rite) are the following:
+
+Qudasha of Addai and Mari, used today by different Churches in different versions due to many additions.
+Qudasha of Mar Theodore of Mopsuestia, used from Advent until the Sunday of the Hossanas,
+Qudasha of Mar Nestorius, used for the Feast of the Epiphany, Commemoration of St. John the Baptist, Commemoration of the Greek Teachers, Wednesday liturgy of the Rogation of the Ninevites, and the Feast of the Passover (Holy Thursday).
+
+Notes
+References
+External links
+Texts of all the current Catholic Eucharistic Prayers
+Historical Evolution of Ethiopian Anaphoras
+Syriac Anaphoras
+Explanation of the Maronite Divine Liturgy and its Traditions (08-10-2020)
+The Anaphora Eparchy of Saint Maron Commentary on the Holy Mysteries (part 2)
+The Holy Mystery of Offering (Qorbono) Eparchy of Saint Maron Commentary on the Holy Mysteries (part 1)
+Holy Communion - Methodist Rite

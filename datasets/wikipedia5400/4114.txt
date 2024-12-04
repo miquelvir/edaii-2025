@@ -1,0 +1,76 @@
+4114
+Alberto Calderón
+Alberto Pedro Calderón (September 14, 1920 – April 16, 1998) was an Argentine mathematician. His name is associated with the University of Buenos Aires, but first and foremost with the University of Chicago, where Calderón and his mentor, the analyst [Antoni Zygmund](4167), developed the theory of singular integral operators. This created the "Chicago School of (hard) Analysis" (sometimes simply known as the "Calderón-Zygmund School").
+Calderón's work ranged over a wide variety of topics: from singular integral operators to partial differential equations, from interpolation theory to Cauchy integrals on Lipschitz curves, from ergodic theory to inverse problems in electrical prospection. Calderón's work has also had a powerful impact on practical applications including signal processing, geophysics, and tomography.
+
+Early life and education
+Alberto Pedro Calderón was born on September 14, 1920, in Mendoza, [Argentina](1862), to Don Pedro Calderón, a physician (urologist), and Haydée. He had several siblings, including a younger brother, Calixto Pedro Calderón, also a mathematician. His father encouraged his mathematical studies. After his mother's unexpected death when he was twelve, he spent two years at the Montana Knabeninstitut, a boys' boarding school near Zürich in Switzerland, where he was mentored by Save Bercovici, who interested him in mathematics. He then completed his high school studies in Mendoza.
+Persuaded by his father that he could not make a living as a mathematician, he entered the University of Buenos Aires, where he studied engineering. After graduating in civil engineering in 1947, he got a job in the research laboratory of the geophysical division of the state-owned oil company, the YPF (Yacimientos Petrolíferos Fiscales).
+
+Research
+While still working at YPF, Calderón became acquainted with the mathematicians at the University of Buenos Aires: Julio Rey Pastor, the first professor in the Institute of Mathematics, his assistant Alberto González Domínguez (who became his mentor and friend), Luis Santaló and Manuel Balanzat. At the YPF Lab Calderón studied the possibility of determining the conductivity of a body by making electrical measurements at the boundary; he did not publish his results until 1980, in his short Brazilian paper. see also On an inverse boundary value problem and the Commentary by Gunther Uhlmann. It pioneered a new area of mathematical research in inverse problems.
+Calderón then took up a post at the University of Buenos Aires. [Antoni Zygmund](4167) of the University of Chicago, arrived there in 1948 at the invitation of Alberto González Domínguez and Calderón was assigned as his assistant. Zygmund invited Calderón to work with him, and in 1949 Calderón arrived in Chicago with a Rockefeller Fellowship. He was encouraged by Marshall Stone to obtain a doctorate, and with three recently published papers as dissertation, Calderón obtained his PhD in mathematics under Zygmund's supervision in 1950.
+The collaboration reached fruition in the Calderón-Zygmund theory of singular integrals, and lasted more than three decades. The memoir of 1952 was influential for the Chicago School of hard analysis. The Calderón-Zygmund decomposition lemma, invented to prove the weak-type continuity of singular integrals of integrable functions, became a standard tool in analysis and probability theory. The Calderón-Zygmund Seminar at the University of Chicago ran for decades.
+Calderón contributed to the theory of differential equations, with his proof of uniqueness in the Cauchy problem using algebras of singular integral operators, his reduction of elliptic boundary value problems to singular integral equations on the boundary (the "method of the Calderón projector"), and the role played by algebras of singular integrals, through the work of Calderón's student R. Seeley, in the initial proof of the Atiyah-Singer index theorem, see also the Commentary by Paul Malliavin. The development of pseudo-differential operators by Kohn-Nirenberg and Hörmander also owed much to Calderón and his collaborators, R. Vaillancourt and J. Alvarez-Alonso.
+Also, Calderón insisted that the focus should be on algebras of singular integral operators with non-smooth kernels to solve actual problems arising in physics and engineering, where lack of smoothness is a natural feature. It led to what is now known as the "Calderón program", with major parts: Calderón's study of the Cauchy integral on Lipschitz curves, and his proof of the boundedness of the "first commutator". These papers stimulated research by other mathematicians in the following decades; see also the later paper by the Calderón brothers and the Commentary by Y. Meyer.
+Work by Calderón in interpolation theory opened up a new area of research, see also the Commentary by Charles Fefferman and Elias M. Stein, and in ergodic theory, his basic paper (see also the Commentary by Donald L. Burkholder, and) formulated a transference principle that reduced the proof of maximal inequalities for abstract dynamical systems to the case of the dynamical system on the integers, on the reals or, more generally, on the acting group.
+
+Career
+In his academic career, Calderón taught at many different universities, but primarily at the University of Chicago and the University of Buenos Aires. Calderón together with his mentor and collaborator Zygmund, maintained close ties with [Argentina](1862) and Spain, and through their doctoral students and their visits, strongly influenced the development of mathematics in these countries.
+
+1947 - 1950 Rockefeller Foundation Fellow, University of Chicago
+1950 - 1953 Visiting Associate Professor, Ohio State University, Columbus, Ohio
+1953 - 1955 Member, Institute for Advanced Study, Princeton, New Jersey
+1955 - 1959 Associate Professor, [Massachusetts Institute of Technology](4006)
+1959 - 1968 Professor, University of Chicago
+1968 - 1972, Louis Block Professor of Mathematics, University of Chicago
+1972 - 1975 Professor, [Massachusetts Institute of Technology](4006)
+1975 - 1985, University Professor of Mathematics, University of Chicago
+1975 - death, Honorary Professor, University of Buenos Aires
+He was also visiting professor at universities including the University of Buenos Aires, Cornell University, Stanford University, National University of Bogotá, Colombia, Collège de France, Paris, University of Paris (Sorbonne), Autónoma and Complutense Universities, Madrid, University of Rome and Göttingen University.
+
+Awards and honors
+Calderón was recognized internationally for his outstanding contributions to Mathematics as attested to by his numerous prizes and membership in various academies.  He gave many invited addresses to universities and learned societies. In particular he addressed the International Congress of Mathematicians: a) as invited lecturer in Moscow in 1966 and b) as plenary lecturer in Helsinki in 1978. The Instituto Argentino de Matemática (I.A.M.), based in Buenos Aires, a prime research center of the National Research Council of [Argentina](1862) (CONICET), now honors Alberto Calderón by bearing his name: Instituto Argentino de Matemática Alberto Calderón. In 2007, the Inverse Problems International Association (IPIA) instituted the Calderón Prize, named in honor of Alberto P. Calderón, and awarded to a "researcher who has made distinguished contributions to the field of inverse problems broadly defined".
+
+Academies
+1958 Member, American Academy of Arts and Sciences, Boston, Massachusetts
+1959 Correspondent Member, National Academy of Exact, Physical and Natural Sciences, Buenos Aires, [Argentina](1862)
+1968 Member, National Academy of Sciences of the U.S.A.
+1970 Correspondent Member, Royal Academy of Sciences, Madrid, Spain
+1983 Member, Latin American Academy of Sciences, Caracas, Venezuela
+1984 Member, National Academy of Exact, Physical and Natural Sciences, Buenos Aires, [Argentina](1862)
+1984 Foreign Associate, Institut de France, Paris, France
+1984 Member, Third World Academy of Sciences, Trieste, Italy
+
+Prizes
+1969 Latin American Prize in Mathematics, awarded by IPCLAR (Instituto para la Promoción de las Ciencias, Letras y Realizaciones), Santa Fe, [Argentina](1862)
+1979 Bôcher Memorial Prize, awarded by the American Mathematical Society
+1983 Konex Award (Science and Technology), Buenos Aires, [Argentina](1862)
+1989 Premio de Consagración Nacional, Buenos Aires, [Argentina](1862)
+1989 Wolf Prize, awarded by the Wolf Foundation, Jerusalem, Israel
+1989 Steele Prize, awarded by the American Mathematical Society
+1991 National Medal of Science, Washington D.C., U.S.A.
+
+Honorary degrees
+1969 Doctor Honoris Causa, University of Buenos Aires, [Argentina](1862)
+1989 Doctor of Science, Honoris Causa, Technion, Haifa, Israel
+1995 Doctor of Science, Honoris Causa, Ohio State University, Columbus, Ohio
+1997 Doctor Honoris Causa, Universidad Autónoma de Madrid, Spain
+
+Selected papers
+Calderón, A. P.; Zygmund, A. (1952), "On the existence of certain singular integrals", Acta Mathematica, 88 (1): 85–139, doi:10.1007/BF02392130, ISSN 0001-5962, MR 0052553, Zbl 0047.10201. This is one of the key papers on singular integral operators.
+Calderón, A. P. (1958). "Uniqueness in the Cauchy Problem for Partial Differential Equations". American Journal of Mathematics. 80 (1): 16–36. doi:10.2307/2372819. JSTOR 2372819. S2CID 123717719.
+Calderón, A. P. (1963): "Boundary value problems for elliptic equations", Outlines for the Joint Soviet - American Symposium on Partial Differential Equations, Novosibirsk, pp. 303–304.
+Calderón, A. P. (1977). "Cauchy integrals on Lipschitz curves and related operators". Proceedings of the National Academy of Sciences of the United States of America. 74 (4): 1324–1327. Bibcode:1977PNAS...74.1324C. doi:10.1073/pnas.74.4.1324. PMC 430741. PMID 16578748.
+Calderón, A. P. (1980): "Commutators, Singular Integrals on Lipschitz curves and Applications", Proc. Internat. Congress of Math. 1978, Helsinki, pp. 85–96.
+Calderón, A. P. (1964). "Intermediate spaces and interpolation, the complex Method" (PDF). Studia Mathematica. 24 (2): 113–190. doi:10.4064/sm-24-2-113-190.
+Calderón, A. P. (1968). "Ergodic Theory and Translation-Invariant Operators". Proceedings of the National Academy of Sciences of the United States of America. 59 (2): 349–353. Bibcode:1968PNAS...59..349C. doi:10.1073/pnas.59.2.349. PMC 224676. PMID 16591604.
+Calderón, A. P. (1980). "On an inverse boundary value problem" (PDF). Seminar on Numerical Analysis and Its Applications to Continuum Physics, Atas 12. Río de Janeiro: Sociedade Brasileira de Matematica: 67–73. ISSN 0101-8205.
+
+References
+External links
+O'Connor, John J.; Robertson, Edmund F., "Alberto Calderón", MacTutor History of Mathematics Archive, University of St Andrews
+Alberto Calderón at the Mathematics Genealogy Project
+Obituary: Alberto Calderon, University of Chicago Chronicle
+Alberto Pedro Calderón (1920–1998), Notices of the AMS
+Alberto Calderon, 78, Pioneer Of Mathematical Analysis, New York Times

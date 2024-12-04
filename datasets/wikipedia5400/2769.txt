@@ -1,0 +1,14 @@
+2769
+FloraBase
+FloraBase is a public access web-based database of the flora of Western Australia.  It provides authoritative scientific information on 12,978 taxa, including descriptions, maps, images, conservation status and nomenclatural details. 1,272 alien taxa (naturalised weeds) are also recorded.
+The system takes data from datasets including the Census of Western Australian Plants and the Western Australian Herbarium specimen database of more than 803,000 vouchered plant collections.  It is operated by the Western Australian Herbarium within the Department of Parks and Wildlife. It was established in November 1998.
+In its distribution guide it uses a combination of IBRA version 5.1 and John Stanley Beard's botanical provinces.
+
+See also
+Declared Rare and Priority Flora List
+For other online flora databases see List of electronic Floras.
+
+References
+External links
+
+Official website

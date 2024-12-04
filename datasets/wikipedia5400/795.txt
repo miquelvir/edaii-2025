@@ -1,0 +1,89 @@
+795
+CoffeeScript
+CoffeeScript is a programming language that compiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python, and Haskell in an effort to enhance JavaScript's brevity and readability. Specific additional features include list comprehension and destructuring assignment.
+CoffeeScript support is included in Ruby on Rails version 3.1 and Play Framework. In 2011, Brendan Eich referenced CoffeeScript as an influence on his thoughts about the future of JavaScript.
+
+History
+On December 13, 2009, Jeremy Ashkenas made the first Git commit of CoffeeScript with the comment "initial commit of the mystery language". The compiler was written in Ruby. On December 24, he made the first tagged and documented release, 0.1.0. On February 21, 2010, he committed version 0.5, which replaced the Ruby compiler with a self-hosting version in pure CoffeeScript. By that time the project had attracted several other contributors on GitHub, and was receiving over 300 page hits per day.
+On December 24, 2010, Ashkenas announced the release of stable 1.0.0 to Hacker News, the site where the project was announced for the first time.
+On September 18, 2017, version 2.0.0 was introduced, which "aims to bring CoffeeScript into the modern JavaScript era, closing gaps in compatibility with JavaScript while preserving the clean syntax that is CoffeeScript's hallmark".
+
+Syntax
+Almost everything is an expression in CoffeeScript, for example, if, switch and for expressions (which have no return value in JavaScript) return a value. As in Perl and Ruby, these control statements also have postfix versions; for example, if can also be written in  consequent if condition form.
+Many unnecessary parentheses and braces can be omitted; for example, blocks of code can be denoted by indentation instead of braces, function calls are implicit, and object literals are often detected automatically.
+To compute the body mass index in JavaScript, one could write:
+
+With CoffeeScript the interval is directly described:
+
+To compute the greatest common divisor of two integers with the Euclidean algorithm, in JavaScript one usually needs a while loop:
+
+Whereas in CoffeeScript one can use until instead:
+
+The ? keyword quickly checks if a variable is null or undefined :
+
+This would alert "No person" if the variable is null or undefined and "Have person" if there is something there.
+A common pre-ES6 JavaScript snippet using the jQuery library is:
+
+Or even just:
+
+In CoffeeScript, the function keyword is replaced by the -> symbol, and indentation is used instead of curly braces, as in other off-side rule languages such as Python and Haskell.  Also, parentheses can usually be omitted, using indentation level instead to denote a function or block. Thus, the CoffeeScript equivalent of the snippet above is:
+
+Or just:
+
+Ruby-style string interpolation is included in CoffeeScript. Double-quoted strings allow for interpolated values, using #{ ... }, and single-quoted strings are literal.
+
+Any for loop can be replaced by a list comprehension; so that to compute the squares of the positive odd numbers smaller than ten (i.e. numbers whose remainder modulo 2 is 1), one can do:
+
+Alternatively, there is:
+
+A linear search can be implemented with a one-liner using the when keyword:
+
+The for ... in syntax allows looping over arrays while the for ... of syntax allows looping over objects.
+CoffeeScript has been criticized for its unusual scoping rules. In particular, it completely disallows variable shadowing which makes reasoning about code more difficult and error-prone in some basic programming patterns established
+by and taken for granted since procedural programming principles were defined.
+For example, with the following code snippet in JavaScript
+one does not have to look outside the {}-block to know for
+sure that no possible foo variable in the outer scope can be
+incidentally overridden:
+
+In CoffeeScript there is no way to tell if the scope of a variable is limited to a block or not without looking outside the block.
+
+Development and distribution
+The CoffeeScript compiler has been self-hosting since version 0.5 and is available as a Node.js utility; however, the core compiler does not rely on Node.js and can be run in any JavaScript environment. One alternative to the Node.js utility is the Coffee Maven Plugin, a plugin for the Apache Maven build system. The plugin uses the Rhino JavaScript engine written in Java.
+The official site at CoffeeScript.org has a "Try CoffeeScript" button in the menu bar; clicking it opens a modal window in which users can enter CoffeeScript, see the JavaScript output, and run it directly in the browser. The js2coffee site provides bi-directional translation.
+
+Latest additions
+Source maps allow users to debug their CoffeeScript code directly, supporting CoffeeScript tracebacks on run time errors.
+CoffeeScript supports a form of Literate Programming, using the .coffee.md or .litcoffee file extension. This allows CoffeeScript source code to be written in Markdown.  The compiler will treat any indented blocks (Markdown's way of indicating source code) as code, and ignore the rest as comments.
+
+Extensions
+Iced CoffeeScript is a superset of CoffeeScript which adds two new keywords: await and defer. These additions simplify asynchronous control flow, making the code look more like a procedural programming language, eliminating the call-back chain. It can be used on the server side and in the browser.
+
+Adoption
+On September 13, 2012, Dropbox announced that their browser-side code base had been rewritten from JavaScript to CoffeeScript, however it was migrated to TypeScript in 2017.
+GitHub's internal style guide once said "write new JS in CoffeeScript", though it no longer does, and their Atom text editor was also written in the language, with configuration written in CSON ("CoffeeScript Object Notation"), a variant of JSON.
+Pixel Game Maker MV makes uses of CoffeeScript as part of its game development environment.
+
+See also
+Haxe
+Nim (programming language)
+Amber Smalltalk
+Clojure
+Dart (programming language)
+Kotlin (programming language)
+LiveScript
+Opa (programming language)
+Elm (programming language)
+TypeScript
+PureScript
+
+References
+Further reading
+Lee, Patrick (May 14, 2014). CoffeeScript in Action (First ed.). Manning Publications. p. 432. ISBN 978-1617290626.
+Grosenbach, Geoffrey (May 12, 2011). "Meet CoffeeScript" (First ed.). PeepCode. {{cite journal}}: Cite journal requires |journal= (help)
+Bates, Mark (May 31, 2012). Programming in CoffeeScript (First ed.). Addison-Wesley. p. 350. ISBN 978-0-321-82010-5.
+MacCaw, Alex (January 31, 2012). The Little Book on CoffeeScript (First ed.). O'Reilly Media. p. 62. ISBN 978-1449321055.
+Burnham, Trevor (August 3, 2011). CoffeeScript: Accelerated JavaScript Development (First ed.). Pragmatic Bookshelf. p. 138. ISBN 978-1934356784.
+
+External links
+Official website

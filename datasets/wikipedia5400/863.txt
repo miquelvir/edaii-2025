@@ -1,0 +1,15 @@
+863
+CERT Coding Standards
+The SEI CERT Coding Standards are software coding standards developed by the CERT Coordination Center to improve the safety, reliability, and security of software systems. Individual standards are offered for C, [C++](640), Java, Android OS, and Perl.
+Guidelines in the CERT C Secure Coding Standard are cross-referenced with several other standards including [Common Weakness Enumeration](899) (CWE) entries and MISRA.
+
+See also
+Common Vulnerabilities and Exposures
+National Vulnerability Database
+
+References
+External links
+Official website
+CERT home page
+2016 SEI CERT C Coding Standard
+2016 SEI CERT [C++](640) Coding Standard

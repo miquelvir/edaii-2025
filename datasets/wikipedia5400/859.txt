@@ -1,0 +1,14 @@
+859
+List of C-family programming languages
+The C-family programming languages share significant features of the C programming language. Many were developmentally influenced by C due to its success and ubiquity. The family also includes predecessors that influenced C's design such as [BCPL](828).
+Notable programming sources use terms like C-style, C-like, a dialect of C, having C-like syntax. The term curly bracket programming language denotes a language that shares C's block syntax.
+C-family languages have features like:
+
+Code block delimited by curly braces ({}), a.k.a. braces, a.k.a. curly brackets
+Semicolon (;) statement terminator
+Parameter list delimited by parentheses (())
+Infix notation for arithmetical and logical expressions
+C-family languages span multiple programming paradigms, conceptual models, and run-time environments. 
+
+
+== References ==

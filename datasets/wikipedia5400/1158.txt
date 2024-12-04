@@ -1,0 +1,31 @@
+1158
+Alpine climate
+Alpine climate is the typical climate for elevations above the tree line, where trees fail to grow due to cold. This climate is also referred to as a mountain climate or highland climate.
+
+Definition
+There are multiple definitions of alpine climate.
+In the Köppen climate classification, the alpine and mountain climates are part of group E, along with the polar climate, where no month has a mean temperature higher than 10 °C (50 °F).
+According to the Holdridge life zone system, there are two mountain climates which prevent tree growth :
+a) the alpine climate,
+which occurs when the mean biotemperature of a location is between 1.5 and 3 °C (34.7 and 37.4 °F). The alpine climate in Holdridge system is roughly equivalent to the warmest tundra climates (ET) in the Köppen system.
+b) the alvar climate, the coldest mountain climate since the biotemperature is between 0 °C and 1.5 °C (biotemperature can never be below 0 °C). It corresponds more or less to the coldest tundra climates and to the ice cap climates (EF) as well.
+Holdrige reasoned that plants net primary productivity ceases with plants becoming dormant at temperatures below 0 °C (32 °F) and above 30 °C (86 °F). Therefore, he defined biotemperature as the mean of all temperatures but with all temperatures below freezing and above 30 °C adjusted to 0 °C; that is, the sum of temperatures not adjusted is divided by the number of all temperatures (including both adjusted and non-adjusted ones).
+The variability of the alpine climate throughout the year depends on the latitude of the location. For tropical oceanic locations, such as the summit of Mauna Loa, the temperature is roughly constant throughout the year. For mid-latitude locations, such as Mount Washington in New Hampshire, the temperature varies seasonally, but never gets very warm.
+
+Cause
+The temperature profile of the atmosphere is a result of an interaction between radiation and convection. Sunlight in the visible spectrum hits the ground and heats it. The ground then heats the air at the surface. If radiation were the only way to transfer heat from the ground to space, the greenhouse effect of gases in the atmosphere would keep the ground at roughly 333 K (60 °C; 140 °F), and the temperature would decay exponentially with height.
+However, when air is hot, it tends to expand, which lowers its density. Thus, hot air tends to rise and transfer heat upward. This is the process of convection. Convection comes to equilibrium when a parcel of air at a given altitude has the same density as its surroundings. Air is a poor conductor of heat, so a parcel of air will rise and fall without exchanging heat. This is known as an adiabatic process, which has a characteristic pressure-temperature curve. As the pressure gets lower, the temperature decreases. The rate of decrease of temperature with elevation is known as the adiabatic lapse rate, which is approximately 9.8 °C per kilometer (or 5.4 °F per 1000 feet) of altitude.
+The presence of water in the atmosphere complicates the process of convection. Water vapor contains latent heat of vaporization. As air rises and cools, it eventually becomes saturated and cannot hold its quantity of water vapor. The water vapor condenses (forming clouds), and releases heat, which changes the lapse rate from the dry adiabatic lapse rate to the moist adiabatic lapse rate (5.5 °C per kilometre or 3 °F per 1000 feet). The actual lapse rate, called the environmental lapse rate, is not constant (it can fluctuate throughout the day or seasonally and also regionally), but a normal lapse rate is 5.5 °C per 1,000 m (3.57 °F per 1,000 ft). Therefore, moving up 100 metres (330 ft) on a mountain is roughly equivalent to moving 80 kilometres (50 miles or 0.75° of latitude) towards the pole. This relationship is only approximate, however, since local factors, such as proximity to oceans, can drastically modify the climate. As the altitude increases, the main form of precipitation becomes snow and the winds increase. The temperature continues to drop until the tropopause, at 11,000 metres (36,000 ft), where it does not decrease further. This is higher than the highest summit.
+
+Distribution
+Although this climate classification only covers a small portion of the Earth's surface, alpine climates are widely distributed. They are present in the Himalayas, the Tibetan Plateau, Gansu, Qinghai and Mount Lebanon in Asia; the Alps, the Urals, the Pyrenees, the Cantabrian Mountains and the Sierra Nevada in Europe; the Andes in South America; the Sierra Nevada, the Cascade Range, the Rocky Mountains, the northern Appalachian Mountains (Adirondacks and White Mountains), and the Trans-Mexican Volcanic Belt in North America; the Southern Alps in New Zealand; the Snowy Mountains in Australia; high elevations in the Atlas Mountains, Ethiopian Highlands, and Eastern Highlands of Africa; the central parts of Borneo and New Guinea; and the summits of Mount Pico in the Atlantic and Mauna Loa in the Pacific.
+The lowest altitude of alpine climate varies dramatically by latitude. If alpine climate is defined by the tree line, then it occurs as low as 650 metres (2,130 ft) at 68°N in Sweden, while on Mount Kilimanjaro in Tanzania, the tree line is at 3,950 metres (12,960 ft).
+
+See also
+Alpine tundra
+Alpine plant
+Climate of the Alps
+List of alpine climate locations
+
+
+== References ==

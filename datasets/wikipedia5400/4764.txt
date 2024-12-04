@@ -1,0 +1,30 @@
+4764
+Close-mid back rounded vowel
+The close-mid back rounded vowel, or high-mid back rounded vowel, is a type of vowel sound used in some spoken languages. The symbol in the International Phonetic Alphabet that represents this sound is ⟨o⟩.
+
+Close-mid back protruded vowel
+The close-mid back protruded vowel is the most common variant of the close-mid back rounded vowel. It is typically transcribed in IPA simply as ⟨o⟩, and that is the convention used in this article. As there is no dedicated diacritic for protrusion in the IPA, the symbol for the close-mid back rounded vowel with an old diacritic for labialization, ⟨  ̫⟩, can be used as an ad hoc symbol ⟨o̫⟩ for the close-mid back protruded vowel. Another possible transcription is ⟨oʷ⟩ or ⟨ɤʷ⟩ (a close-mid back vowel modified by endolabialization), but this could be misread as a diphthong.
+For the close-mid near-back protruded vowel that is usually transcribed with the symbol ⟨ʊ⟩, see near-close back protruded vowel. If the usual symbol is ⟨o⟩, the vowel is listed here.
+
+Features
+Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel.
+Its vowel backness is back, which means the tongue is positioned back in the mouth without creating a constriction that would be classified as a consonant.
+Its roundedness is protruded, which means that the corners of the lips are drawn together, and the inner surfaces exposed.
+
+Occurrence
+Because back rounded vowels are assumed to have protrusion, and few descriptions cover the distinction, some of the following may actually have compression.
+
+Close-mid back compressed vowel
+There is no dedicated diacritic for compression in the IPA. However, compression of the lips can be shown with ⟨β̞⟩ as ⟨ɤ͡β̞⟩ (simultaneous ɤ and labial compression) or ⟨ɤᵝ⟩ (ɤ modified with labial compression). The spread-lip diacritic ⟨  ͍ ⟩ may also be used with a rounded vowel letter ⟨o͍⟩ as an ad hoc symbol, but 'spread' technically means unrounded.
+Only Wu Chinese is known to contrast it with the more typical protruded (endolabial) close-mid back vowel, but the height of both vowels varies from close to close-mid.
+
+Features
+Its vowel height is close-mid, also known as high-mid, which means the tongue is positioned halfway between a close vowel (a high vowel) and a mid vowel.
+Its vowel backness is back, which means the tongue is positioned back in the mouth without creating a constriction that would be classified as a consonant.
+Its roundedness is compressed, which means that the margins of the lips are tense and drawn together in such a way that the inner surfaces are not exposed.
+
+Occurrence
+Notes
+References
+External links
+List of languages with o on PHOIBLE

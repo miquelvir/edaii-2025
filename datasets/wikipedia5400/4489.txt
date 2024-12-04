@@ -1,0 +1,77 @@
+4489
+Bornholm dialect
+[Bornholm](1699)sk is an East Danish dialect spoken on the island of [Bornholm](1699) in the [Baltic Sea](182). It was originally part of the East Danish dialect continuum, which includes the dialects of southern [Sweden](1600), but became isolated in the Danish dialect landscape after 1658, when [Sweden](1600) annexed the eastern Danish provinces of Scania (Skåne), Halland and Blekinge.
+The language is more generally spoken than written, despite the existence of several [Bornholm](1699)sk–Danish dictionaries and a regular [Bornholm](1699)sk article in the local newspaper. Even words that are never used in Standard Danish are spelled according to the standard orthography.
+The dialect is endangered, as the inhabitants of [Bornholm](1699) have been shifting to standard Danish over the past century. "Bevar [Bornholm](1699)sk" is an organization whose purpose is to preserve [Bornholm](1699)sk. Its main organization is Kultur[Bornholm](1699), the editor of books with CDs with the text in [Bornholm](1699)sk.
+
+Dialects
+The small island has only about 40,000 inhabitants, yet the language is divided into five main dialects, not counting standard Danish. As an example, "eye" would be spelled iva in some regions, but elsewhere it would be øja, which is quite close to the Danish word øje and Scanian "öja-öjen".
+The northern part of the island would have more influence by Swedish than the rest of the island, due to the relatively large number of Swedish immigrants on those shores closest to [Sweden](1600). The differences are actually large enough so that the north-[Bornholm](1699) dialect is called Allinge-svensk ("Allinge-Swedish") in Danish – Âlinga-svænsk in [Bornholm](1699)sk. However, most Swedish immigrants hailed from the Scanian provinces and spoke dialects that derived from East Danish.
+
+Danish or Swedish?
+Like in the case of the closely related Scanian dialect spoken in Southern [Sweden](1600), the question whether the dialect is Danish or Swedish cannot be separated from the political and ideological burden attached to language as an ethnic marker. Therefore, Danes from other parts of the country may accuse people from [Bornholm](1699) of speaking Swedish as a kind of insult (using derogatory nicknames like reservesvensker, "auxiliary Swede").
+From a linguistic point of view, the Scandinavian languages form a continuum, and the dialects of Skåne, Blekinge, Halland and [Bornholm](1699) are a natural bridge between "sjællandsk" (the dialects of Zealand) and "götamål" (the dialects of Götaland). One may define "Danish" and Swedish" in two different ways:
+
+historically: Danish is the part of the dialect continuum that has certain sound changes in common like the weakening of plosives (see below) or certain innovations in the vocabulary.
+sociolinguistically: Danish is the part of the dialect continuum that has Standard Danish as its written standard (Dachsprache).
+According to both criteria, [Bornholm](1699)sk is indeed a Danish dialect (whereas modern Scanian would be Swedish according to the second one, although this was not so until 1680 when Swedish first became the language of the authorities and church in Scania).
+[Bornholm](1699)sk has indeed many phonetical features in common with Swedish (most of them archaisms, though, which are irrelevant for the classification of the dialect). Yet, in most cases where the vocabularies of Swedish and Danish differ, [Bornholm](1699)sk stands with Danish. This is also reflected in its IETF BCP 47 language tag, da-bornholm.
+
+Phonology
+Sound system
+An official standardised orthography of [Bornholm](1699)sk does not exist since Standard Danish is taught in schools and is the language of all public communication. However, dialect texts use a simplified phonetical alphabet (invented by K.J. Lyngby in the 19th century and also employed in Espersen's dictionary of [Bornholm](1699)sk):
+
+A stressed syllable always contains either a long vowel or a long consonant (like in Swedish, but unlike Standard Danish, where there are no long consonants). [Bornholm](1699)sk does not have the stød characteristic of most varieties of Danish, but on the other hand, it does not have the musical accent characteristic of Swedish and Norwegian either.
+
+Phonetic development
+In the list, there is special emphasis on the developments that set [Bornholm](1699)sk apart from Standard Danish. For the sake of convenience, Old Norse (i.e. Old Icelandic) forms have been quoted instead of Old Danish forms.
+
+postvocalic p > v v: kaupa "buy" > kjøvva ˈtɕøvːa (SD købe ˈkʰøːbə, colloquial and in most dialects ˈkʰøːʊ)
+postvocalic f > w or, seldom, v: grafa > grawa ˈɡʁaːwa (SD grave ˈɡʁɑːʊ), lefa "live" > lewa ˈleːwa (SD leve ˈleːʊ)
+w > v, but w after s, k: vatn "water" > vann ˈvanː (SD vand ˈʋænˀ), but sverja "swear" > swæra ˈswɛːʁa (SD sværge ˈsʋaːʊ), kvenna "woman" > kwinnja ˈkwiɲːa (SD kvinde ˈkʰʋenə).
+postvocalic t >  d d. In some words, we have ð, though, and increasingly so due to the influence from Standard Danish: bīta "bite" > bida ˈbiːda (SD bide ˈbiːð̩).
+postvocalic ð > -, sometimes (especially in unstressed syllables and learned words) ð: nauð "need" > nö ˈnœː (SD nød ˈnøðˀ), but mánaðr "month" > månad (SD måned ˈmɔːnð̩)
+postvocalic k > g after back-tongue-vowels. ēk, ek, ik, īk > æj or (before t, s) aj: kaka "cake" > kâga ˈkʰɑːɡa (SD kage ˈkʰæːɪ, ˈkʰæːæ); eik "oak" > æj ˈɛːj (SD eg ˈeːˀɪ̯), lík "corpse" > læj ˈlɛːj (SD lig ˈliːˀ), seks "six" > sajs ˈsaːjs (SD seks ˈsɛɡs)
+postvocalic g > w after back-tongue vowels and j after front-tongue vowels: fogl > fâwl ˈfɑːwl (SD fugl ˈfuːˀl), lagr "low" > lâwer ˈlɑːwəʁ (SD lav ˈlæʊ̯ˀ), segja "say" > saja ˈsaːja (SD sige ˈsiːi), vegr "way" > vaj ˈvaːj (SD vej ˈʋajˀ)
+k, g > kj, dj tɕ, dʑ before and after front-tongue vowels. tj and sj > kj tɕ and sj ʃ: keyra "run (a car)" > kjöra ˈtɕœːʁa (SD køre ˈkʰøːɐ), gess "geese" > gjæss ˈdʑɛsː (SD gæs ˈɡɛs), fekk "got" > fikj ˈfitɕ (SD fik ˈfeɡ), egg "egg" > ægj ˈɛdʑ (SD æg ˈɛːˀɡ).
+nn > nnj ɲː and nd > nn or (after i, y, u) nnj ɲː: þynnr "thin" > tynnjer ˈtʰyɲːəʁ (SD tynd ˈtˢønˀ), binda "bind" > binnja ˈbiɲːa (SD binde ˈbenə), but land "land" > lann ˈlanː (SD land ˈlænˀ).
+ll, ld > llj ʎː: oll "wool" > ullj ˈuʎː (SD uld ˈulˀ), kaldr "cold" > kålljer ˈkʰɔʎːəʁ (SD kold ˈkʰʌlˀ)
+ŋ > nnj ɲː after e and sometimes i, y: lengi > lænnje ˈlɛɲːə (SD længe ˈlɛŋə), þenkja, þenkti "think, thought" > tænjkja, tænjte ˈtʰɛːɲtɕa, ˈtʰɛːɲtʰə (SD tænke, tænkte ˈtˢɛŋɡə, ˈtˢɛŋdə)
+iū > y or, word-initially and after t, jy: ljós "light" > lyz ˈlyːz (SD lys ˈlyːˀs), jól "Christmas" > jyl ˈjyːl (SD jul ˈjuːˀl), þjórr "bull" > kjyr ˈtɕyːʁ (SD tyr ˈtˢyɐ̯ˀ)
+y, ø > i, e, æ before w: daufr "deaf" > dæwer ˈdɛːwəʁ (SD døv ˈdøʊ̯ˀ), tjogu "twenty" > tjuge > kjive ˈtɕiːvə (SD tyve ˈtˢyːʊ)
+unstressed a > a (like Swedish, but unlike the other Danish dialects): kalla "call" > kalja ˈkʰaːʎa (SD kalde ˈkʰælə), sumarr "summer" >  såmmar ˈsɔmːaʁ (SD sommer ˈsʌmɐ)
+long ō is preserved in closed syllables: bóndi "farmer" > bone ˈboːnə (SD bonde ˈb̥ɔnə), similarly hús > hōs "at (somebody)" > hos hoːs (SD hos hɔs)
+ow, ōw, uw, ūw > âw ɑw: dúfa "dove" > dâwwa ˈdɑwːa (SD due ˈduːu), skógr > skâww ˈskɑwː (SD skov ˈsɡʌʊ̯ˀ), sofa "sleep" > sâwwa ˈsɑʊːa (SD sove ˈsɒːʊ)
+
+Morphology
+Nominal inflection
+[Bornholm](1699)sk has retained three distinct grammatical genders, like Icelandic or Norwegian, and unlike standard Danish or Swedish. The gender inflection exists not only in the definite article (like in Norwegian and certain Danish dialects), but also in the adjectives:
+
+In adjectives, -er is the old ending of the masculine nominative still extant in German (-er), Icelandic (-ur) and Faroese (-ur), but lost in the other Scandinavian dialects (except for certain old phrases like Danish en ungersvend, originally en unger svend, "a young fellow"). In [Bornholm](1699)sk, it is used in all cases (since the dialect has not retained the Old Danish case flexion).
+Masculine nouns normally have the plural ending -a - and this is also the case when the singular ends in a vowel (where Standard Danish would have -er), e.g. skâwwa "woods" (sg. skâww), tima "hours" (sg. tima). Feminine nouns have -er. Neuter nouns have zero ending, and the definite article of the neuter plural is -en, e.g. huz "houses", huzen "the houses" (sg. huz)
+
+Pronouns
+[Bornholm](1699)sk has an enclitic form of the personal pronoun that is unknown in the other Danish dialects, namely masculine -iń "him" and feminine -na "her". They originate from the old accusatives hann and hana still used in Icelandic, whereas the Scandinavian languages, apart from spoken Swedish in the Mälaren Valley, normally use the old dative form for the oblique case (Danish ham, hende, Swedish honom, henne). These enclitic forms also occur in spoken Norwegian, where -n is masculine and -a is feminine. Colloquial and dialectal Swedish has them as well: jag har sett'n/sett'na "I have seen him/her".
+
+Verbal conjugation
+Until the 20th century, [Bornholm](1699)sk inflected the verbs in number, e.g. jâ bińńer "I bind" ~ vi bińńa "we bind", jâ bânt "I bound" ~ vi bonne "we bound". Spoken Danish gave up this inflection in the 18th century already, even though it was still practiced in the literary language until it was officially cancelled in 1900 (jeg binder ~ vi binde).
+[Bornholm](1699)sk also has special endings for the 2nd person, when a pronoun follows immediately after the ending, namely -st in the singular and -en in the plural:
+
+såstu-na "did you see her" (SD så du hende)
+gån i "are you going" (SD går I)
+varren så goa "here you are" (SD vær så god, værsgo; lit. "be so good/kind")
+
+Text samples
+Literature
+Beginning of a poem printed in Espersen's [Bornholm](1699)sk Ordbog.
+
+Spoken language
+Interview with a native speaker from Ibsker. The informant was born in 1906, and the text was recorded in 1973.1:
+
+Notes
+References
+J.C.S. Espersen, [Bornholm](1699)sk Ordbog, 1905.
+Prince, John Dyneley (1924). "The Danish Dialect of [Bornholm](1699)". Proceedings of the American Philosophical Society. 63 (2): 190–207.
+Kuhre, J. P. (1938). Borrinjholmska Sansager. [Bornholm](1699)ske folkeæventyr og dyrefabler. Danmarks Folkeminder vol. 45. Schønberg, København.
+Niels Åge Nielsen, Dansk dialektantologi, 1978, vol. 2, pp. 15–18.
+Leon Strømberg Derczynski & Alex Speed Kjeldsen, [Bornholm](1699)sk Natural Language Processing: Resources and Tools, Proceedings of the Nordic Conference on Computational Linguistics, 2019.

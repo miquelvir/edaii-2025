@@ -1,0 +1,37 @@
+687
+Computer programming in the punched card era
+From the invention of computer programming languages up to the mid-1970s, most computer programmers created, edited and stored their programs line by line on punch cards.
+
+Punched cards
+A punched card is a flexible write-once medium that encodes data, most commonly 80 characters. Groups or "decks" of cards form programs and collections of data. The term is often used interchangeably with punch card, the difference being that an unused card is a "punch card," but once information had been encoded by punching holes in the card, it was now a "punched card." For simplicity, this article will use the term punched card to refer to either.
+Often programmers first wrote their program out on special forms called coding sheets, taking care to distinguish the digit zero from the letter O, the digit one from the letter I, eight from B, two from Z, and so on using local conventions such as the "slashed zero". These forms were then taken by keypunch operators, who using a keypunch machine such as the IBM 026 (later IBM 029) punched the deck. Often another keypunch operator would then take that deck and re-punch from the coding sheets – but using a "verifier" such as the IBM 059 that checked that the original punching had no errors.
+A typing error generally necessitated re-punching an entire card. The editing of programs was facilitated by reorganizing the cards, and removing or replacing the lines that had changed; programs were backed up by duplicating the deck, or writing it to magnetic tape.
+In smaller organizations programmers might do their own punching, and in all cases would often have access to a keypunch to make small changes to a deck.
+
+Work environment
+The description below describes an all-IBM shop (a "shop" is programmer jargon for a programming site) but shops using other brands of mainframes (or minicomputers) would have similar equipment although because of cost or availability might have different manufacturer's equipment, e.g. an NCR, ICL, Hewlett-Packard (HP) or Control Data shop would have NCR, ICL, HP, or Control Data computers, printers and so forth, but have IBM 029 keypunches. IBM's huge size and industry footprint often caused many of their conventions to be adopted by other vendors, so the example below is fairly similar to most places, even in non-IBM shops.
+A typical corporate or university computer installation would have a suite of rooms, with a large, access-restricted, air-conditioned room for the computer (similar to today's server room) and a smaller quieter adjacent room for submitting jobs. Nearby would be a room full of keypunch machines for programmer use. An IBM 407 Accounting Machine might be set up to allow newly created or edited programs to be listed (printed out on fan-fold paper) for proofreading. An IBM 519 might be provided to reproduce program decks for backup or to punch sequential numbers in columns 73-80.  
+In such mainframe installations, known as "closed shops," programmers submitted the program decks, often followed by data cards to be read by the program, to a person working behind a counter in the computer room. During peak times, it was common to stand in line waiting to submit a deck. To solve that problem, the card reader could be reinstalled (or initially installed) outside of the computer room to allow programmers to do "self-service" job submission.
+Many computer installations used cards with the opposite corner cut (sometimes no corner cut) as "job separators", so that an operator could stack several job decks in the card reader at the same time and be able to quickly separate the decks manually when they removed them from the stacker. These cards (e.g., a JCL "JOB" card to start a new job) were often pre-punched in large quantities in advance. This was especially useful when the main computer did not read the cards directly, but instead read their images from magnetic tape that was prepared offline by smaller computers such as the IBM 1401. After reading the cards in, the computer operator would return the card deck – typically to one of a set of alphabetically labelled cubby holes, based on the programmer's last initial. Because programs were run in batch-mode processing it might be a considerable time before any hardcopy printed or punched output was produced, and put into these same cubby holes – however, on a lightly-used system, it was possible to make alterations and rerun a program in less than an hour.
+Dedicated programmers might stay up well past midnight to get a few quick turnarounds. Use of this expensive equipment was often charged to a user's account. A mainframe computer could cost millions of dollars and usage was measured in seconds per job.  
+Smaller computers like the IBM 1620 and 1130, and minicomputers such as the PDP-11 were less expensive, and often run as an "open shop", where programmers had exclusive use of the computer for a block of time. A keypunch was usually located nearby for quick corrections – although many of these smaller machines ran from punched tape.
+
+Identification and sequence
+Many early programming languages, including FORTRAN, [COBOL](642) and the various IBM assembler languages, used only the first 72 columns of a card – a tradition that traces back to the IBM 711 card reader used on the IBM 704/709/7090/7094 series (especially the IBM 704, the first mass-produced computer with floating-point arithmetic hardware), which could only read 72 of the 80 columns in one pass. 
+Columns 73-80 were ignored by the compilers and could be used for identification or a sequence number so that if the card deck was dropped it could be restored to its proper order using a card sorter.  Depending on the programming language, debugging output statements could be quickly activated and "commented out" by using cards with such statements punched with the comment character (e.g., 'C' in Fortran) in column 80 of the card; turning the card end-for-end would put the 'C' in the leading column, which transformed the now backwards card's contents into a comment while leaving the physical card in place in deck.
+(An alternative, imperfect but commonly employed technique to maintain proper card order was to draw one or more diagonal stripes across the top edge of all the cards in a deck.)
+In later years, as punch card data was converted to magnetic tape files the sequence numbers were often used as a column in an array as an index value that can be correlated to time sequences, such as in the natural sciences where the data on the cards were related to the periodic output of a measuring device such as water stage level recorders for rivers and streams in hydrology, or temperatures in meteorology.  Entire vaults full of card decks could be reduced to much smaller racks of nine-track tapes.
+
+See also
+Unit record equipment history
+
+Footnotes
+References
+External links
+Fisk, Dale (2005). "Programming With Punched Cards: A Programmer's Memories of Learning the Craft in 1973" (PDF). Retrieved 2008-11-11.: Article about the programming culture that developed around use of the punched card, following Fisk's experience of "learning the craft" from people around him.
+da Cruz, Frank (July 2001). "The Columbia University Self Service Input/Output Area". Columbia University Computing History.
+Organick, E. I. (1966). A Fortran IV Primer. Addison-Wesley.
+"IBM Punched Card Data Processing Principles (1961)". computercollector.com.
+
+
+== Gallery ==

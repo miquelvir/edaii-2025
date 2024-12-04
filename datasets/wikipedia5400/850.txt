@@ -1,0 +1,41 @@
+850
+Bounds checking
+In computer programming, bounds checking is any method of detecting whether a variable is within some bounds before it is used. It is usually used to ensure that a number fits into a given type (range checking), or that a variable being used as an array index is within the bounds of the array (index checking). A failed bounds check usually results in the generation of some sort of exception signal.
+As performing bounds checking during each use can be time-consuming, it is not always done. Bounds-checking elimination is a compiler optimization technique that eliminates unneeded bounds checking.
+
+Range checking
+A range check is a check to make sure a number is within a certain range; for example, to ensure that a value about to be assigned to a 16-bit integer is within the capacity of a 16-bit integer (i.e. checking against wrap-around). This is not quite the same as type checking. Other range checks may be more restrictive; for example, a variable to hold the number of a calendar month may be declared to accept only the range 1 to 12.
+
+Index checking
+Index checking means that, in all expressions indexing an array, the index value is checked against the bounds of the array (which were established when the array was defined), and if the index is out-of-bounds, further execution is suspended via some sort of error. Because reading or especially writing a value outside the bounds of an array may cause the program to malfunction or crash or enable security vulnerabilities (see buffer overflow), index checking is a part of many high-level languages.
+Early compiled programming languages with index checking ability included ALGOL 60, [ALGOL 68](707) and Pascal, as well as interpreted programming languages such as [BASIC](748).
+Many programming languages, such as C, never perform automatic bounds checking to raise speed. However, this leaves many off-by-one errors and buffer overflows uncaught. Many programmers believe these languages sacrifice too much for rapid execution. In his 1980 Turing Award lecture, C. A. R. Hoare described his experience in the design of ALGOL 60, a language that included bounds checking, saying:
+
+A consequence of this principle is that every occurrence of every subscript of every subscripted variable was on every occasion checked at run time against both the upper and the lower declared bounds of the array. Many years later we asked our customers whether they wished us to provide an option to switch off these checks in the interest of efficiency on production runs. Unanimously, they urged us not to—they already knew how frequently subscript errors occur on production runs where failure to detect them could be disastrous. I note with fear and horror that even in 1980, language designers and users have not learned this lesson. In any respectable branch of engineering, failure to observe such elementary precautions would have long been against the law.
+Mainstream languages that enforce run time checking include Ada, C#, Haskell, Java, JavaScript, Lisp, PHP, Python, Ruby, Rust, and Visual Basic. The D and OCaml languages have run time bounds checking that is enabled or disabled with a compiler switch. In [C++](640) run time checking is not part of the language, but part of the STL and is enabled with a compiler switch (_GLIBCXX_DEBUG=1 or _LIBCPP_DEBUG=1). C# also supports unsafe regions: sections of code that (among other things) temporarily suspend bounds checking to raise efficiency. These are useful for speeding up small time-critical bottlenecks without sacrificing the safety of a whole program.
+The JS++ programming language is able to analyze if an array index or map key is out-of-bounds at compile time using existent types, which is a nominal type describing whether the index or key is within-bounds or out-of-bounds and guides code generation. Existent types have been shown to add only 1ms overhead to compile times.
+
+Hardware bounds checking
+The safety added by bounds checking necessarily costs CPU time if the checking is performed in software; however, if the checks could be performed by hardware, then the safety can be provided "for free" with no runtime cost. An early system with hardware bounds checking was the ICL 2900 Series mainframe announced in 1974. The VAX computer has an INDEX assembly instruction for array index checking which takes six operands, all of which can use any VAX addressing mode. The B6500 and similar Burroughs computers performed bound checking via hardware, irrespective of which computer language had been compiled to produce the machine code.  A limited number of later CPUs have specialised instructions for checking bounds, e.g., the CHK2 instruction on the Motorola 68000 series.
+Research has been underway since at least 2005 regarding methods to use x86's built-in virtual memory management unit to ensure safety of array and buffer accesses. In 2015 Intel provided their Intel MPX extensions in their Skylake processor architecture which stores bounds in a CPU register and table in memory. As of early 2017 at least GCC supports MPX extensions.
+
+See also
+Dynamic code analysis
+Runtime error detection
+Static code analysis
+
+References
+External links
+“On The Advantages Of Tagged Architecture”, IEEE Transactions On Computers, Volume C-22, Number 7, July, 1973.
+“The Emperor’s Old Clothes Archived 2017-10-02 at the Wayback Machine”, The 1980 ACM Turing Award Lecture, CACM volume 24 number 2, February 1981, pp 75–83.
+“Bcc: Runtime checking for C programs”, Samuel C. Kendall, Proceedings of the USENIX Summer 1983 Conference.
+“Bounds Checking for C”, Richard Jones and Paul Kelly, Imperial College, July 1995.
+“ClearPath Enterprise Servers MCP Security Overview”, Unisys, April 2006.
+“Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems”, John Criswell, Andrew Lenharth, Dinakar Dhurjati, Vikram Adve, SOSP'07 21st ACM Symposium on Operating Systems Principles, 2007.
+“Fail-Safe C”, Yutaka Oiwa. Implementation of the Memory-safe Full ANSI-C Compiler. ACM SIGPLAN Conference on Programing Language Design and Implementations (PLDI2009), June 2009.
+“address-sanitizer”, Timur Iskhodzhanov, Alexander Potapenko, Alexey Samsonov, Kostya Serebryany, Evgeniy Stepanov, Dmitriy Vyukov, LLVM Dev Meeting, November 18, 2011.
+Safe C Library of Bounded APIs
+"The Safe C Library". Dr. Dobb's Journal. February 20, 2009. Archived from the original on December 2, 2013. Retrieved November 13, 2012.
+Safe C API—Concise solution of buffer overflow, The OWASP Foundation, OWASP AppSec, Beijing 2011 
+The GNU [C++](640) Library Manual Macros
+libc++ 11.0 documentation Debug Mode

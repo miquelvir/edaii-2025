@@ -1,0 +1,65 @@
+532
+Altitudinal migration
+Altitudinal migration is a short-distance animal migration from lower altitudes to higher altitudes and back. Altitudinal migrants change their elevation with the seasons making this form of animal migration seasonal. Altitudinal migration can be most commonly observed in species inhabiting temperate or tropical ecosystems. This behavior is commonly seen among avian species but can also be observed within other vertebrates and some invertebrates. It is commonly thought to happen in response to climate and food availability changes as well as increasingly due to anthropogenic influence. These migrations can occur both during reproductive and non-reproductive seasons.
+The patterns of altitudinal migration may be affected by climate change resulting in potentially life-threatening situations for some species. Deforestation can affect the migration corridors of altitudinal migrant and could lead to smaller areas for these species to migrate. Changes in the environment of altitudinally migrating species can also affect seed dispersal.
+
+Regions
+Species that exhibit altitudinal migration can be found in almost every continent on Earth. The only continent in which altitudinal migration cannot be observed is Antarctica. There are many documented examples of migratory range shifts along an elevation gradient among temperate species. While these migrations are more understood in temperate regions, and far less understood among tropical ecosystems and species, there are documented cases. Altitudinal migration is typically seen among taxa found in montane areas. Generally, as elevation increases, the species richness decreases.
+Typical characteristics of tropical altitudinal migrants include: a high rate of frugivory or nectarivory; movement between lower elevation areas during non-breeding seasons and higher elevation areas during breeding seasons, or on a consistent annual or seasonal cycle; at least part of the population being migratory with a possible portion of the population residing at breeding sites year-round. This last characteristic can be sex-biased, as it is with juncos, in which the males are less likely to migrate than the females. The white-ruffed manakin provides a good example of an altitudinal migrant by displaying all of these traits. It has a high rate of frugivory, migrates from lower elevations to higher elevations on a predictable breeding-season based cycle, and part of the population is migratory, with a small portion possibly remaining at the breeding sites year-round.
+
+Species
+There are many species of animals which exhibit altitudinal migration. While there is many examples of vertebrates which exhibit altitudinal migration, as of 2021 there are few documented examples of invertebrates which exhibit altitudinal migration.
+
+Vertebrates
+Birds
+In the tropics, altitudinal migrations are most commonly seen among frugivores or nectarivores, such as what is seen among tropical hummingbirds, which migrate altitudinally in response to shifts in food abundance and availability. This migration pattern has been observed in neotropical birds, but has also been seen in other terrestrial, tropical montane species such as Baird's tapir and white-lipped peccary.
+Tropical avian species that are altitudinal migrants include the white-ruffed manakin, resplendent quetzal, at least 16 species of raptor, and many species of hummingbird.
+The Hawaiian goose, or Nene, is a species of goose native to the Hawaiian islands which has been known to migrate altitudinally. This species of goose can be found in lower elevations during breeding seasons and when molting, and in higher elevations during non-breeding seasons.
+Temperate avian species which have been known to altitudinally migrate include the American robin, mountain chickadee, and American dipper.
+
+Mammals
+While less common in avian species in the temperate regions, altitudinal migration still plays a part in migration patterns in montane zones and is seen in most ungulates in the Rocky Mountains.
+
+Ungulates that have been observed to migrate altitudinally include roe deer, bighorn sheep, and mountain goats. There are fewer documented examples of tropical mammal altitudinal migrants. While there are less known examples, some tropical bat species have been known to migrate altitudinally. As of 2014, there is not much information as to why tropical species migrate altitudinally, other than that it may be for food resources or reproduction, as it is for temperate bat species. Temperate bat species are also altitudinal migrants. Their migratory patterns are sex-biased altitudinal migrations, with females inhabiting lower elevations during reproductive periods.
+
+Invertebrates
+There is little documentation regarding invertebrates that migrate altitudinally compared to avian species, but documentation does exist. The Monarch butterfly a species which has been known to migrate altitudinally, as well as the chestnut tiger butterfly. According to Masahito T. Kimura, invertebrates migrate altitudinally "as a means to escape from unfavorable conditions such as low winter temperature, summer heat, low resource availability, high parasitism, severe microbe infection or overcrowding."
+
+Causes
+Altitudinal migration, as a short-distance migration pattern, has been easier to trace than long-distance patterns. Still, while the proximate causes and physiological adaptations for migrations are well understood, determining the ultimate causes have been difficult. This difficulty has been linked to limited success of mark and recapture techniques used to track migratory species. There are many hypotheses for why altitudinal migration may occur, including correlations between food abundance and nutrition-the need to migrate in order to meet specific needs associated with varying abundance and nutrition; reproduction-breeding sites being at elevations different from those of non-breeding sites; anthropogenic-species being increasingly driven to higher altitudes due to human actions.
+
+Food abundance and nutrition
+Migration in response to food abundance has been the most accepted hypothesis for why species migrate altitudinally. This hypothesis states that peaks in food abundance along an elevational gradient, such as the slope of a mountain, drive migration patterns as species exploit available food resources. Peaks in food abundance along this gradient often coincide with the breeding season.  Some frugivorous birds, such as white-ruffed manakins (Corapipo altera) migrate to higher elevations to exploit peaks in fruit abundance. Evidence supports the possibility that migrants have a competitive advantage compared to non-migrant (sedentary) species, due to increased foraging ability over a larger area, resulting in greater food and nutrient uptake. It's been shown that diet differs between non-migratory and migratory species in large-scale analyses and species-pair comparisons of frugivorous tropical birds.
+While this hypothesis is supported, and has been the most accepted, it fails to explain why altitudinal migrants return to lower elevations, or if it is done in response to shifting food resources. It has been proposed that weather-related resource availability may trigger the elevational migration of some species, such as the white-ruffed manakin during storms.
+
+Reproduction
+A number of species engage in movement that could be defined as altitudinal migration as part of their mating or reproductive behaviors.
+For example, in male white-ruffed manakins, migratory behavior has shown to lessen social status and mating success at leks the following breeding season.
+Most hummingbird species at Monteverde increase altitude during the wet season in order to breed.
+Of the 16 species of neotropical raptors (including the Andean condor Vultur gryphus), that are known to be altitudinal migrants, most breed in the high Andes and migrate to lowland areas during non-breeding seasons.
+
+Nest predation
+Studies have shown a decreased risk of nest predation at higher altitudes, which may explain the seasonal (breeding season—non-breeding season) altitudinal migration of some passerine birds. An experiment using 385 nests at varying locations on the Atlantic slope of Costa Rica showed decreased predation at increasing altitudes, with predation highest at intermediate altitudes. This hypothesis proposes that altitudinal migration may have evolved among some species as a response to nest predation, as a way lower the risk. Studies have also shown that elevation of home range influences breeding time.
+
+Anthropogenic
+The walia ibex (Capra walie) has increasingly been driven to higher altitudes in Ethiopian mountain ranges. This has occurred because of human activity impacting their native range, including war, expanding human settlement, and cultivation.
+
+Conservation implications
+Climate change
+Climate change could be causing migration patterns to shift into an earlier time frame, coinciding with an earlier start of the growing period. This means that migratory species may leave lower altitudes for higher-altitude breeding sites while those breeding sites still lack the necessary resources. Some species that have shorter migratory paths may be able to return to the lower elevations and wait, but run the risk of running out of the resources in that lower altitude, such as food and cover, that may only be available for a short, set period of time.
+Over 30% of birds and other species in montane forests show altitudinal migration patterns. Because of this, changes in climate and seasonality (decrease or increase) would affect a large portion of tropical species and have the potential to cause a trophic cascade on the community-level.
+Furthermore, climate change may cause seasonal storms and rainfall patterns to change, shifting the timing and/or need for altitudinal migration in the future by shifting availability of resources, which is believed to be a driving cause of altitudinal migration.
+The upward shift of species caused by climate change also holds the potential to cause both mountaintop extinction and lowland biotic attrition. This is because the lowland tropics lack species that can cope with increasing temperatures. An overall loss of species richness can occur due to there being fewer migratory species to replace lost ones.
+This has been seen occurring by looking at the average time of arrival and departure at high altitude areas for the American robin (Turdus migratorius). The average time interval has shifted by as much as two weeks due to the change in seasonal patterns of resource abundance and temperature.
+
+Migration corridors
+Migration corridors, connecting lowland and montane habitats are essential for the upkeep and survival of migratory species. Some species can cross cleared lands, such as pastures, but many require closed forest areas, such as what is provided by these migration corridors. Deforestation can disrupt these corridors and affect the migration pattern of species which do exhibit altitudinal migration. Deforestation can limit the amount of space available for migration, leading to a more narrow and limited migration pattern.
+
+Seed dispersal
+Tropical frugivorous birds have complex elevational migrations and are responsible for the dispersal of many species of seeds across the different Holdridge life zones and transitional regions, causing wide dispersal of plant species and significant ecological linkage. A change in migration patterns can cause a decrease in the efficiency, and ability of these species as seed dispersal agents.
+
+See also
+Transhumance – the seasonal movement of people and livestock between winter and summer pasture
+
+
+== References ==

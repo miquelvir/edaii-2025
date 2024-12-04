@@ -1,0 +1,34 @@
+2965
+Before Present
+Before Present (BP) or "years before present (YBP)" is a time scale used mainly in archaeology, geology, and other scientific disciplines to specify when events occurred relative to the origin of practical radiocarbon dating in the 1950s. Because the "present" time changes, standard practice is to use 1 January 1950 as the commencement date (epoch) of the age scale, with 1950 being labelled as the "standard year". The abbreviation "BP" has been interpreted retrospectively as "Before Physics", which refers to the time before nuclear weapons testing artificially altered the proportion of the carbon isotopes in the atmosphere, which scientists must account for.
+In a convention that is not always observed, many sources restrict the use of BP dates to those produced with radiocarbon dating; the alternative notation "RCYBP" stands for the explicit "radio carbon years before present".
+
+Usage
+The BP scale is sometimes used for dates established by means other than radiocarbon dating, such as stratigraphy. This usage differs from the recommendation by van der Plicht & Hogg, followed by the Quaternary Science Reviews, both of which requested that publications should use the unit "a" (for "annum", Latin for "year") and reserve the term "BP" for radiocarbon estimations.
+Some archaeologists use the lowercase letters bp, bc and ad as terminology for uncalibrated dates for these eras.
+The Centre for Ice and Climate at the University of Copenhagen instead uses the unambiguous "b2k", for "years before 2000 AD", often in combination with the Greenland Ice Core Chronology 2005 (GICC05) time scale.
+Some authors who use the YBP dating format also use "YAP" ("years after present") to denote years after 1950.
+
+SI prefixes
+SI prefix multipliers may be used to express larger periods of time, e.g. ka BP (thousand years BP), Ma BP (million years BP) and many others.
+
+Radiocarbon dating
+Radiocarbon dating was first used in 1949. Beginning in 1954, metrologists established 1950 as the origin year for the BP scale for use with radiocarbon dating, using a 1950-based reference sample of oxalic acid. According to scientist A. Currie Lloyd:
+
+The problem was tackled by the international radiocarbon community in the late 1950s, in cooperation with the U.S. National Bureau of Standards. A large quantity of contemporary oxalic acid dihydrate was prepared as NBS Standard Reference Material (SRM) 4990B. Its 14C concentration was about 5% above what was believed to be the natural level, so the standard for radiocarbon dating was defined as 0.95 times the 14C concentration of this material, adjusted to a 13C reference value of −19 per mil (PDB). This value is defined as "modern carbon" referenced to AD 1950. Radiocarbon measurements are compared to this modern carbon value, and expressed as "fraction of modern" (fM). "Radiocarbon ages" are calculated from fM using the exponential decay relation and the "Libby half-life" 5568 a. The ages are expressed in years before present (BP) where "present" is defined as AD 1950.
+The year 1950 was chosen because it was the standard astronomical epoch at that time. It also marked the publication of the first radiocarbon dates in December 1949, and 1950 also antedates large-scale atmospheric testing of nuclear weapons, which altered the global ratio of carbon-14 to carbon-12.
+
+Radiocarbon calibration
+Dates determined using radiocarbon dating come as two kinds: uncalibrated (also called Libby or raw) and calibrated (also called Cambridge) dates. Uncalibrated radiocarbon dates should be clearly noted as such by "uncalibrated years BP", because they are not identical to calendar dates. This has to do with the fact that the level of atmospheric radiocarbon (carbon-14 or 14C) has not been strictly constant during the span of time that can be radiocarbon-dated. Uncalibrated radiocarbon ages can be converted to calendar dates by calibration curves based on comparison of raw radiocarbon dates of samples independently dated by other methods, such as dendrochronology (dating based on tree growth-rings) and stratigraphy (dating based on sediment layers in mud or sedimentary rock). Such calibrated dates are expressed as cal BP, where "cal" indicates "calibrated years", or "calendar years", before 1950.
+Many scholarly and scientific journals require that published calibrated results be accompanied by the name (standard codes are used) of the laboratory concerned, and other information such as confidence levels, because of differences between the methods used by different laboratories and changes in calibrating methods.
+
+Conversion
+Conversion from Gregorian calendar years to Before Present years is by starting with the 1950-01-01 epoch of the Gregorian calendar and increasing the BP year count with each year into the past from that Gregorian date.
+For example, 1000 BP corresponds to 950 AD, 1949 BP corresponds to 1 AD, 1950 BP corresponds to 1 BC, 2000 BP corresponds to 51 BC.
+
+See also
+Anthropocene
+
+Citations
+Sources
+Aitken, M.J. (1990). Science-based Dating in [Archaeology](157). London: Longman. ISBN 978-0-582-49309-4.

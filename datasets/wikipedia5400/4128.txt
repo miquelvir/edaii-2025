@@ -1,0 +1,54 @@
+4128
+Allan Sandage
+Allan Rex Sandage (June 18, 1926 – November 13, 2010) was an American astronomer. He was Staff Member Emeritus with the Carnegie Observatories in Pasadena, California. He determined the first reasonably accurate values for the Hubble constant and the age of the universe.
+
+Career
+Sandage was one of the most influential astronomers of the 20th century. He was born in Iowa City, Iowa, [United States](1100).  He graduated from the University of Illinois in 1948. In 1953 he received a PhD from the California Institute of Technology; the German-born Wilson Observatory-based astronomer Walter Baade was his advisor. During this time Sandage was a graduate student assistant to cosmologist Edwin Hubble. He continued Hubble's research program after Hubble died in 1953.
+In 1952 Baade surprised his fellow astronomers by announcing (at the 1952 Conference of the International Astronomical Union, in Rome) his determination of two separate populations of Cepheid variable stars in the Andromeda Galaxy, resulted in a doubling of the estimated age of the universe (from 1.8 to 3.6 billion years). Hubble had posited the earlier value; he had considered only the weaker Population II Cepheid variables as standard candles. After Baade's pronouncements, Sandage showed that astronomers' previous assumption, that the brightest stars in galaxies were of approximately equal inherent intensity, was mistaken in the case of H II regions which he found not to be stars and inherently brighter than the brightest stars in distant galaxies. This resulted in another 1.5-fold increase in the calculated age of the universe, to approximately 5.5 billion years.
+Throughout the 1950s and well into the 1980s Sandage was regarded as the pre-eminent observational cosmologist, making contributions to all aspects of the cosmological distance scale, ranging from calibrators within our own Milky Way Galaxy, to cosmologically distant galaxies.
+Sandage began working at the Palomar Observatory. In 1958 he published the first good estimate for the Hubble constant, revising Hubble's value of 250 down to 75 km/s/Mpc, which is close to today's accepted value. Later he became the chief advocate of an even lower value, around 50, corresponding to a Hubble age of around 20 billion years.  At the time, many, especially Sandage, believed that the cosmological constant was zero.  In such a case, a low Hubble constant is necessary in order for the age of the universe (as opposed to the Hubble age) to be at least as old as the oldest objects it contains, i.e. ca. 14 billion years.
+Sandage performed photometric studies of globular clusters, and calculated their age to be at least 25 billion years. This led him to speculate that the universe did not merely expand, but actually expanded and contracted with a period of 80 billion years. The current cosmological estimates of the age of the universe, in contrast, are typically of the order of 14 billion years. As part of his studies concerning the formation of galaxies in the early universe, he co-wrote the paper now referred to as ELS after the authors Olin J. Eggen, Donald Lynden-Bell and Sandage, first describing the collapse of a proto-galactic gas cloud into our present Milky Way Galaxy. He later defended the paper in 1990.
+In his 1961 paper "The Ability of the 200-inch Telescope to Discriminate Between Selected World Models," he suggested that the future of observational cosmology would be the search for two parameters: the Hubble constant H0 and the deceleration parameter q0. This paper influenced observational cosmology for at least three decades as it carefully specified the types of observational tests that could be performed with a large telescope. He also published two atlases of galaxies, in 1961 and 1981, based on the Hubble classification scheme.
+In 1962 Sandage studied the possibility of directly measuring the temporal variation of the redshift of extra-galactic sources. This analysis became known as the "Sandage–Loeb test".
+Sandage discovered jets erupting from the core of the so-called Cigar Galaxy. These must have been caused by massive explosions in the core, and they have apparently been occurring for at least 1.5 million years.
+Sandage was a prolific researcher; during his career he published more than 500 papers. Until his death he continued to be an active researcher at the Carnegie Observatories, still publishing several papers a year.
+
+Personal life
+In 1959, Sandage married Mary Connelley, also an astronomer, with whom he had two sons, David and John. In 1983 Sandage announced he had become a Christian and began to write essays on the subject of religion and science. On November 13, 2010, Sandage died of pancreatic cancer at his home in San Gabriel, California. He was 84 years old.
+
+Honors
+Awards
+
+Helen B. Warner Prize for [Astronomy](3865) (1957)
+Member of the [American Philosophical Society](3133) (1962)
+Member of the National Academy of Sciences (1963)
+Eddington Medal (1963)
+Gold Medal of the Royal Astronomical Society (1967)
+National Medal of Science (1970)
+Henry Norris Russell Lectureship (1972)
+Elliott Cresson Medal (1973)
+Fellow of the Royal Society
+Bruce Medal (1975)
+Golden Plate Award of the American Academy of Achievement (1976)
+Crafoord Prize (1991)
+Member of the [American Philosophical Society](3133) (1995)
+Gruber Prize in Cosmology (2000)
+Named after him
+
+Main-belt asteroid, 9963 Sandage (1992 AN)
+
+References
+Carnegie Cosmologist Allan Sandage Dies, Sandage joined the staff of the Carnegie Observatories in 1952 and, after Hubble's death in 1953; Sandage became responsible for the cosmology program using telescopes at Mount Wilson and Palomar
+
+Further reading
+Alan P. Lightman and Roberta Brawer, Origins: the lives and worlds of modern cosmologists, Harvard University Press, 1990. Interviews with modern cosmologists, including Sandage.
+Lynden-Bell, Donald; Schweizer, Francois (2012), "Allan R. Sandage, 18 June 1926 - 13 November 2010", Biographical Memoirs of Fellows of the Royal Society, 58: 245–264, arXiv:1111.5646, Bibcode:2012BMFRL..58..245L, doi:10.1098/rsbm.2011.0021, S2CID 72680092
+Timothy Ferris, The Red Limit: The Search for the Edge of the Universe, Harper Perennial, 2002. Non-technical description of research, primarily up to about 1980, on cosmology; Sandage was a key figure, and features accordingly.
+Dennis Overbye, Lonely Hearts of the Cosmos: the story of the scientific quest for the secret of the Universe, HarperCollins 1991, Back Bay (with new afterword), 1999. Historical account of modern cosmology told through the careers of the scientists involved, in which Sandage is the central character. Complementary to Origins.
+Allan Sandage, The Mount Wilson Observatory. Centennial History of the Carnegie Institution of Washington, Vol. 1. Cambridge University Press, 2004. Sandage's account of the observatory where he worked, with the background to his own work with Hubble and others.
+
+External links
+Bruce Medalist page on Allan Sandage Archived 2020-04-19 at the Wayback Machine
+Allan Sandage directory page at the IAU
+Allan Sandage page at The Carnegie Observatories
+Rowan-Robinson, Michael (2011). "Obituaries: Allan Rex Sandage". Physics Today. 64 (6): 64–65. Bibcode:2011PhT....64f..64R. doi:10.1063/1.3603926.

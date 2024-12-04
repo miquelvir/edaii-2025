@@ -1,0 +1,37 @@
+935
+Christos Papadimitriou
+Christos Charilaos Papadimitriou (Greek: Χρήστος Χαρίλαος "Χρίστος" Παπαδημητρίου; born August 16, 1949) is a Greek-American theoretical computer scientist and the Donovan Family Professor of Computer Science at Columbia University.
+
+Education
+Papadimitriou studied at the National Technical University of [Athens](599), where in 1972 he received his Bachelor of Arts degree in electrical engineering. He then pursued graduate studies at Princeton University, where he received his Ph.D. in electrical engineering and computer science in 1976 after completing a doctoral dissertation titled "The complexity of combinatorial optimization problems."
+
+Career
+Papadimitriou has taught at Harvard, MIT, the National Technical University of [Athens](599), Stanford, UCSD, University of California, Berkeley and is currently the Donovan Family Professor of Computer Science at Columbia University.
+Papadimitriou co-authored a paper on pancake sorting with Bill Gates, then a Harvard undergraduate. Papadimitriou recalled "Two years later, I called to tell him our paper had been accepted to a fine math journal. He sounded eminently disinterested. He had moved to Albuquerque, New Mexico to run a small company writing code for microprocessors, of all things. I remember thinking: 'Such a brilliant kid. What a waste.'" The company was Microsoft.
+Papadimitriou co-authored "The Complexity of Computing a Nash Equilibrium" with his students Constantinos Daskalakis and Paul W. Goldberg, for which they received the 2008 Kalai Game Theory and Computer Science Prize from the Game Theory Society for "the best paper at the interface of game theory and computer science", in particular "for its key conceptual and technical contributions"; and the Outstanding Paper Prize from the Society for Industrial and Applied Mathematics.
+In 2001, Papadimitriou was inducted as a Fellow of the [Association for Computing Machinery](823) and in 2002 he was awarded the Knuth Prize. Also in 2002, he became a member of the U.S. National Academy of Engineering for contributions to complexity theory, database theory, and combinatorial optimization. In 2009 he was elected to the US National Academy of Sciences. During the 36th International Colloquium on Automata, Languages and Programming (ICALP 2009), there was a special event honoring Papadimitriou's contributions to computer science. In 2012, he, along with Elias Koutsoupias, was awarded the Gödel Prize for their joint work on the concept of the price of anarchy.
+Papadimitriou is the author of the textbook Computational Complexity, one of the most widely used textbooks in the field of computational complexity theory. He has also co-authored the textbook [Algorithm](612)s (2008) with Sanjoy Dasgupta and Umesh Vazirani, and the graphic novel Logicomix (2009) with Apostolos Doxiadis.
+His name was listed in the 19th position on the CiteSeer search engine academic database and digital library.
+
+Honors and awards
+In 1997, Papadimitriou received a doctorate honoris causa from the ETH Zurich.
+In 2011, Papadimitriou received a doctorate honoris causa from the National Technical University of [Athens](599).
+In 2013, Papadimitriou received a doctorate honoris causa from the École polytechnique fédérale de Lausanne (EPFL).
+Papadimitriou was awarded the IEEE John von Neumann Medal in 2016, the EATCS Award in 2015, the Gödel Prize in 2012, the IEEE Computer Society Charles Babbage Award in 2004, and the Knuth Prize in 2002. In 2019 he received the Harvey Prize of the Technion/Israel for the year 2018.
+
+Publications
+Elements of the Theory of Computation (with Harry R. Lewis). Prentice-Hall, 1982; second edition September 1997. greek edition
+Combinatorial Optimization: [Algorithm](612)s and Complexity (with Kenneth Steiglitz). Prentice-Hall, 1982; second edition, Dover, 1998.
+The Theory of Database Concurrency Control. CS Press, 1986.
+Computational Complexity. Addison Wesley, 1994.
+Turing (a Novel about Computation). MIT Press, November 2003.
+Life Sentence to Hackers? (in Greek). Kastaniotis Editions, 2004. A compilation of articles written for the Greek newspaper To Vima.
+[Algorithm](612)s (coauthored with Sanjoy Dasgupta and Umesh Vazirani). McGraw-Hill, September 2008
+Logicomix, An Epic Search for Truth (coauthored with Apostolos Doxiadis, with artwork by Alecos Papadatos and Annie di Donna). Bloomsbury Publishing and Bloomsbury USA, September 2009.
+He co-authored a paper with Bill Gates, co-founder of Microsoft, on pancake sorting.
+
+Personal life
+At UC Berkeley, in 2006, he joined a professor-and-graduate-student band called Lady X and The Positive Eigenvalues.
+
+
+== References ==

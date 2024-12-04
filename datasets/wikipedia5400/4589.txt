@@ -1,0 +1,38 @@
+4589
+Bühnendeutsch
+Bühnendeutsch (German: ˈbyːnənˌdɔʏtʃ, "stage German") or Bühnenaussprache (IPA: ˈbyːnənˌʔaʊsʃpʁaːxə , "stage pronunciation") is a unified set of pronunciation rules for the German literary language used in the theatre of the German Sprachraum.  Established in the 19th century, it came to be considered pure High German. It was codified in the pronouncing dictionary Deutsche Bühnenaussprache, edited by the German scholar Theodor Siebs, and first published in 1898.
+An artificial standard not corresponding directly to any dialect, Bühnendeutsch is mostly based on Standard German as spoken in Northern Germany.  For example, the suffix -ig is pronounced ɪç.
+
+Sonorants
+Three acceptable realizations of /r/
+Until 1957, only two pronunciations were allowed: an alveolar trill r and an alveolar flap ɾ. After 1957, a uvular trill ʀ was also allowed. A voiced uvular fricative ʁ, used extensively in contemporary Standard German, is not allowed. Therefore, rot ('red') can be pronounced roːt, ɾoːt and ʀoːt but not ʁoːt.
+
+Rhoticism
+The vocalized ɐ̯ realization of /r/ found in German or Austrian Standard German corresponds to r ~ ɾ ~ ʀ in Bühnendeutsch so für 'for' is pronounced fyːr ~ fyːɾ ~ fyːʀ rather than fyːɐ̯.
+Whenever the sequence /ər/ is vocalized to ɐ in German or Austrian Standard German, Bühnendeutsch requires a sequence ər ~ əɾ ~ əʀ so besser 'better' is pronounced ˈbɛsər ~ ˈbɛsəɾ ~ ˈbɛsəʀ rather than ˈbɛsɐ.
+In contemporary Standard German, both of these features are found almost exclusively in Switzerland.
+
+No schwa-elision
+Contrary to Standard German, /ə/ cannot be elided before a sonorant consonant (making it syllabic) so Faden 'yarn' is pronounced ˈfaːdən rather than the standard ˈfaːdn̩.
+
+Fronting of word-final schwa
+In loanwords from Latin and [Ancient Greek](3061), the word-final /ə/ is realized as a short, tense e so Psyche 'psyche' is pronounced ˈpsyːçe rather than the standard ˈpsyːçə.
+
+Obstruents
+Syllable-final fortition
+As in Standard German, syllable-final obstruents written with the letters used also for syllable-initial lenis sounds (⟨b, d, g⟩ etc.) are realized as fortis so Absicht 'intention' is pronounced ˈʔapz̬ɪçt (note the full voicing of /z/, which, in position immediately after a fortis, occurs in Bühnendeutsch: see below), but Bad 'bath' is pronounced baːt.
+The corresponding standard southern (Southern German, Austrian, Swiss) pronunciations contain lenis consonants in that position: ˈab̥z̥ɪçt ~ ˈab̥sɪçt and b̥aːd̥, respectively.
+
+Strong aspiration of /p, t, k/
+The voiceless plosives /p, t, k/ are aspirated pʰ, tʰ, kʰ in the same environments as in Standard German but more strongly, especially to environments in which the Standard German plosives are aspirated moderately and weakly: in unstressed intervocalic and word-final positions. That can be transcribed in the IPA as pʰʰ, tʰʰ, kʰʰ. The voiceless affricates /p͡f, t͡s, t͡ʃ/ are unaspirated p͡f˭, t͡s˭, t͡ʃ˭, as in Standard German.
+
+Complete voicing of lenis obstruents
+The lenis obstruents /b, d, ɡ, d͡ʒ, v, ð, ʝ, z, ʒ/ are fully voiced b̬, d̬, ɡ̬, d̬͡ʒ̬, v̬, ð̬, ʝ̬, z̬, ʒ̬ after voiceless obstruents so abdanken 'to resign' is pronounced ˈʔapd̬aŋkən. That is in contrast with the Northern pronunciation, which requires the lenis sounds to be devoiced in that position: ˈʔapd̥aŋkn̩. Southern accents (Southern German, Austrian, Swiss) generally realize the lenis sounds as voiceless in most or all positions and do not feature syllable-final fortition: ˈab̥d̥aŋkŋ̩.
+
+See also
+Standard German phonology
+
+References
+
+
+== Bibliography ==

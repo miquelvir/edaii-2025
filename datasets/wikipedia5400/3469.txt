@@ -1,0 +1,40 @@
+3469
+Arno Allan Penzias
+Arno Allan Penzias (; April 26, 1933 – January 22, 2024) was an American physicist and radio astronomer. Along with Robert Woodrow Wilson, he discovered the cosmic microwave background radiation, for which he shared the Nobel Prize in Physics in 1978.
+
+Early life and education
+Penzias was born in Munich, Germany, the son of Justine (née Eisenreich) and Karl Penzias, who ran a leather business. His grandparents had come to Munich from Poland and were among the leaders of the Reichenbachstrasse shul. At age six, he and his brother Gunther were among the Jewish children evacuated to Britain as part of the Kindertransport rescue operation. Some time later, his parents also fled Nazi Germany, first for the United Kingdom, and then for the United States, and the family settled in the Bronx, New York City in 1940. In 1946, Penzias became a naturalized citizen of the United States. 
+He graduated from Brooklyn Technical High School in 1951 and after enrolling to study chemistry at the City College of New York, he changed majors and graduated 1954 with a degree in physics, ranked near the top of his class. Following graduation, Penzias served for two years as a radar officer in the U.S. Army Signal Corps. This led to a research assistantship in the [Columbia University](2080) Radiation Laboratory, which was then heavily involved in microwave physics. Penzias worked under Charles H. Townes, who later invented the maser. Penzias enrolled as a graduate student at [Columbia University](2080) in 1956, where he earned a master's degree and a PhD in physics, the latter in 1962.
+
+Career
+Penzias went on to work at [Bell Labs](834) in Holmdel Township, New Jersey, where, with Robert Woodrow Wilson, he worked on ultra-sensitive cryogenic microwave receivers, intended for radio astronomy observations. In 1964, on building their most sensitive antenna/receiver system, the pair encountered radio noise that they could not explain. It was far less energetic than the radiation given off by the Milky Way, and it was isotropic, so they assumed their instrument was subject to interference by terrestrial sources. They tried, and then rejected, the hypothesis that the radio noise emanated from New York City. An examination of the microwave horn antenna showed it was full of bat and pigeon droppings, which Penzias described as "white dielectric material". After the pair removed the dung buildup the noise remained. Having rejected all sources of interference, Penzias contacted Robert H. Dicke, who suggested it might be the background radiation predicted by some cosmological theories. The pair agreed with Dicke to publish side-by-side letters in the Astrophysical Journal, with Penzias and Wilson describing their observations and Dicke suggesting the interpretation as the cosmic microwave background (CMB), the radio remnant of the Big Bang. This proved to be landmark evidence for the Big Bang and provided substantial confirmation for predictions made by Ralph Asher Alpher, Robert Herman and George Gamow in the 1940s and 1950s.
+
+Personal life
+Penzias was a resident of Highland Park, New Jersey, in the 1990s. In 1996, Penzias married Silicon Valley executive Sherry Levit. He had a son, David, and two daughters, Mindy Penzias Dirks, and Rabbi Shifra (Laurie) Weiss-Penzias. Penzias also had a stepson, Carson, and a stepdaughter, Victoria.
+Penzias died from complications of [Alzheimer's disease](313) at an assisted living facility in San Francisco, on January 22, 2024, at the age of 90.
+
+Honors and awards
+Penzias was elected a Fellow of the [American Academy of Arts and Sciences](3132) and the National Academy of Sciences in 1975. In 1977, Penzias and Wilson received the Henry Draper Medal of the National Academy of Sciences. The two were awarded the 1978 Nobel Prize in Physics for their discovery of cosmic microwave background radiation, sharing it with Pyotr Kapitsa. Kapitsa's work on low-temperature physics was unrelated to Penzias' and Wilson's. In 1979, Penzias received the Golden Plate Award of the American Academy of Achievement. He was also the recipient of The International Center in New York's Award of Excellence. In 1998, he was awarded the IRI Medal from the Industrial Research Institute.
+On April 26, 2019, the Nürnberger Astronomische Gesellschaft e.V. (NAG) inaugurated the 3-meter radio telescope at the Regiomontanus-Sternwarte, the public observatory of Nuremberg, and dedicated this instrument to Arno Penzias.
+On September 11, 2023, the Radio Club of America said that Penzias would be honored with the inauguration of the "Dr. Arno A. Penzias Award for Contributions to Basic Research in the Radio Sciences." The club said the award recognizes his significant contributions to basic research involving radio frequency and related subjects and that it would inspire future generations of scientific professionals. The club also announced that the first recipient of the new award will be named in 2024.
+
+Works
+Wilson, R. W.; Penzias, A. A. (1967). "Isotropy of Cosmic Background Radiation at 4080 Megahertz". Science. 156 (3778): 1100–1101. Bibcode:1967Sci...156.1100W. doi:10.1126/science.156.3778.1100. PMID 17774056. S2CID 46069151.
+Penzias, A. A.; Wilson, R. W. (1970). "Microwave Noise from Rainstorms". Science. 169 (3945): 583–584. Bibcode:1970Sci...169..583P. doi:10.1126/science.169.3945.583. PMID 17746031. S2CID 7066298.
+Penzias, Arno A. (1979). "The Origin of the Elements". Science. 205 (4406): 549–554. Bibcode:1979Sci...205..549P. doi:10.1126/science.205.4406.549. PMID 17729659.
+Penzias, Arno A. (1980). "Nuclear Processing and Isotopes in the Galaxy". Science. 208 (4445): 663–669. Bibcode:1980Sci...208..663P. doi:10.1126/science.208.4445.663. PMID 17771085. S2CID 22381508.
+
+See also
+Discovery of cosmic microwave background radiation
+List of Jewish Nobel laureates
+
+References
+External links
+
+Arno Allan Penzias on Nobelprize.org  including the Nobel Lecture, December 8, 1978, "The Origin of Elements"
+The first part of the article "Ideas" authored by Arno Penzias that was published in Science Reporter magazine
+The second part of the article "Ideas" authored by Arno Penzias
+A Whisper From Space (IMDb)
+Arno Allan Penzias at IMDb
+Arno Allan Penzias discography at Discogs
+Nürnberger Astronomische Gesellschaft e.V.: Web-Seite Arno-Penzias-Radioteleskop (german)

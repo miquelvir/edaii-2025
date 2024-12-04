@@ -1,0 +1,415 @@
+73
+Ternary conditional operator
+In computer programming, the ternary conditional operator is a ternary operator that is part of the syntax for basic conditional expressions in several programming languages. It is commonly referred to as the conditional operator, conditional expression, ternary if, or inline if (abbreviated iif). An expression if a then b else c or a ? b : c evaluates to b if the value of a is true, and otherwise to c. One can read it aloud as "if a then b otherwise c". The form a ? b : c is the most common, but alternative syntax do exist; for example, Raku uses the syntax a ?? b !! c to avoid confusion with the infix operators ? and !, whereas in Visual Basic .NET, it instead takes the form If(a, b, c).
+It originally comes from CPL, in which equivalent syntax for e1 ? e2 : e3 was e1 → e2, e3.
+Although many ternary operators are possible, the conditional operator is so common, and other ternary operators so rare, that the conditional operator is commonly referred to as the ternary operator.
+
+Variations
+The detailed semantics of "the" ternary operator as well as its syntax differs significantly from language to language.
+A top level distinction from one language to another is whether the expressions permit side effects (as in most procedural languages) and whether the language provides short-circuit evaluation semantics, whereby only the selected expression is evaluated (most standard operators in most languages evaluate all arguments).
+If the language supports expressions with side effects but does not specify short-circuit evaluation, then a further distinction exists about which expression evaluates first—if the language guarantees any specific order (bear in mind that the conditional also counts as an expression).
+Furthermore, if no order is guaranteed, a distinction exists about whether the result is then classified as indeterminate (the value obtained from some order) or undefined (any value at all at the whim of the compiler in the face of side effects, or even a crash).
+If the language does not permit side-effects in expressions (common in functional languages), then the order of evaluation has no value semantics—though it may yet bear on whether an infinite recursion terminates, or have other performance implications (in a functional language with match expressions, short-circuit evaluation is inherent, and natural uses for the ternary operator arise less often, so this point is of limited concern).
+For these reasons, in some languages the statement form variable = condition ? expr1 : expr2; can have subtly different semantics than the block conditional form if (condition) { variable = expr1; } else { variable = expr2; } (in the C language—the syntax of the example given—these are in fact equivalent).
+The associativity of nested ternary operators can also differ from language to language. In almost all languages, the ternary operator is right associative so that a == 1 ? "one" : a == 2 ? "two" : "many" evaluates intuitively as a == 1 ? "one" : (a == 2 ? "two" : "many"), but PHP in particular is notoriously left-associative, and evaluates as follows: (a == 1 ? "one" : a == 2) ? "two" : "many", which is rarely what any programmer expects. (The given examples assume that the ternary operator has low operator precedence, which is true in all C-family languages, and many others.)
+
+Equivalence to map
+The ternary operator can also be viewed as a binary map operation.
+In R—and other languages with literal expression tuples—one can simulate the ternary operator with something like the R expression c(expr1,expr2)1+condition (this idiom is slightly more natural in languages with 0-origin subscripts).
+Nested ternaries can be simulated as c(expr1,expr2,expr3)which.first((c(cond1,cond2,TRUE)) where the function which.first returns the index of the first true value in the condition vector. Note that both of these map equivalents are binary operators, revealing that the ternary operator is ternary in syntax, rather than semantics. These constructions can be regarded as a weak form of currying based on data concatenation rather than function composition.
+If the language provides a mechanism of futures or promises, then short-circuit evaluation can sometimes also be simulated in the context of a binary map operation.
+
+Conditional assignment
+Originally from [ALGOL](76) 60 the conditional assignment of [ALGOL](76) is:
+variable := if condition then expression_1 else expression_2;
+[?:](73) is used as follows:
+
+condition ? value_if_true : value_if_false
+
+The condition is evaluated true or false as a Boolean expression. On the basis of the evaluation of the Boolean condition, the entire expression returns value_if_true if condition is true, but value_if_false otherwise. Usually the two sub-expressions value_if_true and value_if_false must have the same type, which determines the type of the whole expression. The importance of this type-checking lies in the operator's most common use—in conditional assignment statements. In this usage it appears as an expression on the right side of an assignment statement, as follows:
+
+variable = condition ? value_if_true : value_if_false
+
+The [?:](73) operator is similar to the way conditional expressions (if-then-else constructs) work in functional programming languages, like Scheme, ML, Haskell, and XQuery, since if-then-else forms an expression instead of a statement in those languages.
+
+Usage
+The conditional operator's most common usage is to make a terse simple conditional assignment statement. For example, if we wish to implement some C code to change a shop's normal opening hours from 9 o'clock to 12 o'clock on Sundays, we may use
+
+instead of the more verbose
+
+The two forms are nearly equivalent. Keep in mind that the [?:](73) is an expression and if-then-else is a statement. Note that neither the true nor false portions can be omitted from the conditional operator without an error report upon parsing. This contrasts with if-then-else statements, where the else clause can be omitted.
+Most of the languages emphasizing functional programming don't need such an operator as their regular conditional expression(s) is an expression in the first place e.g. the Scheme expression (if (> a b) a b) is equivalent in semantics to the C expression (a > b) ? a : b. This is also the case in many imperative languages, starting with [ALGOL](76) where it is possible to write result := if a > b then a else b, or Smalltalk (result := (a > b) ifTrue:  a  ifFalse:  b ) or Ruby (result = if a > b then a else b end, although result = a > b ? a : b works as well).
+Note that some languages may evaluate both the true- and false-expressions, even though only one or the other will be assigned to the variable. This means that if the true- or false-expression contain a function call, that function may be called and executed (causing any related side-effects due to the function's execution), regardless of whether or not its result will be used. Programmers should consult their programming language specifications or test the ternary operator to determine whether or not the language will evaluate both expressions in this way. If it does, and this is not the desired behaviour, then an if-then-else statement should be used.
+
+ActionScript 3
+Ada
+The 2012 edition of Ada has introduced conditional expressions (using if and case), as part of an enlarged set of expressions including quantified expressions and expression functions. The Rationale for Ada 2012 states motives for Ada not having had them before, as well as motives for now adding them, such as to support "contracts" (also new).
+
+When the value of an if_expression is itself of Boolean type, then the else part may be omitted, the value being True. Multiple conditions may chained using elsif.
+
+[ALGOL](76) 60
+[ALGOL](76) 60 introduced conditional expressions (thus ternary conditionals) to imperative programming languages.
+
+if <boolean expression> then <expression> else <expression>
+
+Rather than a conditional statement:
+
+the programmer could use the conditional expression to write more succinctly:
+
+[ALGOL](76) 68
+Both [ALGOL](76) 68's choice clauses (if and the case clauses) provide the coder with a choice of either the "bold" syntax or the "brief" form.
+
+Single if choice clause:
+if condition then statements  else statements  fi
+
+"brief" form:  ( condition | statements | statements )
+Chained if choice clause:
+if condition1 then statements elif condition2 then statements  else statements  fi
+
+"brief" form:  ( condition1 | statements |: condition2 | statements | statements )
+
+APL
+With the following syntax, both expressions are evaluated (with value_if_false evaluated first, then condition, then value_if_false):
+
+This alternative syntax provides short-circuit evaluation:
+
+AWK
+Bash
+A true ternary operator only exists for arithmetic expressions:
+
+For strings there only exist workarounds, like e.g.:
+
+Where "$a" = "$b" can be any condition  …  construct can evaluate. Instead of the  …  there can be any other bash command. When it exits with success, the first echo command is executed, otherwise the second one is executed.
+
+C
+A traditional if-else construct in C is written:
+
+This can be rewritten as the following statement:
+
+As in the if-else construct only one of the expressions 'x' and 'y' is evaluated. This is significant if the evaluation of 'x' or 'y' has side effects. The behaviour is undefined if an attempt is made to use the result of the conditional operator as an lvalue.
+A GNU extension to C allows omitting the second operand, and using implicitly the first operand as the second also:
+
+The expression is equivalent to
+
+except that expressions a and x are evaluated only once. The difference is significant if evaluating the expression has side effects. This shorthand form is sometimes known as the Elvis operator in other languages.
+
+C#
+In C#, if condition is true, first expression is evaluated and becomes the result; if false, the second expression is evaluated and becomes the result. As with Java only one of two expressions is ever evaluated.
+
+C++
+Unlike in C, the precedence of the [?:](73) operator in C++ is the same as that of the assignment operator (= or OP=), and it can return an lvalue. This means that expressions like q ? a : b = c and (q ? a : b) = c are both legal and are parsed differently, the former being equivalent to q ? a : (b = c).
+In C++ there are conditional assignment situations where use of the if-else statement is impossible, since this language explicitly distinguishes between initialization and assignment. In such case it is always possible to use a function call, but this can be cumbersome and inelegant. For example, to pass conditionally different values as an argument for a constructor of a field or a base class, it is impossible to use a plain if-else statement; in this case we can use a conditional assignment expression, or a function call. Bear in mind also that some types allow initialization, but do not allow assignment, or even that the assignment operator and the constructor do totally different things. This last is true for reference types, for example:
+
+In this case, using an if-else statement in place of the [?:](73) operator forces the target of the assignment to be declared outside of the branches as a pointer, which can be freely rebound to different objects.
+
+In this simple example, the sout pointer can be initialized to a default value, mitigating the risk of leaving pointers uninitialized or null. Nevertheless, there are cases when no good default exists or creating a default value is expensive. More generally speaking, keeping track of a nullable pointer increases cognitive load. Therefore, only conditional assignment to a reference through the [?:](73) operator conveys the semantics of Initializing a variable from only one of two choices based on a predicate appropriately.
+Furthermore, the conditional operator can yield an lvalue, i.e. a value to which another value can be assigned. Consider the following example:
+
+In this example, if the boolean expression argc > 1 yields the value true on line 8, the value 1 is assigned to the variable a, otherwise the value 1 is assigned to the variable b.
+
+CFML
+Example of the [?:](73) operator in CFML:
+
+Roughly 50% of the time the randRange() expression will return 1 (true) or 0 (false); meaning result will take the value "heads" or "tails" respectively.
+
+Lucee, Railo, and ColdFusion 11-specific
+Lucee, Railo, and ColdFusion 11 also implement the Elvis operator, [?:](73) which will return the value of the expression if it is not-null, otherwise the specified default.
+Syntax:
+
+Example:
+
+The function f() will return value roughly 50% of the time, otherwise will not return anything. If f() returns "value", result will take that value, otherwise will take the value "default".
+
+CoffeeScript
+Example of using this operator in CoffeeScript:
+
+Returns "false value".
+
+Common Lisp
+Assignment using a conditional expression in Common Lisp:
+
+Alternative form:
+
+Crystal
+Example of using this operator in Crystal:
+
+Returns "false value".
+The Crystal compiler transforms conditional operators to if expressions, so the above is semantically identical to:
+
+Dart
+The Dart programming language's syntax belongs to the C family, primarily inspired by languages like Java, C# and JavaScript, which means it has inherited the traditional [?:](73) syntax for its conditional expression.
+Example:
+
+Like other conditions in Dart, the expression before the ? must evaluate to a Boolean value.
+The Dart syntax uses both ? and : in various other ways, which causes ambiguities in the language grammar. An expression like:
+
+could be parsed as either a "set literal" containing one of two lists or as a "map literal" {((x as T?)1) : 2}. The language always chooses the conditional expression in such situations.
+Dart also has a second ternary operator, the = operator commonly used for setting values in lists or maps, which makes the term "the ternary operator" ambiguous in a Dart context.
+
+Delphi
+In Delphi the IfThen function can be used to achieve the same as [?:](73). If the System.Math library is used, the IfThen function returns a numeric value such as an Integer, Double or Extended. If the System.StrUtils library is used, this function can also return a string value.
+Using System.Math
+
+Using the System.StrUtils library
+
+Usage example:
+
+Unlike a true ternary operator however, both of the results are evaluated prior to performing the comparison. For example, if one of the results is a call to a function which inserts a row into a database table, that function will be called whether or not the condition to return that specific result is met.
+
+Eiffel
+The original Eiffel pure OO language from 1986 did not have conditional expressions. Extensions to Eiffel to integrate the style and benefits of functional in the form of agents (closely associated with functional lambdas) were proposed and implemented in 2014.
+
+if <boolean expression> then <expression> else <expression>
+
+F#
+In F# the built-in syntax for if-then-else is already an expression that always must return a value.
+
+F# has a special case where you can omit the else branch if the return value is of type unit. This way you can do side-effects, without using an else branch.
+
+But even in this case, the if expression would return unit. You don't need to write the else branch, because the compiler will assume the unit type on else.
+
+FORTH
+Since FORTH is a stack-oriented language, and any expression can leave a value on the stack, all IF/ELSE/THEN sequences can generate values:
+
+This word takes 1 parameter on the stack, and if that number is odd, leaves 22. If it's even, 42 is left on the stack.
+
+Fortran
+With the additions to the code in the 1995 release, the ternary operator was added to the Fortran compiler as the intrinsic function merge:
+
+Note that both x and y are evaluated before the results of one or the other are returned from the function. Here, x is returned if the condition holds true and y otherwise.
+
+FreeMarker
+This built-in exists since FreeMarker 2.3.20.
+Used like booleanExp?then(whenTrue, whenFalse), fills the same role as the ternary operator in C-like languages.
+
+Go
+There is no ternary if in Go, so use of the full if statement is always required.
+
+Haskell
+The built-in if-then-else syntax is inline: the expression
+
+has type
+
+The base library also provides the function Data.Bool.bool:
+
+In both cases, no special treatment is needed to ensure that only the selected expression is evaluated, since Haskell is non-strict by default. This also means an operator can be defined that, when used in combination with the $ operator, functions exactly like [?:](73) in most languages:
+
+However, it is more idiomatic to use pattern guards
+
+Java
+In Java this expression evaluates to:
+
+Note that Java, in a manner similar to C#, only evaluates the used expression and will not evaluate the unused expression.
+
+Julia
+In Julia, "Note that the spaces around ? and : are mandatory: an expression like a?b:c is not a valid ternary expression (but a newline is acceptable after both the ? and the :)."
+
+JavaScript
+The conditional operator in JavaScript is similar to that of C++ and Java, except for the fact the middle expression cannot be a comma expression. Also, as in C++, but unlike in C or Perl, it will not bind tighter than an assignment to its right—q ? a : b = c is equivalent to q ? a : (b = c) instead of (q ? a : b) = c.
+
+Just like C# and Java, the expression will only be evaluated if, and only if, the expression is the matching one for the condition given; the other expression will not be evaluated.
+
+Lisp
+As the first functional programming language, Lisp naturally has conditional expressions since there are no statements and thus not conditional statements. The form is:
+
+Hence:
+
+Kotlin
+Kotlin does not include the traditional [?:](73) ternary operator, however, ifs can be used as expressions that can be assigned, achieving the same results. Note that, as the complexity of one's conditional statement grows, the programmer might consider replacing their if-else expression with a when expression.
+
+Lua
+Lua does not have a traditional conditional operator. However, the short-circuiting behaviour of its and and or operators allows the emulation of this behaviour:
+
+This will succeed unless a is logically false (i.e. false or nil); in this case, the expression will always result in b. This can result in some surprising behaviour if ignored.
+There are also other variants that can be used, but they're generally more verbose:
+
+Luau, a dialect of Lua, has ternary expressions that look like if statements, but unlike them, they have no end keyword, and the else clause is required. One may optionally add elseif clauses. It's designed to replace the cond and a or b idiom and is expected to work properly in all cases.
+
+Objective-C
+condition ? value_if_true : value_if_false
+
+This will set the variable min to 1 because the condition (1 < 2) is true.
+
+Pascal
+Pascal was both a simplification and extension of [ALGOL](76) 60 (mainly for handling user-defined types).
+One simplification was to remove the conditional expression since the same could be achieved with the less succinct conditional statement form.
+
+Perl
+A traditional if-else construct in Perl is written:
+
+Rewritten to use the conditional operator:
+
+The precedence of the conditional operator in Perl is the same as in C, not as in C++. This is conveniently of higher precedence than a comma operator but lower than the precedence of most operators used in expressions within the ternary operator, so the use of parentheses is rarely required.
+Its associativity matches that of C and C++, not that of PHP. Unlike C but like C++, Perl allows the use of the conditional expression as an L-value; for example:
+
+will assign $result to either $x or $y depending on the logical expression's boolean result.
+The respective precedence rules and associativities of the operators used guarantee that the version absent any parentheses is equivalent to this explicitly parenthesized version:
+
+This is equivalent to the if-else version:
+
+PHP
+A simple PHP implementation is this:
+
+Unlike most other programming languages, the conditional operator in PHP is left associative rather than right associative. Thus, given a value of T for arg, the PHP code in the following example would yield the value horse instead of train as one might expect:
+
+The reason is that nesting two conditional operators produces an oversized condition with the last two options as its branches: c1 ? o1 : c2 ? o2 : o3 is really ((c1 ? o1 : c2) ? o2 : o3). This is acknowledged and will probably not change. To avoid this, nested parenthesis are needed, as in this example:
+
+This will produce the result of train being printed to the output, analogous to a right associative conditional operator.
+
+Powershell
+In versions before Powershell 7 ternary operators are not supported  however conditional syntax does support single line assignment:
+
+In Powershell 7+ traditional ternary operators are supported and follow the C# syntax:
+
+Python
+Though it had been delayed for several years by disagreements over syntax, an operator for a conditional expression in Python was approved as Python Enhancement Proposal 308 and was added to the 2.5 release in September 2006. Python's conditional operator differs from the common [?:](73) operator in the order of its operands. The general form is:
+
+This form invites considering x as the normal value and y as an exceptional case.
+Prior to Python 2.5 there were a number of ways to approximate a conditional operator (for example by indexing into a two element array), all of which have drawbacks as compared to the built-in operator.
+
+R
+The traditional if-else construct in R (which is an implementation of S) is:
+
+If there is only one statement in each block, braces can be omitted, like in C:
+
+The code above can be written in the following non-standard condensed way:
+
+There exists also the function ifelse that allows rewriting the expression above as:
+
+The ifelse function is automatically vectorized. For instance:
+
+Raku
+Raku uses a doubled ?? symbol instead of single ?
+and a doubled !! symbol instead of :
+
+Ruby
+Example of using this operator in Ruby:
+
+Returns "false value".
+A traditional if-else construct in Ruby is written:
+
+This could also be written as:
+
+These can be rewritten as the following statement:
+
+Rust
+Being an expression-oriented programming language, Rust's existing if expr1 else expr2 syntax can behave as the traditional [?:](73) ternary operator does. Earlier versions of the language did have the [?:](73) operator but it was removed due to duplication with if.
+Note the lack of semi-colons in the code below compared to a more declarative if...else block, and the semi-colon at the end of the assignment to y.
+
+This could also be written as:
+
+Note that curly braces are mandatory in Rust conditional expressions.
+You could also use a match expression:
+
+Scheme
+Same as in Common Lisp. Every expression has a value. Thus the builtin if can be used:
+
+Smalltalk
+Every expression (message send) has a value. Thus ifTrue:ifFalse: can be used:
+
+SQL
+The SQL CASE expression is a generalization of the ternary operator. Instead of one conditional and two results, n conditionals and n+1 results can be specified.
+With one conditional it is equivalent (although more verbose) to the ternary operator:
+
+This can be expanded to several conditionals:
+
+MySQL
+In addition to the standard CASE expression, MySQL provides an IF function as an extension:
+
+SQL Server
+In addition to the standard CASE expression, SQL Server (from 2012) provides an IIF function:
+
+Oracle SQL
+In addition to the standard CASE expression, Oracle has a variadic functional counterpart which operates similarly to a switch statement and can be used to emulate the conditional operator when testing for equality.
+
+The DECODE function is, today, deprecated in favour of the standard CASE expression. This can be used in both Oracle SQL queries as well as PL/SQL blocks, whereas decode can only be used in the former.
+
+Swift
+The ternary conditional operator of Swift is written in the usual way of the C tradition, and is used within expressions.
+
+Tcl
+In Tcl, this operator is available in expr expressions only:
+
+Outside of expr, if can be used for a similar purpose, as it also returns a value:
+
+TestStand
+In a National Instruments TestStand expression, if condition is true, the first expression is evaluated and becomes the output of the conditional operation; if false, the second expression is evaluated and becomes the result. Only one of two expressions is ever evaluated.
+
+For example:
+
+Sets the UUTIndex local variable to 3 if TestSocket.Index is 3, otherwise it sets UUTIndex to 0.
+Similar to other languages, first_expression and second_expression do not need to be autonomous expressions, allowing the operator to be used for variable assignment:
+
+Verilog
+Verilog is technically a hardware description language, not a programming language though the semantics of both are very similar. It uses the [?:](73) syntax for the ternary operator.
+
+This is equivalent to the more verbose Verilog code:
+
+Visual Basic
+Visual Basic doesn't use [?:](73) per se, but has a very similar implementation of this shorthand if...else statement. Using the first example provided in this article, it can do:
+
+In the above example, IIf is a ternary function, but not a ternary operator. As a function, the values of all three portions are evaluated before the function call occurs. This imposed limitations, and in Visual Basic .Net 9.0, released with Visual Studio 2008, an actual conditional operator was introduced, using the If keyword instead of IIf. This allows the following example code to work:
+
+Using IIf, person.Name would be evaluated even if person is null (Nothing), causing an exception. With a true short-circuiting conditional operator, person.Name is not evaluated unless person is not null.
+Visual Basic Version 9 has added the operator If() in addition to the existing IIf() function that existed previously. As a true operator, it does not have the side effects and potential inefficiencies of the IIf() function.
+The syntaxes of the tokens are similar: If(condition, op1, op2) vs IIf(condition, op1, op2). As mentioned above, the function call has significant disadvantages, because the sub-expressions must all be evaluated, according to Visual Basic's evaluation strategy for function calls and the result will always be of type variant (VB) or object (VB.NET). The If()operator however does not suffer from these problems as it supports conditional evaluation and determines the type of the expression based on the types of its operands.
+
+Zig
+Zig uses if-else expressions instead of a ternary conditional operator:
+
+Result type
+Clearly the type of the result of the [?:](73) operator must be in some sense the type unification of the types of its second and third operands. In C this is accomplished for numeric types by arithmetic promotion; since C does not have a type hierarchy for pointer types, pointer operands may only be used if they are of the same type (ignoring type qualifiers) or one is void or NULL. It is undefined behaviour to mix pointer and integral or incompatible pointer types; thus
+
+will result in a compile-time error in most compilers.
+
+[?:](73) in style guidelines
+Conditional operators are widely used and can be useful in certain circumstances to avoid the use of an if statement, either because the extra verbiage would be too lengthy or because the syntactic context does not permit a statement. For example:
+
+#define MAX(a, b) (((a)>(b)) ? (a) : (b))
+
+or
+
+(The latter example uses the Microsoft Foundation Classes Framework for Win32.)
+
+Initialization
+An important use of the conditional operator is in allowing a single initialization statement, rather than multiple initialization statements. In many cases this also allows single assignment and for an identifier to be a constant.
+The simplest benefit is avoiding duplicating the variable name, as in Python:
+
+instead of:
+
+More importantly, in languages with block scope, such as C++, the blocks of an if/else statement create new scopes, and thus variables must be declared before the if/else statement, as:
+
+Use of the conditional operator simplifies this:
+
+Furthermore, since initialization is now part of the declaration, rather than a separate statement, the identifier can be a constant (formally, of const type):
+
+Case selectors
+When properly formatted, the conditional operator can be used to write simple and coherent case selectors. For example:
+
+Appropriate use of the conditional operator in a variable assignment context reduces the probability of a bug from a faulty assignment as the assigned variable is stated just once as opposed to multiple times.
+
+Programming languages without the conditional operator
+The following are examples of notable general-purpose programming languages that don't provide a conditional operator:
+
+CoffeeScript
+Go programming language (although provided by 3rd-party libraries)
+MATLAB
+Pascal although Object Pascal / Delphi do have a function IfThen to do the same (with caveats)
+Rust The if..else construct is an expression and can be used to get the same functionality.
+Scala
+XProfan
+PowerShell (in old versions) an elegant workaround is to use (<value for true>,<value for false>)!(<condition>)
+
+See also
+IIf, inline if function
+Null coalescing operator, ?? operator
+Elvis operator, [?:](73), or sometimes ?., as a shorthand binary operator
+Conditioned disjunction, equivalent ternary logical connective.
+Multiplexer
+
+References
+External links
+Description of If operator in Visual Basic
+Description of Conditional Expression in Python (PEP 308)
+Description in the Java Language Specification
+Description in the PHP Language Documentation

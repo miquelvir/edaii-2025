@@ -1,0 +1,39 @@
+511
+Owlet-nightjar
+Owlet-nightjars are small crepuscular birds related to the nightjars and frogmouths. Most are native to New Guinea, but some species extend to Australia, the Moluccas, and New Caledonia. A flightless species from New Zealand is extinct. There is a single monotypic family Aegothelidae with the genus Aegotheles.
+Owlet-nightjars are insectivores which hunt mostly in the air but sometimes on the ground; their soft plumage is a cryptic mixture of browns and paler shades, they have fairly small, weak feet (but larger and stronger than those of a frogmouth or a nightjar), a tiny bill that opens extraordinarily wide, surrounded by prominent whiskers. The wings are short, with 10 primaries and about 11 secondaries; the tail long and rounded.
+
+Systematics
+A comprehensive 2003 study analyzing mtDNA sequences of Cytochrome b and ATPase subunit 8 suggests that 12 living species of owlet-nightjar should be recognized, as well as another that became extinct early in the second millennium AD.
+The relationship between the owlet-nightjars and the (traditional) Caprimulgiformes has long been controversial and obscure and remains so today: in the 19th century they were regarded as a subfamily of the frogmouths, and they are still generally considered to be related to the frogmouths and/or the nightjars. It appears though that they are not as closely related to either as previously thought, and that the owlet-nightjars share a more recent common ancestor with the [Apodiformes](577). As has been suggested on occasion since morphological studies of the cranium in the 1960s, they are thus considered a distinct order, [Aegotheliformes](511). This, the caprimulgiform lineage(s), and the [Apodiformes](577), are postulated to form a clade called Cypselomorphae, with the owlet-nightjars and the [Apodiformes](577) forming the clade Daedalornithes.
+In form and habits, however, they are very similar to both caprimulgiform group – or, at first glance, to small owls with huge eyes. The ancestors of the swifts and hummingbirds, two groups of birds which are morphologically very specialized, seem to have looked very similar to a small owlet-nightjar, possessing strong legs and a wide gape, while the legs and feet are very reduced in today's swifts and hummingbirds, and the bill is narrow in the latter.
+Owlet-nightjars are an exclusively Australasian group, but close relatives apparently thrived all over Eurasia in the late Paleogene.
+
+Taxonomy
+Family Aegothelidae
+
+Genus Quipollornis Rich & McEvey 1977 (Early/Middle Miocene of New South Wales)
+†Quipollornis koniberi Rich & McEvey 1977
+Genus Aegotheles
+†New Zealand owlet-nightjar, Aegotheles novaezealandiae (Scarlett 1968) (prehistoric; formerly Megaegotheles)
+New Caledonian owlet-nightjar, Aegotheles savesi Layard & Layard 1881
+Feline owlet-nightjar, Aegotheles insignis Salvadori 1876
+Starry owlet-nightjar or spangled owlet-nightjar, Aegotheles tatei Rand 1941
+Moluccan owlet-nightjar or long-whiskered owlet-nightjar, Aegotheles crinifrons (Bonaparte 1850)
+Australian owlet-nightjar, Aegotheles cristatus (Shaw 1790)
+A. c. cristatus (Shaw 1790)
+A. c. tasmanicus Mathews 1918
+Vogelkop owlet-nightjar, Aegotheles affinis Salvadori 1876
+Karimui owlet-nightjar, Aegotheles terborghi Diamond 1967
+Barred owlet-nightjar, Aegotheles bennettii Salvadori & Albertis 1875
+A. b. bennettii Salvadori & Albertis 1875
+A. b. plumifer Ramsay 1883
+A. b. wiedenfeldi Laubmann 1914
+Wallace's owlet-nightjar, Aegotheles wallacii Gray 1859
+Mountain owlet-nightjar, Aegotheles albertisi Sclater 1874
+A fossil proximal right tarsometatarsus (MNZ S42800) was found at the Bannockburn Formation of the Manuherikia Group near the Manuherikia River in Otago, New Zealand. Dating from the Early to Middle Miocene (Altonian, 19-16 million years ago), it seems to represent an owlet-nightjar ancestral to A. novaezealandiae. In 2022, an additional specimen from the same locality was described by Worthy et al. as a new extinct species of Aeotheles, A. zealandivetus. The holotype specimen is NMNZ S.52917, a distal right tarsometatarsus.
+
+References
+
+
+== Sources ==

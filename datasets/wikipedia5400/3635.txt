@@ -1,0 +1,38 @@
+3635
+Anders Jonas Ångström
+Anders Jonas Ångström (Swedish: ˈânːdɛʂ ˈjûːnas ˈɔ̂ŋːstrœm; 13 August 1814 – 21 June 1874) was a Swedish physicist and one of the founders of the science of spectroscopy.
+Ångström is also well known for his studies of astrophysics, heat transfer, terrestrial magnetism, and the aurora borealis. In 1852, Ångström formulated in Optiska undersökningar (Optical investigations), a law of absorption, later modified somewhat and known as Kirchhoff's law of thermal radiation.
+
+Biography
+Anders Jonas Ångström was born in Medelpad to Johan Ångström, and schooled in Härnösand. He moved to Uppsala in 1833 and was educated at Uppsala University, where in 1839 he became docent in physics. In 1842, he went to the Stockholm Observatory to gain experience in practical astronomical work, and the following year he was appointed keeper of the Uppsala Astronomical Observatory.
+Intrigued by terrestrial magnetism he recorded observations of fluctuations in magnetic intensity in various parts of Sweden, and was charged by the Stockholm Academy of Sciences with the task, not completed until shortly before his death, of working out the magnetic data obtained by HSwMS Eugenie on her voyage around the world in 1851 to 1853.
+In 1858, he succeeded Adolph Ferdinand Svanberg in the chair of physics at Uppsala. His most important work was concerned with heat conduction and spectroscopy. In his optical researches, Optiska Undersökningar, presented to the Royal Swedish Academy of Sciences in 1853, he not only pointed out that the electric spark yields two superposed spectra, one from the metal of the electrode and the other from the gas in which it passes, but deduced from Leonhard Euler's theory of resonance that an incandescent gas emits luminous rays of the same refrangibility as those it can absorb. This statement, as Sir Edward Sabine remarked when awarding him the Rumford medal of the Royal Society in 1872, contains a fundamental principle of spectrum analysis, and though overlooked for a number of years it entitles him to rank as one of the founders of spectroscopy.
+From 1861 onward, he paid special attention to the solar spectrum. His combination of the spectroscope with photography for the study of the Solar System resulted in proving that the Sun's atmosphere contains hydrogen, among other elements (1862), and in 1868 he published his great map of the normal solar spectrum in Recherches sur le spectre solaire, including detailed measurements of more than 1000 spectral lines, which long remained authoritative in questions of wavelength, although his measurements were inexact by one part in 7000 or 8000, owing to the metre he used as a standard being slightly too short.
+
+He was the first, in 1867, to examine the spectrum of the aurora borealis, and detected and measured the characteristic bright line in its yellow-green region; but he was mistaken in supposing that this same line, which is often called by his name, is also to be seen in the zodiacal light.
+He was elected a member of a number of learned societies, including the Royal Swedish Academy of Sciences in 1850, the Royal Society in 1870 and the Institut de France in 1873. He died in Uppsala on 21 June 1874.
+In 1845, Ångström married Augusta Bedoire (1820–1906). She was the daughter of Jean Henric Bedoire and Catharina Henrietta Littorin and belonged to the Bedoire family, a Stockholm merchant family of Huguenot origin.
+His son, Knut (1857–1910), was also a physicist.
+
+Honours
+The Ångström unit (1 Å = 10−10 m) in which the wavelengths of light and interatomic spacings in condensed matter are sometimes measured is named after him. The unit is also used in crystallography as well as spectroscopy.
+The crater Ångström on the Moon is named in his honour.
+One of the main building complexes of Uppsala University, the Ångström Laboratory, is named in his honour. This building houses various departments including the Department of Physics and Astronomy, Department of Mathematics, Department of Engineering Sciences, Institute of Space Physics, and the Department of Chemistry.
+
+Death
+Anders Ångström died in June 1874 from meningitis, shortly before his sixtieth birthday.
+
+See also
+Johann Balmer
+Gustav Kirchhoff
+Theodore Lyman
+Friedrich Paschen
+Janne Rydberg
+Spectrum analysis
+
+References
+Further reading
+Maier, C.L. (1970). "Ångström, Anders Jonas". Dictionary of Scientific Biography. Vol. 1. New York: Charles Scribner's Sons. pp. 166–167. ISBN 0-684-10114-9.
+
+External links
+ Media related to Anders Jonas Ångström at Wikimedia Commons

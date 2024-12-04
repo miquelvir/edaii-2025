@@ -1,0 +1,125 @@
+818
+Aptana
+Aptana, Inc. is a company that makes web application development tools for use with a variety of programming languages (such as JavaScript, Ruby, PHP and Python). Aptana's main products include Aptana Studio, Aptana Cloud and Aptana Jaxer.
+
+Aptana Studio
+Aptana Studio is an open-source integrated development environment (IDE) for building web applications. Based on Eclipse, it supports JavaScript, HTML, DOM and CSS with code-completion, outlining, JavaScript debugging, error and warning notifications and integrated documentation. Additional plugins allow Aptana Studio to support Ruby on Rails, PHP, Python, Perl, Adobe AIR, Apple iPhone and Nokia WRT (Web Runtime). Aptana Studio is available as a standalone on Windows, Mac OS X and Linux, or as a plugin for Eclipse.
+
+Language & platform support
+PHP
+Aptana Studio 3 provides the following support for PHP application development:
+
+Syntax Coloring according to the selected theme in the preferences;
+Code Assist;
+Syntax error annotations;
+Auto indentation and Code Formatting;
+Hyper-linking to classes, functions and variables by hovering over elements and pressing the Ctrl key;
+PHPDoc popups when hovering over items that have attached documentation;
+Read and write Occurrences Markers when clicking on specific PHP elements.
+In the 2.0 version, Aptana did not provide its own PHP plugin, but transferred development efforts to the PDT project.
+Aptana version 1.5 provided support for developing PHP applications via the add-on PHP plugin. This included:
+
+Built-in PHP server for previewing within Aptana Studio,
+Full code assist, code outlining and code formatting,
+Integrated PHP debugger,
+Built in Smarty,
+Type hierarchy view,
+Go to declaration,
+Integrated PHP manual (online or local).
+
+Ruby on Rails
+Aptana Studio supports Ruby on Rails development using RadRails, an open source plugin for the Ruby on Rails framework. This includes:
+
+Integrated Ruby on Rails shell console,
+Default-install and configuration of the Ruby interpreter, database and debugger,
+code completion with type inferencing,
+Code Assist for Ruby, CSS, JavaScript and HTML inside RHTML files,
+Type hierarchy view,
+Go to declaration,
+Call hierarchy,
+Full implementation of RDT (Eclipse's Ruby Development Tools project).
+
+Python
+Aptana Studio provides support for Python in the form of the PyDev plugin. This provides the following advantages:
+
+Color syntax highlighting;
+Code completion;
+Code outlining;
+Debugging
+Refactoring tools
+Interactive console
+Unittest integration
+Integrated support for the [CPython](777), Jython and IronPython interpreters.
+Aptana announced that their previously commercial Pydev Extensions are now open sourced.
+
+Adobe AIR
+Aptana IDE provides considerable support for Adobe AIR.
+
+Nokia Web Runtime
+The Nokia Web Runtime provides support for developing rich mobile apps for Nokia S60 series phones. This includes over 30 models and tens of millions of units in use around the world. The Nokia WRT Plug-in for Aptana Studio provides features that enable the creation, editing, testing and deployment of WRT widgets from within Aptana Studio.
+WRT widgets are small, task-focused web applications that are installed and run in the same way as other S60 applications. WRT widgets allow websites or web services to be optimised for use on S60 devices. Because they are easy to develop and use, WRT widgets are ideal for driving traffic to a website from S60 devices.
+
+Features
+JavaScript Library Support
+Aptana Studio comes with the following JavaScript libraries, but more can be added or updated if desired.
+
+Code Assist
+Code Assist is similar to completing code statements, by presenting a pop-up with either:
+
+the supported arguments for the function call being coded;
+the supported properties and methods on the desired object.
+This applies both to built-in functions/methods and to those already coded — but the latter use requires documenting such functions/methods with ScriptDoc, a documentation dialect similar to that used by Javadoc.
+
+Browser support
+The Code Assist feature includes information on browser support for JavaScript methods/properties, HTML elements and CSS properties.
+
+FTP/SFTP
+Support for uploading, downloading and synchronization using FTP and SFTP.
+
+Debugger
+Both Pro and Community editions support integrated JavaScript debugging for Firefox. Internet Explorer is supported only in the Pro Edition.
+
+System requirements
+Windows – 512 MB RAM, Pentium 4-level processor
+Mac OS X – 512 MB RAM, PowerPC G4/G5, Intel or Mac OS X 10.4+
+Linux – 512 MB RAM, Pentium 4-level processor
+
+Editions
+Aptana Studio is available as an open source Community Edition. The previously available features in the paid-for Pro Edition were merged into the Community Edition. All of the features in Pro are now part of the standard Community Edition of Studio, thus Aptana ceased to exist as a multiple edition IDE.
+
+License
+Aptana uses a "dual licensing" model. Under this model, users may choose to use the Aptana IDE under the free software/open source GNU General Public License (commonly known as the "GPL") or under the Aptana Public License (known as the "APL").
+With the GPL license, the Aptana IDE is available free of charge, as long as the redistribution (if any) of the Aptana IDE adheres to the terms of the GPL license. Users may download the software for free and modify, integrate and distribute it.
+Aptana also offers the simplified APL license for organizations that don't need to redistribute Aptana Studio or its derivatives outside of the company.
+
+License history
+When launched in 2006, Aptana was released under the Eclipse Public License 1.0. They were using the EPL until milestone 8. The first few builds of milestone 9 were licensed under the Eclipse Public License 1.0 until nightly build 16120.
+One nightly build of milestone 9 was licensed under the GNU General Public License 3.0 (build 16204)
+Builds after 16204 have been licensed as Freeware with redistribution restrictions licensed under the Aptana Public License, v1.0.
+On September 21, 2007, Aptana announced they would be using a dual license: GPL V3 and the freeware APL.
+
+Company
+Aptana is currently led by Paul Colton, Founder and CEO, Uri Sarid, CTO/VP, Engineering and Kevin Hakman, Director of Evangelism. The staff headcount surpassed 25 after September 1, 2008. Aptana is an active participant in the OpenAjax Alliance, with Hakman serving as director of the IDE Working Group.
+Aptana was acquired by Appcelerator, Inc. on January 7, 2011.  Employees of Aptana were absorbed to the Mountain View campus of Appcelerator and work is scheduled to continue on the release of Aptana 3.0.  Appcelerator in their webcast made users aware of their intention to integrate their mobile application framework with Aptana Studio, with a planned beta within Q1 2011.  Emphasis on visual workflow was indicated for both of the products and continued support will continue for existing Aptana products. Appcelerator put Jaxer on GitHub.
+
+Other products
+Aptana Jaxer
+Aptana Jaxer, made obsolete by Node.js, is an open-source Ajax web server for building rich web pages and applications using a unified Ajax model wherein both client-side and server-side code can be written in JavaScript. Jaxer's server-side engine is based on Mozilla Gecko, the same browser engine that is used in Firefox. The Mozilla engine allows Jaxer to provide a server-side DOM in which a page may be manipulated during server-side processing using the techniques familiar to client-side programmers. Jaxer's server-side JavaScript APIs enable database access, file system access, network communications, user sessions and other functions typical of web application servers. Jaxer also provides for access to Java objects via the open source Direct Web Remoting project. Jaxer is now on GitHub.
+Aptana Jaxer provides a page-processing environment based on the Mozilla engine. This provides a Gecko-based DOM and SpiderMonkey JavaScript engine to allow pages to be rendered and manipulated on the server before being sent to the browser. Jaxer also provides an Ajax model for performing asynchronous requests to the server. Its client and server APIs allow such requests to be made by simply calling server-side JavaScript functions from the client. Behind the scenes, Jaxer provides the logic required to manage the request and retrieve the response from the server.
+It is useful for Web scraping.
+Jaxer is not a standalone web server, but works with another server such as Apache, Jetty or Tomcat. Jaxer provides server-side DOM and API processing for pages served by the web server before delivering the results to the browser.
+Jaxer may be integrated into Aptana Studio via an optional plugin. It is open source (GPL) and available for Windows, Mac OS X and Linux/Solaris.
+As of November 2009 Aptana has significantly scaled back development and support of Jaxer. An Aptana representative noted that "there hasn't been sufficient adoption to make it a money earning proposition."
+
+Aptana Cloud Connect
+Aptana Cloud Connect is Aptana's web hosting and application management service. Cloud Connect provides the infrastructure required to host applications developed using technologies supported by Aptana Studio and is primarily based on Apache, with support for general web/Ajax, PHP, Ruby on Rails and Jaxer. Cloud Connect also supports Java-based web applications, which may be deployed and managed using the Cloud service. All applications hosted on Cloud Connect may be developed offline, deployed and managed directly using the Cloud management features included in Aptana Studio. The Cloud Connect service also provides team management, hosted source control (using Subversion), remote editing/preview and application synchronization between local, staging and production environments.
+
+See also
+List of Eclipse-based software
+Eclipse
+NetBeans
+
+References
+External links
+
+Aptana – official website

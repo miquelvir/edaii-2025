@@ -1,0 +1,14 @@
+161
+Arctoidea
+Arctoidea is a clade of mostly carnivorous mammals which include the extinct Hemicyonidae (dog-bears), and the extant Musteloidea (weasels, raccoons, skunks, red pandas), Pinnipedia (seals, sea lions), and Ursidae (bears), found in all continents from the Eocene, 46 million years ago, to the present. The oldest group of the clade is the bears, as their CMAH gene is still intact. The gene became non-functional in the common ancestor of the Mustelida (the musteloids and pinnipeds). Arctoids are caniforms, along with dogs (canids) and extinct bear dogs (Amphicyonidae).
+The earliest caniforms were superficially similar to martens, which are tree-dwelling mustelids.
+Together with feliforms, caniforms compose the order Carnivora; sometimes Arctoidea can be considered a separate suborder from Caniformia and a sister taxon to Feliformia.
+
+Systematics
+Arctoidea was named by Flower (1869). It was reranked as the unranked clade Arctoidea by Hunt (2001), Hunt (2002) and Hunt (2002); it was reranked as the infraorder Arctoidea by Koretsky (2001), Zhai et al. (2003) and Labs Hochstein (2007). It was assigned to Carnivora by Flower (1883), Barnes (1987), Barnes (1988), Carroll (1988), Barnes (1989), Barnes (1992), Hunt (2001), Hunt (2002) and Hunt (2002); and to Caniformia by Tedford (1976), Bryant (1991), Wang and Tedford (1992), Tedford et al. (1994), Koretsky (2001), Zhai et al. (2003), Wang et al. (2005), Owen (2006), Peigné et al. (2006) and Labs Hochstein (2007).
+
+Phylogeny
+The cladogram is based on molecular phylogeny of six genes in Flynn (2005), with the musteloids updated following the multigene analysis of Law et al. (2018).
+
+
+== References ==

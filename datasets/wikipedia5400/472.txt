@@ -1,0 +1,28 @@
+472
+Asterozoa
+The Asterozoa are a subphylum in the phylum Echinodermata, within the Eleutherozoa. Characteristics include a star-shaped body and radially divergent axes of symmetry. The subphylum includes the classes Asteroidea (the starfish or sea stars), Ophiuroidea (the brittle stars and basket stars), Somasteroidea (early asterozoans from which the other classes most likely evolved), and Stenuroidea (early asterozoans with unclear relationships to extant classes).  A fifth class, Concentricycloidea, was proposed for the unusual genus Xyloplax (sea daisies), but was later demoted to the status of infraclass as the sister of Neoasteroidea within the asteroidean sublcass Ambuloasteroidea.
+
+Taxonomy
+Asterozoa was originally proposed in the late 1800s, but was not used in F.A. Bather's two-subphylum echinoderm taxonomy in 1900. However, it was adopted as part of a four-subphylum taxonomy by the Treatise on Invertebrate Paleontology in 1966.
+Asterozoa is generally thought to be a monophyletic clade; its sister group within Eleutherozoa is Echinozoa.  The external affinities of Asterozoa are unclear.  It has been proposed to derive from either the Edrioasteroidea or the Crinoidea, but no form of either proposal has gained wide acceptance due to the lack of any transitional fossils.
+
+Distinguishing the classes
+Somasteroids and stenuroids are distinguished from each other and from the extant asteroids and ophiuroids by the arrangements of a specific type of ossicle know as virgals:  Somasteroids possess a varying number of virgals per series extending laterally from the ambulacral ossicles, with at least some series exceeding three virgals.  Stenuroids possess series of exactly two (or rarely three or four) virgals for each ambulacral ossicle, with other ossicular specializations.  Asteroid and ophiuroid virgal series are each reduced to a single ossicle in addition to their more obvious morphological differences.
+
+Somasteroidea
+Most authors consider Somasteroidea to be the basal stock from which the other three classes evolved., but an argument in favor of monophyly and a position closer to stenuroids and ophiuroids than to asteroids has also been made.
+Somasteroids are "more or less petaloid," with arm shape reflecting virgal series lengths.  Somasteroids have been described as being more rigid in shape than derived asterozoans, although this apparent structure could be exaggerated by tissue changes at the time of death.  S
+
+Stenuroidea
+Stenuroids were initially seen as early ophiuroids before being promoted to class level, but their evaluation is challenging due to wide variations in morphologies.  Some stenuroids appear closer to asteroids, others to ophiuroids, and others do not closely resemble either extant class.  A recent examination of Stenuroidea found it to be monophyletic, but allowed that (as with other asterozoan classes), paraphyly or polyphyly could not be entirely ruled out.  Other authors have considered that Stenuroidea is likely paraphyletic.
+
+Asteroidea
+Asteroids have a permanently vaulted ambulacral furrow down the center of the underside of each arm.  They use their tube feet for locomotion and (in many species) to pry open shells and access food.  Their arms touch at the base, and there is no clear border between the arms and the central disc.
+
+Ophiuroidea
+Ophiuroid arms have evolved joints within their arms allowing lateral, snake-like movements for locomotion, while the tube feet are significantly reduced.  The central disc is clearly marked off from the arms.
+
+References
+
+
+=== Works cited ===

@@ -1,0 +1,13 @@
+919
+Bit-level parallelism
+Bit-level parallelism is a form of parallel computing based on increasing processor word size. Increasing the word size reduces the number of instructions the processor must execute in order to perform an operation on variables whose sizes are greater than the length of the word. (For example, consider a case where an 8-bit processor must add two 16-bit integers. The processor must first add the 8 lower-order bits from each integer, then add the 8 higher-order bits, requiring two instructions to complete a single operation. A 16-bit processor would be able to complete the operation with single instruction.)
+Originally, all electronic computers were serial (single-bit) computers. The first electronic computer that was not a serial computer—the first bit-parallel computer—was the 16-bit Whirlwind from 1951.
+From the advent of very-large-scale integration (VLSI) computer chip fabrication technology in the 1970s until about 1986, advancements in computer architecture were done by increasing bit-level parallelism, as 4-bit microprocessors were replaced by 8-bit, then 16-bit, then 32-bit microprocessors. This trend generally came to an end with the introduction of 32-bit processors, which were a standard in general purpose computing for two decades. 64 bit architectures were introduced to the mainstream with the eponymous Nintendo 64 (1996), but beyond this introduction stayed uncommon until the advent of x86-64 architectures around the year 2003, and 2014 for mobile devices with the ARMv8-A instruction set.
+On 32-bit processors, external data bus width continues to increase. For example, DDR1 SDRAM transfers 128 bits per clock cycle. DDR2 SDRAM transfers a minimum of 256 bits per burst.
+
+See also
+Single Instruction, Multiple Data (SIMD)
+SIMD Within A Register
+
+
+== References ==

@@ -1,0 +1,217 @@
+2919
+Arch
+An arch is a curved vertical structure spanning an open space underneath it. Arches may support the load above them, or they may perform a purely decorative role. As a decorative element, the arch dates back to the 4th millennium BC, but structural load-bearing arches became popular only after their adoption by the Ancient Romans in the 4th century BC.
+Arch-like structures can be horizontal, like an arch dam that withstands the horizontal hydrostatic pressure load. Arches are normally used as supports for many types of vaults, with the barrel vault in particular being a continuous arch. Extensive use of arches and vaults characterizes an arcuated construction, as opposed to the trabeated system, where, like in the architectures of ancient Greece, China, and Japan (as well as the modern steel-framed technique), posts and beams dominate. 
+Arches had several advantages over the lintel, especially in the masonry construction: with the same amount of material it can have larger span, carry more weight, and can be made from smaller and thus more manageable pieces. Their role in construction was diminished in the middle of the 19th century with introduction of the wrought iron (and later steel): the high tensile strength of these new materials made long lintels possible.
+
+Basic concepts
+Terminology
+A true arch is a load-bearing arc with elements held together by compression. In much of the world introduction of the true arch was a result of European influence. The term false arch has few meanings. It is usually used to designate an arch that has no structural purpose, like a proscenium arch in theaters used to frame the performance for the spectators, but is also applied to corbelled and triangular arches that are not based on compression.
+
+A typical true masonry arch consists of the following elements:
+
+Keystone, the top block in an arch. Portion of the arch around the keystone (including the keystone itself), with no precisely defined boundary, is called a crown
+Voussoir (a wedge-like construction block). A rowlock arch is formed by multiple concentric layers of voussoirs.
+Extrados (an external surface of the arch)
+Impost is block at the base of the arch (the voussoir immediately above the impost is a springer). The tops of imposts define the springing level. A portion of the arch between the springing level and the crown (centered around the 45° angle) is called a haunch. If the arch resides on top of a column, the impost is formed by an abacus or its thicker version, dosseret.
+Intrados (an underside of the arch, also known as a soffit)
+Rise (height of the arc, distance from the springing level to the crown)
+Clear span
+Abutment The triangular-shaped portion of the wall between the extrados and the horizontal division above is called spandrel.
+A (left or right) half-segment of an arch is called an arc, the overall line of an arch is arcature (this term is also used for an arcade). Archivolt is the exposed (front-facing) part of the arch, sometimes decorated (occasionally also used to designate the intrados). If the sides of voussoir blocks are not straight, but include angles and curves for interlocking, the arch is called "joggled".
+
+Arch action
+A true arch, due to its rise, resolves the vertical loads into horizontal and vertical reactions at the ends, a so called arch action. The vertical load produces a positive bending moment in the arch, while the inward-directed horizontal reaction from the spandrel/abutment provides a counterbalancing negative moment. As a result, the bending moment in any segment of the arch is much smaller than in a beam with the equivalent load and span. The diagram on the right shows the difference between a loaded arch and a beam. Elements of the arch are mostly subject to compression (A), while in the beam a bending moment is present, with compression at the top and tension at the bottom (B).
+In the past, when arches were made of masonry pieces, the horizontal forces at the ends of an arch caused the need for heavy abutments (cf. Roman triumphal arch). The other way to counteract the forces, and thus allow thinner supports, was to use the counter-arches, as in an arcade arrangement, where the horizontal thrust of each arch is counterbalanced by its neighbors, and only the end arches need to buttressed. With new construction materials (steel, concrete, engineered wood), not only the arches themselves got lighter, but the horizontal thrust can be further relieved by a tie connecting the ends of an arch.
+
+Funicular shapes
+When evaluated from the perspective of an amount of material required to support a given load, the best solid structures are compression-only; with the flexible materials, the same is true for tension-only designs. There is a fundamental symmetry in nature between solid compression-only and flexible tension-only arrangements, noticed by Robert Hooke in 1676: "As hangs the flexible line, so but inverted will stand the rigid arch", thus the study (and terminology) of arch shapes is inextricably linked to the study of hanging chains, the corresponding curves or polygons are called funicular. Just like the shape of a hanging chain will vary depending on the weights attached to it, the shape of an ideal (compression-only) arch will depend on the distribution of the load.
+
+Classifications
+There are multiple ways to classify an arch:
+
+by the geometrical shape of its intrados (for example, semicircular, triangular, etc.);
+for the arches with rounded intrados, by the number of circle segments forming the arch (for example, round arch is single-centred, pointed arch is two-centred);
+by the material used (stone, brick, concrete, steel) and construction approach. For example, the wedge-shaped voussoirs of a brick arch can be made by cutting the regular bricks ("axed brick" arch) or manufactured in the wedge shape ("gauged brick" arch);
+structurally, by the number of hinges (movable joints) between solid components. For example, voussoirs in a stone arch should not move, so these arches usually have no hinges (are "fixed"). Permitting some movement in a large structure allows to alleviate stresses (caused, for example, by the thermal expansion), so many bridge spans are built with three hinges (one at each support and one at the crown) since the mid-19th century.
+
+Arrangements
+A sequence of arches can be grouped together forming an arcade. Romans perfected this form, as shown, for example, by arched structures of Pont du Gard. In the interior of hall churches, arcades of separating arches were used to separate the nave of a church from the side aisle, or two adjacent side aisles.
+Two-tiered arches, with two arches superimposed, were sometimes used in Islamic architecture, mostly for decorative purposes.
+An opening of the arch can be filled, creating a blind arch. Blind arches are frequently decorative, and were extensively used in Early Christian, Romanesque, and Islamic architecture.  Alternatively, the opening can be filled with smaller arches, producing a containing arch, common in Gothic and Romanesque architecture. Multiple arches can be superimposed with an offset, creating an interlaced series of usually (with some exceptions) blind and decorative arches. Most likely of Islamic origin, the interlaced arcades were popular in Romanesque and Gothic architecture. Rear-arch (also rere-arch) is the one that frames the internal side of an opening in the external wall.
+
+Structural
+Structurally, relieving arches (often blind or containing) can be used to take off load from some portions of the building (for example, to allow use of thinner exterior walls with larger window openings, or, as in the Roman Pantheon, to redirect the weight of the upper structures to particular strong points). Transverse arches, introduced in Carolingian architecture, are placed across the nave to compartmentalize (together with longitudinal separating arches) the internal space into bays and support vaults. A diaphragm arch similarly goes in the transverse direction, but carries a section of wall on top. It is used to support or divide sections of the high roof. Strainer arches were built as an afterthought to prevent two adjacent supports from imploding due to miscalculation. Frequently they were made very decorative, with one of the best examples provided by the Wells Cathedral.  Strainer arches can be "inverted" (upside-down) while remaining structural.  When used across railway cuttings to prevent collapse of the walls, strainer arches may be referred to as flying arches. A counter-arch is built adjacent to another arch to oppose its horizontal action or help to stabilize it, for example, when constructing a flying buttress.
+
+Shapes
+The large variety of arch shapes (left) can mostly be classified into three broad categories: rounded, pointed, and parabolic.
+
+Rounded
+"Round" semicircular arches were commonly used for ancient arches that were constructed of heavy masonry, and were relied heavily on by the Roman builders since the 4th century BC. It is considered to be the most common arch form, characteristic for Roman, Romanesque, and Renaissance architecture.
+
+A segmental arch, with a rounded shape that is less than a semicircle, is very old (the versions were cut in the rock in Ancient Egypt c. 2100 BC at Beni Hasan). Since then it was occasionally used in Greek temples, utilized in Roman residential construction,  Islamic architecture, and got popular as window pediments during the Renaissance.
+
+A basket-handle arch (also known as depressed arch, three-centred arch, basket arch) consists of segments of three circles with origins at three different centers (sometimes uses five or seven segments, so can also be five-centred, etc.). Was used in late Gothic and [Baroque architecture](1370).
+
+A horseshoe arch (also known as keyhole arch) has a rounded shape that includes more than a semicircle, is associated with Islamic architecture and was known in areas of Europe with Islamic influence (Spain, Southern France, Italy). Occasionally used in Gothics, it briefly enjoyed popularity as the entrance door treatment in the interwar [England](1990).
+
+Pointed
+A pointed arch consists of two ("two-centred arch") or more circle segments culminating in a point at the top. It originated in the Islamic architecture, arrived in Europe in the second half of the 11th century (Cluny Abbey) and later became prominent in the Gothic architecture. The advantages of a pointed arch over a semicircular one are flexible ratio of span to rise and lower horizontal reaction at the base. This innovation allowed for taller and more closely spaced openings, which are typical of Gothic architecture. Equilateral arch is the most common form of the pointed arch, with the centers of two circles forming the intrados coinciding with the springing points of the opposite segment. Together with the apex point, they form a equilateral triangle, thus the name. If the centers of circles are farther apart, the arch becomes a narrower and sharper lancet arch that appeared in France in the Early Gothic architecture (Saint-Denis Abbey) and became prominent in [England](1990) in the late 12th and early 13th centuries (Salisbury Cathedral). If the centers are closer to another, the result is a wider blunt arch.
+The intrados of the cusped arch (also known as multifoil arch, polyfoil arch, polylobed arch, and scalloped arch) includes several independent circle segments in a scalloped arrangement. These primarily decorative arches are common in Islamic architecture and Northern European Late Gothic, can be found in Romanesque architecture. A similar trefoil arch includes only three segments and sometimes has a rounded, not pointed, top. Common in Islamic architecture and Romanesque buildings influenced by it, it later became popular in the decorative motifs of the Late Gothic designs of Northern Europe.
+Each arc of an ogee arch consists of at least two circle segments (for a total of at least four), with the center of an upper circle being outside the extrados. After European appearance in the 13th century on the facade of the St Mark's Basilica, the arch became a fixture of the English Decorated style, French Flamboyant, Venetian, and other Late Gothic styles. Ogee arch is also known as reversed curve arch, occasionally also called an inverted arch. The top of an ogee arch sometimes projects beyond the wall, forming the so-called nodding ogee popular in 14th century [England](1990) (pulpitum in Southwell Minster).
+Each arc of a four-centred arch is made of two circle segments with distinct centers; usually the radius used closer to the springing point is smaller with a more pronounced curvature. Common in Islamic architecture (Persian arch), and, with upper portion flattened  almost to straight lines (Tudor arch), in the English Perpendicular Gothic.A keel arch is a variant of four-centred arch with haunches almost straight, resembling a section view of a capsized ship. Popular in Islamic architecture, it can be also found in Europe, occasionally with a small ogee element at the top, so it is sometimes considered to be a variation of an ogee arch. 
+Curtain arch (also known as inflexed arch, and, like the keel arch, usually decorative) uses two (or more) drooping curves that join at the apex. Utilized as a dressing for windows and doors primarily in Saxony in the Late Gothic and early Renaissance buildings (late 15th to early 16th century), associated with Arnold von Westfalen. When the intrados has multiple concave segments, the arch is also called a draped arch or tented arch. A similar arch that uses a mixture of curved and straight segments or exhibits sharp turns between segments is a mixed-line arch.
+
+Parabolic
+The popularity of the arches using segments of a circle is due to simplicity of layout and construction, not their structural properties. Consequently, the architects historically used a variety of other curves in their designs: elliptical curves, hyperbolic cosine curves (including catenary), and parabolic curves. There are two reasons behind the selection of these curves:
+
+they are still relatively easy to trace with common tools prior to construction;
+depending on a situation, they can have superior structural properties and/or appearance.
+The hyperbolic curve is not easy to trace, but there are known cases of its use. The non-circumferential curves look similar, and match at shallow profiles, so a catenary is often misclassified as a parabola (per Galileo, "the hanging chain
+fits its parabola almost perfectly"). González et al. provide an example of Palau Güell, where researchers do not agree on classification of the arches or claim the prominence of parabolic arches, while the measurements show that just two of the 23 arches designed by Gaudi are actually parabolic.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Three parabolic-looking curves in particular are of significance to the arch design: parabola itself, catenary, and weighted catenary. The arches naturally use the inverted (upside-down) versions of these curves.
+A parabola represents an ideal (all-compression) shape when the load is equally distributed along the span, while the weight of the arch itself is negligible. A catenary is the best solution for the case where an arch with uniform thickness carries just its own weight with no external load. The practical designs for bridges are somewhere in between, and thus use the curves that represent a compromise that combines both the catenary and the funicular curve for particular non-uniform distribution of load. The practical free-standing arches are stronger and thus heavier at the bottom, so a weighted catenary curve is utilized for them. The same curve also fits well an application where a bridge consists of an arch with a roadway of packed dirt above it, as the dead load increases with a distance from the center.
+
+Other
+Unlike regular arches, the flat arch (also known as jack arch, lintel arch, straight arch, plate-bande)  is not curved. Instead, the arch is flat in profile and can be used under the same circumstances as lintel. However, lintels are subject to bending stress, while the flat arches are true arches, composed of irregular voussoir shapes (the keystone is the only one of the symmetric  wedge shape), and that efficiently uses the compressive strength of the masonry in the same manner as a curved arch and thus requires a mass of masonry on both sides to absorb the considerable lateral thrust. Used in the Roman architecture to imitate the Greek lintels, Islamic architecture, European medieval and Renaissance architecture. The flat arch is still being used as a decorative pattern, primarily at the top of window openings.
+
+False arches
+The corbel (also corbelled) arch, made of two corbels meeting in the middle of the span, is a true arch in a sense of being able to carry a load, but it is false in a structural sense, as its components are subject to bending stress. The typical profile is not curved, but has triangular shape. Invented prior to the semicircular arch, the corbel arch was used already in the Egyptian and Mycenaean architecture in the 3rd and 2nd millennium BC.
+Like a corbel arch, the triangular arch is not a true arch in a structural sense. Its intrados is formed by two slabs leaning against each other. Brick builders would call triangular any arch with straight inclined sides. The design was common in Anglo-Saxon [England](1990) until the late 11th century (St Mary Goslany). Mayan corbel arches are sometimes called triangular due to their shape.
+
+Variations
+Few transformations can be applied to arch shapes.
+If one impost is much higher than another, the arch (frequently pointed) is known as ramping arch, raking arch, or rampant arch (from French: arc rampant). Originally used to support inclined structures, like staircases, in the 13th-14th centuries their appeared as parts of flying buttresses used to counteract the thrust of Gothic ribbed vaults. 
+A central part of an arch can be raised on short vertical supports, creating a trefoil-like shouldered arch. The raised central part can vary all the way from a flat arch to ogee. The shouldered arches were used to decorate openings in Europe from medieval times to Late Gothic architecture, became common in Iranian architecture from the 14th century, and were later adopted in the Ottoman Turkey.
+In a stilted arch (also surmounted), the springing line is located above the imposts (on "stilts"). Known to Islamic architects by the 8th century, the technique was utilized to vertically align the apexes of arches of different dimensions in Romanesque and Gothic architecture. Stilting was useful for semicircular arches, where the ratio of the rise fixed at 1⁄2 of the span, but was applied to the pointed arches, too.
+The skew arch (also known as an oblique arch) is used when the arch needs to turn in the horizontal plane, for example, when a bridge crosses the river at an angle different than 90°. A splayed arch is used for the case of unequal spans on the sides of the arch (when, for example, an interior opening in the wall is larger than the exterior one), the intrados of a round splayed arch is not cylindrical, but has a conical shape.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+A wide arch with its rise less than 1⁄2 of the span (and thus the geometric circle of at least one segment is below the springing line) is called a surbased arch (sometimes also a depressed arch). A drop arch is either a basket handle arch or a blunt arch.
+
+Hinged arches
+The practical arch bridges are built either as a fixed arch, a two-hinged arch, or a three-hinged arch. 
+The fixed arch is most often used in reinforced concrete bridges and tunnels, which have short spans. Because it is subject to additional internal stress from thermal expansion and contraction, this kind of arch is statically indeterminate (the internal state is impossible to determine based on the external forces alone).
+The two-hinged arch is most often used to bridge long spans. This kind of arch has pinned connections at its base. Unlike that of the fixed arch, the pinned base can rotate, thus allowing the structure to move freely and compensate for the thermal expansion and contraction that changes in outdoor temperature cause. However, this can result in additional stresses, and therefore the two-hinged arch is also statically indeterminate, although not as much as the fixed arch.
+The three-hinged arch is not only hinged at its base, like the two-hinged arch, yet also at its apex. The additional apical connection allows the three-hinged arch to move in two opposite directions and compensate for any expansion and contraction. This kind of arch is thus not subject to additional stress from thermal change. Unlike the other two kinds of arch, the three-hinged arch is therefore statically determinate. It is most often used for spans of medial length, such as those of roofs of large buildings. Another advantage of the three-hinged arch is that the reaction of the pinned bases is more predictable than the one for the fixed arch, allowing shallow, bearing-type foundations in spans of medial length. In the three-hinged arch "thermal expansion and contraction of the arch will cause vertical movements at the peak pin joint but will have no appreciable effect on the bases," which further simplifies foundational design.
+
+History
+The arch became popular in the Roman times and mostly spread alongside the European influence, although it was known and occasionally used much earlier. Many ancient architectures avoided the use of arches, including the Viking and Hindu ones.
+
+Bronze Age: ancient Near East
+True arches, as opposed to corbel arches, were known by a number of civilizations in the ancient Near East including the Levant, but their use was infrequent and mostly confined to underground structures, such as drains where the problem of lateral thrust is greatly diminished.
+An example of the latter would be the Nippur arch, built before 3800 BC, and dated by  H. V. Hilprecht (1859–1925) to even before 4000 BC. Rare exceptions are an arched mudbrick home doorway dated to c. 2000 BC from Tell Taya in Iraq and two Bronze Age arched Canaanite city gates, one at Ashkelon (dated to c. 1850 BC), and one at Tel Dan (dated to c. 1750 BC), both in modern-day Israel. An Elamite tomb dated 1500 BC from Haft Teppe contains a parabolic vault which is considered one of the earliest evidences of arches in Iran.
+The use of true arches in Egypt also originated in the 4th millennium BC (underground barrel vaults at the Dendera cemetery). Standing arches were known since at least the Third Dynasty, but very few examples survived, since the arches were mostly used in non-durable secular buildings and made of mud brick voussoirs that were not wedge-shaped, but simply held in place by mortar, and thus susceptible to a collapse (the oldest arch still standing is at Ramesseum). Sacred buildings exhibited either lintel design or corbelled arches. Arches were mostly missing in Egypt temples even after the Roman conquest, even though Egyptians thought of the arch as a spiritual shape and used it in the rock-cut tombs and portable shrines. Auguste Mariette suggested that this choice was based on a relative fragility of a vault: "what would remain of the tombs and temples of Egyptians today, if they had preferred the vault?"
+Mycenaean architecture utilized only the corbel arches in their beehive tombs with triangular openings. Mycenaeans had also built probably the oldest still standing stone-arch bridge in the world, Arkadiko Bridge, in Greece. 
+As evidenced by their imitations of the parabolic arches, Hittites most likely were exposed to the Egyptian designs, but used the corbelled technique to build them.
+
+Classical Persia and Greece
+The Assyrians, also apparently under the Egyptian influence, adopted the true arch (with a slightly pointed profile) early in the 8th century. In ancient Persia, the [Achaemenid Empire](1740) (550 BC–330 BC) built small barrel vaults (essentially a series of arches built together to form a hall) known as iwan, which became massive, monumental structures during the later Parthian Empire (247 BC–AD 224). This architectural tradition was continued by the Sasanian Empire (224–651), which built the Taq Kasra at Ctesiphon in the 6th century AD, the largest free-standing vault until modern times.
+An early European example of a voussoir arch appears in the 4th century BC Greek Rhodes Footbridge. Proto-true arches can also be found under the stairs of the temple of Apollo at Didyma and the stadium at Olympia. 
+.
+
+[Ancient Rome](556)
+The ancient Romans learned the semicircular arch from the Etruscans (both cultures apparently adopted the design in the 4th century BC), refined it and were the first builders in Europe to tap its full potential for above ground buildings:
+
+The Romans were the first builders in Europe, perhaps the first in the world, to fully appreciate the advantages of the arch, the vault and the dome.
+Throughout the Roman empire, from Syria to Scotland, engineers erected arch structures. The first use of arches was for civic structures, like drains and city gates. Later the arches were utilized for major civic buildings bridges and aqueducts, with the outstanding 1st century AD examples provided by the Colosseum, Pont Du Gard, and the aqueduct of Segovia. The introduction of the ceremonial triumphal arch dates back to Roman republic, although the best examples are from the imperial times (Arch of Augustus at Susa, Arch of Titus). 
+Romans initially avoided using the arch in the religious buildings and, in Rome, arched temples were quite rare until the recognition of Christianity in 313 AD (with the exceptions provided by the Pantheon and the "temple of Minerva Medica"). Away from the capital, arched temples were more common (temple of Hadrian at Ephesus, temple of Jupiter at Sbeitla, Severan temple at Djemila). Arrival of Christianity prompted creation of the new type of temple, a Christian basilica, that made a thorough break with the pagan tradition with arches as one of the main elements of the design, along with the  exposed brick walls (Santa Sabina in Rome, Sant'Apollinare in Classe). For a long period, from the late 5th century to the 20th century, arcades were a standard staple for the Western Christian architecture. 
+Vaults began to be used for roofing large interior spaces such as halls and temples, a function that was also assumed by domed structures from the 1st century BC onwards.
+The segmental arch was first built by the Romans who realized that an arch in a bridge did not have to be a semicircle, such as in Alconétar Bridge or Ponte San Lorenzo. The utilitarian and mass residential (insulae) buildings, as found in Ostia Antica and Pompeii, mostly used low segmental arches made of bricks and architraves made of wood, while the concrete lintel arches can be found in villas and palaces.
+
+Ancient China
+Ancient architecture of China (and Japan) used mostly timber-framed construction and trabeated system. Arches were little-used, although there are few arch bridges known from literature and one artistic depiction in stone-carved relief. Since the only surviving artefacts of architecture from the Han dynasty (202 BC – 220 AD) are rammed earth defensive walls and towers, ceramic roof tiles from no longer existent wooden buildings, stone gate towers, and underground brick tombs, the known vaults, domes, and archways were built with the support of the earth and were not free-standing.
+China's oldest surviving stone arch bridge is the Anji Bridge. Still in use, it was built between 595 CE and 605 CE during the Sui dynasty.
+
+Islamic
+Islamic architects adopted the Roman arches, but had quickly shown their resourcefulness: by the 8th century the simple semicircular arch was almost entirely replaced with fancier shapes, few fine examples of the former in the Umayyad architecture notwithstanding (cf. the Great Mosque of Damascus, 706–715 CE). The first pointed arches appear already at the end of the 7th century AD (Al-Aqsa Mosque, Palace of Ukhaidhir, cisterns at the White Mosque of Ramle). Their variations spread fast and wide: Mosque of Ibn Tulun in Cairo (876-879 AD), Nizamiyya Madrasa at Khar Gerd (now Iran, 11th century), Kongo Mosque in Diani Beach (Kenya, 16th century).
+Islamic architecture brought to life a large amount of arch forms: the round horseshoe arch that became a characteristic trait of the Islamic buildings, the keel arch, the cusped arch,  and the mixed-line arch (where the curved "ogee swell" is interspersed with abrupt bends). The Great Mosque of Cordoba, that can be considered a catalogue of Islamic arches, contains also the arches with almost straight sides, trefoil, interlaced, and joggled. Mosque of Ibn Tulun adds four-centred and stilted version of the pointed arch.  
+It is quite likely that the appearance of the pointed arch, an essential element of the Gothic style, in Europe (Monte Cassino, 1066–1071 AD, and the Cluny Abbey five years later) and the ogee arch in Venice (c. 1250) is a result of the Islamic influence,  possibly through Sicily. Saoud also credits to Islamic architects the spread of the transverse arch. Mixed-line arch became popular in the Mudéjar style and subsequently spread around the Spanish-speaking world.
+
+Western Europe
+The collapse of the Western Roman Empire left the church as the only client of major construction; with all pre-Romanesque architectural styles borrowing from Roman construction with its semicircular arch. Due to the decline in the construction quality, the walls were thicker, and the arches thus heavier, than their Roman prototypes. Eventually the architects started to use the depth of the arches for decoration, turning the deep opening into an arch order (or rebated arch, a sequence of progressively smaller concentric arches, each inset with a rebate). 
+Romanesque style started experiments with the pointed arch late in the 11th century (Cluny Abbey). In few decades, the practice spread (Durham Cathedral, Basilica of Saint-Denis). Early Gothic utilized the flexibility of the pointed arch by grouping together arches of different spans but with the same height. 
+While the arches used in the mediaeval Europe were borrowed from the Roman and Islamic architecture, the use of pointed arch to form the rib vault was novel and became the defining characteristic of Gothic construction. At about 1400 AD, the city-states of Italy, where the pointed arch had never gotten much traction, initiated the revival of the Roman style with its round arches, Renaissance. By the 16th century the new style spread across Europe and, through the influence of empires, to the rest of the world. Arch became a dominant architectural form until the introduction of the new construction materials, like steel and concrete.
+
+India
+The history of arch in India is very long (some arches were apparently found in excavations of Kosambi, 2nd millennium BC. However, the continuous history begins with rock-cut arches in the Lomas Rishi cave (3rd century BC). Vaulted roof of an early Harappan burial chamber has been noted at Rakhigarhi. S.R Rao reports vaulted roof of a small chamber in a house from Lothal. Barrel vaults were also used in the Late Harappan Cemetery H culture dated 1900 BC-1300 BC which formed the roof of the metal working furnace, the discovery was made by Vats in 1940 during excavation at Harappa.
+The use of arches until the Islamic conquest of India in the 12th century AD was sporadic, with ogee arches and barrel vaults in rock-cut temples (Karla Caves, from the 1st century BC) and decorative pointed gavaksha arches. By the 5th century AD voussoir vaults were used structurally in the brick construction. Surviving examples include the temple at Bhitargaon (5th century AD) and Mahabodhi temple (7th century AD), the latter has both pointed arches and semicircular arches. These Gupta era arch vault system was later used extensively in Burmese Buddhist temples in Pyu and Bagan in 11th and 12th centuries.
+With the arrival of Islamic and other Western Asia influence, the arches became prominent in the Indian architecture, although the post and lintel construction was still preferred. A variety of pointed and lobed arches was characteristic for the Indo-Islamic architecture, with the monumental example of Buland Darwaza, that has pointed arch decorated with small cusped arches.
+
+Pre-Columbian America
+Mayan architecture utilized the corbel arches. The other Mesoamerican cultures used only the flat roofs with no arches whatsoever, although some researchers had suggested that both Maya and Aztec architects understood the concept of a true arch.
+
+Revival of the trabeated system
+The 19th-century introduction of the wrought iron (and later steel) into construction changed the role of the arch. Due to the high tensile strength of new materials, relatively long lintels became possible, as was demonstrated  by the tubular Britannia Bridge (Robert Stephenson, 1846-1850). A fervent proponent of the trabeated system, Alexander "Greek" Thomson, whose preference for lintels was originally based on aesthetic criteria, observed that the spans of this bridge are longer than that of any arch ever built, thus "the simple, unsophisticated stone lintel contains in its structure all the scientific appliances ... used in the great tubular bridge. ... Stonehenge is more scientifically constructed than York Minster." Use of arches in bridge construction continued (the Britannia Bridge was rebuilt in 1972 as a truss arch bridge), yet the steel frames and reinforced concrete frames mostly replaced the arches as the load-bearing elements in buildings.
+
+Construction
+As a pure compression form, the utility of the arch is due to many building materials, including stone and unreinforced concrete, being strong under compression, but brittle when tensile stress is applied to them.
+
+Masonry
+The voussoirs can be wedge-shaped or have a form of a rectangular cuboid, in the latter case the wedge-like shape is provided by the mortar. 
+An arch is held in place by the weight of all of its members, making construction problematic. One answer is to build a frame (historically, of wood) which exactly follows the form of the underside of the arch. This is known as a centre or centring. Voussoirs are laid on it until the arch is complete and self-supporting. For an arch higher than head height, scaffolding would be required, so it could be combined with the arch support. Arches may fall when the frame is removed if design or construction has been faulty. 
+Old arches sometimes need reinforcement due to decay of the keystones, forming what is known as bald arch.
+
+Reinforced concrete
+In reinforced concrete construction, the principle of the arch is used so as to benefit from the concrete's strength in resisting compressive stress. Where any other form of stress is raised, such as tensile or torsional stress, it has to be resisted by carefully placed reinforcement rods or fibres.
+
+Architectural styles
+The type of arches (or absence of them) is one of the most prominent characteristics of an architectural style. For example, when Heinrich Hübsch, in the 19th century, tried to classify the architectural style, his "primary elements" were roof and supports, with the top-level basic types: trabeated (no arches) and arcuated (arch-based). His next division for the arcuated styles was based on the use of round and pointed arch shapes.
+
+Cultural references
+The steady horizontal push of an arch against the abutments gave rise to a saying "the arch never sleeps", attributed to many sources, from Hindu to Arabs. This adage stresses that the arch carries "a seed of death" for itself and the structure containing it, a statement that can be made upon observation of the Roman ruins. The plot of The Nebuly Coat by J. Meade Falkner, inspired by a collapse of a tower at the Chichester Cathedral plays with the idea while dealing with the slow disintegration of a church building. Saoud explains the proverb by chain-like self-balancing of the horizontal and vertical forces in the arch and its "universal adaptability".
+
+See also
+References
+Sources
+External links
+
+Physics of Stone Arches by Nova: a model to build an arch without it collapsing
+InteractiveTHRUST: interactive applets, tutorials
+Paper about the three-hinged arch of the Galerie des Machines of 1889 Whitten by Javier Estévez Cimadevila & Isaac López César.

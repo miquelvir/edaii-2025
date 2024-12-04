@@ -1,0 +1,104 @@
+4696
+Chilean Spanish
+Chilean Spanish (Spanish: español chileno or castellano chileno) is any of several varieties of the [Spanish language](4301) spoken in most of Chile. Chilean Spanish dialects have distinctive pronunciation, grammar, vocabulary, and slang usages that differ from those of Standard Spanish, with various linguists identifying Chilean Spanish as one of the most divergent varieties of Spanish.
+The Royal Spanish Academy recognizes 2,214 words and idioms exclusively or mainly produced in Chilean Spanish, in addition to many still unrecognized slang expressions. Formal Spanish in Chile has recently incorporated an increasing number of colloquial elements.
+
+Variation and accents
+In Chile, there are not many differences between the Spanish spoken in the northern, central and southern areas of the country, although there are notable differences in zones of the far south—such as Aysén, Magallanes (mainly along the border with [Argentina](1862)), and Chiloé—and in Arica in the extreme north. There is, however, much variation in the Spanish spoken by different social classes; this is a prevalent reality in Chile given the presence of stark wealth inequality. In rural areas from Santiago to Valdivia, Chilean Spanish shows the historical influence of the [Castúo](4386) dialects of Extremadura, Spain, but some authors point to the Spanish province of [Andalusia](3982) and more specifically to the city of Seville as an even greater influence on the historical development of Chilean Spanish. In general, the intonation of Chilean Spanish is recognized in the Spanish-speaking world for being one of the fastest-spoken accents among Spanish dialects and with tones that rise and fall in its speech, especially in Santiago and its surroundings; such intonation may be less strong in certain areas of the north of the country and more pronounced in southern areas. It is also not uncommon that other Spanish speakers, native and otherwise, have more difficulty understanding Chilean Spanish speakers than other accents.
+As result of past German immigration, there are a few German influences in the vocabulary, accent, and pronunciation of southern Chile. Speakers of Chilean Spanish who also speak German or Mapudungun tend to use more impersonal pronouns (see also: Alemañol). Dialects of southern Chile (Valdivia/Temuco to Chiloé) are considered to have a melodic intonation (cantadito) relative to the speech in Santiago. A survey among inhabitants of Santiago also shows that people in the capital consider southern Chilean Spanish to be variously affected by Mapudungun, have poor pronunciation, be of rural character and, in the case of Chiloé, to be rich in archaisms. The same study does also show a perception that the speech of northern Chile is influenced by the Spanish spoken in Peru and Bolivia.
+Chile is part of a region of South America known as the Southern Cone (Spanish: Cono Sur; Portuguese: Cone Sul). The region consists of Chile, [Argentina](1862), and Uruguay; sometimes it also includes Paraguay and some regions of [Brazil](2718) (Paraná, Rio Grande do Sul, Santa Catarina, and São Paulo). The vocabulary across the region is similar for Spanish speakers, and in some cases it's also shared by the Portuguese speakers in the Southern Cone parts of [Brazil](2718).
+The Chilean Spanish dialect of Easter Island, most especially the accent, is influenced by Rapa Nui language.
+
+Phonology
+There are a number of phonetic features common to most Chilean accents, but none of them is individually unique to Chilean Spanish. Rather, it is the particular combination of features that sets Chilean Spanish apart from other regional Spanish dialects. The features include the following:
+
+Yeísmo, the historical merger of the phoneme /ʎ/ (spelled ⟨ll⟩) with /ʝ/ (spelled ⟨y⟩). For speakers with yeísmo, the verbs cayó 's/he fell' and calló 's/he fell silent' are homophones, both pronounced kaˈʝo. (In dialects that lack yeísmo, maintaining the historical distinction, the two words are pronounced respectively kaˈʝo and kaˈʎo.) Yeísmo characterizes the speech of most Spanish-speakers both in Spain and in the Americas. In Chile, there is a declining number of speakers who maintain the distinction, mainly in some areas of southern Chile. In southern Chile the distinction was noted in 2003 to exist cheifly in Cautín Province, while in the north it was documented in a few places of the province of El Loa Province and more as more widespread in Parinacota Province next to Bolivia and Peru.
+Like most other Latin American dialects of Spanish, Chilean Spanish has seseo: /θ/ is not distinguished from /s/. In much of the Andean region, the merged phoneme is pronounced as apicoalveolar s̺, a sound with a place of articulation intermediate between laminodental s and palatal ʃ. That trait is associated with a large number of northern Spanish settlers in Andean Chile.
+Syllable-final /s/ is often aspirated to h or lost entirely, another feature common to many varieties of Spanish in the Americas, as well as the Canary Islands and the southern half of Spain. Whether final /s/ aspirates or is elided depends on a number of social, regional, and phonological factors, but in general, aspiration is most frequent before a consonant. Complete elision is most commonly found word-finally but carries a sociolinguistic stigma. Thus, los chilenos '(the) Chileans' can be loh tʃiˈleno.
+The velar consonants /k/, /ɡ/, and /x/ are fronted or palatalized before front vowels. Thus, queso 'cheese', guía 'guide', and jinete 'rider/horseman' are pronounced respectively ˈceso, ˈɟi.a, and çiˈnete. Also, /x/ is pronounced h or x in other phonological environments and so caja 'box' and rojo 'red' are pronounced ˈkaxa ~ ˈkaha and ˈroxo ~ ˈroho respectively. In the rest of the article, the back allophone of /x/ is transcribed with the phonemic symbol ⟨x⟩.
+Between vowels and word-finally, /d/ commonly elides or lenites, as is common throughout the Spanish-speaking world); contado 'told' and ciudad 'city' are konˈta.o (contao) and sjuˈða (ciudá) respectively. Elision is less common in formal or upper-class speech.
+The voiceless postalveolar affricate /tʃ/ is pronounced as a fricative ʃ by many lower-class speakers and northerners so Chile and leche (milk) are pronounced ˈʃile and ˈleʃe, respectively). That pronunciation is greatly stigmatized, although not so much in the upmost northern regions where speakers may go back and forth between /tʃ/ and ʃ. This pronunciation is also typical of southern [Andalusia](3982) in Spain, north Mexico, and of several Caribbean dialects. Other variants are more fronted and include the alveolar affricate ts or an even more fronted dental affricate t̪s̪, mostly in the upper class of Santiago; thus, Chile and leche are pronounced ˈtsile or ˈletse. 
+Word-final /n/ is pronounced as a velar nasal ŋ only in north Chilean dialects.
+Unstressed word-final vowels are often devoiced.
+The phoneme represented by the letters ⟨b⟩ and ⟨v⟩ may be pronounced v in variation with b and β; in most other Spanish dialects, only b and β may appear as allophones of that phoneme.
+Consonant cluster tɾ can be pronounced tɹ̝̥, tɻ, or tʂ, making cuatro 'four' and trabajo 'work' pronounced as ˈkwatɹ̝̥o ~ˈkwatɻo ~ ˈkwatʂo and tɹ̝̥aˈβaxo ~ tɻaˈβaxo ~ tʂaˈβaxo respectively. This is an influence of Mapudungun.
+
+Syntax and grammar
+Doubling the object clitics me, te, se, lo(s), la(s) and le(s) before and after the verb is common in lower-class speech. For example, 'I'm going to go' becomes me voy a irme (Standard Spanish: me voy a ir and voy a irme). 'I'm going to give them to you' becomes te las voy a dártelas.
+Queísmo (using que instead of de que) is socially accepted and used in the media, and  dequeísmo (using de que instead of que) is somewhat stigmatized.
+In ordinary speech, conjugations of the imperative mood of a few of verbs tend to be replaced with the indicative third-person singular. For example, the second-person singular imperative of poner 'to put', which is pon, becomes pone; that of hacer 'to do', which is haz, becomes hace; and that  of salir 'to exit', sal, becomes sale: hace lo que te pedí 'do what I asked'. However, that is not done in formal speech. Chileans also replace the etymological second-person singular imperative of the verb ir 'to go', ve, with the second-person singular imperative of andar 'to walk', anda, and ve is reserved for the verb ver 'to see': ve la hora 'look at the time'.
+Another feature to note is the lack of use of the possessive nuestro 'our', which is usually replaced by de nosotros 'of us': ándate a la casa de nosotros, literally 'go to the house of us', instead of ándate a nuestra casa 'go to our house'.
+It is very common in Chile, as in many other Latin American countries, to use the diminutive suffixes -ito and -ita. They can mean 'little', as in perrito 'little dog' or casita 'little house', but can also express affection, as with mamita 'mummy, mommy'. They can also diminish the urgency, directness, or importance of something to make something annoying seem more pleasant. So, if someone says espérese un momentito literally 'wait a little moment', it does not mean that the moment will be short, but that the speaker wants to make waiting more palatable and hint that the moment may turn out to be quite long.
+
+Pronouns and verbs
+Chileans use the voseo and tuteo forms for the intimate second-person singular. Voseo is common in Chile, with both pronominal and verbal voseo being widely used in the spoken language.
+In Chile there are at least four grades of formality:
+
+Pronominal and verbal voseo, the use of the pronoun vos (with the corresponding voseo verbs): vos sabí(s), vos vení(s), vos hablái(s), etc. This occurs only in very informal situations.
+Verbal voseo, the use of the pronoun tú: tú sabí(s), tú vení(s), tú hablái(s), etc. This is the predominant form used in the spoken language. It is not used in formal situations or with people one does not know well.
+Standard tuteo: tú sabes, tú vienes, tú hablas, etc. This is the only acceptable way to write the intimate second-person singular. Its use in spoken language is reserved for slightly more formal situations such as (some) child-to-parent, teacher-to-student, or peer-to-peer relations among people who do not know each other well.
+The use of the pronoun usted: usted sabe, usted viene, usted habla, etc. This is used for all business and other formal interactions, such as student-to-teacher but not always teacher-to-student as well as "upwards" if one person is considered to be well respected, older or of an obviously higher social standing. Stricter parents will demand this kind of speech from their children as well.
+The Chilean voseo conjugation has only three irregular verbs in the present indicative: ser 'to be', ir 'to go', and haber 'to have' (auxiliary).
+
+Conjugation
+A comparison of the conjugation of the Chilean voseo, the voseo used in Latin American countries other than Chile, and tuteo follows:
+
+* Rioplatense Spanish prefers the tuteo verb forms.
+Chilean voseo has two different future tense conjugations: one in -ís, as in bailarís, and one in -ái, as in bailarái 'you will dance'. These come from two different underlying representations, one ending in /-es/, and the other ending in /-as/. The /-es/ representation corresponds to a historical future tense form ending in -és, as in estarés. Such a historical conjugation existed in Spain in the 15th and 16th centuries, alongside the -ás endings, and was recorded in Chile in the 17th century. All this said, the simple future tense is not actually used that often in Chile. Instead, the periphrastic future construction (i.e. vai a (va a in standard Spanish)...) is more common.
+
+Ser
+In Chile, there are various ways to say 'you are' to one person.
+
+Vo(s) soi
+Vo(s) erí(s)
+Tú soi
+Tú erí(s)
+Tú eres
+Usted es
+Only the last two are considered Standard Spanish. Usage depends on politeness, social relationships, formality, and education. The ending (s) in those forms is aspirated or omitted.
+The form erei is also occasionally found. It apparently derives from the underlying form /eres/, with the final /s/ becoming a semivowel /j/, as happens in other voseo conjugations. The more common forms soi and erís are likewise derived from the underlying representations /sos/ and /eres/.
+
+Haber
+The auxiliary verb haber, most often used to form existential statements and compound tenses, has two different present indicative forms with vos in Chile: hai and habís.
+
+Ir
+Ir, 'to go', can be conjugated as vai with vos in the present tense in Chile.
+
+Vocabulary
+Chilean Spanish has a great deal of distinctive slang and vocabulary. Some examples of distinctive Chilean slang include al tiro (right away), gallo/a (guy/gal), fome (boring), pololear (to go out as girlfriend/boyfriend), pololo/polola (boyfriend/girlfriend), pelambre (gossip), pito (marijuana cigarette i.e. joint) poto (buttocks), quiltro (mutt) and chomba (knitted sweater) wea  we.'a (thing; can be used for an object or situation).  Another popular Chilean Spanish slang expression is poh, also spelled po', which is a term of emphasis of an idea, this is a monophthongized and aspirated form of pues. In addition, several words in Chilean Spanish are borrowed from neighboring Amerindian languages.
+
+Argentine and Rioplatense influence
+In Chilean Spanish there is lexical influence from Argentine dialects, which suggests a covert prestige. Lexical influences cut across the different social strata of Chile. Argentine summer tourism in Chile and Chilean tourism in [Argentina](1862) provide a channel for influence on the speech of the middle and upper classes. The majority of the population receive Argentine influence by watching Argentine programs on broadcast television, especially football on cable television and music such as cumbia villera on the radio as well. Chilean newspaper La Cuarta regularly employs slang words and expressions that originated in the lunfardo slang of the Buenos Aires region. Usually Chileans do not recognize the Argentine borrowings as such, claiming they are Chilean terms and expressions due to the long time since they were incorporated. The relation between Argentine dialects and Chilean Spanish is one of asymmetric permeability, with Chilean Spanish adopting sayings from Argentine variants but usually not the reverse. Lunfardo is an argot of the [Spanish language](4301) that originated in the late 19th century among the lower classes of Buenos Aires and Montevideo that influenced "Coa", an argot common among criminals in Chile, and later colloquial Chilean Spanish.
+
+Argentine slang loanwords
+
+Mapudungun loanwords
+The Mapudungun language has left a relatively small number of words in Chilean Spanish, given its large geographic expanse. Many Mapudungun loans are names for plants, animals, and places. For example:
+
+Quechua loanwords
+The Quechua language is probably the Amerindian language that has given Chilean Spanish the largest number of loanwords. For example, the names of many American vegetables in Chilean Spanish are derived from Quechua names, rather than from Nahuatl or Taíno as in Standard Spanish. Some of the words of Quechua origin include:
+
+French, German and English loanwords
+There are some expressions of non-Hispanic European origin such as British, German or French. They came with the arrival of the European immigrants in the 19th and 20th centuries. There is also a certain influence from the mass media.
+
+Sample
+Here is sample of a normal text in carefully spoken Latin American Spanish and the same text with a very relaxed pronunciation in informal lower-class Chilean Spanish:
+
+See also
+Languages of Chile
+Bello orthography
+Mapudungun
+Quechua languages
+
+Notes
+References
+Bibliography
+Canfield, D. Lincoln (1981), Spanish Pronunciation in the Americas, Chicago: University of Chicago Press, ISBN 978-0-226-09262-1
+Lipski, John M. (1994), Latin American Spanish, Essex, U.K.: Longman Group Limited
+Oroz, Rodolfo (1966), La lengua castellana en Chile, Santiago: Universidad de Chile
+
+External links
+(in Spanish) Diccionario de Modismos Chilenos - Comprehensive "Dictionary of Chilean Terms".
+Pepe's Chile Chilean Slang - basic list of Chilean slang/unique colloquialisms.
+Jergas de habla hispana Spanish dictionary specializing in slang and colloquial expressions, featuring all Spanish-speaking countries, including Chile.
+Elcastellano.org

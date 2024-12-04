@@ -1,0 +1,426 @@
+3827
+Analytic philosophy
+Analytic philosophy is an analysis focused, broad, contemporary movement or tradition within Western philosophy, especially anglophone philosophy. Analytic philosophy is characterized by a clarity of prose; rigor in arguments; and making use of formal logic and mathematics, and, to a lesser degree, the natural sciences. It is further characterized by an interest in language and meaning known as the linguistic turn. It has developed several new branches of philosophy and logic, notably philosophy of language, philosophy of mathematics,  philosophy of science, modern predicate logic and mathematical logic.
+The proliferation of analysis in philosophy began around the turn of the 20th century and has been dominant since the latter half of the 20th century. Central figures in its historical development are Gottlob Frege, Bertrand Russell, G. E. Moore, and Ludwig Wittgenstein. Other important figures in its history include Franz Brentano, the logical positivists (particularly Rudolf Carnap), the ordinary language philosophers, W. V. O. Quine, and Karl Popper. After the decline of logical positivism, Saul Kripke, David Lewis, and others led a revival in metaphysics.
+Analytic philosophy is often contrasted with continental philosophy, which was coined as a catch-all term for other methods that were prominent in continental Europe, most notably existentialism, phenomenology, and Hegelianism. There is widespread influence and debate between the analytic and continental traditions; some philosophers see the differences between the two traditions as being based on institutions, relationships, and ideology, rather than anything of significant philosophical substance. The distinction has also been drawn between "analytic" being academic or technical philosophy and "continental" being literary philosophy.
+
+History of analytic philosophy
+Austrian realism
+Analytic philosophy was deeply influenced by what is called Austrian realism in the former state of Austria-Hungary, so much so that Michael Dummett has remarked that analytic philosophy is better characterized as Anglo-Austrian rather than the usual Anglo-American.
+
+Brentano
+University of Vienna philosopher and psychologist Franz Brentano—in Psychology from an Empirical Standpoint (1874) and through the subsequent influence of the School of Brentano and its members, such as Edmund Husserl and Alexius Meinong—gave to analytic philosophy the problem of intentionality or of aboutness. For Brentano, all mental events have a real, non-mental intentional object, which the thinking is directed at or "about".
+
+Meinong
+Meinong is known for his unique ontology of real nonexistent objects as a solution to the problem of empty names. The Graz School followed Meinong.
+
+Lwów–Warsaw
+The Polish Lwów–Warsaw school, founded by Kazimierz Twardowski in 1895, grew as an offshoot of the Graz School. It was closely associated with the Warsaw School of Mathematics.
+
+Frege
+Gottlob Frege (1848–1925) was a German geometry professor at the University of Jena who is understood as the father of analytic philosophy. Frege proved influential as a philosopher of mathematics in Germany at the beginning of the 20th century. He advocated logicism, the project of reducing arithmetic to pure logic.
+
+Logic
+As a result of his logicist project, Frege developed predicate logic in his book Begriffsschrift (English: Concept-script, 1879), which allowed for a much greater range of sentences to be parsed into logical form than was possible using the ancient Aristotelian logic. An example of this is the problem of multiple generality.
+
+Number
+Neo-Kantianism dominated the late 19th century in German philosophy. Edmund Husserl's 1891 book Philosophie der Arithmetik argued that the concept of the cardinal number derived from psychical acts of grouping objects and counting them.
+In contrast to this "psychologism", Frege in The Foundations of [Arithmetic](820) (1884) and The Basic Laws of [Arithmetic](820) (German: Grundgesetze der Arithmetik, 1893–1903), argued similarly to Plato or Bolzano that mathematics and logic have their own public objects, independent of the private judgments or mental states of individual mathematicians and logicians. Following Frege, the logicists tended to advocate a kind of mathematical Platonism.
+
+Language
+Frege also proved influential in the philosophy of language and analytic philosophy's interest in meaning. Michael Dummett traces the linguistic turn to Frege's Foundations of [Arithmetic](820) and his context principle.
+Frege's paper "On Sense and Reference" (1892) is seminal, containing Frege's puzzles and providing a mediated reference theory. His paper "The Thought: A Logical Inquiry" (1918) reflects both his anti-idealism or anti-psychologism and his interest in language. In the paper, he argues for a Platonist account of propositions or thoughts.
+
+Russell
+British philosophy in the 19th century had seen a revival of logic started by Richard Whately, in reaction to the anti-logical tradition of British empiricism. The major figure of this period is English mathematician George Boole. Other figures include William Hamilton, Augustus de Morgan, William Stanley Jevons, Alice's Adventures in Wonderland author Lewis Carroll, Hugh MacColl, and American pragmatist Charles Sanders Peirce.
+British philosophy in the late 19th century was dominated by British idealism, a neo-Hegelian movement, as taught by philosophers such as F. H. Bradley (1846–1924) and T. H. Green (1836–1882).
+Analytic philosophy in the narrower sense of 20th and 21st century anglophone philosophy is usually thought to begin with Cambridge philosophers Bertrand Russell and G. E. Moore's rejection of Hegelianism for being obscure; or the "revolt against idealism"—see for example Moore's "A Defence of Common Sense". Russell summed up Moore's influence:
+
+ "G. E. Moore...took the lead in rebellion, and I followed, with a sense of emancipation. Bradley had argued that everything common sense believes in is mere appearance; we reverted to the opposite extreme, and that everything is real that common sense, uninfluenced by philosophy of theology, supposes real. With a sense of escaping from prison, we allowed ourselves to think that grass is green, that the sun and stars would exist if no one was aware of them, and also that there is a pluralistic timeless world of Platonic ideas."
+
+Paradox
+Bertrand Russell, during his early career, was much influenced by Frege. Russell famously discovered the paradox in Basic Law V which undermined Frege's logicist project. However, like Frege, Russell argued that mathematics is reducible to logical fundamentals, in The Principles of Mathematics (1903). He also argued for Meinongianism.
+
+On Denoting
+Russell sought to resolve various philosophical problems by applying Frege's new logical apparatus, most famously in his theory of definite descriptions in "On Denoting", published in Mind in 1905. Russell here argues against Meinongianism. He argues all names (aside from demonstratives like "this" or "that") are disguised definite descriptions, using this to solve ascriptions of nonexistence. This position came to be called descriptivism.
+
+Principia Mathematica
+Later, his book written with Alfred North Whitehead, Principia Mathematica (1910–1913), the seminal text of classical logic and of the logicist project, encouraged many philosophers to renew their interest in the development of symbolic logic. It used a notation from Italian logician Giuseppe Peano, and it uses a theory of types to avoid the pitfalls of Russell's paradox. Whitehead developed process metaphysics in Process and Reality.
+
+Ideal language
+Additionally, Russell adopted Frege's predicate logic as his primary philosophical method, a method Russell thought could expose the underlying structure of philosophical problems. Logical form would be made clear by syntax. For example, the English word "is" has three distinct meanings, which predicate logic can express as follows:
+
+For the sentence 'the cat is asleep', the is of predication means that "x is P" (denoted as P(x)).
+For the sentence 'there is a cat', the is of existence means that "there is an x" (∃x).
+For the sentence 'three is half of six', the is of identity means that "x is the same as y" (x=y).
+From about 1910 to 1930, analytic philosophers like Frege, Russell, Moore, and Russell's student Ludwig Wittgenstein emphasized creating an ideal language for philosophical analysis, which would be free from the ambiguities of ordinary language that, in their opinion, often made philosophy invalid. During this phase, they sought to understand language (and hence philosophical problems) by using logic to formalize how philosophical statements are made.
+
+Logical atomism
+An important aspect of Hegelianism and British idealism was logical holism—the opinion that there are aspects of the world that can be known only by knowing the whole world. This is closely related to the doctrine of internal relations, the opinion that relations between items are internal relations, that is, essential properties of the nature of those items.
+Russell and Moore in response promulgated logical atomism and the doctrine of external relations—the belief that the world consists of independent facts. Inspired by developments in modern formal logic, the early Russell claimed that the problems of philosophy can be solved by showing the simple constituents of complex notions.
+
+Early Wittgenstein
+Wittgenstein developed a comprehensive system of logical atomism with a picture theory of meaning in his Tractatus Logico-Philosophicus (German: Logisch-Philosophische Abhandlung, 1921) sometimes known as simply the Tractatus. He claimed the universe is the totality of actual states of affairs and that these states of affairs can be expressed and mirrored by the language of first-order predicate logic. Thus a picture of the universe can be constructed by expressing facts in the form of atomic propositions and linking them using logical operators.
+Wittgenstein thought he had solved all the problems of philosophy with the Tractatus. The work further ultimately concludes that all of its propositions are meaningless, illustrated with a ladder one must toss away after climbing up it.
+
+Logical positivism
+During the late 1920s to 1940s, a group of philosophers known as the Vienna Circle, and another one known as the Berlin Circle, developed Russell and Wittgenstein's philosophy into a doctrine known as "logical positivism" (or logical empiricism).  The Vienna Circle was led by Moritz Schlick and included Rudolf Carnap and Otto Neurath. The Berlin Circle was led by Hans Reichenbach and included Carl Hempel and mathematician David Hilbert.
+Logical positivists used formal logical methods to develop an empiricist account of knowledge. They adopted the verification principle, according to which every meaningful statement is either analytic or synthetic. The truths of logic and mathematics were tautologies, and those of science were verifiable empirical claims. These two constituted the entire universe of meaningful judgments; anything else was nonsense.
+This led the logical positivists to reject many traditional problems of philosophy, especially those of metaphysics, as meaningless. It had the additional effect of making (ethical and aesthetic) value judgments (as well as religious statements and beliefs) meaningless.
+Logical positivists therefore typically considered philosophy as having a minimal function. For them, philosophy concerned the clarification of thoughts, rather than having a distinct subject matter of its own.
+Several logical positivists were Jewish, such as Neurath, Hans Hahn, Philipp Frank, Friedrich Waissmann, and Reichenbach. Others, like Carnap, were gentiles but socialists or pacifists. With the coming to power of [Adolf Hitler](3417) and Nazism in 1933, many members of the Vienna and Berlin Circles fled to Britain and the United States, which helped to reinforce the dominance of logical positivism and analytic philosophy in anglophone countries.
+In 1936, Schlick was murdered in Vienna by his former student Hans Nelböck. The same year, A. J. Ayer's work Language Truth and Logic introduced the English speaking world to logical positivism.
+The logical positivists saw their rejection of metaphysics in some ways as a recapitulation of a quote by David Hume:
+
+If we take in our hand any volume; of divinity or school metaphysics, for instance; let us ask, Does it contain any abstract reasoning concerning quantity or number? No. Does it contain any experimental reasoning concerning matter of fact and existence? No. Commit it then to the flames: for it can contain nothing but sophistry and illusion.
+
+Ordinary language
+After World War II, from the late 1940s to the 1950s, analytic philosophy became involved with ordinary-language analysis. This resulted in two main trends.
+
+Later Wittgenstein
+One strain of language analysis continued Wittgenstein's later philosophy, from the Philosophical Investigations (1953), which differed dramatically from his early work of the Tractatus. The criticisms of Frank P. Ramsey on color and logical form in the Tractatus led to some of Wittgenstein's first doubts with regard to his early philosophy. Philosophers refer to them like two different philosophers: "early Wittgenstein" and "later Wittgenstein". In his later philosophy, Wittgenstein develops the concept of a "language-game" and, rather than his prior picture theory of meaning, advocates a theory of meaning as use. It also contains the private language argument and the notion of family resemblance.
+
+Oxford philosophy
+The other trend was known as "Oxford philosophy", in contrast to earlier analytic Cambridge philosophers (including the early Wittgenstein) who thought philosophers should avoid the deceptive trappings of natural language by constructing ideal languages. Influenced by Moore's Common Sense and what they perceived as the later Wittgenstein's quietism, the Oxford philosophers claimed that ordinary language already represents many subtle distinctions not recognized in the formulation of traditional philosophical theories or problems.
+
+While schools such as logical positivism emphasize logical terms, which are supposed to be universal and separate from contingent factors (such as culture, language, historical conditions), ordinary-language philosophy emphasizes the use of language by ordinary people. The most prominent ordinary-language philosophers during the 1950s were P. F. Strawson, J. L. Austin, and Gilbert Ryle.
+Ordinary-language philosophers often sought to resolve philosophical problems by showing them to be the result of misunderstanding ordinary language. Ryle, in The Concept of Mind (1949), criticized Cartesian dualism, arguing in favor of disposing of "Descartes' myth" via recognizing "category errors".
+Strawson first became well known with his article "On Referring" (1950), a criticism of Russell's theory of descriptions explained in the latter's famous "On Denoting" article. In his book Individuals (1959), Strawson examines our conceptions of basic particulars. Austin, in the posthumously published How to Do Things with Words (1962), emphasized the theory of speech acts and the ability of words to do things (e. g. "I promise") and not just say things. This influenced several fields to undertake what is called a performative turn. In Sense and Sensibilia (1962), Austin criticized sense-data theories.
+
+Spread of Analytic philosophy
+Australia and New Zealand
+The school known as Australian realism began when John Anderson accepted the Challis Chair of Philosophy at the University of Sydney in 1927. His elder brother was William Anderson, Professor of Philosophy at Auckland University College from 1921 to his death in 1955, who was described as "the most dominant figure in New Zealand philosophy." J. N. Findlay was a student of Ernst Mally of the Austrian realists and taught at the University of Otago.
+
+Finland
+The Finnish Georg Henrik von Wright succeeded Wittgenstein at Cambridge in 1948.
+
+Contemporary analytic philosophy
+Metaphysics
+One striking difference with respect to early analytic philosophy was the revival of metaphysical theorizing during the second half of the 20th century, and metaphysics remains a fertile topic of research. Although many discussions are continuations of old ones from previous decades and centuries, the debates remains active.
+
+Decline of logical positivism
+The rise of metaphysics mirrored the decline of logical positivism, first challenged by the later Wittgenstein.
+
+Sellars
+Wilfred Sellars's criticism of the "Myth of the Given", in Empiricism and the Philosophy of Mind (1956), challenged logical positivism by arguing against sense-data theories. In his "Philosophy and the Scientific Image of Man" (1962), Sellars distinguishes between the "manifest image" and the "scientific image" of the world. Sellars's goal of a synoptic philosophy that unites the everyday and scientific views of reality is the foundation and archetype of what is sometimes called the Pittsburgh School, whose members include Robert Brandom, John McDowell, and John Haugeland.
+
+Quine
+Also among the developments that resulted in the decline of logical positivism and the revival of metaphysical theorizing was Harvard philosopher W. V. O. Quine's attack on the analytic–synthetic distinction in "Two Dogmas of Empiricism", published in 1951 in The Philosophical Review and republished in Quine's book From A Logical Point of View (1953), a paper "sometimes regarded as the most important in all of twentieth-century philosophy".
+From a Logical Point of View also contains Quine's essay "On What There Is" (1948), which elucidates Russell's theory of descriptions and contains Quine's famous dictum of ontological commitment, "To be is to be the value of a variable". He also dubbed the problem of nonexistence Plato's beard.
+Quine sought to naturalize philosophy and saw philosophy as continuous with science, but instead of logical positivism advocated a kind of semantic holism and ontological relativity, which explained that every term in any statement has its meaning contingent on a vast network of knowledge and belief, the speaker's conception of the entire world. In his magnum opus Word and Object (1960), Quine introduces the idea of radical translation, an introduction to his theory of the indeterminacy of translation, and specifically to prove the inscrutability of reference.
+
+Kripke
+Important also for the revival of metaphysics was the further development of modal logic, first introduced by pragmatist C. I. Lewis, especially the work of Saul Kripke and his Naming and Necessity (1980).
+According to one author, Naming and Necessity "played a large role in the implicit, but widespread, rejection of the view—so popular among ordinary language philosophers—that philosophy is nothing more than the analysis of language."
+Kripke was influential in arguing that flaws in common theories of descriptions and proper names are indicative of larger misunderstandings of the metaphysics of necessity and possibility. Kripke also argued that necessity is a metaphysical notion distinct from the epistemic notion of a priori, and that there are necessary truths that are known a posteriori, such as that water is H2O.
+Kripke is widely regarded as having revived theories of essence and identity as respectable topics of philosophical discussion. Kripke and Hilary Putnam argued for realism about natural kinds. Kripke holds that it is essential that water is H2O, or for gold to be atomic number 79.  Putnam's Twin Earth thought experiment can be used to illustrate the same point with water.
+
+David Lewis
+American philosopher David Lewis defended a number of elaborate metaphysical theories. In works such as On the Plurality of Worlds (1986) and Counterfactuals (1973) he argued for modal realism and counterpart theory – the belief in real, concrete possible worlds. According to Lewis, "actual" is merely an indexical label we give a world when we are in it. Lewis also defended what he called Humean supervenience, a counterfactual theory of causation, and contributed to abstract object theory. He became closely associated with Australia, whose philosophical community he visited almost annually for more than 30 years.
+
+Universals
+In response to the problem of universals, Australian David Malet Armstrong defended a kind of moderate realism. Quine and Lewis defended nominalism.
+
+Mereology
+Polish philosopher Stanisław Leśniewski coined the term mereology, which is the formal study of parts and wholes, a subject that arguably goes back to the time of the pre-Socratics. David Lewis believed in perdurantism and introduced the term 'gunk'. Peter Van Inwagen believes in mereological nihilism, except for living beings, a view called organicism.
+
+Free will and determinism
+Peter van Inwagen's 1983 monograph An Essay on Free Will played an important role in rehabilitating libertarianism with respect to free will, in mainstream analytical philosophy. In the book, he introduces the consequence argument and the term incompatibilism about free will and determinism, to stand in contrast to compatibilism—the view that free will is compatible with determinism. Charlie Broad had previously made similar arguments.
+
+Personal identity
+Since John Locke, philosophers have been concerned with the problem of personal identity. Derek Parfit in Reasons and Persons (1984) defends a kind of bundle theory, while David Lewis again defends perdurantism. Bernard Williams in The Self and the Future (1970) argues that personal identity is bodily identity rather than mental continuity.
+
+Principle of sufficient reason
+Since Leibniz philosophers have discussed the principle of sufficient reason or PSR. Van Inwagen criticizes the PSR. Alexander Pruss defends it.
+
+Philosophy of time
+Analytic philosophy of time traces its roots to the British idealist J. M. E. McTaggart's article "The Unreality of Time"  (1908). In it, McTaggart distinguishes between the dynamic, A-, or tensed, theory of time (past, present, future), in which time flows; and the static or tenseless B-theory of time (earlier than, simultaneous with, later than). Eternalism holds that past, present, and future are equally real. In contrast, Presentism holds that only entities in the present exist.
+The theory of special relativity seems to advocate a B-theory of time. David Lewis's perdurantism, or four-dimensionalism, requires a B-theory of time. A. N. Prior, who invented tense logic, advocated the A-theory of time.
+
+Logical pluralism
+Many-valued and non-classical logics have been popular since the Polish logician Jan Lukasiewicz. Graham Priest is a dialetheist, seeing it as the most natural solution to problems such as the liar paradox. JC Beall, together with Greg Restall, is a pioneer of a widely-discussed version of logical pluralism.
+
+Epistemology
+Justification
+Gettier
+Owing largely to Edmund Gettier's 1963 paper "Is Justified True Belief Knowledge?", and the so-called Gettier problem, epistemology has enjoyed a resurgence as a topic of analytic philosophy during the last 50 years. A large portion of current epistemological research is intended to resolve the problems that Gettier's examples presented to the traditional "justified true belief" model of knowledge, found as early as Plato's dialogue Theaetetus. These include developing theories of justification to deal with Gettier's examples, or giving alternatives to the justified-true-belief model.
+
+Theories
+Chisholm defended foundationalism. Quine defended coherentism, a "web of belief". Quine proposed naturalized epistemology.
+
+Internalism and externalism
+The debate between internalism and externalism still exists in analytic philosophy. Alvin Goldman is an externalist known for developing a popular form of externalism called reliabilism. Most externalists reject the KK thesis, which has been disputed since the introduction of the epistemic logic by Jaakko Hintikka in 1962.
+
+Problem of the Criterion
+While a problem since antiquity, American philosopher Roderick Chisholm, in his Theory of Knowledge, details the problem of the criterion with two sets of questions:
+
+What do we know? or What is the extent of our knowledge?
+How do we know? or What is the criterion for deciding whether we have knowledge in any particular case?
+An answer to either set of questions will allow us to devise a means of answering the other. Answering the former question-set first is called particularism, whereas answering the latter set first is called methodism. A third solution is skepticism, or doubting there is such a thing as knowledge.
+
+Truth
+Frege questioned standard theories of truth, and sometimes advocated a redundancy theory of truth. Frank Ramsey also advocated a redundancy theory.  Alfred Tarski put forward a semantic theory of truth.
+In Truth-Makers (1984), Kevin Mulligan, Peter Simons, and Barry Smith introduced the truth-maker idea as a contribution to the correspondence theory of truth. A truth-maker is contrasted with a truth-bearer.
+
+Closure
+Epistemic closure is the claim that knowledge is closed under entailment; in other words epistemic closure is a property or the principle that if a subject 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ knows 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+, and 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ knows that 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ entails 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+, then 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ can thereby come to know 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  
+. Most epistemological theories involve a closure principle, and many skeptical arguments assume a closure principle. In Proof of An External World, G. E. Moore uses closure in his famous anti-skeptical "here is one hand" argument. Shortly before his death, Wittgenstein wrote On Certainty in response to Moore.
+While the principle of epistemic closure is generally regarded as intuitive, philosophers, such as Fred Dretske with relevant alternatives theory and Robert Nozick in Philosophical Explanations, have argued against it.
+
+Induction
+In his book Fact, Fiction, and Forecast, Nelson Goodman introduced the "new riddle of induction", so-called by analogy with Hume's classical problem of induction.  Goodman's famous example was to introduce the predicates grue and bleen. "Grue" applies to all things before a certain time t, just in case they are green, but also just in case they are blue after time t; and "bleen" applies to all things before a certain time t, just in the case they are blue, but also just in case they are green after time t.
+
+Other topics
+Other, related topics of contemporary research include debates over basic knowledge, the nature of evidence, the value of knowledge, epistemic luck, virtue epistemology, the role of intuitions in justification, and treating knowledge as a primitive concept.
+
+Ethics
+Due to the commitments to empiricism and symbolic logic in the early analytic period, early analytic philosophers often thought that inquiry in the ethical domain could not be made rigorous enough to merit any attention. It was only with the emergence of ordinary-language philosophers that ethics started to become an acceptable area of inquiry for analytic philosophers. Philosophers working within the analytic tradition have gradually come to distinguish three major types of moral philosophy.
+
+Meta-ethics, which investigates moral terms and concepts;
+Normative ethics, which examines and produces normative ethical judgments;
+Applied ethics, which investigates how existing normative principles should be applied to difficult or borderline cases, often cases created by new technology or new scientific knowledge.
+
+Meta-ethics
+As well as Hume's famous is/ought distinction, twentieth-century meta-ethics has two original strains.
+
+Principia Ethica
+The first is G. E. Moore's investigation into the nature of ethical terms (e.g., good) in his Principia Ethica (1903), which  advances a kind of moral realism called ethical non-naturalism and is known for the open question argument and identifying the naturalistic fallacy, a major topic of investigation for analytical philosophers. According to Moore, "Goodness is a simple, undefinable, non-natural property."
+Contemporary philosophers, such as Russ Shafer-Landau in Moral Realism: A Defence, defend ethical non-naturalism.
+
+Emotivism
+The second is founded on logical positivism and its attitude that unverifiable statements are meaningless. As a result, they avoided normative ethics and instead began meta-ethical investigations into the nature of moral terms, statements, and judgments.
+The logical positivists opined that statements about value—including all ethical and aesthetic judgments—are non-cognitive; that is, they cannot be objectively verified or falsified. Instead, the logical positivists adopted an emotivist theory, which was that value judgments expressed the attitude of the speaker. It is also known as the boo/hurrah theory. For example, in this view, saying, "Murder is wrong", is equivalent to saying, "Boo to murder", or saying the word "murder" with a particular tone of disapproval.
+While analytic philosophers generally accepted non-cognitivism, emotivism had many deficiencies. It evolved into more sophisticated non-cognitivist theories, such as the expressivism of Charles Stevenson, and the universal prescriptivism of R. M. Hare, which was based on J. L. Austin's philosophy of speech acts.
+
+Critics
+As non-cognitivism, the is/ought distinction, and the naturalistic fallacy were questioned, analytic philosophers showed a renewed interest in the traditional questions of moral philosophy.
+Philippa Foot defended naturalist moral realism and contributed several essays attacking other theories. Foot introduced the famous "trolley problem" into the ethical discourse.
+Perhaps the most influential critic was Elizabeth Anscombe, whose monograph Intention was called by Donald Davidson "the most important treatment of action since [Aristotle](162)". A favorite student and friend of Ludwig Wittgenstein, her 1958 article "Modern Moral Philosophy" declared the "is-ought" impasse to be unproductive. J.O. Urmson's article "On Grading" also called the is/ought distinction into question.
+Australian J. L. Mackie, in Ethics: Inventing Right And Wrong, defended anti-realist error theory. Bernard Williams also influenced ethics by advocating a kind of moral relativism and rejecting all other theories.
+
+Normative ethics
+The first half of the 20th century was marked by skepticism toward, and neglect of, normative ethics. However, contemporary normative ethics is dominated by three schools: consequentialism, virtue ethics, and deontology.
+
+Consequentialism, or Utilitarianism
+During the early 20th century, utilitarianism was the only non-skeptical type of ethics to remain popular among analytic philosophers. However, as the influence of logical positivism declined mid-century, analytic philosophers had a renewed interest in ethics. Utilitarianism: For and Against was written with J. J. C. Smart arguing for and Bernard Williams arguing against.
+
+Virtue ethics
+Anscombe, Foot, and Alasdair Macintyre's After Virtue sparked a revival of [Aristotle](162)'s virtue ethical approach. This increased interest in virtue ethics has been dubbed the "aretaic turn" mimicking the linguistic turn.
+
+Deontology
+John Rawls's 1971 A Theory of Justice restored interest in Kantian ethical philosophy.
+
+Applied ethics
+Since around 1970, a significant feature of analytic philosophy has been the emergence of applied ethics—an interest in the application of moral principles to specific practical issues. The philosophers following this orientation view ethics as involving humanistic values, which involve practical implications and applications in the way people interact and lead their lives socially.
+Topics of special interest for applied ethics include environmental ethics, animal rights, and the many challenges created by advancing medical science. In education, applied ethics addressed themes such as punishment in schools, equality of educational opportunity, and education for democracy.
+
+Political philosophy
+Liberalism
+Isaiah Berlin had a lasting influence on both analytic political philosophy and liberalism with his lecture "Two Concepts of Liberty". Berlin defined 'negative liberty' as absence of coercion or interference in private actions. 'Positive liberty' Berlin maintained, could be thought of as self-mastery, which asks not what we are free from, but what we are free to do.
+Current analytic political philosophy owes much to John Rawls, who in a series of papers from the 1950s onward (most notably "Two Concepts of Rules" and "Justice as Fairness") and his 1971 book A Theory of Justice, produced a sophisticated defense of a generally liberal egalitarian account of distributive justice. Rawls introduced the term the veil of ignorance.
+This was followed soon by Rawls's colleague Robert Nozick's book Anarchy, State, and Utopia, a defense of free-market libertarianism.  Consequentialist libertarianism also derives from the analytic tradition .
+During recent decades there have also been several critics of liberalism, including the feminist critiques by Catharine MacKinnon and Andrea Dworkin, the multiculturalist critiques by Amy Gutmann and Charles Taylor, and the communitarian critiques by Michael Sandel and Alasdair MacIntyre (although neither of them endorses the term).
+
+Analytical Marxism
+Another development of political philosophy was the emergence of the school of analytical Marxism. Members of this school seek to apply techniques of analytic philosophy and modern social science to clarify the theories of Karl Marx and his successors. The best-known member of this school is G. A. Cohen, whose 1978 book, Karl Marx's Theory of History: A Defence, is generally considered to represent the genesis of this school. In that book, Cohen used logical and linguistic analysis to clarify and defend Marx's materialist conception of history. Other prominent analytical Marxists include the economist John Roemer, the social scientist Jon Elster, and the sociologist Erik Olin Wright. The work of these later philosophers has furthered Cohen's work by bringing to bear modern social science methods, such as rational choice theory, to supplement Cohen's use of analytic philosophical techniques in the interpretation of Marxian theory.
+Cohen himself would later engage directly with Rawlsian political philosophy to advance a socialist theory of justice that contrasts with both traditional Marxism and the theories advanced by Rawls and Nozick. In particular, he indicates Marx's principle of from each according to his ability, to each according to his need.
+Although not an analytic philosopher, Jürgen Habermas is another influential—if controversial—author in contemporary analytic political philosophy, whose social theory is a blend of social science, Marxism, neo-Kantianism, and American pragmatism.
+
+Communitarianism
+Communitarians such as Alasdair MacIntyre, Charles Taylor, Michael Walzer, and Michael Sandel advance a critique of liberalism that uses analytic techniques to isolate the main assumptions of liberal individualists, such as Rawls, and then challenges these assumptions. In particular, communitarians challenge the liberal assumption that the individual can be considered as fully autonomous from the community in which he is brought up and lives. Instead, they argue for a conception of the individual that emphasizes the role that the community plays in forming his or her values, thought processes, and opinions. While in the analytic tradition, its major exponents often also engage at length with figures generally considered continental, notably G. W. F. Hegel and Friedrich Nietzsche.
+
+[Aesthetics](3304)
+As a result of logical positivism, as well as what seemed like rejections of the traditional aesthetic notions of beauty and sublimity from post-modern thinkers, analytic philosophers were slow to consider art and aesthetic judgment. Susanne Langer and Nelson Goodman addressed these problems in an analytic style during the 1950s and 1960s. Since Goodman, aesthetics as a discipline for analytic philosophers has flourished.
+Arthur Danto argued for a "institutional definition of art" in the 1964 essay "The Artworld" in which Danto coined the term "artworld" (as opposed to the existing "art world", though they mean the same), by which he meant cultural context or "an atmosphere of art theory".
+Rigorous efforts to pursue analyses of traditional aesthetic concepts were performed by Guy Sircello in the 1970s and 1980s, resulting in new analytic theories of love, sublimity, and beauty. In the opinion of Władysław Tatarkiewicz, there are six conditions for the presentation of art: beauty, form, representation, reproduction of reality, artistic expression, and innovation. However, one may not be able to pin down these qualities in a work of art.
+George Dickie was an influential philosopher of art. Dickie's student Noël Carroll is a leading philosopher of art.
+
+Philosophy of language
+Given the linguistic turn, it can be hard to separate logic, metaphysics, and the philosophy of language in analytic philosophy. Philosophy of language is a topic that has decreased in activity during the last four decades, as evidenced by the fact that few major philosophers today treat it as a primary research topic. While the debate remains fierce, it is still strongly influenced by those authors from the first half of the century, e.g. Frege, Russell, Wittgenstein, Austin, Tarski, and Quine.
+
+Semantics
+Saul Kripke provided a semantics for modal logic. In his book Naming and Necessity (1980), Kripke challenges the descriptivist theory with a causal theory of reference. In it he introduced the term rigid designator. According to one author, "In the philosophy of language, Naming and Necessity is among the most important works ever." Ruth Barcan Marcus also challenged descriptivism. So did Keith Donnellan.
+Hilary Putnam used the Twin Earth thought experiment to argue for semantic externalism, or the view that the meanings of words are not psychological. Donald Davidson uses the thought experiment of Swampman to advocate for semantic externalism.
+Kripke in Wittgenstein on Rules and Private Language provides a rule-following paradox that undermines the possibility of our ever following rules in our use of language and, so, calls into question the idea of meaning. Kripke writes that this paradox is "the most radical and original skeptical problem that philosophy has seen to date". The portmanteau "Kripkenstein" has been coined as a term for a fictional person who holds the views expressed by Kripke's reading of Wittgenstein.
+Another influential philosopher, Pavel Tichý initiated Transparent Intensional Logic, an original theory of the logical analysis of natural languages—the theory is devoted to the problem of saying exactly what it is that we learn, know, and can communicate when we come to understand what a sentence means.
+
+Pragmatics
+Paul Grice and his maxims and theory of implicature established the discipline of pragmatics.
+
+Philosophy of mind and cognitive science
+John Searle suggests that the obsession with the philosophy of language during the 20th century has been superseded by an emphasis on the philosophy of mind.
+
+Physicalism
+Motivated by the logical positivists' interest in verificationism, logical behaviorism was the most prominent theory of mind of analytic philosophy for the first half of the 20th century. Behaviorism later became much less popular, in favor of either type physicalism or functionalism. During this period, topics of the philosophy of mind were often related strongly to topics of cognitive science, such as modularity or innateness.
+
+Behaviorism
+Behaviorists such as B. F. Skinner tended to opine either that statements about the mind were equivalent to statements about behavior and dispositions to behave in particular ways or that mental states were directly equivalent to behavior and dispositions to behave.
+
+Hilary Putnam criticized behaviorism by arguing that it confuses the symptoms of mental states with the mental states themselves, positing "super Spartans" who never display signs of pain.
+See also: Verbal Behavior § Chomsky's review and replies
+
+Type Identity
+Type physicalism or type identity theory identified mental states with brain states. Former students of Ryle at the University of Adelaide  J. J. C. Smart and Ullin Place argued for type physicalism.
+
+Functionalism
+Functionalism remains the dominant theory. Type identity was criticized using multiple realizability.
+Searle's Chinese room argument criticized functionalism and holds that while a computer can understand syntax, it could never understand semantics.
+
+Eliminativism
+The view of eliminative materialism is most closely associated with Paul and Patricia Churchland, who deny the existence of propositional attitudes, and with Daniel Dennett, who is generally considered an eliminativist about qualia and phenomenal aspects of consciousness.
+
+Dualism
+Finally, analytic philosophy has featured a certain number of philosophers who were dualists, and recently forms of property dualism have had a resurgence; the most prominent representative is David Chalmers. Kripke also makes a notable argument for dualism.
+Thomas Nagel's "What is it like to be a bat?" challenged the physicalist account of mind. So did Frank Jackson's knowledge argument, which argues for qualia.
+
+Theories of consciousness
+In recent years, a central focus of research in the philosophy of mind has been consciousness and the philosophy of perception. While there is a general consensus for the global neuronal workspace model of consciousness, there are many opinions as to the specifics. The best known theories are Searle's naive realism, Fred Dretske and Michael Tye's representationalism,  Daniel Dennett's heterophenomenology, and the higher-order theories of either David M. Rosenthal—who advocates a higher-order thought (HOT) model—or David Armstrong and William Lycan—who advocate a higher-order perception (HOP) model. An alternative higher-order theory, the higher-order global states (HOGS) model, is offered by Robert van Gulick.
+
+Philosophy of mathematics
+Since the beginning, analytic philosophy has had an interest in the philosophy of mathematics. Kurt Gödel, a student of Hans Hahn of the Vienna Circle, produced his incompleteness theorems showing that Russell and Whitehead's Principia Mathematica also failed to reduce arithmetic to logic. Gödel has been ranked as one  of the four greatest logicians of all time, along with [Aristotle](162), Frege, and Tarski. Ernst Zermelo and Abraham Fraenkel established Zermelo Fraenkel Set Theory. Quine developed his own system, dubbed New Foundations.
+Physicist Eugene Wigner's seminal paper "The Unreasonable Effectiveness of Mathematics in the Natural Sciences" poses the question of why a formal pursuit like mathematics can have real utility. José Benardete argued for the reality of infinity.
+Akin to the medieval debate on universals, between realists, idealists, and nominalists; the philosophy of mathematics has the debate between logicists or platonists, conceptualists or intuitionists, and formalists.
+
+Platonism
+Gödel was a platonist who postulated a special kind of mathematical intuition that lets us perceive mathematical objects directly. Quine and Putnam argued for platonism with the indispensability argument. Crispin Wright, along with Bob Hale, led a Neo-Fregean revival with his work Frege's Conception of Numbers as Objects.
+
+Critics
+Structuralist Paul Benacerraf has an epistemological objection to mathematical platonism.
+
+Intuitionism
+The intuitionists, led by L. E. J. Brouwer, are a constructivist school of mathematics that argues that mathematics is a cognitive construct rather than a type of objective truth.
+
+Formalism
+The formalists, best exemplified by David Hilbert, considered mathematics to be merely the investigation of formal axiom systems. Hartry Field defended mathematical fictionalism.
+
+Philosophy of religion
+In Analytic Philosophy of Religion, James Franklin Harris noted that:
+
+...analytic philosophy has been a very heterogeneous 'movement'.... some forms of analytic philosophy have proven very sympathetic to the philosophy of religion and have provided a philosophical mechanism for responding to other more radical and hostile forms of analytic philosophy.: 3 
+
+As with the study of ethics, early analytic philosophy tended to avoid the study of religion, largely dismissing (as per the logical positivists) the subject as a part of metaphysics and therefore meaningless. The demise of logical positivism led to a renewed interest in the philosophy of religion, prompting philosophers not only to introduce new problems, but to re-study classical topics such as the existence of God, the nature of miracles, the problem of evil, the rationality of belief in God, concepts of the nature of God, and several others. The Society of Christian Philosophers was established in 1978.
+
+Reformed epistemology
+Analytic philosophy formed the basis for some sophisticated Christian arguments, such as those of the reformed epistemologists such as [Alvin Plantinga](3821), William Alston, and Nicholas Wolterstorff.
+
+Plantinga was awarded the Templeton Prize in 2017 and was once described by Time magazine as "America's leading orthodox Protestant philosopher of God". His seminal work God and Other Minds (1967) argues that belief in God is a properly basic belief akin to the belief in other minds. Plantinga also developed a modal ontological argument in The Nature of Necessity (1974).
+Plantinga, J. L. Mackie, and Antony Flew debated the use of the free will defense as a way to solve the problem of evil. Plantinga's evolutionary argument against naturalism contends that there is a problem in asserting both evolution and naturalism. Plantinga further issued a trilogy on epistemology, and especially justification, Warrant: The Current Debate, Warrant and Proper Function, and Warranted Christian Belief.
+Alston defended divine command theory and applied the analytic philosophy of language to religious language. Robert Merrihew Adams also defended divine command theory, and worked on the relationship between faith and morality. William Lane Craig defends the Kalam cosmological argument in the book of the same name.
+
+Analytic Thomism
+Catholic philosophers in the analytic tradition—such as Elizabeth Anscombe, Peter Geach, Anthony Kenny, Alasdair MacIntyre, John Haldane, Eleonore Stump, and others—developed an analytic approach to Thomism.
+
+Orthodox
+Richard Swinburne wrote a trilogy of books, arguing for God, consisting of The Coherence of Theism, The Existence of God, and Faith and Reason.
+
+Wittgenstein and religion
+The analytic philosophy of religion has been preoccupied with Wittgenstein, as well as his interpretation of Søren Kierkegaard's philosophy of religion. Wittgenstein fought for the Austrian army in the First World War and came upon a copy of Leo Tolstoy's Gospel in Brief. At that time, he underwent some kind of religious conversion.
+Using first-hand remarks (which were later published in Philosophical Investigations, Culture and Value, and other works), philosophers such as Peter Winch and Norman Malcolm developed what has come to be known as "contemplative philosophy", a Wittgensteinian school of thought rooted in the "Swansea school", and which includes Wittgensteinians such as Rush Rhees, Peter Winch, and D.Z. Phillips, among others.
+The name "contemplative philosophy" was coined by D. Z. Phillips in Philosophy's Cool Place, which rests on an interpretation of a passage from Wittgenstein's Culture and Value. This interpretation was first labeled "Wittgensteinian Fideism" by Kai Nielsen, but those who consider themselves members of the Swansea school have relentlessly and repeatedly rejected this construal as a caricature of Wittgenstein's position; this is especially true of Phillips. Responding to this interpretation, Nielsen and Phillips became two of the most prominent interpreters of Wittgenstein's philosophy of religion.
+
+Philosophy of science
+Science and the philosophy of science have also had increasingly significant roles in analytic metaphysics. The theory of special relativity has had a profound effect on the philosophy of time, and quantum physics is routinely discussed in the free will debate. The weight given to scientific evidence is largely due to commitments of philosophers to scientific realism and naturalism. Others will see a commitment to using science in philosophy as scientism.
+
+Confirmation theory
+Carl Hempel advocated confirmation theory or Bayesian epistemology. He introduced the famous raven's paradox.
+
+Falsification
+In reaction to what he considered excesses of logical positivism, Karl Popper, in The Logic of Scientific Discovery, insisted on the role of falsification in the philosophy of science, using it to solve the demarcation problem.
+
+Confirmation holism
+The Duhem–Quine thesis, or problem of underdetermination, posits that no scientific hypothesis can be understood in isolation, a viewpoint called confirmation holism.
+
+Constructivism
+In reaction to both the logical positivists and Popper, discussions of the philosophy of science during the last 40 years were dominated by social constructivist and cognitive relativist theories of science. Following Quine and Duhem, subsequent theories emphasized theory-ladenness. Thomas Samuel Kuhn, with his formulation of paradigm shifts, and Paul Feyerabend, with his epistemological anarchism, are significant for these discussions.
+
+Biology
+The philosophy of biology has also undergone considerable growth, particularly due to the considerable debate in recent years over the nature of evolution, particularly natural selection. Daniel Dennett and his 1995 book Darwin's Dangerous Idea, which defends Neo-Darwinism, stand at the forefront of this debate. Jerry Fodor criticizes natural selection.
+
+Notes
+References
+Books and articles
+[Aristotle](162), Metaphysics
+Desmet, Ronald; Irvine, Andrew David (2022). "Alfred North Whitehead". The Stanford Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford University. Retrieved 1 April 2024.
+Dummett, Michael (1993). The Origins of Analytical Philosophy. Cambridge, MA: Harvard University Press. ISBN 978-0-674-64473-1.
+Geach, P., Mental Acts, London 1957
+Kane, Robert (2005). A Contemporary Introduction to Free Will. Oxford University Press. ISBN 978-0-19-514970-8. Retrieved 13 April 2020.
+Kenny, A.J.P., Wittgenstein, London 1973.
+Loux, Michael J.; Crisp, Thomas M. (2017). Metaphysics: A Contemporary Introduction (4 ed.). Routledge. ISBN 978-1-138-63933-1.
+Palmer, Clare (1998). Environmental Ethics and Process Thinking. Clarendon Press. ISBN 978-0-19-826952-6. Archived from the original on 2 April 2024. Retrieved 4 April 2024.
+Aaron Preston. "Analytic philosophy". Internet Encyclopedia of Philosophy.
+Soames, Scott. Philosophical Analysis in the Twentieth Century: Volume 1, The Dawn of Analysis. Princeton: Princeton University Press, 2003.
+van Inwagen, Peter (1983). An Essay on Free Will. Clarendon Press. ISBN 978-0-19-824924-5. Retrieved 27 December 2012.
+Wittgenstein, Tractatus Logico-Philosophicus
+
+Further reading
+The London Philosophy Study Guide Archived 23 September 2009 at the Wayback Machine offers many suggestions on what to read, depending on the student's familiarity with the subject: Frege, Russell, and Wittgenstein
+Hirschberger, Johannes. A Short History of Western Philosophy, ed. Clare Hay. Short History of Western Philosophy, A. ISBN 978-0-7188-3092-2
+Hylton, Peter. Russell, Idealism, and the Emergence of Analytic Philosophy. Oxford: Oxford University Press, 1990.
+Passmore, John. A Hundred Years of Philosophy, revised ed. New York: Basic Books, 1966.
+Weitz, Morris, ed. Twentieth Century Philosophy: The Analytic Tradition. New York: Free Press, 1966.
+
+External links
+"Analytic philosophy". Internet Encyclopedia of Philosophy.
+Zalta, Edward N. (ed.). "Conceptions of Analysis in Analytic Philosophy". Stanford Encyclopedia of Philosophy.

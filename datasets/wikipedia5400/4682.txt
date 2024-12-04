@@ -1,0 +1,191 @@
+4682
+Carrier language
+The Dakelh (ᑕᗸᒡ) or Carrier language is a Northern Athabaskan language. It is named after the Dakelh people, a First Nations people of the Central Interior of British Columbia, [Canada](1956), for whom Carrier has been a common English name derived from French explorers naming of the people. Dakelh people speak two related languages. One, Babine-Witsuwit'en, is sometimes referred to as Northern Carrier. The other includes what are sometimes referred to as Central Carrier and Southern Carrier.
+
+Etymology of 'Carrier'
+The name 'Carrier' is a translation of the Sekani name 'aɣele' "people who carry things around on their backs", due to the fact that the first Europeans to learn of the Carrier, the Northwest Company explorers led by Alexander Mackenzie, first passed through the territory of the Carriers' Sekani neighbours. 
+The received view of the origin of the Sekani name is that it refers to the distinctive Carrier mortuary practice in which a widow carried her husband's ashes on her back during the period of mourning. An alternative hypothesis is that it refers to the fact that the Dakeł, unlike the Sekani, participated in trade with the coast, which required packing loads of goods over the Grease Trails.
+
+Phonology
+Inventory
+Consonants
+All dialects of Carrier have essentially the same consonant system, which is shown in this chart.
+
+There are three series of stops and affricates: aspirated, unaspirated (written voiced in the practical orthography), and ejective.
+As of the late 20th century, some conservative older speakers of Carrier had a contrast between apico-alveolar and lamino-dental series of fricatives and affricates. For other speakers, the lamino-dental series have merged with the apico-alveolar series. The contrast had become so obscure that when, in 1995, after many years of effort, the Carrier Bible Fellowship finally published he Stuart Lake dialect translation of the New Testament, they omitted marking of the lamino-dental series.
+
+Vowels
+Carrier has six surface-phonemic vowels:
+
+Front and back vowels are tense in open syllables and lax in closed syllables. The reduced vowel /ə/ is quite variable in its realization: it approaches i immediately preceding /j/ and approaches a when either or both adjacent consonants are laryngeal. Unlike in some related languages, there is no distinctive nasalization; that is, Carrier does not contrast oral and nasal vowels.
+The great majority of instances of /ə/ are predictable from the phonotactics, introduced in order to create an acceptable syllable structure. The remaining instances are all found in certain forms of the verb where the morphology requires some vowel to be present.
+In most if not all dialects there are surface-phonemic distinctions of vowel length. However, all of the long vowels that create such distinctions are morphophonemically derived. There is no need to represent vowel length in lexical representations.
+
+Tone
+Carrier has a very simple tone system of the type often described as pitch accent—it is in fact very similar to the prototypical pitch-accent language, Japanese. In Dakeł, a word may or may not have a tonic syllable. If it does not, the pitch rises gradually across the phonological word. If it does have a tonic syllable, then that syllable has a high pitch, the following syllable falls to a low pitch, and subsequent syllables until the end of the prosodic unit are also low pitched. Any syllable in the word may carry the accent; if it is the final syllable, then the first syllable of the following word is low pitched, even if it would otherwise be tonic. Representing this phonemic drop in pitch with the downstep symbol ꜜ, there is a contrast between the surface tone following an unaccented word xoh "goose" compared with the accented word yesꜜ "wolf":
+
+xóh niɬʔén
+"He sees the goose."
+jə́sꜜ nìɬʔèn
+"He sees the wolf."
+However, after a tonic syllable, the high pitch of jəsꜜ "wolf" is lost:
+
+ʔiɬóꜜ jəsꜜ
+"One wolf"
+
+Phonotactics
+In general, Carrier syllables are maximally CVC. All consonants, other than the extremely rare /ŋ/, are found in syllable-initial position. The possible coda consonants, on the other hand, are restricted. All sonorants except for the extremely rare palatal nasal may occur in the coda, but of the obstruents only the pulmonic unaspirated series occur. [Affricate](4415)s are not found in the coda with the exception of a few instances of /ts/. Palatals are also absent from the coda.
+Word-internally consonant clusters occur only at the juncture between two syllables. Tautosyllablic clusters are found only word-initially, where any of the onset consonants may be preceded by /s/ or /ɬ/.
+Nasals at all points of articulation are syllabic word-initially preceding a consonant.
+
+Writing system
+The writing system in general use today is the Carrier Linguistic Committee writing system, a Roman-based system developed in the 1960s by missionaries and a group of Carrier people with whom they worked. The CLC writing system was designed to be typed on a standard English typewriter. It uses numerous digraphs and trigraphs to write the many Carrier consonants not found in English, e.g. ⟨gh⟩ for ɣ and ⟨lh⟩ for ɬ, with an apostrophe to mark glottalization, e.g. ⟨ts'⟩ for the ejective alveolar affricate. Letters generally have their English rather than European values. For example, ⟨u⟩ represents /ə/ while ⟨oo⟩ represents /u/.
+
+The only diacritic it uses in its standard form is the underscore, which is written under the sibilants (⟨s̲⟩, ⟨z̲⟩, ⟨t̲s̲⟩, and ⟨d̲z̲⟩) to indicate that the consonant is laminal denti-alveolar rather than apical alveolar. An acute accent is sometimes used to mark high tone, but tone is not routinely written in Dakeł. The southern dialect uses a modified version of the alphabet.
+
+Carrier was formerly written in a writing system inspired by the Cree Syllabics known variously as the Carrier syllabics or Déné Syllabics. This writing system was widely used for several decades from its inception in 1885 but began to fade in the 1930s. Today few in the community use or read it.
+A good deal of scholarly material, together with the first edition of the 'Little Catechism' and the third edition of a 'Prayerbook', is written in the writing system used by the missionary priest Adrien-Gabriel Morice in his scholarly work. This writing system was a somewhat idiosyncratic version of the phonetic transcription of the time. It is subphonemic and was never used by Carrier people themselves, though many learned to read the Prayerbook in it. (citation)
+
+Morphology
+Nouns
+Dakelh nouns are inflected for possession, including the person and number of the possessor. Possession is marked by prefixation as well, in some cases, as changes in the noun stem. Number is marked only on nouns denoting human beings and dogs, and these distinguish only singular and plural. Some dialects of Dakelh have no number distinctions in nouns at all.
+A noun has six basic personal possessive forms:
+
+Reading row-wise, these mean "my stick", "our stick", "your (1 person) stick", "your (two or more people) stick", "his/her/its stick", and "their stick".
+However, in some dialects, such as that of Stony Creek, there is a distinction between first person dual and first person plural possessors:
+
+In such dialects, while the 1d and 1p are distinct, the 1d is the same as the 2dp.
+There are five additional third person possessive forms:
+
+The areal form is used when the possessor is saliently areal, spatial, or an extent of time. The reflexive is used when the subject of the clause and the possessor are the same, whether singular or plural. The disjoint form is used when both subject and possessor are third person singular and are not the same. The plural disjoint form is used when the subject is third person plural, the possessor is third person singular, and the possessor is not one of the individuals in the subject group. The reciprocal form, meaning "each other's", was used into the early twentieth century but has since fallen out of use.
+The twelfth possessive form is almost always found on inalienably possessed nouns. These are nouns that may not occur as words in their own right. In Dakelh, the great majority of such nouns are either body parts or kinship terms. For example, although we can abstract the stem /ke/ from forms for "foot" such as /ske/ ('my foot'), /neke/ ('our feet'), and /uke/ ('his foot'), /ke/ by itself is not a word. It must either occur with a possessive prefix or as part of a compound, such as /kekˈetɬˈu/ ('sock'). To refer to an inalienably possessed noun without specifying its owner, the indefinite possessive prefix /ʔ/ is used. The approximate equivalent of "a foot" is therefore /ʔəke/.
+To describe alienable possession of an inalienably possessed noun, the regular possessive forms are used with the indefinite form as a base rather than the bare stem. Thus, to say "my foot" if the foot is not your own foot but is, for example, a rabbit's foot, you would say seʔəke. (The fact that the vowel is e rather than ə is the result of a phonological rule that changes /ə/ to e immediately preceding /ʔ/ in noun prefixes and in the disjunct zone of the verb.)
+Most Dakelh nouns do not have distinct singular and plural forms. How many items are under discussion may be inferred from context or may be specified by using a number or quantifier; otherwise, it remains ambiguous. With very limited exceptions, only nouns denoting human beings and dogs have distinct plural forms.
+The most common way of forming the plural is by adding the suffix /-ne/. Thus, we have /dəne/ "man", /dənene/ "men", /dakelh/ "Dakelh person", /dakelhne/ "Dakelh people".
+Nouns derived from verbs by adding the suffix /-ən/ form their plurals by replacing /-ən/ with /-ne/. Thus we have /hodəɬʔeh-ən/ "teacher", /hodəɬʔeh-ne/ "teachers".
+A smaller but nonetheless considerable number of nouns take the plural suffix /-ke/, e.g. /ɬi/ "dog", /ɬike/ "dogs". This is the usual way of making the plural of kinship terms, e.g. /nelu/ "our mother", /neluke/ "our mothers". The plural suffix /-ne/ is occasionally heard on kinship terms, but the suffix /-ke/ is more widely used and generally considered to be more correct. The plural of "dog" is invariably /ɬike/, never /ɬine/.
+In addition, there are a handful of nouns with irregular plurals:
+
+/ʔat/ "wife" is also found with the more regular plural /ʔatke/.  /tʼet/ is sometimes found with the double plural /tʼedəkune/. /-dəs/ "parent, ancestor" is also found with the undoubled plural /-dəske/.
+The exceptions to the statement that only nouns denoting human beings and dogs have distinct plurals are all nouns derived from verbs. The form of the underlying verb may vary with number in such a way as to create distinct number forms for the derived noun.
+Where the deverbal noun is derived by means of the agentive suffix / -ən/ the verb is almost invariably in the third person singular form, which is to say, not marked for number. Plurality in these forms is normally marked only by the use of the duo-plural agentive suffix /-ne/ in place of singular /-ən/. Zero-derived agentive nouns may show plurality by means of subject markers. For example, "shaman" may be either /dəjən-ən/, with an overt agentive suffix, but the zero-marked /dəjən/ is more common. There are two plural forms: /dəjən-ne/, with the duo-plural agentive suffix, and /hədəjən/, in which the zero-marked form is based on the plural form of the verb.
+There are two other cases in which the underlying verb may lead to a number distinction in the derived nouns. One is when the verb is restricted in the number of its absolutive argument. For example, there are two verbs "to kill", one that takes a singular or dual object, another that takes a strictly plural object. Since the word "prey" is derived from "kill", there are a singular-dual form /beˈdəzəlɡɣe-i/, based on the stem /-ɡhe/ "kill one or two" and a plural form /beˈdəɣan-i/, based on the stem /ɣan/ "kill three or more".
+The other case in which the underlying verb induces a number distinction in the derived noun is when the verb contains a prefix such as distributive /n/. For example, /nati/ "cross-road" has the duo-plural /nanəti/. Similarly, /ˈədzatbeti/ "rabbit trail" has the duo-plural /ˈədzatbenəti/. Such examples arise because the "noun" /ti/ "road, trail" is really a verb and takes the distributive prefix.
+Even if a noun possesses a plural form, it is not necessary for it to take on the plural form in order to have a plural meaning. Indeed, there is a strong tendency to avoid overt marking of the plural if plurality is indicated in other ways, in particular, by an immediately following possessed noun. For example, the full form of "Dakelh language" is /dakeɬne bəɣəni/, literally "the words of the Dakelh people". Here /dakeɬne/ consists of /dakeɬ/ "Dakelh person with the plural suffix /-ne/, and /bəɣəni/ is the third person plural possessed form of /xəni/ "words". The plurality of the possessor is indicated by the use of the third person duo-plural possessive prefix /bə/ instead of the third person singular /u/. The form /dakeɬ bəɣəni/, in which /dakeɬ/ is not overtly plural-marked, is much preferred.
+
+Postpositions
+Most postpositions are inflected for their object in a manner closely resembling the marking of possession on nouns. The inflected forms are used when the object is not a full noun phrase. Here is the paradigm of /ba/ "for":
+
+The postposition /be/ "by means of" is unusual in being uninflectable. At the other extreme, the postposition /ɬ/ "together with" is always inflected, even when its object is an overt noun phrase.
+Whereas the reciprocal possessive form of nouns is obsolete, the reciprocal object of postpositions remains in common use. The form /ɬba/, for example, may be used in roughly the same contexts as the English phrase "for each other".
+
+Verbs
+The Dakelh verb is extremely complex. A single verb may have hundreds of thousands of forms. Verbs are marked for the person and number of the subject, object, and indirect object, tense, mood, numerous aspectual categories, and negation. The subjects of verbs, and in some dialects objects and indirect objects, distinguish singular, dual, and plural numbers. Verbs are also marked for numerous "derivational" categories. For example, a basic motion verb, such as "walk" has derivatives meaning "walk into water", "walk into a hole", "walk ashore", "walk around" and "walk erroneously" (that is, "get lost walking").
+The basic paradigm of a verb consists of three persons in three numbers, with the tenses and modes Imperfective, Perfective, Future, and Optative, in both affirmative and negative forms. Notice how the stem of the verb changes with tense/aspect/mode and negation, e.g. /ke/ in the Imperfective Affirmative but /koh/ in the Imperfective Negative and /ki/ in the Perfective Affirmative. In addition to the stem, the forms below contain the prefix /n/ "around, in a loop".
+
+Dakelh has multiple systems of noun classification, several of which are realized on the verb. One of these, the system of absolutive or gender classifiers, consists of the prefixes /n/, /d/, and /xʷ/, which indicate that the absolutive argument (the subject of an intransitive verb or the object of a transitive verb) is round, stick-like, or areal/spatial, respectively. Some verbs can take any or none of these prefixes. Others can take only a subset or none at all. For example, the verb "to be white" has the forms:
+
+Syntax
+In general terms, Carrier is a head-final language: the verb comes at the end of the clause, adpositions are postpositions rather than prepositions, and complementizers follow their clause. However, it is not consistently head-final: in head-external relative clauses, the relative clause follows the head noun. Carrier has both head-internal and head-external relative clauses. The subject usually precedes the object if one is present.
+Carrier is an 'everything-drop' language. A verb can form a grammatical sentence by itself. It is not in general necessary for the subject or object to be expressed overtly by a noun phrase or pronoun.
+
+Semantics
+Scope phenomena
+Verb-internal negation has low scope, meaning that, with certain exceptions, the scope of negation is restricted to the verb itself. Thus, a sentence like:
+
+ɬeʔzəstʼət "I am not smoking (unspecified object)"
+is acceptable since the object marker (underlyingly just /ʔ/, with epenthetic /ə/ changed to e because it immediately precedes /ʔ/ in the disjunct zone) is part of the verb, but
+
+dekʼa ɬəzəstʼət "I am not smoking tobacco"
+is bizarre because the object /dekʼa/ "tobacco" is a separate noun phrase. The bizarreness results from the fact that the negative morphology of the verb does not have scope over the NP object. In order to bring the object within the scope of negation, it must follow the negative particle /ʔaw:
+
+/ʔaw dekʼa ɬəzəstʼət/ "I am not smoking tobacco"
+
+Classification
+Carrier is generally regarded as one of three members of the central British Columbia subgroup of Athabaskan, the other two being Babine-Witsuwit'en and Tŝilhqot’in. As noted above, the term 'Carrier' has often been applied to both Carrier proper and Babine-Witsuwit'en but this identification is now rejected by specialists. The Ethnologue treats Carrier proper as consisting of two languages, Dakelh (code: crx) and Southern Carrier (code: caf), where the latter consists of the dialects of the Ulkatcho, Kluskus, Nazko, and Red Bluff bands. More recent research disputes the treatment of "Southern Carrier" as a distinct language and in fact classifies this dialect group as one of two parts of a larger 'Southern Carrier' dialect group that contains all of Carrier proper except for the Stuart/Trembleur Lake dialect. Southern Carrier in the sense of the Ethnologue, that is, the Blackwater dialect group, is mutually comprehensible with all other Carrier dialects.
+
+Dialects
+Current research divides Carrier into two major dialect groups, a Stuart-Trembleur Lake group, and a Southern group. The Southern group, in turn, is divided into two subgroups, the Fraser-Nechako group, comprising the communities of Cheslatta, Stellako, Nadleh, Saik'uz, and Lheidli, and the Blackwater group, comprising the communities of Lhk'acho (Ulgatcho), Lhoosk'uz (Kluskus), Nazko, and Lhtakoh (Red Bluff).
+
+Much of the literature distinguishes Central Carrier (Dakeł) from Southern Carrier (Dakeł). Unfortunately, the usage of these terms is quite variable. Almost all material in or about Central Carrier (Dakeł) is in the Stuart Lake dialect. However, Central Carrier cannot be taken to be a synonym for Stuart-Trembleur Lake dialect because some of the more northerly of the Southern dialects, particularly Saik'uz dialect, are sometimes included in Central Carrier.
+Although all speakers of all varieties of Carrier can communicate with each other with little difficulty, these varieties are quite diverse, differing not only in phonological details and lexicon but in morphology and even syntax.
+
+Contact with other languages
+Dakelh is neighbored on the west by Babine-Witsuwit'en and Haisla, to the north by Sekani, to the southeast by Shuswap, to the south by Chilcotin, and to the southwest by Nuxalk. Furthermore, in the past few centuries, with the westward movement of the Plains Cree, there has been contact with the Cree from the East. Dakelh has borrowed from some of these languages, but apparently not in large numbers. Loans from Cree include məsdus ('cow') from Cree (which originally meant "buffalo" but extended to "cow" already in Cree) and sunija ('money, precious metal'). There are also loans from languages that do not directly neighbor Dakelh territory. A particularly interesting example is maj ('berry, fruit'), a loan from Gitksan, which has been borrowed into all Dakelh dialects and has displaced the original Athabascan word.
+
+European contact has brought loans from a number of sources. The majority of demonstrable loans into Dakelh are from French, though it is not generally clear whether they come directly from French or via [Chinook Jargon](4698). Loans from French include liɡok ('chicken') (from French le coq 'rooster'), lisel (from le sel 'salt'), and lizas ('angel'). As these examples show, the French article is normally incorporated into the Dakelh borrowing. A single loan from Spanish is known: mandah ('canvas, tarpaulin'), from manta, apparently acquired from Spanish-speaking packers.
+The trade language [Chinook Jargon](4698) came into use among Dakelh people as a result of European contact. Most Dakelh people never knew [Chinook Jargon](4698). It appears to have been known in most areas primarily by men who had spent time freighting on the Fraser River. Knowledge of [Chinook Jargon](4698) may have been more common in the southwestern part of Dakelh country due to its use at Bella Coola. The southwestern dialects have more loans from [Chinook Jargon](4698) than other dialects. For example, while most dialects use the Cree loan described above for "money", the southwestern dialects use tʃikəmin, which is from [Chinook Jargon](4698). The word daji ('chief') is a loan from [Chinook Jargon](4698).
+European contact brought many new objects and ideas. The names for some were borrowed, but in most cases terms have been created using the morphological resources of the language, or by extending or shifting the meaning of existing terms. Thus, tɬʼuɬ now means not only "rope" but also "wire", while kʼa has shifted from its original meaning of "arrow" to mean "cartridge" and ʔəɬtih has shifted from "bow" to "rifle". hutʼəp, originally "leeches" now also means "pasta".
+A microwave oven is referred to as ʔa benəlwəs ('that by means of which things are warmed quickly'). "Mustard" is tsʼudənetsan ('children's feces'), presumably after the texture and color rather than the flavor.
+
+Status
+Like most of the languages of British Columbia, Dakelh is an endangered language. Only about 10% of Dakelh people now speak the Dakelh language, hardly any of them children. Members of the generation following that of the last speakers can often understand the language but they do not contribute to its transmission.
+The UNESCO status of Carrier/Dakelh is "Severely Endangered", which means the language rates an average of 2/5 on UNESCO's 9 factors of language vitality, with 5 being safe and 0 being extinct. According to Dwyer's article on tools and techniques for endangered language assessment and revitalization, the three most critical factors out of the nine are factors numbered one - intergenerational transmission, three - proportion of speakers within the total population, and four - trends in existing language domains. Carrier scores in the "severely endangered" category for all three of these most important factors, as well as most of the nine.
+
+Revitalization and maintenance efforts
+Carrier is taught as a second language in both public and band schools throughout the territory. This instruction provides an acquaintance with the language but has not proven effective in producing functional knowledge of the language. Carrier has also been taught at the University of Northern British Columbia, the College of New Caledonia, and the University of British Columbia. Several communities have underway mentor apprentice programs and language nests.
+The Yinka Dene Language Institute (YDLI) is charged with the maintenance and promotion of Dakelh language and culture. Its activities include research, archiving, curriculum development, teacher training, literacy instruction, and production of teaching and reference materials.
+Prior to the founding of YDLI in 1988 the Carrier Linguistic Committee, a group based in Fort Saint James affiliated with the Summer Institute of Linguistics, produced a number of publications in Dakelh, literacy materials for several dialects, a 3000-entry dictionary of the Stuart Lake dialect, and various other materials.
+The Carrier Linguistic Committee is largely responsible for literacy among younger speakers of the language. The Carrier Bible Translation Committee produced a translation of the New Testament that was published in 1995. An adaptation to Blackwater dialect appeared in 2002.
+Documentation efforts have been varied and the extent of documentation differs considerably from dialect to dialect. By far the best documented dialect is the Stuart Lake dialect, of which Father Adrien-Gabriel Morice published a massive grammar and dictionary. More recent work includes the publication of some substantial pieces of text by the Carrier Linguistic Committee, the publication of a grammar sketch, and the on-going creation of a large electronic dictionary, with a corresponding print version, that contains earlier material, including Morice's, as well as much new material. For other dialects there are print and/or electronic dictionaries ranging from 1,500 or so entries up to over 9,000.
+
+Cause of endangerment
+The decline in use of Carrier is due to two causes, both aspects of colonization. The first is the heavy influence of English, the dominant language in education, business, government and media.
+The second is the attempt to suppress the language by the Canadian government in residential schools beginning in 1919. Speakers of Carrier may also find speaking their language traumatic after their abuse in the residential school system. Additionally, speakers may have intended to protect their children from experiencing similar abuses and so did not teach or use the language with children.
+
+Place names in Dakelh
+Here are the Dakelh names for some of the major places in Dakelh territory, written in the Carrier Linguistic Committee writing system:
+
+Mount Pope – Nak'al
+Fort St. James – Nakʼaz̠dli
+Stuart Lake – Nakʼalbun
+Stuart River – Nakʼalkoh
+Fraser Lake – Nadlehbun
+Nautley River – Nadlehkoh
+Endako River – Ndakoh
+Stellako River – Stellakoh
+Tachie River – Duzdlikoh
+Nechako River – Nechakoh
+Fraser River – Lhtakoh
+Prince George - Lheidli
+Babine Lake – Nadobun
+Burns Lake – T̠s̠elhkʼazkoh
+Francois Lake – Nedabun
+Cluculz Lake – Lhoohkʼuz
+
+Attestation
+The earliest record of the language consists of a list of 25 words recorded by Alexander MacKenzie on June 22, 1793. This is followed by a few Dakelh words mentioned in the journal of Simon Fraser for the year 1806 and by a list of over 300 words given in an appendix to his journal by Daniel Harmon, published in 1820. The first known text by native speakers of Carrier is the Barkerville Jail Text of 1885.
+
+See also
+Babine-Witsuwit'en
+
+References
+Bibliography
+(A full bibliography is available at: http://www.ydli.org/biblios/lingbib.htm.)
+
+Antoine, Francesca; Bird, Catherine; Isaac, Agnes; Prince, Nellie; Sam, Sally; Walker, Richard, and Wilkinson, David B. (1974) Central Carrier Bilingual Dictionary. Fort Saint James, British Columbia: Carrier Linguistic Committee.
+Cook, Eung-Do (1976) A Phonological Study of Chilcotin and Carrier. Report to the National Museum on Contract No. E10-75-8. Part II: Central Carrier Phonology.
+Morice, Adrien-Gabriel (1932) The Carrier Language. Mödling bei Wien, St. Gabriel, Austria: Verlag der Internationalen Zeitschrift "Anthropos".
+Poser, William J. (1998) Nak'albun/Dzinghubun Whut'enne Bughuni (Stuart/Trembleur Lake Carrier Lexicon). Vanderhoof, BC: Yinka Dene Language Institute. Second edition.
+Poser, William J. (2000) Saik'uz Whut'en Hubughunek (Stoney Creek Carrier Lexicon). Vanderhoof, BC: Saik'uz First Nation. Fourth edition. (March 2000)
+Poser, William J. (2005) "Noun Classification in Carrier". Anthropological Linguistics 47.2.143-168. prepublication version
+Poser, William J. (2009) The Carrier Language: A Brief Introduction. Prince George, British Columbia: College of New Caledonia Press Archived 2013-12-03 at the Wayback Machine. ISBN 978-0-921087-45-8. Downloadable at https://cnc.bc.ca/docs/default-source/library/poser-carrier-language.pdf.
+Story, Gillian L. (1984) Babine and Carrier Phonology: A Historically Oriented Study. Arlington, Texas: Summer Institute of Linguistics.
+Walker, Richard (1979) "Central Carrier Phonemics," in Eric P. Hamp et al. (eds.) Contributions to Canadian Linguistics. Ottawa: National Museums of [Canada](1956). pp. 93–107.
+Yinka Dene Language Institute "Dialects"
+
+External links
+The Yinka Dene Language Institute Website contains extensive information about the Dakelh language and other First Nations languages of British Columbia.
+Carrier Language Resources Curated list of materials and web sites
+The Carrier Sekani Tribal Council represents many of the Dakelh bands. Its web site contains information about the tribe and about current political issues.
+Map of Northwest Coast First Nations Note, however, that the Dakelh-speaking region is marked incorrectly on this map. The area around Babine Lake and Takla Lake, included in the Dakelh region on the map, is actually Babine speaking. A correct map would attach the Babine and Takla Lake areas to what is shown on this map as "Wet'suwet'en" and label the combination "Babine-Witsuwit'en".
+Words from the west (Language Log)
+Dictionary of Lheidli Dialect
+Dictionary of Saik'uz Dialect
+Dictionary of Stuart Lake Dialect
+Dictionary of Ulkatcho Dialect
+Interactive Map of Dakelh Place Names
+FirstVoices: Dakelh / Southern Carrier Community Portal
+FirstVoices: Nadleh Whut'en Community Portal
+FirstVoices: Nakʼazdli Dakelh Community Portal
+Central Carrier basic lexicon at the Global Lexicostatistical Database

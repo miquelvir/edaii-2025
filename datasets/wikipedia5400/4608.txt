@@ -1,0 +1,135 @@
+4608
+20 (number)
+20 (twenty) is the natural number following 19 and preceding 21. 
+A group of twenty units may be referred to as a score.
+
+Mathematics
+Integer properties
+Twenty is a pronic number, as it is the product of consecutive integers, namely 4 and 5. It is also the second pronic sum number (or pronic pyramid) after 2, being the sum of the first three pronic numbers: 2 + 6 + 12. It is the third composite number to be the product of a squared prime and a prime (and also the second member of the 22 × q family in this form). It is a largely composite number, as it has 6 divisors and no smaller number has more than 6 divisors. It has an aliquot sum of 22; a semiprime, within an aliquot sequence of four composite numbers (20, 22, 14, 10, 8) that belong to the prime 7-aliquot tree. It is the smallest primitive abundant number, and the first number to have an abundance of 2, followed by 104. 20 is the length of a side of the fifth smallest right triangle that forms a primitive Pythagorean triple (20, 21, 29). It is the third tetrahedral number. In combinatorics, 20 is the number of distinct combinations of 6 items taken 3 at a time. Equivalently, it is the central binomial coefficient for n=3 (sequence A000984 in the OEIS).
+In decimal, 20 is the smallest non-trivial neon number equal to the sum of its digits when raised to the thirteenth power (2013 = 8192 × 1013).
+
+Almost integers
+Gelfond's constant and pi very nearly have a difference equal to twenty:
+
+  
+    
+      
+        
+          e
+          
+            π
+          
+        
+        −
+        π
+        
+        ≈
+        
+        20
+      
+    
+    {\displaystyle e^{\pi }-\pi \;\approx \;20}
+  
+
+differing only by about 
+  
+    
+      
+        −
+        0.000900020811
+        …
+      
+    
+    {\displaystyle -0.000900020811\ldots }
+  
+ from an integer value.
+
+Geometric properties
+Tessellations
+There are twenty edge-to-edge 2-uniform tilings by convex regular polygons, which are uniform tessellations of the plane containing 2 orbits of vertices. 20 is the number of parallelogram polyominoes with 5 cells.
+Bring's curve is a Riemann surface of genus four, whose fundamental polygon is a regular hyperbolic twenty-sided icosagon, with an area equal to 
+  
+    
+      
+        12
+        π
+      
+    
+    {\displaystyle 12\pi }
+  
+ by the Gauss-Bonnet theorem.
+
+Polyhedra
+The largest number of faces a Platonic solid can have is twenty faces, which make up a regular icosahedron. A dodecahedron, on the other hand, has twenty vertices, likewise the most a regular polyhedron can have. There are a total of 20 regular and semiregular polyhedra, aside from the infinite family of semiregular prisms and antiprisms that exists in the third dimension: the 5 Platonic solids, and 15 Archimedean solids (including chiral forms of the snub cube and snub dodecahedron). There are also four uniform compound polyhedra that contain twenty polyhedra (UC13, UC14, UC19, UC33), which is the most any such solids can have; while another twenty uniform compounds contain five polyhedra (that are not part of classes of infinite families, where there exist three more). The compound of twenty octahedra can be obtained by orienting two pairs of compounds of ten octahedra, which can also coincide to yield a regular compound of five octahedra.
+
+Higher-dimensional polytopes
+In total, there are 20 semiregular polytopes that only exist up through the 8th dimension, which include 13 Archimedean solids and 7 Gosset polytopes (without counting enantiomorphs, or semiregular prisms and antiprisms).
+
+Abstract algebra
+The Happy Family of sporadic groups is made up of twenty finite simple groups that are all subquotients of the friendly giant, the largest of twenty-six sporadic groups. The largest supersingular prime factor that divides the order of the friendly giant is 71, which is the 20th indexed prime number, where 26 also represents the number of partitions of 20 into prime parts. Both 71 and 20 represent self-convolved Fibonacci numbers, respectively the seventh and fifth members 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+ in this sequence 
+  
+    
+      
+        
+          F
+          
+            j
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F_{j}^{2}}
+  
+.
+
+Rubik's cube
+20 is the number of moves (quarter or half turns) required to optimally solve a Rubik's Cube in the worst case.
+
+Other fields
+Science
+20 is the third magic number in physics. In chemistry, it is the atomic number of calcium.
+
+Biology
+The number of proteinogenic amino acids that are encoded by the standard genetic code
+In many disciplines of developmental psychology, adulthood starts at age 20.
+In some countries, the number 20 is used as an index in measuring visual acuity. 20/20 indicates normal vision at 20 feet, although it is commonly used to mean "perfect vision" in countries using the Imperial system. (The metric equivalent is 6/6.) When someone is able to see only after an event how things turned out, that person is often said to have had "20/20 hindsight"
+
+Sports
+A standard dartboard is laid out as 20 sectors.
+In rugby union, 20 national teams currently qualify for each edition of the men's Rugby World Cup. In [Australian rules football](1916), most games consist of four 20-minute quarters.
+[Ice hockey](2258) games are played in three 20-minute periods.
+The current Formula 1 field size is 20.
+The Kentucky Derby currently has a maximum field of 20 horses.
+
+Culture
+Age 20
+Formerly the age of majority in Japan and in Japanese tradition.
+
+Number systems
+20 is the basis for vigesimal number systems, used by several different civilizations in the past (and to this day), including the Maya.
+
+In the arts
+Les XX ("The 20") was a group of twenty Belgian painters, designers and sculptors, formed in 1883.
+
+Board games
+In chess, 20 is the number of legal moves for each player in the starting position.
+
+Indefinite number
+A 'score' is a group of twenty (often used in combination with a cardinal number, e.g. fourscore to mean 80), but also often used as an indefinite number (e.g. the newspaper headline "Scores of Typhoon Survivors Flown to Manila").
+
+References
+External links
+
+ Media related to 20 (number) at Wikimedia Commons

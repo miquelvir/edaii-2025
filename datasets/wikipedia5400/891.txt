@@ -1,0 +1,40 @@
+891
+Code::Blocks
+Code::Blocks is a free, open-source, cross-platform IDE that supports multiple compilers including GCC, [Clang](888) and Visual [C++](640). It is developed in [C++](640) using wxWidgets as the GUI toolkit. Using a plugin architecture, its capabilities and features are defined by the provided plugins.
+Currently, Code::Blocks is oriented towards C, [C++](640), and Fortran. It has a custom build system and optional Make support.
+Code::Blocks is being developed for Windows and Linux and has been ported to FreeBSD, OpenBSD and Solaris. The latest binary provided for macOS version is 13.12 released on 2013/12/26 (compatible with Mac OS X 10.6 and later), but more recent versions can be compiled and MacPorts supplies version 17.12.
+
+History
+After releasing two release candidate versions, 1.0rc1 on July 25, 2005 and 1.0rc2 on October 25, 2005, instead of making a final release, the project developers started adding many new features, with the final release being repeatedly postponed. Instead, there were nightly builds of the latest SVN version made available on a daily basis.
+The first stable release was on February 28, 2008, with the version number changed to 8.02. The versioning scheme was changed to that of Ubuntu, with the major and minor number representing the year and month of the release. Version 20.03 is the latest stable release; however for the most up-to-date version the user can download the relatively stable nightly build or download the source code from SVN.
+Jennic Limited distributes a version of Code::Blocks customized to work with its microcontrollers.
+
+Features
+Compilers
+Code::Blocks supports multiple compilers, including GCC, MinGW, Mingw-w64, Digital Mars, Microsoft Visual [C++](640), Borland [C++](640), LLVM [Clang](888), Watcom, LCC and the Intel [C++](640) compiler. Although the IDE was designed for the [C++](640) language, there is some support for other languages, including Fortran and D. A plug-in system is included to support other programming languages.
+
+Code editor
+The IDE features syntax highlighting and code folding (through its Scintilla editor component), [C++](640) code completion, class browser, a hex editor and many other utilities. Opened files are organized into tabs. The code editor supports font and font size selection and personalized syntax highlighting colours.
+
+Debugger
+The Code::Blocks debugger has full breakpoint support. It also allows the user to debug their program by having access to the local function symbol and argument display, user-defined watches, call stack, disassembly, custom memory dump, thread switching, CPU registers and GNU Debugger Interface.
+
+GUI designer
+As of version 13.12 Code::Blocks comes with a GUI designer called wxSmith. It is a derivative port of wxWidgets version 2.9.4. To make a complete wxWidgets application, the appropriate wxWidgets SDK must be installed.
+
+User migration
+Some of Code::Blocks features are targeted at users migrating from other IDE's - these include Dev-[C++](640), Microsoft Visual [C++](640) project import (MSVC 7 & 10), and Dev-[C++](640) Devpak support.
+
+Project files and build system
+Code::Blocks uses a custom build system, which stores its information in XML-based project files. It can optionally use external makefiles, which simplifies interfacing with projects using the GNU or qmake build systems.
+
+See also
+Comparison of integrated development environments
+Geany
+SciTE
+[CodeLite](892)
+
+References
+External links
+
+Official website

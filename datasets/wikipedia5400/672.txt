@@ -1,0 +1,56 @@
+672
+Computational mathematics
+Computational mathematics is the study of the interaction between mathematics and calculations done by a computer. 
+A large part of computational mathematics consists roughly of using mathematics for allowing and improving computer computation in areas of science and engineering where mathematics are useful. This involves in particular algorithm design, computational complexity, numerical methods and computer algebra.
+Computational mathematics refers also to the use of computers for mathematics itself. This includes mathematical experimentation for establishing conjectures (particularly in number theory), the use of computers for proving theorems (for example the four color theorem), and the design and use of proof assistants.
+
+Areas of computational mathematics
+Computational mathematics emerged as a distinct part of applied mathematics by the early 1950s. Currently, computational mathematics can refer to or include:
+
+Computational sciences, also known as scientific computation or computational engineering
+Systems sciences, for which directly requires the mathematical models from Systems engineering
+Solving mathematical problems by computer simulation as opposed to traditional engineering methods.
+Numerical methods used in scientific computation, for example numerical linear algebra and numerical solution of partial differential equations
+Stochastic methods, such as Monte Carlo methods and other representations of uncertainty in scientific computation
+The mathematics of scientific computation, in particular numerical analysis, the theory of numerical methods
+[Computational complexity](668)
+[Computer](675) algebra and computer algebra systems
+[Computer](675)-assisted research in various areas of mathematics, such as logic (automated theorem proving), discrete mathematics, combinatorics, number theory, and computational algebraic topology
+Cryptography and computer security, which involve, in particular, research on primality testing, factorization, elliptic curves, and mathematics of blockchain
+Computational linguistics, the use of mathematical and computer techniques in natural languages
+Computational algebraic geometry
+Computational group theory
+[Computational geometry](671)
+Computational number theory
+Computational topology
+Computational statistics
+[Algorithm](612)ic information theory
+[Algorithm](612)ic game theory
+Mathematical economics, the use of mathematics in economics, finance and, to certain extents, of accounting.
+Experimental mathematics
+
+Journals
+Journals that publish contributions from computational mathematics include
+
+ACM Transactions on Mathematical Software
+Mathematics of Computation
+SIAM Journal on Scientific Computing
+SIAM Journal on Numerical Analysis
+
+See also
+Mathematics portal
+
+References
+Further reading
+Cucker, F. (2003). Foundations of Computational Mathematics: Special Volume. Handbook of Numerical Analysis. North-Holland Publishing. ISBN 978-0-444-51247-5.
+Harris, J. W.; Stocker, H. (1998). Handbook of Mathematics and Computational Science. Springer-Verlag. ISBN 978-0-387-94746-4.
+Hartmann, A.K. (2009). Practical Guide to [Computer](675) Simulations. World Scientific. ISBN 978-981-283-415-7. Archived from the original on February 11, 2009. Retrieved May 3, 2012.
+Nonweiler, T. R. (1986). Computational Mathematics: An Introduction to Numerical Approximation. John Wiley and Sons. ISBN 978-0-470-20260-9.
+Gentle, J. E. (2007). Foundations of Computational Science. Springer-Verlag. ISBN 978-0-387-00450-1.
+White, R. E. (2003). Computational Mathematics: Models, Methods, and Analysis with MATLAB. Chapman and Hall. ISBN 978-1584883647.
+Yang, X. S. (2008). Introduction to Computational Mathematics. World Scientific. ISBN 978-9812818171.
+Strang, G. (2007). Computational Science and Engineering. Wiley. ISBN 978-0961408817.
+
+External links
+Foundations of Computational Mathematics, a non-profit organization
+International Journal of [Computer](675) Discovered Mathematics

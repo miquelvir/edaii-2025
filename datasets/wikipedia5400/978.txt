@@ -1,0 +1,84 @@
+978
+Distributed shared memory
+In computer science, distributed shared memory (DSM) is a form of memory architecture where physically separated memories can be addressed as a single shared address space. The term "shared" does not mean that there is a single centralized memory, but that the address space is shared—i.e., the same physical address on two processors refers to the same location in memory.: 201  Distributed global address space (DGAS), is a similar term for a wide class of software and hardware implementations, in which each node of a cluster has access to shared memory in addition to each node's private (i.e., not shared) memory.
+
+Overview
+A distributed-memory system, often called a multicomputer, consists of multiple independent processing nodes with local memory modules which is connected by a general interconnection network. Software DSM systems can be implemented in an operating system, or as a programming library and can be thought of as extensions of the underlying virtual memory architecture. When implemented in the operating system, such systems are transparent to the developer; which means that the underlying distributed memory is completely hidden from the users. In contrast, software DSM systems implemented at the library or language level are not transparent and developers usually have to program them differently. However, these systems offer a more portable approach to DSM system implementations. A DSM system implements the shared-memory model on a physically distributed memory system.
+DSM can be achieved via software as well as hardware. Hardware examples include cache coherence circuits and network interface controllers. There are three ways of implementing DSM:
+
+Page-based approach using virtual memory
+Shared-variable approach using routines to access shared variables
+Object-based approach, ideally accessing shared data through object-oriented discipline
+
+Advantages
+Scales well with a large number of nodes
+Message passing is hidden
+Can handle complex and large databases without replication or sending the data to processes
+Generally cheaper than using a multiprocessor system
+Provides large virtual memory space
+Programs are more portable due to common programming interfaces
+Shield programmers from sending or receiving primitives
+
+Disadvantages
+Generally slower to access than non-distributed shared memory
+Must provide additional protection against simultaneous accesses to shared data
+May incur a performance penalty
+Little programmer control over actual messages being generated
+Programmers need to understand consistency models to write correct programs
+
+Comparison with message passing
+Software DSM systems also have the flexibility to organize the shared memory region in different ways. The page based approach organizes shared memory into pages of fixed size. In contrast, the object based approach organizes the shared memory region as an abstract space for storing shareable objects of variable sizes. Another commonly seen implementation uses a tuple space, in which the unit of sharing is a tuple.
+Shared memory architecture may involve separating memory into shared parts distributed amongst nodes and main memory; or distributing all memory between nodes. A coherence protocol, chosen in accordance with a consistency model, maintains memory coherence.
+
+Directory memory coherence
+Memory coherence is necessary such that the system which organizes the DSM is able to track and maintain the state of data blocks in nodes across the memories comprising the system. A directory is one such mechanism which maintains the state of cache blocks moving around the system.
+
+States
+A basic DSM will track at least three states among nodes for any given block in the directory. There will be some state to dictate the block as uncached (U), a state to dictate a block as exclusively owned or modified owned (EM), and a state to dictate a block as shared (S). As blocks come into the directory organization, they will transition from U to EM (ownership state) in the initial node. The state can transition to S when other nodes begin reading the block.
+There are two primary methods for allowing the system to track where blocks are cached and in what condition across each node. Home-centric request-response uses the home to service requests and drive states, whereas requester-centric allows each node to drive and manage its own requests through the home.
+
+Home-centric request and response
+In a home-centric system, the DSM will avoid having to handle request-response races between nodes by allowing only one transaction to occur at a time until the home node has decided that the transaction is finished—usually when the home has received every responding processor's response to the request.  An example of this is Intel's QPI home-source mode. The advantages of this approach are that it's simple to implement but its request-response strategy is slow and buffered due to the home node's limitations.
+
+Requester-centric request and response
+In a requester-centric system, the DSM will allow nodes to talk at will to each other through the home. This means that multiple nodes can attempt to start a transaction, but this requires additional considerations to ensure coherence. For example: when one node is processing a block, if it receives a request for that block from another node it will send a NAck (Negative Acknowledgement) to tell the initiator that the processing node can't fulfill that request right away. An example of this is Intel's QPI snoop-source mode. This approach is fast but it does not naturally prevent race conditions and generates more bus traffic.
+
+Consistency models
+The DSM must follow certain rules to maintain consistency over how read and write order is viewed among nodes, called the system's consistency model.
+Suppose we have n processes and Mi memory operations for each process i, and that all the operations are executed sequentially. We can conclude that (M1 + M2 + … + Mn)!/(M1! M2!… Mn!) are possible interleavings of the operations. The issue with this conclusion is determining the correctness of the interleaved operations. Memory coherence for DSM defines which interleavings are permitted.
+
+Replication
+There are two types of replication Algorithms. Read replication and Write replication. 
+In Read replication multiple nodes can read at the same time but only one node can write. 
+In Write replication multiple nodes can read and write at the same time. The write requests 
+are handled by a sequencer. 
+Replication of shared data in general tends to:
+
+Reduce network traffic
+Promote increased parallelism
+Result in fewer page faults
+However, preserving coherence and consistency may become more challenging.
+
+Release and entry consistency
+Release consistency: when a process exits a critical section, new values of the variables are propagated to all sites.
+Entry consistency: when a process enters a critical section, it will automatically update the values of the shared variables.
+View-based Consistency: it is a variant of Entry Consistency, except the shared variables of a critical section are automatically detected by the system. An implementation of view-based consistency is VODCA Archived 2016-02-15 at the Wayback Machine which has comparable performance to MPI on cluster computers.
+
+Examples
+Kerrighed
+Open SSI
+MOSIX
+TreadMarks
+VODCA Archived 2016-02-15 at the Wayback Machine
+DIPC
+
+See also
+[Distributed cache](970) – Type of computer cache
+Memory virtualization – [Computer science](688) term
+Single-system image – Cluster dedicated operating systemPages displaying short descriptions of redirect targets
+Remote direct memory access – Low-level hardware direct memory access
+
+References
+External links
+Distributed Shared Cache
+Memory coherence in shared virtual memory systems  by Kai Li, Paul Hudak published in ACM Transactions on Computer Systems, Volume 7 Issue 4, Nov. 1989

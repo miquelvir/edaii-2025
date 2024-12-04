@@ -1,0 +1,86 @@
+681
+Computer engineering
+Computer engineering (CoE or CpE) is a branch of electrical engineering that integrates several fields of electrical engineering, electronics engineering and computer science required to develop computer hardware and software. Computer engineering is referred to as Electrical and Computer engineering OR Computer Science and Engineering at some universities
+Computer engineers require training in electrical engineering, electronic engineering, physics, computer science, hardware-software integration, software design, and software engineering. It uses the techniques and principles of electrical engineering and computer science, and can encompass areas such as electromagnetism, artificial intelligence (AI), robotics, computer networks, computer architecture and operating systems. Computer engineers are involved in many hardware and software aspects of computing, from the design of individual microcontrollers, microprocessors, personal computers, and supercomputers, to circuit design. This field of engineering not only focuses on how computer systems themselves work, but also on how to integrate them into the larger picture. Robotics are one of the applications of computer engineering.
+Computer engineering usually deals with areas including writing software and firmware for embedded microcontrollers, designing VLSI chips, analog sensors, mixed signal circuit boards, Thermodynamics and operating systems. Computer engineers are also suited for robotics research, which relies heavily on using digital systems to control and monitor electrical systems like motors, communications, and sensors.
+In many institutions of higher learning, computer engineering students are allowed to choose areas of in-depth study in their junior and senior years because the full breadth of knowledge used in the design and application of computers is beyond the scope of an undergraduate degree. Other institutions may require engineering students to complete one or two years of general engineering before declaring computer engineering as their primary focus.
+
+History
+Computer engineering began in 1939 when John Vincent Atanasoff and Clifford Berry began developing the world's first electronic digital computer through physics, mathematics, and electrical engineering. John Vincent Atanasoff was once a physics and mathematics teacher for Iowa State University and Clifford Berry a former graduate under electrical engineering and physics. Together, they created the Atanasoff-Berry computer, also known as the ABC which took five years to complete.
+While the original ABC was dismantled and discarded in the 1940s, a tribute was made to the late inventors; a replica of the ABC was made in 1997, where it took a team of researchers and engineers four years and $350,000 to build.
+The modern personal computer emerged in the 1970s, after several breakthroughs in semiconductor technology. These include the first working transistor by William Shockley, John Bardeen and Walter Brattain at Bell Labs in 1947, in 1955, silicon dioxide surface passivation by Carl Frosch and Lincoln Derick, the first planar silicon dioxide transistors by Frosch and Derick in 1957, planar process by Jean Hoerni, the monolithic integrated circuit chip by Robert Noyce at Fairchild Semiconductor in 1959, the metal–oxide–semiconductor field-effect transistor (MOSFET, or MOS transistor) demonstrated by a team at Bell Labs in 1960 and the single-chip microprocessor (Intel 4004) by Federico Faggin, Marcian Hoff, Masatoshi Shima and Stanley Mazor at Intel in 1971.
+
+History of computer engineering education
+The first computer engineering degree program in the United States was established in 1971 at Case Western Reserve University in Cleveland, Ohio. As of 2015, there were 250 ABET-accredited computer engineering programs in the U.S. In Europe, accreditation of computer engineering schools is done by a variety of agencies as part of the EQANIE network. Due to increasing job requirements for engineers who can concurrently design hardware, software, firmware, and manage all forms of computer systems used in industry, some tertiary institutions around the world offer a bachelor's degree generally called computer engineering. Both computer engineering and electronic engineering programs include analog and digital circuit design in their curriculum. As with most engineering disciplines, having a sound knowledge of mathematics and science is necessary for computer engineers.
+
+Education
+Computer engineering is referred to as computer science and engineering at some universities. Most entry-level computer engineering jobs require at least a bachelor's degree in computer engineering, electrical engineering or computer science. Typically one must learn an array of mathematics such as calculus, linear algebra and differential equations, along with computer science. Degrees in electronic or electric engineering also suffice due to the similarity of the two fields. Because hardware engineers commonly work with computer software systems, a strong background in computer programming is necessary. According to BLS, "a computer engineering major is similar to electrical engineering but with some computer science courses added to the curriculum". Some large firms or specialized jobs require a master's degree.
+It is also important for computer engineers to keep up with rapid advances in technology. Therefore, many continue learning throughout their careers. This can be helpful, especially when it comes to learning new skills or improving existing ones. For example, as the relative cost of fixing a bug increases the further along it is in the software development cycle, there can be greater cost savings attributed to developing and testing for quality code as soon as possible in the process, particularly before release.
+
+Professions
+A person with a profession in computer engineering is called a computer engineer.
+
+Applications and practice
+There are two major focuses in computer engineering: hardware and software.
+
+[Computer hardware](683) engineering
+According to the BLS, Job Outlook employment for computer hardware engineers, the expected ten-year growth from 2019 to 2029 for computer hardware engineering was an estimated 2% and a total of 71,100 jobs. ("Slower than average" in their own words when compared to other occupations)". This is a decrease from the 2014 to 2024 BLS computer hardware engineering estimate of 3% and  a total of 77,700 jobs; "and is down from 7% for the 2012 to 2022 BLS estimate and is further down from 9% in the BLS 2010 to 2020 estimate." Today, computer hardware is somewhat equal to electronic and computer engineering (ECE) and has been divided into many subcategories, the most significant being embedded system design.
+
+Computer software engineering
+According to the U.S. Bureau of Labor Statistics (BLS), "computer applications software engineers and computer systems software engineers are projected to be among the faster than average growing occupations" The expected ten-year growth as of 2014 for computer software engineering was an estimated seventeen percent and there was a total of 1,114,000 jobs that same year. This is down from the 2012 to 2022 BLS estimate of 22% for software developers. And, further down from the 30% 2010 to 2020 BLS estimate. In addition, growing concerns over cybersecurity add up to put computer software engineering high above the average rate of increase for all fields. However, some of the work will be outsourced in foreign countries. Due to this, job growth will not be as fast as during the last decade, as jobs that would have gone to computer software engineers in the United States would instead go to computer software engineers in countries such as India. In addition, the BLS Job Outlook for Computer Programmers, 2014–24 has an −8% (a decline, in their words), then a Job Outlook, 2019-29 of -9% (Decline), then a 10% decline for 2021-2031 and now an 11% decline for 2022-2032 for those who program computers (i.e. embedded systems) who are not computer application developers. Furthermore, women in software fields has been declining over the years even faster than other engineering fields.
+
+Computer engineering licensing and practice
+Computer engineering is generally practiced within larger product development firms, and such practice may not be subject to licensing. However, independent consultants who advertise computer engineering, just like any form of engineering, may be subject to state laws which restrict professional engineer practice to only those who have received the appropriate License. The National Council of Examiners for Engineering and Surveying (NCEES) first offered a Principles and Practice of Engineering Examination for computer engineering in 2003.
+
+Specialty areas
+There are many specialty areas in the field of computer engineering.
+
+Processor design
+Processor design process involves choosing an instruction set and a certain execution paradigm (e.g. VLIW or RISC) and results in a microarchitecture, which might be described in e.g. VHDL or Verilog. CPU design is divided into design of the following components: datapaths (such as ALUs and pipelines), control unit: logic which controls the datapaths, memory components such as register files, caches, clock circuitry such as clock drivers, PLLs, clock distribution networks, pad transceiver circuitry, logic gate cell library which is used to implement the logic.
+
+Coding, cryptography, and information protection
+Computer engineers work in coding, applied cryptography, and information protection to develop new methods for protecting various information, such as digital images and music, fragmentation, copyright infringement and other forms of tampering by, for example, digital watermarking.
+
+Communications and wireless networks
+Those focusing on communications and wireless networks, work advancements in telecommunications systems and networks (especially wireless networks), modulation and error-control coding, and information theory. High-speed network design, interference suppression and modulation, design, and analysis of fault-tolerant system, and storage and transmission schemes are all a part of this specialty.
+
+[Compiler](662)s and operating systems
+This specialty focuses on compilers and operating systems design and development. Engineers in this field develop new operating system architecture, program analysis techniques, and new techniques to assure quality. Examples of work in this field include post-link-time code transformation algorithm development and new operating system development.
+
+Computational science and engineering
+Computational science and engineering is a relatively new discipline. According to the Sloan Career Cornerstone Center, individuals working in this area, "computational methods are applied to formulate and solve complex mathematical problems in engineering and the physical and the social sciences. Examples include aircraft design, the plasma processing of nanometer features on semiconductor wafers, VLSI circuit design, radar detection systems, ion transport through biological channels, and much more".
+
+[Computer network](685)s, mobile computing, and distributed systems
+In this specialty, engineers build integrated environments for computing, communications, and information access. Examples include shared-channel wireless networks, adaptive resource management in various systems, and improving the quality of service in mobile and ATM environments. Some other examples include work on wireless network systems and fast Ethernet cluster wired systems.
+
+Computer systems: architecture, parallel processing, and dependability
+Engineers working in computer systems work on research projects that allow for reliable, secure, and high-performance computer systems. Projects such as designing processors for multithreading and parallel processing are included in this field. Other examples of work in this field include the development of new theories, algorithms, and other tools that add performance to computer systems.
+[Computer architecture](678) includes CPU design, cache hierarchy layout, memory organization, and load balancing.
+
+[Computer vision](691) and robotics
+In this specialty, computer engineers focus on developing visual sensing technology to sense an environment, representation of an environment, and manipulation of the environment. The gathered three-dimensional information is then implemented to perform a variety of tasks. These include improved human modeling, image communication, and human-computer interfaces, as well as devices such as special-purpose cameras with versatile vision sensors.
+
+Embedded systems
+Individuals working in this area design technology for enhancing the speed, reliability, and performance of systems. Embedded systems are found in many devices from a small FM radio to the space shuttle. According to the Sloan Cornerstone Career Center, ongoing developments in embedded systems include "automated vehicles and equipment to conduct search and rescue, automated transportation systems, and human-robot coordination to repair equipment in space." As of 2018, computer embedded systems specializations include system-on-chip design, the architecture of edge computing and the Internet of things.
+
+Integrated circuits, VLSI design, testing and CAD
+This specialty of computer engineering requires adequate knowledge of electronics and electrical systems. Engineers working in this area work on enhancing the speed, reliability, and energy efficiency of next-generation very-large-scale integrated (VLSI) circuits and microsystems. An example of this specialty is work done on reducing the power consumption of VLSI algorithms and architecture.
+
+Signal, image and speech processing
+Computer engineers in this area develop improvements in human–computer interaction, including speech recognition and synthesis, medical and scientific imaging, or communications systems. Other work in this area includes computer vision development such as recognition of human facial features.
+
+Quantum computing
+This area integrates the quantum behaviour of small particles such as superposition, interference and entanglement, with classical computers to solve complex problems and formulate algorithms much more efficiently. Individuals focus on fields like Quantum cryptography, physical simulations and quantum algorithms.
+
+Benefits of Engineering in Society
+An accessible avenue for obtaining information and opportunities in technology, especially for young students, is through digital platforms, enabling learning, exploration, and potential income generation at minimal cost and in regional languages, none of which would be possible without engineers. Computer engineering is important in the changes involved in industry 4.0, with engineers responsible for designing and optimizing the technology that surrounds our lives, from big data to AI. Their work not only facilitates global connections and knowledge access, but also plays a pivotal role in shaping our future, as technology continues to evolve rapidly, leading to a growing demand for skilled computer engineers. Engineering contributes to improving society by creating devices and structures impacting various aspects of our lives, from technology to infrastructure. Engineers also address challenges such as environmental protection and sustainable development, while developing medical treatments. As of 2016, the median annual wage across all BLS engineering categories was over $91,000. Some were much higher, with engineers working for petroleum companies at the top (over $128,000). Other top jobs include: Computer Hardware Engineer – $115,080, Aerospace Engineer – $109,650, Nuclear Engineer – $102,220.
+
+See also
+Related fields
+Associations
+IEEE Computer Society
+Association for [Computing](693) Machinery
+
+References
+External links
+ Media related to Computer engineering at Wikimedia Commons

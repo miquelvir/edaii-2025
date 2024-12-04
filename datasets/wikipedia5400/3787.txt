@@ -1,0 +1,93 @@
+3787
+Ancient Greek law
+[Ancient Greek](3061) laws consist of the laws and legal institutions of ancient Greece.
+The existence of certain general principles of law in ancient Greece is implied by the custom of settling a difference between two Greek states, or between members of a single state, by resorting to external arbitration. The general unity of ancient Greek law shows mainly in the laws of inheritance and adoption, in laws of commerce and contract, and in the publicity uniformly given to legal agreements.
+While some of its older forms can be studied in the Gortyn code, its influence can be traced in legal documents preserved in Egyptian papyri and it may be recognized at a later period as a consistent whole in its ultimate relations to Roman law in the eastern provinces of the Roman empire, with scholars in the discipline of comparative law comparing Greek law with both Roman law and the primitive institutions of the Germanic nations.
+
+Diversity of Greek law
+[Ancient Greece](555) lacked a codified law code used across the country. [Ancient Greece](555) was not a state but existed as a collection of city-states known as poleis (πόλεις), all with different laws. However, numerous ideals within the various laws of the city-states were rooted in the same context, notably, cultural unity.  [Ancient Greek](3061) culture advanced their own religion and language, along with various customs that were rooted in religion and tradition. From Greek culture, common bases in law emerged : δίκη ("law, justice"), κύριος ("lord, master"), βλάβη ("injury"), among other concepts. With the general discontinuity in law between the various city-states, Athens is typically the model provided for Greek law.
+
+Historical sources
+There is no systematic collection of ancient Greek laws; the earliest notions of the subject can be found in Homeric poems. Later, the works of Theophrastus, On the Laws, are said to have included a recapitulation of the laws of various barbaric as well as of the ancient Grecian states, yet only a few fragments of it remain.
+The earliest ancient Greek Laws known date back to the code of laws by Draco and Solon of Athens which both had an immense impact on the Greek Law of their time.
+
+Athens
+Incidental illustrations of the Athenian law are found in the Laws of Plato, who describes it without exercising an influence on its actual practice. [Aristotle](162) criticized Plato's Laws in his Politics, in which he reviews the work of certain early Greek lawgivers. The treatise on the Constitution of Athens includes an account of the jurisdiction of the various public officials and the mechanics of the law courts, and thus enables historians to dispense with the second-hand testimony of grammarians and scholiasts who derived their information from that treatise.
+Other evidence for ancient Athenian law comes from statements made in the extant speeches of the Attic orators, and from surviving inscriptions.
+
+Procedural laws
+Athens
+Historians consider the Ancient Athenian law broadly procedural and concerned with the administration of justice rather than substantive. Athenian laws are typically written in the form where if an offense is made, then the offender will be punished according to said law, thus they are more concerned with the legal actions which should be undertaken by the prosecutor, rather than strictly defining which acts are prosecutable. Often, this would have resulted in juries having to decide whether the offense said to have been committed was in fact a violation of the law in question.
+
+Development of ancient Greek laws
+The earliest Greek law to survive is the Dreros inscription, a seventh century BC law concerning the role of kosmos.  This and other early laws (such as those which survive in only fragmentary form from Tiryns) are primarily concerned not with regulating people's behavior, but in regulating the power of officials within the community.  These laws were probably set up by the elites in order to control the distribution of power among themselves.
+
+Athens
+One of the earliest dateable legal events in Athenian history is the creation of the Draconian law code by Draco, c.620 BC. However, the homicide law is the only one known due to it surviving the Solonian reforms. The law seems to have distinguished between premeditated and involuntary homicide, and provided for the reconciliation of the killer with the family of the dead man.  The homicide law of Draco was still in force in the fourth century. Though the rest of the code is unknown, it was by Athenian tradition known to have been very harsh.
+The Athenian law codes set forth by Draco were completely reformed by Solon, who was the archon of Athens c.593 BC. Solon's reforms included reforms to land ownership and the cancellation of debts and the abolition of slavery for those who were born Athenian. Yet, attributing specific legal innovations and reforms to Solon and his successors is notoriously difficult because there was a tendency in ancient Athens to ascribe laws to Solon irrespective of the date of enactment.
+
+Sparta
+Though Athens is commonly cited in discussions about Greek law, Sparta also developed a lasting legal code, attributed early on to Lycurgus. Though there is controversy about the existence of Lycurgus, the first written record of Lycurgus as the Spartan lawgiver is attributed to Herodotus in the 5th century BCE. Lycurgus' biographer was Plutarch, who wrote the Life of Lycurgus in the 1st century CE. Plutarch's work mentions that Lycurgus likely introduced the Spartans to the works of Homer, along with establishing law practices following his ventures to Crete, Asia, and Egypt. Notably, Lycurgus established two bodies in Spartan law: the gerousia and the apella. The gerousia was known as the council of elders and included the two kings, likely preparing documents concerning business ventures for the apella. The gerousia also held significant power over the judicial system in Sparta, especially in the case of the death penalty. The apella on the other hand closely mirrored the ekklesia existing in other Greek polis. The apella was the citizen-body consisting of men over the age of 30, and they voted on the proposals submitted by the gerousia. They also had the power to elect those who served on the gerousia, discussed matters of foreign policy, and helped determine succession and military powers.
+
+Other ancient Greek cities
+In other city-states, there were also notable lawgivers. In Thebes, Philolaus of Corinth published the first law code of this city. In another notable city-state, Corinth, Pheidon composed the first set of the city laws. Though the author of the law code of Megara remains unknown, it is likely a law code existed promoting Athenian-like democracy within the city-state.
+
+Courts and judicial system
+Along with the official enforcement of the law in the courts in the Grecian states, justice and social cohesion were collectively enforced by society at large, with informal collective justice often being targeted at elite offenders.
+
+Courts in Athens
+[Ancient Greek](3061) courts were cheap and run by laypeople. Court officials were paid little, if anything, and most trials were completed within a day, with private cases done even quicker. There were no court officials, no lawyers, and no official judges. A normal case consisted of two litigants, arguing if an unlawful act had been committed. The jury would decide whether the accused was guilty, and should he be guilty, what the punishment will be. In Athenian courts, the jury tended to be made of the common people, whereas litigants were mostly from the elites of society.
+In the Athenian legal system, the courts have been seen as a system for settling disputes and resolving arguments, rather than enforcing a coherent system of rules, rights and obligations.  The Prytaneion court was responsible for trying unknown people, animals, and inanimate objects for homicide, and it is assumed that it was in order to ensure that Athens was free of blood-guilt for the crime.
+The Athenian court system was dominated by men. The jury was all-male, and it has been argued that the Athenian court seemed to have been remarkably unwilling to allow any female presence in the civic space of the lawcourt itself.
+
+Public and private cases in Athens
+In [Ancient Athens](3777), there were two types of lawsuit.  Public prosecutions, or graphai, were heard by juries of 501 or more, increasing in increments of 500 jurors, while private suits, or dikai, were heard by 201 or 401 jurors, depending on the amount of money at stake.  Juries were made up of men selected from a panel of 6,000 volunteers, who were selected annually and were required to be full citizens, aged over 30. Juries were paid a small fee from the time of Pericles, which may have led to disproportionate numbers of poor and elderly citizens working on juries.
+
+Ostracism in Athens
+Ostracism was an Athenian practice done in an attempt to preserve democracy. This practice began shortly after the first invasion of Greece during the Greco-Persian Wars around 490 BC. The idea of ostracisms was spurred after the earlier tyrant of Athens, Hippias, accompanied the Persians to the Battle of Marathon with hopes of regaining control of Athens. The goal of this procedure was to prevent anyone with too much influence becoming a tyrant in Athens, such as Hippias. Annually, a vote would take place to decide if Athens was in danger of possible tyranny. If there was a majority of those who said yes, another vote would occur two months later to decide which person was to be ostracized. If a man received over 6,000 ostracons with their name scratched on them, they were to be placed into exile for a minimum of ten years.
+
+Immigration in Sparta
+Xenelasia was the practice in Sparta of expelling foreigners and discouraging citizens from traveling outside. Sparta, a military-based society, practiced strict isolationism from other Greek polis. Though attributed primarily to Sparta, the practice of xenelasia existed in other polis as well. During the Peloponnesian War, Pericles, an influential Athenian statesman, mirrored the practice of xenelasia practiced by the Spartans.
+
+Oratory
+Athens
+The Athenians chose a different way when it came to the court system. They used different proposals in each type of decision made through various cases. 
+In the Athenian legal system, there were no professional lawyers, though well-known speechwriters such as Demosthenes composed speeches which were delivered by, or on behalf of others. These speechwriters have been described as being as close as a function of a modern lawyer as the Athenian legal system would permit.
+It has been argued that the rhetorical and performative features evident in surviving Classical Athenian law court speeches are evidence that Athenian trials were essentially rhetorical struggles which were generally unconcerned with the strict applicability of the law. It is also said that orators constructing stories played a much more significant role in Athenian court cases than those of the modern day, due to the lack of modern forensic and investigatory techniques which might provide other sources of evidence in the Athenian courtroom.
+
+See also
+Byzantine law
+Roman law
+Celtic law
+
+References
+This article incorporates text from a publication now in the public domain: Sandys, John Edwin (1911). "Greek Law". In Chisholm, Hugh (ed.). Encyclopædia Britannica. Vol. 12 (11th ed.). Cambridge University Press. pp. 501–507. This describes the topic in more procedural detail, and has a large set of citations.
+
+Bibliography
+Andrewes, A. "The Growth of the Athenian State". In Boardman, John; Hammond, N.G.L (eds.). The Cambridge Ancient History Volume III, Part 3: The Expansion of the Greek World, Eighth to Sixth Centuries B.C. ISBN 0-521-23447-6.
+Britannica, T. Editors of Encyclopaedia (1998, July 20). apella. Encyclopedia Britannica. https://www.britannica.com/topic/apella
+Britannica, T. Editors of Encyclopaedia (2016, March 7). gerousia. Encyclopedia Britannica. https://www.britannica.com/topic/gerousia
+Britannica, T. Editors of Encyclopaedia (2021, May 13). Lycurgus. Encyclopedia Britannica. https://www.britannica.com/topic/Lycurgus-Spartan-lawgiver
+Carey, Christopher (1998). "The Shape of Athenian Laws". The Classical Quarterly. 48 (1): 93–109. doi:10.1093/cq/48.1.93.
+Figueira, T. J. (2003). Xenelasia and Social Control in Classical Sparta. The Classical Quarterly, 53(1), 44–74. JSTOR 3556481
+Forsdyke, Sara (2008). "Street Theatre and Popular Justice in [Ancient Greece](555): Shaming, Stoning, and Starving Offenders Inside and Outside the Courts". Past and Present. 201: 3–50. doi:10.1093/pastj/gtn014.
+Gagarin, Michael (2003). "Telling Stories in Athenian Law". Transactions of the American Philological Association. 133 (2): 197–207. doi:10.1353/apa.2003.0015. S2CID 159972377.
+Hamel, Debra (2003). Trying Neaira: The True Story of a Courtesan's Scandalous Life in [Ancient Greece](555). New Haven & London: Yale University Press.
+Osborne, Robin (2009). Greece in the Making: 1200-479 BC (2 ed.). London: Routledge.
+Smith, G. (1922). Early Greek Codes. Classical Philology, 17(3), 187–201. JSTOR 263596
+
+Further reading
+Adamidis, Vasileios. Character Evidence in the Courts of Classical Athens: Rhetoric, Relevance and the Rule of Law. Routledge, 2017.
+Blanshard, Alastair J. L. 2014. "The Permeable Spaces of the Athenian Law-court." Space, place, and landscape in ancient Greek literature and culture. Edited by Kate Gilhuly, 240–275. Cambridge; New York: Cambridge University Press.
+Buis, Emiliano. 2014. "Law and Greek Comedy." The Oxford Handbook of Greek and Roman Comedy. Edited by Michael Fontaine, 321–339. Oxford; New York: Oxford University Press.
+Finley, Moses I. 1975. "The Problem of the Unity of Greek Law." In The Use and Abuse of History. By Moses I. Finley, 134–152, 236–237. London: Viking.
+Gagarin, Michael. Early Greek Law. University of California Press, 1986.
+Gagarin, Michael and David Cohen, eds. 2005. The Cambridge Companion to [Ancient Greek](3061) Law. Cambridge, UK: Cambridge Univ. Press.
+Gagarin, Michael. 2008. Writing Greek Law. Cambridge, UK: Cambridge Univ. Press.
+Harris, Edward M., and Lene Rubinstein. 2004. The Law and the Courts in [Ancient Greece](555). London: Duckworth.
+Lanni, Adriaan. Law and Justice in the Courts of Classical Athens. New York: Cambridge University Press, 2006. Print
+MacDowell, Douglas M. 1986. Spartan Law. Edinburgh: Scottish Academic Press.
+Plutarch. “The Life of Lycurgus.” Plutarch • Life of Lycurgus, 1 May 2018, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Lycurgus*.html.
+Schaps, David M. 1979. Economic Rights of Women in [Ancient Greece](555). Edinburgh: Edinburgh Univ. Press.
+Schwartz, Saundra. 2016. From Bedroom to Courtroom: Law and Justice in the Greek Novel. Eelde: Barkhuis.
+Sealey, Raphael. 1994. The Justice of the Greeks. Ann Arbor: Univ. of Michigan Press.

@@ -1,0 +1,51 @@
+3692
+Charles Édouard Guillaume
+Charles Édouard Guillaume (French: ʃaʁl edwaʁ gijom; 15 February 1861 – 13 May 1938) was a Swiss physicist who received the Nobel Prize in Physics in 1920 "for the service he had rendered to precision measurements in physics by his discovery of anomalies in nickel steel alloys". In 1919, he gave the fifth Guthrie Lecture at the Institute of Physics in London with the title "The Anomaly of the Nickel-Steels".
+
+Personal life
+Charles-Edouard Guillaume was born in Fleurier, Switzerland, on 15 February 1861. Guillaume received his early education in Neuchâtel, and obtained a doctoral degree in Physics at ETH Zurich in 1883.
+Guillaume was married in 1888 to A. M. Taufflieb, with whom he had three children.
+He died on 13 May 1938 at Sèvres, aged 77.
+
+Scientific career
+Guillaume was head of the International Bureau of Weights and Measures. He also worked with Kristian Birkeland, serving at the Observatoire de [Paris](2293) – Section de Meudon. He conducted several experiments with thermostatic measurements at the observatory.
+
+Nickel–steel alloy
+Guillaume is known for his discovery of nickel–steel alloys he named invar, elinvar and platinite, also known as red platinum.   Invar has a near-zero coefficient of thermal expansion, making it useful in constructing precision instruments whose dimensions need to remain constant in spite of varying temperature.  Elinvar has a near-zero thermal coefficient of the modulus of elasticity, making it useful in constructing instruments with springs that need to be unaffected by varying temperature, such as the marine chronometer.  Elinvar is also non-magnetic, which is a secondary useful property for antimagnetic watches.
+
+Space radiation
+Guillaume is also known for the earliest estimation of the "radiation of the stars” in his 1896 article "La Température de L'Espace" ("The Temperature of Space"). This publication made him a pioneer in plasma cosmology, the study of conditions far from any particular star. The concept was later known as the Cosmic microwave background. He was one of the first people in history to estimate the temperature of space, as 5–6 K.
+
+Horology
+As the son of a Swiss horologist, Guillaume took an interest in marine chronometers. For use as the compensation balance he developed a slight variation of the invar alloy which had a negative quadratic coefficient of expansion. The purpose of doing this was to eliminate the "middle-temperature" error of the balance wheel. The Guillaume balance (a type of balance wheel) in horology is named after him.
+
+Publications
+1886: Études thermométriques (Studies on Thermometry)
+1889: Traité de thermométrie de Precision (Treatise on Thermometry) via Internet Archive
+1894: Unités et Étalons (Units and Standards)
+1896: Les rayons X et la Photographie a traves les corps opaques (X-Rays) via Internet Archive
+1896: "La Température de L'Espace" The Temperature of Space. La Nature. 24 (2): 210–211, 234.
+1898: Recherches sur le nickel et ses alliages (Investigations on Nickel and its Alloys)
+1899: La vie de la matière (The Life of Matter)
+1902: La Convention du Mètre et le Bureau international des Poids et Mesures (Metrical Convention and the International Bureau of Weights and Measures)
+1904: Les applications des aciers au nickel (Applications of Nickel-Steels) via Internet Archive
+1907: Des états de la matière (States of Matter)
+1909: Initiation à la Mécanique (Introduction to Mechanics) Hathi Trust record
+1913: 1907 Les récents progrès du système métrique (Recent progress in the Metric System)
+
+See also
+Carlos Ibáñez e Ibáñez de Ibero – 1st president of the International Committee for Weights and Measures
+
+Notes
+References
+Nobel Lectures, Physics 1901–1921, "Charles-Edouard Guillaume – Biography". Elsevier Publishing Company, Amsterdam.
+Rupert Thomas Gould (1960) The Marine Chronometer: its history and development, Holland Press.
+C. E. Guillaume in Nature 1934
+
+Further reading
+Robert W. Cahn (2005) "An Unusual Nobel Prize", Notes and Records 59(2).
+
+External links
+ Media related to Charles Édouard Guillaume at Wikimedia Commons
+Works by or about Charles Édouard Guillaume at the Internet Archive
+Charles Édouard Guillaume on Nobelprize.org  including the Nobel Lecture, December 11, 1920 Invar and Elinvar

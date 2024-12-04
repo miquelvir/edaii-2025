@@ -1,0 +1,16 @@
+1411
+Ampleon
+Ampleon is a global semiconductor manufacturer headquartered in [Nijmegen](1400) (Gelderland), Netherlands and the former RF Power business division of NXP Semiconductors.
+
+History
+Ampleon was founded in December 2015 and was the former RF Power business of NXP Semiconductors, which had previously been sold to China's JAC Capital for US$1.8 billion in May 2015. In 2017, Ampleon was acquired by Aurora Optoelectronics Co. for US$1.09 billion. In 2022, Xichanweixin acquired Ampleon for US$1.48 billion.
+
+Products
+Ampleon offers various LDMOS Power Transistors, like the ART2K0TFES, LDMOS Avionics Power Transistors, meant to be used primarily in aviation, as well as GaN-SiC HEMTs, with their newest model CLL3H0914L-700 delivering an output of over 700W at 50V. Additionally, Ampleon began developing 5G mmWave chips for 5G base stations in 2018. In 2021, Ampleon released two new wideband LDMOS amplifier series, the BLP15M9S and the BLP15H9S series. Both series of devices deliver 100W and 30W, with the 15MS line additionally delivering 70W and the 15HS line offering an additional 10W output mode.
+
+Locations
+Ampleon has offices in France, Finland, South Korea, the US, the Netherlands, Sweden, Taiwan and China. In 2016, they opened their own package-assembly-test factory in the Philippines, which runs on 100% renewable electricity. The plant, located in Cabuyao, Laguna, employs around 1,100 workers.
+
+References
+External links
+Official website

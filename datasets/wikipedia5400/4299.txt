@@ -1,0 +1,42 @@
+4299
+Campidanese Sardinian
+Campidanese Sardinian (Sardinian: sardu campidanesu, Italian: sardo campidanese) also known as Southern Sardinian (Italian: sardo meridionale) is one of the two written standards of the Sardinian language, which is often considered one of the most, if not the most conservative of all the Romance languages. The orthography is based on the spoken dialects of central southern Sardinia, identified by certain attributes which are not found, or found to a lesser degree, among the Sardinian dialects centered on the other written form, Logudorese. Its ISO 639-3 code is sro.
+Traditionally the name Campidanu (Campidano in Italian) refers to the fertile area located around the towns of Guspini and Villacidro. [Campidanese dialect](4300)s can be found across the entire Province of Cagliari and not just the Province of Medio Campidano area. Campidanese also extends into parts of the Province of Nuoro, notably the Ogliastra area and in the southern half of the Province of Oristano, the capital included. However, it is at this point that the dialects merge into Logudorese.
+
+Subvariants
+There are seven main subdialects of Campidanese Sardinian, namely Western Campidanese, Sarrabese (sarrabesu), Southern Barbagian, and Oristano's ('aristanesu or also arborensi), Ogliastra's (ollastrinu), Cagliari's (casteddaju), and the varieties of Sulcis (meurreddinu). Casteddaju is the dialect spoken in the island's capital; however, it extends to most of the neighbouring towns and villages within a 15 km radius of Cagliari. In 2009, the provincial administration of Cagliari approved the spelling, phonetics, morphology, and vocabulary rules for Standard Campidanese Sardinian.
+
+Vocabulary
+Campidanese Sardinian has some borrowed words from Aragonese, Catalan and Spanish. Since the early 20th century, there has been an increase in lexical borrowing from Italian as well; that is particularly evident with technological words for which there is no Campidanese equivalent. However, many words that are from Italian have been changed phonetically so that they sound Sardinian. Italian loan words that end in an o are often substituted with a u. The strong Campidanese accent also changes the sound of the word.
+
+Characteristics
+Singular nouns descending from 3rd declension Latin nouns ending in "-i" (Campidanese pisci vs Logudorese pische)
+Plural definite article of "is" (Campidanese is terras vs Logudorese sas terras)
+Gerund in "-endi" (Campidanese èssendi vs Logudorese èssende)
+Conservation of the Latin phoneme <qu> and <gu> (/kʷ/ and /ɡʷ/) in words such as akua (water) and sànguni (blood).
+Palatalisation of Latin word-initial /k/ before /e/ and /i/ (Lat. centum > centu cf. Logudorese chentu). In medial positions, /k/ becomes /-ʒ-/ (Lat. decem > dexi cf. Logudorese deghe) or /-ʃʃ-/ (Lat. piscem > pisci)
+Transformation of /rj/ to /rɡ/, /nj/ to /nɡ/, /lj/ to /ll/, and /ti/, /te/ into /tz/
+Epenthetic /a/ before word-initial /r/ (Lat. rubeum > arrubiu)
+Metathesis (Logudorese Carbonia vs Campidanese Crabonia)
+Catalan influence (Words such as seu "cathedral" loaned from Catalan)
+Campidanese Sardinian is intelligible to those from the central to the southern part of Sardinia, where Logudorese Sardinian is spoken, but it is not to those from the extreme north of the island, where Corsican–Sardinian dialects are spoken.
+Italian speakers do not understand Campidanese, like any other dialect of the Sardinian language: Sardinian is an autonomous linguistic group rather than an Italian dialect as it is often noted because of its morphological, syntactic, and lexical differences from Italian.
+
+Writing system
+Campidanese is written using the Latin alphabet. Like Italian, Campidanese does not use ⟨w⟩ or ⟨y⟩. Campidanese also uses the digraphs ⟨gh⟩, representing /g/, ⟨ch⟩ representing /k/ before e and i vowels, ⟨tz⟩ representing /ts/ and ⟨x⟩, representing /ʒ/.
+In phonetic syntax, final or intervocalic ⟨t⟩ is pronounced as a /d/ (es: issu andat, meaning "he goes", is pronounced issu andada) and ⟨s⟩ is pronounced as a /z̪/, (es. sa mesa, meaning "the table", is pronounced sa mez̪a). When there are consonants like s, t or nt at the end of the word, a helping vowel is usually added (es. sa domu, is domus(u), the house, the houses).
+If preceded by a consonant, an "i" is inserted before the normally-initial s (es: sa scala, is (i)scalas(a), the staircase, the staircases). The spelling rules were established by the Province of Cagliari with a deliberation on March 17, 2010.
+
+See also
+Sardinian language
+Logudorese Sardinian
+
+References
+External links
+
+Ditzionàriu in línia de sa limba e de sa cultura sarda
+Grammatica sardo-campidanese
+Saggio di grammatica campidanese, Antoninu Rubattu
+La lingua sarda: Storia, spirito e forma, Max Leopold Wagner, a cura di Giulio Paulis, Nuoro 1997
+Accademia De Sa Lingua Sarda Campidanesa - Onlus
+Campidanese basic lexicon at the Global Lexicostatistical Database

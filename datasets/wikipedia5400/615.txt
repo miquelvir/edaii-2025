@@ -1,0 +1,31 @@
+615
+Allen B. Downey
+Allen Benjamin Downey (born May 11, 1967) is an American computer scientist who is currently working as a Principal Data Scientist at PyMC Labs. He is a former Professor of Computer Science at the Franklin W. Olin College of Engineering.
+
+Biography
+Downey received in 1989 his BS and in 1990 his MA, both in civil engineering, from the Massachusetts Institute of Technology, and his PhD in computer science from the University of California at Berkeley in 1997.
+He started his career as research fellow in the San Diego Supercomputer Center in 1995. In 1997 he became assistant professor of computer science at Colby College, and in 2000 at Wellesley College. He was research fellow at Boston University in 2002 and professor of computer science at the Franklin W. Olin College of Engineering since 2003. In 2009-2010 he was also visiting scientist at Google Inc.
+
+Textbook publications
+Downey has published the following textbooks, which are also freely available online from Green Tea Press under the GNU Free Documentation License:
+
+Think Data Structures: Algorithms and Information Retrieval in Java , Green Tea Press, July 7, 2017.
+Think Bayes: Bayesian Statistics in Python, Green Tea Press, September 2013.
+Think Complexity: Complexity Science and Computational Modeling, O’Reilly Media, March 2012.
+Think Stats: Probability and Statistics for Programmers, O’Reilly Media, June 2011.
+Complexity and Computation, Green Tea Press, August 2011.
+Think Java: How to Think Like a Computer Scientist, Green Tea Press, June 2011.
+Python for Software Design, Cambridge University Press, March 2009.
+How to Think Like a Computer Scientist: C++ Version, CreateSpace, March 2009.
+Learning Perl the Hard Way, CreateSpace, March 2009.
+The Little Book of Semaphores, CreateSpace, March 2009.
+Think Python: An Introduction to Software Design, CreateSpace, February 2009.
+Physical Modeling in MATLAB, Green Tea Press, January 2008.
+How to Think Like a Computer Scientist: Learning with Python, Green Tea Press, January 2002.
+
+References
+External links
+Downey's personal website
+Green Tea Press - Website for Downey's free textbooks
+Recording of Downey's lecture on software synchronization and free textbooks at Northeastern University
+Github - Allen Downey

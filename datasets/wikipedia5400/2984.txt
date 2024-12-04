@@ -1,0 +1,40 @@
+2984
+Calorie
+The calorie is a unit of energy that originated from the caloric theory of heat. The large calorie, food calorie, dietary calorie, or kilogram calorie is defined as the amount of heat needed to raise the temperature of one liter of water by one degree Celsius (or one kelvin). The small calorie or gram calorie is defined as the amount of heat needed to cause the same increase in one milliliter of water. Thus, 1 large calorie is equal to 1000 small calories. 
+In nutrition and food science, the term calorie and the symbol cal may refer to the large unit or to the small unit in different regions of the world. It is generally used in publications and package labels to express the energy value of foods in per serving or per weight, recommended dietary caloric intake, metabolic rates, etc. Some authors recommend the spelling Calorie and the symbol Cal (both with a capital C) if the large calorie is meant, to avoid confusion; however, this convention is often ignored.
+In physics and chemistry, the word calorie and its symbol usually refer to the small unit, the large one being called kilocalorie (kcal). However, the kcal is not officially part of the International System of Units (SI), and is regarded as obsolete, having been replaced in many uses by the SI derived unit of energy, the joule (J), or the kilojoule (kJ) for 1000 joules.
+The precise equivalence between calories and joules has varied over the years, but in thermochemistry and nutrition it is now generally assumed that one (small) calorie (thermochemical calorie) is equal to exactly 4.184 J, and therefore one kilocalorie (one large calorie) is 4184 J or 4.184 kJ.
+
+History
+The term "calorie" comes from Latin  calor 'heat'. It was first introduced by Nicolas Clément, as a unit of heat energy, in lectures on experimental calorimetry during the years 1819–1824. This was the "large" calorie. The term (written with lowercase "c") entered French and English dictionaries between 1841 and 1867.
+The same term was used for the "small" unit by Pierre Antoine Favre (chemist) and Johann T. Silbermann (physicist) in 1852.
+In 1879, Marcellin Berthelot distinguished between gram-calorie and kilogram-calorie, and proposed using "Calorie", with capital "C", for the large unit. This usage was adopted by Wilbur Olin Atwater, a professor at Wesleyan University, in 1887, in an influential article on the energy content of food.
+The smaller unit was used by U.S. physician Joseph Howard Raymond, in his classic 1894 textbook A Manual of Human Physiology. He proposed calling the "large" unit "kilocalorie", but the term did not catch on until some years later.
+The small calorie (cal) was recognized as a unit of the CGS system in 1896, alongside the already-existing CGS unit of energy, the erg (first suggested by Clausius in 1864, under the name ergon, and officially adopted in 1882).
+In 1928, there were already serious complaints about the possible confusion arising from the two main definitions of the calorie and whether the notion of using the capital letter to distinguish them was sound.
+The joule was the officially adopted SI unit of energy at the ninth General Conference on Weights and Measures in 1948. The calorie was mentioned in the 7th edition of the SI brochure as an example of a non-SI unit.
+The alternate spelling calory is a less-common, non-standard variant.
+
+Definitions
+The "small" calorie is broadly defined as the amount of energy needed to increase the temperature of 1 gram of water by 1 °C (or 1 K, which is the same increment, a gradation of one percent of the interval between the melting point and the boiling point of water). The actual amount of energy required to accomplish this temperature increase depends on the atmospheric pressure and the starting temperature; different choices of these parameters have resulted in several different precise definitions of the unit.
+
+The two definitions most common in older literature appear to be the 15 °C calorie and the thermochemical calorie. Until 1948, the latter was defined as 4.1833 international joules; the current standard of 4.184 J was chosen to have the new thermochemical calorie represent the same quantity of energy as before.
+
+Usage
+Nutrition
+In the [United States](1100), in a nutritional context, the "large" unit is used almost exclusively. It is generally written "calorie" with lowercase "c" and symbol "cal", even in government publications. The SI unit kilojoule (kJ) may be used instead, in legal or scientific contexts. Most American nutritionists prefer the unit kilocalorie to the unit kilojoules, whereas most physiologists prefer to use kilojoules. In the majority of other countries, nutritionists prefer the kilojoule to the kilocalorie.
+In the [European Union](1200), on nutrition facts labels, energy is expressed in both kilojoules and kilocalories, abbreviated as "kJ" and "kcal" respectively.
+In [China](2217), only kilojoules are given.
+
+[Food energy](2776)
+The unit is most commonly used to express food energy, namely the specific energy (energy per mass) of metabolizing different types of food.  For example, fat (triglyceride lipids) contains 9 kilocalories per gram (kcal/g), while carbohydrates (sugar and starch) and protein contain approximately 4 kcal/g. Alcohol in food contains 7 kcal/g. The "large" unit is also used to express recommended nutritional intake or consumption, as in "calories per day".
+Dieting is the practice of eating food in a regulated way to decrease, maintain, or increase body weight, or to prevent and treat diseases such as diabetes and obesity. As weight loss depends on reducing caloric intake, different kinds of calorie-reduced diets have been shown to be generally effective.
+
+Chemistry and physics
+In other scientific contexts, the term "calorie" and the symbol "cal" almost always refers to the small unit; the "large" unit being generally called "kilocalorie" with symbol "kcal". It is mostly used to express the amount of energy released in a chemical reaction or phase change, typically per mole of substance, as in kilocalories per mole. It is also occasionally used to specify other energy quantities that relate to reaction energy, such as enthalpy of formation and the size of activation barriers. However, it is increasingly being superseded by the SI unit, the joule (J); and metric multiples thereof, such as the kilojoule (kJ).
+The lingering use in chemistry is largely due to the fact that the energy released by a reaction in aqueous solution, expressed in kilocalories per mole of reagent, is numerically close to the concentration of the reagent in moles per liter multiplied by the change in the temperature of the solution in kelvins or degrees Celsius. However, this estimate assumes that the volumetric heat capacity of the solution is 1 kcal/(L⋅K), which is not exact even for pure water.
+
+See also
+
+
+== References ==

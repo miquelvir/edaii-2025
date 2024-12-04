@@ -1,0 +1,206 @@
+564
+Anseriformes
+Anseriformes is an order of birds   also known as waterfowl that comprises about 180 living species of birds in three families: [Anhimidae](558) (three species of screamers), [Anseranatidae](563) (the magpie goose), and [Anatidae](549), the largest family, which includes over 170 species of waterfowl, among them the ducks, geese, and swans. Most modern species in the order are highly adapted for an aquatic existence at the water surface. With the exception of screamers, males have penises, a trait that has been lost in the Neoaves. Due to their aquatic nature, most species are web-footed.
+
+Evolution
+Anseriformes are one of only two types of modern bird to be confirmed present during the Mesozoic alongside the other dinosaurs, and in fact were among the very few birds to survive their extinction, along with their cousins, the Galliformes. These two groups only occupied two ecological niches during the Mesozoic, living in water and on the ground, while the toothed Enantiornithes were the dominant birds that ruled the trees and air. The asteroid that ended the Mesozoic destroyed all trees as well as animals in the open, a condition that took centuries to recover from. The Anseriformes and Galliformes are thought to have survived in the cover of burrows and water, and not to have needed trees for food and reproduction.
+The earliest known stem anseriform is the presbyornithid Teviornis from the Nemegt Formation of Mongolia. Some members apparently surviving the KT extinction event, including presbyornithids, thought to be the common ancestors of ducks, geese, swans, and screamers, the last group once thought to be Galliformes, but now genetically confirmed to be closely related to geese. The first known duck fossils start to appear about 34 million years ago.
+Waterfowl are the best-known examples of sexually antagonistic genital coevolution in vertebrates, causing genital adaptations to coevolve in each sex to advance control over mating and fertilization. Sexually antagonistic coevolution (or SAC) occurs as a consequence of sexual conflict between males and females, resulting in coevolutionary process that reduce fit, or that functions to decrease ease of having sex.
+
+Taxonomy
+The Anseriformes and the Galliformes (pheasants, etc.) belong to a common group, the Galloanserae. They are the most primitive neognathous birds, and as such they should follow the Palaeognathae (ratites and tinamous) in bird classification systems. Several unusual extinct families of birds like the albatross-like pseudotooth birds and the giant flightless gastornithids and mihirungs have been found to be stem-anseriforms based on common features found in the skull region, beak physiology and pelvic region. The genus Vegavis for a while was found to be the earliest member of the anseriform crown group but a recent 2017 paper has found it to be just outside the crown group in the family Vegaviidae.
+Below is the general consensus of the phylogeny of anseriforms and their stem relatives.
+
+Systematics
+[Anatidae](549) systematics, especially regarding placement of some "odd" genera in the dabbling ducks or shelducks, is not fully resolved. See the [Anatidae](549) article for more information, and for alternate taxonomic approaches. [Anatidae](549) is traditionally divided into subfamilies [Anatinae](550) and [Anserinae](566). The [Anatinae](550) consists of tribes Anatini, Aythyini, Mergini and Tadornini. The higher-order classification below follows a phylogenetic analysis performed by Mikko's Phylogeny Archive and John Boyd's website.
+
+Order Anseriformes
+?†Conflicto Claudia P. Tambussi et al. 2019 – tentatively placed here; possibly family Conflictonidae
+†Anatalavis Olson & Parris 1987 (Late Cretaceous/Early Paleocene – Early Eocene) – including Nettapterornis; may belong in [Anseranatidae](563) or Conflictonidae
+†Naranbulagornis Zelenkov 2019
+†Anachronornis
+†Paakniwatavis Musser & Clarke 2024
+Suborder Anhimae Wetmore & Miller 1926
+Genus †Chaunoides de Alvarenga 1999
+Family [Anhimidae](558) Stejneger 1885 (screamers)
+Genus Anhima (Linnaeus 1766) Brisson 1760 (horned screamer)
+Genus Chauna Illiger 1811
+Suborder Anseres (true Anseriformes)
+Superfamily Anseranatoidea
+Family [Anseranatidae](563) Sclater 1880
+Genus †Anserpica Mourer-Chauviré, Berthet & Hugueney 2004
+Genus †Eoanseranas Worthy & Scanlon 2009 (hand's dawn magpie goose)
+Genus Anseranas (Latham 1798) Lesson 1828 (magpie goose)
+Superfamily Anatoidea
+Family †Presbyornithidae? Wetmore 1926 (wading-"geese")^
+Genus †Teviornis Kuročkin, Dyke & Karhu 2002
+Genus †Telmabates Howard 1955
+Genus †Presbyornis Wetmore 1926
+Genus †Wilaru Boles et al. 2013
+Genus †Bumbalavis Zelenkov 2021
+Genus †Murgonornis Worthy et al. 2023
+Family †Paranyrocidae Miller & Compton 1939
+Genus †Paranyroca Miller & Compton 1939 (Rosebud Early Miocene of Bennett County, USA) 
+Family [Anatidae](549) Leach 1820 (almost 150 species)
+Genus †Garganornis ballmanni Meijer 2014
+Subfamily †Romainvilliinae Lambrecht 1933
+Genus †Romainvillia Lebedinský 1927 (Late Eocene/Early Oligocene)
+Genus †Saintandrea Mayr & De Pietri 2013
+Subfamily Dendrocygninae Reichenbach 1849–50
+Genus Dendrocygna Swainson 1837 (whistling ducks)
+Genus Thalassornis Eyton 1838 (white-backed duck)
+Subfamily †Dendrocheninae Livezey & Martin 1988
+Genus †Dendrochen Miller 1944
+Genus †Manuherikia Worthy et al. 2007
+Genus †Mionetta Livezey & Martin 1988
+Subfamily Stictonettinae
+Genus Stictonetta (Gould 1841) Reichenbach 1853 (freckled duck)
+Subfamily [Anserinae](566) Vigors 1825 sensu Livezey 1996 (swans and geese)
+Genus †Anserobranta Kuročkin & Ganya 1972
+Genus †Asiavis Nesov 1986
+Genus †“Chenopis” De Vis 1905
+Genus †Cygnavus Lambrecht 1931
+Genus †Cygnopterus Lambrecht 1931
+Genus †Eremochen Brodkorb 1961
+Genus †Megalodytes Howard 1992
+Genus †Paracygnus Short 1969
+Genus †Presbychen Wetmore 1930
+Genus †Cnemiornis Owen 1866 (New Zealand geese)
+Genus †Afrocygnus Louchart et al. 2005
+Genus Coscoroba (Molina 1782) Reichenbach 1853 (Coscoroba swan)
+Genus Cereopsis Latham 1801 (Cape Barren goose)
+Genus Cygnus Garsault 1764
+Genus Branta Scopoli 1769
+Tribe Anserini Vigors 1825
+Genus Anser Brisson 1760
+Subfamily Tadorninae Reichenbach 1849–50 (shelducks and sheldgeese)
+Genus †Australotadorna Worthy 2009
+Genus †Brantadorna Howard 1964
+Genus †Centrornis Andrews 1897 (Malagasy sheldgoose)
+Genus †Miotadorna Worthy et al. 2007 (St. Bathans shelduck)
+Genus †Nannonetta Campbell 1979
+Genus †Pleistoanser Agnolín 2006
+Genus Plectropterus (Linnaeus 1766)  (spur-winged goose)
+Genus Merganetta Gould 1842 (Torrent duck)
+Genus Chloephaga Eyton 1838
+Genus Neochen Oberholser 1918
+Genus Cyanochen (Rüppell 1845) Bonaparte 1856 (blue-winged goose)
+Genus Tadorna Boie 1822
+Genus Radjah Reichenbach, 1853
+Genus Alopochen Stejneger 1885
+Genus Cairina (Linnaeus 1758) Fleming 1822 (Muscovy duck)
+Genus Hymenolaimus (Gmelin 1789) Gray 1843 (blue duck)
+Genus Sarkidiornis Eyton 1838
+Genus Tachyeres Owen 1875 (steamer ducks)
+Subfamily [Anatinae](550) Vigors 1825 sensu Livezey 1996
+Genus †Dunstanetta Worthy et al. 2007 (Johnstone's duck)
+Genus †Lavadytis Stidham & Hilton 2015
+Genus †Pinpanetta Worthy 2009
+Genus †Tirarinetta Worthy 2008
+Genus Aix Boie 1828
+Genus Callonetta Delacour 1936 (ringed teal)
+Genus Chenonetta von Brandt 1836 (Australian wood duck)
+Genus Biziura Stephens 1824 (musk ducks)
+Genus Pteronetta (Cassin 1860) Salvadori 1895 (Hartlaub's duck)
+Genus Marmaronetta (Ménétries 1832) Reichenbach 1853 (marbled duck)
+Genus Asarcornis (Müller 1842) Salvadori 1895 (white-winged duck)
+Genus Netta Kaup 1829
+Genus Lophonetta (King 1828) Riley 1914 (crested duck)
+Genus Amazonetta (Gmelin 1789) von Boetticher 1929 (Brazilian teal)
+Tribe Oxyurini Swainson 1831 (stiff-tailed ducks and allies)
+Genus †Anabernicula Ross 1935
+Genus Heteronetta (Merrem 1841) Salvadori 1865 (black-headed duck)
+Genus Nomonyx (Linnaeus 1766) Ridgway 1880 (masked duck)
+Genus Oxyura Bonaparte 1828
+Genus Nettapus von Brandt 1836 (pygmy geese)
+Genus Malacorhynchus Swainson 1831 (pink-eared duck)
+Genus Salvadorina Rothschild & Hartert 1894 (Salvadori's teal)
+Genus Speculanas (King 1828) von Boetticher 1929 (bronze-winged duck)
+Tribe Mergini  Rafinesque 1815 (eiders, scoters, mergansers and other sea-ducks)
+Genus †Chendytes Miller 1925
+Genus †Shiriyanetta Watanabe & Matsuoka 2015
+Genus †Camptorhynchus (Gmelin 1789) Bonaparte 1838 (Labrador duck)
+Genus Histrionicus Lesson 1828 (harlequin duck)
+Genus Clangula Leach 1819 (long-tailed duck)
+Genus Polysticta stelleri (Pallas 1769) Eyton 1836 (Steller's eider)
+Genus Somateria Leach 1819 (eiders)
+Genus Melanitta Boie 1822 (scoters)
+Genus Bucephala Baird 1858
+Genus Mergellus Selby 1840 (Smew)
+Genus Lophodytes (Linnaeus 1758) Reichenbach 1853 (hooded merganser)
+Genus Mergus Linnaeus 1758 non Brisson 1760
+Tribe Anatini Vigors 1825 sensu Livezey 1996 (dabbling ducks and moa-nalos)
+Genus †Matanas Worthy et al. 2007 (Enright's duck)
+Genus Anas Linnaeus 1758
+Genus Sibirionetta (Georgi 1775) (Baikal teal)
+Genus  Mareca (Stephens 1824)
+Genus Spatula Boie 1822
+Tribe Aythyini  Delacour and Mayr, 1945 (diving ducks)
+Genus Aythya Boie 1822
+Unassigned [Anatidae](549):
+
+†"Anas" albae Jánossy 1979 ?Mergus
+†"Anas" amotape Campbell 1979
+†"Anas" isarensis Lambrecht 1933
+†"Anas" luederitzensis
+†"Anas" sanctaehelenae Campbell 1979
+†"Anas" eppelsheimensis Lambrecht 1933
+†"Oxyura" doksana Mlíkovský 2002
+†"Anser" scaldii "Anas" scaldii
+†Ankonetta larriestrai Cenizo & Agnolín 2010
+†Cayaoa bruneti Tonni 1979
+†Eoneornis nomen dubium
+†Eutelornis
+†Aldabranas cabri Harrison & Walker 1978
+†Chenoanas deserta Zelenkov 2012
+†Cygnopterus alphonsi Cheneval 1984 non Cygnavus senckenbergi Mlíkovský 2002
+†Helonetta brodkorbi Emslie 1992
+†Loxornis clivus Ameghino 1894
+†Mioquerquedula minutissima Zelenkov & Kuročkin 2012 Anas velox Milne-Edwards 1867
+†Paracygnopterus scotti Harrison & Walker 1979
+†Proanser major Umanskaya 1979
+†Teleornis Ameghino 1899
+†Protomelanitta Zelenkov 2011
+†Nogusunna conflictoides Zelenkov 2011
+†Sharganetta mongolica Zelenkov 2011
+Metopiana Bonaparte 1856 Metopias Heine & Reichenow 1890; Phoeonetta Delacour 1937; Netta (Phoeoaythia) Delacour 1937
+†Bambolinetta (Portis 1884) Mayr & Pavia 2014 Anas lignitifila Portis 1884
+†Heteroanser vicinus (Kuročkin 1976) Zelenkov 2012 Heterochen vicinus Kuročkin 1976; Anser vicinus (Kuročkin 1976) Mlíkovský & Švec 1986
+†Sinanas Yeh 1980
+†Talpanas Olson & James 2009 (Kaua'i mole duck)
+†Wasonaka Howard 1966
+†Chelychelynechen Olson & James 1991 (turtle-jawed moa-nalo)
+†Ptaiochen Olson & James 1991 (small-billed moa-nalo)
+†Thambetochen Olson & Wetmore 1976
+In addition, a considerable number of mainly Late Cretaceous and Paleogene fossils have been described where it is uncertain whether or not they are anseriforms. This is because almost all orders of aquatic birds living today either originated or underwent a major radiation during that time, making it hard to decide whether some waterbird-like bone belongs into this family or is the product of parallel evolution in a different lineage due to adaptive pressures.
+
+"Presbyornithidae" gen. et sp. indet. (Barun Goyot Late Cretaceous of Udan Sayr, Mongolia) – Presbyornithidae?
+UCMP 117599 (Hell Creek Late Cretaceous of Bug Creek West, USA)
+Petropluvialis (Late Eocene of England) – may be same as Palaeopapia
+Agnopterus (Late Eocene – Late Oligocene of Europe) – includes Cygnopterus lambrechti
+"Headonornis hantoniensis" BMNH PAL 4989 (Hampstead Early Oligocene of Isle of Wight, England) – formerly "Ptenornis"
+Palaeopapia (Hampstead Early Oligocene of Isle of Wight, England)
+"Anas" creccoides (Early/Middle Oligocene of Belgium)
+"Anas" skalicensis (Early Miocene of "Skalitz", Czech Republic)
+"Anas" risgoviensis (Late Miocene of Bavaria, Germany)
+†"Anas" meyerii Milne-Edwards 1867 Aythya meyerii (Milne-Edwards 1867) Brodkorb 1964
+†Eonessa anaticula Wetmore 1938 {Eonessinae Wetmore 1938}
+
+Phylogeny
+Living Anseriformes based on the work by John Boyd.
+
+Molecular studies
+Studies of the mitochondrial DNA suggest the existence of four branches – [Anseranatidae](563), Dendrocygninae, [Anserinae](566) and [Anatinae](550) – with Dendrocygninae being a subfamily within the family [Anatidae](549) and [Anseranatidae](563) representing an
+independent family. The clade Somaterini has a single genus Somateria.
+
+See also
+List of Anseriformes by population
+List of Anseriformes
+
+References
+Cited texts
+
+Agnolin, F (2007). "Brontornis burmeisteri Moreno & Mercerat, un Anseriformes (Aves) gigante del Mioceno Medio de Patagonia, Argentina". Revista del Museo Argentino de Ciencias Naturales. 9: 15–25. doi:10.22179/revmacn.9.361.
+Clarke, J. A.; Tambussi, C. P.; Noriega, J. I.; Erickson, G. M.; Ketcham, R. A. (2005). "Definitive fossil evidence for the extant avian radiation in the Cretaceous" (PDF). Nature. 433 (7023): 305–308. Bibcode:2005Natur.433..305C. doi:10.1038/nature03150. PMID 15662422. S2CID 4354309.
+Livezey, B. C.; Zusi, R. L. (2007). "Higher-order phylogeny of modern birds (Theropoda, Aves: Neornithes) based on comparative anatomy. II. Analysis and discussion". Zoological Journal of the Linnean Society. 149 (1): 1–95. doi:10.1111/j.1096-3642.2006.00293.x. PMC 2517308. PMID 18784798.
+Murray, P. F. & Vickers-Rich, P. (2004) Magnificent Mihirungs: The Colossal Flightless [Bird](500)s of the Australian Dreamtime. Indiana University Press.

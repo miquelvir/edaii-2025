@@ -1,0 +1,60 @@
+995
+Flynn's taxonomy
+Flynn's taxonomy is a classification of computer architectures, proposed by Michael J. Flynn in 1966 and extended in 1972. The classification system has stuck, and it has been used as a tool in the design of modern processors and their functionalities. Since the rise of multiprocessing central processing units (CPUs), a multiprogramming context has evolved as an extension of the classification system. Vector processing, covered by Duncan's taxonomy, is missing from Flynn's work because the Cray-1 was released in 1977: Flynn's second paper was published in 1972.
+
+Classifications
+The four initial classifications defined by Flynn are based upon the number of concurrent instruction (or control) streams and data streams available in the architecture. Flynn defined three additional sub-categories of SIMD in 1972.
+
+Single instruction stream, single data stream (SISD)
+A sequential computer which exploits no parallelism in either the instruction or data streams. Single control unit (CU) fetches a single instruction stream (IS) from memory. The CU then generates appropriate control signals to direct a single processing element (PE) to operate on a single data stream (DS) i.e., one operation at a time.
+Examples of SISD architectures are the traditional uniprocessor machines like older personal computers (PCs) (by 2010, many PCs had multiple cores) and mainframe computers.
+
+Single instruction stream, multiple data streams (SIMD)
+A single instruction is simultaneously applied to multiple different data streams. Instructions can be executed sequentially, such as by pipelining, or in parallel by multiple functional units.
+Flynn's 1972 paper subdivided SIMD down into three further categories: 
+
+Array processor – These receive the one (same) instruction but each parallel processing unit has its own separate and distinct memory and register file.
+Pipelined processor – These receive the one (same) instruction but then read data from a central resource, each processes fragments of that data, then writes back the results to the same central resource. In Figure 5 of Flynn's 1972 paper that resource is main memory: for modern CPUs that resource is now more typically the register file.
+Associative processor – These receive the one (same) instruction but in each parallel processing unit an independent decision is made, based on data local to the unit, as to whether to perform the execution or whether to skip it. In modern terminology this is known as "predicated" (masked) SIMD.
+
+Array processor
+The modern term for an array processor is "single instruction, multiple threads" (SIMT). This is a distinct classification in Flynn's 1972 taxonomy, as a subcategory of SIMD. It is identifiable by the parallel subelements having their own independent register file and memory (cache and data memory). Flynn's original papers cite two historic examples of SIMT processors: SOLOMON and ILLIAC IV.
+Nvidia commonly uses the term in its marketing materials and technical documents, where it argues for the novelty of its architecture. SOLOMON predates Nvidia by more than 60 years.
+The Aspex Microelectronics Associative String Processor (ASP) categorised itself in its marketing material as "massive wide SIMD" but had bit-level ALUs and bit-level predication (Flynn's taxonomy: associative processing), and each of the 4096 processors had their own registers and memory (Flynn's taxonomy: array processing). The Linedancer, released in 2010, contained 4096 2-bit predicated SIMD ALUs, each with its own content-addressable memory, and was capable of 800 billion instructions per second. Aspex's ASP associative array SIMT processor predates NVIDIA by 20 years.
+
+Pipelined processor
+At the time that Flynn wrote his 1972 paper many systems were using main memory as the resource from which pipelines were reading and writing. When the resource that all "pipelines" read and write from is the register file rather than main memory, modern variants of SIMD result. Examples include Altivec, NEON, and AVX. 
+An alternative name for this type of register-based SIMD is "packed SIMD" and another is SIMD within a register (SWAR). When predication is applied, it becomes associative processing (below)
+
+Associative processor
+The modern term for associative processor is "predicated" (or masked) SIMD. Examples include AVX-512.
+Some modern designs (GPUs in particular) take features of more than one of these subcategories: GPUs of today are SIMT but also are Associative i.e. each processing element in the SIMT array is also predicated.
+
+Multiple instruction streams, single data stream (MISD)
+Multiple instructions operate on one data stream. This is an uncommon architecture which is generally used for fault tolerance. Heterogeneous systems operate on the same data stream and must agree on the result. Examples include the Space Shuttle flight control computer.
+
+Multiple instruction streams, multiple data streams (MIMD)
+Multiple autonomous processors simultaneously execute different instructions on different data. MIMD architectures include multi-core superscalar processors, and distributed systems, using either one shared memory space or a distributed memory space.
+
+Diagram comparing classifications
+These four architectures are shown below visually. Each processing unit (PU) is shown for a uni-core or multi-core computer:
+
+Further divisions
+As of 2006, all of the top 10 and most of the TOP500 supercomputers are based on a MIMD architecture.
+Although these are not part of Flynn's work, some further divide the MIMD category into the two categories below, and even further subdivisions are sometimes considered.
+
+Single program, multiple data streams (SPMD)
+Multiple autonomous processors simultaneously executing the same program (but at independent points, rather than in the lockstep that SIMD imposes) on different data. Also termed single process, multiple data - the use of this terminology for SPMD is technically incorrect, as SPMD is a parallel execution model and assumes multiple cooperating processors executing a program. SPMD is the most common style of explicit parallel programming. The SPMD model and the term was proposed by Frederica Darema of the RP3 team.
+
+Multiple programs, multiple data streams (MPMD)
+Multiple autonomous processors simultaneously operating at least two independent programs. In HPC contexts, such systems often pick one node to be the "host" ("the explicit host/node programming model") or "manager" (the "Manager/Worker" strategy), which runs one program that farms out data to all the other nodes which all run a second program. Those other nodes then return their results directly to the manager. An example of this would be the Sony PlayStation 3 game console, with its SPU/PPU processor.
+MPMD is common in non-HPC contexts.  For example, the make build system can build multiple dependencies in parallel, using target-dependent programs in addition to the make executable itself.  MPMD also often takes the form of pipelines.  A simple Unix shell command like ls | grep "A" | more launches three processes running separate programs in parallel with the output of one used as the input to the next.
+These are both distinct from the explicit parallel programming used in HPC in that the individual programs are generic building blocks rather than implementing part of a specific parallel algorithm.  In the pipelining approach, the amount of available parallelism does not increase with the size of the data set.
+
+See also
+Feng's classification
+Duncan's taxonomy
+Händler's Erlangen Classification System (ECS)
+
+
+== References ==

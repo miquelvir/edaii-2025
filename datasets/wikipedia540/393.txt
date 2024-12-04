@@ -1,0 +1,152 @@
+393
+Boeing 737 Next Generation
+The Boeing 737 Next Generation, commonly abbreviated as 737NG, or 737 Next Gen, is a twin-engine narrow-body aircraft produced by Boeing Commercial Airplanes. Launched in 1993 as the third generation derivative of the Boeing 737, it has been produced since 1997.
+The 737NG is an upgrade of the 737 Classic (–300/–400/–500) series. Compared to the 737 Classic, it has a redesigned wing with a larger area, a wider wingspan, greater fuel capacity, and higher maximum takeoff weights (MTOW) and longer range. It has CFM International CFM56-7 series engines, a glass cockpit, and upgraded and redesigned interior configurations. The series includes four variants, the –600/–700/–800/–900, seating between 108 and 215 passengers. The 737NG's primary competition is the Airbus A320 family.
+As of September 2024, a total of 7,126 737NG aircraft had been ordered, of which 7,112 had been delivered, with remaining orders for two -700, two -800, and 10 -800A variants. The most-ordered variant was the 737-800, with 4,991 commercial, 191 military, and 23 corporate, or a total of 5,205 aircraft. Boeing stopped assembling commercial 737NGs in 2019 and made the final deliveries in January 2020. The 737NG is superseded by the fourth generation 737 MAX, introduced in 2017.
+
+Development
+Background
+When regular Boeing customer United Airlines bought the more technologically advanced Airbus A320 with fly-by-wire controls, this prompted Boeing to update the slower, shorter-range 737 Classic variants into the more efficient, longer New Generation variants. In 1991, Boeing initiated development of an updated series of aircraft. After working with potential customers, the 737 Next Generation (NG) program was announced on November 17, 1993.
+
+Testing
+The first NG to roll out was a 737−700, on December 8, 1996. This aircraft, the 2,843rd 737 built, first flew on February 9, 1997, with pilots Mike Hewett and Ken Higgins. The prototype 737−800 rolled out on June 30, 1997, and first flew on July 31, 1997, piloted by Jim McRoberts and again by Hewett. The smallest of the new variants, the −600 series, is identical in size to the −500, launching in December 1997 with an initial flight occurring January 22, 1998; it was granted FAA certification on August 18, 1998. The flight test program used 10 aircraft: 3 -600s, 4 -700s, and 3 -800s.
+
+Enhancements
+In 2004, Boeing offered a Short Field Performance package in response to the needs of Gol Transportes Aéreos, which frequently operates from restricted airports. The enhancements improve takeoff and landing performance. The optional package is available for the 737NG models and standard equipment for the 737-900ER.
+In July 2008, Boeing offered Messier-Bugatti-Dowty's new carbon brakes for the Next-Gen 737s, which are intended to replace steel brakes and will reduce the weight of the brake package by 550–700 pounds (250–320 kg) depending on whether standard or high-capacity steel brakes were fitted. A weight reduction of 700 pounds (320 kg) on a 737-800 results in 0.5% reduction in fuel burn. Delta Air Lines received the first Next-Gen 737 model with this brake package, a 737-700, at the end of July 2008.
+The CFM56-7B Evolution nacelle began testing in August 2009 to be used on the new 737 PIP (Performance Improvement Package) due to enter service mid-2011. This new improvement is said to shave at least 1% off the overall drag and have some weight benefits. Overall, it is claimed to have a 2% improvement on fuel burn on longer stages.
+
+Enhanced Short Runway Package
+This short-field design package is an option on the 737-600, -700, and -800 and is standard equipment for the new 737-900ER. These enhanced short runway versions could increase pay or fuel loads when operating on runways under 5,000 feet (1,500 m). Landing payloads were increased by up to 8,000 lb on the 737-800 and 737-900ER and up to 4,000 lb on the 737-600 and 737-700. Takeoff payloads were increased by up to 2,000 lb on the 737-800 and 737-900ER and up to 400 lb on the 737-600 and 737-700.
+The package includes:
+
+A winglet lift credit, achieved through additional winglet testing, that reduces the minimum landing-approach speeds.
+Takeoff performance improvements such as the use of sealed leading-edge slats on all takeoff flap positions, allowing the airplane to climb more rapidly on shorter runways.
+A reduced idle thrust transition delay between approach and ground-idle speeds, which improves stopping distances and increases field-length-limited landing weight
+Increased flight-spoiler deflection from 30 degrees to 60 degrees, improving aerodynamic braking on landing.
+A two-position tail skid at the rear of the aircraft to protect against inadvertent tailstrikes during landing, which allows higher aircraft approach attitudes and lower landing speeds
+The first enhanced version was delivered to Gol Transportes Aéreos (GOL) on July 31, 2006. At that time, twelve customers had ordered the package for more than 250 airframes. Customers include: GOL, Alaska Airlines, Air Europa, Air India, Egyptair, GE Commercial Aviation Services (GECAS), Hapagfly, Japan Airlines, Pegasus Airlines, Ryanair, Sky Airlines and Turkish Airlines.
+
+Structural problems
+In 2005, three ex-Boeing employees filed a lawsuit on behalf of the U.S. government, claiming that dozens of 737NG contained defective structural elements supplied by airframe manufacturer Ducommun, allegations denied by Boeing. The federal judge presiding the case sided with Boeing, and a subsequent court of appeal also ruled in favor of the company. A 2010 documentary by Al Jazeera alleged that in three crashes involving 737NGs—Turkish Airlines Flight 1951, American Airlines Flight 331, and AIRES Flight 8250—the fuselage broke up following impact with the ground because of the defective structural components that were the subject of the 2005 lawsuit. However, the accident investigations in all three cases did not highlight any link between post-impact structural failures and manufacturing issues.
+During an inspection of a 737NG in 2019 that had 35,000 flights, fatigue cracks were found on a fuselage-to-wing attachment known as a "pickle fork", designed to last a lifetime of 90,000 flights. Boeing reported the issue to the FAA at the end of September 2019, and more planes showed similar cracking after inspection. The cracks were found in an airliner with more than 33,500 flights, when it was stripped down for conversion to freighter. Aircraft with more than 30,000 flights (15 years at 2,000 flights per year) should be inspected within one week, while those with over 22,600 flights (11 years) should be inspected within one year. The FAA Airworthiness Directive (AD) was issued on October 3, 2019.
+Of the 500 first inspected aircraft, 5% (25) had cracks and were grounded; Boeing expected to repair the first aircraft three weeks after the issuance of the directive, serving as the template for the resulting Service bulletin. Of the 810 examined aircraft over 30,000 cycles, 38 had structural cracks (4.7%), leaving 1,911 737NGs over 22,600 cycles to be inspected within their next 1,000 cycles, i.e., nearly all of the US in-service fleet of 1,930.
+By early November, 1,200 aircraft were inspected, with cracks on about 60 (5%).
+Cracks were discovered near fasteners outside the original area in four airplanes.
+On November 5, Boeing recommended expanding the checks to include them, to be mandated in a November 13 FAA AD.
+Aircraft below 30,000 cycles were to be reinspected within 1,000 cycles, within 60 days above.
+About one-quarter of the global NG fleet of 6,300 aircraft were to be inspected.
+Following the contained engine failure of the Southwest Airlines Flight 1380 on April 17, 2018, the National Transportation Safety Board (NTSB) recommended on November 19, 2019, to redesign and retrofit its nacelle for the 6,800 airplanes in service.
+
+Production
+Boeing was to increase 737 production from 31.5 units per month in September 2010 to 35 in January 2012 and to 38 units per month in 2013.
+Production rate was 42 units per month in 2014, and was planned to reach rates of 47 units per month in 2017 and 52 units per month in 2018.
+In 2016, the monthly production rate was targeted to reach 57 units per month in 2019, even to the factory limit of 63 units later. A single airplane was then produced in the Boeing Renton Factory in 10 days, less than half what it was a few years before. The empty fuselage from Spirit AeroSystems in Wichita, Kansas, enters the plant on Day 1. Electrical wiring is installed on Day 2 and hydraulic machinery on Day 3. On Day 4 the fuselage is crane-lifted and rotated 90 degrees, wings are mated to the airplane in a six-hour process, along with landing gear, and the airplane is again rotated 90 degrees. The final assembly process begins on Day 6 with the installation of airline seats, galleys, lavatories, overhead bins, etc. Engines are attached on Day 8 and it rolls out of the factory for test flights on Day 10.
+Boeing stopped assembling passenger 737NGs in 2019. The last aircraft assembled was a 737-800 registered PH-BCL delivered to KLM in December 2019; the last two deliveries were to China Eastern Airlines on January 5, 2020. Production of the P-8 Poseidon variant continues.
+The FAA has proposed a fine of approximately $3.9 million for Boeing's alleged installation of the same faulty components of the 737 MAX on some 133 737 NGs.
+
+Further developments
+From 2006, Boeing discussed replacing the 737 with a "clean sheet" design (internally named "Boeing Y1") that could follow the Boeing 787 Dreamliner. A decision on this replacement was postponed, and delayed into 2011.
+In 2011, Boeing launched the 737 MAX, an updated and re-engined version of the 737NG with more efficient CFM International LEAP-1B engines, and aerodynamic changes with distinctive split-tip winglets. The first 737 MAX performed its first flight in January 2016. The fourth generation 737 MAX supersedes the third generation 737NG.
+Split Scimitar winglets became available in 2014 for the 737-800, 737-900ER, BBJ2 and BBJ3, and in 2015 for the 737-700, 737-900 and BBJ1.  These resemble the 737 MAX's split winglet, though they are not identical.  Split Scimitar winglets were developed by Aviation Partners, the same Seattle-based corporation that developed the blended winglets; the Split Scimitar winglets produce up to a 5.5% fuel savings per aircraft compared to 3.3% savings for the blended winglets. Southwest Airlines flew their first flight of a 737-800 with Split Scimitar winglets on April 14, 2014.
+
+Design
+The wing was redesigned with a new thinner airfoil section, and a greater chord and increased wing span (by 16 ft 4.9 m) increased the wing area by 25%, which also increased total fuel capacity by 30%. New quieter and more fuel-efficient CFM56-7B engines are used. Higher MTOWs are offered. The 737NG includes redesigned vertical stabilizers, and winglets are available on most models.
+The 737NG encompasses the -600, -700, -800, and -900 with improved performance and commonality retained from previous 737 models. The wing, engine, and fuel capacity improvements combined increase the 737's range by 900 nautical miles nmi (1,700 km; 1,000 mi) to over 3,000 nmi (5,600 km; 3,500 mi), permitting transcontinental service.
+The Speed Trim System, introduced on the 737 Classic, has been updated for the 737NG to include a stall identification function. Originally inhibited in high alpha scenarios, STS operates at any speed on the 737NG. STS is triggered by airspeed sensor and commands Airplane Nose Down as the airplane slows down.
+
+Interior
+The flight deck was upgraded with modern avionics, and passenger cabin improvements similar to those on the Boeing 777, including more curved surfaces and larger overhead bins than previous-generation 737s. The Next Generation 737 interior was also adopted on the Boeing 757-300. This improved on the previous interior of the Boeing 757-200 and the Boeing 737 Classic variants, the new interior became optional on the 757-200.
+In 2010, new interior options for the 737NG included the 787-style Boeing Sky Interior. It introduced new pivoting overhead bins (a first for a Boeing narrow-body aircraft), new sidewalls, new passenger service units, and LED mood lighting. Boeing's newer "Space Bins" can carry 50 percent more than the pivoting bins, thus allowing a 737-800 to hold 174 carry-on bags. Boeing also offered it as a retrofit for older 737NG aircraft.
+
+Variants
+737-600
+The 737-600 was launched by SAS in March 1995, with the first aircraft delivered in September 1998. A total of 69 have been produced, with the last aircraft delivered to WestJet in 2006. Boeing displayed the 737-600 in its price list until August 2012. The 737-600 replaces the 737-500 and is similar to the Airbus A318. Winglets were not an option. WestJet was to launch the -600 with winglets, but dropped them in 2006.
+
+737-700
+In November 1993, Southwest Airlines launched the Next-Generation program with an order for 63 737-700s and took delivery of the first one in December 1997. It replaced the 737-300, typically seating 126 passengers in two classes to 149 in all-economy configuration, similar to the Airbus A319.
+In long-range cruise, it burns 4,440 lb (2,010 kg) per hour at Mach 0.785 (450 kn; 834 km/h) and FL410, increasing to 4,620–4,752 lb (2,096–2,155 kg) at Mach 0.80 – Mach 0.82 (459–470 kn; 850–871 km/h).
+As of July 2018, all -700 series on order, 1,128 -700, 120 -700 BBJ, 20 -700C, and 14 -700W aircraft, have been delivered. By June 2018, around one thousand were in service: half of them with Southwest Airlines, followed by WestJet with 56 and United Airlines with 39. The value of a new -700 stayed around $35 million from 2008 to 2018. A 2003 aircraft was valued for $15.5 million in 2016 and $12 million in 2018 and will be scrapped for $6 million by 2023.
+The 737-700C is a convertible version where the seats can be removed to carry cargo instead. There is a large door on the left side of the aircraft. The United States Navy was the launch customer for the 737-700C under the military designation C-40 Clipper.
+
+737-700ER
+Boeing launched the 737-700ER (Extended Range) on January 31, 2006, with All Nippon Airways as the launch customer. Inspired by the Boeing Business Jet, it features the fuselage of the 737-700 and the wings and landing gear of the 737-800. When outfitted with nine auxiliary fuel tanks, it can hold 10,707 US gallons (40,530 L; 8,915 imp gal) of fuel with a 171,000-pound (78,000 kg) MTOW, but with a cargo payload capacity significantly decreased from 966 to 165 cu ft (27.4 to 4.7 m3), trading payload for increased range of 5,775 nmi (10,695 km; 6,646 mi). The first was delivered on February 16, 2007, to ANA with 24 business-class and 24 premium-economy seats only. A 737-700 can typically accommodate 126 passengers in two classes. It is similar to the Airbus A319LR.
+
+737-800
+The Boeing 737-800 is a stretched version of the 737-700. It replaced the 737-400 and competes primarily with the Airbus A320. The 737-800 seats 162 passengers in a two-class layout or 189 passengers in a one-class layout. The 737−800 was launched on September 5, 1994. Launch customer Hapag-Lloyd Flug (now TUI fly Deutschland) received the first one in April 1998.
+Following Boeing's merger with McDonnell Douglas, the 737-800 also filled the gap left by Boeing's decision to discontinue the McDonnell Douglas MD-80 and MD-90 aircraft. For many airlines in the U.S., the 737-800 replaced aging Boeing 727-200 trijets.
+The 737-800 burns 850 US gallons (3,200 L) of jet fuel per hour—about 80 percent of the fuel used by an MD-80 on a comparable flight, while carrying more passengers. The Airline Monitor, an industry publication, quotes a 737-800 fuel burn of 4.88 US gal (18.5 L) per seat per hour, compared to 5.13 US gal (19.4 L) for the A320. In 2011, United Airlines— flying a Boeing 737-800 from Houston to Chicago—operated the first U.S. commercial flight powered by a blend of algae-derived biofuel and traditional jet fuel to reduce its carbon footprint.
+In early 2017, a new 737-800 was valued at $48.3 million, falling to below $47 million by mid-2018. By 2025, a 17-year-old 737-800W will be worth $9.5 million and leased for $140,000 per month.
+As of May 2019, Boeing had delivered 4,979 737-800s, 116 737-800As, and 21 737-800 BBJ2s, and has twelve 737-800 unfilled orders. The 737-800 is the best-selling variant of the 737NG and is the most widely used narrow-body aircraft. Ryanair, an Irish low-cost airline, is among the largest operators of the Boeing 737-800, with a fleet of over 400 of the -800 variant serving routes across Europe, Middle East, and North Africa.
+
+737-800BCF
+In February 2016, Boeing launched a passenger-to-freighter conversion program, with converted aircraft designated as 737-800BCF (for Boeing Converted Freighter). Boeing started the program with orders for 55 conversions, with the first converted aircraft due for late 2017 delivery. The first converted aircraft was delivered to West Atlantic in April 2018.
+At the 2018 Farnborough Airshow, GECAS announced an agreement for 20 firm orders and 15 option orders for the 737-800BCF, raising the commitment to 50 aircraft. Total orders and commitments include 80 aircraft to over half a dozen customers.
+Since early 737NG aircraft become available on the market, they have been actively marketed to be converted to cargo planes via the Boeing Converted Freighter design because the operational economics are attractive due to the low operating costs and availability of certified pilots on a robust airframe.
+Modifications to the 737-800 airframe include installing a large cargo door, a cargo handling system, and additional accommodations for non-flying crew or passengers. The aircraft is designed to fly up to 1,995 nmi (3,695 km; 2,296 mi) at a MTOW of 174,100 lb (79,000 kg).
+
+737-800SF
+In 2015, Boeing launched the 737-800SF passenger to freighter conversion program with Aeronautical Engineers Inc (AEI). The conversion can be completed by AEI or third parties such as HAECO. GECAS was the initial customer. It has a 52,800-pound (23,900 kg) payload capacity, and a range of 2,000 nautical miles (3,700 km; 2,300 mi). It received its supplemental type certificate from the FAA in early 2019. In March 2019, the first AEI converted aircraft was delivered to Ethiopian Airlines on lease from GECAS. The Civil Aviation Administration of China cleared it in January 2020. Aircraft lessor Macquarie AirFinance ordered four 737-800SFs in March 2021.
+
+737-900
+Boeing later introduced the 737-900, an even longer variant stretched to 138 ft 2 in (42.11 m). Because the −900 retains the same exit configuration of the -800, seating capacity is limited to 189, although aircraft equipped with a typical 2-class layout will seat approximately 177. The 737-900 also retains the MTOW and fuel capacity of the −800, trading range for payload. Alaska Airlines launched the 737-900 in 1997, the 737-900 made its first flight on August 3, 2000, and Alaska Airlines accepted the delivery on May 15, 2001. The type proved unpopular, with only 52 delivered, before being replaced by the improved 737-900ER.
+
+737-900ER
+The 737-900ER (Extended Range), which was called the 737-900X before launch, was the final and largest variant of the Boeing 737 NG line. It was introduced to fill the range and passenger capacity gap in Boeing's product offerings after the 757-200 was discontinued, address the shortcomings of the 737-900, and to directly compete with the Airbus A321. 
+Up to two auxiliary fuel tanks in the cargo hold and standard winglets improved the range of the stretched jet to that of other 737NG variants, while an additional pair of exit doors and a flat rear pressure bulkhead increased maximum seating capacity to 220 passengers. Airlines may deactivate (plug) the additional exit doors if the total configured capacity of the plane is 189 passengers or less.
+The first 737-900ER was rolled out of the Renton, Washington, factory on August 8, 2006, for its launch customer, Lion Air, an Indonesian low-cost airline. The airline received this aircraft on April 27, 2007, in a special dual paint scheme combining Lion Air's logo on the vertical stabilizer and Boeing's livery colors on the fuselage. A total of 505 -900ERs were delivered.
+
+Military models
+Boeing 737 AEW&C: The Boeing 737 AEW&C is a 737-700IGW roughly similar to the 737-700ER. This is an airborne early warning and control (AEW&C) version of the 737NG. Australia was the first customer (as Project Wedgetail), followed by Turkey, South Korea, the United Kingdom, and the United States.
+C-40 Clipper: The C-40A Clipper is a 737-700C used by the U.S. Navy as a replacement for the C-9B Skytrain II. The C-40B and C-40C are based on the BBJ (see below) and used by the U.S. Air Force for transport of generals and other senior leaders.
+P-8 Poseidon: The P-8 is a 737-800ERX ("Extended Range") that was selected by the US Navy on June 14, 2004, to replace the Lockheed P-3 Orion maritime patrol aircraft. The P-8 is unique in that it has 767-400ER-style raked wingtips instead of the blended winglets available on 737NG variants. The P-8 is designated 737-800A by Boeing.
+
+Boeing Business Jet
+In the late 1980s, Boeing marketed the Boeing 77-33 jet, a business jet version of the 737-300. The name was short-lived. After the introduction of the next generation series, Boeing introduced the Boeing Business Jet (BBJ). The BBJ (retroactively referred to as the BBJ1) was similar in dimensions to the 737-700 but had additional features, including stronger wings and landing gear from the 737-800, and has increased range (through the use of extra fuel tanks) over the other various 737 models. The first BBJ rolled out on August 11, 1998, and flew for the first time on September 4. A total of 113 BBJ1s were delivered to customers.
+On October 11, 1999, Boeing launched the BBJ2. Based on the 737-800, it is 19 ft 2 in (5.84 m) longer than the BBJ1, with 25% more cabin space and twice the baggage space, but with slightly reduced range. It is also fitted with auxiliary fuel tanks in the cargo hold and winglets. The first BBJ2 was delivered on February 28, 2001. A total of 23 BBJ2s were delivered to customers.
+The BBJ3 aircraft is based on the 737-900ER aircraft. The BBJ3 is approximately 16 feet (4.9 m) longer than the BBJ2 and has a slightly shorter range. Seven BBJ3s were delivered to customers.
+
+Operators
+As of July 2018, 6,343 Boeing 737 Next Generation aircraft were in commercial service. This comprised 69 -600s, 1,027 -700s, 4,764 -800s and 513 -900s.
+
+Orders and deliveries
+Data as of September 2024
+
+Accidents and incidents
+The Boeing 737 Next Generation series has been involved in 22 hull-loss accidents and 13 hijackings, for a total of 767 fatalities, according to the Aviation Safety Network, as of January 2020. An analysis by Boeing of commercial airplane accidents in the period 1959–2017 showed that the Next Generation series had a hull loss rate of 0.17 per million departures compared to 0.71 for the classic series and 1.75 for the original series. The deadliest occurrence for a 737NG is Ukraine International Airlines Flight 752 that was shot down after takeoff on January 8, 2020, in Iran, killing all 176 passengers and crew.
+
+Specifications
+See also
+Competition between Airbus and Boeing
+Related development
+
+Boeing 737
+Boeing 737 AEW&C
+Boeing 737 Classic
+Boeing 737 MAX
+Boeing Business Jet
+Boeing C-40 Clipper
+Boeing P-8 Poseidon
+Boeing T-43
+Aircraft of comparable role, configuration, and era
+
+Airbus A320 family
+Boeing 717
+Boeing 757
+Airbus A220/Bombardier CSeries
+Comac C919
+Embraer 195
+McDonnell Douglas MD-90
+
+Related lists
+
+List of aircraft
+
+References
+Notes
+Citations
+Bibliography
+External links
+
+737 page on Boeing.com
+Brady, Chris (September 12, 2016). The Boeing 737 Technical Guide. Lulu.com. ISBN 978-1447532736.

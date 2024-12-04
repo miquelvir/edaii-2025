@@ -1,0 +1,27 @@
+278
+Annual plant
+An annual plant is a plant that completes its life cycle, from germination to the production of seeds, within one growing season, and then dies. Globally, 6% of all plant species and 15% of herbaceous plants (excluding trees and shrubs) are annuals. The annual life cycle has independently emerged in over 120 different plant families throughout the entire angiosperm phylogeny.
+
+The evolutionary and ecological drivers of the annual life cycle
+Traditionally, there has been a prevailing assumption that annuals have evolved from perennial ancestors. However, recent research challenges this notion, revealing instances where perennials have evolved from annual ancestors. Intriguingly, models propose that transition rates from an annual to a perennial life cycle are twice as fast as the reverse transition.
+The life-history theory posits that annual plants are favored when adult mortality is higher than seedling (or seed) mortality, i.e., annuals will dominate environments with disturbances or high temporal variability, reducing adult survival. This hypothesis finds support in observations of increased prevalence of annuals in regions with hot-dry summers, with elevated adult mortality and high seed persistence. Furthermore, the evolution of the annual life cycle under hot-dry summer in different families makes it one of the best examples of convergent evolution. Additionally, annual prevalence is also positively affected by year-to-year variability.
+Globally, the prevalence of annual plants shows an upward trend with an increasing human footprint. Moreover, domestic grazing has been identified as contributing to the heightened abundance of annuals in grasslands. Disturbances linked to activities like grazing and agriculture, particularly following European settlement, have facilitated the invasion of annual species from Europe and Asia into the New World.
+In various ecosystems, the dominance of annual plants is often a temporary phase during secondary succession, particularly in the aftermath of disturbances. For instance, after fields are abandoned, annuals may initially colonize them but are eventually replaced by long-lived species. However, in certain Mediterranean systems, a unique scenario unfolds: when annuals establish dominance, perennials do not necessarily supplant them. This peculiarity is attributed to alternative stable states in the system—both annual dominance and perennial states prove stable, with the ultimate system state dependent on the initial conditions.
+
+Traits of annuals and their implication for agriculture
+Annual plants commonly exhibit a higher growth rate, allocate more resources to seeds, and allocate fewer resources to roots than perennials. In contrast to perennials, which feature long-lived plants and short-lived seeds, annual plants compensate for their lower longevity by maintaining a higher persistence of soil seed banks. These differences in life history strategies profoundly affect ecosystem functioning and services. For instance, annuals, by allocating less resources belowground, play a more minor role in reducing erosion, storing organic carbon, and achieving lower nutrient- and water-use efficiencies than perennials.
+The distinctions between annual and perennial plants are notably evident in agricultural contexts. Despite constituting a minor part of global biomass, annual species stand out as the primary food source for humankind, likely owing to their greater allocation of resources to seed production, thereby enhancing agricultural productivity. In the Anthropocene epoch, marked by human impact on the environment, there has been a substantial increase in the global cover of annuals. This shift is primarily attributed to the conversion of natural systems, often dominated by perennials, into annual cropland. Currently, annual plants cover approximately 70% of croplands and contribute to around 80% of worldwide food consumption.
+
+Molecular genetics
+In 2008, it was discovered that the inactivation of only two genes in one species of annual plant leads to its conversion into a perennial plant. Researchers deactivated the SOC1 and FUL genes (which control flowering time) of Arabidopsis thaliana. This switch established phenotypes common in perennial plants, such as wood formation.
+
+See also
+Biennial plant – Flowering plant that takes two years to complete its biological life cycle
+Perennial plant – Plant that lives for more than two years
+Monocarpic plant – Plants that flower and set seeds only once - Plant that flowers & sets seeds once, then dies.
+Ephemeral plant
+
+References
+
+
+== External links ==

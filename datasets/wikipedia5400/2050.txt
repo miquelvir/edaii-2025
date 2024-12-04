@@ -1,0 +1,182 @@
+2050
+Blood Bowl
+Blood Bowl is a miniatures board game created by Jervis Johnson for the British games company Games Workshop as a parody of [American football](1197). The game was first released in 1986 and has been re-released in new editions since. Blood Bowl is set in an alternate version of the Warhammer Fantasy setting, populated by traditional fantasy elements such as human warriors, goblins, dwarves, elves, orcs, and trolls, as well as elements unique to the setting such as the rat-like Skaven.
+In late 2016, Games Workshop released a new version of the game – the first in 22 years. It featured a double sided board and new plastic miniatures.
+In November 2020, Games Workshop released a new version of the game, titled Blood Bowl Second Season Edition, which included miniatures for two teams and referees, a board (pitch), templates and the rule book. The rule book was also available separately, both physically and digitally. Cyanide Studio confirmed that the next videogame adaptation, Blood Bowl 3, would use the new ruleset.
+
+Gameplay
+Blood Bowl is a two-player, turn-based board game that typically uses 28 mm miniatures to represent a contest between two teams on a playing field. A board containing a grid overlay represents the field. Using dice, cards, and counters, the players attempt to score higher than each other by entering the opponent's end zone with a player who possesses the ball.
+The "Blood" in Blood Bowl is represented by the violent actions available to players. Game play is based on a hybrid of gridiron football and Rugby. Players may attempt to injure or maim the opposition in order to make scoring easier by reducing the number of enemy players on the field.
+The player races are drawn from the ranks of fantasy races and have characteristics that reflect the abilities of those races. Elves tend to be agile and good at scoring, while dwarfs and orcs are more suited to a grinding, physical style of play.
+All teams offer a choice between player types with different statistics: related races (e.g. skeletons and zombies in undead teams, various lizardmen types), guests of allied races (e.g. trolls in orc and goblin teams), exotic or monstrous units (e.g. ghouls, wights and mummies in undead teams), and specialists of different roles (usually some combination of Blockers, Blitzers, Throwers, Catchers, Runners and Linemen).
+Teams can include any number of players of the most basic type (usually Linemen), while the stronger units are limited to 1, 2, 4 or 6 per team.
+In league play, players gain additional skills and abilities based on their accumulation of experience points. Players face potential injury or even death on the field throughout their careers. Teams improve by the purchase of off-field staff such as cheerleaders, assistant coaches, and apothecaries. Disparity between team values is offset by the purchase of ad-hoc star players or mercenaries, as well as bribes and additional temporary support staff, such as wizards or a halfling cook.
+
+Rules
+Teams consist of eleven to sixteen players, of which eleven are allowed on the pitch at any one time. Each player is represented by an appropriate miniature and has statistics and skills that dictate their effect on play. To avoid confusion, the human playing the game is always referred to as the "coach" and never the player. There are five player statistics as of the 2020 Season 2 update:
+
+MA (Move Allowance) indicates how fast the player is.
+ST (Strength) indicates the player's basic fighting ability.
+AG (Agility) indicates how well the player handles the ball and evades opposing players.
+AV (Armour Value) indicates how difficult it is to injure the player.
+PA (Passing) indicates how well the player can throw the ball. This is the only stat which some players do not possess.
+In addition, players may have special skills that affect any number of circumstances in play. Some of the more commonly used skills are Block (for fighting), Dodge (for dodging out of an opponent's tackle zone), Sure Hands (for picking up the ball), Pass (for throwing the ball), and Catch (for catching the ball). These skills are not necessary to perform their corresponding actions, but will give the player an advantage.
+In their turn, a coach may have each player take one of the following actions:
+
+Move – Move the player through empty squares (opposing players may try to trip the moving player if they move close to them).
+Block – Fight an adjacent opposing player who is standing.
+In addition, the following four actions may be taken by one player per team turn:
+
+Blitz – Move and then Block an adjacent opposing player who is standing (or Block and then Move).
+Foul – Move and then foul an adjacent opposing player who is prone (or just foul an adjacent player who is prone).
+Pass – Move and then throw the ball (or just throw the ball). In certain circumstances, players may instead throw their own teammates with this action, who may or may not be carrying the ball – for instance an Ogre might throw a Goblin teammate.
+Hand-Off – Move and then give the ball to an adjacent player (or just give the ball to an adjacent player).
+Some skills also allow for special player actions.
+Teams, and in a few cases players, have a limited stock of "re-rolls" which can be used to re-take failed rolls (not more than once per turn in the original rule-set of the game).
+Whenever a player action fails (except throw teammate (unless also carrying the ball)), a "turnover" occurs: the team turn ends immediately, and the opposing team begins theirs. This turnover rule is arguably the defining feature of Blood Bowl. It sustains tension throughout the turn, rewards effective planning by coaches who seek to prioritise actions which are the most vital to improving their position, and can result in dramatic moments from unexpected outcomes. Further, a turnover automatically occurs after 4 minutes of play, to encourage fast-paced play.
+Just as Blood Bowl has rules to encompass fouls and other forms of cheating by players, so too do the rules involve in-game consequences for actions by players that in most games would be considered either neutral book-keeping or downright cheating. For instance, players are responsible for policing each other's accounting for game turns; failing to move the turn marker at the start of one's turn is an "illegal procedure" which costs one of the offending team's valuable re-roll counters. Along the same lines, in some editions coaches are welcome to attempt to set up with more than 11 players on the pitch, and it is down to the other coach to spot this behaviour.  Other rules are strictly off-limits.
+
+Teams
+Each team represents one race (or closely linked group of races) based on those present in Warhammer Fantasy Battle, though Blood Bowl has a more extensive roster of races including a number that were only briefly, or never, supported in Warhammer.
+The game box supplies the coaches with players enough to field human and orc teams, which are also the teams recommended to newcomers for ease of learning. Teams may also contain individuals who are not part of the group of players used on the pitch, e.g. cheerleaders.
+Each race plays differently, thanks to the different skills and characteristics of the players on offer. For instance, Dwarves, Orcs, Chaos and Undead teams all tend towards a blocking-heavy style of play, grinding down the opposing team as far as possible. Elves, by contrast, tend to have high Agility and plentiful movement, passing and dodging skills, so are more suited to avoiding contact while scoring through running and passing plays. Some teams pose challenges for experienced coaches because of inbuilt imbalances. For instance the Lizardmen team has a mixture of fast-moving Skinks and slow, heavy Sauruses, the challenge for the player being to make good use of these two complementary player types; the Halfling team is mainly composed of Halflings, who on the face of things are entirely incompetent thanks to being weak, slow, and unskilled, but can nonetheless be played effectively
+The different races progress at different rates, with some having peaks at certain experience levels.
+The most recent, official edition of the game, published in November 2020 has rules for playing the following teams:
+Official Rule Book
+
+Amazon
+Black Orc
+Chaos Chosen
+Chaos Renegade
+Dark Elf
+Dwarf
+Elven Union
+Goblin
+Halfling
+Human
+Imperial Nobility
+Khorne
+Lizardman
+Necromantic Horror
+Norse
+Nurgle
+Ogre
+Old World Alliance
+Orc
+Shambling Undead
+Skaven
+Snotling
+Underworld Denizens
+Wood Elf
+Teams of Legend, supplemental PDF
+
+Chaos Dwarf
+High Elf
+Tomb Kings
+Vampire
+
+Background
+The Blood Bowl universe has its own fictional background story which establishes the tone and spirit of the game. Additional background exists to describe the demeanour and character of the Blood Bowl players with frequent reference to rule breaking and excessive violence in a lighthearted manner. The over-the-top nature of the game is reflected through the game's mechanics, including the use of stylised secret weapons ranging from chainsaws to spiked steamrollers, the ability for large teammates to throw small teammates down field (even while they possess the ball), as well as in-game effects like fans throwing rocks and injuring players prior to kickoff.
+Blood Bowl includes numerous tongue in cheek references to real life products and companies. The deity overseeing Blood Bowl is Nuffle – a pun on the pronunciation of NFL. The game spoofs at least four real-world trademarks, including McDonald's (McMurty's), Budweiser (Bloodweiser), [Adidas](1829) (Orcidas), and Gatorade (Kroxorade). Many team names in the game's background are spoofs as well such as the Orcland Raiders (Oakland Raiders) and the Darkside Cowboys (Dallas Cowboys). Famous sporting personalities are parodied as well, with the most famous (and oldest) coach in Blood Bowl's background being Tomolandry the Undying (Tom Landry), and one of the most recently added stars being the Ogre thrower, Brick Far'th (Brett Favre).
+With the advent of the 3rd edition, Blood Bowl moved closer to the traditional Warhammer Fantasy Battle world by changing the miniatures to look more similar to their Warhammer Fantasy Battle counterparts. Jervis Johnson, designer of the game, has admitted this was not the best direction for the game, and has since stated that the Blood Bowl world is similar to, but definitely not the same as, the Warhammer world. Recent changes to the rules reflect this, and newer miniatures for the game look more sporty in nature.
+
+History
+Blood Bowl has evolved through a series of rules revisions, boxed set releases, and electronic media.
+
+First Edition
+Released in 1986, the first edition of Blood Bowl was a simple game that used many of the elements of Games Workshop's existing tabletop games. Players in the first edition boxed set were represented by small pieces of cardboard illustrated with their likeness. Citadel Miniatures did release metal miniatures to represent players for 1st edition.
+The pitch of this editions consists of six interlocking cardboard sections (end zones and centre, split in halves) with squares marked by white lines.
+In 1982, TSR published a game called Monsters of the Midway which was very similar in concept to Blood Bowl but significantly different in-game play. Discussions with Jervis Johnson at the Chaos Cup tournament in 2006 revealed that he had never seen Monsters of the Midway until after Blood Bowl was published and that the concept of a fantasy football board game was simply a concept whose time had come in the 1980s.
+
+Second Edition
+The second edition of Blood Bowl, released in 1988, began to move Blood Bowl away from the battlefield mechanics of other Games Workshop systems and toward more brutal sports-oriented play. The game included plastic 28 mm miniatures of Orcs and Humans, with another set of metal miniatures available from Citadel Miniatures to represent most (but not all) of the other races.
+The pitch of this edition consists of three thick, gray polystyrene boards (end zones and centre), with squares marked by grooves.
+Games Workshop later provided a boxed supplement, Dungeonbowl, dealing with subterranean play and dwarvish and elvish teams, and, later, two source books, Blood Bowl Star Players (1989) and the Blood Bowl Companion (1990), which added to the basic rules, creating games with greater variation which could easily last several hours.
+
+Kerrunch
+In 1991, Games Workshop released Kerrunch, a light version of Blood Bowl, developed by Andy Jones. It was released along with Mighty Warriors, Ultra Marine and Space Fleet, and was predominantly aimed at the younger gamer as an introduction to the Games Workshop hobby.  The rules are a simplified version of those from Blood Bowl's second edition. The game came with 24 plastic miniatures, and is considered a collector's item.
+
+Third Edition
+A new edition was released in 1994, radically changing the game play from the complex, lengthy second edition game to the simpler, more dramatic third edition game. Key changes were a set number of turns and the turnover rule. These changes increased the pace of the game and allowed it to be played within the span of around 2 hours.
+The third edition also featured a completely new range of miniatures, including new versions of plastic 28 mm humans and orcs in the boxed set. The new range closely resembled Warhammer Fantasy Battle miniatures. Combined with the newly available races mirroring Warhammer armies, Blood Bowl moved much closer to Warhammer Fantasy Battle. In 1995, the Third Edition Blood Bowl won the Best Miniatures Rules of 1994 Origins Award.
+The pitch of this edition consists of a cardboard foldable board, with squares marked by black crosses at the corners.
+
+Fourth Edition, rule updates and Living Rulebook
+Jervis Johnson produced a new official Fourth Edition of the Blood Bowl rules and presented it in the Fanatic Games' Official Blood Bowl magazine issue 1, with follow-up rules presented in issue 2. The new rules were a large departure from the previous edition with numerous changes, and Johnson later admitted that, "some of the changes would have benefited from rather more rigorous playtesting".
+In 2001 the 4th edition rules, with corrections and retitled 4th Edition Gold, were placed on the Games Workshop website as a downloadable PDF file, and Johnson announced that the rules were now "experimental" and announced the creation of the Blood Bowl Rules Committee (BBRC), a group of Blood Bowl players, some GW staff, most not, that would look at the rules once a year and produce new official rules changes and experimental rules for possible inclusion in the future rules changes. The BBRC would meet in October each year, and their first release was the Living Rule Book 1 (LRB1) PDF.
+Physically released in 2002, the fourth edition of the game is almost identical to the third edition, with all pieces remaining the same.  Distinguishable elements include the 2002 copyright date and the editorial change from two rulebooks for the third edition, ("Handbook" for core rules and "DeathZone" for background information and alternate / optional advanced rules), to a single "Handbook" with the same material for the fourth edition.
+All LRB updates included clarified or rewritten rules, coverage of previously unclear special cases, and game balance adjustments to skills, team lists, star players, cost and availability of star players and other special characters, etc.
+
+LRB1 (2002) changed core rules about referees spotting fouls and use of wizards and league rules about player ageing (new) and the handicap system (overhauled from receiving extra Special Play cards to random choice on a table of favourable events).
+LRB2 (2003) contained small changes, with some focus on the rules for passing and intercepting the ball.
+LRB3 (2004) contained small changes.
+LRB4 (2005) rule changes enforced the minimum team size of 11 and make other minor improvements. Vampire and Ogre teams become official and the respective player skills were added. Handicaps were changed by removing half the possible random results because they had various issues.
+LRB5 (2006) changes cases of "turnover" (premature end of a player's turn), handling of stunned players and many parts of league rules: the sections about tournaments and playoffs was expanded, "spiralling expenses" were introduced as a way to handicap strong teams in the long term, post-game procedures were completely rewritten, random handicap rolls were replaced by "inducements" (the lower value team gets a budget to pay temporary players and other benefits), rules for post-game player improvements and results were modified, players can put team money in a "bank" (so that saved money doesn't count towards team value).
+In 2007 the BBRC approved Slann, Chaos Pact and Underworld teams, but they were not included in the subsequent official LRB/CRP releases for lack of official miniatures.
+LRB6 drafts, later re-edited as CRP (2009), contained small rule changes but significant changes to teams, star players and skills.
+The Living Rulebook, in its sixth edition was said by the BBRC to be the final version, and was available from the official Blood Bowl site under the name "Blood Bowl Competition Rules Pack" or "CRP". Originally there were plans to release a printed version for Blood Bowl's 20th anniversary, but that was cancelled. With the release of the CRP the BBRC was disbanded.
+
+Blood Bowl 2016 Edition
+In November 2015, Games Workshop announced the reintroduction of Specialist Games, and announced a new version of Blood Bowl was in development. At Warhammer Fest in May 2016, various elements of the new edition were announced, including a double sided pitch, all new plastic miniatures and an initial wave of teams (Humans, Orcs, Skaven, Elves, Nurgle and Dwarf) with future expansions in development to add more teams to the game (including a new release of Goblins).
+
+Blood Bowl Second Season Edition (2020)
+The current version of the game, released on 27 November 2020. It includes a hardback rulebook, miniatures for two teams (Imperial Nobility and Black Orc), a pair of referee miniatures, a double-sided pitch, two dugouts, two sets of dice, and templates, tokens, and counters. The rule book is also available separately, both physically and digitally.
+
+Leagues and tournaments
+League play is the foundation upon which Blood Bowl games are based. There are many kinds of league activity, but they all tie in to a general campaign where teams battle each other over a period of time, developing new abilities and suffering injuries or worse while attempting to earn the crown of league champion.
+Tournaments are one-off events where large numbers of Blood Bowl teams gather to play against each other and try to become the tournament champion. This form of play differs from a recreational league. Games Workshop held four major tournaments across the world each year. The Blood Bowl was held at Warhammer World from 2003 until 2010 at Games Workshop's HQ in Nottingham, England in the spring and attracted around 200 players to play in the two-day event. The Dungeonbowl is held in Germany, the Spike! Magazine Trophy is held in Surrey, British Columbia, Canada in early September. The Chaos Cup was held in Chicago, Illinois, United States but will be held in Orlando, Florida in November 2024. In 2010, GW announced they were going to stop running the Blood Bowl tournament, but allowed the NAF to take over the running of the event, renamed as the NAF Championship. The Chaos Cup and Spike! are also no longer run by Games Workshop.
+Numerous other events are held throughout the world at Games Workshop stores and events or independently. In January 2003, a website was opened for the purpose of helping people organise their own Blood Bowl tournaments, to promote Blood Bowl to the wargaming world, and to rank players' performance at tournaments. The organisation took the name NAF, after the fictional rules body in the Blood Bowl history. The most important Tournament in the world is the NAF WORLD CUP. The first World Cup was held in October 2007 in Nottingham, England over three days, with teams coming from as far afield as the United States and Australia. 272 players attended, making it not only the largest Blood Bowl event ever held to that date, but the largest Games Workshop related event in history. In the end, victory was awarded to a team from France, whilst a German coach won the individual coaching award. The NAF has run the World Cup every 4 years since, with numbers increasing each time. In 2011, 480 players attended in Amsterdam, Netherlands. The 2015 event in Lucca, Tuscany, Italy attracted 912 participants, and the 2019 World Cup held in Dornbirn, [Austria](1585) on 3–6 October 2019 attracted 1.428 coaches. In 2023 in Alicante (Spain) 2.232 coaches attended the V Naf World Cup.
+These are the World Cup podiums until now:
+Worldcup I - 2007 (Nottingham, England)
+Winners: Les Azes (France)
+Second Place: Aros Super Stars (Denmark)
+Third place: FranceBloodBowl (France)
+Worldcup II - 2011 (Amsterdam, Netherlands)
+Winners: Waterbowl (England)
+Second Place: Team Argentina (Denmark)
+Third place: Lutece Noobz (France)
+World Cup III - 2015 (Lucca, Italy)
+Winners: Masters of Tilea (Italy)
+Second Place: Latino Lovers (Denmark)
+Third place: Pilous (France)
+World Cup IV - 2019 (Dornbirn, [Austria](1585))
+Winners: Amicale du Push Push (France)
+Second Place: Holy Six (Italy)
+Third place: Unqualified (Germany)
+World Cup V - 2023 (Alicante, Spain)
+Winners: Les Azes (France)
+Second Place: COCORIPOW (France)
+Third place: I Predatori di Atlantide (Italy)
+Another important Tournament is the Eurobowl.
+
+Video games
+A conversion of Blood Bowl by UK company Tynesoft was reported to be in development, but the company went into bankruptcy in June 1990.
+In 1995, an MS-DOS version of Blood Bowl was developed by Strategic Simulations, Inc. and released by MicroLeague, featuring the base teams as well as many of the free agents.
+In 2004, French-based Cyanide Studio developed a game called Chaos League (and, later, a subsequent expansion Chaos League: Sudden Death) which bore a heavy resemblance to Blood Bowl in its style and rules, even though it was a real-time game (rather than turn-based, like Blood Bowl).
+Games Workshop sued over the similarities, but later announced that Cyanide Studios had been granted a license to create computer games based on Blood Bowl, and that "Any differences between Games Workshop and Cyanide have been amicably settled for an undisclosed sum, and as part of the settlement the Chaos League title has been assigned to Games Workshop". This settlement led directly to Cyanide's release of an official new version for Windows computers on 26 June 2009 (with both "classic" turn-based mode and real-time mode). The playable races in the original video game version of Blood Bowl included Dwarfs, Wood Elves, Humans, Goblins, Orcs, Chaos, Skaven, and Lizardmen. With a subsequent patch, Dark Elves were added to the game as a playable race.
+On 14 November 2007, the Nintendo DS, PlayStation Portable, and Xbox 360 versions were announced. These were subsequently released, and followed very closely the tabletop rules at that time.
+On 28 October 2010, Cyanide Studios released the Legendary Edition of Blood Bowl for PC only, called Blood Bowl: Legendary Edition. The game includes a reworked interface in the menu screens and a large number of new races added to the game, including Undead, Khemri, Norse, Elves, Halfling, Amazon, Ogre, Necromantic, Nurgle, Vampire and High Elves. This brings the total races represented to 20. The Chaos Edition released in October 2012 adds a further three races in the form of the Underworld, Chaos Dwarf, and Khorne teams, bringing the total to 23. Cyanide Studios released an adaption of Dungeonbowl in the same year.
+A sequel, Blood Bowl 2, was released in 2015.
+Another sequel, Blood Bowl 3, originally scheduled to be released in 2021, has been pushed back to 2022, and again to 2023. Closed beta started in early 2021.
+
+Comic Book
+In May 2008 Boom! Studios published Blood Bowl: Killer Contract a 5 issue mini-series written by Matt Forbeck and drawn by Lads Helloven. Storyline followed the "Bad Bay Hackers" in a grudge match against the "Orcland Raiders." The mini-series was collected into a graphic novel that was released in November 2008 as both a softcover and a hardcover.
+
+Reception
+Richard Meadows reviewed Blood Bowl for White Dwarf #85, and stated that "The combination of its presentation, and the chaos death mayhem that occurs on the pitch, makes this game very, very entertaining, and a must for all fans of [American football](1197), good old fashioned death and violence, or just having a good time."
+In the October 1988 edition of Games International (Issue 1), Brian Walker gave the game an above-average rating of 4 out of 5, calling it "Highly suitable for two players interested in [American football](1197) and gratuitous violence."
+
+Other reviews
+Adventurer (Issue 7 – Feb 1987)
+Shadis #32 (1996)
+Casus Belli #38 (June 1987)
+Casus Belli #44 (April 1988)
+Magia i Miecz (Issue 5 – 1993) (Polish)
+Rollespilsmagasinet Fønix (Danish) (Issue 3 – July/August 1994)
+Games #87
+Jeux & Stratégie #50
+Australian Realms #18
+
+References
+External links
+Blood Bowl – Games Workshop's official page

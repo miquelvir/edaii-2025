@@ -1,0 +1,108 @@
+4034
+Arthur Amos Noyes
+Arthur Amos Noyes (September 13, 1866 – June 3, 1936) was an American chemist, inventor and educator, born in Newburyport, Massachusetts, son of Amos and Anna Page Noyes, née Andrews. He received a PhD in 1890 from Leipzig University under the guidance of Wilhelm Ostwald.
+He served as the acting president of MIT between 1907 and 1909 and as professor of chemistry at the California Institute of Technology from 1919 to 1936. "Although the Noyes laboratory at MIT was like an institute in its intramural funding (from Carnegie Institute of Washington and Noyes's patent royalties), Noyes recruited many of his disciples as undergraduates and took a deep interest in undergraduate engineering education, both at MIT and later at Caltech. Roscoe Gilkey Dickinson was one of his famous students.
+Noyes was a major influence both on the educational philosophy of the core curriculum of Caltech as well as in the negotiations leading to the creation of the National Research Council along with George Ellery Hale and Robert Millikan. He also served on the board of trustees for Science Service, now known as Society for Science & the Public, between 1921 and 1927.
+Noyes was an elected member of the [American Academy of Arts and Sciences](3132), the United States National Academy of Sciences, and the [American Philosophical Society](3133).
+
+Noyes–Whitney equation
+Along with Willis Rodney Whitney, he formulated the Noyes–Whitney equation in 1897, which relates the rate of dissolution of solids to the properties of the solid and the dissolution medium.  It is an important equation in pharmaceutical science.  The relation is given by:
+
+  
+    
+      
+        
+          
+            
+              d
+              W
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              D
+              A
+              (
+              
+                C
+                
+                  s
+                
+              
+              −
+              C
+              )
+            
+            L
+          
+        
+      
+    
+    {\displaystyle {\frac {dW}{dt}}={\frac {DA(C_{s}-C)}{L}}}
+  
+
+Where:
+
+  
+    
+      
+        
+          
+            
+              d
+              W
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dW}{dt}}}
+  
+ is the rate of dissolution.
+A is the surface area of the solid.
+C is the concentration of the solid in the bulk dissolution medium.
+
+  
+    
+      
+        
+          C
+          
+            s
+          
+        
+      
+    
+    {\displaystyle C_{s}}
+  
+ is the concentration of the solid in the diffusion layer surrounding the solid.
+D is the diffusion coefficient.
+L is the diffusion layer thickness.
+
+References
+"Arthur Amos Noyes: Sept. 69, 1866 – June 3, 1936 (A biographical memoir)," in Biographical Memoirs, Vol. 31, Columbia University Press (For the National Academy of Sciences of the United States), New York, 1958, pp. 322–346.
+Dictionary of Scientific Biography, Charles Scribner's Sons, 1970–1990, vol. 10, pp. 156–157.
+Biog. Mem. Nat. Acad. Sci., 1958, 31, pp. 322–346.
+Proc. Welch Fdn. Conf. 1977, 20, pp. 88–105.
+Science 1936, 83, pp. 613–614.
+Science 1936, 84, pp. 217–220.
+Sci. Monthly 1936, 43, pp. 179–181.
+Ind. Eng. Chem. 1931, 23, pp. 443–445.
+American [Chemist](3695)s and Chemical Engineers, Ed. W.D. Miles, [American Chemical Society](2806), 1976, pp. 371–372.
+Proc. Am. Acad. Arts Sci. 1940, 74, pp. 150–155.
+
+External links
+Noyes' Gibbs medal doi:10.1021/ie50077a043
+Arthur Amos Noyes – Key Participant Linus Pauling and the Nature of the Chemical Bond: A Documentary History and It's in the Blood!  A Documentary History of Linus Pauling, Hemoglobin, and Sickle Cell Anemia
+Arthur Amos Noyes — Biographical Memoirs of the National Academy of Sciences

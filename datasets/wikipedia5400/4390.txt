@@ -1,0 +1,195 @@
+4390
+Celtiberian language
+Celtiberian or Northeastern Hispano-Celtic is an extinct Indo-European language of the Celtic branch spoken by the Celtiberians in an area of the [Iberian Peninsula](2686) between the headwaters of the Douro, Tagus, Júcar and Turia rivers and the Ebro river. This language is directly attested in nearly 200 inscriptions dated from the 2nd century BC to the 1st century AD, mainly in Celtiberian script, a direct adaptation of the northeastern Iberian script, but also in the Latin alphabet. The longest extant Celtiberian inscriptions are those on three Botorrita plaques, bronze plaques from Botorrita near Zaragoza, dating to the early 1st century BC, labeled Botorrita I, III and IV (Botorrita II is in Latin). Shorter and more fragmentary is the Novallas bronze tablet.
+
+Overview
+Under the P/Q Celtic hypothesis, and like its Iberian relative Gallaecian, Celtiberian is classified as a Q Celtic language, putting it in the same category as Goidelic and not P-Celtic like Gaulish or Brittonic.
+Under the Insular/Continental Celtic hypothesis, Celtiberian and Gaulish are grouped together as Continental Celtic languages but this grouping is paraphyletic: no evidence suggests the two shared any common innovation separately from Insular Celtic. According to Ranko Matasovic in the introduction to his 2009 Etymological Dictionary of Proto-Celtic : "Celtiberian...is almost certainly an independent branch on the Celtic genealogical tree, one that became separated from the others very early."
+Celtiberian has a fully inflected relative pronoun ios (as does, for instance, [Ancient Greek](3061)), an ancient feature that was not preserved by the other Celtic languages, and the particles -kue 'and' < *kʷe (cf. Latin -que, Attic Greek τε te), nekue 'nor' < *ne-kʷe (cf. Latin neque), ekue 'also, as well' < *h₂et(i)-kʷe (cf. Lat. atque, Gaulish ate, OIr. aith 'again'), ve "or" (cf. Latin enclitic -ve and Attic Greek ἤ ē < Proto-Greek *ē-we). As in Welsh, there is an s-subjunctive, gabiseti "he shall take" (Old Irish gabid), robiseti, auseti. Compare Umbrian ferest "he/she/it shall make" or [Ancient Greek](3061) δείξῃ deiksēi (aorist subj.) / δείξει deiksei (future ind.) "(that) he/she/it shall show".
+
+Phonology
+Celtiberian was a Celtic language that shows the characteristic sound changes of Celtic languages such as:
+
+PIE Consonants
+PIE *bʰ, *dʰ, *gʰ > b, d, g: Loss of Proto-Indo-European voiced aspiration.
+Celtiberian and Gaulish placename element -brigā 'hill, town, akro-polis' < *bʰr̥ǵʰ-eh₂;
+nebintor 'they are watered' < *nebʰ-i-nt-or;
+dinbituz 'he must build' < *dʰingʰ-bī-tōd, ambi-dingounei 'to build around > to enclose' < *h₂m̥bi-dʰingʰ-o-mn-ei (cf. Latin fingō 'to build, shape' < *dʰingʰ-o, Old Irish cunutgim 'erect, build up' < *kom-ups-dʰingʰ-o), ambi-diseti '(that someone) builds around > enclose' < *h₂m̥bi-dʰingʰ-s-e-ti.
+gortika 'mandatory, required' < *gʰor-ti-ka (cfr. Latin ex-horto 'exhort' < *ex-gʰor-to); though, as the meaning in Celtiberian cannot be determined with certainty, this root may be related to Old Irish gort "field" (<PIE: *ghо̄rdh-s, Gen. *ghrdh-os ‘enclosure, garden, pen") and its many Indo-European cognates.
+duatir 'daughter' < *dʰugh₂tēr, duateros 'grandson, son of the daughter' (Common Celtic *duxtir);
+bezom 'mine' < *bʰedʰ-yo 'that is pierced'.
+PIE *kʷ: Celtiberian preserved the PIE voiceless labiovelar kʷ (hence Q-Celtic), a development also observed in Archaic Irish and Latin. On the contrary Brythonic and Gaulish (P-Celtic—a change also seen in some dialects of [Ancient Greek](3061) and some Italic branches like P-Italic) changed kʷ to  p. -kue 'and' < *kʷe, Latin -que, Osco-Umbrian -pe 'and', neip 'and not, neither' < *ne-kʷe.
+PIE *ḱw > ku: ekuo horse (in ethnic name ekualakos) < *h₁eḱw-ālo (cf. Middle Welsh ebawl 'foal' < *epālo, Latin equus 'horse', OIr. ech 'horse' < *eko´- < *h₁eḱwo-, OBret. eb < *epo- < *h₁eḱwo-);
+kū 'dog' < *kuu < *kwōn, in Virokū, 'hound-man, male hound/wolf, werewolf' (cfr. Old Irish Ferchú < *Virokū,  Old Welsh Gurcí < *Virokū 'idem.'.
+PIE *gʷ > b: bindis 'legal agent' < *gʷiHm-diks (cfr. Latin vindex 'defender');
+bovitos 'cow passage' < *gʷow-(e)ito (cfr. OIr bòthar 'cow passage' < *gʷow-(e)itro), and boustom 'cowshed' < *gʷow-sto.
+PIE *gʷʰ > gu: guezonto < *gʷʰedʰ-y-ont 'imploring, pleading'. Common Celtic *guedyo 'ask, plead, pray', OIr. guidid, W. gweddi.
+PIE  *p > *φ > ∅: Loss of PIE *p, e.g. *ro- (Celtiberian, Old Irish and Old Breton) vs. Latin pro- and Sanskrit pra-. ozas sues acc. pl. fem. 'six feet, unit of measure' (< *φodians < *pod-y-ans *sweks);
+aila 'stone building' < *pl̥-ya (cfr. OIr. ail 'boulder');
+vamos 'higher' < *uφamos < *up-m̥os;
+vrantiom 'remainder, rest' < *uper-n̥tiyo (cfr. Latin (s)uperans).
+Toponym Litania now Ledaña 'broad place' < *pl̥th2-ny-a.
+Final *-m is preserved in Celtiberian (and Lepontic), a further indication of these dialects' conservatism. It is generally fronted to -n in Gaulish (exceptional cases, for instance on the Larzac tablet, are probably due to influence from Latin): boustom "stable."
+
+Consonant clusters
+PIE *mn > un: as in Lepontic, Brittonic and Gaulish, but not Old Irish and seemingly not Galatian. Kouneso 'neighbour' < *kom-ness-o < *Kom-nedʰ-to (cf. OIr. comnessam 'neighbour' < *Kom-nedʰ-t-m̥o).
+PIE *pn > un: Klounia < *kleun-y-a < *kleup-ni 'meadow' (Cfr. OIr. clúain 'meadow' < *klouni). However, in Latin *pn > mn: damnum 'damage' < *dHp-no.
+PIE *nm > lm: Only in Celtiberian. melmu < *men-mōn 'intelligence', Melmanzos 'gifted with mind' < *men-mn̥-tyo (Cfr. OIr. menme 'mind' < *men-mn̥. Also occurs in modern Spanish: alma 'soul' < *anma < Lat. anima, Asturian galmu 'step' < Celtic *kang-mu.
+PIE *ps > *ss / s: usabituz 'he must excavate (lit. up/over-dig)' < *ups-ad-bʰiH-tōd, Useizu * < *useziu < *ups-ed-yō 'highest'. The ethnic name contestani in Latin (contesikum in native language), recall the proper name Komteso 'warm-hearted, friendly' (< *kom-tep-so, cf. OIr. tess 'warm' > *tep-so). In Latin epigraphy that sound is transcribed with geminated: Usseiticum 'of the Usseitici' < *Usseito < *upse-tyo. However, in Gaulish and Brittonic *ps > *x (cf. Gaulish Uxama, MW. uchel, 'one six').
+PIE *pt > *tt / t: setantu 'seventh' (< *septmo-to). However, in Gaulish and Insular Celtic *pt > x: sextameto 'seventh', Old Irish sechtmad (< *septmo-e-to).
+PIE *gs > *ks > *ss / s: sues 'six' < *sweks;
+Desobriga 'south/right city' (Celts oriented looking east) < *dekso-*bʰr̥ǵʰa; **Nertobris 'strength town' < *h₂ner-to-*bʰr̥ǵʰs;
+es- 'out of, not' < *eks < *h₁eǵʰs (cf. Lat. ex-, Common Celtic *exs-, OIr. ess-). In Latin epigraphy that sound its transcript with geminated: Suessatium < *sweks- 'the sixth city' (cfr. Latin Sextantium)
+Dessicae < *deks-ika. However, in Gaulish *ks > *x: Dexivates.
+PIE *gt > *kt > *tt / t: ditas 'constructions, buildings' < *dʰigʰ-tas (= Latin fictas);
+loutu 'load' < *louttu < *louktu < *leugʰ-tu;
+litom 'it is permitted', ne-litom 'it is not permitted' (< *l(e)ik-to, cf. Latin licitum < *lik-e-to). But Common Celtic *kt > *xt: luxtu < *louktu < *leugʰ-tu, OIr. lucht.
+Celtiberian Retugenos 'right born, lawful' < *h₃reg-tō-genos, Gaulish Rextugenos. In Latin epigraphy that sound is transcribed with geminated: Britto 'noble' < *brikto < *bʰr̥ǵʰ-to.
+Bruttius 'fruitful' < *bruktio < *bʰruHǵ-t-y-o (cfr. Latin Fructuosus 'profitable').
+PIE *st > *st: against Gaulish, Irish and Welsh, where the change was *st > ss. This preservation of the PIE cluster *st is another indication of the phonological conservatism of this dialect. Gustunos 'excellent' < *gustu 'excellence' < *gus-tu. Old Irish gussu 'excellence' (cfr. Fergus < *viro-gussu), Gaulish gussu (Lezoux Plate, line 7).
+
+Vowels
+PIE *e, *h₁e > e: Togoitei eni 'in Togotis' < *h₁en-i (cf. Lat. in, OIr. in 'into, in'), somei eni touzei 'inside of this territory', es- 'out of, not' < *eks < *h₁eǵʰs (cf. Lat. ex-, Common Celtic *exs-, OIr. ess-), esankios 'not enclosed, open' lit. 'unfenced' < *h₁eǵʰs-*h₂enk-yos, treba 'settlement, town', Kontrebia 'conventus, capital' < *kom-treb-ya (cf. OIr. treb, W. tref 'settlement'), ekuo horse < *h₁ekw-os, ekualo 'horseman'.
+PIE *h₂e > a: ankios 'fenced, enclosed' < *h₂enk-yos, Ablu 'strong' < *h₂ep-lō 'strength', augu 'valid, firm' < *h₂ewg-u, adj. 'strong, firm, valid'.
+PIE *o, *Ho > o: olzui (dat.sing.) 'for the last' (< *olzo 'last' < *h₂ol-tyo, cf. Lat. ultimus < *h₂ol-t-m̥o. OIr. ollam 'master poet' < *oltamo < *h₂ol-t-m̥), okris 'mountain' (< *h₂ok-r-i, cf. Lat. ocris 'mountain', OIr. ochair 'edge' < *h₂ok-r-i), monima 'memory' (< *monī-mā < *mon-eye-mā).
+PIE *eh₁ > ē > ī?. This Celtic reflex isn't well attested in Celtiberian. e.g. IE *h3rēg'-s meaning "king, ruler" vs. Celtiberian -reiKis, Gaulish -rix, British rix, Old Irish, Old Welsh, Old Breton ri meaning "king". In any case, the maintenance of PIE ē = ē is well attested in dekez 'he did' < *deked < *dʰeh₁k-et, identical to Latin fecit.
+PIE *eh₂ > ā: dāunei 'to burn' < *deh₂u-nei (Old Irish dóud, dód 'burn' < *deh₂u-to-), silabur sāzom 'enough money, a considerable amount of money' (< *sātio < *seh₂t-yo, Common Celtic *sāti 'sufficiency', OIr. sáith), kār 'friendship' (< *keh₂r, cf. Lat. cārus 'dear' < *keh₂r-os, Irish cara 'friend', W. caru 'love' < *kh₂r-os).
+PIE *eh₃, *oH > a/u: Celtic *ū in final syllables and *ā in non-final syllables, e.g. IE *dh3-tōd to Celtiberian datuz meaning 'he must give'. dama 'sentence' < *dʰoh₁m-eh₂ 'put, dispose' (cfr. Old Irish dán 'gift, skill, poem', Germanic dōma < *dʰoh₁m-o 'verdict, sentence').
+PIE *Hw- > w-: uta 'conj. and, prep. besides' (< *h₂w-ta, 'or, and', cfr, Umb. ute 'or', Lat. aut 'or' (< *h₂ew-ti).
+PIE ey remains ey in Celtiberian and Lepontic (teiuo- < *dēywo-), but in other Celtic languages, it becomes ē (apparently, another indication of the conservatism of Celtiberian, unless these spellings indicate a high /e/ rather than an actual diphthong).
+
+Syllabic resonants and laryngeals
+PIE *n̥ > an / *m̥ > am: arganto 'silver' < *h₂r̥gn̥to (cf. OIr. argat and Latin  argentum). kamanom 'path, way' *kanmano < *kn̥gs-mn̥-o (cf. OIr. céimm, OW. cemmein 'step'), decameta 'tithe' < *dekm̥-et-a (cf. Gaulish decametos 'tenth', Old Irish dechmad 'tenth'), dekam 'ten' (cf. Lat. decem, Common Celtic dekam, OIr. deich < *dekm̥), novantutas 'the nine tribes', novan 'nine' < *h₁newn̥ (cf. Lat. novem, Common Celtic *novan, OW. nauou < *h₁newn̥), ās 'we, us' (< *ans < *n̥s, Old Irish sinni < *sisni, *snisni 'we, us', cf. German uns < *n̥s), trikanta < *tri-kn̥g-ta, lit. 'three horns, three boundaries' > 'civil parish, shire' (modern Spanish Tres Cantos).
+Like Common Celtic and Italic (SCHRIJVER 1991: 415, McCONE 1996: 51 and SCHUMACHER 2004: 135), PIE *CHC > CaC (C = any consonant, H = any laryngeal): datuz < *dh₃-tōd, dakot 'they put' < *dʰh₁k-ont, matus 'propitious days' < *mh₂-tu (Latin mānus 'good' < *meh₂-no, Old Irish maith 'good' < *mh₂-ti).
+PIE *CCH > CaC (C = any consonant, H = any laryngeal): Magilo 'prince' (< *mgh₂-i-lo, cf. OIr. mál 'prince' < *mgh₂-lo).
+PIE *r̥R > arR and *l̥R > alR (R = resonant): arznā 'part, share' < *φarsna < *parsna < *pr̥s-nh₂. Common Celtic *φrasna < *prasna < *pr̥s-nh₂, cf. Old Irish ernáil 'part, share'.
+PIE *r̥P > riP and *l̥P > liP (P = plosive): briganti PiRiKanTi < *bʰr̥ǵʰ-n̥ti. silabur konsklitom 'silver coined' < *kom-skl̥-to 'to cut'.
+PIE *Cr̥HV > CarV and *Cl̥HV > CalV: sailo 'dung, slurry' *salyo < *sl̥H-yo (cf. Lat. saliva < *sl̥H-iwa, OIr. sal 'dirt' < *sl̥H-a), aila 'stone building' < *pl̥-ya (cf. OIr. ail 'boulder'), are- 'first, before' (Old Irish ar 'for', Gaulish are 'in front of', < *pr̥h₂i. Lat. prae- 'before' < *preh₂i).
+Like Common Celtic (JOSEPH 1982: 51 and ZAIR 2012: 37), PIE *HR̥C > aRC (H = any laringeal, R̥ any syllabic resonant, C = any consonant): arganto 'silver' < *h₂r̥gn̥to, not **riganto.
+
+Exclusive developments
+Affrication of the PIE groups -*dy-, -*dʰy-. -*ty- > z/th (/θ/) located between vowels and of -*d, -*dʰ > z/th (/θ/) at the end of the word: adiza 'duty' < *adittia < *h₂ed-d(e)ik-t-ya; Useizu 'highest' < *ups-ed-yō; touzu 'territory' < *teut-yō; rouzu 'red' < *reudʰy-ō; olzo 'last' < *h₂ol-tyo; ozas 'feet' < *pod-y-ans; datuz < *dh₃-tōd; louzu 'free' (in: LOUZOKUM, MLH IV, K.1.1.) < *h₁leudʰy-ō (cf. Oscan loufir 'free man', Russian ljúdi 'men, people'. That this is one of only a very few phonological developments that distinguishes Celtiberian phonologically from Proto-Celtic is one of the reasons Matasovic has concluded that Celtiberian is a very early independent branch of Proto-Celtic. It is noteworthy that this weakening of most non-initial Proto-Celtic voiced dental stops (ds) seems to indicate that Celtiberian had taken the first step in what became more widespread lenition of non-initial (and in some cases even initial) voiced consonants in later Celtic dialects.
+
+Morphology
+Noun and adjective cases
+arznā 'part, share' < *parsna < *pr̥s-nh₂. Common Celtic *φrasna < *parsna
+veizos 'witness' < *weidʰ-yo < *weidʰ- 'perceive, see' / vamos 'higher' < *up-m̥os
+gentis 'son, descendance' < *gen-ti. Common Celtic *genos 'family'
+loutu 'load' < *louttu < *louktu < *leugʰ-tu. Common Celtic *luxtu < *louktu < *leugʰ-tu (oir. lucht).
+duater 'daughter' < *dʰugh₂tēr. Common Celtic *duxtir.
+
+An -n- stem can be seen in melmu nom.sg. < *-ōn, melmunos gen. sg. (from Botorrita III, probably a name).
+It is notable that the genitive singular -o- stem ends in -o in Celtiberian, unlike the rest of Celtic (and Italic) where this ending is -ī 
+There is also a potential Vocative case, however this is very poorly attested, with only an ambiguous -e ending for o-stem nouns being cited in literature.
+
+Demonstrative pronouns
+Relative pronoun
+Forms of the masculine singular relative pronoun *yo- can be found in the first Botorrita plaque: The form io-s in line 10 is the nominative singular masculine of the relative pronoun from Proto-Indo-European *yo- (Sanskrit ya-, Greek hos), which shows up in Old Irish only as the aspiration for leniting relative verb forms. Line 7 has the accusative singular io-m and the dative singular io-mui of the same root.
+
+Verbal endings
+The Indo-European third person verbal ending system seems to be evident, though the exact meaning of many verbs remains unclear: primary singular active *-ti in ambitise-ti (Botorrita I, A.5), '(that someone) builds around > encloses' from *h₂m̥bhi-dʰingʰ-s-e-ti, and auzeti, secondary *-t > /θ/ written <z> in terbere-z (SP.02.08, B-4) and perhaps kombalke-z; primary plural active *-nti in ara-nti (Z.09.24, A-4) and  zizonti "they sow" (or perhaps "they give" with assimilation of the initial do the medial <z>), secondary *-nt perhaps in atibio-n (Z.09.24, A-5), middle voice *-nto in auzanto (Z.09.03, 01) and perhaps esianto (SP.02.08 A-2).
+A third person imperative *-tо̄d > -tuz perhaps is seen in da-tuz "he must give" (Bronze plaque of Torrijo del Campo), usabituz, bize-tuz (Botorrita I A.5) and dinbituz 'he must build' < *dʰingʰ-bī-tōd. 
+A possible third person singular subjunctive -a-ti may be asekati, and another in -e-ti may be seen in auzeti < *aw-dhh1-e-ti "he may bestow."
+From the same root, we may have a truncated form of an athematic active third person singular aorist if auz is from *auzaz < *aw-dh h1-t.
+Also from the same root, an example of the genitive plural of the present active participle ending -nt-om may be found on the Novallas bronze tablet in audintum < *awdheh1-nt-ōm.
+Possible infinitive form -u-nei perhaps from *-mn-ei may be seen in ambi-tinko-unei (Botorrita I A.5), and in ta-unei ‘to give’, a reduplicated infinitive form in ti-za-unei if from *dhi-dhh1-mn-ei "to place."
+
+Syntax
+Celtiberian syntax is considered to have the basic order subject–object–verb. Another archaic Indo-European feature is the use of the relative pronoun jos and the repetition of enclitised conjunctions such as kwe.
+
+Sample texts
+First Botorrita plaque, side A
+One of four bronze plaques found in Botorrita, this text was written in eastern Celtiberian script. The other side consists of a list of names. (K.01.01.A)
+
+		
+			
+			
+		
+		
+			
+			
+		
+
+soz augu arestalo damai
+all this (is) valid by order of the competent authority
+soz: all this (< *sod).
+augo: final, valid (< *h₂eug-os 'strong, valid', cf. Latin augustus 'solemn').
+arestalo: of the competent authority (gen. sing. arestalos < *pr̥Hi-steh₂-lo 'competent authority' < *pr̥Hi-sto 'what is first, authority').
+damai: by order (instrumental fem. sing. < *dʰoh₁m-eh₂ 'establish, dispose').
+(Translation: Prospér 2006)
+saum dekametinas datuz somei eni touzei iste ankios iste es-ankios
+of these, he will give the tax inside of this territory, so be fenced as be unfenced
+saum: of these (< *sa-ōm).
+dekametinas: the tithes, the tax.
+datuz: he will pay, will give.
+eni: inside, in (< *h₁en-i).
+somei: of this (loc. sing. < *so-sm-ei 'from this').
+touzei: territory (loc. sing. < *touzom 'territory' < *tewt-yo).
+iste ankios: so (be) fenced.
+iste es-ankios: as (be) unfenced.
+(Transcription: Jordán 2004)
+togoitei ios vramtiom-ve auzeti aratim-ve dekametam datuz
+In Togotis, he who draws water either for the green or for the farmland, the tithe (of their yield) he shall give
+(Translation: De Bernardo 2007)
+
+Great inscription from Peñalba de Villastar
+An inscription in the Latin alphabet in the Celtiberian sanctuary of Peñalba de Villastar, in the current municipality of Villastar, Teruel province. (K.03.03) Other translations, which differ dramatically from this and from each other, may be found in P. Sims-Williams' treatment of the Celtic languages in The Indo-European Languages.
+
+eni Orosei uta Tigino tiatunei erecaias to Luguei araianom comeimu
+In Orosis and the surroundings of Tigino river, we dedicate the fields to Lugus.
+eni: in (< *h₁en-i).
+Orosei: Orosis (loc. sing. *oros-ei).
+uta:  and (conj. cop.).
+Tigino: of Tigino (river) (gen. sing. *tigin-o).
+tiatunei: in the surroundings (loc. sing. *tiatoun-ei < *to-yh₂eto-mn-ei).
+erecaias: the furrows > the land cultivated (acc. pl. fem. erekaiās < *perka-i-ans > English furrow).
+to Luguei: to Lugus.
+araianom: properly, totally, (may be a verbal complement > *pare-yanom, cfr. welsh iawn).
+comeimu: we dedicate (present 3 p.pl. komeimu < *komeimuz < *kom-ei-mos-i).
+eni Orosei Ekuoisui-kue okris olokas togias sistat Luguei
+In Orosis and Equeiso the hills, the vegetable gardens and the houses are dedicated to Lugus.
+Ekuoisui: in Ekuoisu (loc. sing.)  -kue: and (< *-kʷe).
+okris: the hills (nom. pl. < *h₂ok-r-eyes).
+olokas: the vegetable gardens (nom. pl. olokas < *olkās < *polk-eh₂-s > English fallow).
+togias: (and) the roofs > houses (nom. pl. or gen. sg. togias < tog-ya-s > Old Irish tuige "cover, protection").
+sistat: are they (dedicated) (3 p.pl. < *sistant < *si-sth₂-nti).
+Luguei: to Lug (dat. Lugue-i).
+(Transcription: Meid 1994, Translation: Prósper 2002)
+
+Bronze plaque of Torrijo del Campo
+A bronze plaque found in Torrijo del Campo, Teruel province in 1996, using the eastern Celtiberian script.
+
+Lutorikum eisubos adizai ekue Kartinokum ekue Lankikum ekue Tirtokum silabur sazom ibos esatui (datuz)
+for those of the Lutorici included in the duty, and also of the Cartinoci, of the Lancici and of the Tritoci, must give enough  money to settle the debt with them.
+Lutorikum: of the Lutorici ( gen. masc. pl.).
+eisubos: for those included ( < *h1epi-s-o-bʰos).
+adizai: in the assignment, in the duty (loc. fem. sing. < *adittia < *ad-dik-tia. Cfr. Latin addictio 'assignment').
+ekue: and also (< *h₂et(i)kʷe).
+Kartinokum: of the Cartinoci ( gen. masc. pl.).
+Lankikum: of the Lancici ( gen. masc. pl.).
+Tirtokum: of the Tritoci ( gen. masc. pl.).
+silabur: money.
+sazom: enough (< *sātio < *seh₂t-yo).
+ibos: for them (dat.3 p.pl. ibus < *i-bʰos).
+esatui: to settle the debt (< *essato < *eks-h₂eg-to. Cfr. Latin ex-igo 'demand, require' & exactum 'identical, equivalent').
+datuz: must give (< *dh₃-tōd).
+(Transcription and Translation: Prósper 2015)
+
+See also
+Celtiberian script
+Botorrita plaque
+Luzaga's Bronze
+Gallaecian language
+Gaulish
+Lepontic language
+Iberian scripts
+Continental Celtic languages
+Pre-Roman peoples of the [Iberian Peninsula](2686)
+Lusitanian language
+
+References
+Sources
+External links
+
+Detailed map of the Pre-Roman Peoples of Iberia (around 200 BC)
+Celtic, Celtiberian - 2nd - 1st c. B.C. Examples of writing

@@ -1,0 +1,68 @@
+4005
+Food technology
+Food technology is a branch of food science that addresses the production, preservation, quality control and research and development of food products.
+It may also be understood as the science of ensuring that a society is food secure and has access to safe food that meets quality standards.
+Early scientific research into food technology concentrated on food preservation. Nicolas Appert's development in 1810 of the canning process was a decisive event. The process wasn't called canning then and Appert did not really know the principle on which his process worked, but canning has had a major impact on food preservation techniques.
+Louis Pasteur's research on the spoilage of wine and his description of how to avoid spoilage in 1864, was an early attempt to apply scientific knowledge to food handling. Besides research into wine spoilage, Pasteur researched the production of alcohol, vinegar, wines and beer, and the souring of milk. He developed pasteurization – the process of heating milk and milk products to destroy food spoilage and disease-producing organisms. In his research into food technology, Pasteur became the pioneer into bacteriology and of modern preventive medicine.
+
+Developments
+Developments in food technology have contributed greatly to the food supply and have changed our world. Some of these developments are: 
+
+Instantized Milk Powder – Instant milk powder has become the basis for a variety of new products that are rehydratable. This process increases the surface area of the powdered product by partially rehydrating spray-dried milk powder.
+Freeze-drying – The first application of freeze drying was most likely in the pharmaceutical industry; however, a successful large-scale industrial application of the process was the development of continuous freeze drying of coffee.
+High-Temperature Short Time Processing – These processes, for the most part, are characterized by rapid heating and cooling, holding for a short time at a relatively high temperature and filling aseptically into sterile containers.
+Decaffeination of Coffee and Tea – Decaffeinated coffee and tea was first developed on a commercial basis in [Europe](1994) around 1900. The process is described in U.S. patent 897,763. Green coffee beans are treated with water, heat and solvents to remove the caffeine from the beans.
+Process optimization – Food Technology now allows production of foods to be more efficient, Oil saving technologies are now available on different forms. Production methods and methodology have also become increasingly sophisticated.
+Aseptic packaging – the process of filling a commercially sterile product into a sterile container and hermetically sealing the containers so that re-infection is prevented. Thus, this results into a shelf stable product at ambient conditions.
+Food irradiation – the process of exposing food and food packaging to ionizing radiation can effectively destroy organisms responsible for spoilage and foodborne illness and inhibit sprouting, extending shelf life.
+Commercial fruit ripening rooms using ethylene as a plant hormone.
+Food delivery – An order is typically made either through a restaurant or grocer's website or mobile app, or through a food ordering company. The ordered food is typically delivered in boxes or bags to the customer's doorsteps.
+
+Categories
+Technology has innovated these categories from the food industry:
+
+Agricultural technology – or AgTech, it is the use of technology in agriculture, horticulture, and aquaculture with the aim of improving yield, efficiency, and profitability. Agricultural technology can be products, services or applications derived from agriculture that improve various input/output processes.
+Food Science –  technology in this sector focuses on the development of new functional ingredients and alternative Proteins.
+Foodservice – technology innovated the way establishments prepare, supply, and serve food outside the home. There's a tendency to create the conditions for the restaurant of the future with robotics and CloudKitchens.
+Consumer Tech – technology allows what we call Consumer electronics, which is the equipment of consumers with devices that facilitates the cooking process.
+Food delivery –  as the food delivery market is growing, companies and startups are rapidly revolutionizing the communication process between consumers and food establishments, with Platform-to-Consumer delivery as the global lead.
+Supply Chain – supply chain activities are considerably moving from digitization to automation.
+
+Emerging technologies
+Innovation in the food sector may include, for example, new types for raw material processing technology, packaging of products, and new food additives. Applying new solutions may reduce or prevent adverse changes caused by microorganisms, oxidation of food ingredients, and enzymatic and nonenzymatic reactions. Moreover, healthier and more nutritious food may be delivered as well as the food may taste better due to improvements in food composition, including organoleptic changes, and changes in the perception and pleasures from eating food.
+In the 21st century, emerging technologies such as cellular agriculture, particularly cultured meat, 3D food printing, use of insect protein, plant-based alternatives, vertical farming, food deliveries and blockchain technology are being developed to accelerate the transformation towards sustainable food systems.
+
+Alternative Protein Sources
+With the global population expected to reach 9.7 billion by 2050, there is an urgent need for alternative protein sources that are sustainable, nutritious, and environmentally friendly. Plant-based proteins are gaining popularity as they require fewer resources and produce fewer greenhouse gas emissions compared to animal-based proteins. Companies like Beyond Meat and Impossible Foods have developed plant-based meat alternatives that mimic the taste and texture of traditional meat products.
+
+Food Waste Reduction
+Approximately one-third of all food produced globally is wasted. Innovative food tech solutions are being developed to address this issue. For example, Apeel Sciences has developed an edible coating that extends the shelf life of fruits and vegetables, reducing spoilage and waste.
+
+Consumer acceptance
+Historically, consumers paid little attention to food technologies. Nowadays, the food production chain is long and complicated and food technologies are diverse. Consequently, consumers are uncertain about the determinants of food quality and find it difficult to understand them. Now, acceptance of food products very often depends on perceived benefits and risks associated with food. Popular views of food processing technologies matter.  Especially innovative food processing technologies often are perceived as risky by consumers.
+Acceptance of the different food technologies varies. While pasteurization is well recognized and accepted, high pressure treatment and even microwaves often are perceived as risky. Studies by the Hightech [Europe](1994) project found that traditional technologies were well accepted in contrast to innovative technologies.
+Consumers form their attitude towards innovative food technologies through three main mechanisms: First, through knowledge or beliefs about risks and benefits correlated with the technology; second, through attitudes based on their own experience; and third, through application of higher order values and beliefs.
+A number of scholars consider the risk-benefit trade-off as one of the main determinants of consumer acceptance, although some researchers place more emphasis on the role of benefit perception (rather than risk) in consumer acceptance.
+Rogers (2010) defines five major criteria that explain differences in the acceptance of new technology by consumers: complexity, compatibility, relative advantage, trialability and observability.
+Acceptance of innovative technologies can be improved by providing non-emotional and concise information about these new technological processes methods. The HighTech project also suggests that written information has a higher impact on consumers than audio-visual information.
+
+Publications
+Food and Bioprocess Technology
+Food Technology
+Lebensmittel-Wissenschaft & Technologie
+
+See also
+Agricultural technology
+Food biotechnology
+Food packaging
+Food grading
+Molecular gastronomy
+Optical sorting
+Standard components (food processing)
+List of food and drink awards#Food technology awards
+
+Notes and references
+Hans-Jürgen Bässler und Frank Lehmann : Containment Technology: Progress in the Pharmaceutical and Food Processing Industry. Springer, Berlin 2013, ISBN 978-3642392917
+
+External links
+ Media related to Food technology at Wikimedia Commons

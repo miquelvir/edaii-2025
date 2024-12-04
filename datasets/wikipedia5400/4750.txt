@@ -1,0 +1,101 @@
+4750
+Ch (digraph)
+[C](855)h is a digraph in the Latin script. It is treated as a letter of its own in the [C](855)hamorro, Old Spanish, [C](855)zech, Slovak, Igbo, Uzbek, Quechua, Ladino, Guarani, Welsh, [C](855)ornish, [B](4258)reton, Ukrainian Latynka, and [B](4258)elarusian Łacinka alphabets. Formerly ch was also considered a separate letter for collation purposes in Modern Spanish, Vietnamese, and sometimes in Polish; now the digraph ch in these languages continues to be used, but it is considered as a sequence of letters and sorted as such.
+
+History
+The digraph was first used in Latin since the 2nd century [B](4258).[C](855). to transliterate the sound of the Greek letter chi in words borrowed from that language. In classical times, Greeks pronounced this as an aspirated voiceless velar plosive kʰ. In post-classical Greek (Koine and Modern) this sound developed into a fricative x. Since neither sound was found in native Latin words (with some exceptions like pulcher 'beautiful', where the original sound k was influenced by l or r), in Late Latin the pronunciation k occurred.
+In Old French, a language that had no kʰ or x and represented k by c, k, or qu, ch began to be used to represent the voiceless palatal plosive c, which came from k in some positions and later became tʃ and then ʃ. Now the digraph ch is used for all the aforementioned sounds, as shown below. The Old French usage of ch was also a model of several other digraphs for palatals or postalveolars: lh (digraph), nh (digraph), sh (digraph).
+
+Use by language
+[B](4258)alto-Slavic languages
+In [B](4258)alto-Slavic languages that use the Latin alphabet instead of the [C](855)yrillic alphabet, ch represents the voiceless velar fricative x. [C](855)h is used in the Lithuanian language to represent the "soft h" /x/, in word choras ˈxɔrɐs̪ "choir". This digraph is not considered a single letter in the Lithuanian alphabet. This digraph is used only in loanwords. "[C](855)h" represents kʰ in Upper Sorbian.
+
+[C](855)zech
+In [C](855)zech, the letter ch is a digraph consisting of the sequence of Latin alphabet graphemes [C](855) and H, however it is a single phoneme (pronounced as a voiceless velar fricative x) and represents a single entity in [C](855)zech collation order, inserted between H and I. In capitalized form, [C](855)h is used at the beginning of a sentence ([C](855)hechtal se. "He giggled."), while [C](855)H or [C](855)h can be used for standalone letter in lists etc. and only fully capitalized [C](855)H is used when the letter is a part of an abbreviation (e.g. [C](855)HKO [B](4258)eskydy) and in all-uppercase texts.
+In the [C](855)zech alphabet, the digraph [C](855)h is handled as a letter equal to other letters. In [C](855)zech dictionaries, indexes, and other alphabetical lists, it has its own section, following that of words (including names) beginning with H and preceding that of words that begin with I. Thus, the word chemie will not be found in the [C](855) section of a [C](855)zech dictionary, nor the name [C](855)halupa in the [C](855) section of the phonebook.  The alphabetical order  h ch is observed also when the combination ch occurs in median or final position:  Praha precedes Prachatice, hod precedes hoch.
+
+Polish
+[C](855)h had been used in the Polish language to represent the "unvoiced h" /x/ as it is pronounced in the Polish word chleb "bread", and the h to represent "voiced h", /ɦ/ where it is distinct, as it is pronounced in the Polish word hak "hook". [B](4258)etween World War I and World War II, the Polish intelligentsia used to emphasize the "voiced h" to aid themselves in proper spelling.  In most present-day Polish dialects, however, ch and h are uniformly merged as /x/. In a handful of words (in particular, before a voiced obstruent other than rz or w – e.g. niechże), ch itself becomes voiced, though this is usually realised as /ɣ/ rather than /ɦ/.
+
+Slovak
+In Slovak, ch represents /x/, and more specifically ɣ in voiced position. [A](4202)t the beginning of a sentence it is used in two different variants: [C](855)H or [C](855)h. It can be followed by a consonant (chladný "cold"), a vowel (chémia "chemistry") or diphthong (chiazmus "chiasmus").
+Only a few Slovak words treat [C](855)H as two separate letters, e.g., viachlasný (e.g. "multivocal" performance), from viac ("multi")  and hlas ("voice").
+In the Slovak alphabet, it comes between H and I.
+
+[C](855)eltic languages
+In Goidelic languages, ch represents the voiceless velar fricative x. In Irish, ch stands for /x/ when broad and /ç/ (or /h/ between vowels) when slender. Word-initially it represents the lenition of ⟨c⟩. Examples: broad in chara /ˈxaɾˠə/ "friend" (lenited), loch /ɫ̪ɔx/ "lake, loch", boichte /bˠɔxtʲə/ "poorer"; slender in [C](855)héadaoin /ˈçeːd̪ˠiːnʲ/ "Wednesday" (lenited), deich /dʲɛç/ "ten". 
+[B](4258)reton has evolved a modified form of this digraph, c'h for representing x, as opposed to ch, which stands for ʃ. In Welsh ch represents the voiceless uvular fricative χ. The digraph counts as a separate letter in the Welsh alphabet, positioned after c and before d; so, for example, chwilen 'beetle' comes after cymryd 'take' in Welsh dictionaries; similarly, Tachwedd 'November' comes after taclus 'tidy'.
+
+[C](855)hamorro
+[C](855)h is the fifth letter of the [C](855)hamorro language and its sound is ts.
+The [C](855)hamorro Language has three different dialects - the Guamanian dialect, the Northern Mariana Islands dialect, and the Rotanese dialect.  With the minor difference in dialect, the Guamanians have a different orthography from the other two dialects.  In Guamanian orthography, both letters tend to get capitalized (e.g.: [C](855)Hamoru).  The Northern Mariana Islands' & Rotanese orthography enforces the standard capitalization rule (e.g.: [C](855)hamorro).
+
+Germanic languages
+In several Germanic languages, including German and romanized Yiddish, ch represents the voiceless velar fricative x. In Rheinische Dokumenta, ch represents x, as opposed to ch, which stands for ç.
+
+Dutch
+Dutch ch was originally voiceless, while g was voiced. In the northern Netherlands, both ch and g are voiceless, while in the southern Netherlands and Flanders the voiceless/voiced distinction is upheld. The voiceless fricative is pronounced x or χ in the north and ç in the south, while the voiced fricative is pronounced ɣ in the north (i.e. the northern parts of the area that still has this distinction) and ʝ in the south. This difference of pronunciation is called 'hard and soft g'. 
+In some words of non-native origin, ch is pronounced as ɕ (northern dialects in the Netherlands) or ʃ (Flemish dialects in [B](4258)elgium), e.g. cheque ɕɛk~ʃɛk (check, voucher), chips ɕɪps~ʃips (potato chips, crisps), [C](855)hina 'ɕi.na~'ʃi.na ([C](855)hina).
+
+English
+In English, ch is most commonly pronounced as tʃ, as in chalk, cheese, cherry, church, much, etc. When it represents tʃ word-medially or word-finally, it usually follows a consonant (belch, lunch, torch, etc.) or two vowels (beach, speech, touch, etc.). Elsewhere, this sound is usually spelled tch, with a few exceptions (attach, sandwich, lychee, etc.).
+[C](855)h can also be pronounced as k, as in ache, choir,  school and stomach. Most words with this pronunciation of ch find their origin in Greek words with the letter chi, like mechanics,  chemistry and character.  Others, like chiaroscuro, scherzo and zucchini, come from Italian.
+In some English words of French origin, "ch" represents ʃ, as in charade, machine, chivalry and nonchalant. Due to hypercorrection, this pronunciation also occurs in a few loanwords from other sources, like machete (from Spanish) and pistachio (from Italian).
+In certain dialects of [B](4258)ritish English ch is often pronounced dʒ in two words: sandwich and spinach, and also in place names, such as Greenwich and Norwich.
+In words of Scots origin it may be pronounced as x (or k), as in loch and clachan. In words of Hebrew or Yiddish origin it may be pronounced as χ (or x).
+The digraph can also be silent, as in [C](855)richton, currach, drachm, yacht and traditionally in schism.
+
+German
+In German, ch normally represents two allophones: the voiceless velar fricative x (or the voiceless uvular fricative χ) following a, o or u (called [A](4202)ch-Laut), and the voiceless palatal fricative ç following any other vowel or a consonant (called Ich-Laut). [A](4202) similar allophonic variation is thought to have existed in Old English.
+The sequence "chs" is normally pronounced ks, as in sechs (six) and Fuchs (fox).
+[A](4202)n initial "ch" (which only appears in loaned and dialectical words) may be pronounced k (common in southern varieties), ʃ (common in western varieties) or ç (common in northern and western varieties). It is always pronounced k when followed by l or r, as in [C](855)hlor (chlorine) or [C](855)hristus ([C](855)hrist).
+
+Swedish
+In Swedish, ch represents /ɧ/ and /ɕ/ in loanwords such as choklad and check. These sounds come from former ʃ and tʃ, respectively. In the conjunction och (and), ch is pronounced k or silent.
+
+Hungarian
+The digraph ch is not considered part of the Hungarian alphabet, but it has historically been used for tʃ, as in English and Spanish, and this use has been preserved in family names: Széchenyi, Madách. It is also retained in family names of German origin, where it is pronounced h: [A](4202)ulich. The digraph is also used in some loan words, such as technika or jacht where it is pronounced h.
+
+Interlingua
+In Interlingua, ch  is pronounced /ʃ/ in words of French origin (e.g. 'chef' = /ʃef/ meaning "chief" or "chef"), /k/ in words of Greek and Italian origin (e.g. "choro" = /koro/ meaning "chorus"), and more rarely /t͡ʃ/ in words of English or Spanish origin (e.g. "cochi" /kot͡ʃi/ meaning "car" or "coach"). [C](855)h may be pronounced either /t͡ʃ/ or /ʃ/ depending on the speaker in many cases (e.g. "chocolate" may be pronounced either /t͡ʃokolate/ or /ʃokolate/).
+
+Romance languages
+In [C](855)atalan ch represents final k sound. In the past it was widely used, but nowadays it is only present in some surnames (e.g. Domènech, [A](4202)lbiach). In medieval [C](855)atalan it was occasionally used to represent tʃ sound.
+In native French words, ch represents ʃ as in chanson (song). In most words of Greek origin, it represents k as in archéologie, chœur, chirographier; but chimie, chirurgie, and chimère have ʃ, as does anarchiste.
+In Italian and Romanian, ch represents the voiceless velar plosive k before -e and -i.
+In Romansh ch represents k before front vowels and tɕ before back vowels.
+In Occitan, ch represents tʃ, but in some dialects it is ts.
+In Portuguese, ch represents ʃ, with some few speakers in northeastern mainland Portugal retaining the archaic tʃ (constrating with ʃ for x, homophonic elsewhere).
+
+Spanish
+[C](855)h is pronounced as a voiceless postalveolar affricate tʃ in both [C](855)astillian and [A](4202)merican Spanish, or a voiceless postalveolar fricative ʃ in [A](4202)ndalusian.
+[C](855)h is traditionally considered a distinct letter of the Spanish alphabet, called che. In the 2010 Orthography of the Spanish Language, [C](855)h is no longer considered a letter of its own but rather a digraph consisting of two letters.
+Until 1994 ch was treated as a single letter in Spanish collation order, inserted between [C](855) and D; in this way, mancha was after manco and before manda. However, an [A](4202)pril 1994 vote in the 10th [C](855)ongress of the [A](4202)ssociation of Spanish Language [A](4202)cademies adopted the standard international collation rules, so ch is now considered a sequence of two distinct characters, and dictionaries now place words starting with ch- between those starting with ce- and ci-, as there are no words that start with cf- or cg- in Spanish. Similarly, mancha now precedes manco in alphabetical order.
+
+Other languages
+[C](855)h was used in the Massachusett orthography developed by John Eliot to represent a sound similar to /tʃ/ and in the modern orthography in use by some Wampanoag tribes for the same sound.  In both systems, the digraph ch is considered a single letter.
+In the Ossetic Latin alphabet, ch was used to write the sound tsʰ.
+In Palauan, ch represents a glottal stop ʔ.
+[C](855)h represents tʃ in Uyghur Latin script.
+[C](855)h represents tʃ in the Uzbek alphabet. It is considered a separate letter, and is the 28th letter of the alphabet.
+In Vietnamese, ch represents the voiceless palatal plosive c in the initial position. In the final position, the pronunciation is jk̟̚.
+In Xhosa and Zulu, ch represents the voiceless aspirated velar dental click kǀʰ.
+In Obolo, ch represents a tʃ. It is considered a single letter since 'c' and 'h' do not exist independently in the Obolo alphabet.
+
+Use in romanization
+"[C](855)h" is frequently used in transliterating into many European languages from Greek, Hebrew, Yiddish, and various others.
+In Mandarin [C](855)hinese ch is used in Pinyin to represent an aspirated voiceless retroflex affricate /tʂʰ/.
+In Japanese, ch is used in Hepburn to represent the chi sound (ち). 
+In Korean, ch is used in Revised Romanization of Korean to represent ㅊ (chieut).
+In Marathi, an Indian language, ch is used to represent voiceless alveo-palatal affricate /tɕ/ and voiceless denti-alveolar affricate /ts/ in romanization from the Devanagari script.
+In many transliterations of Hebrew and Yiddish, the ch digraph is used to represent the voiceless uvular fricative  /χ/, which is represented in Modern Hebrew by the letters ח and כ. Other transliterations systems will use the digraph kh to represent the same sound.
+
+[A](4202)lternate representations
+International Morse code provides a unitary code for [C](855)h used in several non-[English language](4401)s, namely — — — —.
+In the [C](855)zech extension to [B](4258)raille the letter [C](855)h is represented as the dot pattern ⠻. English literary braille also has a single cell dedicated to ⟨ch⟩ (dots 1–6), which stands for "child" in isolation, but this is considered a single-cell contraction rather than a separate letter.
+In English [B](4258)raille, the "ch" digraph, when pronounced as tʃ, is represented by a single cell:
+
+In computing, [C](855)h is represented as a sequence of [C](855) and H, not as a single character; only the historical KOI-8 ČS2 encoding contained [C](855)h as a single character.
+
+
+== References ==

@@ -1,0 +1,70 @@
+5060
+Avidyā (Buddhism)
+Avidyā (Sanskrit: अविद्या; Pali: 𑀅𑀯𑀺𑀚𑁆𑀚𑀸, romanized: avijjā; Tibetan phonetic: ma rigpa) in Buddhist literature is commonly translated as "ignorance". The concept refers to ignorance or misconceptions about the nature of metaphysical reality, in particular about the impermanence and anatta doctrines about reality. It is the root cause of Dukkha (suffering, pain, unsatisfactoriness), and asserted as the first link, in Buddhist phenomenology, of a process that leads to repeated birth.
+Avidyā is mentioned within the Buddhist teachings as ignorance or misunderstanding in various contexts:
+
+Four Noble Truths
+The first link in the twelve links of dependent origination
+One of the three poisons within the Mahayana Buddhist tradition
+One of the six root kleshas within the Mahayana [Abhidharma](4907) teachings
+One of the ten fetters in the Theravada tradition
+Equivalent to moha within the Theravada [Abhidharma](4907) teachings
+Within the context of the twelve links of dependent origination, avidya is typically symbolised by a person who is blind or wearing a blindfold.
+
+Etymology
+Avidyā is a Vedic Sanskrit word, and is a compound of a- prefix and vidya, meaning "not vidya". The word vidya is derived from the Sanskrit root vid, which means "to see, to knowingly-see, to know". Therefore, avidya means to "not see, not know". The vid*-related terms appear extensively in the Rigveda and other Vedas.
+In Vedic literature, avidya refers to "ignorance, spiritual ignorance, illusion"; in early Buddhist texts, states Monier-Williams, it means "ignorance with non-existence".
+The word is derived from the Proto-Indo-European root *weid-, meaning "to see" or "to know". It is a cognate with the Latin verb vidēre ("to see") and English wit.
+
+Overview
+Avidya is explained in different ways or on different levels within different Buddhist teachings or traditions. On the most fundamental level, it is ignorance or misunderstanding of the nature of reality;  more specifically about the nature of not-Self and dependent origination doctrines. Avidya is not lack of information, states Peter Harvey, but a "more deep seated misperception of reality". Gethin calls Avidya as 'positive misconception', not mere absence of knowledge. It is a key concept in [Buddhism](5001), wherein Avidya about the nature of reality, rather than sin, is considered the basic root of Dukkha. Removal of this Avidya leads to overcoming of Dukkha.
+While Avidyā found in [Buddhism](5001) and other Indian philosophies is often translated as "ignorance", states Alex Wayman, this is a mistranslation because it means more than ignorance. He suggests the term "unwisdom" to be a better rendition. The term includes not only ignorance out of darkness, but also obscuration, misconceptions, mistaking illusion to be reality or impermanent to be permanent or suffering to be bliss or non-self to be self (delusions). Incorrect knowledge is another form of Avidya, states Wayman.
+
+In other contexts, Avidya includes not knowing or not understanding the nature of phenomena as impermanent, the Four Noble Truths, other Buddhist doctrines, or the path to end suffering. Sonam Rinchen states Avidya in the context of the twelve links, that "Ignorance is the opposite of the understanding that the person or other phenomena lack intrinsic existence. Those who are affected by this ignorance create actions which precipitate them into further worldly existence." Not understanding the Four Noble Truths, or its implications, is also Avidya.
+
+In Buddhist traditions
+Avidya appears as a major item of discussion in two doctrines about the nature of reality, in various Buddhist traditions. One relates to the [Anatta](5029) (Anatman) doctrine, that is ignorance or misconceptions about "Self", when in reality there is only non-Self according to [Buddhism](5001). The second relates to [Anicca](5034) doctrine, that is ignorance or misconceptions about "permanence", when the nature of reality is impermanence.
+
+Theravada
+[Bhikkhu](5082) Bodhi states that Avidya is an important part of the Theravada [Abhidharma](4907) teachings about dependent arising about conditions that sustain the wheel of birth and death. One such condition is the karmic formations that arise from ignorance. In other words, states Bodhi, ignorance (avijja) obscures "perception of the true nature of things just as a cataract obscures perception of visible objects". In the Suttanta literature, this ignorance refers to the non-knowledge of the Four Noble Truths. In the [Abhidharma](4907) literature, in addition to the Four Noble Truths, it is the non-knowledge of one's 'past pre-natal lives' and 'post-mortem future lives' and of dependent arising.
+
+Mahayana
+The Mahayana tradition considers ignorance about the nature of reality and immemorial past lives to be a primordial force, which can only be broken through the insight of Emptiness (sunyata). However, compared to other Buddhist traditions, states Jens Braarvig, Avidyā is not so much emphasised, instead the emphasis on "construing an illusory reality" based on conceptualisation when the ultimate reality is Emptiness.
+Avidya is the greatest impurity and the primary cause of suffering, rebirth. The insight into Emptiness, state Garfield and Edelglass, that is the "lack of inherent nature of all phenomena, including the self, cuts the impurities", an insight into Emptiness yields full awakening.
+
+Vajrayana
+The Vajrayana tradition considers ignorance as fetters of bondage into samsara, and its teachings have focused on a Tantric path under the guidance of a teacher, to remove Avidya and achieve liberation in a single lifetime.
+Avidyā is identified as the first of the twelve links of dependent origination (twelve nidanas)—a sequence of links that describe why a being reincarnates and remains bound within the samsara, a cycle of repeated births and deaths in six realms of existence. The twelve nidanas are an application of the Buddhist concept of pratītyasamutpāda (dependent origination). This theory, presented in Samyutta Nikaya II.2–4 and Digha Nikaya II.55–63, asserts that rebirth, re-aging and re-death ultimately arise through a series of twelve links or nidanas ultimately rooted in Avidyā, and the twelfth step Jarāmaraṇa triggers the dependent origination of Avidyā, recreating an unending cycle of dukkha (suffering, pain, unsatisfactoriness).
+
+See also
+Avidya (Hinduism)
+Kleshas ([Buddhism](5001))
+Maya (illusion)
+Mental factors ([Buddhism](5001))
+Tanha for a complementary root of suffering in [Buddhism](5001).
+Three poisons ([Buddhism](5001))
+Twelve Nidanas
+
+Notes
+References
+Sources
+Robert Buswell; Donald Lopez (2013), Princeton Dictionary of [Buddhism](5001), Princeton, NJ: Princeton University Press, ISBN 9780691157863
+Conze, Edward (2013), Buddhist Thought in India: Three Phases of Buddhist Philosophy, Routledge, ISBN 978-1-134-54231-4
+Edelglass, William; et al. (2009), Buddhist Philosophy: Essential Readings, Oxford University Press, ISBN 978-0-19-532817-2
+Gethin, Rupert (1998), Foundations of [Buddhism](5001), Oxford University Press
+Harvey, Peter (1990), An Introduction to [Buddhism](5001), Cambridge University Press
+Peter Harvey (2013), The Selfless Mind: Personality, Consciousness and Nirvana in Early [Buddhism](5001), Routledge, ISBN 978-1-136-78329-6
+Keown, Damien (2013). [Buddhism](5001): A Very Short Introduction. Oxford University Press. ISBN 978-0-19-966383-5.
+Trainor, Kevin (2004), [Buddhism](5001): The Illustrated Guide, Oxford University Press, ISBN 978-0-19-517398-7
+Williams, Paul; Tribe, Anthony (2000), Buddhist Thought: A Complete Introduction to the Indian Tradition, Routledge, ISBN 0-415207010
+[Ajahn](5013) Sucitto (2010). Turning the Wheel of Truth: Commentary on the Buddha's First Teaching. Shambhala.
+[Bhikkhu](5082) Bodhi (2003), A Comprehensive Manual of Abhidhamma, Pariyatti Publishing
+Chogyam Trungpa (1972). "Karma and Rebirth: The Twelve Nidanas, by Chogyam Trungpa Rinpoche." Karma and the Twelve Nidanas, A Sourcebook for the Shambhala School of Buddhist Studies. Vajradhatu Publications.
+Dalai Lama (1992). The Meaning of Life, translated and edited by Jeffrey Hopkins, Boston: Wisdom.
+Mingyur Rinpoche (2007). The Joy of Living: Unlocking the Secret and Science of Happiness. Harmony. Kindle Edition.
+Sonam Rinchen (2006). How Karma Works: The Twelve Links of Dependent Arising, Snow Lion.
+
+Further reading
+Avijjā and Āsava, Surendranath Dasgupta, 1940
+Daniel Goleman: Vital Lies, Simple Truths: The Psychology of Self Deception (1985) Bloomsbury Publishing. ISBN 978-0-7475-3413-6
+Avijja Sutta Translated from the Pali by Thanissaro [Bhikkhu](5082)

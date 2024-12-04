@@ -1,0 +1,52 @@
+5283
+Beth din
+A beth din (Hebrew: בית דין, romanized: Bet Din, lit. 'house of judgment', bet ˈdin, Ashkenazic: beis din, plural: batei din) is a rabbinical court of [Judaism](5201). In ancient times, it was the building block of the legal system. Today, it is invested with legal powers in a number of religious matters (din Torah, "matter of litigation", plural dinei Torah) both in Israel and in Jewish communities in the diaspora, where its judgments hold varying degrees of authority (depending upon the jurisdiction and subject matter) in matters specifically related to Jewish religious life.
+
+History
+Rabbinical commentators point out that the first suggestion in the Torah that the ruler divest his legal powers and delegate his power of judgment to lower courts was made by Jethro to Moses (Exodus 18:14–26). This situation was formalised later when God gave the explicit command to "establish judges and officers in your gates" (Deuteronomy 16:18).
+There were three types of courts (Mishnah, tractate Sanhedrin 1:1-4 and 1:6):
+
+The Sanhedrin, the grand central court on the Temple Mount in Jerusalem, numbering 71
+Smaller courts of 23, called a Sanhedrin Ketana ("small Sanhedrin"). These courts could pass the death verdict. These existed on two levels, the one higher in standing than the other:
+The main cities of the tribes, had a court of 23
+All towns of a minimum size (either 120 or 230 people) had to have a court of 23, which was under the jurisdiction of the tribal court
+The smallest court of three was found in villages with a population of fewer than 120 people. Any smaller court (including a court of three laymen) could not pass binding verdicts, and only dealt with monetary matters.
+Participation in these courts required the classical semikhah (rabbinic ordination), the transmission of judicial authority in an unbroken line down from Moses. Since the destruction of the Temple in Jerusalem in 70 CE, or at the latest the abolition of the position of Nasi in 425 CE, the transmission of semikhah has been suspended. Attempts in the 16th century to reinstate the semikhah were unsuccessful; Rabbi Yosef Karo was one of the recipients of this semikhah.
+The Mishnah and Talmud distinguish between ritual or criminal matters and monetary matters (issurim and mamonoth), and impose different regulations for them, with criminal cases generally having much more stringent limitations. Courts ruled in both kinds of cases. Any question that could not be resolved by a smaller court was passed up to a higher court. If the Sanhedrin was still uncertain, divine opinion was sought through the Urim ve-Tumim (the parchment in the High Priest's breastplate, which was inscribed with the Name of God and could give supernatural clues).
+Given the suspension of semikhah, any beth din existing in medieval or modern times is in theory a court of laymen, acting as arbitrators. In practice, they are given greater powers than this by the local takkanot ha-kahal (community regulations), and are generally composed of experienced rabbis. Modern training institutes, especially in Israel, confer a qualification of dayan (religious judge), which is superior to the normal rabbinical qualification.
+
+Present day
+In Orthodox [Judaism](5201), the traditions state that a beth din consists of three observant Jewish men, at least one of whom is widely knowledgeable in halakha, to be capable of instructing the other members in any matters of halakha relevant to the case being heard. The rabbis on the beth din do not have to be expert in all aspects of Jewish law, rather only the area in question. For example, a beth din for conversion need only have expertise in conversion, not necessarily in all areas of Jewish law. There are also a number of opinions that permit women to serve on a beth din. One such opinion is Rabbi Ben Zion Uziel. Despite this, there are no Orthodox batei din currently with a woman as a member.
+In progressive communities, as well as in other non-Orthodox streams of [Judaism](5201), women do serve on the beth din.
+In practice, a permanent beth din will consist of three rabbis, while a beth din for an occasional matter (such as handling religious vows) need not consist of rabbis. A beth din which handles cases involving complex monetary issues or large community organizations requires "judges" (dayanim, singular: dayan), who require an additional semikhah (yadin yadin) which enables them to participate in such a beth din and adjudicate complex cases involving highly technical points of law.
+A beth din is only required for conversions and gittin (divorce documents), although lay people are permitted to sit on the beth din for conversions.
+In addition to this there are batei din around the world who supervise the following matters:
+
+Kosher certification of restaurants and food manufacturers (Hechsher).
+Examination of shochetim and the control of the shechita inspectors
+Supervising the building and maintenance of a mikvah.
+Determination of "personal status" (i. e., whether someone is a Jew according to halakha).
+The authorization and supervision of mohelim.
+Questions relating to burial practices and mourning.
+A beth din is sometimes used within the Orthodox Jewish community to resolve civil disputes, with the Shulkhan Arukh calling for civil cases being resolved by religious, instead of secular, courts (arka'oth). Modern Western societies increasingly permit civil disputes to be resolved by private arbitration, enabling religious Jews to enter into agreements providing for arbitration by a particular beth din in the event of a dispute. By this device, the rules, procedures, and judgement of the beth din are accepted and can be enforced by secular courts in the same manner as those of a secular arbitration association. For example, in a 2018 decision, the Court of Appeal in Ontario, Canada, enforced an arbitration decision by the New York rabbinical court tribunal Beth Din (or Bais Din) of Mechon L'Hoyroa, in Brooklyn. However, the decisions of religious courts cannot be binding without the prior agreement of both parties, and will otherwise act only as mediation.
+
+Officers of a beth din
+A beth din may have the following officers:
+
+Av Beth Din (אב בית דין‎, literally "Chief of the Court", abbreviated אב"ד‎ / ABD) is the most senior jurist who may join in the adjudication of cases or advise the presiding dayanim. The av beth din will usually be a highly respected rabbi and posek, who can give responsa. Traditionally, the salaried rabbi of the local Jewish community served as the av beth din.
+Rosh Beth Din (ראש בית דין‎, literally "Head of the Court", abbreviated ראב"ד‎) is equivalent to a chief justice. He will be the senior member of a three-judge panel. In smaller communities, the av beth din also serves as the rosh.
+A Dayan (דיין‎, rabbinic judge, plural: dayanim) sits and adjudicates cases. A rabbinic judge may directly question and cross-examine witnesses. The Dayan holds a specialized ordination titled Yadin Yadin.
+
+See also
+Rabbinic authority
+Rabbinical Court (Israel)
+Hefker beth-din hefker
+
+References
+External links
+Gov.il: The Rabbinical Courts (Israel)
+London Beth Din (UK)
+Beth Din of America
+The Johannesburg Beth Din
+Beth Din of the Business Halacha Institute
+What is a Beit Din (Chabad.org)

@@ -1,0 +1,49 @@
+3471
+Arthur B. McDonald
+Arthur Bruce McDonald,  P.Eng (born August 29, 1943) is a Canadian astrophysicist. McDonald is the director of the Sudbury Neutrino Observatory Collaboration and held the Gordon and Patricia Gray Chair in Particle [Astrophysics](3481) at Queen's University in Kingston, Ontario from 2006 to 2013. He was awarded the 2015 Nobel Prize in Physics jointly with Japanese physicist Takaaki Kajita.
+
+Early life
+Art McDonald was born on August 29, 1943, in Sydney, Nova Scotia. He graduated with a B.Sc. in physics in 1964 and M.Sc. in physics in 1965 from Dalhousie University in Nova Scotia. He then obtained his Ph.D. in physics in 1969 from the California Institute of Technology. McDonald cited a high school math teacher and his first-year physics professor at Dalhousie as his inspirations for going into the field of physics.
+
+Academic career
+Art McDonald worked as a research officer at the Chalk River Nuclear Laboratories northwest of Ottawa from 1969 to 1982. He became professor of physics at Princeton University from 1982 to 1989, leaving Princeton to join Queen's University where he was a professor from 1989 to 2013.
+McDonald was a visiting scientist at the European Organization for Nuclear Research ([CERN](774)) in Geneva in 2004.
+In 2013 McDonald became a professor emeritus of Queen's University in Kingston, Canada. He continues to be active in basic research in Neutrinos and Dark Matter at the SNOLAB underground Laboratory and was a past member of the board of the Perimeter Institute for Theoretical Physics.
+His visiting positions include [CERN](774), University of Washington (1978), Los Alamos National Laboratory (1981), University of Hawaii (2004, 2009), University of Oxford (2003, 2009),  Queen's University (1988).
+
+Research
+Physicists have been investigating whether or not neutrinos have mass. Since the late 1960s, experiments have hinted that neutrinos may have mass. Theoretical models of the Sun predict that neutrinos should be made in large numbers. Neutrino detectors on the Earth have repeatedly seen fewer than the expected number of neutrinos. Because neutrinos come in three varieties (electron, muon, and tau neutrinos), and because solar neutrino detectors have been primarily sensitive only to electron neutrinos, the preferred explanation over the years is that those "missing" neutrinos had changed, or oscillated, into a variety for which the detectors had little or no sensitivity. If a neutrino oscillates, according to the laws of quantum mechanics, then it must have a mass.
+In 1984, McDonald's collaborator Herb Chen at the University of California at Irvine suggested the advantages of using heavy water as a detector for solar neutrinos. Unlike previous detectors, using heavy water would make the detector sensitive to two reactions, one reaction sensitive to all neutrino flavours, the other sensitive to only the electron neutrino.  Thus, such a detector could measure neutrino oscillations directly.  Chen, Professor George Ewan, Professor David Sinclair, McDonald, and 12 other scientists formed the original Sudbury Neutrino Observatory (SNO) collaboration to exploit this idea in 1984.  SNO was to be a detector facility using 1000 tonnes of heavy water located 6,800 feet (2,100 m) underground in a mine outside Sudbury, Ontario.  Chen died of leukemia in November 1987, however.
+In August 2001, the Sudbury Neutrino Observatory, led by McDonald since 1989, reported observations that directly suggested electron neutrinos from the Sun were oscillating into muon and tau neutrinos.  McDonald is a co-recipient of the 2007 Benjamin Franklin Medal in Physics, the 2015 Nobel Prize in Physics, and the Breakthrough Prize in Fundamental Physics in 2016 for the discovery of neutrino oscillations and demonstrating that neutrinos have mass.
+Professor McDonald is now participating in research with the SNO+ and DEAP-3600 experiments at SNOLAB, an expanded underground laboratory at the original SNO underground site and with the DarkSide-20k collaboration developing an experiment at the underground laboratory near Gran Sasso, Italy.
+
+Arthur B. McDonald Canadian Astroparticle Physics Research Institute
+The Arthur B. McDonald Canadian Astroparticle Physics Research Institute was inaugurally named the Canadian Particle [Astrophysics](3481) Research Centre before renaming itself the Arthur B. McDonald Canadian Astroparticle Physics Research Institute in May 2018, in recognition of Dr. Arthur B. McDonald's trailblazing work making Canada a leader in astroparticle physics.
+
+Humanitarian work
+In the spring of 2020, amid the COVID-19 pandemic and the ensuing shortages, McDonald became one of the leaders of a project to mass-produce mechanical ventilators at low cost. McDonald has stated that the project was initiated by Princeton Professor Cristiano Galbiati who was locked down in Milan, Italy. He inspired action by his colleagues on the DarkSide-20k Dark Matter physics experiment after recognizing the similarities between the requirements of a ventilator and those of particle physics experiments. McDonald led the Canadian team with members from TRIUMF laboratory, CNL Chalk River, SNOLAB and the McDonald Canadian Astroparticle Physics Research Institute after strong positive response from the Directors of these institutions. The design, called the Mechanical Ventilator Milano, is based on the Manley ventilator but uses modern electronics wherever possible. The details, first published on March 23 by about 150 collaborators, were released under the [CERN](774) Open Hardware Licence. The project received the support of Prime Minister Justin Trudeau who anticipated an initial order of 30,000 to Canadian hospitals from several suppliers. An order has been placed for 10,000 units with Vexos, Markham.
+
+Selected honours and awards
+1983, Fellow of the [American Physical Society](3451)
+1998, Canada Council Killam Research Fellowship
+2003, Gerhard Herzberg Canada Gold Medal for Science and Engineering
+2005, Bruno Pontecorvo Prize in Particle Physics, JINR, Dubna
+2006, Officer of the Order of Canada
+2007, Benjamin Franklin Medal in Physics with Yoji Totsuka
+2009, Fellow of the Royal Society (FRS) of the UK and Commonwealth
+2009, Member of Canadian Science and Engineering Hall of Fame
+2010, Canada Council Killam Prize in Natural Sciences
+2011, Royal Society of Canada's Henry Marshall Tory Medal
+2012, Member of the Order of Ontario
+2015, Nobel Prize in Physics (jointly with Takaaki Kajita)
+2015, Promotion to Companion of the Order of Canada
+2016, asteroid 229781 Arthurmcdonald, discovered by Vincenzo Casulli at Vallemare di Borbona in 2008, was named in his honor.
+2016, Breakthrough Prize in Fundamental Physics (with the SNO Collaboration)
+2016, Foreign Associate of the National Academy of Sciences
+2016, Member of the Order of Nova Scotia
+
+References
+External links
+Arthur B. McDonald and Oscillating Neutrinos
+Arthur B. McDonald Quotes With Pictures
+Arthur B. McDonald on Nobelprize.org

@@ -1,0 +1,43 @@
+3867
+Attic numerals
+The Attic numerals are a symbolic number notation used by the ancient Greeks.  They were also known as Herodianic numerals because they were first described in a 2nd-century manuscript by Herodian; or as acrophonic numerals (from acrophony) because the basic symbols derive from the first letters of the (ancient) Greek words that the symbols represented. 
+The Attic numerals were a decimal (base 10) system, like the older Egyptian and the later Etruscan, Roman, and Hindu-Arabic systems. Namely, the number to be represented was broken down into simple multiples (1 to 9) of powers of ten — units, tens, hundred, thousands, etc..  Then these parts were written down in sequence, in order of decreasing value. As in the basic Roman system, each part was written down using a combination of two symbols, representing one and five times that power of ten.
+Attic numerals were adopted possibly starting in the 7th century BCE and although presently called Attic, they or variations thereof were universally used by the Greeks. No other numeral system is known to have been used on Attic inscriptions before the Common Era. Their replacement by the classic Greek numerals started in other parts of the Greek World around the 3rd century BCE. They are believed to have served as model for the Etruscan number system, although the two were nearly contemporary and the symbols are not obviously related.
+
+The system
+Symbols
+The Attic numerals used the following main symbols, with the given values:
+
+The symbols representing 50, 500, 5000, and 50000 were composites of an old form of the capital letter pi (with a short right leg) and a tiny version of the applicable power of ten. For example, 𐅆 was five times one thousand.
+
+Special symbols
+The fractions "one half" and "one quarter" were written "𐅁" and "𐅀", respectively.
+The symbols were slightly modified when used to encode amounts in talents (with a small capital tau, "Τ") or in staters (with a small capital sigma, "Σ"). Specific numeral symbols were used to represent one drachma ("𐅂") and ten minas "𐅗".
+
+The symbol for 100
+The use of "Η" (capital eta) for 100 reflects the early date of this numbering system.  In the Greek language of the time, the word for a hundred would be pronounced hɛkaton (with a "rough aspirated" sound /h/) and written "ΗΕΚΑΤΟΝ", because "Η" represented the sound /h/ in the Attic alphabet. In later, "classical" Greek, with the adoption of the Ionic alphabet throughout the majority of Greece, the letter eta had come to represent the long e sound while the rough aspiration was no longer marked. It was not until Aristophanes of Byzantium introduced the various accent markings during the Hellenistic period that the spiritus asper began to represent /h/, resulting in the spelling ἑκατόν.
+
+Simple multiples of powers of ten
+Multiples 1 to 9 of each power of ten were written by combining the two corresponding "1" and "5" digits, namely:
+
+Unlike the more familiar Roman numeral system, the Attic system used only the so-called "additive" notation. Thus, the numbers 4 and 9 were written ΙΙΙΙ and  ΠΙΙΙΙ, not ΙΠ and ΙΔ.
+
+General numbers
+In general, the number to be represented was broken down into simple multiples (1 to 9) of powers of ten — units, tens, hundred, thousands, etc..  Then these parts would be written down in sequence, from largest to smallest value. For example:
+
+49 =  40 + 9 = ΔΔΔΔ + ΠΙΙΙΙ = ΔΔΔΔΠΙΙΙΙ
+2001 = 2000 + 1 = ΧΧ + I = ΧΧΙ
+1982 = 1000 + 900 + 80 + 2 = Χ + 𐅅ΗΗΗΗ + 𐅄ΔΔΔ + ΙΙ = Χ𐅅ΗΗΗΗ𐅄ΔΔΔΙΙ
+62708 = 60000 + 2000 + 700 + 8 = 𐅇Μ + ΧΧ + 𐅅ΗΗ + ΠΙΙΙ = 𐅇ΜΧΧ𐅅ΗΗΠΙΙΙ.
+
+Unicode
+See also
+Etruscan numerals – Words, phrases and symbols for numbers of the Etruscan language
+Greek mathematics – Mathematics of Ancient Greeks
+Greek numerals – System of writing numbers using Greek letters
+History of ancient numeral systems – Symbols representing numbers
+List of numeral system topics
+List of numeral systems
+
+
+== Notes and references ==

@@ -1,0 +1,41 @@
+3470
+Arthur Ashkin
+Arthur Ashkin (September 2, 1922 – September 21, 2020) was an American scientist and Nobel laureate who worked at [Bell Labs](834). Ashkin has been considered by many as the father of optical tweezers,
+for which he was awarded the Nobel Prize in Physics 2018 at age 96, becoming the oldest Nobel laureate until 2019 when John B. Goodenough was awarded at 97. He resided in Rumson, New Jersey.
+Ashkin started his work on manipulation of microparticles with laser light in the late 1960s which resulted in the invention of optical tweezers in 1986. He also pioneered the optical trapping process that eventually was used to manipulate atoms, molecules, and biological cells. The key phenomenon is the radiation pressure of light; this pressure can be dissected down into optical gradient and scattering forces.
+
+Early life and family
+Arthur Ashkin was born in Brooklyn, New York, in 1922, to a family of Ukrainian-Jewish background.  His parents were Isadore and Anna Ashkin. He had two siblings, a brother, Julius, also a physicist, and a sister, Ruth. One older sibling, Gertrude, died while young. The family home was in Brooklyn, New York, at 983 E 27 Street. Isadore (né Aschkinase) had emigrated to the United States from Odessa (then Russian Empire, now Ukraine), at the age of 18. Anna, five years younger, also came from today's Ukraine, then Galicia, [Austro-Hungarian Empire](3485). Within a decade of his landing in New York, Isadore had become a U.S. citizen and was running a dental laboratory at 139 Delancey Street in Manhattan.
+Ashkin met his wife, Aline, at [Cornell University](3291), and they were married for over 60 years with three children and five grandchildren. She was a chemistry teacher at Holmdel High School, and their son Michael Ashkin, is an art professor at [Cornell University](3291).
+
+Education
+Ashkin graduated from Brooklyn's James Madison High School in 1940. He then attended [Columbia University](2080) and was also a technician for Columbia's Radiation Lab tasked with building magnetrons for U.S. military radar systems. He joined the U.S. Army reserves on July 31, 1945. He continued working in the [Columbia University](2080) lab. During this period, by Ashkin's own account, three Nobel laureates were in attendance.
+Ashkin finished his course work and obtained his BS degree in physics at [Columbia University](2080) in 1947. He then attended [Cornell University](3291), where he studied nuclear physics. This was during the era of the Manhattan Project, and Ashkin's brother, Julius Ashkin, was successfully part of it. This led to Arthur Ashkin's introduction to Hans Bethe, Richard Feynman and others who were at Cornell at the time.
+He received his PhD degree at [Cornell University](3291) in 1952, and then went to work for [Bell Labs](834) at the request and recommendation of Sidney Millman, who was Ashkin's supervisor at [Columbia University](2080).
+
+Career
+At [Bell Labs](834), Ashkin worked in the microwave field until about 1960 to 1961, and then switched to laser research. His research and published articles at that time pertained to nonlinear optics, optical fibers, parametric oscillators and parametric amplifiers. Also, at [Bell Labs](834) during the 1960s, he was the co-discoverer of the photorefractive effect in the piezoelectric crystal.
+Within various professional society memberships, Ashkin attained the rating of fellow in the Optical Society of America (OSA), the [American Physical Society](3451) (APS), and the Institute of Electrical and Electronics Engineers (IEEE). Ashkin received the Charles Hard Townes Medal in 1988 and the Frederic Ives Medal in 1998, both from The Optical Society. He was later named an Honorary Member of the organization. He retired from [Bell Labs](834) in 1992 after a 40-year career during which he contributed to many areas of experimental physics. He authored many research papers over the years and held 47 patents. He was recipient of the Joseph F. Keithley Award For Advances in Measurement Science in 2003 and the Harvey Prize in 2004. He was elected to the National Academy of Engineering in 1984 and to the National Academy of Sciences in 1996. He was inducted into the National Inventors Hall of Fame in 2013. He continued to work in his home lab.
+Besides optical tweezers, Ashkin is also known for his studies in photorefraction, second harmonic generation, and
+non-linear optics in fibers.
+Recent advances in physics and biology using optical micromanipulation include achievement of Bose–Einstein condensation in atomic vapors at submillikelvin temperatures, demonstration of atom lasers, and detailed measurements on individual motor molecules.
+Ashkin's work formed the basis for Steven Chu's work on cooling and trapping atoms, which earned Chu the 1997 Nobel Prize in physics.
+
+Nobel Prize
+On October 2, 2018, Arthur Ashkin was awarded a Nobel Prize in Physics for his work on optical trapping. Ashkin "was honoured for his invention of 'optical tweezers' that grab particles, atoms, viruses and other living cells with their laser beam fingers. With this he was able to use the radiation pressure of light to move physical objects, 'an old dream of science fiction', the Royal Swedish Academy of Sciences said." He was awarded half of the Prize while the other half was shared between Gérard Mourou and Donna Strickland for their work on chirped-pulse amplification, a technique "now used in laser machining that enables doctors to perform millions of corrective laser eye surgeries every year".
+At 96, Ashkin was the oldest Nobel Prize laureate to be awarded the prize, until John B. Goodenough received the Nobel Prize in Chemistry in 2019 at the age of 97. He died on September 21, 2020, at the age of 98.
+
+See also
+List of Jewish Nobel laureates
+
+References
+External links
+
+Arthur Ashkin publications indexed by Google Scholar
+Frontiers in Optics 2010. The Optical Society.
+Ashkin, Arthur (1970). "Acceleration and Trapping of Particles by Radiation Pressure". Phys. Rev. Lett. 24 (4): 156–159. Bibcode:1970PhRvL..24..156A. doi:10.1103/PhysRevLett.24.156. ISSN 0031-9007.
+National Academy of Engineering: Member listing
+National Academy of Sciences: Member listing
+Ashkin's Book on Atom Trapping
+Frederic Ives Medal
+Arthur Ashkin on Nobelprize.org  including the Nobel Lecture on 8 December 2018 Optical Tweezers and their Application to Biological Systems

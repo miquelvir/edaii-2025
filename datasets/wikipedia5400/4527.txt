@@ -1,0 +1,60 @@
+4527
+Antiqua–Fraktur dispute
+The Antiqua–Fraktur dispute was a typographical dispute in 19th- and early 20th-century Germany.
+In most European countries, blackletter typefaces like the German Fraktur were displaced with the creation of the Antiqua typefaces in the 15th and 16th centuries. However, in Germany and Austria, the two styles of printing coexisted until the first half of the 20th century.
+During that time, both styles gained ideological connotations in Germany, which led to long and heated disputes on what was the "correct" typeface to use. The eventual outcome was that the Antiqua-style typefaces prevailed when the Nazi Party chose to put an end to the use of Fraktur in favor of "normal typeface" (German: Normalschrifterlaß).
+
+Origin
+Historically, the dispute originates in the differing use of these two typefaces in most intellectual texts. Whereas Fraktur was preferred for works written in German, for Latin texts the Antiqua-style typefaces were normally used. This extended even to English–German dictionaries; the English words would all be written in Antiqua, and the German words in Fraktur. Originally this was simply a convention.
+
+19th century
+Conflict over the two typeface styles first came to a head after the occupation of Germany and dissolution of the [Holy Roman Empire](2250) by Napoleon in 1806, which led to a period in the history of Germany in which nationalists began to attempt to define cultural values common to all Germans. There was a massive effort to canonize the German national literature—for example, the Grimm Brothers' collection of fairy tales—and to create a unified German grammar.
+In the context of these debates, the two styles became increasingly polarized: Antiqua typefaces were seen as "un-German", and using them took on connotations of "shallow", "light", and "not serious". In contrast, Fraktur, with its much darker and denser script, was viewed as representing allegedly German virtues such as depth and sobriety.
+During the Romantic Era, in which the Middle Ages were glorified, Fraktur additionally gained the (historically incorrect) interpretation that it represented German Gothicism. For instance, Goethe's mother advised her son, who had taken to the clear Antiqua typefaces, to remain—"for God's sake"—German, even in the lettering style he chose.
+Otto von Bismarck was a keen supporter of German typefaces. He went so far as to refuse gifts of German books in Antiqua typefaces and returned them to sender with the statement Deutsche Bücher in lateinischen Buchstaben lese ich nicht! ('I don't read German books in Latin letters!').
+
+20th century
+The dispute between Antiqua and Fraktur continued well into the 20th century. Arguments for Fraktur were not only based on historical and cultural perceptions, but also on the claim that Fraktur was more suited for printing German and other Germanic languages, as their proponents claimed it to be more readable than Antiqua for this purpose.
+A 1910 publication by Adolf Reinecke, Die deutsche Buchstabenschrift, claims the following advantages for using Fraktur as the German script:
+
+German script is a real reading script: it is more readable, i.e. the word images are clearer, than Latin script.
+German script is more compact in printing, which is an advantage for fast recognition of word images while reading.
+German script is more suitable for expressing [German language](4501), as it is more adapted to the characteristics of the [German language](4501) than the Latin script.
+German script does not cause nearsightedness and is healthier for the eyes than Latin script.
+German script is still prone to development; Latin script is set in stone.
+German script can be read and understood all over the world, where it is actually often used as ornamental script.
+German script makes it easier for foreigners to understand the [German language](4501).
+Latin script will gradually lose its position as international script through the progress of the Anglo-Saxon world (here the author states that "Anglo-Saxons in the UK, the United States and Australia are still 'Germanic' enough to annihilate the Latin-scriptler's dream of a Latin 'world-script'").
+The use of Latin script for [German language](4501) will promote its infestation with foreign words.
+German script does not impede at all the proliferation of [German language](4501) and German culture in other countries.
+On 4 May 1911, a peak in the dispute was reached during a vote in the Reichstag. The Verein für Altschrift ("Association for Antiqua") had submitted a proposition to make Antiqua the official typeface (Fraktur had been the official typeface since the foundation of the German Empire) and no longer teach Kurrent (blackletter cursive) in the schools. After a long and, in places, very emotional debate, the proposition was narrowly rejected 85–82.
+
+Nazi period
+Nazis had a complex and variable relationship with Fraktur. [Adolf Hitler](3417) personally disliked it. In fact, as early as 1934 he denounced its continued use in a speech to the Reichstag:
+
+Your alleged Gothic internalization does not fit well in this age of steel and iron, glass and concrete, of womanly beauty and manly strength, of head raised high and intention defiant ... In a hundred years, our language will be the European language. The nations of the east, the north and the west will, to communicate with us, learn our language. The prerequisite for this: The script called Gothic is replaced by the script we have called Latin so far ...
+
+Nonetheless, Fraktur typefaces were particularly heavily used during the early years of the Nazi era, when they were initially represented as true German script. In fact, the press was scolded for its frequent use of "Roman characters" under "Jewish influence", and German émigrés were urged to use only "German script". However, Hitler's distaste for Fraktur saw it officially discontinued in 1941 in a Schrifterlass ("edict on script") signed by Martin Bormann, which asserted that it was falsely called "Gothic" and actually consisted of Schwabacher "Jewish letters".
+One of the motivations seems to have been compatibility with other European languages. The edict mentions publications destined for foreign countries, Antiqua would be more legible to those living in the occupied areas; the impetus for a rapid change in policy probably came from Joseph Goebbels and his Propaganda Ministry. Readers outside German-speaking countries were largely unfamiliar with Fraktur typefaces. Foreign fonts and machinery could be used for the production of propaganda and other materials in local languages, but not so easily in German as long as the official preference for Fraktur remained.
+
+Bormann's edict of 3 January 1941 at first forbade only the use of blackletter typefaces. A second memorandum banned the use of Kurrent handwriting, including Sütterlin, which had only been introduced in the 1920s. From the academic year 1941/42 onwards, only the so-called Normalschrift ("normal script"), which had hitherto been taught alongside Sütterlin under the name of "Latin script", was allowed to be used and taught. Kurrent did remain in use until 1945 for some applications such as cloth military insignia badges.
+
+After the Second World War
+After the war, the Sütterlin script was once again taught in the schools of some states of Germany as an additional script, but it could not hold out against the usage of Latin cursive scripts. As a consequence, most Germans find it difficult to decipher their own grandparents' letters, diaries, or certificates.
+However, the Fraktur script remains present in everyday life in some pub signs, beer brands and other forms of advertisement, where it is used to convey a certain sense of rusticity and oldness (compare the English ye olde). However, many of these deviate from the traditional letterforms, specifically in the frequent untraditional use of the round s instead of the long s (ſ) at the beginning of a syllable, the omission of ligatures, and the use of letter-forms more similar to Antiqua for certain especially hard-to-read Fraktur letters such as k. Books wholly printed in Fraktur are nowadays read mostly for particular interests. Since many people have difficulty understanding blackletter, they may have trouble accessing older editions of classic works in German.
+A few organizations such as the Bund für deutsche Schrift und Sprache continue to advocate the use of Fraktur typefaces, highlighting their cultural and historical heritage and their advantages when used for printing Germanic languages. But these organizations are small, somewhat sectarian, and not particularly well known in Germany.
+In the United States, Mexico, and Central America, Old Order Amish, Old Order Mennonite, Old Colony Mennonite, and Hutterite schools still teach the Kurrent handwriting and Fraktur script. Many German books printed by Amish and Mennonite printers use the Fraktur script.
+
+References
+Sources
+Michaud, Eric (2004). The Cult of Art in Nazi Germany. Translated by Lloyd, Janet. Stanford, California: Stanford University Press. ISBN 9780804743266.
+Reinecke, Adolf (1910). Die deutsche Buchstabenschrift: ihre Entstehung und Entwicklung, ihre Zweckmäßigkeit und völkische Bedeutung The German letter script: its origin and development, its usefulness and national meaning (in German). Borsdorf: Hasert.
+
+Further reading
+Hartmann, Silvia (1998). Fraktur oder Antiqua: der Schriftstreit von 1881 bis 1941 Fraktur vs Antiqua: the tyopgraphical dispute from 1881 to 1941 (in German). Frankfurt am Main: Lang. ISBN 3-631-33050-2.
+Kapr, Albert (1993). Fraktur, Form und Geschichte der gebrochenen Schriften Fraktur, form and history of blackletter typefaces (in German). Mainz: Verlag Hermann Schmidt. ISBN 3-87439-260-0.
+Killius, Christina (1999). Die Antiqua-Fraktur Debatte um 1800 und ihre historische Herleitung The Antiqua-Fraktur debate around 1800 and its historical derivation (in German). Wiesbaden: Harrassowitz Verlag. ISBN 3-447-03614-1.
+
+External links
+Die Nationalsozialisten und die Fraktur Archived 5 April 2005 at the Wayback Machine (in German)
+Bund für deutsche Schrift und Sprache (in German)

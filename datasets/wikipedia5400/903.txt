@@ -1,0 +1,359 @@
+903
+Actor model
+The actor model in computer science is a mathematical model of concurrent computation that treats an actor as the basic building block of concurrent computation. In response to a message it receives, an actor can: make local decisions, create more actors, send more messages, and determine how to respond to the next message received. Actors may modify their own private state, but can only affect each other indirectly through messaging (removing the need for lock-based synchronization).
+The actor model originated in 1973. It has been used both as a framework for a theoretical understanding of computation and as the theoretical basis for several practical implementations of concurrent systems. The relationship of the model to other work is discussed in actor model and process calculi.
+
+History
+According to Carl Hewitt, unlike previous models of computation, the actor model was inspired by physics, including general relativity and quantum mechanics. It was also influenced by the programming languages Lisp, Simula, early versions of Smalltalk, capability-based systems, and packet switching. Its development was "motivated by the prospect of highly parallel computing machines consisting of dozens, hundreds, or even thousands of independent microprocessors, each with its own local memory and communications processor, communicating via a high-performance communications network." Since that time, the advent of massive concurrency through multi-core and manycore computer architectures has revived interest in the actor model.
+Following Hewitt, Bishop, and Steiger's 1973 publication, Irene Greif developed an operational semantics for the actor model as part of her doctoral research. Two years later, Henry Baker and Hewitt published a set of axiomatic laws for actor systems. Other major milestones include William Clinger's 1981 dissertation introducing a denotational semantics based on power domains and Gul Agha's 1985 dissertation which further developed a transition-based semantic model complementary to Clinger's. This resulted in the full development of actor model theory.
+Major software implementation work was done by Russ Atkinson, Giuseppe Attardi, Henry Baker, Gerry Barber, Peter Bishop, Peter de Jong, Ken Kahn, Henry Lieberman, Carl Manning, Tom Reinhardt, Richard Steiger and Dan Theriault in the Message Passing Semantics Group at Massachusetts Institute of Technology (MIT). Research groups led by Chuck Seitz at California Institute of Technology (Caltech) and Bill Dally at MIT constructed computer architectures that further developed the message passing in the model. See Actor model implementation.
+Research on the actor model has been carried out at California Institute of Technology, Kyoto University Tokoro Laboratory, Microelectronics and Computer Technology Corporation (MCC), MIT Artificial Intelligence Laboratory, SRI, Stanford University, University of Illinois at Urbana–Champaign, Pierre and Marie Curie University (University of Paris 6), University of Pisa, University of Tokyo Yonezawa Laboratory, [Centrum Wiskunde & Informatica](784) (CWI) and elsewhere.
+
+Fundamental concepts
+The actor model adopts the philosophy that everything is an actor. This is similar to the everything is an object philosophy used by some object-oriented programming languages.
+An actor is a computational entity that, in response to a message it receives, can concurrently:
+
+send a finite number of messages to other actors;
+create a finite number of new actors;
+designate the behavior to be used for the next message it receives.
+There is no assumed sequence to the above actions and they could be carried out in parallel.
+Decoupling the sender from communications sent was a fundamental advance of the actor model enabling asynchronous communication and control structures as patterns of passing messages.
+Recipients of messages are identified by address, sometimes called "mailing address". Thus an actor can only communicate with actors whose addresses it has. It can obtain those from a message it receives, or if the address is for an actor it has itself created.
+The actor model is characterized by inherent concurrency of computation within and among actors, dynamic creation of actors, inclusion of actor addresses in messages, and interaction only through direct asynchronous message passing with no restriction on message arrival order.
+
+Formal systems
+Over the years, several different formal systems have been developed which permit reasoning about systems in the actor model. These include:
+
+Operational semantics
+Laws for actor systems
+Denotational semantics
+Transition semantics
+There are also formalisms that are not fully faithful to the actor model in that they do not formalize the guaranteed delivery of messages including the following (See Attempts to relate actor semantics to algebra and linear logic):
+
+Several different actor algebras
+Linear logic
+
+Applications
+The actor model can be used as a framework for modeling, understanding, and reasoning about a wide range of concurrent systems. For example:
+
+Electronic mail (email) can be modeled as an actor system. Accounts are modeled as actors and email addresses as actor addresses.
+Web services can be modeled as actors with Simple Object Access Protocol (SOAP) endpoints modeled as actor addresses.
+Objects with locks (e.g., as in Java and C#) can be modeled as a serializer, provided that their implementations are such that messages can continually arrive (perhaps by being stored in an internal queue). A serializer is an important kind of actor defined by the property that it is continually available to the arrival of new messages; every message sent to a serializer is guaranteed to arrive.
+Testing and Test Control Notation (TTCN), both TTCN-2 and TTCN-3, follows actor model rather closely. In TTCN actor is a test component: either parallel test component (PTC) or main test component (MTC). Test components can send and receive messages to and from remote partners (peer test components or test system interface), the latter being identified by its address. Each test component has a behaviour tree bound to it; test components run in parallel and can be dynamically created by parent test components. Built-in language constructs allow the definition of actions to be taken when an expected message is received from the internal message queue, like sending a message to another peer entity or creating new test components.
+
+Message-passing semantics
+The actor model is about the semantics of message passing.
+
+Unbounded nondeterminism controversy
+Arguably, the first concurrent programs were interrupt handlers. During the course of its normal operation a computer needed to be able to receive information from outside (characters from a keyboard, packets from a network, etc). So when the information arrived the execution of the computer was interrupted and special code (called an interrupt handler) was called to put the information in a data buffer where it could be subsequently retrieved.
+In the early 1960s, interrupts began to be used to simulate the concurrent execution of several programs on one processor. Having concurrency with shared memory gave rise to the problem of concurrency control. Originally, this problem was conceived as being one of mutual exclusion on a single computer. Edsger Dijkstra developed semaphores and later, between 1971 and 1973, Tony Hoare and Per Brinch Hansen developed monitors to solve the mutual exclusion problem. However, neither of these solutions provided a programming language construct that encapsulated access to shared resources. This encapsulation was later accomplished by the serializer construct (Hewitt and Atkinson 1977, 1979 and Atkinson 1980).
+The first models of computation (e.g., Turing machines, Post productions, the lambda calculus, etc.) were based on mathematics and made use of a global state to represent a computational step (later generalized in McCarthy and Hayes 1969 and Dijkstra 1976 see Event orderings versus global state). Each computational step was from one global state of the computation to the next global state. The global state approach was continued in automata theory for finite-state machines and push down stack machines, including their nondeterministic versions. Such nondeterministic automata have the property of bounded nondeterminism; that is, if a machine always halts when started in its initial state, then there is a bound on the number of states in which it halts.
+Edsger Dijkstra further developed the nondeterministic global state approach. Dijkstra's model gave rise to a controversy concerning unbounded nondeterminism (also called unbounded indeterminacy), a property of concurrency by which the amount of delay in servicing a request can become unbounded as a result of arbitration of contention for shared resources while still guaranteeing that the request will eventually be serviced. Hewitt argued that the actor model should provide the guarantee of service. In Dijkstra's model, although there could be an unbounded amount of time between the execution of sequential instructions on a computer, a (parallel) program that started out in a well defined state could terminate in only a bounded number of states Dijkstra 1976. Consequently, his model could not provide the guarantee of service. Dijkstra argued that it was impossible to implement unbounded nondeterminism.
+Hewitt argued otherwise: there is no bound that can be placed on how long it takes a computational circuit called an arbiter to settle (see metastability (electronics)). Arbiters are used in computers to deal with the circumstance that computer clocks operate asynchronously with respect to input from outside, e.g., keyboard input, disk access, network input, etc. So it could take an unbounded time for a message sent to a computer to be received and in the meantime the computer could traverse an unbounded number of states.
+The actor model features unbounded nondeterminism which was captured in a mathematical model by Will Clinger using domain theory. In the actor model, there is no global state.
+
+Direct communication and asynchrony
+Messages in the actor model are not necessarily buffered. This was a sharp break with previous approaches to models of concurrent computation. The lack of buffering caused a great deal of misunderstanding at the time of the development of the actor model and is still a controversial issue. Some researchers argued that the messages are buffered in the "ether" or the "environment". Also, messages in the actor model are simply sent (like packets in IP); there is no requirement for a synchronous handshake with the recipient.
+
+Actor creation plus addresses in messages means variable topology
+A natural development of the actor model was to allow addresses in messages. Influenced by packet switched networks 1961 and 1964, Hewitt proposed the development of a new model of concurrent computation in which communications would not have any required fields at all: they could be empty. Of course, if the sender of a communication desired a recipient to have access to addresses which the recipient did not already have, the address would have to be sent in the communication.
+For example, an actor might need to send a message to a recipient actor from which it later expects to receive a response, but the response will actually be handled by a third actor component that has been configured to receive and handle the response (for example, a different actor implementing the observer pattern). The original actor could accomplish this by sending a communication that includes the message it wishes to send, along with the address of the third actor that will handle the response. This third actor that will handle the response is called the resumption (sometimes also called a continuation or stack frame). When the recipient actor is ready to send a response, it sends the response message to the resumption actor address that was included in the original communication.
+So, the ability of actors to create new actors with which they can exchange communications, along with the ability to include the addresses of other actors in messages, gives actors the ability to create and participate in arbitrarily variable topological relationships with one another, much as the objects in Simula and other object-oriented languages may also be relationally composed into variable topologies of message-exchanging objects.
+
+Inherently concurrent
+As opposed to the previous approach based on composing sequential processes, the actor model was developed as an inherently concurrent model. In the actor model sequentiality was a special case that derived from concurrent computation as explained in actor model theory.
+
+No requirement on order of message arrival
+Hewitt argued against adding the requirement that messages must arrive in the order in which they are sent to the actor. If output message ordering is desired, then it can be modeled by a queue actor that provides this functionality. Such a queue actor would queue the messages that arrived so that they could be retrieved in FIFO order. So if an actor X sent a message M1 to an actor Y, and later X sent another message M2 to Y, there is no requirement that M1 arrives at Y before M2.
+In this respect the actor model mirrors packet switching systems which do not guarantee that packets must be received in the order sent. Not providing the order of delivery guarantee allows packet switching to buffer packets, use multiple paths to send packets, resend damaged packets, and to provide other optimizations.
+For more example, actors are allowed to pipeline the processing of messages. What this means is that in the course of processing a message M1, an actor can designate the behavior to be used to process the next message, and then in fact begin processing another message M2 before it has finished processing M1. Just because an actor is allowed to pipeline the processing of messages does not mean that it must pipeline the processing. Whether a message is pipelined is an engineering tradeoff. How would an external observer know whether the processing of a message by an actor has been pipelined? There is no ambiguity in the definition of an actor created by the possibility of pipelining. Of course, it is possible to perform the pipeline optimization incorrectly in some implementations, in which case unexpected behavior may occur.
+
+Locality
+Another important characteristic of the actor model is locality.
+Locality means that in processing a message, an actor can send messages only to addresses that it receives in the message, addresses that it already had before it received the message, and addresses for actors that it creates while processing the message. (But see Synthesizing addresses of actors.)
+Also locality means that there is no simultaneous change in multiple locations. In this way it differs from some other models of concurrency, e.g., the Petri net model in which tokens are simultaneously removed from multiple locations and placed in other locations.
+
+Composing actor systems
+The idea of composing actor systems into larger ones is an important aspect of modularity that was developed in Gul Agha's doctoral dissertation, developed later by Gul Agha, Ian Mason, Scott Smith, and Carolyn Talcott.
+
+Behaviors
+A key innovation was the introduction of behavior specified as a mathematical function to express what an actor does when it processes a message, including specifying a new behavior to process the next message that arrives. Behaviors provided a mechanism to mathematically model the sharing in concurrency.
+Behaviors also freed the actor model from implementation details, e.g., the Smalltalk-72 token stream interpreter. However, the efficient implementation of systems described by the actor model require extensive optimization. See Actor model implementation for details.
+
+Modeling other concurrency systems
+Other concurrency systems (e.g., process calculi) can be modeled in the actor model using a two-phase commit protocol.
+
+Computational Representation Theorem
+There is a Computational Representation Theorem in the actor model for systems which are closed in the sense that they do not receive communications from outside. The mathematical denotation denoted by a closed system 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathtt {S}}}
+  
+ is constructed from an initial behavior 
+  
+    
+      
+        
+          ⊥
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle \bot _{\mathtt {S}}}
+  
+ and a behavior-approximating function 
+  
+    
+      
+        
+          
+            p
+            r
+            o
+            g
+            r
+            e
+            s
+            s
+            i
+            o
+            n
+          
+          
+            
+              S
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {progression} _{\mathtt {S}}.}
+  
+ These obtain increasingly better approximations and construct a denotation (meaning) for 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathtt {S}}}
+  
+ as follows Hewitt 2008; Clinger 1981:
+
+  
+    
+      
+        
+          
+            D
+            e
+            n
+            o
+            t
+            e
+          
+          
+            
+              S
+            
+          
+        
+        ≡
+        
+          lim
+          
+            i
+            →
+            ∞
+          
+        
+        
+          
+            p
+            r
+            o
+            g
+            r
+            e
+            s
+            s
+            i
+            o
+            n
+          
+          
+            
+              
+                
+                  S
+                
+              
+              
+                i
+              
+            
+          
+        
+        (
+        
+          ⊥
+          
+            
+              S
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {Denote} _{\mathtt {S}}\equiv \lim _{i\to \infty }\mathbf {progression} _{{\mathtt {S}}^{i}}(\bot _{\mathtt {S}})}
+  
+
+In this way, 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathtt {S}}}
+  
+ can be mathematically characterized in terms of all its possible behaviors (including those involving unbounded nondeterminism). Although 
+  
+    
+      
+        
+          
+            D
+            e
+            n
+            o
+            t
+            e
+          
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {Denote} _{\mathtt {S}}}
+  
+ is not an implementation of 
+  
+    
+      
+        
+          
+            S
+          
+        
+      
+    
+    {\displaystyle {\mathtt {S}}}
+  
+, it can be used to prove a generalization of the Church-Turing-Rosser-Kleene thesis Kleene 1943:
+A consequence of the above theorem is that a finite actor can nondeterministically respond with an uncountable number of different outputs.
+
+Relationship to logic programming
+One of the key motivations for the development of the actor model was to understand and deal with the control structure issues that arose in development of the Planner programming language. Once the actor model was initially defined, an important challenge was to understand the power of the model relative to Robert Kowalski's thesis that "computation can be subsumed by deduction". Hewitt argued that Kowalski's thesis turned out to be false for the concurrent computation in the actor model (see Indeterminacy in concurrent computation).
+Nevertheless, attempts were made to extend logic programming to concurrent computation. However, Hewitt and Agha 1991 claimed that the resulting systems were not deductive in the following sense: computational steps of the concurrent logic programming systems do not follow deductively from previous steps (see Indeterminacy in concurrent computation). Recently, logic programming has been integrated into the actor model in a way that maintains logical semantics.
+
+Migration
+Migration in the actor model is the ability of actors to change locations. E.g., in his dissertation, Aki Yonezawa modeled a post office that customer actors could enter, change locations within while operating, and exit. An actor that can migrate can be modeled by having a location actor that changes when the actor migrates. However the faithfulness of this modeling is controversial and the subject of research.
+
+Security
+The security of actors can be protected in the following ways:
+
+hardwiring in which actors are physically connected
+computer hardware as in Burroughs B5000, Lisp machine, etc.
+virtual machines as in Java virtual machine, Common Language Runtime, etc.
+operating systems as in capability-based systems
+signing and/or encryption of actors and their addresses
+
+Synthesizing addresses of actors
+A delicate point in the actor model is the ability to synthesize the address of an actor. In some cases security can be used to prevent the synthesis of addresses (see Security). However, if an actor address is simply a bit string then clearly it can be synthesized although it may be difficult or even infeasible to guess the address of an actor if the bit strings are long enough. SOAP uses a URL for the address of an endpoint where an actor can be reached. Since a URL is a character string, it can clearly be synthesized although encryption can make it virtually impossible to guess.
+Synthesizing the addresses of actors is usually modeled using mapping. The idea is to use an actor system to perform the mapping to the actual actor addresses. For example, on a computer the memory structure of the computer can be modeled as an actor system that does the mapping. In the case of SOAP addresses, it's modeling the DNS and the rest of the URL mapping.
+
+Contrast with other models of message-passing concurrency
+Robin Milner's initial published work on concurrency was also notable in that it was not based on composing sequential processes. His work differed from the actor model because it was based on a fixed number of processes of fixed topology communicating numbers and strings using synchronous communication. The original communicating sequential processes (CSP) model published by Tony Hoare differed from the actor model because it was based on the parallel composition of a fixed number of sequential processes connected in a fixed topology, and communicating using synchronous message-passing based on process names (see Actor model and process calculi history). Later versions of CSP abandoned communication based on process names in favor of anonymous communication via channels, an approach also used in Milner's work on the calculus of communicating systems (CCS) and the π-calculus.
+These early models by Milner and Hoare both had the property of bounded nondeterminism. Modern, theoretical CSP (Hoare 1985 and Roscoe 2005) explicitly provides unbounded nondeterminism.
+Petri nets and their extensions (e.g., coloured Petri nets) are like actors in that they are based on asynchronous message passing and unbounded nondeterminism, while they are like early CSP in that they define fixed topologies of elementary processing steps (transitions) and message repositories (places).
+
+Influence
+The actor model has been influential on both theory development and practical software development.
+
+Theory
+The actor model has influenced the development of the π-calculus and subsequent process calculi. In his Turing lecture, Robin Milner wrote:
+
+Now, the pure lambda-calculus is built with just two kinds of thing: terms and variables. Can we achieve the same economy for a process calculus? Carl Hewitt, with his actors model, responded to this challenge long ago; he declared that a value, an operator on values, and a process should all be the same kind of thing: an actor.
+This goal impressed me, because it implies the homogeneity and completeness of expression ... But it was long before I could see how to attain the goal in terms of an algebraic calculus...
+
+So, in the spirit of Hewitt, our first step is to demand that all things denoted by terms or accessed by names—values, registers, operators, processes, objects—are all of the same kind of thing; they should all be processes.
+
+Practice
+The actor model has had extensive influence on commercial practice. For example, Twitter has used actors for scalability. Also, Microsoft has used the actor model in the development of its Asynchronous Agents Library. There are many other actor libraries listed in the actor libraries and frameworks section below.
+
+Addressed issues
+According to Hewitt 2006, the actor model addresses issues in computer and communications architecture, concurrent programming languages, and Web services including the following:
+
+Scalability: the challenge of scaling up concurrency both locally and nonlocally.
+Transparency: bridging the chasm between local and nonlocal concurrency. Transparency is currently a controversial issue. Some researchers  have advocated a strict separation between local concurrency using concurrent programming languages (e.g., Java and C#) from nonlocal concurrency using SOAP for Web services. Strict separation produces a lack of transparency that causes problems when it is desirable/necessary to change between local and nonlocal access to Web services (see [Distributed computing](900)).
+Inconsistency: inconsistency is the norm because all very large knowledge systems about human information system interactions are inconsistent. This inconsistency extends to the documentation and specifications of very large systems (e.g., Microsoft Windows software, etc.), which are internally inconsistent.
+Many of the ideas introduced in the actor model are now also finding application in multi-agent systems for these same reasons Hewitt 2006b 2007b. The key difference is that agent systems (in most definitions) impose extra constraints upon the actors, typically requiring that they make use of commitments and goals.
+
+Programming with actors
+A number of different programming languages employ the actor model or some variation of it. These languages include:
+
+Early actor programming languages
+Act 1, 2 and 3
+Acttalk
+Ani
+Cantor
+Rosette
+
+Later actor programming languages
+Actor libraries and frameworks
+Actor libraries or frameworks have also been implemented to permit actor-style programming in languages that don't have actors built-in. Some of these frameworks are:
+
+See also
+Autonomous agent
+Data flow
+Gordon Pask
+Input/output automaton
+Scientific community metaphor
+
+References
+Further reading
+External links
+Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know, but were afraid to ask) Microsoft Channel 9. April 9, 2012. Video on YouTube
+Functional Java Archived 2011-07-09 at the Wayback Machine – a Java library that includes an implementation of concurrent actors with code examples in standard Java and Java 7 BGGA style.
+ActorFoundry – a Java-based library for actor programming. The familiar Java syntax, an ant build file and a bunch of example make the entry barrier very low.
+ActiveJava – a prototype Java language extension for actor programming.
+Akka – actor based library in Scala and Java, from Lightbend Inc.
+GPars – a concurrency library for Apache Groovy and Java
+Asynchronous Agents Library – Microsoft actor library for Visual C++. "The Agents Library is a C++ template library that promotes an actor-based programming model and in-process message passing for coarse-grained dataflow and pipelining tasks. "
+ActorThread in C++11 – base template providing the gist of the actor model over naked threads in standard C++11

@@ -1,0 +1,552 @@
+3845
+Apollonius's theorem
+In geometry, Apollonius's theorem is a theorem relating the length of a median of a triangle to the lengths of its sides. It states that the sum of the squares of any two sides of any triangle equals twice the square on half the third side, together with twice the square on the median bisecting the third side. The theorem is named for the ancient Greek mathematician [Apollonius of Perga](3846).
+
+Statement and relation to other theorem
+In any triangle 
+  
+    
+      
+        A
+        B
+        C
+        ,
+      
+    
+    {\displaystyle ABC,}
+  
+ if 
+  
+    
+      
+        A
+        D
+      
+    
+    {\displaystyle AD}
+  
+ is a median, then 
+
+  
+    
+      
+        
+          |
+        
+        A
+        B
+        
+          
+            |
+          
+          
+            2
+          
+        
+        +
+        
+          |
+        
+        A
+        C
+        
+          
+            |
+          
+          
+            2
+          
+        
+        =
+        2
+        (
+        
+          |
+        
+        B
+        D
+        
+          
+            |
+          
+          
+            2
+          
+        
+        +
+        
+          |
+        
+        A
+        D
+        
+          
+            |
+          
+          
+            2
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle |AB|^{2}+|AC|^{2}=2(|BD|^{2}+|AD|^{2}).}
+  
+
+It is a special case of Stewart's theorem. For an isosceles triangle with 
+  
+    
+      
+        
+          |
+        
+        A
+        B
+        
+          |
+        
+        =
+        
+          |
+        
+        A
+        C
+        
+          |
+        
+        ,
+      
+    
+    {\displaystyle |AB|=|AC|,}
+  
+ the median 
+  
+    
+      
+        A
+        D
+      
+    
+    {\displaystyle AD}
+  
+ is perpendicular to 
+  
+    
+      
+        B
+        C
+      
+    
+    {\displaystyle BC}
+  
+ and the theorem reduces to the Pythagorean theorem for triangle 
+  
+    
+      
+        A
+        D
+        B
+      
+    
+    {\displaystyle ADB}
+  
+ (or triangle 
+  
+    
+      
+        A
+        D
+        C
+      
+    
+    {\displaystyle ADC}
+  
+). From the fact that the diagonals of a parallelogram bisect each other, the theorem is equivalent to the parallelogram law.
+
+Proof
+The theorem can be proved as a special case of Stewart's theorem, or can be proved using vectors (see parallelogram law). The following is an independent proof using the law of cosines.
+Let the triangle have sides 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+  
+ with a median 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ drawn to side 
+  
+    
+      
+        a
+        .
+      
+    
+    {\displaystyle a.}
+  
+ Let 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ be the length of the segments of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ formed by the median, so 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ is half of 
+  
+    
+      
+        a
+        .
+      
+    
+    {\displaystyle a.}
+  
+ Let the angles formed between 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ and 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ be 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ and 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+        ,
+      
+    
+    {\displaystyle \theta ^{\prime },}
+  
+ where 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ includes 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ and 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \theta ^{\prime }}
+  
+ includes 
+  
+    
+      
+        c
+        .
+      
+    
+    {\displaystyle c.}
+  
+ Then 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \theta ^{\prime }}
+  
+ is the supplement of 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ and 
+  
+    
+      
+        cos
+        ⁡
+        
+          θ
+          
+            ′
+          
+        
+        =
+        −
+        cos
+        ⁡
+        θ
+        .
+      
+    
+    {\displaystyle \cos \theta ^{\prime }=-\cos \theta .}
+  
+ The law of cosines for 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ and 
+  
+    
+      
+        
+          θ
+          
+            ′
+          
+        
+      
+    
+    {\displaystyle \theta ^{\prime }}
+  
+ states that
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  m
+                  
+                    2
+                  
+                
+                +
+                
+                  d
+                  
+                    2
+                  
+                
+                −
+                2
+                d
+                m
+                cos
+                ⁡
+                θ
+              
+            
+            
+              
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  m
+                  
+                    2
+                  
+                
+                +
+                
+                  d
+                  
+                    2
+                  
+                
+                −
+                2
+                d
+                m
+                cos
+                ⁡
+                
+                  θ
+                  ′
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  m
+                  
+                    2
+                  
+                
+                +
+                
+                  d
+                  
+                    2
+                  
+                
+                +
+                2
+                d
+                m
+                cos
+                ⁡
+                θ
+                .
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b^{2}&=m^{2}+d^{2}-2dm\cos \theta \\c^{2}&=m^{2}+d^{2}-2dm\cos \theta '\\&=m^{2}+d^{2}+2dm\cos \theta .\,\end{aligned}}}
+  
+
+Add the first and third equations to obtain
+
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+        +
+        
+          c
+          
+            2
+          
+        
+        =
+        2
+        (
+        
+          m
+          
+            2
+          
+        
+        +
+        
+          d
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle b^{2}+c^{2}=2(m^{2}+d^{2})}
+  
+
+as required.
+
+See also
+Formulas involving the medians' lengths – Line segment joining a triangle's vertex to the midpoint of the opposite side
+
+References
+External links
+Apollonius Theorem at PlanetMath.
+David B. Surowski: Advanced High-School Mathematics. p. 27

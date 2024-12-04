@@ -1,0 +1,39 @@
+4643
+Back vowel
+A back vowel is any in a class of vowel sound used in spoken languages. The defining characteristic of a back vowel is that the highest point of the tongue is positioned relatively back in the mouth without creating a constriction that would be classified as a consonant. Back vowels are sometimes also called dark vowels because they are perceived as sounding darker than the front vowels.
+Near-back vowels are essentially a type of back vowels; no language is known to contrast back and near-back vowels based on backness alone.
+The category "back vowel" comprises both raised vowels and retracted vowels.
+
+Articulation
+In their articulation, back vowels do not form a single category, but may be either raised vowels such as u or retracted vowels such as ɑ.
+
+Partial list
+The back vowels that have dedicated symbols in the International Phonetic Alphabet are:
+
+close back unrounded vowel ɯ
+close back protruded vowel u
+near-close back protruded vowel ʊ
+close-mid back unrounded vowel ɤ
+close-mid back protruded vowel o
+open-mid back unrounded vowel ʌ
+open-mid back rounded vowel ɔ
+open back unrounded vowel ɑ
+open back rounded vowel ɒ
+There also are back vowels that do not have dedicated symbols in the IPA:
+
+close back compressed vowel ɯᵝ or uᵝ
+near-close back unrounded vowel ɯ̽ or ʊ̜
+near-close back compressed vowel ɯ̽ᵝ or ʊᵝ
+close-mid back compressed vowel ɤᵝ or oᵝ
+mid back unrounded vowel ɤ̞ or ʌ̝
+mid back rounded vowel o̞ or ɔ̝
+As here, other back vowels can be transcribed with diacritics of relative articulation applied to letters for neighboring vowels, such as ⟨u̞⟩, ⟨o̝⟩ or ⟨ʊ̠⟩ for a near-close back rounded vowel.
+
+See also
+Front vowel
+[Central vowel](4690)
+List of phonetics topics
+Relative articulation
+
+
+== References ==

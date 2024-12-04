@@ -1,0 +1,221 @@
+3793
+Ancient Macedonian language
+Ancient Macedonian was the language of the ancient Macedonians which was either a dialect of [Ancient Greek](3061) or a separate Hellenic language. It was spoken in the kingdom of Macedonia during the 1st millennium BC and belonged to the Indo-European language family. It gradually fell out of use during the 4th century BC, marginalized by the use of Attic Greek by the Macedonian aristocracy, the [Ancient Greek](3061) dialect that became the basis of Koine Greek, the lingua franca of the Hellenistic period. It became extinct during either the Hellenistic or Roman imperial period, and was entirely replaced by Koine Greek.
+While the bulk of surviving public and private inscriptions found in ancient Macedonia were written in Attic Greek (and later in Koine Greek), fragmentary documentation of a vernacular local variety comes from onomastic evidence, ancient glossaries and recent epigraphic discoveries in the Greek region of Macedonia, such as the Pella curse tablet. This local variety is usually classified by scholars as a dialect of Northwest Doric Greek, and occasionally as an Aeolic Greek dialect or a distinct sister language of Greek.
+
+Classification
+Due to the fragmentary attestation of this dialect or language, various interpretations are possible. Suggested classifications of ancient Macedonian include:
+
+A Greek dialect, part of the Northwest Doric group of dialects; pioneered by Friedrich Wilhelm Sturz (1808), and subsequently supported by Olivier Masson (1996), Michael Meier-Brügger (2003), Johannes Engels (2010), J. Méndez Dosuna (2012), Georgios Babiniotis (2014), Joachim Matzinger (2016), Emilio Crespo (2017), Claude Brixhe (2018), and M. B. Hatzopoulos (2020).
+A Greek dialect related to, or a version of, Aeolic Greek; suggested by August Fick (1874), Otto Hoffmann (1906), N. G. L. Hammond (1997) and Ian Worthington (2012).
+A sister language of Greek, according to a scheme in which Macedonian and Greek are the two branches of a Greco-Macedonian subgroup (sometimes called "Hellenic"); suggested by Georgiev (1966), Joseph (2001) and Hamp (2013).
+
+Properties
+Because of the fragmentary sources of Ancient Macedonian, only a little is understood about the special features of the language. A notable sound-law is that the Proto-Indo-European voiced aspirates (/bʰ, dʰ, gʰ/) sometimes appear as voiced stops /b, d, g/, (written β, δ, γ), whereas they were generally unvoiced as /pʰ, tʰ, kʰ/ (φ, θ, χ) elsewhere in [Ancient Greek](3061).
+
+Macedonian δάνος dánοs ('death', from PIE *dhenh₂- 'to leave'), compared to Attic θάνατος thánatos
+Macedonian ἀβροῦτες abroûtes or ἀβροῦϝες abroûwes, compared to Attic ὀφρῦς ophrûs for 'eyebrows'
+Macedonian Βερενίκη Bereníkē, compared to Attic Φερενίκη Phereníkē, 'bearing victory' (Personal name)
+Macedonian ἄδραια adraia ('bright weather'), compared to Attic αἰθρία aithría, from PIE *h₂aidh-
+Macedonian βάσκιοι báskioi ('fasces'), compared to Attic φάσκωλος pháskōlos 'leather sack', from PIE *bhasko
+According to Herodotus 7.73 (c. 440 BC), the Macedonians claimed that the Phryges were called Bryges before they migrated from Thrace to Anatolia (around 8th–7th century BC).
+According to Plutarch, Moralia Macedonians use 'b' instead of 'ph', while Delphians use 'b' in the place of 'p'.
+Macedonian μάγειρος mágeiros ('butcher') was a loan from Doric into Attic. Vittore Pisani has suggested an ultimately Macedonian origin for the word, which could then be cognate to μάχαιρα mákhaira ('knife', < PIE *magh-, 'to fight')
+If γοτάν gotán ('pig') is related to Proto-Hellenic noun *gʷous, and hence to PIE noun *gʷṓws ('cattle'), this would indicate that the labiovelars were either intact, or merged with the velars, unlike the usual Greek treatment (Attic βοῦς boûs). Such deviations, however, are not unknown in Greek dialects; compare Laconian Doric (the dialect of Sparta) γλεπ- glep- for common Greek βλεπ- blep-, as well as Doric γλάχων gláchōn and Ionic γλήχων glēchōn for common Greek βλήχων blēchōn.
+A number of examples suggest that voiced velar stops were devoiced, especially word-initially: κάναδοι kánadoi, 'jaws' (< PIE *genu-); κόμβους kómbous, 'molars' (< PIE *gombh-); within words: ἀρκόν arkón (Attic ἀργός argós); the Macedonian toponym Akesamenai, from the Pierian name Akesamenos (if Akesa- is cognate to Greek agassomai, agamai, "to astonish"; cf. the Thracian name Agassamenos).
+In Aristophanes' The Birds, the form κεβλήπυρις keblēpyris ('red head', the name of a bird, perhaps the goldfinch or redpoll) is found, showing a Macedonian-style voiced stop in place of a standard Greek unvoiced aspirate: κεβ(α)λή keb(a)lē versus κεφαλή kephalē ('head'). Emilio Crespo, a researcher at the Autonomous University of Madrid, wrote that "the voicing of voiceless stops and the development of aspirates into voiced fricatives turns out to be the outcome of an internal development of Macedonian as a dialect of Greek" without excluding "the presence of interference from other languages or of any linguistic substrate or adstrate", as also argued by M. Hatzopoulos.
+A number of the Macedonian words, particularly in Hesychius of Alexandria' lexicon, are disputed (i.e., some do not consider them actual Macedonian words) and some may have been corrupted in the transmission. Thus abroutes, may be read as abrouwes (αβρουϝες), with tau (Τ) replacing a digamma. If so, this word would perhaps be encompassable within a Greek dialect; however, others (e.g. A. Meillet) see the dental as authentic and think that this specific word would perhaps belong to an Indo-European language different from Greek.
+A. Panayotou summarizes some features generally identified through ancient texts and epigraphy:
+
+Phonology
+Occasional development of voiced aspirates (*bh, *dh, *gh) into voiced stops (b, d, g) (e.g. Βερενίκα, Attic Φερενίκη)
+Retention of */a:/ (e.g. Μαχάτας), also present in Epirotic
+a: as a result of contraction between a: and ɔ:
+Apocope of short vowels in prepositions in synthesis (παρκαττίθεμαι, Attic παρακατατίθεμαι)
+Syncope (hyphairesis) and diphthongization are used to avoid hiatus (e.g. Θετίμα, Attic Θεοτίμη; compare with Epirotic Λαγέτα, Doric Λαογἐτα).
+Occasional retention of the pronunciation u of /u(:)/ in local cult epithets or nicknames (Κουναγίδας = Κυναγίδας)
+Raising of /ɔ:/ to /u:/ in proximity to nasal (e.g. Κάνουν, Attic Κανών)
+Simplification of the sequence /ign/ to /i:n/ (γίνομαι, Attic γίγνομαι)
+Loss of aspiration of the consonant cluster /sth/ (> /st/) (γενέσται, Attic γενέσθαι)
+
+Morphology
+Ancient Macedonian morphology is shared with ancient Epirus, including some of the oldest inscriptions from Dodona. The morphology of the first declension nouns with an -ας ending is also shared with Thessalian (e.g. Epitaph for Pyrrhiadas, Kierion).
+
+First-declension masculine and feminine in -ας and -α respectively (e.g. Πεύκεστας, Λαομάγα)
+First-declension masculine genitive singular in -α (e.g. Μαχάτα)
+First-declension genitive plural in -ᾶν
+First person personal pronoun dative singular ἐμίν
+Temporal conjunction ὁπόκα
+Possibly, a non-sigmatic nominative masculine singular in the first declension (ἱππότα, Attic ἱππότης)
+
+Onomastics
+Anthroponymy
+M. Hatzopoulos and Johannes Engels summarize the Macedonian anthroponymy (that is names borne by people from Macedonia before the expansion beyond the Axios or people undoubtedly hailing from this area after the expansion) as follows:
+
+Epichoric (local) Greek names that either differ from the phonology of the introduced Attic or that remained almost confined to Macedonians throughout antiquity
+Panhellenic (common) Greek names
+Identifiable non-Greek (Thracian and Illyrian) names
+Names without a clear Greek etymology that can't however be ascribed to any identifiable non-Greek linguistic group.
+Common in the creation of ethnics is the use of -έστης, -εστός especially when derived from sigmatic nouns (ὄρος > Ὀρέστης but also Δῖον > Διασταί). 
+Per Engels, the above material supports that Macedonian anthroponymy was predominantly Greek in character.
+
+Toponymy
+The toponyms of Macedonia proper are generally Greek, though some of them show a particular phonology and a few others are non-Greek.
+
+Calendar
+The Macedonian calendar's origins go back to Greek prehistory. The names of the Macedonian months, just like most of the names of Greek months, are derived from feasts and related celebrations in honor of the Greek gods. Most of them combine a Macedonian dialectal form with a clear Greek etymology (e.g Δῐός from Zeus; Περίτιος from Heracles Peritas (“Guardian”) ; Ξανδικός/Ξανθικός from Xanthos, “the blond” (probably a reference to Heracles); Άρτεμίσιος from [Artemis](163) etc.) with the possible exception of one, which is attested in other Greek calendars as well. According to Martin P. Nilsson, the Macedonian calendar is formed like a regular Greek one and the names of the months attest the Greek nationality of the Macedonians.
+
+Epigraphy
+Macedonian onomastics: the earliest epigraphical documents attesting substantial numbers of Macedonian proper names are the second Athenian alliance decree with Perdiccas II (~417–413 BC), the decree of Kalindoia (~335–300 BC) and seven curse tablets of the 4th century BC bearing mostly names.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+About 99% of the roughly 6,300 inscriptions discovered by archaeologists within the confines of ancient Macedonia were written in the Greek language, using the Greek alphabet. The legends in all currently discovered coins also in Greek. The Pella curse tablet, a text written in a distinct Doric Greek dialect, found in 1986 and dated to between mid to early 4th century BC, has been forwarded as an argument that the ancient Macedonian language was a dialect of North-Western Greek, part of the Doric dialect group.
+
+Hesychius' glossary
+A body of idiomatic words has been assembled from ancient sources, mainly from coin inscriptions, and from the 5th century lexicon of Hesychius of Alexandria, amounting to about 150 words and 200 proper names, though the number of considered words sometimes differs from scholar to scholar. The majority of these words can be confidently assigned to Greek albeit some words would appear to reflect a dialectal form of Greek. There are, however, a number of words that are not easily identifiable as Greek and reveal, for example, voiced stops where Greek shows voiceless aspirates. 
+⟨†⟩ marked words which have been corrupted.
+
+ἄβαγνα abagna 'roses amaranta (unwithered)' (Attic ῥόδα rhoda, Aeolic βρόδα broda roses). (LSJ: amarantos unfading. Amaranth flower. (Aeolic ἄβα aba 'youthful prime' + ἁγνός hagnos 'pure, chaste, unsullied) or epithet aphagna from aphagnizo 'purify'. If abagnon is the proper name for rhodon rose, then it is cognate to Persian باغ bāġ, 'garden', Gothic 𐌱𐌰𐌲𐌼𐍃 bagms 'tree' and Greek bakanon 'cabbage-seed'. Finally, a Phrygian borrowing is highly possible if we think of the famous Gardens of Midas, where roses grow of themselves (see Herodotus 8.138.2, [Athena](598)eus 15.683)
+ἀβαρκνᾷ abarknai κομᾷ † τὲ Μακεδόνες (komai? ἄβαρκνα abarkna hunger, famine).
+ἀβαρύ abarú 'oregano' (Hes. ὀρίγανον origanon) (LSJ: βαρύ barú perfume used in incense, Attic βαρύ barú 'heavy') (LSJ: amarakon sweet Origanum Majorana) (Hes. for origanon ἀγριβρόξ agribrox, ἄβρομον abromon, ἄρτιφος artiphos, κεβλήνη keblênê)
+ἀβλόη, ἀλογεῖ abloē, alogei Text Corrupted †ἀβλόη σπένδε Μακεδόνες ἀλογεῖ σπεῖσον Μακεδόνες spendô)
+ἀβροῦτες or ἀβροῦϜες abroûtes or abroûwes 'eyebrows' (Hes. Attic ὀφρῦς ophrûs acc. pl., ὀφρύες ophrúes nom., PIE *bʰru-) (Serbian obrve, Lithuanian bruvis, Persian ابرو abru) (Koine Greek ophrudia, Modern Greek φρύδια frydia)
+ἀγκαλίς ankalis Attic 'weight, burden, load' Macedonian 'sickle' (Hes. Attic ἄχθος ákhthos, δρέπανον drépanon, LSJ Attic ἀγκαλίς ankalís 'bundle', or in pl. ἀγκάλαι ankálai 'arms' (body parts), ἄγκαλος ánkalos 'armful, bundle', ἀγκάλη ankálē 'the bent arm' or 'anything closely enfolding', as the arms of the sea, PIE *ank 'to bend') (ἀγκυλίς ankylis 'barb' Oppianus.C.1.155.)
+ἄδδαι addai poles of a chariot or car, logs (Attic ῥυμοὶ rhumoi) (Aeolic usdoi, Attic ozoi, branches, twigs) PIE *H₂ó-sd-o- , branch
+ἀδῆ adē 'clear sky' or 'the upper air' (Hes. οὐρανός ouranós 'sky', LSJ and Pokorny Attic αἰθήρ aithēr 'ether, the upper, purer air', hence 'clear sky, heaven')
+ἄδισκον adiskon potion, cocktail (Attic kykeôn)
+ἄδραια adraia 'fine weather, open sky' (Hes. Attic αἰθρία aithría, Epirotan ἀδρία, PIE *aidh-)
+Ἀέροπες Aeropes tribe (wind-faced) (aero- +opsis(aerops opos, Boeotian name for the bird merops)
+ἀκόντιον akontion spine or backbone, anything ridged like the backbone: ridge of a hill or mountain (Attic rhachis) (Attic akontion spear, javelin) (Aeolic akontion part of troops)
+ἀκρέα akrea girl (Attic κόρη korê, Ionic kourê, Doric/Aeolic kora, Arcadian korwa, Laconian kyrsanis (Ἀκρέα, epithet of [Aphrodite](575) in Cyprus, instead of Akraia, of the heights). Epithet of a goddess from an archaic Corcyraic inscription (ορϝος hιαρος τας Ακριας).
+ἀκρουνοί akrounoi 'boundary stones' nom. pl. (Hes. ὃροι hóroi, LSJ Attic ἄκρον ákron 'at the end or extremity', from ἀκή akē 'point, edge', PIE *ak 'summit, point' or 'sharp')
+ἀλίη alíē 'boar or boarfish' (Attic kapros) (PIE *ol-/*el- "red, brown" (in animal and tree names) (Homeric ellos fawn, Attic elaphos 'deer', alkê elk)
+ἄλιζα aliza (also alixa) 'White Poplar' (Attic λεύκη leúkē, Epirotan ἄλυζα, Thessalian alphinia, LSJ: ἄλυζα, aluza globularia alypum) (Pokorny Attic ἐλάτη elátē 'fir, spruce', PIE *ol-, *el-, P.Gmc. and Span. aliso 'alder')
+ἄξος axos 'timber' (Hes. Attic ὓλη hulê) (Cretan Doric ausos Attic alsos 'grove' little forest. (PIE *os- ash tree (OE. æsc ash tree), (Greek οξυά oxya, Albanian ah, beech), (Armenian հացի hac’i ash tree)
+ἀορτής aortês, 'swordsman' (Hes. ξιφιστής; Homer ἄορ áor 'sword'; Attic ἀορτήρ aortēr 'swordstrap', Modern Greek αορτήρ aortír 'riflestrap'; hence aorta) (According to Suidas: Many now say the knapsack ἀβερτὴ abertê instead of aortê. Both the object and the word are Macedonian.
+Ἀράντιδες Αrantides Erinyes (in dative ἀράντισιν ἐρινύσι) (Arae name for Erinyes, arasimos accursed, araomai invoke, curse, pray or rhantizô sprinkle, purify.
+ἄργελλα argella 'bathing hut'. Cimmerian ἄργιλλα or argila 'subterranean dwelling' (Ephorus in Strb. 5.4.5) PIE *areg-; borrowed into Balkan Latin and gave Romanian argea (pl. argele), "wooden hut", dialectal (Banat) arghela "stud farm"); cf. Sanskrit argalā 'latch, bolt', Old English reced "building, house", Albanian argësh "harrow, crude bridge of crossbars, crude raft supported by skin bladders"
+ἀργι(ό)πους argiopous 'eagle' (LSJ Attic ἀργίπους argípous 'swift- or white-footed', PIE *hrg'i-pods < PIE *arg + PIE *ped)
+Ἄρητος Arētos epithet or alternative of Herakles (Ares-like)
+ἀρκόν arkon 'leisure, idleness' (LSJ Attic ἀργός argós 'lazy, idle' nom. sing., ἀργόν acc.)
+ἀρφύς arhphys (Attic ἱμάς himas strap, rope), (ἁρπεδών harpedôn cord, yarn; ἁρπεδόνα Rhodes, Lindos II 2.37).
+ἄσπιλος aspilos 'torrent' (Hes. χείμαῤῥος kheímarrhos, Attic ἄσπιλος áspilos 'without stain, spotless, pure')
+βαβρήν babrên lees of olive-oil (LSJ: βάβρηκες babrêkes gums, or food in the teeth, βαβύας babuas mud)
+βαθάρα bathara pukliê (Macedonian), purlos (Athamanian) (unattested; maybe food, atharê porridge, pyros wheat)
+βίῤῥοξ birrhox dense, thick (LSJ: βειρόν beiron)
+γάρκα garka rod (Attic charax) (EM: garkon axle-pin) (LSJ: garrha rod)
+γόλα gola or goda bowels, intestines (Homeric cholades) PIE: ghel-ond-, ghol-n•d- stomach; bowels
+γοτάν gotan 'pig' acc. sing. (PIE *gʷou- 'cattle', (Attic βοτόν botón ' beast', in plural βοτά botá 'grazing animals') (Laconian grôna 'sow' female pig, and pl. grônades) (LSJ: goi, goi, to imitate the sound of pigs) (goita sheep or pig)
+γυλλάς gyllas kind of glass (gyalas a Megarian cup)
+γῶψ gôps pl. gopes macherel (Attic koloios) (LSJ: skôps a fish) (Modern Greek gopa 'bogue' fish pl. gopes)
+δαίτας daitas caterer waiter (Attic daitros
+δάνος danos 'death', (Hes. Attic thánatos θάνατος 'death', from root θαν- than-), PIE *dʰenh₂- 'to leave, δανoτής danotês (disaster, pain) Sophocles Lacaenae fr.338
+δανῶν danōn 'murderer' (Attic θανών thanōn dead, past participle)
+δάρυλλος darullos 'oak' (Hes. Attic δρῦς drûs, PIE *doru-)
+δρῆες drêes or δρῆγες drêges small birds (Attic strouthoi) (Elean δειρήτης deirêtês, strouthos, Nicander.Fr.123.) (LSJ: διγῆρες digêres strouthoi, δρίξ drix strouthos)
+δώραξ dôrax spleen, splên (Attic θώραξ thôrax chest, corslet
+ἐπιδειπνίς epideipnis Macedonian dessert
+Ζειρηνίς Zeirênis epithet or alternative for [Aphrodite](575) (Seirênis Siren-like)
+Ἠμαθία Êmathia ex-name of Macedonia, region of Emathia from mythological Emathus (Homeric amathos êmathoessa, river-sandy land, PIE *samadh. Generally the coastal Lower Macedonia in contrast to mountainous Upper Macedonia. For meadow land (mē-2, m-e-t- to reap), see Pokorny.
+Θαῦλος Thaulos epithet or alternative of Ares (Θαύλια Thaulia 'festival in Doric Tarentum, θαυλίζειν thaulizein 'to celebrate like Dorians', Thessalian Ζεὺς Θαύλιος Zeus Thaulios, the only attested in epigraphy ten times, Athenian Ζεὺς Θαύλων Zeus Thaulôn, Athenian family Θαυλωνίδαι Thaulônidai
+Θούριδες Thourides Nymphs Muses (Homeric thouros rushing, impetuous.
+ἰζέλα izela wish, good luck (Attic agathêi tychêi) (Doric bale, abale, Arcadian zele) (Cretan delton agathon) or Thracian zelas wine.
+ἴλαξ ílax 'the holm-oak, evergreen or scarlet oak' (Hes. Attic πρῖνος prînos, Latin ilex)
+ἰν δέᾳ in dea midday (Attic endia, mesêmbria) (Arcadian also in instead of Attic en)
+κἄγχαρμον kancharmon having the lance up τὸ τὴν λόγχην ἄνω ἔχον (Hes. ἄγχαρμον ancharmon ἀνωφερῆ τὴν αἰχμήν ἔχων Ibyc? Stes?) having upwards the point of a spear)
+κἄ, Crasis kai and, together, simultaneously + anô up (anôchmon hortatory password
+κάραβος karabos
+Macedonian 'gate, door' (Cf. karphos any small dry body,piece of wood (Hes. Attic 'meat roasted over coals'; Attic karabos 'stag-beetle'; 'crayfish'; 'light ship'; hence modern Greek καράβι karávi)
+'the worms in dry wood' (Attic 'stag-beetle, horned beetle; crayfish')
+'a sea creature' (Attic 'crayfish, prickly crustacean; stag-beetle')
+καρπαία karpaia Thessalo-Macedonian mimic military dance (see also Carpaea) Homeric karpalimos swift (for foot) eager, ravenous.
+κίκεῤῥοι kíkerroi 'chick-peas' (Hes. Attic ὦχροι ōkhroi, PIE *k̂ik̂er- 'pea') (LSJ: kikeros land crocodile)
+κομμάραι kommarai or komarai crawfishes (Attic karides) (LSJ: kammaros a kind of lobster, Epicharmus.60, Sophron.26, Rhinthon.18:-- also kammaris, idos Galen.6.735.) (komaris a fish Epicharmus.47.)
+κόμβοι komboi 'molars' (Attic γομφίοι gomphioi, dim. of γόμφος gomphos 'a large, wedge-shaped bolt or nail; any bond or fastening', PIE *gombh-)
+κυνοῦπες kynoupes or kynoutos bear (Hesychius kynoupeus, knoupeus, knôpeus) (kunôpês dog-faced) (knôps beast esp. serpent instead of kinôpeton, blind acc. Zonar (from knephas dark) (if kynoutos knôdês knôdalon beast)
+λακεδάμα lakedáma ὕδωρ ἁλμυρὸν ἄλικι ἐπικεχυμένον salty water with alix, rice-wheat or fish-sauce.(Cf.skorodalmê 'sauce or pickle composed of brine and garlic'). According to Albrecht von Blumenthal, -ama corresponds to Attic ἁλμυρός halmurós 'salty'; Cretan Doric hauma for Attic halmē; laked- is cognate to Proto-Germanic *lauka leek, possibly related is Λακεδαίμων Laked-aímōn, the name of the Spartan land.
+λείβηθρον leíbēthron 'stream' (Hes. Attic ῥεῖθρον rheîthron, also λιβάδιον libádion, 'a small stream', dim. of λιβάς libás; PIE *lei, 'to flow'); typical Greek productive suffix -θρον (-thron) (Macedonian toponym, Pierian Leibethra place/tomb of Orpheus)
+ματτύης mattuês kind of bird (ματτύη mattuê a meat-dessert of Macedonian or Thessalian origin) (verb mattuazo to prepare the mattue) ([Athena](598)eus)
+παραός paraos eagle or kind of eagle (Attic aetos, Pamphylian aibetos) (PIE *por- 'going, passage' + *awi- 'bird') (Greek para- 'beside' + Hes. aos wind) (It may exist as food in Lopado...pterygon)
+περιπέτεια peripeteia or περίτια peritia Macedonian festival in month Peritios. (Hesychius text περίπετεια)
+ῥάματα rhamata bunch of grapes (Ionic rhagmata, rhages Koine rhôgmata, rhôges, rhax rhôx)
+ῥοῦτο rhouto this (neut.) (Attic τοῦτο touto)
+ταγόναγα tagonaga Macedonian institution, administration (Thessalian ταγὸς tagos commander + ἄγωagô lead)
+
+Other sources
+αἰγίποψ aigipops eagle (EM 28.19) (error for argipous? maybe goat-eater? aix ,aigos + pepsis digestion) (Cf.eagle chelônophagos turtle-eater)
+ἀργυρὰσπιδες argyraspides (wiki Argyraspides) chrysaspides and chalkaspides (golden and bronze-shielded)
+δράμις dramis a Macedonian bread (Thessalian bread daratos)(Athamanian bread dramix. ([Athena](598)eus)
+καυσία kausia felt hat used by Macedonians, forming part of the regalia of the kings.
+κοῖος koios number ([Athena](598)eus when talking about Koios, the Titan of intelligence; and the Macedonians use koios as synonymous with arithmos (LSJ: koeô mark, perceive, hear koiazô pledge, Hes. compose s.v. κοίασον, σύνθες) (Laocoön, thyoskoos observer of sacrifices, akouô hear) (All from PIE root *keu to notice, observe, feel; to hear).
+πεζέταιροι pezetairoi (wiki Pezhetairoi), Hetairidia, Macedonian religious festival (Attic πεζοί,πεζομάχοι) (Aeolic πέσδοι)
+Πύδνα Púdna, Pydna toponym (Pokorny Attic πυθμήν puthmēn 'bottom, sole, base of a vessel'; PIE *bʰudʰnā; Attic πύνδαξ pýndax 'bottom of vessel') (Cretan,Pytna Hierapytna, Sacred Pytna)
+σίγυνος sigynos spear (Cypriotic sigynon) (Illyrian sibyne) (Origin: Illyrian acc. to Fest.p. 453 L., citing Ennius) (Cyprian acc. to Herodotus and [Aristotle](162) Il. cc., Scythian acc. to Sch.Par.A.R.4.320 (cf. 111)
+σφύραινα sphuraina, hammer-fish sphyraena (Strattis, Makedones (fr. 28) – (Attic. κέστρα, kestra) (cestra, needle-fish (modern Greek fish σφυρίδα, sfyrida)
+ὐετής uetês of the same year Marsyas (Attic autoetês, Poetic oietês)
+χάρων charôn lion (Attic/Poetic fierce, for lion, eagle instead of charopos, charops bright-eyed)
+
+Proposed
+A number of Hesychius words are listed orphan; some of them have been proposed as Macedonian
+
+ἀγέρδα agerda wild pear-tree (Attic ἄχερδος acherdos).
+ἀδαλός adalos charcoal dust (Attic αἴθαλος aithalos, ἄσβολος asbolos)
+ἄδδεε addee imp. hurry up ἐπείγου (Attic thee of theô run)
+ἄδις adis 'hearth' (Hes. ἐσχάρα eskhára, LSJ Attic αἶθος aîthos 'fire, burning heat')
+αἰδῶσσα aidôssa (Attic aithousa portico, corridor, verandah, a loggia leading from aulê yard to prodomos)
+βάσκιοι baskioi 'fasces' (Hes. Attic δεσμοὶ φρῡγάνων desmoì phrūgánōn, Pokorny βασκευταί baskeutaí, Attic φασκίδες phaskídes, Attic φάσκωλος pháskōlos 'leather sack', PIE *bʰasko-)
+βίξ bix sphinx (Boeotian phix), (Attic sphinx)
+δαλάγχα dalancha sea (Attic thalatta) (Ionic thalassa)
+δεδάλαι dedalai package, bundle (Attic dethla, desmai)
+ἐσκόροδος eskorodos tenon (Attic tormos σκόρθος skorthos tornos slice, lathe)
+Εὐδαλαγῖνες Eudalagines Graces Χάριτες (Attic Εὐθαλγῖνες Euthalgines)
+κάναδοι kanadoi 'jaws' nom. pl. (Attic γνάθοι gnathoi, PIE *genu, 'jaw') (Laconian καναδόκα kanadoka notch (V) of an arrow χηλὴ ὀϊστοῦ)
+λαίβα laiba shield (Doric λαία laia, λαῖφα laipha) (Attic aspis)
+λάλαβις lalabis storm (Attic lailaps)
+ὁμοδάλιον homodalion isoetes plant (θάλλω thallô bloom)
+ῥουβοτός rhoubotos potion (Attic rhophema) rhopheo suck, absorb rhoibdeô suck with noise.
+
+Macedonian in Classical sources
+Among the references that have been discussed as possibly bearing some witness to the linguistic situation in Macedonia, there is a sentence from a fragmentary dialogue, apparently between an Athenian and a Macedonian, in an extant fragment of the 5th century BC comedy 'Macedonians' by the Athenian poet Strattis (fr. 28), where a stranger is portrayed as speaking in a rural Greek dialect. His language contains expressions such as ὕμμες ὡττικοί for ὑμεὶς ἀττικοί "you Athenians", ὕμμες being also attested in Homer, Sappho (Lesbian) and Theocritus (Doric), while ὡττικοί appears only in "funny country bumpkin" contexts of Attic comedy.
+Another text that has been quoted as evidence is a passage from Livy (lived 59 BC-14 AD) in his Ab urbe condita (31.29). Describing political negotiations between Macedonians and Aetolians in the late 3rd century BC, Livy has a Macedonian ambassador argue that Aetolians, Acarnanians and Macedonians were "men of the same language". This has been interpreted as referring to a shared North-West Greek speech (as opposed to Attic Koiné). In another passage, Livy states that an announcement was translated from Latin to Greek for Macedonians to understand.
+Quintus Curtius Rufus, Philotas's trial and the statement that the Greek-speaking Branchidae had common language with the Macedonians.
+Over time, "Macedonian" (μακεδονικός), when referring to language (and related expressions such as μακεδονίζειν; to speak in the Macedonian fashion) acquired the meaning of Koine Greek.
+
+Contributions to the Koine
+As a consequence of the Macedonians' role in the formation of the Koine, Macedonian contributed considerable elements, unsurprisingly including some military terminology (διμοιρίτης, ταξίαρχος, ὑπασπισταί, etc.). Among the many contributions were the general use of the first declension grammar for male and female nouns with an -as ending, attested in the genitive of Macedonian coinage from the early 4th century BC of Amyntas III (ΑΜΥΝΤΑ in the genitive; the Attic form that fell into disuse would be ΑΜΥΝΤΟΥ). There were changes in verb conjugation such as in the Imperative δέξα attested in Macedonian sling stones found in Asiatic battlefields, that became adopted in place of the Attic forms. Koine Greek established a spirantisation of beta, gamma and delta, which has been attributed to the Macedonian influence.
+
+See also
+[Ancient Greece](555)
+Government of Macedonia (ancient kingdom)
+History of Macedonia (ancient kingdom)
+Proto-Greek language
+
+Notes
+References
+Further reading
+External links
+Ancient Macedonian as a Greek dialect: A critical survey on recent work (Greek, English, French, German text)
+The speech of the ancient Macedonians, in the light of recent epigraphic discoveries
+Jona Lendering, Amphipolis (Ennea Hodoi) web page on livius.org
+Greek Inscriptions from ancient Macedonia (Epigraphical Database)
+Heinrich Tischner on Hesychius' words Archived 2010-11-27 at the Wayback Machine

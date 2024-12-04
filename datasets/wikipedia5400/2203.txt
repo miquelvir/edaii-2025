@@ -1,0 +1,131 @@
+2203
+Aquaplaning
+Aquaplaning or hydroplaning by the tires of a road vehicle, aircraft or other wheeled vehicle occurs when a layer of water builds between the wheels of the vehicle and the road surface, leading to a loss of traction that prevents the vehicle from responding to control inputs. If it occurs to all wheels simultaneously, the vehicle becomes, in effect, an uncontrolled sled. Aquaplaning is a different phenomenon from when water on the surface of the roadway merely acts as a lubricant. Traction is diminished on wet pavement even when aquaplaning is not occurring.
+
+Causes
+Every vehicle function that changes direction or speed relies on friction between the tires and the road surface. The grooves of a rubber tire are designed to disperse water from beneath the tire, providing high friction even in wet conditions. Aquaplaning occurs when a tire encounters more water than it can dissipate. Water pressure in front of the wheel forces a wedge of water under the leading edge of the tire, causing it to lift from the road. The tire then skates on a sheet of water with little, if any, direct road contact, and loss of control results. If multiple tires aquaplane, the vehicle may lose directional control and slide until it either collides with an obstacle, or slows enough that one or more tires contact the road again and friction is regained.
+The risk of aquaplaning increases with the depth of standing water, higher speeds, and the sensitivity of a vehicle to that water depth.
+
+Water depth factors
+Depth of compacted wheel tracks and longitudinal depressions: Heavy vehicles can cause ruts in the pavement over time that allow water to pool.
+Pavement micro- and macrotexture: Concrete can be preferable to hotmix asphalt because it offers better resistance to rut formation, though this depends on the age of the surface and the construction techniques employed while paving. Concrete also requires special attention to ensure that it has sufficient texture.
+Pavement cross slope and grade: Cross slope is the extent to which the cross-section of a road resembles an upturned U. Higher cross slopes allow water to drain more easily. Grade is the steepness of the road at a particular point, which affects both drainage and force exerted by the vehicle on the road. Vehicles are less likely to aquaplane while traveling uphill, and far more likely to do so at the trough of two connected hills where water tends to pool. The resultant of cross slope and grade is called drainage gradient or "resulting grade". Most road design manuals require that the drainage gradient in all road sections must exceed 0.5%, in order to avoid a thick water film during and after rainfall. Areas where the drainage gradient may fall below the minimum limit 0.5% are found at the entrance and exit of banked outer curves. These hot spots are typically less than 1% of the road length, but a large share of all skid crashes occur there. One method for the road designer to reduce the crash risk is to move the cross slope transition from the outer curve and to a straight road section, where lateral forces are lower. If possible, the cross slope transition should be placed in a slight up- or downgrade, thereby avoiding that the drainage gradient drops to zero. The UK road design manual actually calls for placement of a cross slope transition in an artificially created slope, if needed. In some cases, permeable asphalt or concrete can be used to improve drainage in the cross slope transitions.
+Width of pavement: Wider roads require a higher cross slope to achieve the same degree of drainage.
+Roadway curvature
+Rainfall intensity and duration
+
+Vehicle sensitivity factors
+The driver's speed, acceleration, braking, and steering
+Tire tread wear: Worn tires will aquaplane more easily for lack of tread depth. Half-worn treads result in aquaplaning about 4.8–6.4 km/h (3–4 mph) lower than with full-tread tires.
+Tire inflation pressure: Underinflation can cause a tire to deflect inward, raising the tire center and preventing the tread from clearing water.
+Tire tread aspect ratio: The longer and thinner the contact patch, the less likely a tire will aquaplane. tires that present the greatest risk are small in diameter and wide. 
+Vehicle weight: More weight on a properly inflated tire lengthens the contact patch, improving its aspect ratio. Weight can have the opposite effect if the tire is underinflated.
+Vehicle type: Combination vehicles like semi-trailers are more likely to experience uneven aquaplaning caused by uneven weight distribution. An unloaded trailer will aquaplane sooner than the cab pulling it. Pickup trucks or SUVs towing trailers also present similar problems.
+There is no precise equation to determine the speed at which a vehicle will aquaplane. Existing efforts have derived rules of thumb from empirical testing. In general, cars start to aquaplane at speeds above 72–93 km/h (45–58 mph).
+
+Motorcycles
+Motorcycles benefit from narrow tires with round, canoe-shaped contact patches. Narrow tires are less vulnerable to aquaplaning because vehicle weight is distributed over a smaller area, and rounded tires more easily push water aside. These advantages diminish on lighter motorcycles with naturally wide tires, like those in the supersport class. Further, wet conditions reduce the lateral force that any tire can accommodate before sliding. While a slide in a four-wheeled vehicle may be corrected, the same slide on a motorcycle will generally cause the rider to fall. Thus, despite the relative lack of aquaplaning danger in wet conditions, motorcycle riders must be even more cautious because overall traction is reduced by wet roadways.
+
+In motor vehicles
+Speed
+It is possible to approximate the speed at which total hydroplaning occurs, with the following equation:
+
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+        =
+        10.35
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle V_{p}=10.35{\sqrt {p}}}
+  
+
+where 
+  
+    
+      
+        p
+      
+    
+    {\textstyle p}
+  
+ is the tire pressure in psi and the resulting 
+  
+    
+      
+        
+          V
+          
+            p
+          
+        
+      
+    
+    {\textstyle V_{p}}
+  
+ is the speed in mph for when the vehicle will begin to totally hydroplane. Considering an example vehicle with a tire pressure of 35 psi, one can approximate that 61 mph is the speed when the tires would lose contact with the road's surface.
+However, the above equation only gives a very rough approximation. Resistance to aquaplaning is governed by several different factors, chiefly vehicle weight, tire width and tread pattern, as all affect the surface pressure exerted on the road by the tire over a given area of the contact patch - a narrow tire with a lot of weight placed upon it and an aggressive tread pattern will resist aquaplaning at far higher speeds than a wide tire on a light vehicle with minimal tread. Furthermore, the likelihood of aquaplaning drastically increases with water depth.
+
+Response
+What the driver experiences when a vehicle aquaplanes depends on which wheels have lost traction and the direction of travel.
+If the vehicle is traveling straight, it may begin to feel slightly loose. If there was a high level of road feel in normal conditions, it may suddenly diminish. Small correctional control inputs have no effect.
+If the drive wheels aquaplane, there may be a sudden audible rise in engine RPM and indicated speed as they begin to spin. In a broad highway turn, if the front wheels lose traction, the car will suddenly drift towards the outside of the bend. If the rear wheels lose traction, the back of the car will slew out sideways into a skid. If all four wheels aquaplane at once, the car will slide in a straight line, again towards the outside of the bend if in a turn. When any or all of the wheels regain traction, there may be a sudden jerk in whatever direction that wheel is pointed.
+
+Recovery
+Control inputs tend to be counterproductive while aquaplaning. If the car is not in a turn, easing off the accelerator may slow it enough to regain traction. Steering inputs may put the car into a skid from which recovery would be difficult or impossible. If braking is unavoidable, the driver should do so smoothly and be prepared for instability.
+If the rear wheels aquaplane and cause oversteer, the driver should steer in the direction of the skid until the rear tires regain traction, and then rapidly steer in the other direction to straighten the car.
+
+Prevention by the driver
+The best strategy is to avoid contributors to aquaplaning. Proper tire pressure, narrow and unworn tires, and reduced speeds from those judged suitably moderate in the dry will mitigate the risk of aquaplaning, as will avoidance of standing water.
+Electronic stability control systems cannot replace defensive driving techniques and proper tire selection. These systems rely on selective wheel braking, which depends in turn on road contact. While stability control may help recovery from a skid when a vehicle slows enough to regain traction, it cannot prevent aquaplaning.
+Because pooled water and changes in road conditions can require a smooth and timely reduction in speed, cruise control should not be used on wet or icy roads.
+
+In aircraft
+Aquaplaning, also known as hydroplaning, is a condition in which standing water, slush or snow, causes the moving wheel of an aircraft to lose contact with the load bearing surface on which it is rolling with the result that braking action on the wheel is not effective in reducing the ground speed of the aircraft.
+Aquaplaning may reduce the effectiveness of wheel braking in aircraft on landing or aborting a takeoff, when it can cause the aircraft to run off the end of the runway. Aquaplaning has been a factor in multiple aircraft accidents, including the destruction of TAM Airlines Flight 3054 which ran off the end of the runway in São Paulo in 2007 during heavy rain. [Aircraft](905) which can employ reverse thrust braking have the advantage over road vehicles in such situations, as this type of braking is not affected by aquaplaning, but it requires a considerable distance to operate as it is not as effective as wheel braking on a dry runway.
+Aquaplaning is a condition that can exist when an aircraft is landed on a runway surface contaminated with standing water, slush, and/or wet snow. Aquaplaning can have serious adverse effects on ground controllability and braking efficiency. The three basic types of aquaplaning are dynamic aquaplaning, reverted rubber aquaplaning, and viscous aquaplaning. Any one of the three can render an aircraft partially or totally uncontrollable anytime during the landing roll.
+However this can be prevented by grooves on runways. In 1965, a US delegation visited the Royal [Aircraft](905) Establishment at Farnborough to view their grooved runway for reduced aquaplaning and initiated a study by the FAA and NASA. Grooving has since been adopted by most major airports around the world. Thin grooves are cut in the concrete which allows for water to be dissipated and further reduces the potential to aquaplane.
+
+Types
+Viscous
+Viscous aquaplaning is due to the viscous properties of water. A thin film of fluid no more than 0.025 mm in depth is all that is needed. The tire cannot penetrate the fluid and the tire rolls on top of the film. This can occur at a much lower speed than dynamic aquaplane, but requires a smooth or smooth-acting surface such as asphalt or a touchdown area coated with the accumulated rubber of past landings. Such a surface can have the same friction coefficient as wet ice.
+
+Dynamic
+Dynamic aquaplaning is a relatively high-speed phenomenon that occurs when there is a film of water on the runway that is at least 2.5 mm (1⁄10 inch) deep. As the speed of the aircraft and the depth of the water increase, the water layer builds up an increasing resistance to displacement, resulting in the formation of a wedge of water beneath the tire. At some speed, termed the aquaplaning speed (Vp), the upward force generated by water pressure equals the weight of the aircraft and the tire is lifted off the runway surface. In this condition, the tires no longer contribute to directional control, and braking action is nil. Dynamic aquaplaning is generally related to tire inflation pressure. Tests have shown that for tires with significant loads and enough water depth for the amount of tread so that the dynamic head pressure from the speed is applied to the whole contact patch, the minimum speed for dynamic aquaplaning (Vp) in knots is about 9 times the square root of the tire pressure in pounds per square inch (PSI). For an aircraft tire pressure of 64 PSI, the calculated aquaplaning speed would be approximately 72 knots. This speed is for a rolling, non-slipping wheel; a locked wheel reduces the Vp to 7.7 times the square root of the pressure. Therefore, once a locked tire starts aquaplaning it will continue until the speed reduces by other means (air drag or reverse thrust).
+
+Reverted rubber
+Reverted rubber (steam) aquaplaning occurs during heavy braking that results in a prolonged locked-wheel skid. Only a thin film of water on the runway is required to facilitate this type of aquaplaning. The tire skidding generates enough heat to change the water film into a cushion of steam which keeps the tire off the runway. A side effect of the heat is it causes the rubber in contact with the runway to revert to its original uncured state. Indications of an aircraft having experienced reverted rubber aquaplaning, are distinctive 'steam-cleaned' marks on the runway surface and a patch of reverted rubber on the tire.
+Reverted rubber aquaplaning frequently follows an encounter with dynamic aquaplaning, during which time the pilot may have the brakes locked in an attempt to slow the aircraft. Eventually the aircraft slows enough to where the tires make contact with the runway surface and the aircraft begins to skid. The remedy for this type of aquaplane is for the pilot to release the brakes and allow the wheels to spin up and apply moderate braking. Reverted rubber aquaplaning is insidious in that the pilot may not know when it begins, and it can persist to very slow groundspeeds (20 knots or less).
+
+Reducing risk
+Any aquaplaning tire reduces both braking effectiveness and directional control.
+When confronted with the possibility of aquaplaning, pilots are advised to land on a grooved runway (if available). Touchdown speed should be as slow as possible consistent with safety. After the nosewheel is lowered to the runway, moderate braking should be applied. If deceleration is not detected and aquaplaning is suspected, the nose should be raised and aerodynamic drag utilized to decelerate to a point where the brakes do become effective.
+Proper braking technique is essential. The brakes should be applied firmly until reaching a point just short of a skid. At the first sign of a skid, the pilot should release brake pressure and allow the wheels to spin up. Directional control should be maintained as far as possible with the rudder. In a crosswind, if aquaplaning should occur, the crosswind will cause the aircraft to simultaneously weathervane into the wind (i.e. the nose will turn toward the wind) as well as slide downwind (the plane will tend to slide in the direction the air is moving).  For small aircraft, holding the nose up as if performing a soft field landing and using the rudder to aerodynamically maintain directional control while holding the upwind aileron in the best position to prevent lifting the wing should help. However, avoid landing in heavy rain where the crosswind component of the wind is higher than the maximum demonstrated crosswind listed in the Pilot Operations Handbook.
+
+See also
+Road slipperiness
+Traction (engineering), for effects similar to aquaplaning
+Kugel fountain
+
+References
+Inline
+
+General
+B. N. J. Persson; U. Tartaglino; O. Albohr & E. Tosatti (2004). "Sealing is at the origin of rubber slipping on wet roads". Nature Materials. 3 (7 November): 882–885. arXiv:cond-mat/0412045. Bibcode:2004NatMa...3..882P. doi:10.1038/nmat1255. PMID 15531886. S2CID 15635210.
+Smart Motorist – Driving in the Rain
+Airplane Flying Handbook, FAA Publication FAA-H-8083-3A, available for download from the Flight Standards Service Web site at http://av-info.faa.gov.
+
+External links
+
+NASA paper describing aquaplaning, TN D-2056 'Phenomena of pneumatic tire hydroplaning'.

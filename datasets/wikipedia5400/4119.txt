@@ -1,0 +1,23 @@
+4119
+Alfred Y. Cho
+Alfred Yi Cho (Chinese: 卓以和; pinyin: Zhuó Yǐhé; born July 10, 1937) is a Chinese-American electrical engineer, inventor, and optical engineer. He is the Adjunct Vice President of Semiconductor Research at Alcatel-Lucent's [Bell Labs](834).  He is known as the "father of molecular beam epitaxy"; a technique he developed at that facility in the late 1960s.  He is also the co-inventor, with Federico Capasso of quantum cascade lasers at [Bell Labs](834) in 1994.
+Cho was elected a member of the National Academy of Engineering in (1985) for his pioneering development of a molecular beam epitaxy technique, leading to unique semiconductor layer device structures.
+
+Biography
+Cho was born in Beiping. He went to Hong Kong in 1949 and had his secondary education in Pui Ching Middle School there. Cho holds B.S., M.S. and Ph.D. degrees in electrical engineering from the University of Illinois. He joined [Bell Labs](834) in 1968. He is a member of the National Academy of Sciences and the National Academy of Engineering, as well as a Fellow of the American Physical Society, the Institute of Electrical and Electronics Engineers, the [American Philosophical Society](3133), and the [American Academy of Arts and Sciences](3132).
+In June 2007 he was honoured with the U.S. National Medal of Technology, the highest honor awarded by the President of the United States for technological innovation.
+Cho received the award for his contributions to the invention of molecular beam epitaxy (MBE) and his work to commercialize the process.
+He already has many awards to his name, including: the American Physical Society's International Prize for New Materials in 1982, the Solid State Science and Technology Medal of the Electrochemical Society in 1987, the World Materials Congress Award of ASM International in 1988, the Gaede-Langmuir Award of the American Vacuum Society in 1988, the IRI Achievement Award of the Industrial Research Institute in 1988, the New Jersey Governor's Thomas Alva Edison Science Award in 1990, the International Crystal Growth Award of the American Association for Crystal Growth in 1990, the National Medal of Science in 1993, the Von Hippel Award of the Materials Research Society in 1994, the Elliott Cresson Medal of the Franklin Institute in 1995, the IEEE Medal of Honor in 1994, and the Computers & Communications Prize of the C&C Foundation, Japan in 1995.In 2009, he was inducted into the National Inventors Hall of Fame.
+In 1985, [Bell Labs](834) became the first organization to be honoured with a U.S. Medal of Technology, awarded for “contributions over decades to modern communications systems.” Cho's honour marks the eighth time [Bell Labs](834) and its scientists have received the award.
+Cho is married and has one son and three daughters.
+
+Lectures
+1991 - Molecular beam epitaxy, from basic research to device fabrication Lecture sponsored by the Dept. of Electrical and Computer engineering, University of California, San Diego. Electrical and Computer Engineering Distinguished Lecture Series. Digital Object Made Available by Special Collections & Archives, UC San Diego.
+
+References
+External links
+
+IEEE History Center
+New Jersey Inventors Hall of Fame, 1997 Inductees
+Scientists Demo Hi-Power, Multi-Channel Semiconductor Laser
+[Bell Labs](834) researchers build world's first high-performance, ultra-broadband semiconductor laser

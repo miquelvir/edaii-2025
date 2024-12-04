@@ -1,0 +1,58 @@
+636
+Breakpoint
+In software development, a breakpoint is an intentional stopping or pausing place in a program, put in place for debugging purposes. It is also sometimes simply referred to as a pause.
+More generally, a breakpoint is a means of acquiring knowledge about a program during its execution. During the interruption, the programmer inspects the test environment (general-purpose registers, memory, logs, files, etc.) to find out whether the program is functioning as expected. In practice, a breakpoint consists of one or more conditions that determine when a program's execution should be interrupted.
+
+History
+Breakpoints were invented for ENIAC, one of the earliest digital computers, by programmer Betty Holberton.  In the initial design of ENIAC, program flow was set by plugging cables from one unit to another.  To make the program stop at a certain point, a cable was removed, called a breakpoint.
+
+Types of breakpoints
+Machine breakpoints
+Early mainframe computers, such as the IBM/360, had console switches/dials that allowed breakpoints at specific instruction storage addresses and provided "single cycle" operation, permitting the contents of registers and memory to be observed directly on console lights. The advent of multitasking limited the use of this option since the entire machine was halted.
+
+Non-interactive breakpoints
+Programmers have used machine code patches to implement single destructive breakpoints to cause a core dump since the early days of computers. The core dump provided the state of the registers and memory at the exact moment of the deliberate "crash".
+
+Interactive breakpoints
+The advent of teletypewriter consoles in the 1960s allowed more interactive command line debugging capabilities but it was not until the early 1970s and the arrival of ubiquitous video monitors connected to mainframes that fully interactive, full screen debugging in multitasking environments became a reality. This also permitted step-by-step program execution in a true program animation manner with optional register and memory alterations simultaneously displayed. Initially this type of animation was at the level of disassembled or decompiled machine code, but later advanced to HLL source level animation.
+
+Conditional breakpoints
+Breakpoints are most commonly used to interrupt a running program immediately before the execution of a programmer-specified instruction. This is often referred to as an instruction breakpoint.
+Other kinds of conditions can also be used, such as the reading, writing, or modification of a specific location in an area of memory. This is often referred to as a data breakpoint, or a watchpoint. Many systems also support breakpoints that are only active if a condition is met (such as a variable having a certain value), usually referred to as conditional breakpoint.
+
+Inspection tools
+When a breakpoint is hit, various tools are used to inspect the state of the program or alter it. Stack trace of each thread may be used to see the chain of function calls that led to the paused instruction. A list of watches allows one to view the values of selected variables and expressions. There may also be tools to show the contents of registers, loaded program modules and other information.
+
+Logpoints
+A logpoint is a type of breakpoint that only prints (or "logs") information instead of interrupting execution. Usually the developer can specify a message and/or values of variables to print when execution reaches a specific point.
+Logpoints are an alternative to putting logging statements into the program being debugged (sometimes called printf debugging), and particularly helpful when changing the program is not practical (for example when debugging an external library called by the program).
+
+Implementations
+Hardware
+Many processors include hardware support for breakpoints (typically instruction and data breakpoints). As an example, the x86 instruction set architecture provides hardware support for breakpoints with its x86 debug registers. Such hardware may include limitations, for example not allowing breakpoints on instructions located in branch delay slots. This kind of limitation is imposed by the microarchitecture of the processor and varies from processor to processor.
+
+Software
+Without hardware support (and in multitasking environments), debuggers have to implement breakpoints in software. For instruction breakpoints, this is a comparatively simple task of replacing the instruction at the location of the breakpoint by either:
+
+an instruction that calls the debugger directly (e.g. a system call, or int3 in case of x86) or
+an invalid instruction that causes a deliberate program interrupt (that is then intercepted/handled by the debugger)
+This technique may be more difficult to implement in multitasking systems using shared program storage (the interrupt may occur on a different thread, requiring resurrection of the original instruction for that thread). Also, if the program resides in protected memory, overwriting of instructions may be prevented.
+Alternatively, 
+
+an instruction set simulator can implement unconditional or conditional breakpoints, by simply embedding the appropriate condition tests within its own normal program cycle – that also naturally allows non-invasive breakpoints (on read-only programs for instance).
+Interpreted languages can effectively use the same concept as above in their program cycle.
+"Instrumenting" all the source code with additional source statements that issue a function that invokes an internal or external debug subroutine, is yet another common approach. This method increases the binary size and might adversely affect normal memory allocation and exception handlers. "Debug" options exist on some compilers to implement this technique semi-transparently.
+Some debuggers allow registers or program variables in memory to be modified before resuming, effectively allowing the introduction of "hand-coded" temporary assignments for test purposes. Similarly, program instructions can often be skipped to determine the effect of changes to the program logic – enabling questions about program execution to be answered in a direct way (i.e. without assumptions or guesswork). In many cases it may be the only practical method of testing obscure "event-driven" error subroutines that rarely, if ever, get executed – without the added risk of leaving temporary source changes. Manually changing the resume location within a paused program can be used to enter an otherwise rarely executed section of code (such as a specific hardware condition handler).
+Implementing data breakpoints in software however, can greatly reduce the performance of the application being debugged – since it is using additional resources on the same processor. However, this is normally acceptable during testing and the amount of information available from the debugger is not restricted by limitations of debug data known to the hardware. For instance, a software implementation can collect logical path data at program/subroutine/instruction level to considerably augment what might be stored by the particular hardware platform for inspection. The instruction set simulation method considerably reduces the overhead, compared to the (repeated) instruction replacement method, also reducing cache misses.
+Some programming language implementations expose their debugging functions for use by other programs.
+For example, some FORTRAN dialects have an AT statement, which was originally intended to act as an instruction breakpoint.
+Python implements a debugger accessible from a Python program.
+These facilities can be and are abused to act like the COMEFROM statement.
+
+See also
+COMEFROM
+Program animation (Stepping)
+SIMMON
+
+
+== References ==

@@ -1,0 +1,79 @@
+4667
+CFP franc
+The CFP franc (French: Franc pacifique, called the franc in everyday use) is the currency used in the French overseas collectivities (French: collectivités d'outre-mer, or COM) of French Polynesia, New Caledonia, and Wallis and Futuna. The initials CFP originally stood for colonies françaises du Pacifique (lit. 'French colonies of the Pacific') but since 2022 is officially Collectivités françaises du Pacifique (lit. 'French Communities of the Pacific'). Its ISO 4217 currency code is XPF. The CFP franc is subdivided into 100 centimes, although there are no centime denominations. The currency is issued by Institut d'émission d'outre-mer (IEOM).
+
+History
+1945–1949
+The CFP franc was created in December 1945, together with the CFA franc, used in Africa, because of the weakness of the French franc immediately after the Second World War. When France ratified the Bretton Woods Agreement in December 1945, the French franc was devalued in order to set a fixed exchange rate with the US dollar. New currencies were created in the French colonies to spare them the strong devaluation of December 1945. René Pleven, the French minister of finance, was quoted saying: "In a show of her generosity and selflessness, metropolitan France, wishing not to impose on her far-away daughters the consequences of her own poverty, is setting different exchange rates for their currency." The other French colonial currencies were set at a fixed exchange rate with the French franc. However, the CFP franc was set at a fixed exchange rate with the US dollar, which played a major role in the economy of the French Pacific territories on account of World War II. That situation ended in September 1949 when the CFP franc was given a fixed exchange rate with the French franc.
+
+1949–1985
+The CFP franc has been issued by the Institut d'émission d'outre-mer (IEOM, lit. 'Overseas Issuing Institute') since 1967. The IEOM has its headquarters in [Paris](2293).
+The currency was initially issued in three distinct forms for French Polynesia, New Caledonia and the New Hebrides (see French Polynesian franc, New Caledonian franc and New Hebrides franc). Wallis and Futuna used the New Caledonian franc.
+Banknotes were first issued in 500, 1,000 and 5,000 franc denominations. Although the banknotes of the New Hebrides bore the name of the territory, the notes of French Polynesia and New Caledonia could only be distinguished by the name of the capital cities (Papeete and Nouméa, respectively) printed on the reverse side of the notes.
+In 1969, the New Hebrides franc was separated from the CFP franc, and was replaced by the Vatu in 1982 after the establishment in 1980 of the Republic of Vanuatu.
+
+Since 1985
+The largest denomination 10,000 CFP franc banknote (€83.80) was first issued in 1986, and omitted the capital city name. The city was also omitted from 500 franc banknotes issued after 1992, and the 1,000 and 5,000 franc banknotes issued after 1995.
+In 2014, a single set of new banknote designs and smaller sizes were introduced, identical in both New Caledonia and French Polynesia. One side of the banknotes shows landscapes or historical figures from French Polynesia, the other from New Caledonia.
+Before 2023, the coins were issued in two sets, one each for New Caledonia and French Polynesia, in 1, 2, 5, 10, 20, 50, and 100 franc denominations. While the obverse side was identical, the reverse side was inscribed with either Nouvelle-Calédonie or Polynésie française, and used different designs depicting local landscapes, flora and fauna. However, both sets of coins could be used interchangeably in all three French territories.
+The initials CFP originally stood for Colonies françaises du Pacifique (lit. 'French colonies of the Pacific'). This was later changed to Communauté financière du Pacifique (lit. 'Pacific Financial Community'), and then Change franc Pacifique (lit. 'Pacific Franc Exchange'), from which the XPF currency code was derived. An ordinance of 15 September 2021, which entered into force on 26 February 2022, defines the name CFP franc as le franc des collectivités françaises du Pacifique (lit. 'the franc of the French Communities of the Pacific').
+In 2021, a new series of smaller coins were introduced, with a single set of designs common to all three territories. The 1 and 2 franc coins were discontinued and a new, bimetallic 200 franc coin introduced. The old coins were withdrawn in January 2023.
+
+Historical exchange rates
+26 December 1945 to 20 September 1949 – Fixed exchange with the US dollar at US$1 = F.CFP 49.60. Non-fixed exchange rate with the old French franc, which devalued four times vs. the US dollar. From F.CFP 1 = FF 2.40  (FF = French franc) in December 1945, the exchange rate reached F.CFP 1 = FF 5.50 in September 1949.
+21 September 1949 to 31 December 1959 – Fixed exchange rate with the old French franc at F.CFP 1 = FF 5.50
+1 January 1960 to 31 December 1998 – Fixed exchange rate with the French franc at F.CFP 1 = NF 0.055 or NF 1 ≈ F.CFP 18.182 (1 January 1960: 100 'old' French francs became 1 'new' franc)
+1 January 1999 onward – Fixed exchange rate with the euro at F.CFP 1,000 = €8.38 or €1 ≈ F.CFP 119.332 (1 January 1999: euro replaced FRF at the rate of 6.55957 FRF for 1 euro)
+The calculation to the euro was 
+  
+    
+      
+        0.055
+        ÷
+        6.55957
+        ×
+        1000
+        ≈
+        8.3847
+      
+    
+    {\displaystyle 0.055\div 6.55957\times 1000\approx 8.3847}
+  
+, which meant that 1000 XPF was not worth exactly €8.38 prior to the introduction of the euro. The value of 1000 XPF in euros was instead rounded to the nearest euro cent upon the introduction of the euro.
+The 1960 and 1999 events are merely changes in the currency in use in France; the relative value of the CFP franc (XPF) vs. the French franc / euro is unchanged since 1949.
+
+Coins
+In 1949, New Caledonia and French Polynesia (then called French Oceania) began to issue coins with identical obverse sides, but distinct reverse side designs. They could be used interchangeably in all three French territories, in a similar way to the use of euro coins (with distinct national obverse sides) in all countries of the eurozone.
+Until 2021, the IEOM issued two sets of CFP coins in denominations of 1, 2, 5, 10, 20, 50, and 100 francs. The New Caledonian series is marked with "Nouvelle Caledonie" on the reverse side and was circulated mainly in New Caledonia and Wallis and Futuna. The French Polynesian series is marked "Polynesie Française" and circulated in French Polynesia. The reverse designs depicted landscapes, plants, or animals typical of the region, as well as the coin denomination.
+The obverse side, common to both regions, included the words Republique Français (lit. 'French Republic') and depicted an allegorical representation of Minerva the goddess of wisdom on the 1, 2, and 5 franc coins, or Marianne, symbol of the French Republic, on the higher denominations. The obverse also included the mint year and the initials of the issuing central bank (IEOM) from 1972.
+The 1, 2, and 5 franc coins were made from aluminium alloy, the 10, 20, and 50 franc coins from nickel (cupronickel after 2005), and the "gold" 100 franc coin from nickel bronze (copper nickel aluminium alloy after 2005).
+
+2023 onwards
+In September 2021 a new single set of coins was released, common to all three French Pacific Territories, to replace the two older sets of coins. The 1 and 2 franc coins were discontinued, and a new bimetallic 200 franc coin was issued. The old coins were withdrawn from circulation in January 2023. Since the lowest denomination in use is now the 5 franc coin, cash transactions are now subject to rounding:
+
+Ending in 1 or 2 francs: round down to 0.
+Ending in 3 or 4 francs: round up to 5.
+Ending in 6 or 7 francs: round down to 5.
+Ending in 8 or 9 francs: round up to 10.
+Ending in 0 or 5 francs: remain unchanged.
+The rounding rule does not apply to electronic transactions, which are still completed to the franc.
+The obverses of all the coins features a single wavy-line design, with the IEOM issuer and year engraved around the edge, and the denomination value. Each coin denomination has a single reverse design depicting landscapes, artefacts, flora and fauna from all three territories.
+
+Banknotes
+The IEOM began issuing banknotes in New Hebrides in 1965, and in New Caledonia and French Polynesia in 1969, in 500, 1,000, and 5,000 franc denominations. In 1986 the 10,000 franc banknote was introduced, which was common to both French Polynesia and New Caledonia. These were followed, between 1992 and 1995, by new 500, 1,000, and 5,000 franc banknote designs common to all of the French Pacific Territories. One side of the banknote shows landscapes or historical figures from New Caledonia, the other from French Polynesia.
+In January 2014, the IEOM issued a new series of banknotes, and the older notes were withdrawn from circulation on 30 September of that year (they can be exchanged indefinitely at IEOM offices).
+
+Tārā
+Before the French regulated the currency on Tahiti, French Polynesia, traders often used dollars.  The word dollar became tārā (often written without accents as tara, or tala), and this term is still used among native Tahitian and local Chinese traders as an unofficial unit, worth 5 francs. Thus for a price of 200 francs, one would say tārā e maha-ʻahuru (40 tārā) in Tahitian. The currency of Samoa is also called the tālā.
+
+See also
+CFA franc
+Currencies related to the euro
+French Polynesian franc
+Monetary union
+New Caledonian franc
+New Hebrides franc
+
+References
+External links
+ Media related to Franc pacifique at Wikimedia Commons

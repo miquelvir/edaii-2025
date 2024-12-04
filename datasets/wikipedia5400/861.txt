@@ -1,0 +1,141 @@
+861
+C23 (C standard revision)
+C23, formally ISO/IEC 9899:2024, is the current open standard for the C programming language, which supersedes C17 (standard ISO/IEC 9899:2018).  It was started in 2016 informally as C2x, and was published on October 31, 2024.  The freely available draft most similar to the one published is document N3220 (see Available texts, below).  The first WG14 meeting for the C2x draft was held in October 2019, virtual remote meetings were held in 2020 due to the COVID-19 pandemic, then various teleconference meetings continued to occur through 2024.
+In C23, the value of __STDC_VERSION__ changes from 201710L to 202311L. The common names "C17" and "C23" reflect these values, which are frozen prior to final adoption, rather than the years in the ISO standards identifiers (9899:2018 and 9899:2024).
+
+Features
+Changes integrated into the latest working draft of C23 are listed below.
+
+Standard Library
+New functions
+Add memset_explicit() function in <string.h> to erase sensitive data, where memory store must always be performed regardless of optimizations.
+Add memccpy() function in <string.h> to efficiently concatenate strings – similar to POSIX and SVID C extensions.
+Add strdup() and strndup() functions in <string.h> to allocate a copy of a string – similar to POSIX and SVID C extensions.
+Add memalignment() function in <stdlib.h> to determine the byte alignment of a pointer.
+Add bit utility functions / macros / types in new header <stdbit.h> to examine many integer types.  All start with stdc_ to minimize conflict with legacy code and 3rd party libraries.
+In the following, replace * with uc, us, ui, ul, ull for five function names, or blank for a type-generic macro.
+Add stdc_count_ones*() and stdc_count_zeros*() to count number of 1 or 0 bits in value.
+Add stdc_leading_ones*() and stdc_leading_zeros*() to count leading 1 or 0 bits in value.
+Add stdc_trailing_ones*() and stdc_trailing_zeros*() to count trailing 1 or 0 bits in value.
+Add stdc_first_leading_one*() and stdc_first_leading_zero*() to find first leading bit with 1 or 0 in value.
+Add stdc_first_trailing_one*() and stdc_first_trailing_zero*() to find first trailing bit with 1 or 0 in value.
+Add stdc_has_single_bit*() to determine if value is an exact power of 2 (return true if and only if there is a single 1 bit).
+Add stdc_bit_floor*() to determine the largest integral power of 2 that is not greater than value.
+Add stdc_bit_ceil*() to determine the smallest integral power of 2 that is not less than value.
+Add stdc_bit_width*() to determine number of bits to represent a value.
+Add timegm() function in <time.h> to convert time structure into calendar time value - similar to function in glibc and musl libraries.
+New <math.h> functions based on IEEE 754-2019 recommendations, such as trigonometry functions operating on units of 
+  
+    
+      
+        π
+        x
+      
+    
+    {\displaystyle \pi x}
+  
+ and exp10.
+
+Existing functions
+Add %b binary conversion specifier to printf() function family.
+Add %b binary conversion specifier to scanf() function family.
+Add 0b and 0B binary conversion support to strtol() and wcstol() function families.
+Make the functions bsearch(), bsearch_s(), memchr(), strchr(), strpbrk(), strrchr(), strstr(), and their wide counterparts wmemchr(), wcschr(), wcspbrk(), wcsrchr(), wcsstr() return a const qualified object if one was passed to them.
+
+Preprocessor
+Add #elifdef and #elifndef directives, which are essentially equivalent to #elif defined and #elif !defined.  Both directives were added to [C++](640)23 standard and GCC 12.
+Add #embed directive for binary resource inclusion and __has_embed allowing the availability of a resource to be checked by preprocessor directives.
+Add #warning directive for diagnostics.
+Add __has_include allowing the availability of a header to be checked by preprocessor directives.
+Add __has_c_attribute allowing the availability of an attribute to be checked by preprocessor directives.  (see "[C++](640) compatibility" group for new attribute feature)
+Add __VA_OPT__ functional macro for variadic macros which expands to its argument only if a variadic argument has been passed to the containing macro.
+
+Types
+Add nullptr_t, a null pointer type.
+Add _BitInt(N) and unsigned _BitInt(N) types for bit-precise integers. Add BITINT_MAXWIDTH macro for maximum bit width.
+Add ckd_add(), ckd_sub(), ckd_mul() macros for checked integer operations.
+Variably-modified types (but not VLAs which are automatic variables allocated on the stack) become a mandatory feature.
+Better support for using const with arrays.
+Standardization of the typeof(...) operator.
+The meaning of the auto keyword was changed to cause type inference while also retaining its old meaning of a storage class specifier if used alongside a type. Unlike [C++](640), C23 allows type inference only for object definitions (no inferring function return type or function parameter type).
+Compatibility rules for structure, union, and enumerated types were changed to allow a redeclaration of a compatible type with the same tag.
+Exact-width integer may now exceed intmax_t (N2888).
+
+Constants
+Add nullptr constant for nullptr_t type.
+Add wb and uwb integer literal suffixes for _BitInt(N) and unsigned _BitInt(N) types, such as 6uwb yields an unsigned _BitInt(3), and -6wb yields a signed _BitInt(4) which has three value bits and one sign bit.
+Add 0b and 0B binary literal constant prefixes, such as 0b10101010 (equating to 0xAA).
+Add ' digit separator to literal constants, such as 0xFE'DC'BA'98 (equating to 0xFEDCBA98), 299'792'458 (equating to 299792458), 1.414'213'562 (equating to 1.414213562).
+Add the ability to specify the underlying type of an enum.
+Allow enums with no fixed underlying type to store values that are not representable by int.
+
+Keywords
+Add true and false keywords.
+Add alignas, alignof, bool, static_assert, thread_local keywords.  Previously defined keywords become alternative spellings: _Alignas, _Alignof, _Bool, _Static_assert, _Thread_local.
+Add _BitInt keyword (see "types" group)
+Add typeof and typeof_unqual keywords (see "types" group)
+Add nullptr keyword (see "constants" group)
+Add constexpr keyword (see "other" group)
+Add _Decimal32, _Decimal64, _Decimal128 keywords for (optional) decimal floating-point arithmetic (see "other" group)
+
+Syntax
+Labels can appear before declarations and at the end of compound statements.
+Unnamed parameters in function definitions.
+Zero initialization with {} (including initialization of VLAs).
+Variadic functions no longer need a named argument before the ellipsis and the va_start macro no longer needs a second argument nor does it evaluate any argument after the first one if present.
+Add [C++](640)11 style attribute syntax using double square brackets . In addition to [C++](640)11 attributes listed below, add new attributes:
+unsequenced allows compiler optimizations for functions producing repeatable outputs only based on their parameters
+reproducible, similar to unsequenced, but for functions whose call order also matters
+Add single-argument _Static_assert for compatibility with [C++](640)17.
+Functions with no arguments listed in the prototype void foo() are understood as taking no arguments (see removal of K&R function declarations)
+
+[C++](640) compatibility
+Various syntax changes improve compatibility with [C++](640), such as labels before declarations, unnamed function arguments, zero initialization with {}, variadic functions without named argument, [C++](640)11 style attributes, _Static_assert (see Syntax). For labels at the end of compound statements a corresponding change was made to [C++](640)23.
+Add [C++](640)-style attributes (see Syntax). Add attributes deprecated, fallthrough, maybe_unused, nodiscard, and noreturn attribute for compatibility with [C++](640)11, then deprecate _Noreturn, noreturn, header <stdnoreturn.h> features introduced in C11.  Duplicate attributes are allowed for compatibility with [C++](640)23. All standard attributes can also be surrounded by double underscores (e.g. __deprecated__ is equivalent to deprecated).
+Add u8 prefix for character literals to represent UTF-8 encoding for compatibility with [C++](640)17.
+Add #elifdef and #elifndef preprocessing directives for compatibility with [C++](640)23. (see "preprocessor" group)
+
+Other features
+Support for the ISO/IEC 60559:2020, the current version of the IEEE 754 standard for floating-point arithmetic, with extended binary floating-point arithmetic and (optional) decimal floating-point arithmetic.
+The constexpr specifier for objects but not functions, unlike [C++](640)'s equivalent.
+Add char8_t type for storing UTF-8 encoded data and change the type of u8 character constants and string literals to char8_t. Also, the functions mbrtoc8() and c8rtomb() to convert a narrow multibyte character to UTF-8 encoding and a single code point from UTF-8 to a narrow multibyte character representation respectively.
+Clarify that all char16_t strings and literals shall be UTF-16 encoded, and all char32_t strings and literals shall be UTF-32 encoded, unless otherwise explicitly specified.
+Allow storage class specifiers to appear in compound literal definition.
+
+Obsolete features
+Some old obsolete features are either removed or deprecated from the working draft of C23:
+
+Remove trigraphs.
+Remove K&R function definitions/declarations (with no information about the function arguments).
+Remove representations for signed integers other than two's complement. Two's complement signed integer representation will be required.
+The *_HAS_SUBNORM macros in <float.h> are obsolescent features.
+
+Compiler support
+The following compilers implement an experimental compiler flag to support this standard: 
+
+GCC 9,
+[Clang](888) 9.0,
+Pelles C 11.00
+
+Available texts
+Like other editions of the C standard, the official ISO text of the standard is not freely available.
+The latest working draft pre-C23 that was made public was N3096, dated 2023-04-01. In the months that followed this draft, hundreds of changes were made before producing the working draft N3149 dated 2023-07-09 and the official draft standard N3219 dated 2024-02-22. Neither of these later drafts is public.
+On the same date that the draft standard N3219 was announced, a new working draft N3220 was made public. While this document is officially described as a draft of the future version "C2Y" of the standard, the accompanying "Editor's Report" specifies that N3220 differs from the draft C23 standard N3219 only by a fix to one footnote in Annex K.
+
+See also
+[C++](640)23, [C++](640)20, [C++](640)17, [C++](640)14, [C++](640)11, [C++](640)03, [C++](640)98, versions of the [C++](640) programming language standard
+Compatibility of C and [C++](640)
+
+References
+Further reading
+N3096 (last freely-available working draft before C23); WG14; April 2023. (free download)
+N3149 (working draft of C23 standard); WG14; July 2023. (not available to public)
+N3219 (ISO/IEC 9899:2023 DIS Draft); WG14; February 2024. (ISO draft available but not free)
+ISO/IEC 9899:2024 (official C23 standard); ISO; 2024. (planning for release in 2024)
+N3220 (first working draft after C23; differs from draft standard N3219 only in one footnote); WG14; February 2024. (free download)
+
+External links
+C Language WG14 (Working Group 14)
+WG14 Document Repository
+WG14 Meetings - agenda and minutes
+WG14 Charters: C2x Charter, C23 Charter, Interpreting the C23 Charter, C Standard Charter

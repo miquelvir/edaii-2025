@@ -1,0 +1,29 @@
+92
+Congenital sensorineural deafness in cats
+Congenital sensorineural deafness occurs commonly in domestic cats with a white coat. It is a congenital deafness caused by a degeneration of the inner ear. Deafness is far more common in white cats than in those with other coat colours.
+
+Occurrence
+Domesticated cats with blue eyes and white coats are often completely deaf. Charles Darwin mentions this phenomenon in his book, On the Origin of Species, to explain correlated variation. Deafness can occur in white cats with yellow, green or blue irises, although it is mostly likely in white cats with blue irises. In white cats with mixed-coloured eyes (odd-eyed cats), it has been found that deafness is more likely to affect the ear on the blue-eyed side. Odd-eyed white cats have one blue eye and one yellow, amber, copper/orange or green coloured eye. Approximately 15–40% of the solid white cats have one or two blue eyes.
+According to the ASPCA Complete Guide to [Cat](54)s, "17 to 20 percent of white cats with non-blue eyes are deaf; 40 percent of "odd-eyed" white cats with one blue eye are deaf; and 65 to 85 percent of blue-eyed white cats are deaf."
+In one 1997 study of white cats, 72% of the animals were found to be totally deaf. The entire organ of Corti in the cochlea was found to have degenerated in the first few weeks after birth; however, even during these weeks no brain stem responses could be evoked by auditory stimuli, suggesting that these animals had never experienced any auditory sensations. It was found that some months after the organ of Corti had degenerated, the spiral ganglion of the cochlea also began to degenerate.
+
+Genetics
+Although few studies have been done to link this to genes known to be involved in human Waardenburg syndrome, a syndrome of hearing loss and depigmentation caused by a genetic disruption to neural crest cell development, such a disruption would lead to this presentation in cats as well. Waardenburg syndrome type 2A (caused by a mutation in MITF) has been found in many other small mammals including dogs, minks and mice, and they all display at least patchy white depigmentation and some degeneration of the cochlea and saccule, as in deaf white cats.
+A major gene that causes a cat to have a white coat is a dominant masking gene, an allele of KIT which suppresses pigmentation and hearing. The cat would have an underlying coat colour and pattern, but when the dominant white gene is present, that pattern will not be expressed, and the cat will be deaf. A cat that is homozygous (WW) or heterozygous (Ww) for this gene will have a white coat despite the underlying pattern/colour. A cat that lacks this dominant masking gene (ww) will exhibit a coat colour/pattern. KIT mutations have also led to patchy depigmentation and different coloured irises in humans, and KIT has been found to increase MITF expression, the gene involved in human Waardenburg syndrome type 2A.
+
+Non-deaf blue-eyed white cats
+The established link between deafness and blue eyes is found in the link between deafness, blue eyes and solid white coats. However, it is a common misconception that all white cats with blue eyes are deaf. It is possible to have a cat with a naturally white coat without this gene, as an extreme form of white spotting, although this is rare – some small non-white patch usually remains. 
+Furthermore, there are multiple different genes responsible for blue (incl. odd) eyes, and several of these genes are not linked to masking, white coats or deafness (e.g., "Siamese" colourpoint-gene, Ojos Azules-gene, etc.). For example, solid white blue-eyed Foreign White or Ojos Azules cats are not linked to deafness. Deafness depends on the cat's genotype (genetic make-up), and not its phenotype (physical appearance). Therefore, not all solid white cats with one or two blue eyes are deaf. It is not advisable to breed from deaf white cats, as this would pass the trait along. BAER-testing (Brainstem Auditory Evoked Response) is used to test deafness in cats.
+
+In popular culture
+The character Snowkit in the Warriors series book A Dangerous Path has congenital sensorineural deafness. His condition leads to his death as he fails to hear his mother's warning of the appearance of a predator.
+
+See also
+[Cat](54) coat genetics
+Merle (dog coat)
+Pleiotropy
+Van cat
+Waardenburg syndrome
+
+
+== References ==

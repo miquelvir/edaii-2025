@@ -1,0 +1,59 @@
+910
+Application server
+An application server is a server that hosts applications or software that delivers a business application through a communication protocol. For a typical web application, the application server sits behind the web servers.
+An application server framework is a service layer model. It includes software components available to a software developer through an application programming interface. An application server may have features such as clustering, fail-over, and load-balancing. The goal is for developers to focus on the business logic.
+
+Java application servers
+Jakarta EE (formerly Java EE or J2EE) defines the core set of [API](708) and features of Java application servers.
+The Jakarta EE infrastructure is partitioned into logical containers.
+
+EJB container: Enterprise Beans are used to manage transactions. According to the Java BluePrints, the business logic of an application resides in Enterprise Beans—a modular server component providing many features, including declarative transaction management, and improving application scalability.
+Web container: the web modules include Jakarta Servlets and Jakarta Server Pages (JSP).
+JCA container (Jakarta Connectors)
+JMS provider (Jakarta Messaging)
+
+Microsoft
+Microsoft's .NET positions their middle-tier applications and services infrastructure in the Windows Server operating system and the .NET Framework technologies in the role of an application server. The Windows Application Server role includes Internet Information Services (IIS) to provide web server support, the .NET Framework to provide application support, ASP.NET to provide server side scripting, COM+ for application component communication, Message Queuing for multithreaded processing, and the Windows Communication Foundation (WCF) for application communication.
+
+PHP application servers
+PHP application servers run and manage PHP applications.
+
+Zend Server, built by Zend, provides application server functionality for the PHP-based applications.
+RoadRunner, built by Spiral Scout is a high-performance PHP application server, load-balancer, and process manager written in Go.
+
+Third-party
+Mono (a cross platform open-source implementation of .NET supporting nearly all its features, with the exception of Windows OS-specific features), sponsored by Microsoft and released under the MIT License
+
+Mobile application servers
+Mobile application servers provide data delivery to mobile devices.
+
+Mobile features
+Core capabilities of mobile application services include
+
+Data routing– data is packaged in smaller (REST) objects with some business logic to minimize demands on bandwidth and battery
+Orchestration– transactions and data integration across multiple sources
+Authentication service– secure connectivity to back-end systems is managed by the mobile middleware
+Off-line support– allows users to access and use data even though the device is not connected
+Security– data encryption, device control, SSL, call logging
+
+Mobile challenges
+Although most standards-based infrastructure (including SOAs) are designed to connect to any independent of any vendor, product or technology, most enterprises have trouble connecting back-end systems to mobile applications, because mobile devices add the following technological challenges:
+
+Limited resources – mobile devices have limited power and bandwidth
+Intermittent connectivity – cellular service and wifi coverage is often not continuous
+Difficult to secure – mobility and BYOD practices make it hard to secure mobile devices
+
+Deployment models
+An application server can be deployed:
+
+On premises
+Cloud
+Private cloud
+Platform as a service (PaaS)
+
+See also
+Application service provider
+List of application servers
+
+References
+{Table Web Interfaces}

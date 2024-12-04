@@ -1,0 +1,71 @@
+399
+Caniformia
+Caniformia is a suborder within the order Carnivora consisting of "dog-like" carnivorans. They include dogs (wolves, foxes, etc.), bears, raccoons, and mustelids. The Pinnipedia (seals, walruses and sea lions) are also assigned to this group. The center of diversification for the Caniformia is North America and northern Eurasia. Caniformia stands in contrast to the other suborder of Carnivora, the Feliformia ("cat-like" carnivorans), the center of diversification of which was in Africa and southern Asia.
+
+Description
+Most members of this group have nonretractile claws (the fisher, marten, sea otter (forepaws only), red panda, and ringtail, and some foxes have retractile or semi-retractile claws) and tend to be plantigrade (with the exception of the [Canidae](398)). Other traits that separate the Caniformia from the Feliformia is that caniforms have longer jaws and more teeth, with less specialized carnassial teeth. They also tend more towards omnivory and opportunistic feeding, while the feliforms, other than the viverrids, are more specialized for eating meat. Caniforms have single-chambered or partially divided auditory bullae, composed of a single bone, while in feliforms, the auditory bullae are double-chambered, composed of two bones joined by a septum. In the Caniformia, the bulbourethral glands and vesicula seminalis are always absent. Relative to body size, the baculum is usually longer in the Caniformia than in the Feliformia.
+
+Extant families
+Caniformia consists of nine extant families, with three extinct families also recognized. The extant families are monophyletic according to phylogenetic molecular analysis.  Terrestrial caniforms in the wild are found on all continents with the exception of Antarctica, while pinnipeds are distributed throughout the world's oceans.
+Family [Canidae](398) (dogs and other canids) includes wolves, dogs, coyotes, and foxes, as well as a number of less familiar animals. The family is currently divided into two major groups, the true dogs (tribe Canini), which includes nine genera, and the true foxes (tribe Vulpini) with two genera. In addition, two basal genera are described. About 35 species of extant canids are currently recognized. Canids are the most social of all caniforms, sometimes living in packs. The dog is the most diverse of all mammals in terms of body structure variants.
+Family Ursidae (bears) is the largest of all the land caniforms. Eight species are recognized, divided into five genera. They range from the large polar bear (350–680 kilograms (770–1,500 lb) in males) to the small sun bear (30–60 kilograms (66–132 lb) in males) and from the endangered giant panda to the very common black bear. Common characteristics of modern bears include a large body with stocky legs, a long snout, shaggy hair, plantigrade paws with five nonretractile claws, and a short tail. Most bears are omnivorous, with largely varied diets that include both plants and animals. The polar bear is the most carnivorous of bears due to the arctic climate in which it lives, and shows a preference for eating seals. The giant panda is the most herbivorous bear and has evolved a number of adaptations, including a sixth "toe", specialized teeth, and strong jaw muscles, to allow it to feed nearly exclusively on bamboo, a tough member of the grass family. The sloth bear has some adaptations for ant and termite eating, with a long snout, powerful claws, and missing upper front teeth, though it also eats honey and fruit.
+Family [Ailuridae](121) consists today of a single species, the red panda, which was once thought to be included in the Procyonidae or Ursidae lineages, but is now placed in its own family along with a number of extinct species. It is found in the Himalayas, including southern China, Nepal, Bhutan, India, and Pakistan. Fossil species of the family are also found in North America.
+Family Mephitidae (skunks and stink badgers) was once classified as mustelids, but are now recognized as a lineage in their own right. The 12 species of skunks are divided into four genera: Mephitis (hooded and striped skunks, two species), Spilogale (spotted skunks, four species), Mydaus (stink badgers, two species) and Conepatus (hog-nosed skunks, four species). The two skunk species in the genus Mydaus inhabit Indonesia and the Philippines; all other skunks inhabit the Americas from Canada to central South America.
+Family Mustelidae (badgers, weasels and otters) is the largest family of carnivora, with 22 extant genera and roughly 57 extant species. While highly variable in shape, size, and behavior, most mustelids are smaller animals with short legs, short, round ears, and thick fur. Mustelids are predominantly carnivorous. While not all share identical dentition, they all possess teeth adapted for eating flesh, including the presence of shearing carnassials.
+Members of Family Procyonidae (raccoons, coatis) are smallish animals, with generally slender bodies and long tails. Nineteen extant species in six genera are currently recognized. Except for the kinkajou, all procyonids have banded tails and distinct facial markings, and like bears, are plantigrade, walking on the soles of their feet. Most species have nonretractile claws. Early procyonids may have been an offshoot of the canids that adapted to more omnivorous diets.
+Pinnipedia (seals, sea lions, and walruses clade) is a widely distributed and diverse group of semiaquatic marine mammals which is closely related to an extinct group of pinnipeds, Enaliarctos. While support for the monophyly of pinnipeds is strong, the relationship of pinnipeds to terrestrial mammals is still unclear. Some studies support the hypothesis that the bears are their closest relatives, while others support a closer relationship to the mustelids.
+Pinnipeds split from other caniforms 50 million years ago (Mya) during the Eocene.
+The clade is currently divided into three families:
+
+Family Phocidae (true or earless seals) consists of around 19 species of highly aquatic, barrel-shaped animals ranging from 45 kg (100 lb) and 1.2 m (4 ft) in length (the ringed seal), to 2,400 kg (5,300 lb) and 5 m (16 ft) (southern elephant seal). Phocids are found throughout the world's oceans.
+Family Otariidae (eared seals, sea lions, fur seals) is distributed throughout the world's oceans with the exception of the North Atlantic. The 15 species (divided into seven genera) of otariids are distinguished from phocids by visible external ears (pinnae), more dog-like faces, and the ability to turn their rear flippers forward.
+Family Odobenidae currently includes a single species, the walrus. A large (2,000 kg or 4,400 lb), distinctive pinniped with long whiskers and tusks, the walrus has a discontinuous circumpolar distribution in the Arctic Ocean and sub-Arctic seas of the Northern Hemisphere. It is primarily a benthic forager of bivalve mollusks and other marine invertebrates.
+
+Evolution
+Caniforms first appeared as tree-climbing, superficially marten-like carnivores in the Eocene around 42 Mya. Miacis cognitus was probably an early caniform. Like many other early carnivorans it was well suited for tree climbing with needle-sharp claws, and had limbs and joints that resemble those of modern carnivorans. M. cognitus was probably a very agile forest dweller that preyed on smaller animals, such as small mammals, reptiles, and birds.
+
+Debate continues on the origin of pinnipeds. Recent molecular evidence suggests pinnipeds evolved from a bear-like ancestor about 23 Mya during the late Oligocene or early Miocene epochs, a transitional period between the warmer Paleogene and cooler Neogene periods. However, discovery of the fossil Puijila darwini in early Miocene deposits in Nunavut suggests a different scenario. Like a modern otter, Puijila had a long tail, short limbs, and webbed feet instead of flippers. However, its limbs and shoulders were more robust, and Puijila likely had been a quadrupedal swimmer–retaining a form of aquatic locomotion that give rise to the major swimming types employed by modern pinnipeds. Puijila has been assigned to a clade of mustelids.
+
+Classification
+Suborder: Caniformia ("dog-like" carnivorans)
+Genus: †Lycophocyon
+Superfamily: Amphicyonoidea
+Family: †Amphicyonidae (bear-dogs)
+Infraorder: Cynoidea
+Superfamily: Canoidea
+Family: [Canidae](398) (dogs and allies)
+Infraorder: [Arctoidea](161)
+Parvorder: Ursida
+Genus: †Adracon
+Superfamily: Ursoidea
+Family: Ursidae (bears)
+Superfamily: Musteloidea
+Genus: †Plesiogale
+Family: [Ailuridae](121) (red panda and allies)
+Family: Mephitidae (skunks and stink badgers)
+Family: Mustelidae (weasels and allies)
+Family: Procyonidae (raccoons and allies)
+Incertae sedis:
+Genus: †Peignictis
+Parvorder: Pinnipedimorpha
+Genus: †Pinnarctidion
+Family: †Enaliarctidae
+Family: †Semantoridae
+Division: Pinnipediformes
+Genus: †Pacificotaria
+Genus: †Pteronarctos
+Subdivision: Pinnipedia
+Superfamily: Otarioidea
+Family: Odobenidae (walrus and allies)
+Family: Otariidae (eared seals)
+Superfamily: Phocoidea
+Family: Phocidae (true seals)
+Family: †Desmatophocidae
+
+Phylogeny
+The cladogram is based on molecular phylogeny of six genes in Flynn (2005), with the musteloids updated following the multigene analysis of Law et al. (2018).
+
+References
+External links
+Taxonomicon
+Caniform

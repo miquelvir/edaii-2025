@@ -1,0 +1,28 @@
+2332
+Body cord
+In fencing, a body cord serves as the connection between a fencer and a reel of wire that is part of a system for electrically detecting that the weapon has touched the opponent. There are two types: one for epee, and one for foil and sabre.
+
+Description
+Épée body cords consist of two sets of three prongs each connected by a wire. One set plugs into the fencer's weapon, with the other connecting to the reel. Foil and sabre body cords have only two irregularly sized prongs (or a twist-lock bayonet connector) on the weapon side, with the third wire connecting instead to the fencer's lamé. The need in foil and sabre to distinguish between on and off-target touches requires a wired connection to the valid target area.
+
+How it works
+The three wires of the body cord are known as the A, B, and C lines. At the reel connector (and both connectors for Épée cords) The B pin is in the middle, the A pin is 1.5 cm to one side of B, and the C pin is 2 cm to the other side of B. This asymmetrical arrangement ensures that the cord cannot be plugged in the wrong way around.
+The A line is the "lamé" line, the B line is the "weapon" line, and the C line is the ground. Although it works somewhat differently for each weapon, a valid touch always involves the connection of the A and B lines. In all three weapons, the C line is connected to the body of the weapon, and sometimes (normally in high-level competition) to the fencing strip as well, which must be made of metal in this case.
+In foil, the A line is connected to the lamé and the B line runs up a wire to the tip of the weapon. The B line is normally connected to the C line through the tip. When the tip is depressed, the circuit is broken and one of three things can happen:
+
+The tip is touching the opponent's lamé (their A line): Valid touch
+The tip is touching the opponent's weapon or the grounded strip: nothing, as the current is still flowing to the C line.
+The tip is not touching either of the above: Off-target hit (white or yellow light).
+In Épée, the A and B lines run up separate wires to the tip (there is no lamé). When the tip is depressed, it connects the A and B lines, resulting in a valid touch. However, if the tip is touching the opponents weapon (their C line) or the grounded strip, nothing happens when it is depressed, as the current is redirected to the C line. Grounded strips are particularly important in Épée, as without one, a touch to the floor registers as a valid touch (rather than off-target as in Foil).
+In Sabre, similarly to Foil, the A line is connected to the lamé, but both the B and C lines are connected to the body of the weapon. Any contact between the B/C line (doesn't matter which, as they are always connected) and the opponent's A line (their lamé) results in a valid touch. There is no need for grounded strips in Sabre, as hitting something other than the opponent's lamé does nothing.
+
+On the strip
+Typically, a fencer wears a body cord under their jacket. The wire is threaded through the sleeve of the weapon arm as it is being donned. Most gloves feature a small hole designed for body cord use. In officially sanctioned tournaments, the plug that fits into the weapon must be secured with an additional device, usually a small clip.
+The other end of the wire is connected to the reel, as well as a D-ring on the fencer's jacket to prevent it from disconnecting during a bout. In addition, foilists and sabreists must connect their alligator clips to their lamés. Fencers are forced by regulation to attach the lamé clip to their weapon arm side to prevent accidental or intentional removal.
+Regulation also stipulates that any fencer who brings a defective body cord to the strip be penalized with a yellow card. However, should one's body cord fail in the middle of a bout, no penalty is awarded. In both cases, the fencer is not allowed to disrobe to change cords. This leads to the common practice of replacing the body cord by tying the new cord around the defective cord and pulling it through the sleeve.
+
+Repair
+Body cords must be kept in good working order lest their condition deteriorate. Common causes of broken body cords include breaks and damage to the prongs. Many body cords are made with clear plastic insulation so that any corrosion of the copper wire can be seen more easily.
+
+
+== References ==

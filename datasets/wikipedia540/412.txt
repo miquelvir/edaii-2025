@@ -1,0 +1,84 @@
+412
+Paul Alivisatos
+Armand Paul Alivisatos (born November 12, 1959) is a Greek-American etymologist, chemist and academic administrator who has served as the 14th president of the University of Chicago since September 2021. He is a pioneer in nanomaterials development and an authority on the fabrication of nanocrystals and their use in biomedical and renewable energy applications. He was ranked fifth among the world's top 100 chemists for the period 2000–2010 in the list released by Thomson Reuters.
+On September 1, 2021, Alivisatos became the 14th president of the University of Chicago, where he also holds a faculty appointment as the John D. MacArthur Distinguished Service Professor in the Department of Chemistry, the Pritzker School of Molecular Engineering, and the College; and serves as the Chair of the Board of Governors of Argonne National Laboratory and Chair of the Board of Directors of Fermi Research Alliance LLC, the operator of Fermi National Accelerator Laboratory.
+Prior to joining the University of Chicago, Alivisatos was the Executive Vice Chancellor and Provost (2017–2021) of the University of California, Berkeley, where he had taught since 1988. He previously served as the Director of the Lawrence Berkeley National Laboratory (2009–2016), and as Berkeley’s interim Vice Chancellor for Research (2016–2017). He held a number of faculty appointments at Berkeley, including the Samsung Distinguished Professor in Nanoscience and Nanotechnology Research and Professor of Chemistry and Materials Science & Engineering. Alivisatos was also the Founding Director of the Kavli Energy Nanosciences Institute (ENSI), an institute on the Berkeley campus launched by the Kavli Foundation to explore the application of nanoscience to sustainable energy technologies.
+
+Early life and education
+Paul Alivisatos was born in Chicago, Illinois, to a Greek family, where he lived until the age of 10, when his family moved to Athens, Greece. Alivisatos has said of his years in Greece that it was a great experience for him because he had to learn the Greek language and culture then catch up with the more advanced students. "When I found something very interesting it was sometimes a struggle for me to understand it the very best that I could," he has said of that experience. "That need to work harder became an important motivator for me." Alivisatos returned to the [United States](110) to attend the University of Chicago in the late 1970s.
+In 1981, Alivisatos earned a B.A. with honors in chemistry from the University of Chicago. In 1986, he received a Ph.D. in physical chemistry from the University of California, Berkeley, where he worked under Charles Harris. His Ph.D. thesis concerned the photophysics of electronically excited molecules near metal and semiconductor surfaces. He then joined AT&T Bell Labs working with Louis E. Brus, and began research in the field of nanotechnology.
+Alivisatos returned to Berkeley in 1988 as an assistant professor of chemistry, becoming associate professor in 1993 and professor in 1995. He served as Chancellor's Professor from 1998 to 2001, and added an appointment as a professor of materials science and engineering in 1999.
+Alivisatos' affiliation with Lawrence Berkeley National Lab (or Berkeley Lab) began in 1991 when he joined the staff of the Materials Sciences Division. From 2005 to 2007 Alivisatos served as Berkeley Lab's Associate Laboratory Director for the Physical Sciences area. In 2008, he served as Deputy Lab Director under Berkeley Lab Director Steven Chu, and then as interim director when Chu stepped down to become the Secretary of Energy. He was named the seventh Director of Berkeley Lab on November 19, 2009, by the University of California Board of Regents on the recommendation of UC President Mark Yudof and with the concurrence of the U.S. Department of Energy. He played a critical role in the establishment of the Molecular Foundry, a U.S. Department of Energy's Nanoscale Science Research Center; and was the facility's founding director.
+Energy Secretary, Nobel laureate, and fellow Berkeley alumnus Steven Chu noted that Alivisatos is "an incredible scientist with incredible judgment on a variety of issues. He's level-headed and calm, and he has an ability to inspire people…and he can take projects from material science to real-world applications."
+
+Research
+Alivisatos is an internationally recognized authority on nano chemistry in the synthesis of semiconductor quantum dots and multi-shaped artificial nanostructures. Further, he is a world expert on the chemistry of nanoscale crystals; one of his papers (Science, 271: 933–937, 1996) has been cited over 13,800 times. He is also an expert on how these can be applied, for example as biological markers (e.g., Science, 281: 2013–16, 1998; a paper cited over 10,900 times). In addition, his use of DNA in this area (DNA nanotechnology) has shown the surprising versatility of this molecule. He has used it to direct crystal growth and create new materials, as in Nature, 382: 609–11, 1996, and even to measure nanoscale distances (see Nature Nanotechnology, 1: 47–52, 2006).
+He is widely recognized as being the first to demonstrate that semiconductor nanocrystals can be grown into complex two-dimensional shapes, as opposed to simple one-dimensional spheres. Alivisatos proved that controlling the growth of nanocrystals is the key to controlling both their size and shape. This achievement altered the nanoscience landscape and paved the way for a slew of new potential applications, including biomedical diagnostics, revolutionary photovoltaic cells, and LED materials.
+
+Nanocrystals
+Nanocrystals are aggregates of anywhere from a few hundred to tens of thousands of atoms that combine into a crystalline form of matter known as a "cluster." Typically a few nanometers in diameter, nanocrystals are larger than molecules but smaller than bulk solids and therefore often exhibit physical and chemical properties somewhere in between. Given that a nanocrystal is virtually all surface and no interior, its properties can vary considerably as the crystal grows in size.
+Prior to Alivisatos' research, all non-metal nanocrystals were dot-shaped, meaning they were essentially one-dimensional. No techniques had been reported for making two-dimensional or rod-shaped semiconductor nanocrystals that would also be of uniform size. However, in a landmark paper that appeared in the March 2, 2000 issue of the journal Nature, Alivisatos reported on techniques used to select the size but vary the shapes of the nanocrystals produced. This was hailed as a major breakthrough in nanocrystal fabrication because rod-shaped semiconductor nanocrystals can be stacked to create nano-sized electronic devices.
+The rod-shaped nanocrystal research, coupled with earlier work led by Alivisatos in which it was shown that quantum dots or "qdots"–nanometer-sized crystal dots (spheres a few billionths of a meter in size)– made from semiconductors such as cadmium selenide can emit multiple colors of light depending upon the size of the crystal, opened the door to using nanocrystals as fluorescent probes for the study of biological materials, biomedical research tools and aids to diagnosis, and as light-emitting diodes (LEDs). Alivisatos went on to use his techniques to create an entirely new generation of hybrid solar cells that combined nanotechnology with plastic electronics.
+
+Applications
+Alivisatos is the founding scientist of Quantum Dot Corporation, a company that makes crystalline nanoscale tags that are used in the study of cell behavior. (Quantum Dot is now part of Life Technologies.) He also founded the nanotechnology company Nanosys, and Solexant, a photovoltaic start-up that has since restarted as Siva Power. His research has led to the development of applications in range of industries, including bioimaging (for example, the use of quantum dots for luminescent labeling of biological tissue); display technologies (his quantum dot emissive film is found in the Kindle Fire HDX tablet); and renewable energy (solar applications of quantum dots).
+
+University of Chicago
+Alivisatos became president of the University of Chicago on September 1, 2021. He is the 14th president of the University of Chicago, succeeding Robert J. Zimmer who was president from 2006 to 2021. Alivisatos also serves as a John D. MacArthur Distinguished Service Professor in the Department of Chemistry, Pritzker School of Molecular Engineering, and the College.
+
+Lawrence Berkeley National Lab
+Under Alivisatos’ leadership, the Lawrence Berkeley National Lab shifted its priorities to the more interdisciplinary areas of renewable energy and climate-change research. During his tenure, the Lab began construction on new buildings for computational research, building efficiencies, solar energy research, and biological science.
+Alivisatos focused on integrating the Lab into the nation's innovation ecosystem, especially in the areas of energy and the environment. While some of the groundwork for this integration was laid by former Director Steve Chu, Alivisatos led efforts to leverage the wide range of scientific capabilities at Berkeley Lab with a variety of industry partners and entrepreneurs. These public/private sector collaborations resulted in technology transfer for industries as diverse as automobiles and medicine, and contributed to an increased speed of development in manufacturing and renewable energy. On March 23, 2015 Alvisatos announced that he would step down as Director when a replacement was identified.
+Alivisatos has also been outspoken on the issue of basic science funding at the federal level and America's ability to stay competitive in the areas global scientific research and development.
+
+Personal life
+Alivisatos is married to Nicole Alivisatos, a retired chemist, former editor of the journal Nano Letters, and daughter of the noted chemist, Gábor A. Somorjai.  They have two daughters.
+
+Awards and honors
+1991–1995 – Presidential Young Investigator Award;
+1991 – Alfred P. Sloan Foundation fellowship;
+1991 – ACS Exxon Solid State Chemistry Fellowship;
+1994 – Coblentz Award for Advances in Molecular Spectroscopy;
+1994 – Wilson Prize at Harvard;
+1994 – Department of Energy Award for Outstanding Scientific Accomplishment in Materials Chemistry;
+1995 – Materials Research Society Outstanding Young Investigator Award;
+1997 – Department of Energy Award for Sustained Outstanding Research in Materials Chemistry;
+2005 – Colloid and Surface Chemistry [American Chemical Society](286) Award;
+2006 – E. O. Lawrence Award;
+2006 – Eni Italgas prize for Energy and Environment;
+2006 – The Rank Prize (Optoelectronics);
+2006 – University of Chicago's Distinguished Alumni Award (Professional Achievement);
+2008 – Kavli Distinguished Lectureship in Nanoscience, Materials Research Society;
+2009 – Nanoscience Prize, International Society for Nanoscale Science, Computation & Engineering;
+2010 – Medaglia teresiana, University of Pavia;
+2011 – Linus Pauling Award;
+2011 – Von Hippel Award, Materials Research Society;
+2012 – Wolf Prize in Chemistry;
+2014 – National Medal of Science;
+2014 – ACS Award in the Chemistry of Materials;
+2015 – Axion Award, Hellenic American Professional Society;
+2015 – Spiers Memorial Award, Royal Society of Chemistry;
+2016 – Dan David Prize for nanoscience research;
+2017 – NAS Award in Chemical Sciences;
+2019 – Welch Award in Chemistry;
+2020 – BBVA Foundation Frontiers of Knowledge Award;
+2021 – Priestley Medal;
+2024 –  2024 Kavli Prize in Nanoscience;
+In addition to those listed above, Alivisatos has held fellowships with the American Association for the Advancement of Science, the American Physical Society (1996), and the [American Chemical Society](286). He is a member of the National Academy of Sciences and the American Academy of Arts and Sciences.
+
+Selected publications
+Alivisatos, A. P. (February 16, 1996). "Semiconductor Clusters, Nanocrystals, and Quantum Dots". Science. 271 (5251). American Association for the Advancement of Science (AAAS): 933–937. Bibcode:1996Sci...271..933A. doi:10.1126/science.271.5251.933. ISSN 0036-8075. S2CID 98248597.
+Hu, J. (May 3, 2001). "Linearly Polarized Emission from Colloidal Semiconductor Quantum Rods". Science. 292 (5524). American Association for the Advancement of Science (AAAS): 2060–2063. doi:10.1126/science.1060810. ISSN 0036-8075. PMID 11337589. S2CID 45130871.
+Alivisatos, A. Paul (2001). "Less is more in Medicine". Scientific American. 285 (3). Springer Science and Business Media LLC: 66–73. Bibcode:2001SciAm.285c..66A. doi:10.1038/scientificamerican0901-66. ISSN 0036-8733. PMID 11524971.
+Huynh, W. U.; Dittmer, Janke J.; Alivisatos, A. Paul (March 29, 2002). "Hybrid Nanorod-Polymer Solar Cells". Science. 295 (5564). American Association for the Advancement of Science (AAAS): 2425–2427. Bibcode:2002Sci...295.2425H. doi:10.1126/science.1069156. ISSN 0036-8075. PMID 11923531. S2CID 28606022.
+Gur, I.; Fromer, N. A.; Geier, M. L.; Alivisatos, A.P. (October 21, 2005). "Air-Stable All-Inorganic Nanocrystal Solar Cells Processed from Solution" (PDF). Science. 310 (5747). American Association for the Advancement of Science (AAAS): 462–465. Bibcode:2005Sci...310..462G. doi:10.1126/science.1117908. ISSN 0036-8075. PMID 16239470. S2CID 7380537.
+For a full list of publications, see http://www.cchem.berkeley.edu/pagrp/publications.html
+
+Editorships
+Alivisatos is the founding editor of Nano Letters, a publication of the [American Chemical Society](286). He formerly served on the Senior Editorial Board of Science. He has also served on the editorial advisory boards of ACS Nano, the Journal of Physical Chemistry, Chemical Physics, the Journal of Chemical Physics, and Advanced Materials.
+
+References
+External links
+Alivisatos Research Group at the University of California at Berkeley
+Lawrence Berkeley National Lab
+Kavli Energy Nanoscience Institute Archived 2020-07-03 at the Wayback Machine

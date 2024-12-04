@@ -1,0 +1,38 @@
+835
+Bell character
+A bell character (sometimes bell code) is a device control code originally sent to ring a small electromechanical bell on tickers and other teleprinters and teletypewriters to alert operators at the other end of the line, often of an incoming message. Though tickers punched the bell codes into their tapes, printers generally do not print a character when the bell code is received. Bell codes are usually represented by the label "BEL". They have been used since 1870 (initially in the Baudot code).
+To maintain backward compatibility, video display terminals (VDTs) that replaced teletypewriters included speakers or buzzers to perform the same function, as did the personal computers that followed. Modern terminal emulators often integrate the warnings to the desktop environment (e.g., the macOS Terminal will play the system warning sound) and also often offer a silent visual bell feature that flashes the terminal window briefly.
+
+Representations
+In ASCII the bell character's value is 7 and is named "BELL" or "BEL". Unicode does not give names to control characters but has assigned it the alias "ALERT" and abbreviation "BEL." It can sometimes be typed as ctrl+G and displayed as ^G in caret notation. Unicode also includes characters for the visual representation of the character: U+2407 ␇ SYMBOL FOR BELL and U+237E ⍾ BELL SYMBOL.
+In the 5-bit Baudot codes, BEL is represented by the number 11 (0x0B) when in "figures" mode. The code 0x2F is used in EBCDIC.
+In the programming language C (created in 1972), and in many languages influenced by it such as Python, the bell character can be placed in a string or character constant with \a. 'a' stands for "alert" or "audible" and was chosen because \b was already used for the backspace character.
+
+Usage
+On Unix-like systems, or on MS-DOS or Windows, a user can cause the equivalent of ringing the bell to happen by typing at the command prompt the command:
+
+echo ^G
+
+where the ^G is produced by holding down Ctrl and typing G. On Unix the user may need to type Ctrl+V first to "quote" the ^G.
+On POSIX systems, one may also use:
+
+printf '\a'
+
+and in the Bash shell, one may use ANSI-C quoting:
+
+echo $'\a'
+
+An alternative is to use the tput command, which as a part of the ncurses library is available on most Unix/Linux operating systems:
+
+tput bel
+
+A program can get the same result by printing the BEL character to a terminal.
+On modern systems this may not make a noise; it may instead make a visual indication such as flashing the screen, or do nothing at all.
+
+See also
+C0 and C1 control codes (ISO 646)
+
+References
+
+ATIS Telcom Glossary
+Free On-Line Dictionary of Computing, 'bell'

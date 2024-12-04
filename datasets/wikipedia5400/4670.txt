@@ -1,0 +1,51 @@
+4670
+Calque
+In linguistics, a calque () or loan translation is a word or phrase borrowed from another language by literal word-for-word or root-for-root translation. When used as a verb, “to calque” means to borrow a word or phrase from another language while translating its components, so as to create a new lexeme in the target language. For instance, the English word skyscraper has been calqued in dozens of other languages, combining words for "sky" and "scrape" in each language, as for example Wolkenkratzer in German, arranha-céu in Portuguese, grattacielo in Italian, gökdelen in Turkish, and matenrou(摩天楼) in Japanese.
+Calquing is distinct from phono-semantic matching: while calquing includes semantic translation, it does not consist of phonetic matching—i.e., of retaining the approximate sound of the borrowed word by matching it with a similar-sounding pre-existing word or morpheme in the target language.
+Proving that a word is a calque sometimes requires more documentation than does an untranslated loanword because, in some cases, a similar phrase might have arisen in both languages independently. This is less likely to be the case when the grammar of the proposed calque is quite different from that of the borrowing language, or when the calque contains less obvious imagery.
+
+Types
+One system classifies calques into five groups. This terminology is not universal:
+
+Phraseological calques: idiomatic phrases are translated word for word. For example, "it goes without saying" calques the French ça va sans dire.
+Syntactic calques: syntactic functions or constructions of the source language are imitated in the target language, in violation of their meaning. For example, the use of "by" instead of "with" in the phrase "fine by me" is thought to have come from Yiddish bei, namely from the 1930s Yiddish Broadway musical song title בַיי מיר ביסטו שיין / Bei Mir Bistu Shein / lit. 'To Me You're Beautiful'.
+Loan-translations: words are translated morpheme by morpheme, or component by component, into another language.
+Semantic calques (also known as semantic loans): additional meanings of the source word are transferred to the word with the same primary meaning in the target language. As described below, the "computer mouse" was named in English for its resemblance to the animal; many other languages have extended their own native word for "mouse" to include the computer mouse.
+Morphological calques: the inflection of a word is transferred. Some authors call this a morpheme-by-morpheme translation.
+Some linguists refer to a phonological calque, in which the pronunciation of a word is imitated in the other language. For example, the English word "radar" becomes the similar-sounding Chinese word 雷达 (pinyin: léidá), which literally means "to arrive (as fast) as thunder".
+
+Partial
+Partial calques, or loan blends, translate some parts of a compound but not others. For example, the name of the Irish digital television service Saorview is a partial calque of that of the UK service "Freeview", translating the first half of the word from English to Irish but leaving the second half unchanged. Other examples include "liverwurst" (< German Leberwurst) and "apple strudel" (< German Apfelstrudel).
+
+Semantic
+The "computer mouse" was named in English for its resemblance to the animal. Many other languages use their word for "mouse" for the "computer mouse", sometimes using a diminutive or, in Chinese, adding the word "cursor" (标), making shǔbiāo "mouse cursor" (simplified Chinese: 鼠标; traditional Chinese: 鼠標; pinyin: shǔbiāo). Another example is the Spanish word ratón that means both the animal and the computer mouse.
+
+Examples
+The common English phrase "flea market" is a loan translation of the French marché aux puces ("market with fleas"). At least 22 other languages calque the French expression directly or indirectly through another language.
+The word loanword is a calque of the German noun Lehnwort. In contrast, the term calque is a loanword, from the French noun calque ("tracing, imitation, close copy").
+Another example of a common morpheme-by-morpheme loan-translation is of the English word "skyscraper", a kenning-like term which may be calqued using the word for "sky" or "cloud" and the word, variously, for "scrape", "scratch", "pierce", "sweep", "kiss", etc. At least 54 languages have their own versions of the English word.
+Some Germanic and Slavic languages derived their words for "translation" from words meaning "carrying across" or "bringing across", calquing from the Latin translātiō or trādūcō.
+The Latin weekday names came to be associated by ancient Germanic speakers with their own gods following a practice known as interpretatio germanica: the Latin "Day of Mercury", Mercurii dies (later mercredi in modern French), was borrowed into Late Proto-Germanic as the "Day of Wōđanaz" (Wodanesdag), which became Wōdnesdæg in Old English, then "Wednesday" in Modern English.
+
+History
+Since at least 1894, according to the Trésor de la langue française informatisé, the French term calque has been used in its linguistic sense, namely in a publication by Louis Duvau:
+
+Since at least 1926, the term calque has been attested in English through a publication by the linguist Otakar Vočadlo:
+
+... such imitative forms are called calques (or décalques) by French philologists, and this is a frequent method in coining abstract terminology, whether nouns or verbs.
+
+See also
+References
+Notes
+
+Bibliography
+
+Kasparek, Christopher. 1983. "The Translator's Endless Toil." The Polish Review 28(2):83–87.
+Robb: German English Words
+Zuckermann, Ghil'ad. 2003. Language Contact and Lexical Enrichment in Israeli Hebrew. Palgrave Macmillan. ISBN 1-4039-1723-X
+2009. "Hybridity versus Revivability: Multiple Causation, Forms and Patterns." Journal of Language Contact (2):40–67.
+
+External links
+
+EtymOnline
+Merriam Webster Online

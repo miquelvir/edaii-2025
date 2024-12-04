@@ -1,0 +1,37 @@
+866
+CPL (programming language)
+CPL (Combined Programming Language) is a multi-paradigm programming language developed in the early 1960s.  It is an early ancestor of the C language via the [BCPL](828) and B languages.
+
+Design
+CPL was developed initially at the Mathematical Laboratory at the University of Cambridge as the "Cambridge Programming Language" and later published jointly between Cambridge and the University of London Computer Unit as the "Combined Programming Language" (CPL was also nicknamed by some as "Cambridge Plus London" or "Christopher's Programming Language"). Christopher Strachey, David Barron and others were involved in its development. The first paper describing it was published in 1963, while it was being implemented on the Titan Computer at Cambridge and the Atlas Computer at London.
+It was heavily influenced by ALGOL 60, but instead of being extremely small, elegant and simple, CPL was intended for a wider application area than scientific calculations and was therefore much more complex and not as elegant as ALGOL 60. CPL was a big language for its time. CPL attempted to go beyond ALGOL to include industrial process control, business data processing and possibly some early command line games. CPL was intended to allow low-level programming and high level abstractions using the same language.
+However, CPL was only implemented very slowly. The first CPL compiler was probably written about 1970, but the language never gained much popularity and seems to have disappeared without trace sometime in the 1970s.
+[BCPL](828) (for "Basic CPL", although originally "Bootstrap CPL") was a much simpler language based on CPL intended primarily as a systems programming language, particularly for writing compilers; it was first implemented in 1967, prior to CPL's first implementation. [BCPL](828) then led, via B, to the popular and influential C programming language.
+
+Example
+The function MAX as formulated by Peter Norvig:
+
+Max(Items, ValueFunction) = value of
+§ (Best, BestVal) = (NIL, -∞)
+while Items do §
+(Item, Val) = (Head(Items), ValueFunction(Head(Items)))
+if Val > BestVal then (Best, BestVal) := (Item, Val)
+Items := Rest(Items) ̸§
+result is Best ̸§
+
+The closing section block symbol used here (̸§) is an approximation of the original symbol, in which the cross stroke is vertical. This is available in Unicode as §⃒ but does not display correctly on many systems.
+
+Implementations
+It is thought that CPL was never fully implemented in the 1960s, existing as a theoretical construct with some research work on partial implementations.
+Peter Norvig has written (for Yapps, a Python compiler-compiler) a simple CPL to Python translator for modern machines.
+
+See also
+Fundamental Concepts in Programming Languages
+
+References
+Bibliography
+How [BCPL](828) evolved from CPL, Martin Richards, 2011 1
+Collected papers of Christopher Strachey, section pertaining to CPL, archived at the Bodleian Library, Oxford; CSAC 71.1.80/C.136-C.184
+D. W. Barron, J. N. Buxton, D. F. Hartley, E. Nixon, and C. Strachey. "The main features of CPL" The Computer Journal 6:2:134-143 (1963), available online.
+J. Buxton, J. C. Gray, and D. Park. CPL Elementary Programming Manual, Edition II (Cambridge) (1966).
+University of London Institute of Computer Science and The Mathematical Laboratory, Cambridge. CPL Working Papers (1966).

@@ -1,0 +1,68 @@
+911
+Architectural pattern
+An architectural pattern is a general, reusable resolution to a commonly occurring problem in software architecture within a given context. The architectural patterns address various issues in software engineering, such as computer hardware performance limitations, high availability and minimization of a business risk. Some architectural patterns have been implemented within software frameworks. There are two main categories of architectural patterns: monolithic and distributed.
+The use of the word "pattern" in the software industry was influenced by similar concepts as expressed in traditional architecture, such as Christopher Alexander's A Pattern Language (1977) which discussed the practice in terms of establishing a pattern lexicon, prompting the practitioners of computer science to contemplate their own design lexicon.
+Usage of this metaphor within the software engineering profession became commonplace after the publication of Design Patterns (1994) by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides—now commonly known as the "Gang of Four"—coincident with the early years of the public Internet, marking the onset of complex software systems "eating the world" and the corresponding need to codify the rapidly sprawling world of software development at the deepest possible level, while remaining flexible and adaptive.
+Architectural patterns are similar to software design patterns but have a broader scope.
+
+Definition
+Even though an architectural pattern conveys an image of a system, it is not an architecture. An architectural pattern is a concept that solves and delineates some essential cohesive elements of a software architecture. Countless different architectures may implement the same pattern and share the related characteristics. Patterns are often defined as "strictly described and commonly available".
+
+Architectural style
+Following traditional building architecture, a software architectural style is a specific method of construction, characterized by the features that make it notable.
+
+An architectural style defines: a family of systems in terms of a pattern of structural organization; a vocabulary of components and connectors, with constraints on how they can be combined.
+An architectural style is a named collection of architectural design decisions that (1) are applicable in a given development context, (2) constrain architectural design decisions that are specific to a particular system within that context, and (3) elicit beneficial qualities in each resulting system.
+Some treat architectural patterns and architectural styles as the same, some treat styles as specializations of patterns. What they have in common is both patterns and styles are idioms for architects to use, they "provide a common language" or "vocabulary" with which to describe classes of systems.
+The main difference is that a pattern can be seen as a solution to a problem, while a style is more general and does not require a problem to solve for its appearance.
+
+Analysis
+Software is managed by its problem space into which solutions may be applied.  The table below shows how software is considered across various problem spaces, defined by a sub-domain and addressed with corresponding software design patterns and solution patterns.  Sub-domains can be incorporated into the analysis of other sub-domains, for example, solving an Artificial Intelligence problem is first approached as a Data Architecture problem.
+
+Examples
+Some examples of architectural patterns:
+
+Cell-based architecture
+Blackboard system
+Broker pattern
+Event-driven architecture
+Saga pattern 
+Monolithic pattern
+Distributed pattern
+Modular monolith 
+Implicit invocation
+Layers
+Hexagonal architecture
+Microservices
+Action–domain–responder,
+Model–view–controller
+Presentation–abstraction–control
+Model–view–presenter
+Model–view–viewmodel
+Model–view–adapter
+Entity component system
+Entity–control–boundary
+Multitier architecture (often three-tier or n-tier)
+Object-oriented programming
+Naked objects
+Operational data store (ODS)
+Peer-to-peer
+Pipe and filter architecture
+Service-oriented architecture
+Space-based architecture
+Distributed hash table
+Publish–subscribe pattern
+Message broker
+Hierarchical model–view–controller
+
+See also
+List of software architecture styles and patterns
+Process Driven Messaging Service
+Enterprise architecture
+Common layers in an information system logical architecture
+
+References
+Bibliography
+Avgeriou, Paris; Zdun, Uwe (2005). "Architectural patterns revisited:a pattern language" (PDF). 10th European Conference on Pattern Languages of Programs (EuroPlop 2005), Irsee, Germany, July. UVK Verlagsgesellschaft. pp. 1–39. CiteSeerX 10.1.1.141.7444. ISBN 9783879408054.
+Buschmann F.; Meunier R.; Rohnert H.; Sommerlad P.; Stal M. (1996). Pattern-Oriented Software Architecture: A System of Patterns. Wiley. ISBN 9781118725269.
+Bass L.; Clements P.; Kazman R. (2003). Software Architecture in Practice. Addison-Wesley. ISBN 9780321154958.

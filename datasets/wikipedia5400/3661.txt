@@ -1,0 +1,137 @@
+3661
+Bismuth
+Bismuth is a chemical element with the symbol Bi and atomic number 83. It is a post-transition metal and one of the pnictogens, with chemical properties resembling its lighter group 15 siblings arsenic and antimony. Elemental bismuth occurs naturally, and its sulfide and oxide forms are important commercial ores. The free element is 86% as dense as lead. It is a brittle metal with a silvery-white color when freshly produced. Surface oxidation generally gives samples of the metal a somewhat rosy cast. Further oxidation under heat can give bismuth a vividly iridescent appearance due to thin-film interference. Bismuth is both the most diamagnetic element and one of the least thermally conductive metals known.
+Bismuth used to be considered the element with the highest atomic mass whose nuclei do not spontaneously decay. However, in 2003 it was discovered to be extremely weakly radioactive. The metal's only primordial isotope, bismuth-209, undergoes alpha decay with a half-life about a billion times the estimated age of the universe.
+Bismuth metal has been known since ancient times. Before modern analytical methods bismuth's metallurgical similarities to lead and tin often led it to be confused with those metals. The etymology of "bismuth" is uncertain. The name may come from mid-sixteenth century Neo-Latin translations of the German words weiße Masse or Wismuth, meaning 'white mass', which were rendered as bisemutum or bisemutium.
+Bismuth compounds account for about half the global production of bismuth. They are used in cosmetics; pigments; and a few pharmaceuticals, notably bismuth subsalicylate, used to treat diarrhea. Bismuth's unusual propensity to expand as it solidifies is responsible for some of its uses, as in the casting of printing type. Bismuth, when in its elemental form, has unusually low toxicity for a heavy metal. As the toxicity of lead and the cost of its environmental remediation became more apparent during the 20th century, suitable bismuth alloys have gained popularity as replacements for lead. Presently, around a third of global bismuth production is dedicated to needs formerly met by lead.
+
+History and etymology
+Bismuth metal has been known since ancient times and it was one of the first 10 metals to have been discovered. The name bismuth dates to around 1665 and is of uncertain etymology. The name possibly comes from obsolete German Bismuth, Wismut, Wissmuth (early 16th century), perhaps related to Old High German hwiz ("white"). The Neo-Latin bisemutium (coined by Georgius Agricola, who Latinized many German mining and technical words) is from the German Wismuth, itself perhaps from weiße Masse, meaning "white mass".
+The element was confused in early times with tin and lead because of its resemblance to those elements. Because bismuth has been known since ancient times, no one person is credited with its discovery. Agricola (1546) states that bismuth is a distinct metal in a family of metals including tin and lead. This was based on observation of the metals and their physical properties.
+Miners in the age of alchemy also gave bismuth the name tectum argenti, or "silver being made" in the sense of silver still in the process of being formed within the Earth.
+Bismuth was also known to the Incas and used (along with the usual copper and tin) in a special bronze alloy for knives.
+
+Beginning with Johann Heinrich Pott in 1738, Carl Wilhelm Scheele, and Torbern Olof Bergman, the distinctness of lead and bismuth became clear, and Claude François Geoffroy demonstrated in 1753 that this metal is distinct from lead and tin.
+
+Characteristics
+Physical characteristics
+Bismuth is a brittle metal with a dark, silver-pink hue, often with an iridescent oxide tarnish showing many colors from yellow to blue. The spiral, stair-stepped structure of bismuth crystals is the result of a higher growth rate around the outside edges than on the inside edges. The variations in the thickness of the oxide layer that forms on the surface of the crystal cause different wavelengths of light to interfere upon reflection, thus displaying a rainbow of colors. When burned in oxygen, bismuth burns with a blue flame and its oxide forms yellow fumes. Its toxicity is much lower than that of its neighbors in the periodic table, such as lead and antimony.
+No other metal is verified to be more naturally diamagnetic than bismuth. (Superdiamagnetism is a different physical phenomenon.) Of any metal, it has one of the lowest values of thermal conductivity (after manganese, neptunium and plutonium) and the highest Hall coefficient. It has a high electrical resistivity. When deposited in sufficiently thin layers on a substrate, bismuth is a semiconductor, despite being a post-transition metal. Elemental bismuth is denser in the liquid phase than the solid, a characteristic it shares with germanium, silicon, gallium, and water. Bismuth expands 3.32% on solidification; therefore, it was long a component of low-melting typesetting alloys, where it compensated for the contraction of the other alloying components to form almost isostatic bismuth-lead eutectic alloys.
+Though virtually unseen in nature, high-purity bismuth can form distinctive, colorful hopper crystals. It is relatively nontoxic and has a low melting point just above 271 °C (520 °F), so crystals may be grown using a household stove, although the resulting crystals will tend to be of lower quality than lab-grown crystals.
+At ambient conditions, bismuth shares the same layered structure as the metallic forms of arsenic and antimony, crystallizing in the rhombohedral lattice. When compressed at room temperature, this Bi–I structure changes first to the monoclinic Bi-II at 2.55 GPa, then to the tetragonal Bi-III at 2.7 GPa, and finally to the body-centered cubic Bi-V at 7.7 GPa. The corresponding transitions can be monitored via changes in electrical conductivity; they are rather reproducible and abrupt and are therefore used for calibration of high-pressure equipment.
+
+Chemical characteristics
+Bismuth is stable to both dry and moist air at ordinary temperatures. When red-hot, it reacts with water to make bismuth(III) oxide.
+
+2 Bi + 3 H2O  →  Bi2O3 + 3 H2
+It reacts with fluorine to form bismuth(V) fluoride at 500 °C (932 °F) or bismuth(III) fluoride at lower temperatures (typically from Bi melts); with other halogens it yields only bismuth(III) halides. The trihalides are corrosive and easily react with moisture, forming oxyhalides with the formula BiOX.
+
+4 Bi + 6 X2  →  4 BiX3 (X = F, Cl, Br, I)
+4 BiX3 + 2 O2  →  4 BiOX + 4 X2
+Bismuth dissolves in concentrated sulfuric acid to make bismuth(III) sulfate and sulfur dioxide.
+
+6 H2SO4 + 2 Bi  →  6 H2O + Bi2(SO4)3 + 3 SO2
+It reacts with nitric acid to make bismuth(III) nitrate (which decomposes into nitrogen dioxide when heated).
+
+Bi + 6 HNO3  →  3 H2O + 3 NO2 + Bi(NO3)3
+It also dissolves in hydrochloric acid, but only with oxygen present.
+
+4 Bi + 3 O2 + 12 HCl  →  4 BiCl3 + 6 H2O
+
+Isotopes
+The only primordial isotope of bismuth, bismuth-209, was regarded as the heaviest stable nuclide, but it had long been suspected to be unstable on theoretical grounds. This was finally demonstrated in 2003, when researchers at the Institut d'astrophysique spatiale in Orsay, France, measured the alpha (α) decay half-life of 209Bi to be 2.01×1019 years (3 Bq/Mg), over 109 times longer than the estimated age of the universe. Due to its hugely long half-life, for all known medical and industrial applications, bismuth can be treated as stable. The radioactivity is of academic interest because bismuth is one of a few elements whose radioactivity was suspected and theoretically predicted before being detected in the laboratory. Bismuth has the longest known α-decay half-life, though tellurium-128 has a double beta decay half-life of over 2.2×1024 years.
+Six isotopes of bismuth with short half-lives (210–215 inclusive) occur in the natural radioactive decay chains of actinium, radium, thorium, and neptunium; and more have been synthesized. (Though all primordial 237Np has long since decayed, it is continually regenerated by (n,2n) knockout reactions on natural 238U.)
+Commercially, bismuth-213 can be produced by bombarding radium with bremsstrahlung photons from a linear particle accelerator. In 1997, an antibody conjugate with bismuth-213, which has a 45-minute half-life and α-decays, was used to treat leukemia patients. This isotope has also been tried in cancer treatment, for example, in the targeted alpha therapy (TAT) program.
+
+Chemical compounds
+Chemically, bismuth resembles arsenic and antimony, but is much less toxic. In almost all known compounds, bismuth has oxidation state +3; a few have states +5 or −3.  
+The trioxide and trisulfide can both be made from the elements, although the trioxide is extremely corrosive at high temperatures. The pentoxide is not stable at room temperature, and will evolve O2 gas if heated. Both oxides form complex anions, and NaBiO3 is a strong oxidising agent. The trisulfide is common in bismuth ore.  
+Similarly, bismuth forms all possible trihalides, but the only pentahalide is BiF5. All are Lewis acids. Bismuth forms several formally-BiI halides; these are complex salts with unusually-structured polyatomic cations and anions. 
+
+In strongly acidic aqueous solution, the Bi3+ ion solvates to form Bi(H2O)3+8. As pH increases, the cations polymerize until the octahedral bismuthyl complex Bi6O4(OH)46+, often abbreviated BiO+. Although bismuth oxychloride and bismuth oxynitrate have stoichiometries suggesting the ion, they are double salts instead. Bismuth nitrate (not oxynitrate) is one of the few aqueous-insoluble nitrate salts.
+Bismuth forms very few stable bismuthides, intermetallic compounds in which it attains oxidation state −3. The hydride spontaneously decomposes at room temperature and stabilizes only below −60 °C (−76 °F). Sodium bismuthide has interest as a topological Dirac insulator.
+
+Occurrence and production
+The reported abundance of bismuth in the Earth's crust varies significantly by source from 180ppb (similar to that of silver) to 8ppb (twice as common as gold). The most important ores of bismuth are bismuthinite and bismite. Native bismuth is known from Australia, Bolivia, and China.
+
+According to the United States Geological Survey (USGS), 10,200	tonnes of bismuth were produced worldwide by mining and 17,100 tonnes by refining in 2016. Since then, USGS does not provide mining data for bismuth, considering them unreliable. Globally, bismuth is mostly produced by refining, as a byproduct of extraction of other metals such as lead, copper, tin, molybdenum and tungsten, though the refining-to-mining ratio depends on the country.
+Bismuth travels in crude lead bullion (which can contain up to 10% bismuth) through several stages of refining, until it is removed by the Kroll-Betterton process which separates the impurities as slag, or the electrolytic Betts process. Bismuth will behave similarly with another of its major metals, copper. The raw bismuth metal from both processes contains still considerable amounts of other metals, foremost lead. By reacting the molten mixture with chlorine gas the metals are converted to their chlorides while bismuth remains unchanged. Impurities can also be removed by various other methods for example with fluxes and treatments yielding high-purity bismuth metal (over 99% Bi).
+
+Price
+The price for pure bismuth metal was relatively stable through most of the 20th century, except for a spike in the 1970s. Bismuth has always been produced mainly as a byproduct of lead refining, and thus the price usually reflected the cost of recovery and the balance between production and demand.
+Before World War II, demand for bismuth was small and mainly pharmaceutical—bismuth compounds were used to treat such conditions as digestive disorders, sexually transmitted diseases and burns. Minor amounts of bismuth metal were consumed in fusible alloys for fire sprinkler systems and fuse wire. During World War II bismuth was considered a strategic material, used for solders, fusible alloys, medications and atomic research. To stabilize the market, the producers set the price at $1.25 per pound ($2.75 /kg) during the war and at $2.25 per pound ($4.96 /kg) from 1950 until 1964.
+In the early 1970s, the price rose rapidly due to increasing demand for bismuth as a metallurgical additive to aluminium, iron and steel. This was followed by a decline owing to increased world production, stabilized consumption, and the recessions of 1980 and 1981–1982. In 1984, the price began to climb as consumption increased worldwide, especially in the United States and Japan. In the early 1990s, research began on the evaluation of bismuth as a nontoxic replacement for lead in ceramic glazes, fishing sinkers, food-processing equipment, free-machining brasses for plumbing applications, lubricating greases, and shot for waterfowl hunting. Growth in these areas remained slow during the middle 1990s, in spite of the backing of lead replacement by the United States federal government, but intensified around 2005. This resulted in a rapid and continuing increase in price.
+
+Recycling
+Most bismuth is produced as a byproduct of other metal-extraction processes including the smelting of lead, and also of tungsten and copper. Its sustainability is dependent on increased recycling, which is problematic.
+It was once believed that bismuth could be practically recycled from the soldered joints in electronic equipment. Recent efficiencies in solder application in electronics mean there is substantially less solder deposited, and thus less to recycle. While recovering the silver from silver-bearing solder may remain economic, recovering bismuth is substantially less so.
+Dispersed bismuth is used in certain stomach medicines (bismuth subsalicylate), paints (bismuth vanadate), pearlescent cosmetics (bismuth oxychloride), and bismuth-containing bullets. Recycling bismuth from these uses is impractical.
+
+Applications
+Bismuth has few commercial applications, and those applications that use it generally require small quantities relative to other raw materials. In the United States, for example, 733 tonnes of bismuth were consumed in 2016, of which 70% went into chemicals (including pharmaceuticals, pigments, and cosmetics) and 11% into bismuth alloys.
+In the early 1990s, researchers began to evaluate bismuth as a nontoxic replacement for lead in various applications.
+
+Medicines
+Bismuth is an ingredient in some pharmaceuticals, although the use of some of these substances is declining.
+
+Bismuth subsalicylate is used to treat diarrhea; it is the active ingredient in such "pink bismuth" preparations as Pepto-Bismol, as well as the 2004 reformulation of Kaopectate. It is also used to treat some other gastro-intestinal diseases like shigellosis and cadmium poisoning. The mechanism of action of this substance is still not well documented, although an oligodynamic effect (toxic effect of small doses of heavy metal ions on microbes) may be involved in at least some cases. Salicylic acid from hydrolysis of the compound is antimicrobial for toxogenic E. coli, an important pathogen in traveler's diarrhea.
+A combination of bismuth subsalicylate and bismuth subcitrate is used to treat the bacteria causing peptic ulcers.
+Bibrocathol is an organic bismuth-containing compound used to treat eye infections.
+Bismuth subgallate, the active ingredient in Devrom, is used as an internal deodorant to treat malodor from flatulence and feces.
+Bismuth compounds (including sodium bismuth tartrate) were formerly used to treat syphilis. Arsenic combined with either bismuth or mercury was a mainstay of syphilis treatment from the 1920s until the advent of penicillin in 1943.
+"Milk of bismuth" (an aqueous suspension of bismuth hydroxide and bismuth subcarbonate) was marketed as an alimentary cure-all in the early 20th century, and has been used to treat gastrointestinal disorders.
+Bismuth subnitrate (Bi5O(OH)9(NO3)4) and bismuth subcarbonate (Bi2O2(CO3)) are also used in medicine.
+
+Cosmetics and pigments
+Bismuth oxychloride (BiOCl) is sometimes used in cosmetics, as a pigment in paint for eye shadows, hair sprays and nail polishes. This compound is found as the mineral bismoclite and in crystal form contains layers of atoms (see figure above) that refract light chromatically, resulting in an iridescent appearance similar to nacre of pearl. It was used as a cosmetic in ancient Egypt and in many places since. Bismuth white (also "Spanish white") can refer to either bismuth oxychloride or bismuth oxynitrate (BiONO3), when used as a white pigment. Bismuth vanadate is used as a light-stable non-reactive paint pigment (particularly for artists' paints), often as a replacement for the more toxic cadmium sulfide yellow and orange-yellow pigments. The most common variety in artists' paints is a lemon yellow, visually indistinguishable from its cadmium-containing alternative.
+
+Metal and alloys
+Bismuth is used in alloys with other metals such as tin and lead. Wood's metal, an alloy of bismuth, lead, tin, and cadmium is used in automatic sprinkler systems for fires. It forms the largest part (50%) of Rose's metal, a fusible alloy, which also contains 25–28% lead and 22–25% tin. It was also used to make bismuth bronze, which was used during the Bronze Age, having been found in Inca knives at Machu Picchu.
+
+Lead replacement
+The density difference between lead (11.32 g/cm3) and bismuth (9.78 g/cm3) is small enough that for many ballistics and weighting applications, bismuth can substitute for lead. For example, it can replace lead as a dense material in fishing sinkers. It has been used as a replacement for lead in shot, bullets and less-lethal riot gun ammunition. The Netherlands, Denmark, England, Wales, the United States, and many other countries now prohibit the use of lead shot for the hunting of wetland birds, as many birds are prone to lead poisoning owing to mistaken ingestion of lead (instead of small stones and grit) to aid digestion, or even prohibit the use of lead for all hunting, such as in the Netherlands. Bismuth-tin alloy shot is one alternative that provides similar ballistic performance to lead.
+Bismuth, as a dense element of high atomic weight, is used in bismuth-impregnated latex shields to shield from X-ray in medical examinations, such as CTs, mostly as it is considered non-toxic.
+The European Union's Restriction of Hazardous Substances Directive (RoHS) for reduction of lead has broadened bismuth's use in electronics as a component of low-melting point solders, as a replacement for traditional tin-lead solders. Its low toxicity will be especially important for solders to be used in food processing equipment and copper water pipes, although it can also be used in other applications including those in the automobile industry, in the European Union, for example.
+Bismuth has been evaluated as a replacement for lead in free-machining brasses for plumbing applications, although it does not equal the performance of leaded steels.
+
+Other metal uses and specialty alloys
+Many bismuth alloys have low melting points and are found in specialty applications such as solders. Many automatic sprinklers, electric fuses, and safety devices in fire detection and suppression systems contain the eutectic In19.1-Cd5.3-Pb22.6-Sn8.3-Bi44.7 alloy that melts at 47 °C (117 °F) This is a convenient temperature since it is unlikely to be exceeded in normal living conditions. Low-melting alloys, such as Bi-Cd-Pb-Sn alloy which melts at 70 °C (158 °F), are also used in automotive and aviation industries. Before deforming a thin-walled metal part, it is filled with a melt or covered with a thin layer of the alloy to reduce the chance of breaking. Then the alloy is removed by submerging the part in boiling water.
+Bismuth is used to make free-machining steels and free-machining aluminium alloys for precision machining properties. It has similar effect to lead and improves the chip breaking during machining. The shrinking on solidification in lead and the expansion of bismuth compensate each other and therefore lead and bismuth are often used in similar quantities. Similarly, alloys containing comparable parts of bismuth and lead exhibit a very small change (on the order 0.01%) upon melting, solidification or aging. Such alloys are used in high-precision casting, e.g. in dentistry, to create models and molds. Bismuth is also used as an alloying agent in production of malleable irons and as a thermocouple material.
+Bismuth is also used in aluminium-silicon cast alloys to refine silicon morphology. However, it indicated a poisoning effect on modification of strontium. Some bismuth alloys, such as Bi35-Pb37-Sn25, are combined with non-sticking materials such as mica, glass and enamels because they easily wet them allowing to make joints to other parts. Addition of bismuth to caesium enhances the quantum yield of caesium cathodes. Sintering of bismuth and manganese powders at 300 °C (572 °F) produces a permanent magnet and magnetostrictive material, which is used in ultrasonic generators and receivers working in the 10–100 kHz range and in magnetic and holographic memory devices.
+
+Other uses as compounds
+Bismuth is included in BSCCO (bismuth strontium calcium copper oxide), which is a group of similar superconducting compounds discovered in 1988 that exhibit the highest superconducting transition temperatures.
+Bismuth telluride is a semiconductor and an excellent thermoelectric material. Bi2Te3 diodes are used in mobile refrigerators, CPU coolers, and as detectors in infrared spectrophotometers.
+Bismuth oxide, in its delta form, is a solid electrolyte for oxygen. This form normally breaks down below a high-temperature threshold, but can be electrodeposited well below this temperature in a highly alkaline solution.
+Bismuth germanate is a scintillator, widely used in X-ray and gamma ray detectors.
+Bismuth vanadate is an opaque yellow pigment used by some artists' oil, acrylic, and watercolor paint companies, primarily as a replacement for the more toxic cadmium sulfide yellows in the greenish-yellow (lemon) to orange-toned yellow range. It performs practically identically to the cadmium pigments, such as in terms of resistance to degradation from UV exposure, opacity, tinting strength, and lack of reactivity when mixed with other pigments. The most commonly-used variety by artists' paint makers is lemon in color. In addition to being a replacement for several cadmium yellows, it also serves as a non-toxic visual replacement for the older chromate pigments made with zinc, lead, and strontium. If a green pigment and barium sulfate (for increased transparency) are added it can also serve as a replacement for barium chromate, which possesses a more greenish cast than the others. In comparison with lead chromate, it does not blacken due to hydrogen sulfide in the air (a process accelerated by UV exposure) and possesses a particularly brighter color than them, especially the lemon, which is the most translucent, dull, and fastest to blacken due to the higher percentage of lead sulfate required to produce that shade. It is also used, on a limited basis due to its cost, as a vehicle paint pigment.
+A catalyst for making acrylic fibers.
+As an electrocatalyst in the conversion of CO2 to CO.
+Ingredient in lubricating greases.
+In crackling microstars (dragon's eggs) in pyrotechnics, as the oxide, subcarbonate or subnitrate.
+As catalyst for the fluorination of arylboronic pinacol esters through a Bi(III)/Bi(V) catalytic cycle, mimicking transition metals in electrophilic fluorination.
+
+Toxicology and ecotoxicology
+See also bismuthia, a rare dermatological condition that results from the prolonged use of bismuth.
+Scientific literature indicates that some of the compounds of bismuth are less toxic to humans via ingestion than other heavy metals (lead, arsenic, antimony, etc.) presumably due to the comparatively low solubility of bismuth salts. Its biological half-life for whole-body retention is reported to be 5 days but it can remain in the kidney for years in people treated with bismuth compounds.
+Bismuth poisoning can occur and has according to some reports been common in relatively recent times. As with lead, bismuth poisoning can result in the formation of a black deposit on the gingiva, known as a bismuth line. Poisoning may be treated with dimercaprol; however, evidence for benefit is unclear.
+Bismuth's environmental impacts are not well known; it may be less likely to bioaccumulate than some other heavy metals, and this is an area of active research.
+
+See also
+Bismuth minerals
+Arsenic-bismuth
+
+Notes
+References
+Cited sources
+This article incorporates text from this source, which is in the public domain:  Brown, R. D., Jr. "Annual Average Bismuth Price", USGS (1998).
+
+Greenwood, N. N. & Earnshaw, A. (1997). Chemistry of the Elements (2nd ed.). Oxford: Butterworth-Heinemann. ISBN 978-0-7506-3365-9.
+Krüger, Joachim; Winkler, Peter; Lüderitz, Eberhard; Lück, Manfred; Wolf, Hans Uwe (2003). "Bismuth, Bismuth Alloys, and Bismuth Compounds". Ullmann's Encyclopedia of Industrial Chemistry. Wiley-VCH, Weinheim. pp. 171–189. doi:10.1002/14356007.a04_171. ISBN 978-3527306732.
+Suzuki, Hitomi (2001). Organobismuth Chemistry. Elsevier. pp. 1–20. ISBN 978-0-444-20528-5.
+Wiberg, Egon; Holleman, A. F.; Wiberg, Nils (2001). Inorganic chemistry. Academic Press. ISBN 978-0-12-352651-9.
+
+External links
+
+Bismuth at The Periodic Table of Videos (University of Nottingham)
+Bismuth Crystals – Instructions & Pictures

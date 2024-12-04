@@ -1,0 +1,33 @@
+830
+Backspace
+[Backspace](830) (← [Backspace](830)) is the keyboard key that in typewriters originally pushed the carriage one position backwards, and in modern computer systems typically moves the display cursor one position backwards, deletes the character at that position, and shifts back any text after that position by one character.
+
+Nomenclature
+Although the term "backspace" is the traditional name of the key which steps the carriage back and/or deletes the previous character, typically to the left of the cursor, the actual key may be labeled in a variety of ways, for example delete, erase, or with a left pointing arrow. A dedicated symbol for "backspace" exists as U+232B ⌫ but its use as a keyboard label is not universal. Some very early typewriters labeled this key the backspacer key.
+[Backspace](830) is distinct from the delete key, which in a teletypewriter would punch out all the holes in punched paper tape to strike out a character, and in modern computers deletes text at or following the cursor position. Also, the delete key often works as a generic command to remove an object (such as an image inside a document, or a file in a file manager), while backspace usually does not. Full-size Mac keyboards have two keys labeled delete; a key that functions as a backspace key, and a key that functions as a delete key. Smaller Mac keyboards, such as laptop keyboards, have only a key that functions as a backspace key.
+
+[C](855)ombining characters
+In some typewriters, a typist would, for example, type a lowercase letter A with acute accent (á) by typing a lowercase letter A, backspace, and then the acute accent key. This technique (also known as overstrike) is the basis for such spacing modifiers in computer character sets such as the AS[C](855)II caret (^, for the circumflex accent). [Backspace](830) composition no longer works with typical modern digital displays or typesetting systems. It has to some degree been replaced with the combining diacritical marks mechanism of Unicode, though such characters do not work well with many fonts, and precomposed characters continue to be used. Some software like TeX or Microsoft Windows use the opposite method for diacritical marks, namely positioning the accent first, and then the base letter on its position.
+
+Use in computing
+[C](855)ommon use
+In modern systems, the backspace key is often mapped to the delete character (0x7f in AS[C](855)II or Unicode), although the backspace key's function of deleting the character before the cursor remains. In computers, backspace can also delete a preceding newline character, something generally inapplicable to typewriters.
+The backspace key is commonly used to go back a page or up one level in graphical web or file browsers.
+
+^H
+Pressing the backspace key on a computer terminal would generate the AS[C](855)II code 08, BS or [Backspace](830), a control code which would delete the preceding character. That control code could also be accessed by pressing  ([C](855)ontrol+H, as H is the eighth letter of the Latin alphabet. Terminals which did not have the backspace code mapped to the function of moving the cursor backwards and deleting the preceding character would display the symbols ^H (caret, H) when the backspace key was pressed. Even if a terminal did interpret backspace by deleting the preceding character, the system receiving the text might not. Then, the sender's screen would show a message without the supposedly deleted text, while that text, and the deletion codes, would be visible to the recipient. This sequence is still used humorously for epanorthosis by computer literates, denoting the deletion of a pretended blunder, much like a strikethrough; in this case, however, the ^H symbol is faked by typing a regular '^' followed by typing a regular 'H'.
+Example:
+
+Be nice to this fool^H^H^H^Hgentleman; he's visiting from corporate HQ.
+
+Alternatives
+An alternative sometimes seen is ^W, which is the shortcut to delete the previous word in the Berkeley Unix terminal line discipline. This shortcut has also made it into the insert mode of the Vi text editor and its clone Vim.
+^U deletes a line.
+
+Other meanings
+In a mainframe environment, to backspace means to move a magnetic tape backwards, typically to the previous block.
+
+Notes
+
+
+== References ==

@@ -1,0 +1,70 @@
+4772
+Common Romanian
+Common Romanian (Romanian: română comună), also known as Ancient Romanian (străromână), or Proto-Romanian (protoromână), is a comparatively reconstructed Romance language evolved from Vulgar Latin and spoken by the ancestors of today's Romanians, Aromanians, Megleno-Romanians, Istro-Romanians and related Balkan Latin peoples (Vlachs) between the 6th or 7th century AD and the 10th or 11th centuries AD. The evidence for this can be found in the fact that Romanian, Aromanian, Megleno-Romanian, and Istro-Romanian share with each other their main language innovations comparative to Vulgar Latin on one hand, and distinctive from the other Romance languages on the other, according to Romanian linguist Marius Sala.
+
+History
+The Roman occupation led to a Roman-Thracian syncretism, and similar to the case of other conquered civilisations (see, for example, how Gallo-Roman culture developed in Roman Gaul) led to the Latinization of many Thracian tribes which were on the edge of the sphere of Latin influence, eventually resulting in the possible extinction of the Daco-Thracian language, but traces of it are still preserved in the Eastern Romance substratum. From the 2nd century AD, the Latin spoken in the Danubian provinces starts to display its own distinctive features, separate from the rest of the Romance languages, including those of the western Balkans (Dalmatian). The Thraco-Roman period of the language is usually delimited between the 2nd century (or earlier via cultural influence and economic ties) and the 6th or the 7th century. It is divided, in turn, into two periods, with the division falling roughly in the 3rd to 4th century. The Romanian Academy considers the 5th century as the latest time that the differences between Balkan Latin and western Latin could have appeared, and that between the 5th and 8th centuries, the new language, Romanian, switched from Latin speech, to a vernacular Romance idiom, called Română comună. The nature of the contact between Latin and the substrate language(s) is considered to be similar to the contact with local languages in other parts incorporated in the Roman Empire and the number of lexical and morpho-syntactic elements retained from the substrate is relatively small despite some ongoing contact with languages closely related to the original substrate, Albanian for example.
+In the ninth century, Proto-Romanian already had a structure very distinct from the other Romance languages, with major differences in grammar, morphology and phonology and already was a member of the Balkan language area. It already contained around a hundred loans from Slavic languages, including words such as trup (body, flesh), as well as some Greek language loans via Vulgar Latin, but no Hungarian and Turkish words, as these peoples had yet to arrive in the region.
+In the tenth century or some earlier time, Common Romanian split into two geographically separated groups. One was in the northern part of the Balkan peninsula and the other one was in the south of the peninsula where the Aromanian branch of Common Romanian presumably was spoken. This is sometimes considered the upper end of the language, leading into the separate Eastern Romance languages period. A different view holds that Common Romanian, despite the early split of Aromanian, continued to exist until the thirteenth or fourteenth century when all the southern dialects became distinct from the northern one. 
+According to the theory, it evolved into the following modern languages and their dialects:
+
+Romanian language (sometimes called Daco-Romanian to distinguish it from the rest of the Eastern Romance languages)
+Aromanian (sometimes called Macedo-Romanian)
+Megleno-Romanian (also sometimes called Macedo-Romanian)
+Istro-Romanian
+
+First sample of Common Romanian text
+Referring to this time period, of great debate and interest is the so-called Torna, Torna Fratre episode. In Theophylactus Simocatta Histories, (c. 630), the author mentions the words τóρνα, τóρνα. The context of this mention is a Byzantine expedition during Maurice's Balkan campaigns in 587, led by general Comentiolus, in the Haemus, against the Avars. The success of the campaign was compromised by an incident during a night march:
+
+a beast of burden had shucked off his load. It happened as his master was marching in front of him. But the ones who were coming from behind and saw the animal dragging his burden after him, had shouted to the master to turn around and straighten the burden. Well, this event was the reason for a great agitation in the army, and started a flight to the rear, because the shout was known to the crowd: the same words were also a signal, and it seemed to mean "run", as if the enemies had appeared nearby more rapidly than could be imagined. There was a great turmoil in the host, and a lot of noise; all were shouting loudly and goading each other to turn back, calling with great unrest in the language of the country "torna, torna", as a battle had suddenly started in the middle of the night.
+Nearly two centuries after Theophylactus, the same episode is retold by another Byzantine chronicler, Theophanes Confessor, in his Chronographia (c. 810–814). He mentions the words τόρνα, τόρνα, φράτρε torna, torna fratre; "turn, turn brother":
+
+A beast of burden had thrown off his load, and somebody yelled to his master to reset it, saying in the language of their parents/of the land: "torna, torna, fratre". The master of the animal didn't hear the shout, but the people heard him, and believing that they are attacked by the enemy, started running, shouting loudly: "torna, torna".
+The first to identify the excerpts as examples of early Romanian was Johann Thunmann in 1774. Since then, a debate among scholars had been going on to identify whether the language in question is a sample of early Romanian, or just a Byzantine command  (of Latin origin, as it appears as such–torna–in Emperors Mauricius Strategikon), and with fratre used as a colloquial form of address between the Byzantine soldiers. The main debate revolved around the expressions ἐπιχώριoς γλῶσσα (epichorios glossa – Theopylactus) and πάτριoς φωνή (pátrios foní – Theophanes), and what they actually meant.
+An important contribution to the debate was Nicolae Iorga's first noticing in 1905 of the duality of the term torna in Theophylactus text: the shouting to get the attention of the master of the animal (in the language of the country), and the misunderstanding of this by the bulk of the army as a military command (due to the resemblance with the Latin military command).  Iorga considers the army to have been composed of both auxiliary (τολδον) Romanised Thracians—speaking ἐπιχωρίᾳ τε γλώττῃ (the "language of the country"/"language of their parents/of the natives") —and of Byzantines (a mélange of ethnicities using Byzantine words of Latin origin as official command terms, as attested in the Strategikon).
+This view was later supported by the Greek historian A. Keramopoulos (1939), as well as by Alexandru Philippide (1925), who considered that the word torna should not be understood as a solely military command term, because it was, as supported by chronicles, a word "of the country", as by the year 600, the bulk of the Byzantine army was raised from barbarian mercenaries and the Romanic population of the Balkan Peninsula.
+Starting from the second half of the 20th century, many Romanian scholars consider it a sample of early Romanian language, a view with supporters such as Al. Rosetti (1960), Petre Ș. Năsturel (1956) and I. Glodariu (1964).
+In regards to the Latin term torna (an imperative form of the verb torno), in modern Romanian, the corresponding or descendant term toarnă now means "pour" (a conjugated form of the verb turna – "to pour"). However, in older or early Romanian, the verb also had the sense of "to return or come back", and this sense is also still preserved in the modern Aromanian verb tornu and in some derived words in modern Romanian (for example: înturna "return, turn", răsturna "turn over, knock down")
+
+Development
+From Latin
+The comparative analysis of Romance languages shows that certain changes that occurred from Latin to Common Romanian are particular to it or shared only with a limited number of other Romance languages. Some of these changes are:
+
+reorganization of the Latin vowel system - Common Romanian followed a mixed scheme, with the back vowels o, u following the Sardinian scheme but the front vowels e, i following the Western Romance scheme.  This produces a six-vowel system (contrast the Sardinian five-vowel system and Western Romance seven-vowel system).
+resistance to palatalization:
+the palatalization of /tj kj/, which appeared as early as the 2nd–3rd centuries AD, resulted in /ttj/ or /tj/ in intervocalic position and as /tj/ in word-initial position or after a consonant, without giving rise to a new phoneme.
+the palatalization before a front vowel (/k ɡ/ before /i e ɛ/), dated around the fifth century in general, did not occur around this time in Common Romanian (and Dalmatian), and took place after the delabialization of /kw/ /gw/ (*sandʒe < SANGUEM), the degemination of nn, ll, rr, and the diphthongization of Proto-Romance /ɛ/ to jɛ.
+the surviving au diphthong was retained and later underwent diaeresis.
+resistance to syncope - Common Romanian kept all the syllables from the Latin word.
+absence of lenition - it retained the intervocalic stops intact. It also showed greater conservatism toward /g/ deletion.
+
+Common features to the four dialects
+Collectively described as languages of the Eastern Romance subgroup from a synchronic, contemporary perspective Romanian, Aromanian, Megleno-Romanian, and Istro-Romanian are dialects of the same proto-language from a historical, diachronic point of view.
+Of the features that are found in all four dialects, inherited from Latin or subsequently developed, of particular importance are:
+
+appearance of the mid central vowel /ə/ (written as "ă" in standardized Romanian);
+growth of the plural inflectional ending -uri for the neuter gender;
+analytic present conditional (ex: Daco-Romanian aș cânta);
+analytic future with an auxiliary derived from Latin volo (ex: Aromanian va s-cãntu);
+enclisis of the definite article (ex. Istro-Romanian câre – cârele);
+nominal declension with two case forms in the singular feminine.
+Comparatively, the dialects show a large number of loanwords from Slavic languages, including loanwords from Slavic languages spoken before the 9th century, at the stage before Aromanian, Daco-Romanian, and Megleno-Romanian separated. Of these words a few examples are:
+
+*bōrzdà (Aromanian: brazdã, Daco-Romanian: brazdă, Istro-Romanian: bråzda, Megleno-Romanian: brazdă);
+*nevěsta (Aromanian: niveastã, Daco-Romanian: nevastă, Istro-Romanian: nevęstę, Megleno-Romanian: niveastă);
+*sìto (Aromanian: sitã, Daco-Romanian: sită, Istro-Romanian: sitę, Megleno-Romanian: sită);
+*slàbъ (Aromanian: s(c)lab, Daco-Romanian: slab, Istro-Romanian: slåb, Megleno-Romanian: slab).
+Substrate words are preserved at different levels in the four dialects. Daco-Romanian has 89, Aromanian 66. Megleno-Romanian 48, and Istro-Romanian 25.
+
+See also
+Vulgar Latin
+Daco-Roman
+Thraco-Roman
+History of Romanian
+Proto-Romance language
+Albanian–Eastern Romance linguistic parallels
+
+Notes
+
+
+== Further reading ==

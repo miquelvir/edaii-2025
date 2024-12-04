@@ -1,0 +1,137 @@
+2925
+Austronesian languages
+The Austronesian languages ( AW-strə-NEE-zhən) are a language family widely spoken throughout Maritime Southeast Asia, parts of Mainland Southeast Asia, Madagascar, the islands of the Pacific Ocean and Taiwan (by Taiwanese indigenous peoples). They are spoken by about 328 million people (4.4% of the world population). This makes it the fifth-largest language family by number of speakers. Major Austronesian languages include Malay (around 250–270 million in Indonesia alone in its own literary standard named "Indonesian"), Javanese, Sundanese, Tagalog (standardized as Filipino), Malagasy and Cebuano. According to some estimates, the family contains 1,257 languages, which is the second most of any language family.
+In 1706, the Dutch scholar Adriaan Reland first observed similarities between the languages spoken in the Malay Archipelago and by peoples on islands in the Pacific Ocean. In the 19th century, researchers (e.g. Wilhelm von Humboldt, Herman van der Tuuk) started to apply the comparative method to the Austronesian languages. The first extensive study on the history of the phonology was made by the German linguist Otto Dempwolff. It included a reconstruction of the Proto-Austronesian lexicon. The term Austronesian was coined (as German austronesisch) by Wilhelm Schmidt, deriving it from Latin auster "south" and Ancient Greek νῆσος (nêsos "island").
+Most Austronesian languages are spoken by island dwellers. Only a few languages, such as Malay and the Chamic languages, are indigenous to mainland Asia. Many Austronesian languages have very few speakers, but the major Austronesian languages are spoken by tens of millions of people. For example, Indonesian is spoken by around 197.7 million people. This makes it the eleventh most-spoken language in the world. Approximately twenty Austronesian languages are official in their respective countries (see the list of major and official Austronesian languages).
+By the number of languages they include, Austronesian and Niger–Congo are the two largest language families in the world. They each contain roughly one-fifth of the world's languages. The geographical span of Austronesian was the largest of any language family in the first half of the second millennium CE, before the spread of Indo-European in the colonial period. It ranged from Madagascar off the southeastern coast of Africa to Easter Island in the eastern Pacific. [Hawaii](2789)an, Rapa Nui, Māori, and Malagasy (spoken on Madagascar) are the geographic outliers.
+According to Robert Blust (1999), Austronesian is divided into several primary branches, all but one of which are found exclusively in Taiwan. The Formosan languages of Taiwan are grouped into as many as nine first-order subgroups of Austronesian. All Austronesian languages spoken outside the Taiwan mainland (including its offshore Yami language) belong to the Malayo-Polynesian (sometimes called Extra-Formosan) branch.
+Most Austronesian languages lack a long history of written attestation. This makes reconstructing earlier stages—up to distant Proto-Austronesian—all the more remarkable. The oldest inscription in the Cham language, the Đông Yên Châu inscription dated to c. 350 AD, is the first attestation of any Austronesian language.
+
+Typological characteristics
+Phonology
+The Austronesian languages overall possess phoneme inventories which are smaller than the world average. Around 90% of the Austronesian languages have inventories of 19–25 sounds (15–20 consonants and 4–5 vowels), thus lying at the lower end of the global typical range of 20–37 sounds. However, extreme inventories are also found, such as Nemi (New Caledonia) with 43 consonants.
+The canonical root type in Proto-Austronesian is disyllabic with the shape CV(C)CVC (C = consonant; V = vowel), and is still found in many Austronesian languages. In most languages, consonant clusters are only allowed in medial position, and often, there are restrictions for the first element of the cluster. There is a common drift to reduce the number of consonants which can appear in final position, e.g. Buginese, which only allows the two consonants /ŋ/ and /ʔ/ as finals, out of a total number of 18 consonants. Complete absence of final consonants is observed e.g. in Nias, Malagasy and many Oceanic languages.
+Tonal contrasts are rare in Austronesian languages, although Moken–Moklen and a few languages of the Chamic, South Halmahera–West New Guinea and New Caledonian subgroups do show lexical tone.
+
+Morphology
+Most Austronesian languages are agglutinative languages with a relatively high number of affixes, and clear morpheme boundaries. Most affixes are prefixes (Malay and Indonesian ber-jalan 'walk' < jalan 'road'), with a smaller number of suffixes (Tagalog titis-án 'ashtray' < títis 'ash') and infixes (Roviana t<in>avete 'work (noun)' < tavete 'work (verb)').
+Reduplication is commonly employed in Austronesian languages. This includes full reduplication (Malay and Indonesian anak-anak 'children' < anak 'child'; Karo Batak nipe-nipe 'caterpillar' < nipe 'snake') or partial reduplication (Agta taktakki 'legs' < takki 'leg', at-atu 'puppy' < atu 'dog').
+
+Syntax
+It is difficult to make generalizations about the languages that make up a family as diverse as Austronesian. Very broadly, one can divide the Austronesian languages into three groups: Philippine-type languages, Indonesian-type languages and post-Indonesian type languages:
+
+The first group includes, besides the languages of the Philippines, the Austronesian languages of Taiwan, Sabah, North Sulawesi and Madagascar. It is primarily characterized by the retention of the original system of Philippine-type voice alternations, where typically three or four verb voices determine which semantic role the "subject"/"topic" expresses (it may express either the actor, the patient, the location and the beneficiary, or various other circumstantial roles such as instrument and concomitant). The phenomenon has frequently been referred to as focus (not to be confused with the usual sense of that term in linguistics). Furthermore, the choice of voice is influenced by the definiteness of the participants. The word order has a strong tendency to be verb-initial.
+In contrast, the more innovative Indonesian-type languages, which are particularly represented in Malaysia and western Indonesia, have reduced the voice system to a contrast between only two voices (actor voice and "undergoer" voice), but these are supplemented by applicative morphological devices (originally two: the more direct *-i and more oblique *-an/-akən), which serve to modify the semantic role of the "undergoer". They are also characterized by the presence of preposed clitic pronouns. Unlike the Philippine type, these languages mostly tend towards verb-second word-orders. A number of languages, such as the Batak languages, Old Javanese, Balinese, Sasak and several Sulawesi languages seem to represent an intermediate stage between these two types.
+Finally, in some languages, which Ross calls "post-Indonesian", the original voice system has broken down completely and the voice-marking affixes no longer preserve their functions.
+
+Lexicon
+The Austronesian language family has been established by the linguistic comparative method on the basis of cognate sets, sets of words from multiple languages, which are similar in sound and meaning which can be shown to be descended from the same ancestral word in Proto-Austronesian according to regular rules. Some cognate sets are very stable. The word for eye in many Austronesian languages is mata (from the most northerly Austronesian languages, Formosan languages such as Bunun and Amis all the way south to Māori).
+Other words are harder to reconstruct. The word for two is also stable, in that it appears over the entire range of the Austronesian family, but the forms (e.g. Bunun dusa; Amis tusa; Māori rua) require some linguistic expertise to recognise. The Austronesian Basic Vocabulary Database gives word lists (coded for cognateness) for approximately 1000 Austronesian languages.
+
+Classification
+The internal structure of the Austronesian languages is complex. The family consists of many similar and closely related languages with large numbers of dialect continua, making it difficult to recognize boundaries between branches. The first major step towards high-order subgrouping was Dempwolff's recognition of the Oceanic subgroup (called Melanesisch by Dempwolff). The special position of the languages of Taiwan was first recognized by André-Georges Haudricourt (1965), who divided the Austronesian languages into three subgroups: Northern Austronesian (= Formosan), Eastern Austronesian (= Oceanic), and Western Austronesian (all remaining languages).
+In a study that represents the first lexicostatistical classification of the Austronesian languages, Isidore Dyen (1965) presented a radically different subgrouping scheme. He posited 40 first-order subgroups, with the highest degree of diversity found in the area of Melanesia. The Oceanic languages are not recognized, but are distributed over more than 30 of his proposed first-order subgroups. Dyen's classification was widely criticized and for the most part rejected, but several of his lower-order subgroups are still accepted (e.g. the Cordilleran languages, the Bilic languages or the Murutic languages).
+Subsequently, the position of the Formosan languages as the most archaic group of Austronesian languages was recognized by Otto Christian Dahl (1973), followed by proposals from other scholars that the Formosan languages actually make up more than one first-order subgroup of Austronesian. Robert Blust (1977) first presented the subgrouping model which is currently accepted by virtually all scholars in the field, with more than one first-order subgroup on Taiwan, and a single first-order branch encompassing all Austronesian languages spoken outside of Taiwan, viz. Malayo-Polynesian. The relationships of the Formosan languages to each other and the internal structure of Malayo-Polynesian continue to be debated.
+
+Primary branches on Taiwan (Formosan languages)
+In addition to Malayo-Polynesian, thirteen Formosan subgroups are broadly accepted. The seminal article in the classification of Formosan—and, by extension, the top-level structure of Austronesian—is Blust (1999). Prominent Formosanists (linguists who specialize in Formosan languages) take issue with some of its details, but it remains the point of reference for current linguistic analyses. Debate centers primarily around the relationships between these families. Of the classifications presented here, Blust (1999) links two families into a Western Plains group, two more in a Northwestern Formosan group, and three into an Eastern Formosan group, while Li (2008) also links five families into a Northern Formosan group. Harvey (1982), Chang (2006) and Ross (2012) split Tsouic, and Blust (2013) agrees the group is probably not valid.
+Other studies have presented phonological evidence for a reduced Paiwanic family of Paiwanic, Puyuma, Bunun, Amis, and Malayo-Polynesian, but this is not reflected in vocabulary. The Eastern Formosan peoples Basay, Kavalan, and Amis share a homeland motif that has them coming originally from an island called Sinasay or Sanasay. The Amis, in particular, maintain that they came from the east, and were treated by the Puyuma, amongst whom they settled, as a subservient group.
+
+Blust (1999)
+Li (2008)
+This classification retains Blust's East Formosan, and unites the other northern languages. Li (2008) proposes a Proto-Formosan (F0) ancestor and equates it with Proto-Austronesian (PAN), following the model in Starosta (1995). Rukai and Tsouic are seen as highly divergent, although the position of Rukai is highly controversial.
+
+Sagart (2004, 2021)
+Sagart (2004) proposes that the numerals of the Formosan languages reflect a nested series of innovations, from languages in the northwest (near the putative landfall of the Austronesian migration from the mainland), which share only the numerals 1–4 with proto-Malayo-Polynesian, counter-clockwise to the eastern languages (purple on map), which share all numerals 1–10. Sagart (2021) finds other shared innovations that follow the same pattern. He proposes that pMP *lima 'five' is a lexical replacement (from 'hand'), and that pMP *pitu 'seven', *walu 'eight' and *Siwa 'nine' are contractions of pAN *RaCep 'five', a ligature *a or *i 'and', and *duSa 'two', *telu 'three', *Sepat 'four', an analogical pattern historically attested from Pazeh. The fact that the Kradai languages share the numeral system (and other lexical innovations) of pMP suggests that they are a coordinate branch with Malayo-Polynesian, rather than a sister family to Austronesian.
+Sagart's resulting classification is:
+
+Malayo-Polynesian
+The Malayo-Polynesian languages are—among other things—characterized by certain sound changes, such as the mergers of Proto-Austronesian (PAN) *t/*C to Proto-Malayo-Polynesian (PMP) *t, and PAN *n/*N to PMP *n, and the shift of PAN *S to PMP *h.
+There appear to have been two great migrations of Austronesian languages that quickly covered large areas, resulting in multiple local groups with little large-scale structure. The first was Malayo-Polynesian, distributed across the Philippines, Indonesia, and Melanesia. The second migration was that of the Oceanic languages into Polynesia and Micronesia.
+
+Major languages
+History
+From the standpoint of historical linguistics, the place of origin (in linguistic terminology, Urheimat) of the Austronesian languages (Proto-Austronesian language) is most likely the main island of Taiwan, also known as Formosa; on this island the deepest divisions in Austronesian are found along small geographic distances, among the families of the native Formosan languages.
+
+According to Robert Blust, the Formosan languages form nine of the ten primary branches of the Austronesian language family.  Comrie (2001:28) noted this when he wrote: ... the internal diversity among the... Formosan languages... is greater than that in all the rest of Austronesian put together, so there is a major genetic split within Austronesian between Formosan and the rest... Indeed, the genetic diversity within Formosan is so great that it may well consist of several primary branches of the overall Austronesian family.At least since Sapir (1968), writing in 1949, linguists have generally accepted that the chronology of the dispersal of languages within a given language family can be traced from the area of greatest linguistic variety to that of the least. For example, English in North America has large numbers of speakers, but relatively low dialectal diversity, while English in Great Britain has much higher diversity; such low linguistic variety by Sapir's thesis suggests a more recent spread of English in North America. While some scholars suspect that the number of principal branches among the Formosan languages may be somewhat less than Blust's estimate of nine (e.g. Li 2006), there is little contention among linguists with this analysis and the resulting view of the origin and direction of the migration. For a recent dissenting analysis, see Peiros (2004).
+The protohistory of the Austronesian people can be traced farther back through time. To get an idea of the original homeland of the populations ancestral to the [Austronesian peoples](2926) (as opposed to strictly linguistic arguments), evidence from archaeology and population genetics may be adduced. Studies from the science of genetics have produced conflicting outcomes. Some researchers find evidence for a proto-Austronesian homeland on the Asian mainland (e.g., Melton et al. 1998), while others mirror the linguistic research, rejecting an East Asian origin in favor of Taiwan (e.g., Trejaut et al. 2005). Archaeological evidence (e.g., Bellwood 1997) is more consistent, suggesting that the ancestors of the Austronesians spread from the South Chinese mainland to Taiwan at some time around 8,000 years ago.
+
+Evidence from historical linguistics suggests that it is from this island that seafaring peoples migrated, perhaps in distinct waves separated by millennia, to the entire region encompassed by the Austronesian languages. It is believed that this migration began around 6,000 years ago. However, evidence from historical linguistics cannot bridge the gap between those two periods. The view that linguistic evidence connects Austronesian languages to the Sino-Tibetan ones, as proposed for example by Sagart (2002), is a minority one. As Fox (2004:8) states:Implied in... discussions of subgrouping of Austronesian languages is a broad consensus that the homeland of the Austronesians was in Taiwan. This homeland area may have also included the P'eng-hu (Pescadores) islands between Taiwan and [China](2217) and possibly even sites on the coast of mainland [China](2217), especially if one were to view the early Austronesians as a population of related dialect communities living in scattered coastal settlements.Linguistic analysis of the Proto-Austronesian language stops at the western shores of Taiwan; any related mainland language(s) have not survived. The only exceptions, the Chamic languages, derive from more recent migration to the mainland. However, according to Ostapirat's interpretation of the seriously discussed Austro-Tai hypothesis, the Kra–Dai languages (also known as Tai–Kadai) are exactly those related mainland languages.
+
+Hypothesized relations
+Genealogical links have been proposed between Austronesian and various families of East and Southeast Asia.
+
+Austro-Tai
+An Austro-Tai proposal linking Austronesian and the Kra-Dai languages of the southeastern continental Asian mainland was first proposed by Paul K. Benedict, and is supported by Weera Ostapirat, Roger Blench, and Laurent Sagart, based on the traditional comparative method. Ostapirat (2005) proposes a series of regular correspondences linking the two families and assumes a primary split, with Kra-Dai speakers being the people who stayed behind in their Chinese homeland. Blench (2004) suggests that, if the connection is valid, the relationship is unlikely to be one of two sister families. Rather, he suggests that proto-Kra-Dai speakers were Austronesians who migrated to Hainan Island and back to the mainland from the northern Philippines, and that their distinctiveness results from radical restructuring following contact with Hmong–Mien and Sinitic. An extended version of Austro-Tai was hypothesized by Benedict who added the Japonic languages to the proposal as well.
+
+Austric
+A link with the Austroasiatic languages in an 'Austric' phylum is based mostly on typological evidence. However, there is also morphological evidence of a connection between the conservative Nicobarese languages and Austronesian languages of the Philippines. Robert Blust supports the hypothesis which connects the lower Yangtze neolithic Austro-Tai entity with the rice-cultivating Austro-Asiatic cultures, assuming the center of East Asian rice domestication, and putative Austric homeland, to be located in the Yunnan/Burma border area. Under that view, there was an east-west genetic alignment, resulting from a rice-based population expansion, in the southern part of East Asia: Austroasiatic-Kra-Dai-Austronesian, with unrelated Sino-Tibetan occupying a more northerly tier.
+
+Sino-Austronesian
+French linguist and Sinologist Laurent Sagart considers the Austronesian languages to be related to the Sino-Tibetan languages, and also groups the Kra–Dai languages as more closely related to the Malayo-Polynesian languages. Sagart argues for a north-south genetic relationship between Chinese and Austronesian, based on sound correspondences in the basic vocabulary and morphological parallels. Laurent Sagart (2017) concludes that the possession of the two kinds of millets in Taiwanese Austronesian languages (not just Setaria, as previously thought) places the pre-Austronesians in northeastern [China](2217), adjacent to the probable Sino-Tibetan homeland. Ko et al.'s genetic research (2014) appears to support Laurent Sagart's linguistic proposal, pointing out that the exclusively Austronesian mtDNA E-haplogroup and the largely Sino-Tibetan M9a haplogroup are twin sisters, indicative of an intimate connection between the early Austronesian and Sino-Tibetan maternal gene pools, at least. Additionally, results from Wei et al. (2017) are also in agreement with Sagart's proposal, in which their analyses show that the predominantly Austronesian Y-DNA haplogroup O3a2b*-P164(xM134) belongs to a newly defined haplogroup O3a2b2-N6 being widely distributed along the eastern coastal regions of Asia, from Korea to Vietnam. Sagart also groups the Austronesian languages in a recursive-like fashion, placing Kra-Dai as a sister branch of Malayo-Polynesian. His methodology has been found to be spurious by his peers.
+
+Japanese
+Several linguists have proposed that Japanese is genetically related to the Austronesian family, cf. Benedict (1990), Matsumoto (1975), Miller (1967).
+Some other linguists think it is more plausible that Japanese is not genetically related to the Austronesian languages, but instead was influenced by an Austronesian substratum or adstratum.
+Those who propose this scenario suggest that the Austronesian family once covered the islands to the north as well as to the south. Martine Robbeets (2017) claims that Japanese genetically belongs to the "Transeurasian" (= Macro-Altaic) languages, but underwent lexical influence from "para-Austronesian", a presumed sister language of Proto-Austronesian.
+The linguist Ann Kumar (2009) proposed that some Austronesians might have migrated to Japan, possibly an elite-group from Java, and created the Japanese-hierarchical society. She also identifies 82 possible cognates between Austronesian and Japanese, however her theory remains very controversial. The linguist Asha Pereltsvaig criticized Kumar's theory on several points. The archaeological problem with that theory is that, contrary to the claim that there was no rice farming in [China](2217) and Korea in prehistoric times, excavations have indicated that rice farming has been practiced in this area since at least 5000 BC. There are also genetic problems. The pre-Yayoi Japanese lineage was not shared with Southeast Asians, but was shared with Northwest Chinese, Tibetans and Central Asians. Linguistic problems were also pointed out. Kumar did not claim that Japanese was an Austronesian language derived from proto-Javanese language, but only that it provided a superstratum language for old Japanese, based on 82 plausible Javanese-Japanese cognates, mostly related to rice farming.
+
+East Asian
+In 2001, Stanley Starosta proposed a new language family named East Asian, that includes all primary language families in the broader East Asia region except Japonic and Koreanic. This proposed family consists of two branches, Austronesian and Sino-Tibetan-Yangzian, with the Kra-Dai family considered to be a branch of Austronesian, and "Yangzian" to be a new sister branch of Sino-Tibetan consisting of the Austroasiatic and Hmong-Mien languages. This proposal was further researched on by linguists such as Michael D. Larish in 2006, who also included the Japonic and Koreanic languages in the macrofamily. The proposal has since been adopted by linguists such as George van Driem, albeit without the inclusion of Japonic and Koreanic.
+
+Ongan
+Blevins (2007) proposed that the Austronesian and the Ongan protolanguage are the descendants of an Austronesian–Ongan protolanguage. This view is not supported by mainstream linguists and remains very controversial. Robert Blust rejects Blevins' proposal as far-fetched and based solely on chance resemblances and methodologically flawed comparisons.
+
+Writing systems
+Most Austronesian languages have Latin-based writing systems today. Some non-Latin-based writing systems are listed below.
+
+Brahmi script
+Kawi script
+Balinese alphabet – used to write Balinese, Kawi, Malay, Sasak, and Sanskrit.
+Batak alphabet – used to write several Batak languages.
+Baybayin – used to write Tagalog and several Philippine languages.
+Bima alphabet – once used to write the Bima language.
+Buhid alphabet – used to write Buhid language.
+Hanunó'o alphabet – used to write Hanuno'o language.
+Javanese script – used to write the Javanese language and several neighbouring languages like Madurese.
+Kerinci alphabet (Kaganga) – used to write the Kerinci language.
+Kulitan alphabet – used to write the Kapampangan language.
+Lampung alphabet – used to write Lampung and Komering.
+Linggi alphabet – used to write Peninsular Malayic languages.
+Lontara alphabet – used to write the Buginese, Makassarese and several languages of Sulawesi.
+Sundanese script – standardized script based on Old Sundanese script, used to write the Sundanese language.
+Rejang alphabet – used to write the Rejang language.
+Rencong alphabet – once used to write the Malay language.
+Tagbanwa alphabet – once used to write various Palawan languages.
+Lota alphabet – used to write the Ende-Li'o language.
+Cham alphabet – used to write Cham language.
+Arabic script
+Pegon alphabet – used to write Javanese, Sundanese and Madurese as well as several smaller neighbouring languages.
+Jawi alphabet – used to write Malay, Acehnese, Banjar, Minangkabau, Maguindanao, Tausug, Western Cham and others.
+Sorabe alphabet – once used to write several dialects of Malagasy language.
+Hangul – used to write the Cia-Cia language but the project is no longer active.
+Dunging – used to write the Iban language
+Avoiuli – used to write the Raga language.
+Eskayan – used to write the Eskayan language, a secret language based on Boholano.
+Woleai script (Caroline Island script) – used to write the Carolinian language (Refaluwasch).
+Rongorongo – possibly used to write the Rapa Nui language.
+Gagarit Abada – used to write Dusunic languages but it was not widely used.
+Gangga Melayu – used to write Perak Malay
+Braille – used in Filipino, Malaysian, Indonesian, Tolai, Motu, Māori, Samoan, Malagasy, and many other Austronesian languages.
+
+Comparison charts
+Below are two charts comparing list of numbers of 1–10 and thirteen words in Austronesian languages;  spoken in Taiwan, the Philippines, the Mariana Islands, Indonesia, Malaysia, Chams or Champa (in Thailand, Cambodia, and Vietnam), East Timor, Papua, New Zealand, [Hawaii](2789), Madagascar, [Borneo](2976), Kiribati, Caroline Islands, and Tuvalu.
+
+See also
+Languages of Taiwan
+Austronesian Formal Linguistics Association
+List of Austronesian languages
+List of Austronesian regions
+
+Notes
+References
+Bibliography
+Further reading
+
+
+== External links ==

@@ -1,0 +1,57 @@
+41
+.NET
+The .NET platform (pronounced as "dot net") is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. The project is mainly developed by Microsoft employees by way of the .NET Foundation and is released under an MIT License.
+New versions of the .NET platform are released annually, typically in November. The most recent version of .NET is .NET 9, released in November 2024, while the current long-term support (LTS) version is .NET 8, released in November 2023 and scheduled to receive updates until November 2026.
+
+History
+In the late 1990s, Microsoft began developing a managed code runtime and programming language (C#) which it billed together as part of the ".NET platform", with the core runtime and software libraries comprising the .NET Framework.
+
+At the heart of the .NET Platform is the .NET Framework, a high-productivity, multilanguage development and execution environment for building and running Web services with important features such as cross-language inheritance and debugging.
+Soon after the announcement of the C# language at the Professional Developers Conference in 2000 and previews of its software became available, Microsoft began a standardization effort through ECMA for what it dubbed the Common Language Infrastructure.  The company continued development and support of its own implementation as proprietary, closed source software in the meantime.
+On November 12, 2014, Microsoft introduced .NET Core—an open-source, cross-platform successor to .NET Framework—and released source code for the .NET Core CoreCLR implementation, source for the "entire ... library stack" for .NET Core, and announced the adoption of a conventional ("bazaar"-like) open-source development model under the stewardship of the .NET Foundation. Miguel de Icaza describes .NET Core as a "redesigned version of .NET that is based on the simplified version of the class libraries", and Microsoft's Immo Landwerth explained that .NET Core would be "the foundation of all future .NET platforms". At the time of the announcement, the initial release of the .NET Core project had been seeded with a subset of the libraries' source code and coincided with the relicensing of Microsoft's existing .NET reference source away from the restrictions of the Ms-RSL. Landwerth acknowledged the disadvantages of the formerly selected shared license, explaining that it made codename Rotor "a non-starter" as a community-developed open source project because it did not meet the criteria of an Open Source Initiative (OSI) approved license.
+.NET Core 1.0 was released on June 27, 2016, along with Microsoft Visual Studio 2015 Update 3, which enables .NET Core development. .NET Core 1.0.4 and .NET Core 1.1.1 were released along with .NET Core Tools 1.0 and Visual Studio 2017 on March 7, 2017.
+.NET Core 2.0 was released on August 14, 2017, along with Visual Studio 2017 15.3, ASP.NET Core 2.0, and Entity Framework Core 2.0. .NET Core 2.1 was released on May 30, 2018. NET Core 2.2 was released on December 4, 2018.
+.NET Core 3 was released on September 23, 2019. NET Core 3 adds support for Windows desktop application development and significant performance improvements throughout the base library.
+In November 2020, Microsoft released .NET 5.0. The "Core" branding was abandoned and version 4.0 was skipped to avoid conflation with .NET Framework, of which the latest releases had all used 4.x versioning for all significant (non-bugfix) releases since 2010.
+It addresses the patent concerns related to the .NET Framework .
+In November 2021, Microsoft released .NET 6.0, in November 2022 released .NET 7.0, in November 2023 released .NET 8.0, and in November 2024 released .NET 9.0.
+
+Alpine Linux, which primarily supports and uses musl libc, is supported since .NET Core 2.1.
+Windows Arm64 is natively supported since .NET 5. Previously, .NET on ARM meant applications compiled for the x86 architecture and run through the ARM emulation layer.
+
+Language support
+.NET fully supports C# and F# (and C++/CLI as of 3.1; only enabled on Windows) and supports Visual Basic .NET (for version 15.5 in .NET Core 5.0.100-preview.4, and some old versions supported in old .NET Core).
+VB.NET compiles and runs on .NET, but as of .NET Core 3.1, the separate Visual Basic Runtime is not implemented. Microsoft initially announced that .NET Core 3 would include the Visual Basic Runtime, but after two years the timeline for such support was updated to .NET 5.
+
+Architecture
+.NET supports the following cross-platform scenarios: ASP.NET Core web apps, command-line/console apps, libraries and Universal Windows Platform apps. Prior to .NET Core 3.0, it did not implement Windows Forms or Windows Presentation Foundation (WPF), which render the standard GUI for desktop software on Windows. However, from .NET Core 3 on, it started implementing them along with Universal Windows Platform (UWP). It is also possible to write cross-platform graphical applications using .NET with the GTK# language-binding for the GTK widget toolkit.
+.NET supports use of NuGet packages. Unlike .NET Framework, which is serviced using Windows Update, .NET used to rely on its package manager to receive updates. Since December 2020, however, .NET updates started being delivered via Windows Update as well.
+The two main components of .NET are CoreCLR and CoreFX, which are comparable to the Common Language Runtime (CLR) and the Framework Class Library (FCL) of the .NET Framework's Common Language Infrastructure (CLI) implementation.
+As an implementation of CLI's Virtual Execution System (VES), CoreCLR is a complete runtime and virtual machine for managed execution of CLI programs and includes a just-in-time compiler called RyuJIT. .NET Core also contains CoreRT, the .NET Native runtime optimized to be integrated into AOT compiled native binaries.
+As an implementation of CLI's Standard Libraries, CoreFX shares a subset of .NET Framework APIs, however, it also comes with its own APIs that are not part of the .NET Framework. A variant of the .NET library is used for UWP.
+The .NET command-line interface offers an execution entry point for operating systems and provides developer services like compilation and package management.
+
+.NET MAUI
+.NET Multi-platform App UI (.NET MAUI, introduced with .NET 6) is a cross-platform framework for creating native mobile and desktop apps with C# and Extensible Application Markup Language (XAML), which also supports Android and iOS.
+
+Mascot
+The official community mascot of .NET is the .NET Bot (stylized as "dotnet bot" or "dotnet-bot"). The dotnet bot served as the placeholder developer for the initial check-in of the .NET source code when it was open-sourced. It has since been used as the official mascot.
+
+Notes
+References
+Further reading
+Arif, Hammad; Qureshi, Habib (2020). Adopting .NET 5: Understand modern architectures, migration best practices, and the new features in .NET 5. Packt Publishing. ISBN 978-1800560567.
+Metzgar, Dustin (2018). .NET Core in Action. Manning Publications. ISBN 978-1617294273.
+Price, Mark J. (2021). C# 10 and .NET 6 – Modern Cross-Platform Development. Packt Publishing. ISBN 978-1801077361.
+Price, Mark J. (2020). C# 9 and .NET 5 – Modern Cross-Platform Development. Packt Publishing. ISBN 978-1800568105.
+Price, Mark J. (2019). C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development. Packt Publishing. ISBN 978-1788478120.
+Price, Mark J. (2017). C# 7.1 and .NET Core 2.0 – Modern Cross-Platform Development. Packt Publishing. ISBN 978-1788398077.
+Price, Mark J. (2017). C# 7 and .NET Core: Modern Cross-Platform Development. Packt Publishing. ISBN 978-1787129559.
+Price, Mark J. (2016). C# 6 and .NET Core 1.0: Modern Cross-Platform Development. Packt Publishing. ISBN 978-1785285691.
+Zimarev, Alexey (2019). Hands-On Domain-Driven Design with .NET Core. Packt Publishing. ISBN 978-1788834094.
+
+External links
+
+Official website 
+Overview of .NET Framework (MSDN)
+.NET on GitHub

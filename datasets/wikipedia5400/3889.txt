@@ -1,0 +1,15 @@
+3889
+Callippus
+Callippus (; Ancient Greek: Κάλλιππος, romanized: Kallippos; c. 370 BC – c. 300 BC) was a Greek astronomer and mathematician.
+
+Biography
+Callippus was born at Cyzicus, and studied under Eudoxus of Cnidus at the Academy of Plato. He also worked with [Aristotle](162) at the Lyceum, which means that he was active in [Athens](599) prior to [Aristotle](162)'s death in 322 BC. He observed the movements of the planets and attempted to use Eudoxus' scheme of connected spheres to account for their movements. However, he found that 27 spheres were insufficient to account for the planetary movements, and so he added seven more for a total of 34. According to the description in [Aristotle](162)'s Metaphysics (XII.8), he added two spheres for the Sun, two for the Moon, and one each for Mercury, Venus, and Mars.
+Callippus made careful measurements of the lengths of the seasons, finding them (starting with the spring equinox) to be 94 days, 92 days, 89 days, and 90 days.  This variation in the seasons implies a variation in the speed of the Sun, called the "solar anomaly".  He also followed up on the work done by Meton of [Athens](599) to measure the length of the year and construct an accurate lunisolar calendar.  The Metonic cycle has 19 tropical years and 235 synodic months in 6,940 days.  The Callippic cycle synchronizes days per orbit and rotations per orbit within the Metonic cycle, noting the difference of one after 4 Metonic cycles, a duration of 76 years.  Distinguishing rotations and days infers knowledge of the precession cycle.
+Callippus started his observation cycle on the summer solstice in 330 BC (28 June in the proleptic Julian calendar).  The cycle's begin position, the stellar position and sidereal hour timing the eclipse, are used by later astronomers for calibrating their observations in relation to subsequent eclipses. The Callippic cycle of 76 years appears to be used in the Antikythera mechanism, an ancient astronomical mechanical clock and observational aide of the 2nd century BC (discovered in Mediterranean waters off Greece). The mechanism has a dial for the Callippic cycle and the 76 years are mentioned in the Greek text of the manual of this old device. The crater Calippus on the Moon is named after him.
+
+References
+Kieffer, John S. "Callippus." Dictionary of Scientific Biography 3:21-22.
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Callippus", MacTutor History of Mathematics Archive, University of St Andrews
+Online Callippic calendar converter as used in Ptolemy's [Almagest](3819)

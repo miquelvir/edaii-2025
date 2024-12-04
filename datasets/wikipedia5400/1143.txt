@@ -1,0 +1,59 @@
+1143
+Airline Deregulation Act
+The Airline Deregulation Act is a 1978 United States federal law that deregulated the airline industry in the United States, removing federal control over such areas as fares, routes, and market entry of new airlines. The act gradually phased out and disbanded the Civil Aeronautics Board (CAB), but the regulatory powers of the Federal Aviation Administration (FAA) over all aspects of aviation safety were not diminished.
+
+History
+Since 1938, the federal CAB had regulated all domestic interstate air transport routes as a public utility, setting fares, routes, and schedules. Airlines that flew only intrastate routes, however, were not regulated by the CAB but were regulated by the governments of the states in which they operated. One way that the CAB promoted air travel was generally attempting to hold fares down in the short-haul market, which would be subsidized by higher fares in the long-haul market. The CAB also had to ensure that the airlines had a reasonable rate of return.
+The CAB had earned a reputation for bureaucratic complacency; airlines were subject to lengthy delays when they applied for new routes or fare changes, and were often not approved. For example, World Airways applied to begin a low-fare New York City–to–Los Angeles route in 1967; the CAB studied the request for over six years, only to dismiss it because the record was "stale". Continental Airlines began service between Denver and San Diego after eight years only because a United States Court of Appeals ordered the CAB to approve the application.
+This rigid system encountered tremendous pressure in the 1970s. The 1973 oil crisis and stagflation radically changed the economic environment, as did technological advances such as the jumbo jet. Most major airlines, whose profits were virtually guaranteed, favored the rigid system, but passengers who were forced to pay escalating fares were against it and were joined by communities that subsidized air service at ever-higher rates. The United States Congress became concerned that air transport, in the long run, might follow the nation's railroads into trouble. The Penn Central Railroad had collapsed in 1970, which was at that time the largest bankruptcy in history; this resulted in a huge taxpayer-funded bailout and the creation of the government-owned corporations Conrail and Amtrak.
+Leading economists had argued for several decades that the regulation led to inefficiency and higher costs. The Carter administration argued that the industry and its customers would benefit from new entrants, the abolishing of price regulation, and reduced control over routes and hub cities.
+In 1970 and 1971, the Council of Economic Advisers in the Nixon administration, along with the Antitrust Division of the United States Department of Justice and other agencies, proposed legislation to diminish price collusion and entry barriers in rail and trucking transportation. While the initiative was in process in the Ford administration, the Senate Judiciary Committee, which had jurisdiction over antitrust law, began hearings on airline deregulation in 1975. Senator Edward "Ted" Kennedy took the lead in the hearings.
+The committee was deemed a friendlier forum than what likely would have been the more appropriate venue, the Aviation Subcommittee of the Commerce Committee. The Ford administration supported the Judiciary Committee initiative.
+In 1977, President Jimmy Carter appointed Alfred E. Kahn, a professor of economics at Cornell University, to be chair of the CAB. A concerted push for the legislation had developed from leading economists, leading think-tanks in Washington, a civil society coalition advocating the reform (patterned on a coalition earlier developed for the truck-and-rail-reform efforts), the head of the regulatory agency, Senate leadership, the Carter administration, and even some in the airline industry. The coalition swiftly gained legislative results in 1978.
+Dan McKinnon would be the last chairman of the CAB and would oversee its final closure on January 1, 1985.
+
+Legislative terms
+Senator Howard Cannon of Nevada introduced S. 2493 on February 6, 1978. The bill was passed and was signed by Carter on October 24, 1978.
+The stated goals of the Act included the following:
+
+the maintenance of safety as the highest priority in air commerce;
+placing maximum reliance on competition in providing air transportation services;
+the encouragement of air service at major urban areas through secondary (nonprimary) or satellite airports;
+the avoidance of unreasonable industry concentration which would tend to allow one or more air carriers to unreasonably increase prices, reduce services, or exclude competition; and
+the encouragement of entry into air transportation markets by new air carriers, the encouragement of entry into additional markets by existing air carriers, and the continued strengthening of small air carriers.
+The Act intended for various restrictions on airline operations to be removed over four years, with complete elimination of restrictions on domestic routes and new services by December 31, 1981, and the end of all domestic fare regulation by January 1, 1983. In practice, changes came rather more rapidly than that.
+Among its many terms, the act did the following:
+
+the CAB's authority to set fares was gradually eliminated;
+the CAB was required to expedite processing of various requests;
+standards were liberalized for the establishment of new airlines;
+airlines were allowed to take over service on routes underutilized by competitors or on which the competitor received a local service subsidy;
+American-owned international carriers were allowed to offer domestic service;
+the evidentiary burden was placed on the CAB to block a route as inconsistent with "public convenience";
+the CAB was prohibited from introducing new regulation of charter trips;
+certain subsidies for carrying mail were terminated effective January 1, 1986, and Essential Air Service subsidies effective 10 years from enactment (however, as of 2013, the EAS is still in existence, serving 160 communities in the US);
+existing mutual aid agreements were terminated between air carriers;
+the CAB was allowed to grant antitrust immunity to carriers;
+the FAA was directed to develop safety standards for commuter airlines;
+intrastate carriers were allowed to enter into through service and joint fare agreements with interstate air carriers;
+air carriers, in hiring employees, were required to give preference to terminated or furloughed employees of another carrier for 10 years after enactment; and
+remaining regulatory authority were transferred to the United States Department of Transportation (DOT) and the CAB itself was dissolved in 1984.
+Safety inspections and air traffic control remained in the hands of the FAA, and the act also required the Secretary of Transportation to report to Congress about air safety and any implications that deregulation would have in that matter.
+The ADA (along with the Montreal Convention with regard to international flights) also has the effect of preempting state law with regard to claims against airlines for delays, discrimination, consumer protection violations and other allegations of passenger mistreatment.
+
+Effects
+A 1996 Government Accountability Office report found that the average fare per passenger mile was about nine percent lower in 1994 than in 1979. Between 1976 and 1990 the paid fare had declined approximately thirty percent in inflation-adjusted terms. Passenger loads have risen, partly because airlines can now transfer larger aircraft to longer, busier routes and replace them with smaller ones on shorter, lower-traffic routes.
+However, these trends have not been distributed evenly throughout the national air transportation network. Costs have fallen more dramatically on higher-traffic, longer-distance routes than on shorter ones.
+Exposure to competition led to heavy losses and conflicts with labor unions for a number of carriers. Between 1978 and mid-2001, eight major carriers (including Eastern, Midway, Braniff, Pan Am, Continental, Northwest Airlines, and TWA) and more than 100 smaller airlines went bankrupt or were liquidated, including most of the dozens of new airlines founded in deregulation's aftermath.
+For the most part, smaller markets did not suffer the erosion of service that had been predicted by some opponents of deregulation. However, until the advent of low-cost carriers, point-to-point air transport declined in favor of a more pronounced hub-and-spoke system. A traveler starting from a non-hub airport (a spoke) would fly into the hub, then reach the final destination by flying from the hub to another airport, the spoke. While more efficient for serving smaller markets, this system has enabled some airlines to drive out competition from their "fortress hubs." The growth of low-cost carriers such as Southwest Airlines has brought more point-to-point service back into the United States air transport system, and contributed to the development of a wider range of aircraft types that are better adaptable to markets of varying sizes.
+In 2011, Supreme Court Justice member Stephen Breyer, who was a special counsel to the U.S. Senate Committee on the Judiciary in the 1970s and worked with Senator Kennedy on the bill, wrote:
+
+What does the industry's history tell us? Was this effort worthwhile? Certainly it shows that every major reform brings about new, sometimes unforeseen, problems. No one foresaw the industry's spectacular growth, with the number of air passengers increasing from 207.5 million in 1974 to 721.1 million last year. As a result, no one foresaw the extent to which new bottlenecks would develop: a flight-choked Northeast corridor, overcrowded airports, delays, and terrorist risks consequently making air travel increasingly difficult. Nor did anyone foresee the extent to which change might unfairly harm workers in the industry. Still, fares have come down. Airline revenue per passenger mile has declined from an inflation-adjusted 33.3 cents in 1974, to 13 cents in the first half of 2010. In 1974 the cheapest round-trip New York-Los Angeles flight (in inflation-adjusted dollars) that regulators would allow: $1,442. Today one can fly that same route for $268. That is why the number of travelers has gone way up. So we sit in crowded planes, munch potato chips, flare up when the loudspeaker announces yet another flight delay. But how many now will vote to go back to the "good old days" of paying high, regulated prices for better service? Even among business travelers, who wants to pay "full fare for the briefcase?"
+
+See also
+Wright Amendment, a US Federal law to protect one Texas airport (Dallas/Fort Worth International Airport) from competition only months after the Airline Deregulation Act was signed into law.
+
+References
+
+
+== Further reading ==

@@ -1,0 +1,131 @@
+629
+Banū Mūsā brothers
+The three brothers Abū Jaʿfar, Muḥammad ibn Mūsā ibn Shākir (before 803 – February 873); Abū al-Qāsim, Aḥmad ibn Mūsā ibn Shākir (d. 9th century) and Al-Ḥasan ibn Mūsā ibn Shākir (d. 9th century), were Persian scholars who lived and worked in Baghdad. They are collectively known as the Banū Mūsā (Arabic: بنو موسی, "Sons of Mūsā (or Moses)").
+The Banū Mūsā were the sons of Mūsā ibn Shākir, who was a well-known Astronomer of al-Ma'mun, a son of the Abbasid caliph Harun al-Rashid. After their father's death, the brothers received an education under al-Ma'mun’s direction, and were enrolled at the House of Wisdom in  Baghdad. There they undertook the translation of ancient Greek works acquired from Byzantium, which they used to develop their own technological, mathematical and astronomical ideas. They were some of the earliest scholars to adopt Greek mathematics, but innovative in their approach to the concepts of area and circumference by expressing them using numerical values instead of ratios. They made geodesic measurements to determine the length of a degree of latitude, and so obtained a relatively accurate value for the circumference of the Earth.
+The Banū Mūsā wrote almost 20 books, all but three of which are now lost. The most important of all their works was a treatise on geometry, Kitāb Maʿrifah masāḥat al-ashkāl al-basīṭah wa-al-kuriyyah ("Book on the Measurement of Plane and Spherical Figures"), which was used extensively by medieval mathematicians. Their most famous extant work (of which the oldest and most reliable copy is in the Topkapi Sarayi in Istanbul) is Kitab al-Hiyal al-Naficah ("[Book of Ingenious Devices](634)"). It describes 100 inventions, many of which were pouring vessels, intended to entertain party guests. Some of their innovations, such as those that involved 
+fluid pressure variations and valves, remained unsurpassed until the modern period. One of those inventions includes an automatic flute player that may have been the first programmable machine or computer.
+
+Biographical details
+Early years
+Moḥammad, Aḥmad, and Ḥasan were the three sons of Mūsā ibn Shākir. They are always listed in sources in what is assumed by scholars to be their order of seniority. Musa was A Persian from Khorasan and a well-known Astronomer,
+al-Ma'mun, a son of the Abbasid caliph Harun al-Rashid who was staying in Merv. Al-Maʾmūn, who became caliph in 813, employed Musa as an astronomer. According to one story, al Ma’mun saw the Greek polymath [Aristotle](162) in a dream telling him about the importance of natural philosophy, which resulted in al-Ma’mun supporting the work then being done by scholars, during what has been called by some historians of science as the Islamic Golden Age.
+After their father's death, the three orphaned children were cared for at the court of al-Maʾmūn, who made the senior Baghdad official Ishaq ibn Ibrahim al-Mus'abi their guardian. Al-Ma’mun recognized their abilities, and enrolled them in the House of Wisdom, an institution created by him as a centre for collecting, translating and studying books from other lands. In Baghdad, where they apparently lived for the rest of their lives, the three brothers studied geometry, mechanics, music, mathematics and astronomy, trained by a senior court astrologer, Yaḥyā bin Abī Manṣūr.
+
+Accomplishments under the Abbasid Caliphate
+The Banū Mūsā assisted al-Ma'mun's in his obsession to obtain and translate works from Greek into Arabic. They sent for Greek texts from the Byzantines, or travelled themselves to Byzantium to acquire them. During their working lives they used their wealth and energy towards the translation of these works. On his way home to Baghdad from Byzantium, Muhammad met and recruited Thābit ibn Qurra, a money changer from Harran. Thābit went on to make important discoveries in algebra, geometry, and astronomy.
+Under the direction of al-Ma'mun, the Banū Mūsā worked with the most talented men available, including al-Khwarizmi, al-Kindi, Al-Ḥajjāj ibn Yūsuf ibn Maṭar, and the mathematician and translator Hunayn ibn Ishaq, who became a close friend of one of the brothers, Muhammad. Of  the translators, three were paid about 500 dinars a month. None of the brothers were medically trained, and relied upon Ishaq bin Hunayn and Thabit bin Qurra to translate Greek medical works. They exchanged ideas with other experts, including the astrologer Abu Ma'shar al-Balkhi, with whom Muhammed was in continuous contact.
+The brothers are likely to have used portable instruments such as armillary spheres or dials when making their observations, which were recorded from around 847 to 869. From their Baghdad home, they observed stars in the constellation Ursa Major In 847–848, and measured the maximum and minimum altitudes of the Sun in 868–869. They also observed the September equinox in the city of Samarra. To calculate the difference in latitude between Samarra and Nishapur, they organized simultaneous observations of a lunar eclipse.
+Whilst working for al-Ma’mun, the Banū Mūsā travelled to a desert near Sanjar, in northern Mesopotamia, with the aim of measuring the length of a degree of latitude along a meridian, and from that verifying a value of 25,000 miles (40,000 km) obtained by the Greeks for the Earth's circumference. They first measured the altitude of the Pole Star, and then, using pegs and a rope as they moved north, stopped again when the altitude of the star changed by one degree. They repeated the same measurement, this time travelling southwards. The process was repeated at al-Kufa. From their measurements, the brothers obtained a value for the circumference of the Earth of 24,000 miles (39,000 km).
+Under the patronage of the caliphs that followed al Ma’mun—al-Mu'tasim, al-Wathiq, and al-Mutawakkil—the brothers continued to acquire great wealth and become influential in court. They used much of their wealth to collect the works of ancient writers, a practise that was later copied by other scholars at the House of Wisdom. The brothers were very active during the reign of al-Mutawakkil, who was interested in mechanics, and asked the Banū Mūsā to write on this subject. A son of al-Mu'tasim was educated by Ahmad, but the brothers' relations with the caliph are otherwise unknown. When close to death, al-Mu'tasim's successor al-Wathiq called together his astrologers, including Muhammed, who erroneously pronounced that the caliph would live for another 50 years.
+
+Involvement in politics
+The Banū Mūsā's employment by the caliphs for different civil engineering projects, including their involvement in the building of the city of al-D̲j̲aʿfariyya for al-Mutawakki, led to them becoming involved in court politics. In 860, the Banū Mūsā and Mutawakkil’s architects were involved in obtaining land for a new city. The caliph’s advisor suggested that Muhammed and Ahmad bin Musa should be forced to contribute towards the expense of a new palace nearby.
+The peak of Muhammad's political activity came towards the end of his life, when Turkish commanders were starting to take control of the state. After the death of al-Mutawakkil, Muhammad helped al-Mustaʿīn to become nominated as caliph. Denied the throne, Al-Mustaʿīn's brother besieged Baghdad, and Muhammad was sent to estimate the size of the attacking army. After the siege, he was sent to find out the terms for al-Mustaʿīn to abdicate.
+
+Jaʻfariyya canal
+It was during the reigns of al-Wathiq and al-Mutawakkil that internal rivalries arose between the scholars there. The Banū Mūsā became enemies of al-Kindi, and assisted in his persecution by al-Mutawakkil. They criticized and ridiculed his treatise on the astrolabe, and caused al-Mutawakkil to have him beaten, removed from court, and his library confiscated. The library was returned back to him at a later date with the help of the Persian Jewish scholar Sanad ibn Ali, who insisted the library was returned as a condition to him assisting the Banū Mūsā over his judgement concerning the construction of a canal for the city of al-Ja’fariyya.
+Shortly before his death, Mutawakkil gave the Banū Mūsā overall responsibility for building the al-Ja’fariyya canal; they in turn delegated the work to Fargftani. The caliph discovered that, due to an engineering error, once built, the water in the canal would drain away. He decreed that the brothers would be crucified beside the canal if this happened. Sanad bin Ah', who was the caliph's consultant engineer, agreed to proclaim—four months before the truth was to be revealed, and knowing that astrologers had predicted that the caliph was close to death—that no error had been made. The brothers were saved from execution when the caliph was assassinated shortly afterwards.
+
+Deaths
+Of the three brothers, only the year that Mohammed died—January 873—is known.
+
+Works
+The Banū Mūsā wrote almost 20 books. Moḥammad was the most productive of the brothers; of his many works, one still exists. They worked together as well as separately: Jafar Muhammad was an expert on mathematics and astronomy, Ahmad excelled in technology, and al-Hasan on mathematics. Muhammed knew the works of both Euclid and Ptolemy, and was considered by contemporaries to be an expert mathematician, astronomer, and philosopher.
+All but three of the books attributed by scholars to the Banū Mūsā are now lost. Many of the lost works are named in the [Book of Ingenious Devices](634), their most famous work.
+
+Astronomy and astrology
+The Banū Mūsā are known to have made many astronomical observations in Baghdad. Kitāb bayyana fīhī bi-ṭarīq taʿlīmī wa-madhhab handasī annahū laysa fī khārij kurat al-kawākib al-thābitah kurah tāsiʿah ("Book on the Mathematical Proof by Geometry that there Is not a Ninth Sphere Outside the Sphere of the Fixed Stars") is a lost book, reportedly written by Ahmed. Also referred to as the Kitāb al-Hay’a ("Book of Astronomy"), or the Kitāb Ḥarakāt al-falak al-ūlā ("Book on the First Motion of the Celestial Sphere"), the work analysed the Ptolemy's geocentric model of the cosmos, in which a ninth sphere is responsible for the motion of the heavens, and instead considered that the Sun, the Moon, the planets, and the stars all moved of their own volition.
+
+The other astronomical or astrological works by the Banū Mūsā are:
+
+Kitāb al-Daraj ("The Book of Degrees");
+Kitāb fī ʿamal al-asṭurlāb ("Book on the Construction of the Astrolabe"), a work quoted by the 11th century Persian scholar al-Biruni;
+Kitāb fī sanat al-shams bil-irṣād ("Book on the Solar Year"), which was once attributed to Thābit ibn Qurra;
+Ruyʾat al-hilāl ʿalá raʾy Abī Jaʿfar ("On the Visibility of the Crescent"), by Muhammad;
+Book on the Beginning of the World, by Muhammad, now lost;
+A non-extant zij (an Islamic astronomical book used to calculate the positions of the Sun and objects in the night sky) by Ahmad was mentioned by the Egyptian astronomer and mathematician Ibn Yunus in his Az-Z0j al-Kabir al-Hdkim, written in c. 990;
+A separate non-extant zij by the Banū Mūsā was mentioned by Ibn Yunus.
+A translation of a Chinese work called A Book of Degrees on the Nature of Zodiacal Signs;
+The calculation by Moḥammad and Aḥmad of the Sun’s mean motion in a year agreed with the result obtained by al-Bīrūnī—that a solar year was 365 days and less than 6 hours long. Aḥmad independently reached a similar conclusion in 851–852. They observed the longitude of Regulus from their house on a bridge in Baghdad in 840–841, 847–848, and 850–851, and made observations of Sirius, Al-Bīrūnī used data about the Moon obtained by the Banū Mūsā in his astrological calculations.
+
+Mathematics
+The Banū Mūsā were some of the earliest scholars to adopt Greek mathematics. They differed from the Greeks in their approaches to the concepts of area and circumference, giving them numerical values rather than considering them in terms of ratios.
+
+Book on the Measurement of Plane and Spherical Figures
+The most important of the works produced by the Banū Mūsā was the Kitāb maʻrifat masāḥat al-ashkāl al-basīṭah wa-al-kurīyah ("Book on the Measurement of Plane and Spherical Figures"), of which a commentary was made by the persian polymath Naṣīr al-Dīn al-Ṭūsī in the 13th century. A Latin translation by the 12th century Italian astrologer Gerard of Cremona appeared entitled Liber trium fratrum de geometria and Verba filiorum Moysi filii Sekir. This treatise on geometry, which is similar to Archimedes's On the measurement of the circle and On the sphere and the cylinder. was used extensively in the Middle Ages, and was quoted by authors such as Thābit ibn Qurra, Ibn al-Haytham, Leonardo Fibonacci (in his Practica geometriae), Jordanus de Nemore, and Roger Bacon. It includes theorems not known to the Greeks. The book was re-published in Latin with an English translation by the American historian Marshall Clagett, who has also summarized how the work influenced mathematicians during the Middle Ages.
+
+Other mathematical works
+The other known mathematical works by the Banū Mūsā were:
+
+Three works relating to Conic Sections, a book by the astronomer Apollonius of Perga. Conic Sections was first translated to Arabic by Hilāl al-ḥimṣī and Thābit ibn Qurra. One of these three works, lī-kitāb Abulūnyūs fī al-maḫrūṭāt ("Conic Sections of Apollonius"), by Muhammed, was a recension of Apollonius's book.
+Kitāb al-shakl al-mudawwar al-mustaṭīl ("The Book of the Elongated Circular Figure"), a mathematical treatise by al-Hasan—and the only one that is attributed to him— now lost. It contained a description of a procedure used to draw an ellipse using a length of string, a technique that is now known as the "gardener's construction";
+Fī tathlīth al-zāwiyah or Qawl Aḥmad ibn Shākir fī tathlīth al-zāwiyah ("Reasoning on the Trisection of an Angle"), by Aḥmad; The treatise attempted to solve the classical problem of trisecting an angle. The manuscript and medieval Latin translations are extant. The two known manuscripts containing the treatise, MS. Marsh 720 and MS. Thurston 3, are held in the Bodleian Library at Oxford University.
+Kitāb al-shakl al-handasī alladhī bayyanahu Jālīnūs ("Book on a Geometric Proposition Proved by Galen"). A lost book by Muhammed.
+
+Technology
+The [Book of Ingenious Devices](634)
+Kitab al-Hiyal al-Naficah ("The [Book of Ingenious Devices](634)"), the only surviving work by Aḥmad, describes 100 inventions, 25 of which had a practical use. These include mechanical fountains, a "hurricane" lamp, self-trimming and self-feeding lamps, a form of gas mask for use underground, and a grabbing tool, constructed in the same way as a modern clamshell grab, for recovering underwater objects. The book's other inventions are ingeniously built pouring vessels, designed to puzzle guests at parties. It is thought that some of these models were never constructed.
+The inventions employ innovative engineering ideas, such as automatic one-way and two-way valves, mechanical memories, devices capable of responding to feedback, and delay mechanisms. Most of them were operated by water pressure. The trick vessels are unimportant in themselves; their significance for historians of engineering is the means by which they were developed. Many of Ahmad's ideas were obtained from Greek texts such as Philo of Byzantium's Pneumatics (3rd century BCE) and Hero of Alexandria's Pneumatics  (written in the 1st century CE). However, some of the devices, particularly when involving small variations in fluid pressure, and automatic control components such as valves, were developed by the Banū Mūsā.
+The most important copies of the Kitab al-Hiyal al-Naficah are:
+
+a complete manuscript held at the Vatican Library (no. 317);
+a manuscript in two parts kept at the Berlin State Library (Ahlward No. 5562) and Gotha (Pertsch No. 1349);
+the manuscript at the Topkapi Sarayi (A 3474), which is both the oldest and most reliable of the all the extant copies of the work.
+
+Other works
+The other technology-based works by the Banū Mūsā were:
+
+Kitāb fī al-qarasṭūn ("A Book on the Qarasṭūn"), a treatise on the weight balance, or steelyard. Thabit bin Qurra also wrote a book on the steelyard.
+A Book on the Description of the Instrument Which Sounds by Itself. A copy of the manuscript is held in Beirut. The Banū Mūsā are credited with inventing the first music sequencer, as described in the manuscript, as an example of an early type of programmable machine.
+Kitāb al-masʾalah allatī alqāhā ʿalá Sanad ibn ʿAlī, a  treatise containing a discussion between Ahmad and Sanad ibn Ali, possibly about the difficulties encountered by the Banū Mūsā due to the failure by their agent Al-Farghani to properly build the Jaʻfariyya canal.
+
+See also
+Inventions in the Muslim world
+Mathematics in the medieval Islamic world
+Science in the medieval Islamic world
+
+Notes
+References
+Sources
+Bennison, Amira K. (2009). The Great Caliphs: The Golden Age of the 'Abbasid Empire. New Haven, Connecticut: Yale University Press. ISBN 978-03001-5-227-2.
+Bir, Atilla (1990). The Book "Kitab Al-Hiyal" of Banu Musa Bin Shakir, interpreted in Sense of Modern System and Control Engineering. Istanbul: Research Centre for Islamic History, Art and Culture. OCLC 24991757.
+Blake, Stephen P. (2016). Astronomy and Astrology in the Islamic World. Edinburgh: Edinburgh University Press. ISBN 978-07486-4-911-2.
+Casulleras, Josep (2007). "Wābkanawī: Shams al-Munajjim Shams al-Dīn Muḥammad ibn ҁAlī Khwāja al-Wābkanawī Wābkanawī". In Hockey, Thomas; et al. (eds.). The Biographical Encyclopedia of Astronomers. Springer Publishers. pp. 92–94. doi:10.1007/978-0-387-30400-7_1433. ISBN 978-0-387-31022-0. (PDF version)
+al-Dabbagh, J. (1970). "Banū Mūsā". In Gillispie, Charles Coulston; Holmes, Frederic Lawrence (eds.). Dictionary of Scientific Biography. Vol. 1. New York: Scribner. ISBN 9780684101149. OCLC 755137603.
+Gutas, Dimitri (1998). Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early ʻAbbāsid Society (2nd–4th/8th-10th centuries). New York: Routledge. ISBN 978-0-415-06132-2.
+Hajar, Rachel (2013). "The Air of History Part III: The Golden Age in Arab Islamic Medicine An Introduction". Heart Views. 14 (1): 43–46. doi:10.4103/1995-705X.107125. ISSN 1995-705X. PMC 3621228. PMID 23580929.
+Hill, Donald R. (1991). "Mechanical Engineering in the Medieval Near East". Scientific American. 264 (5): 100–105. doi:10.1038/scientificamerican0591-100. ISSN 0036-8733. JSTOR 24936907.
+Hill, Ronald R. (2008). "Banū Mūsā". In Selin, Helaine (ed.). Encyclopaedia Of The History Of Science, Technology, And Medicine Non Western Cultures. Vol. 1. Brill Publishers.
+Kennedy, Edward Stewart (1956). "A Survey of Islamic Astronomical Tables". Transactions of the American Philosophical Society. New Series. 46 (2). Philadelphia, Pennsylvania: American Philosophical Society: 123–177. doi:10.2307/1005726. hdl:2027/mdp.39076006359272. ISSN 0065-9746. JSTOR 1005726.
+al-Khalili, Jim (2011). The House of Wisdom: How Arabic Science Saved Ancient Knowledge and Gave us the Renaissance. New York: Penguin Press. ISBN 978-15942-0-279-7.
+Long, Jason; Murphy, Jim; Carnegie, Dale; Kapur, Ajay (2017). "Loudspeakers Optional: A history of non-loudspeaker-based electroacoustic music". Organised Sound. 22 (2): 195–205. doi:10.1017/S1355771817000103. S2CID 143427257.
+Masood, Ehsan (2009). Science & Islam: A History. London: Icon Books. ISBN 978-18483-1-081-0.
+Meri, Josef W., ed. (2005). Medieval Islamic Civilization: An Encyclopedia. Taylor & Francis. ISBN 978-11354-5-596-5.
+Palmeri, JoAnn (2007). "Wābkanawī: Shams al-Munajjim Shams al-Dīn Muḥammad ibn ҁAlī Khwāja al-Wābkanawī Wābkanawī". In Hockey, Thomas; et al. (eds.). The Biographical Encyclopedia of Astronomers. Springer Publishers. pp. 1129–1130. doi:10.1007/978-0-387-30400-7_1433. ISBN 978-0-387-31022-0.
+Pingree, David (1988). "Banū Mūsā". Encyclopædia Iranica.
+Rashed, Roshdi (2014). Classical Mathematics from Al-Khwarizmi to Descartes. Translated by Shank, Michael H. New York: Routledge. ISBN 978-13176-2-239-0.
+
+Further reading
+Chaarani, Mona Sanjakdar (24 June 2021). "The Automatic Mechanical Hydraulic Organ of the Banu Musa ibn Shakir". Muslim Heritage. Foundation for Science, Technology and Civilisation, UK (FSTCUK). Retrieved 21 March 2023.
+al-Hassini, Salam T.S., ed. (2012). 1001 Inventions: The Enduring Legacy of Muslim Civilization (3rd ed.). Washington, DC: National Geographic Society. ISBN 978-1-4262-0934-5 – via Internet Archive.
+Rashed, Roshdi, ed. (2009). Encyclopedia of the History of Arabic Science. Vol. 2. London; New York: Routledge. ISBN 978-0-203-40360-0.
+Rashed, Roshdi (2012). El-Bizri, Nader (ed.). Founding Figures and Commentators in Arabic Mathematics: A History of Arabic Sciences and Mathematics. Vol. 1. Abingdon, UK; New York: Routledge. ISBN 978-11366-2-000-3.
+
+Digitized manuscripts and translations
+Manuscript facsimile of the Kitāb al-Daraj held in the Princeton University Library (Islamic Manuscripts, Garrett no. 501H)
+The [Book of Ingenious Devices](634):
+A manuscript facsimile held in the Vatican Library (Manuscript Vaticani Arabi 317), a copy of which was made by the philosopher al ‘Afrit.
+A manuscript facsimile held at the Berlin State Library (Ms. or. quart. 739).
+A manuscript facsimile held at the University of Erfurt (Ms. orient. A 1349).
+A manuscript facsimile of Kitāb al-mutawassiṭāt kept at Columbia University, New York (via the Internet Archive). The treatise Kitāb maʻrifat masāḥat al-ashkāl al-basīṭah wa-al-kurīyah is located from pp. 253–265 (f. 116 to 122).
+
+Translations
+Hill, Donald R., ed. (1979) 9th century. The [Book of Ingenious Devices](634). Dortrecht, Netherlands; Boston; London: D. Reidel. ISBN 978-90277-0-833-5. (PDF version)
+Muḥammad ibn MūsáIbn Shākir; Gerard of Cremona; Curtze, M. (1885) before 873. Der liber trium fratrum de geometria. Nova acta der KSL. Leop.-Carol. Deutschen akademie der naturforscherbd. 49. Nr. 2 (in Latin and German). Halle: Druck von E. Blochmann & sohn – via Hathi Trust Digital Library.
+Rosen, Frederic, ed. (1831). The Algebra of Mohammed ben Musa. Translated by Rosen, Frederic. London: John Murray. OCLC 1039506129.
+
+External links
+ Media related to Banū Mūsā at Wikimedia Commons
+A list of works by the Banū Mūsā from the Islamic Scientific Manuscripts Initiative (ISMI) website
+Pioneers of Engineering: Al-Jazari and the Banu Musa TV episode from Al Jazeera (25 minutes)
+Meier, Allison (12 April 2016). "The 9th-Century Islamic "Instrument Which Plays by Itself"". Hyperallergic. Retrieved 21 March 2023.

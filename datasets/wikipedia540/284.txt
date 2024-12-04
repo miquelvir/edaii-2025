@@ -1,0 +1,52 @@
+284
+Agronomy
+Agronomy is the science and technology of producing and using plants by agriculture for food, fuel, fiber, chemicals, recreation, or land conservation. Agronomy has come to include research of plant genetics, plant physiology, meteorology, and soil science. It is the application of a combination of sciences such as biology, chemistry, economics, ecology, earth science, and genetics. Professionals of agronomy are termed agronomists.
+
+History
+Agronomy has a long and rich history dating to the Neolithic Revolution. Some of the earliest practices of agronomy are found in ancient civilizations, including Ancient Egypt, Mesopotamia, China and India. They developed various techniques for the management of soil fertility, irrigation and crop rotation.
+During the 18th and 19th centuries, advances in science led to the development of modern agronomy. German chemist Justus von Liebig and John Bennett Lawes, an English entrepreneur, contributed to the understanding of plant nutrition and soil chemistry. Their work laid for the establishment of modern fertilizers and agricultural practices.
+Agronomy continued to evolve with the development of new technology and practices in the 20th century. From the 1960s, the Green Revolution saw the introduction of high-yield variety of crops, modern fertilizers and improvement of agricultural practices. It led to an increase of global food production to help reduce hunger and poverty in many parts of the world.
+
+Plant breeding
+This topic of agronomy involves selective breeding of plants to produce the best crops for various conditions. Plant breeding has increased crop yields and has improved the nutritional value of numerous crops, including corn, soybeans, and wheat. It has also resulted in the development of new types of plants. For example, a hybrid grain named triticale was produced by crossbreeding rye and wheat. Triticale contains more usable protein than does either rye or wheat. Agronomy has also been instrumental for fruit and vegetable production research. Furthermore, the application of plant breeding for turfgrass development has resulted in a reduction in the demand for fertilizer and water inputs (requirements), as well as turf-types with higher disease resistance.
+
+Biotechnology
+Agronomists use biotechnology to extend and expedite the development of desired characteristics.  Biotechnology is often a laboratory activity requiring field testing of new crop varieties that are developed.
+In addition to increasing crop yields agronomic biotechnology is being applied increasingly for novel uses other than food. For example, oilseed is at present used mainly for margarine and other food oils, but it can be modified to produce fatty acids for detergents, substitute fuels and petrochemicals.
+
+Soil science
+Agronomists study sustainable ways to make soils more productive and profitable. They classify soils and analyze them to determine whether they contain nutrients vital for plant growth. Common macronutrients analyzed include compounds of nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur. Soil is also assessed for several micronutrients, like zinc and boron. The percentage of organic matter, soil pH, and nutrient holding capacity (cation exchange capacity) are tested in a regional laboratory. Agronomists will interpret these laboratory reports and make recommendations to modify soil nutrients for optimal plant growth.
+
+Soil conservation
+Additionally, agronomists develop methods to preserve soil and decrease the effects of erosion by wind and water. For example, a technique known as contour plowing may be used to prevent soil erosion and conserve rainfall. Researchers of agronomy also seek ways to use the soil more effectively for solving other problems. Such problems include the disposal of human and animal manure, water pollution, and pesticide accumulation in the soil, as well as preserving the soil for future generations such as the burning of paddocks after crop production. Pasture management techniques include no-till farming, planting of soil-binding grasses along contours on steep slopes, and using contour drains of depths as much as 1 metre.
+
+Agroecology
+Agroecology is the management of agricultural systems with an emphasis on ecological and environmental applications. This topic is associated closely with work for sustainable agriculture, organic farming, and alternative food systems and the development of alternative cropping systems.
+
+Theoretical modeling
+Theoretical production ecology is the quantitative study of the growth of crops. The plant is treated as a kind of biological factory, which processes light, carbon dioxide, water, and nutrients into harvestable products. The main parameters are temperature, sunlight, standing crop biomass, plant production distribution, and nutrient and water supply.
+
+See also
+Agricultural engineering
+Agricultural policy
+Agroecology
+Agrophysics
+Crop farming
+Food systems
+Horticulture
+Green Revolution
+Vegetable farming
+
+References
+Bibliography
+Wendy B. Murphy, The Future World of Agriculture, Watts, 1984.
+Antonio Saltini, Storia delle scienze agrarie, 4 vols, Bologna 1984–89, ISBN 88-206-2412-5, ISBN 88-206-2413-3, ISBN 88-206-2414-1, ISBN 88-206-2415-X
+
+External links
+
+The American Society of Agronomy (ASA)
+Crop Science Society of America (CSSA)
+Soil Science Society of America (SSSA)
+European Society for Agronomy
+The National Agricultural Library (NAL) – Comprehensive agricultural library.
+Information System for Agriculture and Food Research

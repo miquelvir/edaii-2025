@@ -1,0 +1,130 @@
+924
+Bulldozer (microarchitecture)
+The AMD Bulldozer Family 15h is a microprocessor microarchitecture for the FX and Opteron line of processors, developed by AMD for the desktop and server markets. Bulldozer is the codename for this family of microarchitectures. It was released on October 12, 2011, as the successor to the K10 microarchitecture.
+Bulldozer is designed from scratch, not a development of earlier processors. The core is specifically aimed at computing products with TDPs of 10 to 125 watts. AMD claims dramatic performance-per-watt efficiency improvements in high-performance computing (HPC) applications with Bulldozer cores.
+The Bulldozer cores support most of the instruction sets implemented by Intel processors (Sandy Bridge) available at its introduction (including SSSE3, SSE4.1, SSE4.2, AES, CLMUL, and AVX) as well as new instruction sets proposed by AMD; ABM, XOP, FMA4 and F16C. Only Bulldozer GEN4 (Excavator) supports AVX2 instruction sets.
+
+Overview
+According to AMD, Bulldozer-based CPUs are based on GlobalFoundries' 32 nm Silicon on insulator (SOI) process technology and reuses the approach of DEC for multitasking computer performance with the arguments that it, according to press notes, "balances dedicated and shared computer resources to provide a highly compact, high units count design that is easily replicated on a chip for performance scaling." In other words, by eliminating some of the "redundant" elements that naturally creep into multicore designs, AMD has hoped to take better advantage of its hardware capabilities, while using less power.
+Bulldozer-based implementations built on 32nm SOI with HKMG arrived in October 2011 for both servers and desktops. The server segment included the dual chip (16-core) Opteron processor codenamed Interlagos (for Socket G34) and single chip (4, 6 or 8 cores) Valencia (for Socket C32), while the Zambezi (4, 6 and 8 cores) targeted desktops on Socket AM3+.
+Bulldozer is the first major redesign of AMD’s processor architecture since 2003, when the firm launched its K8 processors, and also features two 128-bit FMA-capable FPUs which can be combined into one 256-bit FPU. This design is accompanied by two integer clusters, each with 4 pipelines (the fetch/decode stage is shared). Bulldozer also introduced shared L2 cache in the new architecture. AMD calls this design a "Module". A 16-core processor design would feature eight of these "modules", but the operating system will recognize each "module" as two logical cores.
+The modular architecture consists of multithreaded shared L2 cache and FlexFPU, which uses simultaneous multithreading. Each physical integer core, two per module, is single threaded, in contrast with Intel's Hyperthreading, where two virtual simultaneous threads share the resources of a single physical core.
+In a retrospective review, Jeremy Laird of APC magazine commented on Bulldozer issues, noted that it was slower than outgoing Phenom II K10 design, and that the PC software ecosystem had not yet "embraced" the multi-threaded model. By his observation, issues caused a big loss for AMD, that the company lost over 1 billion USD in 2012, and that some industry observers were predicting the bankruptcy by mid-2015. The company later managed to return to profit. Mentioned reasons for regaining the profitability were the earlier divesting of in-house manufacturing into GlobalFoundries and then outsourcing the manufacturing to TSMC and making a new Ryzen CPU design.
+
+Architecture
+Bulldozer core
+Bulldozer made use of "Clustered Multithreading" (CMT), a technique where some parts of the processor are shared between two threads and some parts are unique for each thread. Prior examples of such an approach to unconventional multithreading can be traced way back to the 2005 Sun Microsystems' UltraSPARC T1 CPU.
+In terms of hardware complexity and functionality, a Bulldozer CMT module is equal to a dual-core processor in its integer calculation capabilities, and to either a single-core processor or a handicapped dual-core in terms of floating-point computational power, depending on whether the code is saturated in floating point instructions in both threads running on the same CMT module, and whether the FPU is performing 128-bit or 256-bit floating point operations. The reason for this is that for each two integer cores, that is, within the same module, there is a single floating-point unit consisting of a pair of 128-bit FMAC execution units.
+CMT is in some way a simpler but similar design philosophy to SMT; both designs try to utilize execution units efficiently; in either method, when two threads compete for some execution pipelines, there is a loss in performance in one or more of the threads. Due to dedicated integer cores, the Bulldozer family modules performed roughly like a dual-core, dual-threaded processor during sections of code that were either wholly integer or a mix of integer and floating-point calculations; yet, due to the SMT use of the shared floating-point pipelines, the module would perform similarly to a single-core, dual-threaded SMT processor (SMT2) for a pair of threads saturated with floating-point instructions. (Both of these last two comparisons make the assumption that the processor possesses an equally wide and capable execution core, integer-wise and floating-point-wise, respectively.)
+Both CMT and SMT are at peak effectiveness while running integer and floating point code on a pair of threads. CMT stays at peak effectiveness while working on a pair of threads consisting both of integer code, while under SMT, one or both threads will underperform due to competition for integer execution units. The disadvantage for CMT is a greater number of idle integer execution units in a single threaded case. In the single threaded case, CMT is limited to use at most half of the integer execution units in its module, while SMT imposes no such limit. A large SMT core with integer circuitry as wide and fast as two CMT cores could in theory have momentarily up to twice an integer performance in a single thread case. (More realistically for general code as a whole, Pollack's Rule estimates a speedup factor of 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  
+, or approximately 40% increase in performance.)
+CMT processors and a typical SMT processor are similar in their efficient shared use of the L2 cache between a pair of threads.
+
+A module consists of a coupling of two "conventional" x86 out of order processing cores. The processing core shares the early pipeline stages (e.g. L1i, fetch, decode), the FPUs, and the L2 cache with the rest of the module.
+Each module has the following independent hardware resources:
+16 KB 4-way of L1d (way-predicted) per core and 2-way 64 KB of L1i per module, one way for each of the two cores
+2 MB of L2 cache per module (shared between the two integer cores)
+Write Coalescing Cache is a special cache that is part of L2 cache in Bulldozer microarchitecture. Stores from both L1D caches in the module go through the WCC, where they are buffered and coalesced. The WCC's task is reducing number of writes to the L2 cache.
+Two dedicated integer cores
+– each one includes two ALU and two AGU which are capable of a total of four independent arithmetic and memory operations per clock and per core
+– duplicating integer schedulers and execution pipelines offers dedicated hardware to each of two threads which double performance for multi-threaded integer loads
+– the second integer core in the module increases the Bulldozer module die by around 12%, which at chip level adds about 5% of total die space
+Two symmetrical 128-bit FMAC (fused multiply–add capability) floating-point pipelines per module that can be unified into one large 256-bit-wide unit if one of the integer cores dispatches AVX instruction and two symmetrical x87/MMX/SSE capable FPPs for backward compatibility with SSE2 non-optimized software. Each FMAC unit is also capable of division and square root operations with variable latency.
+All modules present share the L3 cache as well as an Advanced Dual-Channel Memory Sub-System (IMC – Integrated Memory Controller).
+A module has 213 million transistors in an area of 30.9 mm² (including the 2 MB shared L2 cache) on an Orochi die.
+The pipeline depth of Bulldozer (as well as Piledriver and Steamroller) is 20 cycles, compared to 12 cycles of the K10 core predecessor.
+The longer pipeline allowed the Bulldozer family of processors to achieve a much higher clock frequency compared to its K10 predecessors. While this increased frequencies and throughput, the longer pipeline also increased latencies and increased branch misprediction penalties.
+
+The width of the Bulldozer integer core, four (2 ALU, 2 AGU), is somewhat less than the width of the K10 core, six (3 ALU, 3 AGU). Bobcat and Jaguar also used a four wide integer core, yet with lighter execution units: 1 ALU, 1 simple ALU, 1 load AGU, 1 store AGU.
+The issue widths (and peak instruction executions per cycle) of a Jaguar, K10, and Bulldozer core are 2, 3, and 4 respectively. This made Bulldozer a more superscalar design compared to Jaguar/Bobcat. However, due to K10's somewhat wider core (in addition to the lack of refinements and optimizations in a first generation design) the Bulldozer architecture typically performed with somewhat lower IPC compared to its K10 predecessors. It was not until the refinements made in Piledriver and Steamroller, that the IPC of the Bulldozer family distinctly began to exceed that of K10 processors such as Phenom II.
+
+Branch predictor
+Two-level Branch Target Buffer(BTB)
+Hybrid predictor for conditionals
+Indirect predictor
+
+Instruction set extensions
+Support for Intel's Advanced Vector Extensions (AVX) instruction set, which supports 256-Bit floating point operations, and SSE4.1, SSE4.2, AES, CLMUL, as well as future 128-bit instruction sets proposed by AMD (XOP, FMA4, and F16C), which have the same functionality as the SSE5 instruction set formerly proposed by AMD, but with compatibility to the AVX coding scheme.
+Bulldozer GEN4 (Excavator) supports AVX2 instruction sets.
+
+Process technology and clock frequency
+11-metal layer 32 nm SOI process with implemented first generation GlobalFoundries's High-K Metal Gate (HKMG)
+Turbo Core 2 performance boost to increase clock frequency up to 500 MHz with all threads active (for most workloads) and up to 1 GHz with the half of the thread active, within the TDP limit.
+The chip operates at 0.775 to 1.425 V, achieving clock frequencies of 3.6 GHz or more
+Min-Max TDP: 25 – 140 watts
+
+Cache and memory interface
+Up to 8 MB of L3 shared among all cores on the same silicon die (8 MB for 4 cores in Desktop segment and 16 MB for 8 cores in the Server segment), divided into four subcaches of 2 MB each, capable of operating at 2.2 GHz at 1.1125 V
+Native DDR3 memory support up to DDR3-1866
+Dual Channel DDR3 integrated memory controller for Desktop and Server/Workstation Opteron 42xx "Valencia"; Quad Channel DDR3 Integrated Memory Controller for Server/Workstation Opteron 62xx "Interlagos"
+AMD claims support for two DIMMs of DDR3-1600 per channel. Two DIMMs of DDR3-1866 on a single channel will be down-clocked to 1600.
+
+I/O and socket interface
+HyperTransport Technology rev. 3.1 (3.20 GHz, 6.4 GT/s, 25.6 GB/s & 16-bit wide link) first implemented into HY-D1 revision "Magny-Cours" on the socket G34 Opteron platform in March 2010 and "Lisbon" on the socket C32 Opteron platform in June 2010
+Socket AM3+ (AM3r2)
+942-pin, DDR3 support only
+Will retain backward compatibility with Socket AM3 motherboards (as per motherboard manufacturer choice and if BIOS updates are provided), however this not officially supported by AMD; AM3+ motherboards will be backward-compatible with AM3 processors.
+For the server segment, the existing socket G34 (LGA1974) and socket C32 (LGA1207) will be used.
+
+Features
+Processors
+The first revenue shipments of Bulldozer-based Opteron processors was announced on September 7, 2011. The FX-4100, FX-6100, FX-8120 and FX-8150 were released in October 2011; with remaining FX series AMD processors released at the end of the first quarter of 2012.
+
+Desktop
+Major Sources: CPU-World and Xbit-Labs
+
+Server
+There are two series of Bulldozer-based processors for servers: Opteron 4200 series (Socket C32, code named Valencia, with up to four modules) and Opteron 6200 series (Socket G34, code named Interlagos, with up to 8 modules).
+
+False advertising lawsuit
+In November 2015, AMD was sued under the California Consumers Legal Remedies Act and Unfair Competition Law for allegedly misrepresenting the specifications of Bulldozer chips. The class-action lawsuit, filed on 26 October in the US District Court for the Northern District of California, claims that each Bulldozer module is in fact a single CPU core with a few dual-core traits, rather than a true dual-core design. In August 2019, AMD agreed to settle the suit for $12.1M.
+
+Performance
+Performance on Linux
+On 24 October 2011, the first generation tests done by Phoronix confirmed that the performance of Bulldozer CPU was somewhat less than expected. In several tests, the CPU performed similarly to the older generation Phenom 1060T.
+The performance later substantially increased, as various compiler optimizations and CPU driver fixes were released.
+
+Performance on Windows
+The first Bulldozer CPUs were met with a mixed response. It was discovered that the FX-8150 performed poorly in benchmarks that were not highly threaded, falling behind the second-generation Intel Core i* series processors and being matched or even outperformed by AMD's own Phenom II X6 at lower clock speeds. In highly threaded benchmarks, the FX-8150 performed on par with the Phenom II X6, and the Intel Core i7 2600K, depending on the benchmark. Given the overall more consistent performance of the Intel Core i5 2500K at a lower price, these results left many reviewers underwhelmed. The processor was found to be extremely power-hungry under load, especially when overclocked, compared to Intel's Sandy Bridge.
+On 13 October 2011, AMD stated on its blog that "there are some in our community who feel the product performance did not meet their expectations", but showed benchmarks on actual applications where it outperformed the Sandy Bridge i7 2600k and AMD X6 1100T.
+In January 2012, Microsoft released two hotfixes for Windows 7 and Server 2008 R2 that marginally improve the performance of Bulldozer CPUs by addressing the thread scheduling concerns raised after the release of Bulldozer.
+On 6 March 2012, AMD posted a knowledge base article stating that there was a compatibility problem with FX processors, and certain games on the widely used digital game distribution platform, Steam. AMD stated that they had provided a BIOS update to several motherboard manufacturers (namely: Asus, Gigabyte Technology, MSI, and ASRock) that would fix the problem.
+In September 2014, AMD CEO Rory Read conceded the Bulldozer design had not been a "game-changing part", and that AMD had to live with the design for four years.
+
+Overclocking
+On 31 August 2011, AMD and a group of well-known overclockers including Brian McLachlan, Sami Mäkinen, Aaron Schradin, and Simon Solotko managed to set a new world record for CPU frequency using the unreleased and overclocked FX-8150 Bulldozer processor. Before that day, the record sat at 8.309 GHz, but the Bulldozer combined with liquid helium cooling reached a new high of 8.429 GHz. The record has since been overtaken at 8.58 GHz by Andre Yang using liquid nitrogen. On August 22, 2014 and using an FX-8370 (Piledriver), The Stilt from Team Finland achieved a maximum CPU frequency of 8.722 GHz.
+The CPU clock frequency records set by overclocked Bulldozer CPUs were only broken almost a decade later by overclocks of Intel's 13th generation Core Raptor Lake CPUs in October 2022.
+
+Revisions
+Piledriver is the AMD codename for its improved second-generation microarchitecture based on Bulldozer. AMD Piledriver cores are found in Socket FM2 Trinity and Richland based series of APUs and CPUs and the Socket AM3+ Vishera based FX-series of CPUs. Piledriver was the last generation in the Bulldozer family to be available for socket AM3+ and to be available with an L3 cache. The Piledriver processors available for FM2 (and its mobile variant) sockets did not come with a L3 cache, as the L2 cache is the last-level cache for all FM2/FM2+ processors.
+Steamroller is the AMD codename for its third-generation microarchitecture based on an improved version of Piledriver. Steamroller cores are found in the Socket FM2+ Kaveri based series of APUs and CPUs.
+Excavator is the codename for the fourth-generation Bulldozer core. Excavator was implemented as 'Carrizo' A-series APUs, "Bristol Ridge" A-series APUs, and Athlon x4 CPUs.
+
+See also
+List of AMD CPU microarchitectures
+List of AMD FX microprocessors
+Charles R. Moore (computer engineer)
+Alpha 21264
+K10 (microarchitecture)
+Bobcat (microarchitecture)
+Opteron
+Piledriver (microarchitecture)
+Steamroller (microarchitecture)
+Excavator (microarchitecture)
+Zen (microarchitecture)
+
+References
+External links
+www.amd.com/en-us/products/processors/desktop/fx

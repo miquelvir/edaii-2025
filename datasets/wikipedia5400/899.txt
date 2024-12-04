@@ -1,0 +1,27 @@
+899
+Common Weakness Enumeration
+The Common Weakness Enumeration (CWE) is a category system for hardware and software weaknesses and vulnerabilities. It is sustained by a community project with the goals of understanding flaws in software and hardware and creating automated tools that can be used to identify, fix, and prevent those flaws.  The project is sponsored by the office of the U.S. Department of Homeland Security (DHS) Cybersecurity and Infrastructure Security Agency (CISA), which is operated by The MITRE Corporation, with support from US-CERT and the National Cyber Security Division of the U.S. Department of Homeland Security.
+Version 4.15 of the CWE standard was released in July 2024.
+CWE has over 600 categories, including classes for buffer overflows, path/directory tree traversal errors, race conditions, cross-site scripting, hard-coded passwords, and insecure random numbers.
+
+Examples
+CWE category 121 is for stack-based buffer overflows.
+
+CWE compatibility
+Common Weakness Enumeration (CWE) Compatibility program allows a service or a product to be reviewed and registered as officially "CWE-Compatible" and "CWE-Effective". The program assists organizations in selecting the right software tools and learning about possible weaknesses and their possible impact.
+In order to obtain CWE Compatible status a product or a service must meet 4 out of 6 requirements, shown below:
+
+There are 56 organizations as of September 2019 that develop and maintain products and services that achieved CWE Compatible status.
+
+Research, critiques, and new developments
+Some researchers think that ambiguities in CWE can be avoided or reduced.
+
+See also
+Common Vulnerabilities and Exposures (CVE)
+Common Vulnerability Scoring System (CVSS)
+National Vulnerability Database
+
+References
+External links
+Certifying Applications for Known Security Weaknesses. The Common Weakness Enumeration (CWE) Effort // 6 March 2007
+"Classes of Vulnerabilities and Attacks" (PDF). Wiley Handbook of Science and Technology for Homeland Security. comparison of different vulnerability Classifications. Archived from the original (PDF) on 2016-03-22.{{cite web}}:  CS1 maint: others (link)

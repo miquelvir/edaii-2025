@@ -1,0 +1,66 @@
+2566
+Curly top
+Curly top is a viral disease that affects many crops. This disease causes plants to become smaller in size, have shriveled petals and leaves, and are twisted and pulled out of shape. They are often caused by curtoviruses (genus Curtovirus), members of the virus family Geminiviridae. This disease is important in western United States, such as California, Utah, Washington, and Idaho.
+Curly top is characterized by stunting of the plant and deformation of leaves and fruit. The petioles and blades of the leaves curl, twist, and become discolored.
+
+Beet curly top virus causes curly top disease in beets and is carried by the beet leafhopper (Circulifer tenellus) throughout arid and semi-arid locations. The term curly top virus often refers to this specific virus. It can also cause curly top in tomatoes, beans, cucurbits, and other crops. This disease can be reduced if plants are planted in the shade because the beet leafhoppers and other insects like to feed on these plants in the sun.
+Curly top disease in spinach can be caused by Beet curly top virus, Pepper curly top virus, or Spinach curly top virus.
+Other curly top curtoviruses include Beet severe curly top virus, Beet mild curly top virus, and Horseradish curly top virus.  Turnip curly top virus may also be a species of Curtovirus.
+
+Discovery of Curly Top
+Knowledge of curly top's early history in the United States is limited owing to its sharing similar symptoms with other diseases and disorders. According to C. O. Townsend, George G. Hedgecock with the USDA reported that, on several occasions before 1888, he observed damaging outbreaks of a disease presumed to be curly top from garden beets in Nebraska. In 1897, George Austin stated that the Utah Sugar Company suffered overwhelming losses near Lehi, UT from an unidentified disorder resembling curly top.
+The disease also was noticed in California in the 1890s, with severe losses reported from the newly emerging sugar beet industry in that state. By 1900, it had been noted throughout all western states where sugar beets were grown, suggesting it was already widely distributed before it was first recognized or studied as a distinct disease.
+This hypothesis is conceivable because the first description of the beet leafhopper on sugar beets was made from the western slope of Colorado in 1895 by C. P. Gillette and C. F. Baker. As early as 1905, E. D. Ball suspected the beet leafhopper in the spread and development of sugar beet curly top disease in Utah. However, he did not attribute the appearance of the disease to any viral or pathogenic entity, figuring that the damage was directly caused by the feeding injury induced by the insect.
+It was not until 1915 that the relationship between the vector and the virus in causing disease was irrefutably established by P. A. Boucquet and W. J. Hartung. They showed that after leafhoppers taken from the wild with no previous contact with sugar beets were allowed to feed on beets, no disease ensued. But when they were allowed to feed on beets with symptoms of curly top for 3–7 days, curly top symptoms appeared on previously healthy beets after leafhoppers were transferred and granted time to feed.
+The discovery of curly top transmission by leafhoppers strongly suggested a viral etiology; however, the pathogen's identity was not formally established until the 1970s. The typically low concentration of virus particles within infected plants made isolation and purification difficult. Therefore, it was not until 1974 that a virus was formally proven to be the cause of the disease, after advancements in virus purification were made and the characteristic twinned particles of geminiviruses were observed with electron microscopy.
+
+Strains
+There are many strains of curly top virus. They are CA/Logan = California/Logan, CO = Colorado, Kim1 = Kimberly1, LH71 = Leafhopper 71, Mld = Mild, PeCT = Pepper curly top, PeYD = Pepper yellow dwarf, Svr = Severe (formerly CFH), SvrPep = Severe pepper, SpCT = Spinach curly top, and Wor = Worland.
+
+Structure and replication
+The genome of curtoviruses consists of a single circular ssDNA component of 2.9–3.0 kb, encoding six to seven proteins. The three ORFs encoded on the virion-sense strand are the coat protein (CP, ORF V1), which encapsidates the virion-sense ssDNA and is involved in virus movement and insect vector transmission, a movement protein (MP, ORF V2), and V3, which is involved in the regulation of the relative levels of ssDNA and dsDNA. The complementary-sense strand encodes the replication-associated protein (Rep, ORF C1), which is required for the initiation of viral DNA replication, the C2 protein (ORF C2), which acts as a pathogenicity factor in some hosts, a replication enhancer protein (REn, ORF C3), and the C4 protein (ORF C4), which is an important symptom determinant implicated in cell-cycle control (Hanley-Bowdoin et al., 2013). Nucleotide sequence comparisons suggest that curtoviruses and begomoviruses diverged after a recombination event altered insect vector specificity (Rybicki 1994).
+
+Vector Behavior and Disease Epidemiology
+Before the development of commercialized agriculture in the western United States, the native flora did not support large, economically damaging populations of the beet leafhopper. Conditions favoring the insect modified this dynamic with the changes in agriculture, including sporadic, intermittent farming and overgrazing of rangeland. This series of factors resulted in the disappearance of previously stable plant populations that were replaced by various winter and summer annual weed species. The weed hosts that succeeded the original plant species included mustards (Brassica spp.), Russian thistle (Salsola tragus), filaree (Erodium spp.), and Plantago spp. These widespread weeds became the preferred leafhopper hosts resulting in more frequent and severe epidemics.
+In the fall as crops senesce, the leafhopper vector moves to breeding areas in the foothills away from cultivated fields, overwintering on various biennials and perennials. Winter rainfall results in the germination and emergence of several annuals that serve as sites of leafhopper reproduction. The leafhopper moves to these annual plant species and lays eggs. In spring as plants in breeding areas dry, the leafhopper moves back to agricultural lands. The severity of infection depends on climatic factors affecting the presence of weed hosts, the prevalence and severity of the pathogen, and the reproductive capacity and migration of leafhoppers.
+
+Host Range
+Curly top virus, have a very wide host range within dicot plants, including over 300 species in 44 plant families (Strausbaugh et al., 2008). The most common infected hosts include sugar beets (for which the disease was first named), follow by tomatoes, peppers, beans, potatoes, spinach, cucurbits, cabbage, alfalfa, and many ornamentals. The virus seems to be restricted to trees with broad leaves, because no single-leafed plants were identified as the host of this virus.
+
+Transmission
+The usual agent is Beet Curly Top Virus (BCTV).  BCTV is transmitted to from plant to plant by the beet leafhopper (Circulifer tenellus). Both the virus and the beet leafhopper have very wide host ranges. Once acquired by the leafhopper, BCTV is carried for the rest of the leafhopper's life, so long-distance spread is common. Infected plants will spread all over the field. The beet leafhopper acquires the virus from infected crop plants or weeds such as wild mustards and Russian thistle. Beet leafhopper only need few minutes in feeding period to transfer the virus into new plants. Plants begin to show symptoms about 7 to 14 days after they are first infected by a leafhopper. Tomato is not a preferred host for the beet leafhopper; however, the leafhoppers transmit the virus to tomato while sampling it.
+Affected plants do not recover and die or remain stunted without giving fruit.
+
+Symptoms
+Disease signs in young buds are curly, discolored leaves, yellow speckled, severe disease will cause buds to be sagged, trees are shortened, the ability to produce very few fruits, abnormal fruits and malt taste.
+Due to the pathogen's confinement within phloem tissues, necrosis, degeneration, and death of the periderm and phloem cells adjacent to sieve tubes ensue. Phloem necrosis also is easily observed as dark concentric rings or linear streaks in cross section or longitudinal section of the taproot, respectively.
+
+Economic Effects of Curly Top
+Although crop failures are rare today, curly top is still a potentially problematic issue for sugar beet production in several areas of the western United States. The disease has been for the most part confined to the western half of the North American continent and is generally more severe west of the continental divide. It does occur sporadically in the beet-growing areas of the high plains east of the Rocky Mountains, but is not often an economically limiting factor.
+After 1900 curly top rapidly emerged as a threat to American sugar beet production in the west. It crippled and seriously threatened the survival of the new sugar beet industry in the first three decades of the 20th century. This one disease was responsible for the closure of numerous processing plants across this growing region, in a similar manner to the impact of the cyst nematode on the European continent in the latter half of the 19th century. Its damage also directly contributed to wild fluctuations in sugar prices due to varying supply and demand relationships, causing the cultivation of beets to constantly move to new locations, leaving others abandoned. As an example, the worst year for California's Spreckles Sugar Company occurred in 1926. Following this year, the entire company very nearly closed and declared bankruptcy as a direct result of curly top, after only 7500 acres were harvested and processed.
+
+Management
+By farming methods
+Because the disease is mainly harmful in the hot season, it is important to pay attention to increase the amount of water irrigated for the plants.
+This disease can be reduced if plants are planted in the shade because the beet leaf hoppers and other insects like to feed on these plants in the sun.
+Pay attention to soil handling carefully before planting trees. Plant density should not be too thick, pruning and sweeping leaves to destroy.
+Avoid applying a lot of nitrogen fertilizer, it is necessary to increase the amount of micro-fertilizer such as using Poly Foliar fertilizer 19-19-19 to increase the tolerance of plants.
+In the first 20 days, when seedlings grow, attention should be paid to inspection and careful care because this is the stage to determine the rate of diseased plants.
+Selection of varieties: For the prevention of curly top disease in tomato plants, it is important to select varieties. One must select tomatoes with less viral infections and a high tolerance to pests. It is also important to buy from reputable local seed sources, so seedlings are adapted to local weather conditions.  Note: choose healthy, non-deformed plants, with vigorous growth, white roots, well-developed tops, and good grafts (for grafted tomatoes).  One example of a variety selected for resistance to Curly-Top is the 'Payette' tomato developed in Idaho 
+Nurseries: For nurseries to be tall, well-ventilated, after each release, nurseries must be treated with nursery tools. Nursery material must be dried and decayed.
+Land for planting: For tomato-rotational growing gardens, the gardens need to be cleaned and destroyed in the garden. Stir carefully, apply lime as soon as you turn the soil, and dry 7-10 days before planting. Should choose the new bare land before planting legumes, sandy loam soil, basalt soil with a pH of 5.5 - 6.5 is best.
+
+By physical methods
+Use yellow sticky traps (20cm x 30cm, place staggered 3m / piece) to attracted beet leaf hopper.
+Using foil hanging from the treetops to create reflective light to repel the insect sting.
+
+Control
+There are no chemicals available for controlling the virus, but several cultural practices can help reduce or eliminate infections such as:
+
+Good sanitation practices, such as weed and insect control, are also essential in limiting the occurrence of the disease.
+Home gardeners may also consider planting susceptible hosts, such as tomatoes and peppers, in a slightly shaded part of the garden, as leafhoppers prefer to feed in sunny locations. If the garden is in full sun, it may be helpful to place a netted cage over the plants when they are young. This netted material will provide a small amount of shade and, if the holes are small enough, may actually prevent leafhoppers from getting to the plants. If a netted cage is used, be sure the plant doesn't actually touch the netted material, as this will reduce the effectiveness. Remove cages when the plants are mature, as they are less susceptible to infection and will benefit from increased light for fruit development.
+All affected plants should be removed from the field or garden as soon as they are noticed so that they do not continue to provide a source of the virus for transmission to healthy plants.
+A weekly spray of neem oil will also help keep the pesky leafhopper at bay.
+
+
+== References ==

@@ -1,0 +1,39 @@
+638
+Build automation
+Build automation is the practice of building software systems in a relatively unattended fashion. The build is configured to run with minimized or no software developer interaction and without using a developer's personal computer. Build automation encompasses the act of configuring the build system as well the resulting system itself.
+Build automation encompasses both sequencing build operations via non-interactive interface tools and running builds on a shared server.
+
+Tools
+Build-automation tools
+allow for sequencing the tasks of building software via a non-interactive interface. Existing tools such as Make can be used via custom configuration file or command-line parameters. Custom tools such as shell scripts can also be used.
+Some tools, such as shell scripts, are task-oriented declarative programming. They encode sequences of commands to perform with usually minimal conditional logic.
+Some tools, such as Make are product-oriented. They build a product, a.k.a. target, based on configured dependencies.
+
+Servers
+A build server is a server setup to run builds. As opposed to a personal computer, a server allows for a more consistent and available build environment.
+Traditionally, a build server was a local computer dedicated as a shared resource instead of used as a personal computer. Today, there are many cloud computing, software as a service (SaaS) web sites for building.
+Without a build server, building generally depends on developers to use their personal computers which has many drawbacks, including but not limited to: The developers who know how to build may be on vacation. The developer's machine may have an issue that prevents building. The developer's machine may have other software installed that conflicts with building properly.
+A continuous integration server is a build server that is setup to build in a relatively frequent way – often on each code commit. A build server may also be incorporated into an ARA tool or ALM tool.
+Typical build triggering options include:
+
+On-demand: requested by a user
+Scheduled: such as a nightly build
+On-commit: building on every commit to a version control system
+
+[Continuous integration](698) and continuous delivery
+Automating the build process is a required step for implementing continuous integration and continuous delivery (CI/CD) – all of which considered best practice for software development.
+
+Advantages
+Pluses of build automation include:
+
+Can save time and money in the long run
+Enables continuous integration, delivery and testing
+More consistent build process
+Can optimize the build process; reducing time and redundant tasks
+Reduces dependency on key personnel and their personal computers
+Can automate collection of build history
+
+See also
+
+
+== References ==

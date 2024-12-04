@@ -1,0 +1,33 @@
+827
+Automatic variable
+In computer programming, an automatic variable is a local variable which is allocated and deallocated automatically when program flow enters and leaves the variable's scope. The scope is the lexical context, particularly the function or block in which a variable is defined. Local data is typically (in most languages) invisible outside the function or lexical context where it is defined. Local data is also invisible and inaccessible to a called function, but is not deallocated, coming back in scope as the execution thread returns to the caller.
+Automatic local variables primarily applies to  recursive lexically-scoped languages. Automatic local variables are normally allocated in the stack frame of the procedure in which they are declared. This was originally done to achieve re-entrancy and allowing recursion, a consideration that still applies today. The concept of automatic variables in recursive (and nested) functions in a lexically scoped language was introduced to the wider audience with [ALGOL](706) in the late 1950s, and further popularized by its many descendants.
+The term local variable is usually synonymous with automatic variable, since these are the same thing in many programming languages, but local is more general – most local variables are automatic local variables, but static local variables also exist, notably in C. For a static local variable, the allocation is static (the lifetime is the entire program execution), not automatic, but it is only in scope during the execution of the function.
+
+In specific programming languages
+C, [C++](640)
+(Called automatic variables.)
+All variables declared within a block of code are automatic by default. An uninitialized automatic variable has an undefined value until it is assigned a valid value of its type.  The storage-class specifier auto can be added to these variable declarations as well, but as they are all automatic by default, this is entirely redundant and rarely done.
+In C, using the storage class register is a hint to the compiler to cache the variable in a processor register. Other than not allowing the address-of operator (&) to be used on the variable or any of its subcomponents, the compiler is free to ignore the hint.
+In [C++](640), the constructor of automatic variables is called when the execution reaches the place of declaration. The destructor is called when it reaches the end of the given program block (program blocks are surrounded by curly brackets). This feature is often used to manage resource allocation and deallocation, like opening and then automatically closing files or freeing up memory, called Resource Acquisition Is Initialization (RAII). 
+Since [C++](640)11, [C++](640) allows variables to be declared with the auto type specifier, but this means that the variable's type is inferred, and does not refer to the scope of the variable.
+
+Java
+(Called local variables.)
+Similar to C and [C++](640), but there is no auto or register keyword. However, the Java compiler will not allow the usage of a not-explicitly-initialized local variable and will give a compilation error (unlike C and [C++](640) where the compiler will usually only give a warning). The Java standard demands that every local variable must be explicitly initialized before being used. This differs from instance variables, which are implicitly initialized with default values (which are 0 for numbers and null for objects).
+
+Perl
+(Called lexical, my or private variables.)
+In Perl, local variables are declared using the my operator. Uninitialized scalars will have the value undef; uninitialized arrays or hashes will be ().
+Perl also has a local operator that does not create automatic variables, instead giving global (package) variables a temporary value, which is dynamically scoped to the enclosing block. When the scope of the variable is left, the old value is restored.
+
+See also
+[C syntax](879)#Storage class specifiers
+Variable-length array ([C99](772) new feature)
+[Call stack](782)
+Object lifetime
+
+Notes
+
+
+== References ==

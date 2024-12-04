@@ -1,0 +1,58 @@
+773
+CCP Games
+CCP ehf., doing business as CCP Games (short for Crowd Control Productions), is an Icelandic video game developer based in Reykjavík. Novator Partners and General Catalyst had previously collectively owned a majority stake in the company, and in September 2018, CCP was acquired by South Korean video game publisher Pearl Abyss for US$425 million. CCP Games is best known for developing Eve Online, which was released in 2003 and has since been maintained.
+
+History
+CCP Games was founded in June 1997 by Reynir Harðarson, Þórólfur Beck Kristjónsson and Ívar Kristjánsson for the purpose of making MMORPGs. Harðarson was working at a metaverse company called OZ Interactive who had developed an engine for distributed 3d simulations over the internet, but not for gaming. Wanting to use the technology to build MMOs, Harðarson left OZ, to found CCP with Beck and Kristjánsson, bringing over key people, including CEO Hilmar Veigar Pétursson and creative director Torfi Frans Ólafsson.
+The name "CCP" is short for "Crowd Control Productions". To finance the initial development of Eve Online, CCP Games developed and published a board game, called Hættuspil ("Danger Game"). The game sold more than 10,000 copies to Iceland's 80,000 households. 
+While seeking funds for development, CCP assisted in developing pitch materials for the Icelandic children's show LazyTown. In April 2000 the company, with Sigurður Arnljótsson as CEO, raised $2.6 million, through a closed offering organised by Kaupthing Bank, from private investors in Iceland, including the Icelandic telephone company Síminn. He was with the company from 1999 to 2002 during which time the company raised two rounds of financing and secured a contract with publisher Simon & Schuster. Approximately half of the initial 21 employees came from Icelandic dot-com company OZ Interactive.
+
+White Wolf Publishing acquisition and CCP North America
+On 11 November 2006, it was announced that CCP Games had entered a merger agreement with White Wolf Publishing. With the merge, the combined company planned to produce "the industry's most innovative games leveraging both online and offline systems". While CCP Games looked into creating online games based on White Wolf Publishing's properties, White Wolf Publishing would in turn create card games based on Eve Online. On 3 October 2007, CCP Games announced that CCP North America, a new video game-focused subsidiary, would be set up within White Wolf Publishing's Stone Mountain, Georgia, location on 12 October, hiring 100 developers. White Wolf Publishing president Mike Tinney was additionally promoted head of CCP North America. In February 2011, CCP Games announced that intentions to expand the location from their presently 150 positions to 300, and move the studio to new housing in Decatur, Georgia. However, when CCP Games let go 20% of their worldwide staff, most of these layoffs occurred at CCP North America. On 27 February 2012, Tinney stated that he had departed from both operations to focus on his new gaming-and-health startup, UtiliFIT. In December 2013, further 15 people from the World of Darkness Online development team were let go. White Wolf Publishing was acquired by Paradox Interactive on 29 October 2015. The deal comprised an undisclosed all-cash sum for CCP Games, and the company assets of White Wolf Publishing, their intellectual property and the rights to World of Darkness Online for Paradox Interactive.
+
+Restructuring (2011–2017)
+In October 2011, following a large controversy over its introduction of microtransactions to the game EVE Online, CCP Games announced that it would be reducing its staff. CCP Games released an announcement to its community admitting that they had made a mistake by releasing the Incarna expansion in its current development stage. In the wake of the Incarna expansion and following a mass protest by EVE Online players, CCP Games announced that it had decided to prioritise and shift their focus from their World of Darkness MMO back to their EVE-Universe products, EVE Online and Dust 514. The restructuring resulted in the layoffs of 20% of CCP Games' staff worldwide. The majority of these layoffs affected the Atlanta, United States, office, but also affected were several positions in CCP headquarters in Reykjavík, Iceland. Even though after considerable downsizing, CCP Games claims that EVE Online and its development is stronger than ever and that the company will continue to grow. CCP Games confirmed that they had moved away from the Incarna/Ambulation project to focus on the core game mechanics and that Incarna may be revisited further down the line.
+On 28 August 2014, CCP Games shut down its San Francisco studio to refocus their efforts on EVE Online. At the same time, CFO Joe Gallo and CMO David Reid resigned. As of 2015, none of CCP Games' original founders were still with the company.
+On 30 October 2017, CCP Games announced it would shutter its Atlanta studio, and sell off its Newcastle studio, affecting approximately 100 employees. It announced that it would shift its focus from VR development to PC and mobile game development. The Newcastle studio was absorbed by Sumo Digital.
+
+Acquisition by Pearl Abyss (2018–present)
+Pearl Abyss, the South Korean publisher of Black Desert Online, announced on 6 September 2018 that they had agreed to acquire CCP Games for about US$425 million. CCP's development studios in Reykjavík, London, and Shanghai would continue under CCP Games, while the publishing and marketing functions of CCP would be integrated with Pearl Abyss. The deal was closed on 12 October. At the time, CCP Games had 250 employees across three development studios.
+
+Games developed
+EVE Online
+EVE Online is CCP Games' first video game, originally published by Simon & Schuster in May 2003. CCP Games later reacquired the rights to publish EVE Online and continues to manage it to this day. EVE Online's core gameplay revolves around player decisions around mining, exploration, industry, factional warfare and piracy. A major design choice is the freedom to do what would be illegal activities, such as scamming for in-game items.
+
+Dust 514
+On 18 August 2009, Hilmar Veigar Pétursson announced Dust 514, a new ground-based first-person shooter (FPS) with real-time strategy elements being developed by CCP Games' Shanghai office. Dust 514 was released for the PlayStation 3 on 14 May 2013. It featured a core first-person shooter experience, with a high level of customisation. The game was shut down by CCP Games on 30 May 2016.
+
+Eve: Valkyrie
+Eve: Valkyrie was a first-person space combat simulator set in the EVE Online universe for the Oculus Rift on 28 March 2016 and on PlayStation VR on 13 October 2016. It was made available for the HTC Vive on 17 November 2016. In the game, players took the role of an immortal fighter pilot, fighting with teams of other pilots to capture objectives and to defeat the opposing team. An update on 26 September 2017 allowed the game to be played without VR. As of August 5, 2022, CCP officially turned off all servers for the game, making the game unplayable.
+
+Gunjack
+Gunjack is a virtual-reality arcade shooter released for the Samsung Gear VR on 20 November 2015, the Oculus Rift on 28 March 2016, and the HTC Vive on 5 April 2016. A PlayStation VR version is planned for release in 2016. Players take the role of a turret operator defending a mining operation, set in the EVE Online universe. It gathered positive critical reviews on release.
+
+Gunjack 2: End of Shift
+Gunjack 2: End of Shift is a virtual-reality arcade shooter released for Google Daydream on 8 December 2016. Players take the role of a turret operator defending a mining operation, set in the EVE Online universe.
+
+Sparc
+Sparc was a virtual reality sports game and was CCP Games' first non-Eve title. The game was announced on 27 February 2016.
+
+Cancelled games
+World of Darkness Online
+In October 2006, CCP Games chief marketing officer, Magnús Bergsson, stated that Eve would not be the only game to come out of CCP Games. On 11 November 2006 CCP Games and White Wolf Publishing jointly announced that CCP Games would be working on a World of Darkness Online. CCP Games planned to focus on the development of this game from March 2009 onward. It was scheduled to launch in 2012 at the earliest, but due to problems in EVE Online, several layoffs in 2011 and the planned release of the PlayStation 3 FPS game Dust 514 in the summer of 2013, the launch of the game was delayed indefinitely. On 14 April 2014, CCP Games announced that the game had been cancelled.
+
+Project Legion
+Project Legion was set to be a first-person shooter for similar to Dust 514. The project was cancelled in 2015 and was replaced with Project Nova.
+
+Eve: The Second Genesis
+Eve: The Second Genesis is a collectible card game set in the universe created for the online game EVE Online. Each player represents a CEO of a corporation, aligned with a particular race, and through exploration, mining, and military strength, their goal is to defeat opponent CEOs.
+
+Project Nova
+Project Nova was a class-based first-person shooter (FPS) for the PC taking place in the EVE Online universe and was developed by CCP Games Shanghai. Project Nova was created on Unreal Engine 4, and CCP Games intended to focus on the competitive FPS market, as well as focus more on small-scale ship-based combat and less on large-scale planet-based combat, which was the focus of Dust 514. While Project Nova was cancelled, The CCP London Studio has since started development an unnamed first-person shooter.
+
+Vanguard
+Vanguard is an in-development  first-person shooter (FPS) taking place in the EVE Online universe.
+
+References
+External links
+Official website

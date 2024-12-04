@@ -1,0 +1,50 @@
+898
+Common Language Infrastructure
+The Common Language Infrastructure (CLI) is an open specification and technical standard originally developed by Microsoft and standardized by ISO/IEC (ISO/IEC 23271) and Ecma International (ECMA 335) that describes executable code and a runtime environment that allows multiple high-level languages to be used on different computer platforms without being rewritten for specific architectures. This implies it is platform agnostic. The [.NET](801) Framework, [.NET](801) and Mono are implementations of the CLI.
+The metadata format is also used to specify the [API](708) definitions exposed by the Windows Runtime.
+
+Overview
+Among other things, the CLI specification describes the following five aspects:
+
+The Common Type System (CTS)
+A set of data types and operations that are shared by all CTS-compliant programming languages.
+The Metadata
+Information about program structure is language-agnostic, so that it can be referenced between languages and tools, making it easy to work with code written in a language the developer is not using.
+The Common Language Specification (CLS)
+The CLS, a subset of the CTS, are rules to which components developed with/for the supported languages must adhere.
+They apply to consumers (developers who are programmatically accessing a component that is CLS-compliant), frameworks (developers who are using a language compiler to create CLS-compliant libraries), and extenders (developers who are creating a tool such as a language compiler or a code parser that creates CLS-compliant components).
+The Virtual Execution System (VES)
+The VES loads and executes CLI-compatible programs, using the metadata to combine separately generated pieces of code at runtime.
+All compatible languages compile to Common Intermediate Language (CIL), which is an intermediate language that is abstracted from the platform hardware. When the code is executed, the platform-specific VES will compile the CIL to the machine language according to the specific hardware and operating system.
+In the CLI standard initially developed by Microsoft, the VES is implemented by the Common Language Runtime (CLR).
+The Standard Libraries
+A set of libraries providing many common functions, such as file reading and writing. Their core is the Base Class Library (BCL).
+
+Standardization and licensing
+In August 2000, Microsoft, Hewlett-Packard, Intel, and others worked to standardize CLI. By December 2001, it was ratified by the Ecma, with ISO/IEC standardization following in April 2003.
+Microsoft and its partners hold patents for CLI. Ecma and ISO/IEC require that all patents essential to implementation be made available under "reasonable and non-discriminatory (RAND) terms." It is common for RAND licensing to require some royalty payment, which could be a cause for concern with Mono. As of January 2013, neither Microsoft nor its partners have identified any patents essential to CLI implementations subject to RAND terms.
+As of July 2009, Microsoft added C# and CLI to the list of specifications that the Microsoft Community Promise applies to, so anyone can safely implement specified editions of the standards without fearing a patent lawsuit from Microsoft. To implement the CLI standard requires conformance to one of the supported and defined profiles of the standard, the minimum of which is the kernel profile. The kernel profile is actually a very small set of types to support in comparison to the well known core library of default [.NET](801) installations. However, the conformance clause of the CLI allows for extending the supported profile by adding new methods and types to classes, as well as deriving from new namespaces. But it does not allow for adding new members to interfaces. This means that the features of the CLI can be used and extended, as long as the conforming profile implementation does not change the behavior of a program intended to run on that profile, while allowing for unspecified behavior from programs written specifically for that implementation.
+In 2012, Ecma and ISO/IEC published the new edition of the CLI standard.
+
+Implementations
+[.NET](801) Framework is Microsoft's original commercial implementation of the CLI. It only supports Windows. It was superseded by [.NET](801) in November 2020.
+[.NET](801), previously known as [.NET](801) Core, is the free and open-source multi-platform successor to [.NET](801) Framework, released under the MIT License
+[.NET](801) Compact Framework is Microsoft's commercial implementation of the CLI for portable devices and Xbox 360.
+[.NET](801) Micro Framework is an open source implementation of the CLI for resource-constrained devices.
+Mono is an alternative open source implementation of CLI and accompanying technologies, mainly used for mobile and game development.
+DotGNU is a decommissioned part of the GNU Project started in January 2001 that aimed to provide a free and open source software alternative to Microsoft's [.NET](801) Framework.
+
+See also
+Standard Libraries (CLI)
+List of CLI languages
+[.NET](801) Standard
+
+Notes
+References
+"Standard ECMA-335, Common Language Infrastructure (CLI)". Ecma International. Retrieved November 1, 2023.
+"ISO/IEC 23271, Common Language Infrastructure". ISO/IEC. Retrieved September 27, 2006.
+"Ecma C# and Common Language Infrastructure Standards". Microsoft Corporation. Retrieved October 13, 2009.
+"Language independence and language-independent components". Microsoft Learn. December 21, 2022. Retrieved May 19, 2023.
+
+External links
+ISO/IEC 23271:2012 Information technology — Common Language Infrastructure (CLI)

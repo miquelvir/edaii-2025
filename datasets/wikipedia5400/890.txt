@@ -1,0 +1,38 @@
+890
+Cloud9 IDE
+Cloud9 IDE is an Online IDE (integrated development environment), published as open source from version 2.0, until version 3.0. It supports multiple programming languages, including C, [C++](640), PHP, Ruby, Perl, Python, JavaScript with Node.js, and Go.
+It is written almost entirely in JavaScript, and uses Node.js on the back-end. The editor component uses Ace.
+Cloud9 was acquired by Amazon in July 2016 and became a part of Amazon Web Services (AWS).
+On July 25, 2024, Amazon announced they had no plans to introduce new features to Cloud9, and new AWS accounts would no longer have access to Cloud9.
+
+Features
+Some of the features of an older version included automatic code completion for snippets and identifiers, parenthesis and bracket matching, a debugger, and a gutter where line numbers and errors or warnings would be displayed.
+Cloud9 IDE also offered syntax highlighting for various languages, such as C#, C/[C++](640), Java, JavaScript, Python, and Ruby.
+Particularly for JavaScript, it offered real-time language analysis, code reformatting, and refactoring facilities.
+It was also extensible and customizable, allowing users to change themes, plugins, and key-bindings to make their preferred setup.
+As an online IDE, it allowed simultaneous editing from multiple users by offering multiple cursors, and could support the creation of private and public projects. Users were also able to drag-and-drop files into projects and use tabs to manage multiple files. Projects could also be integration with Mercurial and Git repositories, as well as collaboration platforms like GitHub and Bitbucket.
+Other features:
+
+Built-in terminal, with npm and basic Unix commands
+Built in Image Editor
+Support for the following code repositories:
+FTP servers
+Support for deployment to:
+Heroku
+Joyent
+Microsoft Azure
+Google App Engine
+SFTP/FTP
+
+About
+Founded in 2010, and based in San Francisco and Amsterdam, Cloud9 IDE was a privately held company. Cloud9 IDE raised $5.5 million in Series A funding from Accel Partners and product development software company Atlassian Software.
+On July 14, 2016, Cloud9 announced that it had been acquired by Amazon.com.
+
+Usage
+Cloud9 is the native IDE for the BeagleBone Black single-board computer, which is primarily programmed in an extension of node.js called Bonescript.
+
+See also
+Online integrated development environment
+
+
+== References ==

@@ -1,0 +1,134 @@
+4686
+Celtic languages
+The Celtic languages ( KEL-tik) are a branch of the Indo-[Europe](1994)an language family, descended from Proto-Celtic. The term "Celtic" was first used to describe this language group by Edward Lhuyd in 1707, following Paul-Yves Pezron, who made the explicit link between the [Celts](4687) described by classical writers and the Welsh and [Breton language](4286)s.
+During the first millennium BC, Celtic languages were spoken across much of [Europe](1994) and central Anatolia. Today, they are restricted to the northwestern fringe of [Europe](1994) and a few diaspora communities. There are six living languages: the four continuously living languages Breton, Irish, Scottish Gaelic and Welsh, and the two revived languages Cornish and Manx. All are minority languages in their respective countries, though there are continuing efforts at revitalisation. Welsh is an official language in Wales and Irish is an official language of Ireland and of the [Europe](1994)an Union. Welsh is the only Celtic language not classified as endangered by UNESCO. The Cornish and Manx languages became extinct in modern times but have been revived. Each now has several hundred second-language speakers.
+Irish, Manx and Scottish Gaelic form the Goidelic languages, while Welsh, Cornish and Breton are Brittonic. All of these are Insular Celtic languages, since Breton, the only living Celtic language spoken in continental [Europe](1994), is descended from the language of settlers from Britain. There are a number of extinct but attested continental Celtic languages, such as Celtiberian, Galatian and Gaulish. Beyond that there is no agreement on the subdivisions of the Celtic language family. They may be divided into P-Celtic and Q-Celtic.
+The Celtic languages have a rich literary tradition. The earliest specimens of written Celtic are Lepontic inscriptions from the 6th century BC in the Alps. Early Continental inscriptions used Italic and Paleohispanic scripts. Between the 4th and 8th centuries, Irish and Pictish were occasionally written in an original script, Ogham, but Latin script came to be used for all Celtic languages. Welsh has had a continuous literary tradition from the 6th century AD.
+
+Living languages
+SIL Ethnologue lists six living Celtic languages, of which four have retained a substantial number of native speakers. These are: the Goidelic languages (Irish and Scottish Gaelic, both descended from Middle Irish) and the Brittonic languages (Welsh and Breton, descended from Common Brittonic). The other two, Cornish (Brittonic) and Manx (Goidelic), died out in modern times with their presumed last native speakers in 1777 and 1974 respectively. Revitalisation movements in the 2000s led to the reemergence of native speakers for both languages following their adoption by adults and children. By the 21st century, there were roughly one million total speakers of Celtic languages, increasing to 1.4 million speakers by 2010.
+
+Demographics
+Mixed languages
+Beurla Reagaird, Highland travellers' language
+Shelta, based largely on Irish and Hiberno-English (some 86,000 speakers in 2009).
+
+Classification
+Celtic is divided into various branches:
+
+Lepontic, the oldest attested Celtic language (from the 6th century BC). Anciently spoken in Switzerland and in Northern-Central Italy. Coins with Lepontic inscriptions have been found in Noricum and Gallia Narbonensis.
+Celtiberian, also called Eastern or Northeastern Hispano-Celtic, spoken in the ancient [Iberian Peninsula](2686), in the eastern part of Old Castile and south of [Aragon](2509). Modern provinces: Segovia, Burgos, Soria, Guadalajara, Cuenca, Zaragoza and Teruel. The relationship of Celtiberian with Gallaecian, in northwest Iberia, is uncertain.
+Gallaecian, also known as Western or Northwestern Hispano-Celtic, anciently spoken in the northwest of the peninsula (modern Northern Portugal, and the Spanish regions of Galicia, [Asturias](3902) and northwestern Castile and León).
+Gaulish languages, including Galatian and possibly Noric. These were once spoken in a wide arc from [Belgium](197) to Turkey. They are now all extinct.
+Brittonic, spoken in Great Britain and [Brittany](2822). Including the living languages Breton, Cornish, and Welsh, and the lost Cumbric and Pictish, though Pictish may be a sister language rather than a daughter of Common Brittonic. Before the arrival of Scotti on the Isle of Man in the 9th century, there may have been a Brittonic language there. The theory of a Brittonic Ivernic language predating Goidelic speech in Ireland has been suggested, but is not widely accepted.
+Goidelic, including the extant Irish, Manx, and Scottish Gaelic.
+
+Continental/Insular Celtic and P/Q-Celtic hypotheses
+Scholarly handling of Celtic languages has been contentious owing to scarceness of primary source data. Some scholars (such as Cowgill 1975; McCone 1991, 1992; and Schrijver 1995) posit that the primary distinction is between Continental Celtic and Insular Celtic, arguing that the differences between the Goidelic and Brittonic languages arose after these split off from the Continental Celtic languages. Other scholars (such as Schmidt 1988) make the primary distinction between P-Celtic and Q-Celtic languages based on the replacement of initial Q by initial P in some words. Most of the Gallic and Brittonic languages are P-Celtic, while the Goidelic and Hispano-Celtic (or Celtiberian) languages are Q-Celtic. The P-Celtic languages (also called Gallo-Brittonic) are sometimes seen (for example by Koch 1992) as a central innovating area as opposed to the more conservative peripheral Q-Celtic languages. According to Ranko Matasovic in the introduction to his 2009 Etymological Dictionary of Proto-Celtic: "Celtiberian ... is almost certainly an independent branch on the Celtic genealogical tree, one that became separated from the others very early."
+The [Breton language](4286) is Brittonic, not Gaulish, though there may be some input from the latter, having been introduced from Southwestern regions of Britain in the post-Roman era and having evolved into Breton.
+In the P/Q classification schema, the first language to split off from Proto-Celtic was Gaelic. It has characteristics that some scholars see as archaic, but others see as also being in the Brittonic languages (see Schmidt). In the Insular/Continental classification schema, the split of the former into Gaelic and Brittonic is seen as being late.
+The distinction of Celtic into these four sub-families most likely occurred about 900 BC according to Gray & Atkinson but, because of estimation uncertainty, it could be any time between 1200 and 800 BC. However, they only considered Gaelic and Brythonic. A controversial paper by Forster & Toth included Gaulish and put the break-up much earlier at 3200 BC ± 1500 years. They support the Insular Celtic hypothesis. The early [Celts](4687) were commonly associated with the archaeological Urnfield culture, the Hallstatt culture, and the La Tène culture, though the earlier assumption of association between language and culture is now considered to be less strong.
+There are legitimate scholarly arguments for both the Insular Celtic hypothesis and the P-/Q-Celtic hypothesis. Proponents of each schema dispute the accuracy and usefulness of the other's categories. However, since the 1970s the division into Insular and Continental Celtic has become the more widely held view (Cowgill 1975; McCone 1991, 1992; Schrijver 1995), but in the middle of the 1980s, the P-/Q-Celtic theory found new supporters (Lambert 1994), because of the inscription on the Larzac piece of lead (1983), the analysis of which reveals another common phonetical innovation -nm- > -nu (Gaelic ainm / Gaulish anuana, Old Welsh enuein 'names'), that is less accidental than only one. The discovery of a third common innovation would allow the specialists to come to the conclusion of a Gallo-Brittonic dialect (Schmidt 1986; Fleuriot 1986).
+The interpretation of this and further evidence is still quite contested, and the main argument for Insular Celtic is connected with the development of verbal morphology and the syntax in Irish and British Celtic, which Schumacher regards as convincing, while he considers the P-Celtic/Q-Celtic division unimportant and treats Gallo-Brittonic as an outdated theory. Stifter affirms that the Gallo-Brittonic view is "out of favour" in the scholarly community as of 2008 and the Insular Celtic hypothesis "widely accepted".
+When referring only to the modern Celtic languages, since no Continental Celtic language has living descendants, "Q-Celtic" is equivalent to "Goidelic" and "P-Celtic" is equivalent to "Brittonic".
+How the family tree of the Celtic languages is ordered depends on which hypothesis is used:
+
+Eska (2010)
+Eska evaluates the evidence as supporting the following tree, based on shared innovations, though it is not always clear that the innovations are not areal features. It seems likely that Celtiberian split off before Cisalpine Celtic, but the evidence for this is not robust. On the other hand, the unity of Gaulish, Goidelic, and Brittonic is reasonably secure. Schumacher (2004, p. 86) had already cautiously considered this grouping to be likely genetic, based, among others, on the shared reformation of the sentence-initial, fully inflecting relative pronoun *i̯os, *i̯ā, *i̯od into an uninflected enclitic particle. Eska sees Cisalpine Gaulish as more akin to Lepontic than to Transalpine Gaulish.
+
+Eska considers a division of Transalpine–Goidelic–Brittonic into Transalpine and Insular Celtic to be most probable because of the greater number of innovations in Insular Celtic than in P-Celtic, and because the Insular Celtic languages were probably not in great enough contact for those innovations to spread as part of a sprachbund. However, if they have another explanation (such as an SOV substratum language), then it is possible that P-Celtic is a valid clade, and the top branching would be:
+
+Italo-Celtic
+Within the Indo-[Europe](1994)an family, the Celtic languages have sometimes been placed with the Italic languages in a common Italo-Celtic subfamily. This hypothesis fell somewhat out of favour after reexamination by American linguist Calvert Watkins in 1966. Irrespectively, some scholars such as Ringe, Warnow and Taylor and many others have argued in favour of an Italo-Celtic grouping in 21st century theses.
+
+Characteristics
+Although there are many differences between the individual Celtic languages, they do show many family resemblances.
+
+consonant mutations (Insular Celtic only)
+inflected prepositions (Insular Celtic only)
+two grammatical genders (modern Insular Celtic only; Old Irish and the Continental languages had three genders, although Gaulish may have merged the neuter and masculine in its later forms)
+a vigesimal number system (counting by twenties)
+Cornish hwetek ha dew ugens "fifty-six" (literally "sixteen and two twenty")
+verb–subject–object (VSO) word order (probably Insular Celtic only)
+an interplay between the subjunctive, future, imperfect, and habitual, to the point that some tenses and moods have ousted others
+an impersonal or autonomous verb form serving as a passive or intransitive
+Welsh dysgaf "I teach" vs. dysgir "is taught, one teaches"
+Irish múinim "I teach" vs. múintear "is taught, one teaches"
+no infinitives, replaced by a quasi-nominal verb form called the verbal noun or verbnoun
+frequent use of vowel mutation as a morphological device, e.g. formation of plurals, verbal stems, etc.
+use of preverbal particles to signal either subordination or illocutionary force of the following clause
+mutation-distinguished subordinators/relativisers
+particles for negation, interrogation, and occasionally for affirmative declarations
+pronouns positioned between particles and verbs
+lack of simple verb for the imperfective "have" process, with possession conveyed by a composite structure, usually BE + preposition
+Cornish Yma kath dhymm "I have a cat", literally "there is a cat to me"
+Welsh Mae cath gyda fi "I have a cat", literally "a cat is with me"
+Irish Tá cat agam "I have a cat", literally "there is a cat at me"
+use of periphrastic constructions to express verbal tense, voice, or aspectual distinctions
+distinction by function of the two versions of BE verbs traditionally labelled substantive (or existential) and copula
+bifurcated demonstrative structure
+suffixed pronominal supplements, called confirming or supplementary pronouns
+use of singulars or special forms of counted nouns, and use of a singulative suffix to make singular forms from plurals, where older singulars have disappeared
+Examples:
+
+Irish: Ná bac le mac an bhacaigh is ní bhacfaidh mac an bhacaigh leat.
+(Literal translation) Do not bother with son the beggar's and not will-bother son the beggar's with-you.
+bhacaigh is the genitive of bacach. The igh the result of affection; the ⟨bh⟩ is the lenited form of ⟨b⟩.
+leat is the second person singular inflected form of the preposition le.
+The order is verb–subject–object (VSO) in the second half. Compare this to English or French (and possibly Continental Celtic) which are normally subject–verb–object in word order.
+Welsh: pedwar ar bymtheg a phedwar ugain
+(Literally) four on fifteen and four twenties
+bymtheg is a mutated form of pymtheg, which is pump ("five") plus deg ("ten"). Likewise, phedwar is a mutated form of pedwar.
+The multiples of ten are deg, ugain, deg ar hugain, deugain, hanner cant, trigain, deg a thrigain, pedwar ugain, deg a phedwar ugain, cant.
+
+Comparison table
+The lexical similarity between the different Celtic languages is apparent in their core vocabulary, especially in terms of actual pronunciation. Moreover, the phonetic differences between languages are often the product of regular sound change (i.e. lenition of /b/ into /v/ or Ø).
+The table below has words in the modern languages that were inherited direct from Proto-Celtic, as well as a few old borrowings from Latin that made their way into all the daughter languages. There is often a closer match between Welsh, Breton and Cornish on the one hand and Irish, Scottish Gaelic and Manx on the other. For a fuller list of comparisons, see the Swadesh list for Celtic.
+
+† Borrowings from Latin.
+
+Examples
+Article 1 of the Universal Declaration of Human Rights:
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+Irish: Saolaítear gach duine den chine daonna saor agus comhionann i ndínit agus i gcearta. Tá bua an réasúin agus an choinsiasa acu agus ba cheart dóibh gníomhú i dtreo a chéile i spiorad an bhráithreachais.
+Manx: Ta dagh ooilley pheiagh ruggit seyr as corrym ayns ard-cheim as kiartyn. Ta resoon as cooinsheanse er nyn goyrt daue as by chair daue ymmyrkey ry cheilley myr braaraghyn.
+Scottish Gaelic: Tha gach uile dhuine air a bhreith saor agus co-ionnan ann an urram 's ann an còirichean. Tha iad air am breith le reusan is le cogais agus mar sin bu chòir dhaibh a bhith beò nam measg fhèin ann an spiorad bràthaireil.
+Breton: Dieub ha par en o dellezegezh hag o gwirioù eo ganet an holl dud. Poell ha skiant zo dezho ha dleout a reont bevañ an eil gant egile en ur spered a genvreudeuriezh.
+Cornish: Genys frank ha par yw oll tus an bys yn aga dynita hag yn aga gwiryow. Enduys yns gans reson ha kowses hag y tal dhedha omdhon an eyl orth y gila yn spyrys a vrederedh.
+Welsh: Genir pawb yn rhydd ac yn gydradd â'i gilydd mewn urddas a hawliau. Fe'u cynysgaeddir â rheswm a chydwybod, a dylai pawb ymddwyn y naill at y llall mewn ysbryd cymodlon.
+
+Possible members of the family
+Several poorly-documented languages may have been Celtic.
+
+Ancient Belgian
+Camunic is an extinct language spoken in the first millennium BC in the Val Camonica and Valtellina valleys of the Central Alps. It has recently been proposed that it was a Celtic language.
+Ivernic
+Ligurian, on the Northern Mediterranean Coast straddling the southeast French and northwest Italian coasts, including parts of Tuscany, Elba and Corsica. Xavier Delamarre argues that Ligurian was a Celtic language similar to Gaulish. The Ligurian-Celtic question is also discussed by Barruol (1999). Ancient Ligurian is listed as either Celtic (epigraphic), or Para-Celtic (onomastic).
+Lusitanian, spoken in the area between the Douro and Tagus rivers of western Iberia (a region straddling the present border of Portugal and Spain). Known from only five inscriptions and various place names. It is an Indo-[Europe](1994)an language and some scholars have proposed that it may be a para-Celtic language that evolved alongside Celtic or formed a dialect continuum or sprachbund with Tartessian and Gallaecian. This is tied to a theory of an Iberian origin for the Celtic languages. It is also possible that the Q-Celtic languages alone, including Goidelic, originated in western Iberia (a theory that was first put forward by Edward Lhuyd in 1707) or shared a common linguistic ancestor with Lusitanian. Secondary evidence for this hypothesis has been found in research by biological scientists, who have identified (1) deep-rooted similarities in human DNA found precisely in both the former Lusitania and Ireland, and; (2) the so-called "Lusitanian distribution" of animals and plants unique to western Iberia and Ireland. Both phenomena are now generally thought to have resulted from human emigration from Iberia to Ireland, in the late Paleolithic or early Mesolithic eras. Other scholars see greater linguistic affinities between Lusitanian, Old Gallo-Italic (particularly with Ligurian) and Old [Europe](1994)an. Prominent modern linguists such as Ellis Evans, believe Gallaecian-Lusitanian was in fact one same language (not separate languages) of the "P" Celtic variant.
+Rhaetic, spoken in central Switzerland, Tyrol in [Austria](1585), and the Alpine regions of northeast Italy. Documented by a limited number of short inscriptions (found through Northern Italy and Western [Austria](1585)) in two variants of the Etruscan alphabet. Its linguistic categorisation is not clearly established, and it presents a confusing mixture of what appear to be Etruscan, Indo-[Europe](1994)an, and uncertain other elements. Howard Hayes Scullard argues that Rhaetian was also a Celtic language.
+Tartessian, spoken in the southwest of the Iberia Peninsula (mainly southern Portugal and southwest Spain). Tartessian is known by 95 inscriptions, with the longest having 82 readable signs. John T. Koch argues that Tartessian was also a Celtic language.
+
+See also
+Ogham
+[Celts](4687)
+[Celts](4687) (modern)
+A Swadesh list of the modern Celtic languages
+Celtic Congress
+Celtic League
+Continental Celtic languages
+Italo-Celtic
+Language family
+
+Notes
+References
+Further reading
+Markey, Thomas L. (2006). "Early Celticity in Slovenia and at Rhaetic Magrè (Schio)". Linguistica. 46 (1): 145–72. doi:10.4312/linguistica.46.1.145-172..
+Sims-Williams, Patrick (2020). "An Alternative to 'Celtic from the East' and 'Celtic from the West'". Cambridge Archaeological Journal. 30 (3): 511–29. doi:10.1017/S0959774320000098. hdl:2160/317fdc72-f7ad-4a66-8335-db8f5d911437. S2CID 216484936..
+Stifter, David (April 2020). "The early Celtic epigraphic evidence and early literacy in Germanic languages". NOWELE: North-Western [Europe](1994)an Language Evolution. 73 (1): 123–152. doi:10.1075/nowele.00037.sti. ISSN 0108-8416. S2CID 219024967.
+
+External links
+
+[Aberdeen](2014) University Celtic Department Archived 8 December 2008 at the Wayback Machine
+"Labara: An Introduction to the Celtic Languages", by Meredith Richard
+[Celts](4687) and Celtic Languages (PDF)

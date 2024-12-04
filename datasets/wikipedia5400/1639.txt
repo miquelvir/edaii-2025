@@ -1,0 +1,819 @@
+1639
+Alternating current
+Alternating current (AC) is an electric current that periodically reverses direction and changes its magnitude continuously with time, in contrast to direct current (DC), which flows only in one direction. Alternating current is the form in which electric power is delivered to businesses and residences, and it is the form of electrical energy that consumers typically use when they plug kitchen appliances, televisions, fans and electric lamps into a wall socket. The abbreviations AC and DC are often used to mean simply alternating and direct, respectively, as when they modify current or voltage.
+The usual waveform of alternating current in most electric power circuits is a sine wave, whose positive half-period corresponds with positive direction of the current and vice versa (the full period is called a cycle). "Alternating current" most commonly refers to power distribution, but a wide range of other applications are technically alternating current although it is less common to describe them by that term.   In many applications, like guitar amplifiers, different waveforms are used, such as triangular waves or square waves. Audio and radio signals carried on electrical wires are also examples of alternating current. These types of alternating current carry information such as sound (audio) or images (video) sometimes carried by modulation of an AC carrier signal. These currents typically alternate at higher frequencies than those used in power transmission.
+
+Transmission, distribution, and domestic power supply
+Electrical energy is distributed as alternating current because AC voltage may be increased or decreased with a transformer. This allows the power to be transmitted through power lines efficiently at high voltage, which reduces the energy lost as heat due to resistance of the wire, and transformed to a lower, safer voltage for use. Use of a higher voltage leads to significantly more efficient transmission of power. The power losses (
+  
+    
+      
+        
+          P
+          
+            
+              w
+            
+          
+        
+      
+    
+    {\displaystyle P_{\rm {w}}}
+  
+) in the wire are a product of the square of the current ( I ) and the resistance (R) of the wire, described by the formula:
+
+  
+    
+      
+        
+          P
+          
+            
+              w
+            
+          
+        
+        =
+        
+          I
+          
+            2
+          
+        
+        R
+        
+        .
+      
+    
+    {\displaystyle P_{\rm {w}}=I^{2}R\,.}
+  
+
+This means that when transmitting a fixed power on a given wire, if the current is halved (i.e. the voltage is doubled), the power loss due to the wire's resistance will be reduced to one quarter.
+The power transmitted is equal to the product of the current and the voltage (assuming no phase difference); that is,
+
+  
+    
+      
+        
+          P
+          
+            
+              t
+            
+          
+        
+        =
+        I
+        V
+        
+        .
+      
+    
+    {\displaystyle P_{\rm {t}}=IV\,.}
+  
+
+Consequently, power transmitted at a higher voltage requires less loss-producing current than for the same power at a lower voltage. Power is often transmitted at hundreds of kilovolts on pylons, and transformed down to tens of kilovolts to be transmitted on lower level lines, and finally transformed down to 100 V – 240 V for domestic use.
+
+High voltages have disadvantages, such as the increased insulation required, and generally increased difficulty in their safe handling. In a power plant, energy is generated at a convenient voltage for the design of a generator, and then stepped up to a high voltage for transmission. Near the loads, the transmission voltage is stepped down to the voltages used by equipment. Consumer voltages vary somewhat depending on the country and size of load, but generally motors and lighting are built to use up to a few hundred volts between phases. The voltage delivered to equipment such as lighting and motor loads is standardized, with an allowable range of voltage over which equipment is expected to operate. Standard power utilization voltages and percentage tolerance vary in the different mains power systems found in the world.
+High-voltage direct-current (HVDC) electric power transmission systems have become more viable as technology has provided efficient means of changing the voltage of DC power. Transmission with high voltage direct current was not feasible in the early days of electric power transmission, as there was then no economically viable way to step the voltage of DC down for end user applications such as lighting incandescent bulbs.
+Three-phase electrical generation is very common. The simplest way is to use three separate coils in the generator stator, physically offset by an angle of 120° (one-third of a complete 360° phase) to each other. Three current waveforms are produced that are equal in magnitude and 120° out of phase to each other. If coils are added opposite to these (60° spacing), they generate the same phases with reverse polarity and so can be simply wired together. In practice, higher pole orders are commonly used. For example, a 12-pole machine would have 36 coils (10° spacing). The advantage is that lower rotational speeds can be used to generate the same frequency. For example, a 2-pole machine running at 3600 rpm and a 12-pole machine running at 600 rpm produce the same frequency; the lower speed is preferable for larger machines. If the load on a three-phase system is balanced equally among the phases, no current flows through the neutral point. Even in the worst-case unbalanced (linear) load, the neutral current will not exceed the highest of the phase currents. Non-linear loads (e.g. the switch-mode power supplies widely used) may require an oversized neutral bus and neutral conductor in the upstream distribution panel to handle harmonics. Harmonics can cause neutral conductor current levels to exceed that of one or all phase conductors.
+For three-phase at utilization voltages a four-wire system is often used. When stepping down three-phase, a transformer with a Delta (3-wire) primary and a Star (4-wire, center-earthed) secondary is often used so there is no need for a neutral on the supply side. For smaller customers (just how small varies by country and age of the installation) only a single phase and neutral, or two phases and neutral, are taken to the property. For larger installations, all three phases and neutral are taken to the main distribution panel. From the three-phase main panel, both single and three-phase circuits may lead off. Three-wire single-phase systems, with a single center-tapped transformer giving two live conductors, is a common distribution scheme for residential and small commercial buildings in North America. This arrangement is sometimes incorrectly referred to as two phase. A similar method is used for a different reason on construction sites in the UK. Small power tools and lighting are supposed to be supplied by a local center-tapped transformer with a voltage of 55 V between each power conductor and earth. This significantly reduces the risk of electric shock in the event that one of the live conductors becomes exposed through an equipment fault whilst still allowing a reasonable voltage of 110 V between the two conductors for running the tools.
+An additional wire, called the bond (or earth) wire, is often connected between non-current-carrying metal enclosures and earth ground. This conductor provides protection from electric shock due to accidental contact of circuit conductors with the metal chassis of portable appliances and tools. Bonding all non-current-carrying metal parts into one complete system ensures there is always a low electrical impedance path to ground sufficient to carry any fault current for as long as it takes for the system to clear the fault. This low impedance path allows the maximum amount of fault current, causing the overcurrent protection device (breakers, fuses) to trip or burn out as quickly as possible, bringing the electrical system to a safe state. All bond wires are bonded to ground at the main service panel, as is the neutral/identified conductor if present.
+
+AC power supply frequencies
+The frequency of the electrical system varies by country and sometimes within a country; most electric power is generated at either 50 or 60 Hertz. Some countries have a mixture of 50 Hz and 60 Hz supplies, notably electricity power transmission in Japan.
+
+Low frequency
+A low frequency eases the design of electric motors, particularly for hoisting, crushing and rolling applications, and commutator-type traction motors for applications such as railways. However, low frequency also causes noticeable flicker in arc lamps and incandescent light bulbs. The use of lower frequencies also provided the advantage of lower transmission losses, which are proportional to frequency. 
+The original Niagara Falls generators were built to produce 25 Hz power, as a compromise between low frequency for traction and heavy induction motors, while still allowing incandescent lighting to operate (although with noticeable flicker). Most of the 25 Hz residential and commercial customers for Niagara Falls power were converted to 60 Hz by the late 1950s, although some 25 Hz industrial customers still existed as of the start of the 21st century. 16.7 Hz power (formerly 16 2/3 Hz) is still used in some European rail systems, such as in [Austria](1585), Germany, Norway, [Sweden](1600) and Switzerland.
+
+High frequency
+Off-shore, military, textile industry, marine, aircraft, and spacecraft applications sometimes use 400 Hz, for benefits of reduced weight of apparatus or higher motor speeds. Computer mainframe systems were often powered by 400 Hz or 415 Hz for benefits of ripple reduction while using smaller internal AC to DC conversion units.
+
+Effects at high frequencies
+A direct current flows uniformly throughout the cross-section of a homogeneous electrically conducting wire. An alternating current of any frequency is forced away from the wire's center, toward its outer surface. This is because an alternating current (which is the result of the acceleration of electric charge) creates electromagnetic waves (a phenomenon known as electromagnetic radiation). Electric conductors are not conducive to electromagnetic waves (a perfect electric conductor prohibits all electromagnetic waves within its boundary), so a wire that is made of a non-perfect conductor (a conductor with finite, rather than infinite, electrical conductivity) pushes the alternating current, along with their associated electromagnetic fields, away from the wire's center. The phenomenon of alternating current being pushed away from the center of the conductor is called skin effect, and a direct current does not exhibit this effect, since a direct current does not create electromagnetic waves. 
+At very high frequencies, the current no longer flows in the wire, but effectively flows on the surface of the wire, within a thickness of a few skin depths. The skin depth is the thickness at which the current density is reduced by 63%. Even at relatively low frequencies used for power transmission (50 Hz – 60 Hz), non-uniform distribution of current still occurs in sufficiently thick conductors. For example, the skin depth of a copper conductor is approximately 8.57 mm at 60 Hz, so high-current conductors are usually hollow to reduce their mass and cost. This tendency of alternating current to flow predominantly in the periphery of conductors reduces the effective cross-section of the conductor. This increases the effective AC resistance of the conductor since resistance is inversely proportional to the cross-sectional area. A conductor's AC resistance is higher than its DC resistance, causing a higher energy loss due to ohmic heating (also called I2R loss).
+
+Techniques for reducing AC resistance
+For low to medium frequencies, conductors can be divided into stranded wires, each insulated from the others, with the relative positions of individual strands specially arranged within the conductor bundle. Wire constructed using this technique is called Litz wire. This measure helps to partially mitigate skin effect by forcing more equal current throughout the total cross section of the stranded conductors. Litz wire is used for making high-Q inductors, reducing losses in flexible conductors carrying very high currents at lower frequencies, and in the windings of devices carrying higher radio frequency current (up to hundreds of kilohertz), such as switch-mode power supplies and radio frequency transformers.
+
+Techniques for reducing radiation loss
+As written above, an alternating current is made of electric charge under periodic acceleration, which causes radiation of electromagnetic waves. Energy that is radiated is lost. Depending on the frequency, different techniques are used to minimize the loss due to radiation.
+
+Twisted pairs
+At frequencies up to about 1 GHz, pairs of wires are twisted together in a cable, forming a twisted pair. This reduces losses from electromagnetic radiation and inductive coupling. A twisted pair must be used with a balanced signaling system so that the two wires carry equal but opposite currents. Each wire in a twisted pair radiates a signal, but it is effectively canceled by radiation from the other wire, resulting in almost no radiation loss.
+
+Coaxial cables
+Coaxial cables are commonly used at audio frequencies and above for convenience. A coaxial cable has a conductive wire inside a conductive tube, separated by a dielectric layer. The current flowing on the surface of the inner conductor is equal and opposite to the current flowing on the inner surface of the outer tube. The electromagnetic field is thus completely contained within the tube, and (ideally) no energy is lost to radiation or coupling outside the tube. Coaxial cables have acceptably small losses for frequencies up to about 5 GHz. For microwave frequencies greater than 5 GHz, the losses (due mainly to the dielectric separating the inner and outer tubes being a non-ideal insulator) become too large, making waveguides a more efficient medium for transmitting energy. Coaxial cables often use a perforated dielectric layer to separate the inner and outer conductors in order to minimize the power dissipated by the dielectric.
+
+Waveguides
+Waveguides are similar to coaxial cables, as both consist of tubes, with the biggest difference being that waveguides have no inner conductor. Waveguides can have any arbitrary cross section, but rectangular cross sections are the most common. Because waveguides do not have an inner conductor to carry a return current, waveguides cannot deliver energy by means of an electric current, but rather by means of a guided electromagnetic field. Although surface currents do flow on the inner walls of the waveguides, those surface currents do not carry power. Power is carried by the guided electromagnetic fields. The surface currents are set up by the guided electromagnetic fields and have the effect of keeping the fields inside the waveguide and preventing leakage of the fields to the space outside the waveguide. Waveguides have dimensions comparable to the wavelength of the alternating current to be transmitted, so they are feasible only at microwave frequencies. In addition to this mechanical feasibility, electrical resistance of the non-ideal metals forming the walls of the waveguide causes dissipation of power (surface currents flowing on lossy conductors dissipate power). At higher frequencies, the power lost to this dissipation becomes unacceptably large.
+
+Fiber optics
+At frequencies greater than 200 GHz, waveguide dimensions become impractically small, and the ohmic losses in the waveguide walls become large. Instead, fiber optics, which are a form of dielectric waveguides, can be used. For such frequencies, the concepts of voltages and currents are no longer used.
+
+Formulation
+Alternating currents are accompanied (or caused) by alternating voltages. An AC voltage v can be described mathematically as a function of time by the following equation:
+
+  
+    
+      
+        v
+        (
+        t
+        )
+        =
+        
+          V
+          
+            peak
+          
+        
+        sin
+        ⁡
+        (
+        ω
+        t
+        )
+      
+    
+    {\displaystyle v(t)=V_{\text{peak}}\sin(\omega t)}
+  
+,
+where
+
+  
+    
+      
+        
+          V
+          
+            peak
+          
+        
+      
+    
+    {\displaystyle V_{\text{peak}}}
+  
+ is the peak voltage (unit: volt),
+
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  
+ is the angular frequency (unit: radians per second). The angular frequency is related to the physical frequency, 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ (unit: hertz), which represents the number of cycles per second, by the equation 
+  
+    
+      
+        ω
+        =
+        2
+        π
+        f
+      
+    
+    {\displaystyle \omega =2\pi f}
+  
+.
+
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ is the time (unit: second).
+The peak-to-peak value of an AC voltage is defined as the difference between its positive peak and its negative peak. Since the maximum value of 
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle \sin(x)}
+  
+ is +1 and the minimum value is −1, an AC voltage swings between 
+  
+    
+      
+        +
+        
+          V
+          
+            peak
+          
+        
+      
+    
+    {\displaystyle +V_{\text{peak}}}
+  
+ and 
+  
+    
+      
+        −
+        
+          V
+          
+            peak
+          
+        
+      
+    
+    {\displaystyle -V_{\text{peak}}}
+  
+. The peak-to-peak voltage, usually written as 
+  
+    
+      
+        
+          V
+          
+            pp
+          
+        
+      
+    
+    {\displaystyle V_{\text{pp}}}
+  
+ or 
+  
+    
+      
+        
+          V
+          
+            P-P
+          
+        
+      
+    
+    {\displaystyle V_{\text{P-P}}}
+  
+, is therefore 
+  
+    
+      
+        
+          V
+          
+            peak
+          
+        
+        −
+        (
+        −
+        
+          V
+          
+            peak
+          
+        
+        )
+        =
+        2
+        
+          V
+          
+            peak
+          
+        
+      
+    
+    {\displaystyle V_{\text{peak}}-(-V_{\text{peak}})=2V_{\text{peak}}}
+  
+.
+
+Root mean square voltage
+Below an AC waveform (with no DC component) is assumed.
+The RMS voltage is the square root of the mean over one cycle of the square of the instantaneous voltage.
+
+Power
+The relationship between voltage and the power delivered is:
+
+  
+    
+      
+        p
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                v
+                
+                  2
+                
+              
+              (
+              t
+              )
+            
+            R
+          
+        
+      
+    
+    {\displaystyle p(t)={\frac {v^{2}(t)}{R}}}
+  
+,
+where 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ represents a load resistance.
+Rather than using instantaneous power, 
+  
+    
+      
+        p
+        (
+        t
+        )
+      
+    
+    {\displaystyle p(t)}
+  
+, it is more practical to use a time-averaged power (where the averaging is performed over any integer number of cycles). Therefore, AC voltage is often expressed as a root mean square (RMS) value, written as 
+  
+    
+      
+        
+          V
+          
+            rms
+          
+        
+      
+    
+    {\displaystyle V_{\text{rms}}}
+  
+, because
+
+  
+    
+      
+        
+          P
+          
+            average
+          
+        
+        =
+        
+          
+            
+              
+                
+                  V
+                  
+                    rms
+                  
+                
+              
+              
+                2
+              
+            
+            R
+          
+        
+        .
+      
+    
+    {\displaystyle P_{\text{average}}={\frac {{V_{\text{rms}}}^{2}}{R}}.}
+  
+
+Power oscillation
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                (
+                t
+                )
+              
+              
+                
+                =
+                
+                  V
+                  
+                    peak
+                  
+                
+                sin
+                ⁡
+                (
+                ω
+                t
+                )
+              
+            
+            
+              
+                i
+                (
+                t
+                )
+              
+              
+                
+                =
+                
+                  
+                    
+                      v
+                      (
+                      t
+                      )
+                    
+                    R
+                  
+                
+                =
+                
+                  
+                    
+                      V
+                      
+                        peak
+                      
+                    
+                    R
+                  
+                
+                sin
+                ⁡
+                (
+                ω
+                t
+                )
+              
+            
+            
+              
+                p
+                (
+                t
+                )
+              
+              
+                
+                =
+                v
+                (
+                t
+                )
+                i
+                (
+                t
+                )
+                =
+                
+                  
+                    
+                      (
+                      
+                        V
+                        
+                          peak
+                        
+                      
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                    R
+                  
+                
+                
+                  sin
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                ω
+                t
+                )
+                =
+                
+                  
+                    
+                      (
+                      
+                        V
+                        
+                          peak
+                        
+                      
+                      
+                        )
+                        
+                          2
+                        
+                      
+                    
+                    
+                      2
+                      R
+                    
+                  
+                
+                 
+                (
+                1
+                −
+                cos
+                ⁡
+                (
+                2
+                ω
+                t
+                )
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}v(t)&=V_{\text{peak}}\sin(\omega t)\\i(t)&={\frac {v(t)}{R}}={\frac {V_{\text{peak}}}{R}}\sin(\omega t)\\p(t)&=v(t)i(t)={\frac {(V_{\text{peak}})^{2}}{R}}\sin ^{2}(\omega t)={\frac {(V_{\text{peak}})^{2}}{2R}}\ (1-\cos(2\omega t))\end{aligned}}}
+  
+
+For this reason, AC power's waveform becomes Full-wave rectified sine, and its fundamental frequency is double of the one of the voltage's.
+
+Examples of alternating current
+To illustrate these concepts, consider a 230 V AC mains supply used in many countries around the world. It is so called because its root mean square value is 230 V. This means that the time-averaged power delivered 
+  
+    
+      
+        
+          P
+          
+            average
+          
+        
+      
+    
+    {\displaystyle P_{\text{average}}}
+  
+ is equivalent to the power delivered by a DC voltage of 230 V. To determine the peak voltage (amplitude), we can rearrange the above equation to:
+
+  
+    
+      
+        
+          V
+          
+            peak
+          
+        
+        =
+        
+          
+            2
+          
+        
+         
+        
+          V
+          
+            rms
+          
+        
+      
+    
+    {\displaystyle V_{\text{peak}}={\sqrt {2}}\ V_{\text{rms}}}
+  
+
+  
+    
+      
+        
+          P
+          
+            peak
+          
+        
+        =
+        
+          
+            
+              (
+              
+                V
+                
+                  rms
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            R
+          
+        
+        
+          
+            
+              (
+              
+                V
+                
+                  peak
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              (
+              
+                V
+                
+                  rms
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            P
+          
+          
+            average
+          
+        
+        
+          
+            
+              2
+            
+          
+          
+            2
+          
+        
+        =
+        
+          2
+        
+        
+          P
+          
+            average
+          
+        
+        .
+      
+    
+    {\displaystyle P_{\text{peak}}={\frac {(V_{\text{rms}})^{2}}{R}}{\frac {(V_{\text{peak}})^{2}}{(V_{\text{rms}})^{2}}}={\text{P}}_{\text{average}}{\sqrt {2}}^{2}={\text{2}}P_{\text{average}}.}
+  
+
+For 230 V AC, the peak voltage 
+  
+    
+      
+        
+          V
+          
+            peak
+          
+        
+      
+    
+    {\displaystyle V_{\text{peak}}}
+  
+ is therefore 
+  
+    
+      
+        230
+        
+           V
+        
+        ×
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 230{\text{ V}}\times {\sqrt {2}}}
+  
+, which is about 325 V, and the peak power 
+  
+    
+      
+        
+          P
+          
+            peak
+          
+        
+      
+    
+    {\displaystyle P_{\text{peak}}}
+  
+ is 
+  
+    
+      
+        230
+        ×
+        R
+        ×
+        W
+        ×
+        2
+      
+    
+    {\displaystyle 230\times R\times W\times 2}
+  
+, that is 460 RW. During the course of one cycle (two cycle as the power) the voltage rises from zero to 325 V, the power from zero to 460 RW, and both falls through zero. Next, the voltage descends to reverse direction, -325 V, but the power ascends again to 460 RW, and both returns to zero.
+
+Information transmission
+Alternating current is used to transmit information, as in the cases of telephone and cable television. Information signals are carried over a wide range of AC frequencies. POTS telephone signals have a frequency of about 3 kHz, close to the baseband audio frequency. Cable television and other cable-transmitted information currents may alternate at frequencies of tens to thousands of megahertz. These frequencies are similar to the electromagnetic wave frequencies often used to transmit the same types of information over the air.
+
+History
+The first alternator to produce alternating current was an electric generator based on Michael Faraday's principles constructed by the French instrument maker Hippolyte Pixii in 1832. Pixii later added a commutator to his device to produce the (then) more commonly used direct current. The earliest recorded practical application of alternating current is by Guillaume Duchenne, inventor and developer of electrotherapy. In 1855, he announced that AC was superior to direct current for electrotherapeutic triggering of muscle contractions. Alternating current technology was developed further by the Hungarian Ganz Works company (1870s), and in the 1880s: Sebastian Ziani de Ferranti, Lucien Gaulard, and Galileo Ferraris.
+In 1876, Russian engineer Pavel Yablochkov invented a lighting system where sets of induction coils were installed along a high-voltage AC line. Instead of changing voltage, the primary windings transferred power to the secondary windings which were connected to one or several electric candles (arc lamps) of his own design, used to keep the failure of one lamp from disabling the entire circuit. In 1878, the Ganz factory, Budapest, Hungary, began manufacturing equipment for electric lighting and, by 1883, had installed over fifty systems in [Austria](1585)-Hungary. Their AC systems used arc and incandescent lamps, generators, and other equipment.
+
+Transformers
+Alternating current systems can use transformers to change voltage from low to high level and back, allowing generation and consumption at low voltages but transmission, possibly over great distances, at high voltage, with savings in the cost of conductors and energy losses. A bipolar open-core power transformer developed by Lucien Gaulard and John Dixon Gibbs was demonstrated in London in 1881, and attracted the interest of Westinghouse. They also exhibited the invention in Turin in 1884. However, these early induction coils with open magnetic circuits are inefficient at transferring power to loads. Until about 1880, the paradigm for AC power transmission from a high voltage supply to a low voltage load was a series circuit. Open-core transformers with a ratio near 1:1 were connected with their primaries in series to allow use of a high voltage for transmission while presenting a low voltage to the lamps. The inherent flaw in this method was that turning off a single lamp (or other electric device) affected the voltage supplied to all others on the same circuit. Many adjustable transformer designs were introduced to compensate for this problematic characteristic of the series circuit, including those employing methods of adjusting the core or bypassing the magnetic flux around part of a coil. The direct current systems did not have these drawbacks, giving it significant advantages over early AC systems.
+In the UK, Sebastian de Ferranti, who had been developing AC generators and transformers in London since 1882, redesigned the AC system at the Grosvenor Gallery power station in 1886 for the London Electric Supply Corporation (LESCo) including alternators of his own design and open core transformer designs with serial connections for utilization loads - similar to Gaulard and Gibbs. In 1890, he designed their power station at Deptford and converted the Grosvenor Gallery station across the Thames into an electrical substation, showing the way to integrate older plants into a universal AC supply system.
+
+Pioneers
+In the autumn of 1884, Károly Zipernowsky, Ottó Bláthy and Miksa Déri (ZBD), three engineers associated with the Ganz Works of Budapest, determined that open-core devices were impractical, as they were incapable of reliably regulating voltage. Bláthy had suggested the use of closed cores, Zipernowsky had suggested the use of parallel shunt connections, and Déri had performed the experiments; In their joint 1885 patent applications for novel transformers (later called ZBD transformers), they described two designs with closed magnetic circuits where copper windings were either wound around a ring core of iron wires or else surrounded by a core of iron wires. In both designs, the magnetic flux linking the primary and secondary windings traveled almost entirely within the confines of the iron core, with no intentional path through air (see toroidal cores). The new transformers were 3.4 times more efficient than the open-core bipolar devices of Gaulard and Gibbs. The Ganz factory in 1884 shipped the world's first five high-efficiency AC transformers. This first unit had been manufactured to the following specifications: 1,400 W, 40 Hz, 120:72 V, 11.6:19.4 A, ratio 1.67:1, one-phase, shell form.
+The ZBD patents included two other major interrelated innovations: one concerning the use of parallel connected, instead of series connected, utilization loads, the other concerning the ability to have high turns ratio transformers such that the supply network voltage could be much higher (initially 140 to 2000 V) than the voltage of utilization loads (100 V initially preferred). When employed in parallel connected electric distribution systems, closed-core transformers finally made it technically and economically feasible to provide electric power for lighting in homes, businesses and public spaces. 
+The other essential milestone was the introduction of 'voltage source, voltage intensive' (VSVI) systems' by the invention of constant voltage generators in 1885. In early 1885, the three engineers also eliminated the problem of eddy current losses with the invention of the lamination of electromagnetic cores. Ottó Bláthy also invented the first AC electricity meter.
+The AC power system was developed and adopted rapidly after 1886 due to its ability to distribute electricity efficiently over long distances, overcoming the limitations of the direct current system. In 1886, the ZBD engineers designed the world's first power station that used AC generators to power a parallel-connected common electrical network, the steam-powered Rome-Cerchi power plant. The reliability of the AC technology received impetus after the Ganz Works electrified a large European metropolis: Rome in 1886.
+
+Building on the advancement of AC technology in Europe, George Westinghouse founded the Westinghouse Electric in Pittsburgh, Pennsylvania, on January 8, 1886. The new firm became active in developing alternating current (AC) electric infrastructure throughout the United States.  The Edison Electric Light Company held an option on the US rights for the Ganz ZBD transformers, requiring Westinghouse to pursue alternative designs on the same principles. George Westinghouse had bought Gaulard and Gibbs' patents for $50,000 in February 1886. He assigned to William Stanley the task of redesigning the Gaulard and Gibbs transformer for commercial use in United States. On March 20, 1886, Stanley conducted a demonstrative experiment in Great Barrington:  A Siemens generator's voltage of 500 volts was converted into 3000 volts, and then the voltage was stepped down to 500 volts by six Westinghouse transformers. With this setup, the Westinghouse company successfully powered thirty 100-volt incandescent bulbs in twenty shops along the main street of Great Barrington. The spread of Westinghouse and other AC systems triggered a push back in late 1887 by Thomas Edison (a proponent of direct current), who attempted to discredit alternating current as too dangerous in a public campaign called the "war of the currents". In 1888, alternating current systems gained further viability with the introduction of a functional AC motor, something these systems had lacked up till then. The design, an induction motor, was independently invented by Galileo Ferraris and Nikola Tesla (with Tesla's design being licensed by Westinghouse in the US). This design was independently further developed into the modern practical three-phase form by Mikhail Dolivo-Dobrovolsky and Charles Eugene Lancelot Brown in Germany on one side, and Jonas Wenström in [Sweden](1600) on the other, though Brown favored the two-phase system.
+A long-distance alternating current transmission was used in 1883 for the Metropolitan Railway station lighting in London, while the single-phase 1884 system in Turin, Italy, was the first multiple-user AC distribution system in the world. The Ames Hydroelectric Generating Plant, constructed in 1890, was among the first hydroelectric alternating current power plants. A long-distance transmission of single-phase electricity from a hydroelectric generating plant in Oregon at Willamette Falls sent power fourteen miles downriver to downtown Portland for street lighting in 1890.  In 1891, another transmission system was installed in Telluride Colorado. The first three-phase system was established in 1891 in [Frankfurt](1300), Germany. The Tivoli–Rome transmission was completed in 1892. The San Antonio Canyon Generator was the third commercial single-phase hydroelectric AC power plant in the United States to provide long-distance electricity.  It was completed on December 31, 1892, by Almarian William Decker to provide power to the city of Pomona, California, which was 14 miles away. Meanwhile, the possibility of transferring electrical power from a waterfall at a distance was explored at the Grängesberg mine in [Sweden](1600). A 45 m fall at Hällsjön, Smedjebackens kommun, where a small iron work had been located, was selected. In 1893,  a three-phase 9.5 kv system was used to transfer 400 horsepower a distance of 15 km, becoming the first commercial application.In 1893, Westinghouse built an alternating current system for the Chicago World Exposition. In 1893, Decker designed the first American commercial three-phase power plant using alternating current—the hydroelectric Mill Creek No. 1 Hydroelectric Plant near Redlands, California.  Decker's design incorporated 10 kV three-phase transmission and established the standards for the complete system of generation, transmission and motors used in USA today. The original Niagara Falls Adams Power Plant  with three two-phase generators was put into operation in August 1895, but was connected to the remote transmission system only in 1896. The Jaruga Hydroelectric Power Plant in Croatia was set in operation two days later, on 28 August 1895. Its generator (42 Hz, 240 kW) was made and installed by the Hungarian company Ganz, while the transmission line from the power plant to the City of Šibenik was 11.5 kilometers (7.1 mi) long, and the municipal distribution grid 3000 V/110 V included six transforming stations.
+Alternating current circuit theory developed rapidly in the latter part of the 19th and early 20th century. Notable contributors to the theoretical basis of alternating current calculations include Charles Steinmetz, Oliver Heaviside, and many others. Calculations in unbalanced three-phase systems were simplified by the symmetrical components methods discussed by Charles LeGeyt Fortescue in 1918.
+
+See also
+References
+Further reading
+External links
+
+"AC/DC: What's the Difference?". Edison's Miracle of Light, American Experience. (PBS)
+"AC/DC: Inside the AC Generator Archived 2014-12-28 at the Wayback Machine". Edison's Miracle of Light, American Experience. (PBS)
+Professor Mark Csele's tour of the 25 Hz Rankine generating station
+Blalock, Thomas J., "The Frequency Changer Era: Interconnecting Systems of Varying Cycles". The history of various frequencies and interconversion schemes in the US at the beginning of the 20th century
+AC Power History and Timeline

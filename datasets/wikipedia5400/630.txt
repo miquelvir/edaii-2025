@@ -1,0 +1,102 @@
+630
+Behavior-driven development
+Behavior-driven development (BDD) involves naming software tests using domain language to describe the behavior of the code.
+BDD involves use of a domain-specific language (DSL) using natural-language constructs (e.g., English-like sentences) that can express the behavior and the expected outcomes.
+Proponents claim it encourages collaboration among developers, quality assurance experts, and customer representatives in a software project. It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. BDD is considered an effective practice especially when the problem space is complex.
+BDD is considered a refinement of test-driven development (TDD).  BDD combines the techniques of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.
+At a high level, BDD is an idea about how software development should be managed by both business interests and technical insight. Its practice involves use of specialized tools. Some tools specifically for BDD can be used for TDD. The tools automate the ubiquitous language.
+
+Overview
+BDD is a process by which DSL structured natural language statements are converted to executable tests. The result are tests that read like acceptance criteria for a given function. 
+As such BDD is an extension of TDD.
+BDD focuses on:
+
+Where to start in the process
+What to test and what not to test
+How much to test in one go
+What to call the tests
+How to understand why a test fails
+At its heart, BDD is about rethinking the approach to automated testing (including unit testing and acceptance testing) in order to avoid issues that naturally arise. For example, BDD suggests that unit test names be whole sentences starting with a conditional verb ("should" in English for example) and should be written in order of business value. Acceptance tests should be written using the standard agile framework of a user story: "Being a role/actor/stakeholder I want a feature/capability yielding a benefit". Acceptance criteria should be written in terms of scenarios and implemented in classes: Given initial context, when event occurs, then ensure some outcomes .
+Starting from this point, many people developed BDD frameworks over a period of years, finally framing it in terms of a communication and collaboration framework for developers, QA and non-technical or business participants in a software project.
+
+Principles
+BDD suggests that software tests should be named in terms of desired behavior. Borrowing from agile software development the "desired behavior" in this case consists of the requirements set by the business — that is, the desired behavior that has business value for whatever entity commissioned the software unit under construction. Within BDD practice, this is referred to as BDD being an "outside-in" activity.
+TDD does not differentiate tests in terms of high-level software requirements, low-level technical details or anything in between. One way of looking at BDD therefore, is that it is an evolution of TDD which makes more specific choices.
+
+Behavioral specifications
+Another BDD suggestion relates to how the desired behavior should be specified. BDD suggests using a semi-formal format for behavioral specification which is borrowed from user story specifications from the field of object-oriented analysis and design. The scenario aspect of this format may be regarded as an application of Hoare logic to behavioral specification of software using the domain-specific language.
+BDD suggests that business analysts and software developers should collaborate in this area and should specify behavior in terms of user stories, which are each explicitly documented. Each user story should, to some extent, follow the structure:
+
+Title
+An explicit title.
+Narrative
+A short introductory section with the following structure:
+As a: the person or role who will benefit from the feature;
+I want: the feature;
+so that: the benefit or value of the feature.
+Acceptance criteria
+A description of each specific scenario of the narrative with the following structure:
+Given: the initial context at the beginning of the scenario, in one or more clauses;
+When: the event that triggers the scenario;
+Then: the expected outcome, in one or more clauses.
+BDD does not require how this information is formatted, but it does suggest that a team should decide on a relatively simple, standardized format with the above elements. It also suggests that the scenarios should be phrased declaratively rather than imperatively — in the business language, with no reference to elements of the UI through which the interactions take place. This format is referred to in Cucumber as the Gherkin language.
+
+Specification as a ubiquitous language
+BDD borrows the concept of the ubiquitous language from domain driven design. A ubiquitous language is a (semi-)formal language that is shared by all members of a software development team — both software developers and non-technical personnel. The language in question is both used and developed by all team members as a common means of discussing the domain of the software in question. In this way BDD becomes a vehicle for communication between all the different roles in a software project.
+A common risk with software development includes communication breakdowns between Developers and Business Stakeholders. BDD uses the specification of desired behavior as a ubiquitous language for the project Team members. This is the reason that BDD insists on a semi-formal language for behavioral specification: some formality is a requirement for being a ubiquitous language. In addition, having such a ubiquitous language creates a domain model of specifications, so that specifications may be reasoned about formally. This model is also the basis for the different BDD-supporting software tools that are available.
+The example given above establishes a user story for a software system under development. This user story identifies a stakeholder, a business effect and a business value. It also describes several scenarios, each with a precondition, trigger and expected outcome. Each of these parts is exactly identified by the more formal part of the language (the term Given might be considered a keyword, for example) and may therefore be processed in some way by a tool that understands the formal parts of the ubiquitous language.
+Most BDD applications use text-based DSLs and specification approaches. However, graphical modeling of integration scenarios has also been applied successfully in practice, e.g., for testing purposes.
+
+Specialized tooling
+Much like TDD, BDD may involve using specialized tooling. 
+BDD requires not only test code as does TDD, but also a document that describes behavior in a more human-readable language. This requires a two-step process for executing the tests, reading and parsing the descriptions, and reading the test code and finding the corresponding test implementation to execute. This process makes BDD more laborious for developers. Proponents suggest that due to its human-readable nature the value of those documents extends to a relatively non-technical audience, and can hence serve as a communication means for describing requirements ("features").
+
+Tooling principles
+In principle, a BDD support tool is a testing framework for software, much like the tools that support TDD. However, where TDD tools tend to be quite free-format in what is allowed for specifying tests, BDD tools are linked to the definition of the ubiquitous language.
+The ubiquitous language allows business analysts to document behavioral requirements in a way that will also be understood by developers. The principle of BDD support tooling is to make these same requirements documents directly executable as a collection of tests. If this cannot be achieved because of reasons related to the technical tool that enables the execution of the specifications, then either the style of writing the behavioral requirements must be altered or the tool must be changed. The exact implementation of behavioral requirements varies per tool, but agile practice has come up with the following general process:
+
+The tooling reads a specification document.
+The tooling directly understands completely formal parts of the ubiquitous language (such as the Given keyword in the example above). Based on this, the tool breaks each scenario up into meaningful clauses.
+Each individual clause in a scenario is transformed into some sort of parameter for a test for the user story. This part requires project-specific work by the software developers.
+The framework then executes the test for each scenario, with the parameters from that scenario.
+
+Story versus specification
+A separate subcategory of behavior-driven development is formed by tools that use specifications as an input language rather than user stories. Specification tools don't use user stories as an input format for test scenarios but rather use functional specifications for units that are being tested. These specifications often have a more technical nature than user stories and are usually less convenient for communication with business personnel than are user stories. An example of a specification for a stack might look like this:
+
+Specification: Stack
+
+When a new stack is created
+Then it is empty
+
+When an element is added to the stack
+Then that element is at the top of the stack
+
+When a stack has N elements 
+And element E is on top of the stack
+Then a pop operation returns E
+And the new size of the stack is N-1
+
+Such a specification may exactly specify the behavior of the component being tested, but is less meaningful to a business user. As a result, specification-based testing is seen in BDD practice as a complement to story-based testing and operates at a lower level. Specification testing is often seen as a replacement for free-format unit testing.
+
+The three amigos
+The "three amigos", also referred to as a "Specification Workshop", is a meeting where the product owner discusses the requirement in the form of specification by example with different stakeholders like the QA and development team. The key goal for this discussion is to trigger conversation and identify any missing specifications. The discussion also gives a platform for QA, development team and product owner to converge and hear out each other's perspective to enrich the requirement and also make sure if they are building the right product.    
+The three amigos are:
+
+Business - Role of the business user is to define the problem only and not venture into suggesting a solution
+Development - Role of the developers involve suggesting ways to fix the problem
+Testing - Role of testers is to question the solution, bring up as many as different possibilities for brain storming through what-if scenarios and help make the solution more precise to fix the problem.
+
+See also
+Specification by example
+Behat (PHP framework)
+Cynefin framework
+Concordion (Java framework)
+RSpec
+Gauge
+Jasmine (JavaScript testing framework)
+Squish GUI Tester (BDD GUI Testing Tool for JavaScript, Python, Perl, Ruby and Tcl)
+Use case
+Fitnesse has been used to roll out BDD
+
+
+== References ==

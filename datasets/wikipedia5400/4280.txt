@@ -1,0 +1,585 @@
+4280
+Bolognese dialect
+Bolognese (native name: bulgnaiṡ buʎˈɲai̯z) is a dialect of Emilian spoken in the most part in the city of Bologna and its hinterland (except east of the Sillaro stream), but also in the district of Castelfranco Emilia in the province of Modena, and in the towns of Sambuca Pistoiese (Tuscany), Cento, Sant'Agostino, and Poggio Renatico (province of Ferrara).
+
+Terminology
+Although the term dialect is commonly used in reference to all minority languages native to Italy, most of them are not mutually intelligible with Italian. Bolognese is no exception and so is an Emilian dialect, not an Italian one.
+
+Classification
+Bolognese is a dialect of Emilian, one of the Gallo-Italic languages of the Romance family. It shares many common features with other Gallo-Italic languages such as Piedmontese, Lombard, Venetian, Romagnol and Ligurian, and it is closer to them than to Italian.
+
+History
+Middle Ages
+Bolognese evolved a group of Gallo-Romance languages sharing features with neighbouring northern Italian languages. It developed more distinctly into the Middle Ages as a dialect of the Emilian language. During the High Middle Ages, a number of troubadours composing lyrical poetry were active in Bologna, especially during the 13th century. That served to raise cultural awareness to the possibility of composing songs, poems and other works in vernacular languages. One of the first references to Bolognese as a distinct language was made by Dante Alighieri, in his De vulgari eloquentia, written in the beginning of the 14th century.
+
+Modern
+During the boom of interest in linguistic diversity during the 19th century, a number of efforts were made to create vocabularies, grammars, and collections of axioms, folk tales, and literature. The first dictionary was compiled in 1901 by Gaspare Ungarelli, who also attempted to create a writing system using the Italian alphabet. A period of stigmatisation followed in the 20th century, where children were punished for speaking the dialect in school, as it was considered to be a sign of poor education and etiquette.
+In 1964, Alberto Menarini proposed an alphabet with many of the same letters still used. In recent times, Bolognese has enjoyed a period of rebirth with some words, such as umarell, derived from Bolognese umarèl, becoming popular beyond Bologna itself.
+
+Phonology
+Here are some prominent features of Bolognese phonology:
+
+centralized vowels ɐ, e̠, ɛ̠, i̠, o̟, ɔ̟, ʌ̟ and u̟ rather than /a/, /e/, /ɛ/, /i/, /o/, /ɔ/, /ʌ/ or /u/
+phonemic distinction between short vowels and corresponding long vowels/diphthongs
+nucleus vowel and coda consonant length having an inverse relationship
+realisation of labio–alveolar consonants
+syncopation resulting in complex consonant clusters
+frequent slacking of word-final voiceless obstruents
+more exaggerated intonation than in Italian
+The phonemes of Bolognese are realized phonetically very differently depending on the area in or around Bologna. Much free variation occurs in words from complex phonological processes.
+
+Consonants
+Bolognese has 25 consonant phonemes:
+
+Vowels
+Bolognese dialect has 2 diphthongs, namely /ai/ and /ʌu/.
+
+Phonotactics
+The general syllable structure of Bolognese syllables is:
+
+(S)(C)(C)(V)V(C)(C)
+S – either s or ṡ, and rarely f or p
+C – consonant
+V – vowel
+Thus, Bolognese words can have up to three consonants in the initial group (e.g. ṡżlèr, ṡgrinzlîr, ṡbléṡṡg, spzèr, strén, scrîver, sfrunblè, ftléṅna, ftièri, friulàn, ptrugnàn, pscarî, pznén) and two consonants in the final group (e.g. gnanc, rimôrs, månnd, cunfinànt, pèrt) (impermissible consonant combination will result in anaptyxis). Bolognese only allows 2 diphthongs namely /ai/ and /ʌu/ (e.g. cåurs, intåurn, ataiṡ, raiga). Orthographically, three consonants can exist simultaneously on coda (dåntr, cåntr, nòstr, sänpr as syncopic forms of dånter, cånter, nòster, sänper). However, it must be noted that it arises from -er only when the next word starts with a vowel and in actuality it's pronounced /-ŋ.(C)r(V)./
+
+Orthography
+Vowel
+On monosyllabic words, accents are not marked if a word ends in a consonant: can, sacc. However, it is marked if it ends in a vowel pà, rà.
+The vowel å and ä are always stressed including the diphthong åu and ai (or ou and äi in the countryside). If another vowel is accented alongside ai, then the diphthong ai is not stressed, for example: maicàtt. This rule doesn't apply on the article äl(i) (since articles are never stressed) and compound words such as såuranómm where the stress falls on ó.
+The vowel í and ú are only used for loanwords to indicate stressed short i and u. For example: chíllo, carbúrro
+
+Consonant
+(1) Followed by a, o, u
+(2) Followed by i, e 
+(3) End of a syllable (coda) or followed by consonant
+
+The letter n is pronounced /n/ before vowels and after long vowels. nn digraph is pronounced /n/.
+The letter n is pronounced /ŋ/ finally or before consonants (including n however, in this case it's represented ṅn orthographically). /ŋ/ is lengthened after stressed vowel.
+The letter q is only used in the beginning of words. Therefore, it's written quâter but âcua.
+The letter j is only used between vowels. Therefore, it's written tâja, tajja but tâi, tai.
+The digraph ṅn is only used for feminine nouns.
+The trigraph gli is never found on native Bolognese words as Italian gli corresponds to j in Bolognese. They are found in Italian loanwords for example butigliéṅna (bottiglina), sêglier (scegliere), bigliàtt (biglietto) and names such as Itâglia (Italia), Emégglia (Emilia), Giógglia (Giulia).
+Short vowels are always followed by a long consonant, and vice versa. For example: sacc and sâc, méll and mêl, córr and côr. This rule doesn't apply on compound words such as peppacûl.
+In some words, /ts/ and /dz/ can be written as ts/ds and dṡ thus reflecting its etymology and pronunciation. For example: tstón = c'tón, dscårrer = c'cårrer, dṡdétta = g'détta
+Palatization of l and n frequently occurs before the pronoun i and on articles such as äli ôv, däli ôv. Example: al i à détt ch'a n i vâg pió is pronounced /aʎ.ʎi.adˈdetː kaɲ.ɲiˈvaːg ˈpjo/
+The dropping of the last vowel in a word is indicated with an apostrophe. For example: ch'al séppa, s'a l savêva, l'ôca, lî l'é, sått'âcua (apocopic forms of che, se, la, la, såtta). However, if the vowel is located at the beginning of a word, it is generally unmarked. For example: d avréll, l èṡen, ló l é, csa vût (apheresis forms of ed, al, al, syncopic forms of cusa).
+
+Grammar
+Noun
+Bolognese distinguishes two genders, masculine and feminine, and two numbers, single and plural. In most nouns, the suffix -a is added to the masculine word to indicate femininity: defizänt, defizänta; påndg, påndga.
+The formation of Bolognese plurals is complicated. Unlike Italian, inflection usually happens not by adding suffixes but rather by apophony:
+
+å → ó: biånnd, "blond", biónnd, "blonds"
+ô → û: żnôc', "knee", żnûc', "knees"
+However, when words that end with -èl or -ôl are pluralised, the -èl or -ôl is changed to -î and -û respectively: martèl, "hammer", martî, "hammers"; fiôl, "son", fiû "sons". There are some exceptions to that rule, such as nurmèl, "normal", which is unchanged when made plural, and some others, such as sàntel, "godfather", which are unchanged when made plural because words are not truncated, that is, with a stress that does not fall on è or ô.
+Masculine words that end in a consonant are unchanged when made plural and so the number can be identified only by the preceding article: al râm, "the branch", i râm, "the branches". In addition, pluralised feminine words that are not constructed from a masculine word do not have an -a: la rôda, "the wheel", äl rôd, "the wheels". The plurals of feminine words constructed from masculine words are formed by using an -i instead of an -a: biånnda, "blonde", biånndi, "blondes"; ziéṅna "aunt", ziéṅni, "aunts".
+
+Exception: bån, bôna
+
+Masculine
+No observable patterns exist for ô or ò. Sometimes stressed ô or ò turns into û on plural forms for example: al ciôd - i ciûd and al òc' - i ûc'. Other times it is invariable for example: al sôld - i sôld and l òmen - i òmen.
+
+Feminine
+Alteration
+Alteration is the formation of words from others that are not changed in their fundamental features; instead, the way in which the concept is considered changes.
+
+The alterations can be added together to form chains:
+
+pôver, puvrén, puvrinén, puvrininén = povero, poverino
+The alteration suffix is always stressed. Therefore, metaphony occurs:
+
+åura, uratta = ora, oretta
+dòna, dunèla = donna, donnina
+fiåur, fiurlén = fiore, fiorellino
+vaider, vidrén = vetro, vetrino
+Often alterations change the gender of words:
+
+la dòna, al dunén, al dunån = la donna, la donnina, la donnona
+la mâchina, al machinén, al machinån = l’auto, la piccola auto, la grande auto
+l’unbrèla, l unbarlén, l unbarlån = l’ombrello, l’ombrellino, l’ombrellone
+
+Adjectives
+Adjective become the feminine form by adding -a to masculine, therefore they form plural similar to feminine nouns derived from masculine nouns.
+
+Singular: un gât grand (masculine), una gâta granda (feminine)
+Plural: dû gât grand (masculine), dåu gâti grandi (feminine)
+Singular: un ragâz bèl (masculine), una ragâza bèla (feminine)
+Plural: dû ragâz bî (masculine), dåu ragâzi bèli (feminine)
+
+Adjective Order:
+1. Some adjective (such as the one pertaining to orders) must go before the noun:
+
+al mî ûltum viâż = il mio ultimo viaggio
+al nòster prémm fiôl = il nostro primo figlio
+al tô ex maré = il suo ex marito
+2. Other adjectives can go before or after the noun in Italian, while in Bolognese it is preferable to put them after:
+
+l à fât una léssta lónga = ha fatto una lunga lista
+l à cunprè la mâchina nôva = ha preso la nuova auto
+i én parté pr un viâż cûrt = sono partiti per un breve viaggio
+i an catè un apartamänt cinén = hanno trovato un piccolo appartamento
+Exception for vèg = strano 
+
+l é un vèg fât = è un fatto strano / è uno strano fatto
+l é un vèg sugèt = è uno strano tipo
+3. Some adjectives are often placed before the noun as in Italian because by putting them after the noun, a slight variation in meaning would be obtained:
+
+These adjectives placed before the noun actually very often have a figurative meaning. “Grand” more often expresses quality than size. Brótt does not necessarily express aesthetic ugliness but a generic pejorative “-accio” (“-âz” in Bolognese). Puvràtt does not express little wealth, but an unhappy condition.
+4. To express dimensions (both large and small), in Bolognese, it is preferable to use the augmentative –ån, -åna and the diminutive én, éna, àtt, àtta, etc.
+Therefore, to say “a small house” would be “una caṡlatta” and certainly not “una cén cà”!
+Even figurative expressions (a little help, a little stylist) should be translated with a few turns of phrase: (un pôc d’ajût, un stiléssta in fâza)
+
+Superlativo
+Superlativo Relativo
+article + pió + noun + ed
+
+l’é la pió brèva dla clâs = è la più brava della classe
+l é al pió inṡmé dal pajaiṡ = è il più fesso di tutto il paese
+al pió baciócc ed tótt l ufézzi = il più scemo di tutto l’ufficio
+Special forms
+meglio / migliore
+
+l é méi = è meglio
+l é al miåur / l’é la miåura = è il / la migliore
+al żugadåur miåur = il giocatore migliore
+la żugadåura miåura = la giocatrice migliore
+i żugadûr miûr = i giocatori migliori
+äl żugadåuri miåuri = le giocatrici migliori
+peggio / peggiore
+
+l é pîz = è peggio
+l é al / l’é la pîz = è il / la peggiore
+
+Article
+Orthographic rules
+
+Combination with preposition 
+
+Orthographic rules:
+
+The preposition in is written int before definite and indefinite articles and in elsewhere.
+The preposition ed is written d before words starting with vowels and ed elsewhere.
+The preposition par is written pr before words starting with vowels and par elsewhere.
+
+Partitive
+The plural of the articles un, una, does not exist. Instead, the partitive is used, consisting of the articulated forms of the preposition ed, or the adjective socuànt/socuànti (alcuni/alcune) “some”:
+
+In negative sentences, the partitive is used without the article (ed + noun), as in French.
+
+an i é brîṡa ed zóccher = non c’è zucchero
+la n pôl brîṡa avair ed fiû = non può avere figli
+In Bolognese, the partitive is used more often than in Italian:
+
+con di sû amîg = con alcuni suoi amici
+i vànden di lanpadèri e dla ròba da elètrica = vendono lampadari e attrezzature elettriche
+a mâgn däl pan con däl salâm = mangio pane e salame
+
+Pronoun
+Personal Pronoun
+If the conjugated verb starts with unstressed a, the verbal pronoun a(i) is dropped. For example mé arîv, nuèter arivän
+Formal pronouns are used to replace 2nd person pronoun to indicate politeness or courtesy. Formal pronouns in Bolognese include ló for masculine and lî for feminine.
+
+êl ló al dutåur? ch’al s acòmda! = È lei il dottore? Si accomodi!
+êla lî la duturassa? ch’la s acòmda! = È lei la dottoressa? Si accomodi!
+
+Demonstrative Pronoun and Adjective
+Note: ste and sta elides before words starting with vowels. For example: A quest'ora. Che ora è? = Da st’åura. Ch’åur’é?
+Orthographic rules
+
+Demonstrative pronouns or adjective are almost always followed by adverbs indicating degrees of distance:
+1. (qué) near the speaker
+
+a tói ste bichîr qué = prendo questo bicchiere
+al mî bichîr l é quasst qué = il mio bicchiere è questo
+2. (lé) further away from the speaker, often near the listener
+
+dâm bän cla biziclatta lé = dammi quella bicicletta
+la tô biziclatta l’é qualla lé = la tua bicicletta è quella
+3. (là) even further away from the speaker and the listener
+
+guèrda cla cà là = guarda quella casa
+la sô cà l’é qualla là = la sua casa è quella
+
+Locative
+Positive: ai é
+
+ai é un òmen = c’è un uomo
+ai é una dòna = c’è una donna
+ai é di òmen = ci sono degli uomini
+ai é däl dòn = ci sono delle donne
+ai n é una carovèna = ce n'è una carovana
+ai é dû ân a dîr = ci sono due anni di differenza
+dóvv ai é la pèṡ ai é la cuntintazza = dove c'è pace c'è letizia
+Negative: an i é
+
+an i é brîṡa mî mèder = non c’è mia madre
+an i é brîṡa i mî fradî = non ci sono i miei fratelli
+an i é inción = non c’è nessuno
+an i é ânma nèda = non c'è anima viva
+an i é brîṡa i mî fradî = non ci sono i miei fratelli
+
+Partitive
+(i)n = ne
+
+ai n é di nûv = ve ne sono di nuovi
+a in mâgn apanna dåu o trai = ne mangio appena due o tre
+Gigén Lîvra l in sà un pónt pió dal dièvel = Luigi Lepri ne sa una più del diavolo
+mo mé a m n in sån adè es al ò catè = ma io me ne sono accorto e l’ho trovato
+con l ajût ed Dagnêl ch'l i n à żuntè socuanti = con l'aiuto di Daniele che ne ha aggiunte alcune
+mé a n in vói pió = io non ne voglio più
+a n in pòs pió fèr da manc = non ne posso più fare a meno
+chi an n à brîṡa as plócca la camîṡa = chi non ne ha si pilucca la camicia
+
+Verb
+To form the interrogative form, euphonic vowels on the verb must be removed including on -en endings. For 3rd and 1st person singular, final unstressed a must also be removed. For example: a dâg > dâghia, a mâgnen > mâgn-ni, l avêva > avêvel
+
+Metaphony
+Metaphony happens when the penultimate vowel is stressed in the present indicative and present subjunctive mood. No observable pattern exists.
+
+For the type 3 Conjugation, the stressing of the infinitive takes place not on the final syllable. Therefore, the cases of when metaphony happen changes. Example vàdder (a vadd, a vdän).
+
+Metaphony never happens on the 4th conjugation (-îr) since the stress never falls on the stem.
+
+Auxiliary
+Gerund: esànd
+Past participle: stè
+Imperative: séppet (2nd.sg), saggna (1st.pl), siêdi (2nd.pl)
+
+Gerund: avànd
+Past participle: avó
+Imperative: èvet (2nd.sg), avaggna (1st.pl), avêdi (2nd.pl)
+
+Regular
+Gerund: mandànd
+Past participle: mandè
+Imperative: manda (2nd.sg), mandän (1st.pl), mandè (2nd.pl)
+
+Gerund: parànd
+Past participle: pèrs
+Imperative: pèr (2nd.sg), parän (1st.pl), parè (2nd.pl)
+
+Gerund: adliżànd
+Past participle: adlît
+Imperative: adlîż (2nd.sg), adliżän (1st.pl), adliżî (2nd.pl)
+
+Gerund: finànd
+Past participle: finé
+Imperative: finéss (2nd.sg), finän (1st.pl), finî (2nd.pl)
+Cognugaziån dal vêrb magnèr
+
+a mâgn
+t mâgn
+al, la mâgna
+nuèter a magnän
+vuèter a magnè
+låur i mâgnen
+Cognugaziån interugatîva dal vêrb magnèr
+
+mâgna?
+mâgnet?
+mâgnel? mâgnla?
+magnaggna?
+magnèv?
+mâgn-ni?
+
+Irregular
+Special Cases
+
+Verbs with infinite form -årr descended from Latin -ōnere and corresponds to Italian -orre. Some verbs in -årr also have alternative forms (dispårr/dispånner, scunpårr/scunpånner, prupårr/prupånner, supårr/supånner).
+Some verbs of the 4th group contained a root that behaves like the verbs of the 3rd group:
+
+Reflexive
+To construct a reflexive verb, the pronoun es is suffixed into the verb. For example, the reflexive of guardèr is guardères or guardèrs. However, for verbs ending in -er, it's replaced by -res. For example: scrîver – scrîvres (scriversi) and vàdder – vàddres (vedersi).
+
+Negation
+
+non si può avere = an s pôl brîṡa avair
+non si vede niente = an s i vadd lómm
+non si fà e non si fìcca = an s fà es an s fécca
+come non si dovrebbe tradurre = cum an s arêv brîṡa da fèr a tradûṡer
+non si tratta di essere dei romantici = an s trâta brîṡa d èser di rumântic
+quando non si poteva essere più espliciti = quand an s psêva brîṡa al dromedèri dscårrer pió cèr
+senz’acqua non si macina e senza bere non si mangia = sänz’âcua an s mèṡna e sänza bavvr an s mâgna
+
+Imperative
+Imperative form in Bolognese only exists for 1st person singular and 2nd person. Imperative formation:
+
+For 1st person plural (nó/nuèter) and 2nd person plural (vó/vuèter), it is exactly the same as its present indicative form.
+For 2nd person singular, it is exactly the same as the 3rd person singular present indicative form.
+For other pronouns, the subjunctive present forms are used.
+
+Negative Imperative
+For 2nd person singular, there are 3 forms:
+1. brîṡa + infinitive
+
+non mangiare troppo, mi raccomando! = brîṡa magnèr tròp, a m arcmànd!
+2. brîṡa stèr a + infinitive
+
+non passare da casa! = brîṡa stèr a pasèr da cà!
+3. an + infinitive + brîṡa
+
+non mangiare troppo! = an magnèr brîṡa tròp!
+non passare da casa! = an stèr brîṡa a pasèr da cà!
+For other pronouns, the subjunctive is used instead:
+
+non mangiamo troppo! = an magnaggna brîṡa tròp!
+non mangiate troppo! = an magnèdi brîṡa tròp!
+
+Past Participle
+Past participle is formed using the stem of the verb with unstressed vowel (for example on regular conjugation for 1st person plural). In Bolognese, ONLY the masculine singular form is used for all declension since the past participle of the verbs end in a stressed vowel, the form does not change in the feminine nor plural. However, in the countryside, for example in western and northern province, the feminine and plural form can still be found.
+The Italian past participle suffix -ato, -uto, -ito generally correspond to the Bolognese -è, -ó, -é respectively. Notable examples include the verb vgnîr (venire) which has the past participle form of vgnó (venuto) and èser (essere) with stè (stato). Irregular forms of verbs fèr, parair, tôr, córrer, adlîżer, dezîder, dîr with past participle such as fât, pèrs, tôlt, cåurs, adlît, dezîṡ, détt forms the feminine form by suffixing -a at the end of the word becoming fâta, pèrsa, tôlta, cåursa, adlîta, dezîṡa, détta and suffixing -i for feminine plural.
+
+Adverb
+Modo
+bän (bene), cómm (come), acsé (così), mèl (male), giósst (giusto), mé (meglio), insàmm (insieme), pîz (peggio)
+
+Tempo
+incû (oggi), ajîr (ieri), dman (domani), åura (ora), adès (adesso), dåpp (dopo), bèle (già), mâi (mai), sänper (sempre), spass (spesso), sóbbit (subito), allåura (allora), anc (ancora), ed nôv (di nuovo)
+
+Luogo
+là (là), lé (lì), qué (qui), dóvv (dove), såtta (sotto), żå (giù), såuvra (sopra), fòra (fuori), dänter (dentro), foravî / fòra d vî (altrove), dnanz (davanti), drî (dietro), luntàn (lontano)
+
+Quantità
+tant (tanto), pôc (poco), magâra (molto), gnént (niente), manc (meno), pió (più), quant (quanto), quèṡi (quasi), almànc (almeno)
+
+Interrogativi
+quand? (quando?), quant? (quanto?), cum? (come?), csa? (cosa?), quèl? (quale?), parché? (perché?), dóvv? (dove?)
+
+Affermazione, Negazione, e Dubbio
+chisà (chissà), fôrsi (forse), bèle / żà (già), se (se), an (non), nå / nécca (no), sé / ói (sì)
+
+Numeral
+Note the difference between article and pronoun for (ón/un), no distinction exist for other numerals:
+
+For numbers higher than 10, the ordinal is formed by adding quall di before the cardinal numeral. For example: Eleven (ónng’) has the ordinal form of Eleventh (quall di ónng’)
+
+Higher numbers:
+
+1000: méll (m) mélla (f)
+1000000: un migliån
+1000000000: un miglièrd
+Construction:
+
+66 = 60 + 6
+s-santa + sî = s-santsî (without space)
+
+739 = 700 + 30 + 9
+setzänt + tränta + nôv = setzänt-träntanôv
+
+2000 women
+dåu mélla dòn
+
+Syntax
+a n t al dâg brîṡa = non te lo do
+ch'an t véggna = che tu non venga
+
+Negation
+Bolognese dialect, similar to French, uses double negation usually with the particle (a)n before the verb and the word brîṡa after the verb. For verbs beginning with a consonant:
+
+For 3rd person singular masculine: al + an becomes an
+For 3rd person plural feminine: the 3rd person plural masculine verbal pronoun i is used instead.
+
+Other negation particles include:
+
+brîṡa (non): a n l ò brîṡa vésst = non l’ho visto
+mégga (mica): a n sån mégga stè mé! = non sono mica stato io!
+mâi (mai): al n à mâi sånn = non ha mai sonno
+pió (più): a n l ò pió vésst = non l’ho più visto
+gnínta (niente): a n avän gnínta da dîr = non abbiamo niente da dire
+inción (nessuno): an i é inción = non c’è nessuno
+gnanc (neanche / non ancora): al n à gnanc un góbbi = non ha neanche un soldo
+
+Dative construction
+The real subject is a complement of the term -> verb always conjugated in the 3rd person singular, even if the real subject is plural:
+
+Soggetto Fittizio
+When in a sentence the subject of the 3rd person is moved after the verb, the soggetto fittizio ai is always used in the singular.
+(subject + verb) mî mèder l’arîva = (verb + subject) ai arîva mî mèder
+Example:
+
+äl mî amîghi äli én vgnó = le mie amiche sono venute
+ai é vgnó äl mî amîghi = sono venute le mie amiche
+ai vén äl mî amîghi = vengono le mie amiche
+Used with verb of motion:
+
+ai tåurna sô fiôl = torna suo figlio
+ai arîva sô maré = arriva suo marito
+Used with intransitive verbs or used as such when introducing a new subject:
+
+ai é nèd i dû gemî dla Marî e d Pèvel = sono nati i due gemelli di Maria e Paolo
+ai vôl i bichîr = servono i bicchieri
+ai tîra al vänt = tira il vento
+incû ai żûga al Bulåggna = oggi gioca il Bologna
+It is not used if the subject has already been introduced in the conversation:
+Example 1:
+
+chi arîva? tô pèder? = chi arriva? tuo padre?
+sé, ai riva mî pèder = sì, arriva mio padre
+arîvel o nå tô pèder? = arriva o no tuo padre?
+sé, l rîva, mî pèder = sì, arriva, mio padre
+Example 2:
+
+Chi żûga incû? = Chi gioca oggi?
+Incû ai żûga al Bulåggna. = Oggi gioca il Bologna.
+L é bèle tèrd! Mo żûghel o nå, ste Bulåggna? = E’ già tardi! Ma gioca o no, il Bologna?
+Sé, al żûga, al Bulåggna: èvet pazénzia! = Sì, gioca, il Bologna: abbi pazienza!
+It is also used with atmospheric verbs:
+
+al piôv = piove
+al tinpèsta = grandina
+al naiva = nevica
+al sfarósscla = iniziano a scendere piccoli fiocchi di neve prov. Est al sfalésstra
+al tråṅna = tuona
+al ṡlôṡna = lampeggia la ṡluṡnè il lampo
+Using ai with negation:
+
+ai n arîva inción = non arriva nessuno
+ai n suzêd gnínto = non succede nulla
+Using ai in interrogative sentence (no interrogative pronouns necessary):
+Example 1:
+
+ai arîva sô mèder = arriva sua madre
+i arîva sô mèder? = arriva sua madre?
+Example 2:
+
+ai vén la Pèvla e la Giógglia = vengono la Paola e la Giulia
+i vén la Pèvla e la Giógglia? = vengono la Paola e la Giulia?
+
+Adverb of Place "i"
+Equivalent to Italian ci. In the western area (mountains and plains, e.g. Lizzano in Belvedere, Castello di Serravalle, San Giovanni in Persiceto) and northern area (e.g. Pieve di Cento, Galliera) “g” is used instead of "i" in continuity with Modenese and Ferrarese a g vâg, t ig vè, al g và, etc.
+
+Prepositions
+Adjectives not directly connected to a noun or to the verb èser are governed by the preposition ed (possibly in the partitive forms).
+
+ce n’è una novità = ai n é ónna däl nôvi
+adesso te ne dico una bella = adès a t n in dégg ónna däl bèli
+When the verb piacere or provare governs an infinitive verb, the preposition ed is needed:
+
+mi piace mangiare = am pièṡ ed magnèr
+a Maria piace viaggiare = ala Marî ai pièṡ ed viażèr
+proviamo a correre = a pruvän ed córrer
+provano a far tutto = äl prôven ed fèr incôsa
+When verbs of perception (vàdder to see, sénter to feel) follow an infinitive verb, the preposition "a" is needed:
+
+ti ho visto fumare = a t ò vésst a fumèr
+ti ho sentito/sentita cantare = a l ò sintó a cantèr
+dire (conjugated) or parlare (conjugated) + a = dîr (conjugated) or dscårrer (conjugated) + con
+
+parlo a te = a dscårr con té
+dillo a tua sorella = dîl con tô surèla
+stare (conjugated) + a = stèr (conjugated) + da (stèr + a carry a different meaning in Bolognese)
+
+stammi a sentire = stâm da sénter
+state ad ascoltare = stè mò d’asculter
+staremo a vedere = a starän da vàdder
+aspettiamo = a stän d’asptèr
+dietro + a = drî + da (drî + a carry a different meaning in Bolognese)
+
+si è nascosto dietro alla porta = al s é arpiatè drî dal óss
+vado dietro a quell'albero = a vâg drî da cl âlber
+The preposition su = só especially in figurative sense or in vatta especially in material sense.
+
+ci ha pensato un po’ su = al i à pinsè un pôc só
+è sulla tavola = l é só la tèvla
+sul tavolo = in vatta la tèvla
+
+Special Cases
+ecco + noun (declension) = (vít)tal (declension) + adverb of distance (qué, lé, là) + noun (declension)
+
+dovere (conjugated) + verb
+1. avair (conjugated) + da + verb
+
+devi sapere = t è da savair
+devo lavorare = ai ò da lavurèr
+dovrei mangiare meno = ai arêv da magnèr manc
+2. tgnîr (conjugated) + verb
+
+dobbiamo lavorare = a tgnän lavurèr
+devo andare a far la spesa = a téggn andèr a fèr la spaiṡa
+3. dative pronoun + tuchèr (conjugated) + (e)d + verb (experiencing an external event)
+
+devo lavorare di notte = a m tåcca ed lavurèr ala nòt
+non dovrà lavorare il doppio = an s tucarà brîṡa d lavurèr al dåppi
+stare (conjugated) + verb (gerund)
+1. èser (conjugated) + drî a + verb (infinitive)
+
+sta andando = l é drî a andèr
+sto ancora facendo = a sån anc drî a fèr
+2. èser (conjugated) + drî che + verb (indicative)
+
+sto mangiando = a sån drî ch’a mâgn
+stanno arrivando = i én drî ch’i arîven
+3. stare (conjugated) + per + verb (infinitive) = èser (conjugated) + drî par + verb (infinitive)
+
+stanno per arrivare = i én drî pr arivèr
+sto per mangiare = a sån drî par magnèr
+nessuno = inción
+1. as adjective: inción takes a plural form inción (masculine) or inciónni (feminine).
+
+non ho comprato nessun fiore = a n ò cunprè inción fiûr
+non ho visto nessuna donna = a n ò vésst inciónni dòn
+2. as pronoun after a verb: inción takes a plural form.
+
+non capisce niente nessuno = i n capéssen gnînta inción
+di quelle biciclette, non ne vogliono nessuna = ed cäl biziclàtt lé, i n in vôlen inciónni
+3. as pronoun preceding a verb: inción takes a singular form. Verbal pronouns are not required.
+
+nessuno capisce niente = inción capéss gnínta
+non ne vuole nessuno = inción in vôl
+Anc, gnanc = anche / ancora, neanche / non ancora
+1. Gnanc replaces anc on negative sentences.
+
+ai ò anc da magnèr = devo ancora mangiare
+a n ò gnanc da magnèr = non devo ancora mangiare
+Pèvel l é anc arivè a cà = Paolo è ancora arrivato a casa
+Pèvel al n é gnanc arivè a cà = Paolo non è ancora arrivato a casa
+l à anc un góbbi = ha anche un soldo
+al n à gnanc un góbbi = non ha neanche un soldo
+2. anc and gnanc becomes anca and gnanca in front of personal pronouns with the exception of nuèter and vuèter.
+
+anca / gnanca mé = anche/neanche io
+anca / gnanca té = anche/neanche tu
+anca / gnanca ló/lî = anche/neanche = lui / lei
+anc / gnanc nuèter = anche/neanche noi
+anc / gnanc vuèter = anche/neanche voi
+anca / gnanca låur = anche/neanche loro
+dove = dóvv or duv
+1. Before verbs = duv
+
+Dov’è? = duv êla?
+Dove vai? = in duv vèt?
+2. Elsewhere = dóvv
+
+Dove? = in dóvv?
+come = cómm or cum
+1. Before verbs = cum
+
+come mai? = cum êla?
+come va? = cum vèla?
+come stai? = cum stèt?
+2. Elsewhere = cómm
+
+ma come? = mo cómm?
+pronoun + verb + da solo = pronoun + verb + da par + pronoun
+
+io mi difendo da solo = mé a m difànd da par mé
+tu vai al cinema da solo = té t và al cínnema da par té
+bisogna fare tutto da soli = biṡåggna fèr tótt da pr as
+The conjunction es indicates contemporaneity or coordination between two actions. It is used between two verbs conjugated with the same subject, instead of e, with the meaning of "and moreover".
+
+piove e c'è il sole = al piôv es ai é al såul
+rido e piango = a rédd es a zîg
+è un asino e vuol fare il furbo = l é un èṡen es vôl fèr al fûrb
+The adverb mò is used as an exhortative particle, in an urging manner.
+
+prendi l’auto! = ciâpa mò la mâchina!
+proviamo a stare calmi! = pruvän mò ed stèr chiêt!
+prendete nel piatto le tagliatelle! = tulî mò żå äl tajadèl!
+siate contenti! = siêdi mò cuntént!
+state a sentire! = stè mò da sénter!
+
+Example
+References
+External links
+Information about Bolognese verbs

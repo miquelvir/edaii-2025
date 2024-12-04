@@ -1,0 +1,108 @@
+742
+Assignment (computer science)
+In computer programming, an assignment statement sets and/or re-sets the value stored in the storage location(s) denoted by a variable name; in other words, it copies a value into the variable. In most imperative programming languages, the assignment statement (or expression) is a fundamental construct.
+Today, the most commonly used notation for this operation is x = expr (originally Superplan 1949–51, popularized by Fortran 1957 and C). The second most commonly used notation is x := expr (originally [ALGOL](706) 1958, popularised by Pascal). Many other notations are also in use. In some languages, the symbol used is regarded as an operator (meaning that the assignment statement as a whole returns a value). Other languages define assignment as a statement (meaning that it cannot be used in an expression).
+Assignments typically allow a variable to hold different values at different times during its life-span and scope. However, some languages (primarily strictly functional languages) do not allow that kind of "destructive" reassignment, as it might imply changes of non-local state. The purpose is to enforce referential transparency, i.e. functions that do not depend on the state of some variable(s), but produce the same results for a given set of parametric inputs at any point in time. Modern programs in other languages also often use similar strategies, although less strict, and only in certain parts, in order to reduce complexity, normally in conjunction with complementing methodologies such as data structuring, structured programming and object orientation.
+
+Semantics
+An assignment operation is a process in imperative programming in which different values are associated with a particular variable name as time passes. The program, in such model, operates by changing its state using successive assignment statements. Primitives of imperative programming languages rely on assignment to do iteration. At the lowest level, assignment is implemented using machine operations such as MOVE or STORE.
+Variables are containers for values. It is possible to put a value into a variable and later replace it with a new one. An assignment operation modifies the current state of the executing program. Consequently, assignment is dependent on the concept of variables. In an assignment:
+
+The expression is evaluated in the current state of the program.
+The variable is assigned the computed value, replacing the prior value of that variable.
+Example: Assuming that a is a numeric variable, the assignment a := 2*a means that the content of the variable a is doubled after the execution of the statement.
+An example segment of C code:
+
+In this sample, the variable x is first declared as an int, and is then assigned the value of 10. Notice that the declaration and assignment occur in the same statement. In the second line, y is declared without an assignment. In the third line, x is reassigned the value of 23. Finally, y is assigned the value of 32.4.
+For an assignment operation, it is necessary that the value of the expression is well-defined (it is a valid rvalue) and that the variable represents a modifiable entity (it is a valid modifiable (non-const) lvalue). In some languages, typically dynamic ones, it is not necessary to declare a variable prior to assigning it a value. In such languages, a variable is automatically declared the first time it is assigned to, with the scope it is declared in varying by language.
+
+Single assignment
+Any assignment that changes an existing value (e.g. x := x + 1) is disallowed in purely functional languages. In functional programming, assignment is discouraged in favor of single assignment, more commonly known as initialization. Single assignment is an example of name binding and differs from assignment as described in this article in that it can only be done once, usually when the variable is created; no subsequent reassignment is allowed.
+An evaluation of an expression does not have a side effect if it does not change an observable state of the machine, other than producing the result, and always produces same value for the same input. Imperative assignment can introduce side effects while destroying and making the old value unavailable while substituting it with a new one, and is referred to as destructive assignment for that reason in LISP and functional programming, similar to destructive updating.
+Single assignment is the only form of assignment available in purely functional languages, such as Haskell, which do not have variables in the sense of imperative programming languages but rather named constant values possibly of compound nature, with their elements progressively defined on-demand, for the lazy languages. Purely functional languages can provide an opportunity for computation to be performed in parallel, avoiding the von Neumann bottleneck of sequential one step at a time execution, since values are independent of each other.
+Impure functional languages provide both single assignment as well as true assignment (though true assignment is typically used with less frequency than in imperative programming languages). For example, in Scheme, both single assignment (with let) and true assignment (with set!) can be used on all variables, and specialized primitives are provided for destructive update inside lists, vectors, strings, etc. In OCaml, only single assignment is allowed for variables, via the let name = value syntax; however destructive update can be used on elements of arrays and strings with separate <- operator, as well as on fields of records and objects that have been explicitly declared mutable (meaning capable of being changed after their initial declaration) by the programmer.
+Functional programming languages that use single assignment include Clojure (for data structures, not vars), Erlang (it accepts multiple assignment if the values are equal, in contrast to Haskell), F#, Haskell, JavaScript (for constants), Lava, OCaml, Oz (for dataflow variables, not cells), Racket (for some data structures like lists, not symbols), SASL, Scala (for vals), SISAL, Standard ML. Non-backtracking Prolog code can be considered explicit single-assignment, explicit in a sense that its (named) variables can be in explicitly unassigned state, or be set exactly once. In Haskell, by contrast, there can be no unassigned variables, and every variable can be thought of as being implicitly set, when it is created, to its value (or rather to a computational object that will produce its value on demand).
+
+Value of an assignment
+In some programming languages, an assignment statement returns a value, while in others it does not.
+In most expression-oriented programming languages (for example, C), the assignment statement returns the assigned value, allowing such idioms as x = y = a, in which the assignment statement y = a returns the value of a, which is then assigned to x. In a statement such as while ((ch = getchar()) != EOF) {…}, the return value of a function is used to control a loop while assigning that same value to a variable.
+In other programming languages, Scheme for example, the return value of an assignment is undefined and such idioms are invalid.
+In Haskell, there is no variable assignment; but operations similar to assignment (like assigning to a field of an array or a field of a mutable data structure) usually evaluate to the unit type, which is represented as (). This type has only one possible value, therefore containing no information. It is typically the type of an expression that is evaluated purely for its side effects.
+
+Variant forms of assignment
+Certain use patterns are very common, and thus often have special syntax to support them. These are primarily syntactic sugar to reduce redundancy in the source code, but also assists readers of the code in understanding the programmer's intent, and provides the compiler with a clue to possible optimization.
+
+Augmented assignment
+The case where the assigned value depends on a previous one is so common that many imperative languages, most notably C and the majority of its descendants, provide special operators called augmented assignment, like *=, so a = 2*a can instead be written as a *= 2. Beyond syntactic sugar, this assists the task of the compiler by making clear that in-place modification of the variable a is possible.
+
+Chained assignment
+A statement like w = x = y = z is called a chained assignment in which the value of z is assigned to multiple variables w, x, and y. Chained assignments are often used to initialize multiple variables, as in
+a = b = c = d = f = 0
+Not all programming languages support chained assignment. Chained assignments are equivalent to a sequence of assignments, but the evaluation strategy differs between languages. For simple chained assignments, like initializing multiple variables, the evaluation strategy does not matter, but if the targets (l-values) in the assignment are connected in some way, the evaluation strategy affects the result.
+In some programming languages (C for example), chained assignments are supported because assignments are expressions, and have values. In this case chain assignment can be implemented by having a right-associative assignment, and assignments happen right-to-left. For example, i = arri = f() is equivalent to arri = f(); i = arri. In [C++](640) they are also available for values of class types by declaring the appropriate return type for the assignment operator.
+In Python, assignment statements are not expressions and thus do not have a value. Instead, chained assignments are a series of statements with multiple targets for a single expression. The assignments are executed left-to-right so that i = arri = f() evaluates the expression f(), then assigns the result to the leftmost target, i, and then assigns the same result to the next target, arri, using the new value of i. This is essentially equivalent to tmp = f(); i = tmp; arri = tmp though no actual variable is produced for the temporary value.
+
+Parallel assignment
+Some programming languages, such as APL, Common Lisp, Go, JavaScript (since 1.7), PHP, Maple, Lua, occam 2, Perl, Python, REBOL, Ruby, and PowerShell allow several variables to be assigned in parallel, with syntax like:
+
+a, b := 0, 1
+
+which simultaneously assigns 0 to a and 1 to b. This is most often known as parallel assignment; it was introduced in CPL in 1963, under the name simultaneous assignment, and is sometimes called multiple assignment, though this is confusing when used with "single assignment", as these are not opposites. If the right-hand side of the assignment is a single variable (e.g. an array or structure), the feature is called unpacking or destructuring assignment:
+
+var list := {0, 1}
+a, b := list
+
+The list will be unpacked so that 0 is assigned to a and 1 to b. Furthermore,
+
+a, b := b, a
+
+swaps the values of a and b. In languages without parallel assignment, this would have to be written to use a temporary variable
+
+var t := a
+a := b
+b := t
+
+since a := b; b := a leaves both a and b with the original value of b.
+Some languages, such as Go, F# and Python, combine parallel assignment, tuples, and automatic tuple unpacking to allow multiple return values from a single function, as in this Python example,
+
+while other languages, such as C# and Rust, shown here, require explicit tuple construction and deconstruction with parentheses:
+
+This provides an alternative to the use of output parameters for returning multiple values from a function. This dates to CLU (1974), and CLU helped popularize parallel assignment generally.
+C# additionally allows generalized deconstruction assignment with implementation defined by the expression on the right-hand side, as the compiler searches for an appropriate instance or extension Deconstruct method on the expression, which must have output parameters for the variables being assigned to. For example, one such method that would give the class it appears in the same behavior as the return value of f() above would be
+
+In C and [C++](640), the comma operator is similar to parallel assignment in allowing multiple assignments to occur within a single statement, writing a = 1, b = 2 instead of a, b = 1, 2. 
+This is primarily used in for loops, and is replaced by parallel assignment in other languages such as Go.
+However, the above [C++](640) code does not ensure perfect simultaneity, since the right side of the following code a = b, b = a+1 is evaluated after the left side. In languages such as Python, a, b = b, a+1 will assign the two variables concurrently, using the initial value of a to compute the new b.
+
+Assignment versus equality
+The use of the equals sign = as an assignment operator has been frequently criticized, due to the conflict with equals as comparison for equality. This results both in confusion by novices in writing code, and confusion even by experienced programmers in reading code. The use of equals for assignment dates back to Heinz Rutishauser's language Superplan, designed from 1949 to 1951, and was particularly popularized by Fortran:
+
+A notorious example for a bad idea was the choice of the equal sign to denote assignment. It goes back to Fortran in 1957 and has blindly been copied by armies of language designers. Why is it a bad idea? Because it overthrows a century old tradition to let “=” denote a comparison for equality, a predicate which is either true or false. But Fortran made it to mean assignment, the enforcing of equality. In this case, the operands are on unequal footing: The left operand (a variable) is to be made equal to the right operand (an expression). x = y does not mean the same thing as y = x.
+Beginning programmers sometimes confuse assignment with the relational operator for equality, as "=" means equality in mathematics, and is used for assignment in many languages. But assignment alters the value of a variable, while equality testing tests whether two expressions have the same value.
+In some languages, such as [BASIC](748), a single equals sign ("=") is used for both the assignment operator and the equality relational operator, with context determining which is meant. Other languages use different symbols for the two operators. For example:
+
+In [ALGOL](706) and Pascal, the assignment operator is a colon and an equals sign (":=") while the equality operator is a single equals ("=").
+In C, the assignment operator is a single equals sign ("=") while the equality operator is a pair of equals signs ("==").
+In R, the assignment operator is basically <-, as in x <- value, but a single equals sign can be used in certain contexts.
+The similarity in the two symbols can lead to errors if the programmer forgets which form ("=", "==", ":=") is appropriate, or mistypes "=" when "==" was intended. This is a common programming problem with languages such as C (including one famous attempt to backdoor the Linux kernel), where the assignment operator also returns the value assigned (in the same way that a function returns a value), and can be validly nested inside expressions. If the intention was to compare two values in an if statement, for instance, an assignment is quite likely to return a value interpretable as Boolean true, in which case the then clause will be executed, leading the program to behave unexpectedly. Some language processors (such as gcc) can detect such situations, and warn the programmer of the potential error.
+
+Notation
+The two most common representations for the copying assignment are equals sign (=) and colon-equals (:=). Both forms may semantically denote either an assignment statement or an assignment operator (which also has a value), depending on language and/or usage.
+
+Other possibilities include a left arrow or a keyword, though there are other, rarer, variants:
+
+Mathematical pseudo code assignments are generally depicted with a left-arrow.
+Some platforms put the expression on the left and the variable on the right:
+
+Some expression-oriented languages, such as Lisp and Tcl, uniformly use prefix (or postfix) syntax for all statements, including assignment.
+
+See also
+Assignment operator ([C++](640))
+Unification (computer science)
+Immutable object
+Assignment problem
+
+Notes
+
+
+== References ==

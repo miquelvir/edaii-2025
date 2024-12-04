@@ -1,0 +1,71 @@
+634
+Book of Ingenious Devices
+The Book of Ingenious Devices (Arabic: كتاب الحيل, romanized: Kitāb al-Ḥiyāl, Persian: كتاب ترفندها, romanized: Ketâb tarfandhâ, lit. 'Book of Tricks') is a large illustrated work on mechanical devices, including automata, published in 850 by the three brothers of Persian descent, the Banū Mūsā brothers (Ahmad, Muhammad and Hasan ibn Musa ibn Shakir) working at the House of Wisdom (Bayt al-Hikma) in Baghdad, Iraq, under the Abbasid Caliphate. The book described about one hundred devices and how to use them.
+
+Overview
+The book was commissioned by the Abbasid Caliph of Baghdad, Al-Ma'mun (786–833), who instructed the Banū Mūsā brothers to acquire all of the Hellenistic texts that had been preserved by monasteries and by scholars during the decline and fall of Roman civilization. The Banū Mūsā brothers invented a number of automata (automatic machines) and mechanical devices, and they described a hundred such devices in their Book of Ingenious Devices.
+Some of the devices described in the Book of Ingenious Devices were inspired by the works of Hero of Alexandria and Philo of Byzantium, as well as ancient Persian, Chinese and Indian engineering. Many of the other devices described in the book, however, were original inventions by the Banū Mūsā brothers. While they took Greek works as a starting point, the [Banu Musa](629) went "well beyond anything achieved by Hero or Philo." Their preoccupation with automatic controls distinguishes them from their Greek predecessors, including the [Banu Musa](629)'s "use of self-operating valves, timing devices, delay systems and other concepts of great ingenuity." Many of their innovations involved subtle combinations of pneumatics and aerostatics. The closest modern parallel to their work lies in control engineering and pneumatic instrumentation.
+In turn, the Banū Mūsā brothers' work was later cited as an influence on the work of al-Jazari, who produced the Book of Knowledge of Ingenious Mechanical Devices in 1206. Given that the Book of Ingenious Devices was widely circulated across the Muslim world, some of its ideas may have also reached Europe through al-Andalus, such as the use of automatic controls in later European machines or the use of conical valves in the work of Leonardo da Vinci.
+
+Mechanisms and components
+Automatic controls
+The [Banu Musa](629) brothers described a number of early automatic controls. Two-step level controls for fluids, an early form of discontinuous variable structure controls, were developed by the [Banu Musa](629) brothers. They also described an early feedback controller. Donald Routledge Hill wrote the following on the automatic controls underlying the mechanical trick devices described in the book:
+
+The trick vessels have a variety of different effects. For example, a single outlet pipe in a vessel might pour out first wine, then water and finally a mixture of the two. Although it cannot be claimed that the results are important, the means by which they were obtained are of great significance for the history of engineering. The [Banu Musa](629) were masters in the exploitation of small variations in aerostatic and hydrostatic pressures and in using conical valves as "in-line" components in flow systems, the first known use of conical valves as automatic controllers.
+The [Banu Musa](629) also developed an early fail-safe system for use in their trick devices, as described by Hill:
+
+In several of these vessels, one can withdraw small quantities of liquid repeatedly, but if one withdraws a large quantity, no further extractions are possible. In modern terms, one would call the method used to achieve this result a fail-safe system.
+
+Automatic crank
+The non-manual crank appears in several of the hydraulic devices described by the Banū Mūsā brothers in their Book of Ingenious Devices. These automatically operated cranks appear in several devices, two of which contain an action which approximates to that of a crankshaft, anticipating [Al-Jazari](610)'s invention by several centuries and its first appearance in Europe by over five centuries. However, the automatic crank described by the [Banu Musa](629) would not have allowed a full rotation, but only a small modification was required to convert it to a crankshaft.
+
+Valves
+A mechanism developed by the [Banu Musa](629), of particular importance for future developments, was the conical valve, which was used in a variety of different applications. This includes using conical valves as "in-line" components in flow systems, which was the first known use of conical valves as automatic controllers. Some of the other valves they described include:
+
+Plug valve
+Float valve
+Tap
+
+Other mechanisms
+The double-concentric siphon and the funnel with bent end for pouring in different liquids, neither of which appear in any earlier Greek works, were also original inventions by the [Banu Musa](629) brothers. Some of the other mechanisms they described include a float chamber and an early differential pressure sensor.
+
+Machines and devices
+Automatic fountains
+The book describes the construction of various automatic fountains, an aspect that was largely neglected in earlier Greek treatises on technology. In one of these fountains, the "water issues from the fountainhead in the shape of a shield, or like a lily-of-the-valley," i.e. "the shapes are discharged alternately—either a sheet of water concave downwards, or a spray." Another fountain "discharges a shield or a single jet," while a variation of this features double-action alternation, i.e. has two fountainheads, with one discharging a single jet and the other a shield, and the two alternating repeatedly. Another variation features one main fountainhead and two or more subsidiary ones, such that when the main one ejects a single jet, the subsidiaries eject shields, with the two alternating.
+The [Banu Musa](629) brothers also described the earliest known wind-powered fountain, which is described as, "operated by wind or water, it discharges a single jet or a lily-of-the-valley." A variation of this fountain incorporates a worm-and-pinion gear, while another variation features double-action alternation. The book also describes a fountain with variable discharge. The book also describes fountains that change shapes at intervals.
+
+Mechanical musical machines
+The [Banu Musa](629) invented an early mechanical musical instrument, in this case a hydropowered organ which played interchangeable cylinders automatically. According to Charles B. Fowler, this "cylinder with raised pins on the surface remained the basic device to produce and reproduce music mechanically until the second half of the nineteenth century."
+The [Banu Musa](629) also invented an automatic flute player which may have been the first programmable machine. The flute sounds were produced through hot steam and the user could adjust the device to various patterns so that they could get various sounds from it.
+
+Practical tools
+The mechanical grab, specifically the clamshell grab, is an original invention by the [Banu Musa](629) brothers that does not appear in any earlier Greek works. The grab they described was used to extract objects from underwater, and recover objects from the beds of streams.
+The [Banu Musa](629) also described bellows that could remove foul air from wells. They explained that these instruments allow a worker to "descend into any well he wishes for a while and he will not fear it, nor will it harm him, if God wills may he be exalted."
+
+Water dispensers
+The book describes a dispenser for hot and cold water, where the two outlets alternate, one discharging cold water and the other hot, then vice versa repeatedly. It also describes a vessel with a basin by its side where, when cold water is poured into the top of the vessel, it discharges from the mouth of a figure into the basin; when hot water or another liquid is poured into the basin, the same quantity of cold water is discharged from the mouth of the figure.
+The book also describes a boiler with a tap to access hot water. The water is heated through cold water being poured into a pipe which leads to a tank at the bottom of the boiler, where the water is heated with fire. A person can then access hot water from the boiler through a tap.
+
+Other devices
+Some of the other devices the [Banu Musa](629) described in their book include:
+
+Mechanical trick devices
+Hurricane lamp
+Self-trimming lamp (by Ahmad ibn Mūsā ibn Shākir)
+Self-feeding lamp
+
+See also
+List of inventions in the medieval Islamic world
+Islamic Golden Age
+Physics in the medieval Islamic world
+Science and technology in Iran
+
+Notes
+References and further reading
+Bunch, Bryan (2004). The History of Science and Technology. Houghton Mifflin Books. ISBN 0-618-22123-9
+Dimarogonas, Andrew D. (2000). Machine Design: A CAD Approach. Wiley-IEEE. ISBN 0-471-31528-1
+Hill, Donald Routledge (Trans). (1978). Book of Ingenious Devices. Kluwer Academic Publishers. ISBN 90-277-0833-9
+Rosheim, Mark E. (1994). Robot Evolution: The Development of Anthrobotics. Wiley-IEEE. ISBN 0-471-02622-0
+
+External links
+A Review of Early Muslim Control Engineering

@@ -1,0 +1,36 @@
+4065
+Cope rearrangement
+The Cope rearrangement is an extensively studied organic reaction involving the 3,3-sigmatropic rearrangement of 1,5-dienes. It was developed by [Arthur C. Cope](4003) and Elizabeth Hardy. For example, 3-methyl-hexa-1,5-diene heated to 300 °C yields hepta-1,5-diene.
+
+The Cope rearrangement causes the fluxional states of the molecules in the bullvalene family.
+
+Mechanism
+The Cope rearrangement is the prototypical example of a concerted sigmatropic rearrangement. It is classified as a 3,3-sigmatropic rearrangement with the Woodward–Hoffmann symbol π2s+σ2s+π2s and is therefore thermally allowed. It is sometimes useful to think of it as going through a transition state energetically and structurally equivalent to a diradical, although the diradical is not usually a true intermediate (potential energy minimum). The chair transition state illustrated here is preferred in open-chain systems (as shown by the Doering-Roth experiments). However, conformationally constrained systems like cis-1,2-divinyl cyclopropanes can undergo the rearrangement in the boat conformation.
+
+It is currently generally accepted that most Cope rearrangements follow an allowed concerted route through a Hückel aromatic transition state and that a diradical intermediate is not formed. However, the concerted reaction can often be asynchronous and electronically perturbed systems may have considerable diradical character at the transition state. A representative illustration of the transition state of the Cope rearrangement of the electronically neutral hexa-1,5-diene is presented below. Here one can see that the two π-bonds are breaking while two new π-bonds are forming, and simultaneously the σ-bond is breaking while a new σ-bond is forming. In contrast to the Claisen rearrangement, Cope rearrangements without strain release or electronic perturbation are often close to thermally neutral, and may therefore reach only partial conversion due to an insufficiently favorable equilibrium constant. In the case of hexa-1,5-diene, the rearrangement is degenerate (the product is identical to the starting material), so K = 1 by necessity.
+
+In asymmetric dienes one often needs to consider the stereochemistry, which in the case of pericyclic reactions, such as the Cope rearrangement, can be predicted with the Woodward–Hoffmann rules and consideration of the preference for the chair transition state geometry.
+
+Examples
+The rearrangement is widely used in organic synthesis. It is symmetry-allowed when it is suprafacial on all components. The transition state of the molecule passes through a boat or chair like transition state. An example of the Cope rearrangement is the expansion of a cyclobutane ring to a cycloocta-1,5-diene ring:
+
+In this case, the reaction must pass through the boat transition state to produce the two cis double bonds. A trans double bond in the ring would be too strained. The reaction occurs under thermal conditions. The driving force of the reaction is the loss of strain from the cyclobutane ring.
+An organocatalytic Cope rearrangement was first reported in 2016.  In this process, an aldehyde-substituted 1,5-diene is used, allowing "iminium catalysis" to be achieved using a hydrazide catalyst and moderate levels of enantioselectivity (up to 47% ee) to be achieved.
+A number of enzymes catalyze the Cope rearrangement, although its occurrence is rare in nature.
+
+Oxy-Cope rearrangement and related variants
+In the oxy-Cope rearrangement, a hydroxyl group is added at C3 forming an enal or enone after keto-enol tautomerism of the intermediate enol.
+
+In its original implementation, the oxy-Cope reaction required high temperatures. Subsequent work showed that the corresponding potassium alkoxides rearranged faster by 1010 to 1017. By virtue of this innovation, reaction proceed well at room temperature or even 0 °C. Typically potassium hydride and 18-crown-6 are employed to generate the dissociated potassium alkoxide:
+
+The diastereomer of the starting material shown above with an equatorial vinyl group does not react, providing evidence of the concerted nature of this reaction. Nevertheless, the transition state of the reaction is believed to have a high degree of diradical character. Consequently, the anion-accelerated oxy-Cope reaction can proceed with high efficiency even in systems that do not permit efficient orbital overlap, as illustrated by a key step in the synthesis periplanone B:
+
+The corresponding neutral oxy-Cope and siloxy-Cope rearrangements failed, giving only elimination products at 200 °C.
+Another variation of the Cope rearrangement is the  aza-Cope rearrangements.
+
+See also
+Claisen rearrangement, another widely studied 3,3 sigmatropic rearrangement
+divinylcyclopropane-cycloheptadiene rearrangement
+
+
+== References ==

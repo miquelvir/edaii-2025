@@ -1,0 +1,737 @@
+3833
+Angle
+In Euclidean geometry, an angle is the figure formed by two rays, called the sides of the angle, sharing a common endpoint, called the vertex of the angle.
+Angles formed by two rays are also known as plane angles as they lie in the plane that contains the rays. Angles are also formed by the intersection of two planes; these are called dihedral angles. Two intersecting curves may also define an angle, which is the angle of the rays lying tangent to the respective curves at their point of intersection. 
+The magnitude of an angle is called an angular measure or simply "angle". Angle of rotation is a measure conventionally defined as the ratio of a circular arc length to its radius, and may be a negative number. In the case of a geometric angle, the arc is centered at the vertex and delimited by the sides. In the case of a rotation, the arc is centered at the center of the rotation and delimited by any other point and its image by the rotation.
+
+History and etymology
+The word angle comes from the Latin word angulus, meaning "corner". Cognate words include the Greek ἀγκύλος (ankylοs) meaning "crooked, curved" and the English word "ankle". Both are connected with the Proto-Indo-European root *ank-, meaning "to bend" or "bow".
+Euclid defines a plane angle as the inclination to each other, in a plane, of two lines that meet each other and do not lie straight with respect to each other. According to the Neoplatonic metaphysician Proclus, an angle must be either a quality, a quantity, or a relationship. The first concept, angle as quality, was used by Eudemus of Rhodes, who regarded an angle as a deviation from a straight line; the second, angle as quantity, by [Carpus of Antioch](3893), who regarded it as the interval or space between the intersecting lines; Euclid adopted the third: angle as a relationship.
+
+Identifying angles
+In mathematical expressions, it is common to use Greek letters (α, β, γ, θ, φ, . . . ) as variables denoting the size of some angle (the symbol π is typically not used for this purpose to avoid confusion with the constant denoted by that symbol). Lower case Roman letters (a, b, c, . . . ) are also used. In contexts where this is not confusing, an angle may be denoted by the upper case Roman letter denoting its vertex. See the figures in this article for examples.
+The three defining points may also identify angles in geometric figures. For example, the angle with vertex A formed by the rays AB and AC (that is, the half-lines from point A through points B and C) is denoted ∠BAC or 
+  
+    
+      
+        
+          
+            
+              
+                B
+                A
+                C
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\widehat {\rm {BAC}}}}
+  
+. Where there is no risk of confusion, the angle may sometimes be referred to by a single vertex alone (in this case, "angle A").
+In other ways, an angle denoted as, say, ∠BAC might refer to any of four angles: the clockwise angle from B to C about A, the anticlockwise angle from B to C about A, the clockwise angle from C to B about A, or the anticlockwise angle from C to B about A, where the direction in which the angle is measured determines its sign (see § Signed angles). However, in many geometrical situations, it is evident from the context that the positive angle less than or equal to 180 degrees is meant, and in these cases, no ambiguity arises. Otherwise, to avoid ambiguity, specific conventions may be adopted so that, for instance, ∠BAC always refers to the anticlockwise (positive) angle from B to C about A and ∠CAB the anticlockwise (positive) angle from C to B about A.
+
+Types
+Individual angles
+There is some common terminology for angles, whose measure is always non-negative (see § Signed angles):
+
+An angle equal to 0° or not turned is called a zero angle.
+An angle smaller than a right angle (less than 90°) is called an acute angle ("acute" meaning "sharp").
+An angle equal to ⁠1/4⁠ turn (90° or ⁠π/2⁠ radians) is called a right angle. Two lines that form a right angle are said to be normal, orthogonal, or perpendicular.
+An angle larger than a right angle and smaller than a straight angle (between 90° and 180°) is called an obtuse angle ("obtuse" meaning "blunt").
+An angle equal to ⁠1/2⁠ turn (180° or π radians) is called a straight angle.
+An angle larger than a straight angle but less than 1 turn (between 180° and 360°) is called a reflex angle.
+An angle equal to 1 turn (360° or 2π radians) is called a full angle, complete angle, round angle or perigon.
+An angle that is not a multiple of a right angle is called an oblique angle.
+The names, intervals, and measuring units are shown in the table below:
+
+Vertical and adjacent angle pairs
+When two straight lines intersect at a point, four angles are formed. Pairwise, these angles are named according to their location relative to each other.
+
+A transversal is a line that intersects a pair of (often parallel) lines and is associated with exterior angles, interior angles, alternate exterior angles, alternate interior angles, corresponding angles, and consecutive interior angles.
+
+Combining angle pairs
+The angle addition postulate states that if B is in the interior of angle AOC, then
+
+  
+    
+      
+        m
+        ∠
+        
+          A
+          O
+          C
+        
+        =
+        m
+        ∠
+        
+          A
+          O
+          B
+        
+        +
+        m
+        ∠
+        
+          B
+          O
+          C
+        
+      
+    
+    {\displaystyle m\angle \mathrm {AOC} =m\angle \mathrm {AOB} +m\angle \mathrm {BOC} }
+  
+
+I.e., the measure of the angle AOC is the sum of the measure of angle AOB and the measure of angle BOC.
+Three special angle pairs involve the summation of angles:
+
+Polygon-related angles
+An angle that is part of a simple polygon is called an interior angle if it lies on the inside of that simple polygon. A simple concave polygon has at least one interior angle, that is, a reflex angle.   In Euclidean geometry, the measures of the interior angles of a triangle add up to π radians, 180°, or ⁠1/2⁠ turn; the measures of the interior angles of a simple convex quadrilateral add up to 2π radians, 360°, or 1 turn. In general, the measures of the interior angles of a simple convex polygon with n sides add up to (n − 2)π radians, or (n − 2)180 degrees, (n − 2)2 right angles, or (n − 2)⁠1/2⁠ turn.
+The supplement of an interior angle is called an exterior angle; that is, an interior angle and an exterior angle form a linear pair of angles. There are two exterior angles at each vertex of the polygon, each determined by extending one of the two sides of the polygon that meet at the vertex; these two angles are vertical and hence are equal. An exterior angle measures the amount of rotation one must make at a vertex to trace the polygon. If the corresponding interior angle is a reflex angle, the exterior angle should be considered negative. Even in a non-simple polygon, it may be possible to define the exterior angle. Still, one will have to pick an orientation of the plane (or surface) to decide the sign of the exterior angle measure.   In Euclidean geometry, the sum of the exterior angles of a simple convex polygon, if only one of the two exterior angles is assumed at each vertex, will be one full turn (360°). The exterior angle here could be called a supplementary exterior angle. Exterior angles are commonly used in Logo Turtle programs when drawing regular polygons.
+In a triangle, the bisectors of two exterior angles and the bisector of the other interior angle are concurrent (meet at a single point).: 149 
+In a triangle, three intersection points, each of an external angle bisector with the opposite extended side, are collinear.: 149 
+In a triangle, three intersection points, two between an interior angle bisector and the opposite side, and the third between the other exterior angle bisector and the opposite side extended are collinear.: 149 
+Some authors use the name exterior angle of a simple polygon to mean the explement exterior angle (not supplement!) of the interior angle. This conflicts with the above usage.
+
+Plane-related angles
+The angle between two planes (such as two adjacent faces of a polyhedron) is called a dihedral angle. It may be defined as the acute angle between two lines normal to the planes.
+The angle between a plane and an intersecting straight line is equal to ninety degrees minus the angle between the intersecting line and the line that goes through the point of intersection and is normal to the plane.
+
+Measuring angles
+The size of a geometric angle is usually characterized by the magnitude of the smallest rotation that maps one of the rays into the other. Angles of the same size are said to be equal congruent or equal in measure.
+In some contexts, such as identifying a point on a circle or describing the orientation of an object in two dimensions relative to a reference orientation, angles that differ by an exact multiple of a full turn are effectively equivalent. In other contexts, such as identifying a point on a spiral curve or describing an object's cumulative rotation in two dimensions relative to a reference orientation, angles that differ by a non-zero multiple of a full turn are not equivalent.
+
+To measure an angle θ, a circular arc centered at the vertex of the angle is drawn, e.g., with a pair of compasses. The ratio of the length s of the arc by the radius r of the circle is the number of radians in the angle:
+
+  
+    
+      
+        θ
+        =
+        
+          
+            s
+            r
+          
+        
+        
+        
+          r
+          a
+          d
+        
+        .
+      
+    
+    {\displaystyle \theta ={\frac {s}{r}}\,\mathrm {rad} .}
+  
+
+Conventionally, in mathematics and the SI, the radian is treated as being equal to the dimensionless unit 1, thus being normally omitted.
+The angle expressed by another angular unit may then be obtained by multiplying the angle by a suitable conversion constant of the form ⁠k/2π⁠, where k is the measure of a complete turn expressed in the chosen unit (for example, k = 360° for degrees or 400 grad for gradians):
+
+  
+    
+      
+        θ
+        =
+        
+          
+            k
+            
+              2
+              π
+            
+          
+        
+        ⋅
+        
+          
+            s
+            r
+          
+        
+        .
+      
+    
+    {\displaystyle \theta ={\frac {k}{2\pi }}\cdot {\frac {s}{r}}.}
+  
+
+The value of θ thus defined is independent of the size of the circle: if the length of the radius is changed, then the arc length changes in the same proportion, so the ratio s/r is unaltered.
+
+Units
+Throughout history, angles have been measured in various units. These are known as angular units, with the most contemporary units being the degree ( ° ), the radian (rad), and the gradian (grad), though many others have been used throughout history. Most units of angular measurement are defined such that one turn (i.e., the angle subtended by the circumference of a circle at its centre) is equal to n units, for some whole number n. Two exceptions are the radian (and its decimal submultiples) and the diameter part.
+In the International System of Quantities, an angle is defined as a dimensionless quantity, and in particular, the radian unit is dimensionless. This convention impacts how angles are treated in dimensional analysis.
+The following table lists some units used to represent angles.
+
+Dimensional analysis
+Signed angles
+It is frequently helpful to impose a convention that allows positive and negative angular values to represent orientations and/or rotations in opposite directions or "sense" relative to some reference.
+In a two-dimensional Cartesian coordinate system, an angle is typically defined by its two sides, with its vertex at the origin. The initial side is on the positive x-axis, while the other side or terminal side is defined by the measure from the initial side in radians, degrees, or turns, with positive angles representing rotations toward the positive y-axis and negative angles representing rotations toward the negative y-axis. When Cartesian coordinates are represented by standard position, defined by the x-axis rightward and the y-axis upward, positive rotations are anticlockwise, and negative cycles are clockwise.
+In many contexts, an angle of −θ is effectively equivalent to an angle of "one full turn minus θ". For example, an orientation represented as −45° is effectively equal to an orientation defined as 360° − 45° or 315°. Although the final position is the same, a physical rotation (movement) of −45° is not the same as a rotation of 315° (for example, the rotation of a person holding a broom resting on a dusty floor would leave visually different traces of swept regions on the floor).
+In three-dimensional geometry, "clockwise" and "anticlockwise" have no absolute meaning, so the direction of positive and negative angles must be defined in terms of an orientation, which is typically determined by a normal vector passing through the angle's vertex and perpendicular to the plane in which the rays of the angle lie.
+In navigation, bearings or azimuth are measured relative to north. By convention, viewed from above, bearing angles are positive clockwise, so a bearing of 45° corresponds to a north-east orientation. Negative bearings are not used in navigation, so a north-west orientation corresponds to a bearing of 315°.
+
+Equivalent angles
+Angles that have the same measure (i.e., the same magnitude) are said to be equal or congruent. An angle is defined by its measure and is not dependent upon the lengths of the sides of the angle (e.g., all right angles are equal in measure).
+Two angles that share terminal sides, but differ in size by an integer multiple of a turn, are called coterminal angles.
+The reference angle (sometimes called related angle) for any angle θ in standard position is the positive acute angle between the terminal side of θ and the x-axis (positive or negative). Procedurally, the magnitude of the reference angle for a given angle may determined by taking the angle's magnitude modulo ⁠1/2⁠ turn, 180°, or π radians, then stopping if the angle is acute, otherwise taking the supplementary angle, 180° minus the reduced magnitude. For example, an angle of 30 degrees is already a reference angle, and an angle of 150 degrees also has a reference angle of 30 degrees (180° − 150°). Angles of 210° and 510° correspond to a reference angle of 30 degrees as well (210° mod 180° = 30°, 510° mod 180° = 150° whose supplementary angle is 30°).
+
+Related quantities
+For an angular unit, it is definitional that the angle addition postulate holds. Some quantities related to angles where the angle addition postulate does not hold include:
+
+The slope or gradient is equal to the tangent of the angle; a gradient is often expressed as a percentage. For very small values (less than 5%), the slope of a line is approximately the measure in radians of its angle with the horizontal direction.
+The spread between two lines is defined in rational geometry as the square of the sine of the angle between the lines. As the sine of an angle and the sine of its supplementary angle are the same, any angle of rotation that maps one of the lines into the other leads to the same value for the spread between the lines.
+Although done rarely, one can report the direct results of trigonometric functions, such as the sine of the angle.
+
+Angles between curves
+The angle between a line and a curve (mixed angle) or between two intersecting curves (curvilinear angle) is defined to be the angle between the tangents at the point of intersection. Various names (now rarely, if ever, used) have been given to particular cases:—amphicyrtic (Gr. ἀμφί, on both sides, κυρτός, convex) or cissoidal (Gr. κισσός, ivy), biconvex; xystroidal or sistroidal (Gr. ξυστρίς, a tool for scraping), concavo-convex; amphicoelic (Gr. κοίλη, a hollow) or angulus lunularis, biconcave.
+
+Bisecting and trisecting angles
+The ancient Greek mathematicians knew how to bisect an angle (divide it into two angles of equal measure) using only a compass and straightedge but could only trisect certain angles. In 1837, Pierre Wantzel showed that this construction could not be performed for most angles.
+
+Dot product and generalisations
+In the Euclidean space, the angle θ between two Euclidean vectors u and v is related to their dot product and their lengths by the formula
+
+  
+    
+      
+        
+          u
+        
+        ⋅
+        
+          v
+        
+        =
+        cos
+        ⁡
+        (
+        θ
+        )
+        
+          ‖
+          
+            u
+          
+          ‖
+        
+        
+          ‖
+          
+            v
+          
+          ‖
+        
+        .
+      
+    
+    {\displaystyle \mathbf {u} \cdot \mathbf {v} =\cos(\theta )\left\|\mathbf {u} \right\|\left\|\mathbf {v} \right\|.}
+  
+
+This formula supplies an easy method to find the angle between two planes (or curved surfaces) from their normal vectors and between skew lines from their vector equations.
+
+Inner product
+To define angles in an abstract real inner product space, we replace the Euclidean dot product ( · ) by the inner product 
+  
+    
+      
+        ⟨
+        ⋅
+        ,
+        ⋅
+        ⟩
+      
+    
+    {\displaystyle \langle \cdot ,\cdot \rangle }
+  
+, i.e.
+
+  
+    
+      
+        ⟨
+        
+          u
+        
+        ,
+        
+          v
+        
+        ⟩
+        =
+        cos
+        ⁡
+        (
+        θ
+        )
+         
+        
+          ‖
+          
+            u
+          
+          ‖
+        
+        
+          ‖
+          
+            v
+          
+          ‖
+        
+        .
+      
+    
+    {\displaystyle \langle \mathbf {u} ,\mathbf {v} \rangle =\cos(\theta )\ \left\|\mathbf {u} \right\|\left\|\mathbf {v} \right\|.}
+  
+
+In a complex inner product space, the expression for the cosine above may give non-real values, so it is replaced with
+
+  
+    
+      
+        Re
+        ⁡
+        
+          (
+          
+            ⟨
+            
+              u
+            
+            ,
+            
+              v
+            
+            ⟩
+          
+          )
+        
+        =
+        cos
+        ⁡
+        (
+        θ
+        )
+        
+          ‖
+          
+            u
+          
+          ‖
+        
+        
+          ‖
+          
+            v
+          
+          ‖
+        
+        .
+      
+    
+    {\displaystyle \operatorname {Re} \left(\langle \mathbf {u} ,\mathbf {v} \rangle \right)=\cos(\theta )\left\|\mathbf {u} \right\|\left\|\mathbf {v} \right\|.}
+  
+
+or, more commonly, using the absolute value, with
+
+  
+    
+      
+        
+          |
+          
+            ⟨
+            
+              u
+            
+            ,
+            
+              v
+            
+            ⟩
+          
+          |
+        
+        =
+        
+          |
+          
+            cos
+            ⁡
+            (
+            θ
+            )
+          
+          |
+        
+        
+          ‖
+          
+            u
+          
+          ‖
+        
+        
+          ‖
+          
+            v
+          
+          ‖
+        
+        .
+      
+    
+    {\displaystyle \left|\langle \mathbf {u} ,\mathbf {v} \rangle \right|=\left|\cos(\theta )\right|\left\|\mathbf {u} \right\|\left\|\mathbf {v} \right\|.}
+  
+
+The latter definition ignores the direction of the vectors. It thus describes the angle between one-dimensional subspaces 
+  
+    
+      
+        span
+        ⁡
+        (
+        
+          u
+        
+        )
+      
+    
+    {\displaystyle \operatorname {span} (\mathbf {u} )}
+  
+ and 
+  
+    
+      
+        span
+        ⁡
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle \operatorname {span} (\mathbf {v} )}
+  
+ spanned by the vectors 
+  
+    
+      
+        
+          u
+        
+      
+    
+    {\displaystyle \mathbf {u} }
+  
+ and 
+  
+    
+      
+        
+          v
+        
+      
+    
+    {\displaystyle \mathbf {v} }
+  
+ correspondingly.
+
+Angles between subspaces
+The definition of the angle between one-dimensional subspaces 
+  
+    
+      
+        span
+        ⁡
+        (
+        
+          u
+        
+        )
+      
+    
+    {\displaystyle \operatorname {span} (\mathbf {u} )}
+  
+ and 
+  
+    
+      
+        span
+        ⁡
+        (
+        
+          v
+        
+        )
+      
+    
+    {\displaystyle \operatorname {span} (\mathbf {v} )}
+  
+ given by
+
+  
+    
+      
+        
+          |
+          
+            ⟨
+            
+              u
+            
+            ,
+            
+              v
+            
+            ⟩
+          
+          |
+        
+        =
+        
+          |
+          
+            cos
+            ⁡
+            (
+            θ
+            )
+          
+          |
+        
+        
+          ‖
+          
+            u
+          
+          ‖
+        
+        
+          ‖
+          
+            v
+          
+          ‖
+        
+      
+    
+    {\displaystyle \left|\langle \mathbf {u} ,\mathbf {v} \rangle \right|=\left|\cos(\theta )\right|\left\|\mathbf {u} \right\|\left\|\mathbf {v} \right\|}
+  
+
+in a Hilbert space can be extended to subspaces of finite dimensions. Given two subspaces 
+  
+    
+      
+        
+          
+            U
+          
+        
+      
+    
+    {\displaystyle {\mathcal {U}}}
+  
+, 
+  
+    
+      
+        
+          
+            W
+          
+        
+      
+    
+    {\displaystyle {\mathcal {W}}}
+  
+ with 
+  
+    
+      
+        dim
+        ⁡
+        (
+        
+          
+            U
+          
+        
+        )
+        :=
+        k
+        ≤
+        dim
+        ⁡
+        (
+        
+          
+            W
+          
+        
+        )
+        :=
+        l
+      
+    
+    {\displaystyle \dim({\mathcal {U}}):=k\leq \dim({\mathcal {W}}):=l}
+  
+, this leads to a definition of 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+ angles called canonical or principal angles between subspaces.
+
+Angles in Riemannian geometry
+In Riemannian geometry, the metric tensor is used to define the angle between two tangents. Where U and V are tangent vectors and gij are the components of the metric tensor G,
+
+  
+    
+      
+        cos
+        ⁡
+        θ
+        =
+        
+          
+            
+              
+                g
+                
+                  i
+                  j
+                
+              
+              
+                U
+                
+                  i
+                
+              
+              
+                V
+                
+                  j
+                
+              
+            
+            
+              
+                |
+                
+                  
+                    g
+                    
+                      i
+                      j
+                    
+                  
+                  
+                    U
+                    
+                      i
+                    
+                  
+                  
+                    U
+                    
+                      j
+                    
+                  
+                
+                |
+              
+              
+                |
+                
+                  
+                    g
+                    
+                      i
+                      j
+                    
+                  
+                  
+                    V
+                    
+                      i
+                    
+                  
+                  
+                    V
+                    
+                      j
+                    
+                  
+                
+                |
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \cos \theta ={\frac {g_{ij}U^{i}V^{j}}{\sqrt {\left|g_{ij}U^{i}U^{j}\right|\left|g_{ij}V^{i}V^{j}\right|}}}.}
+
+Hyperbolic angle
+A hyperbolic angle is an argument of a hyperbolic function just as the circular angle is the argument of a circular function. The comparison can be visualized as the size of the openings of a hyperbolic sector and a circular sector since the areas of these sectors correspond to the angle magnitudes in each case. Unlike the circular angle, the hyperbolic angle is unbounded. When the circular and hyperbolic functions are viewed as infinite series in their angle argument, the circular ones are just alternating series forms of the hyperbolic functions. This comparison of the two series corresponding to functions of angles was described by Leonhard Euler in Introduction to the Analysis of the Infinite (1748).
+
+Angles in geography and astronomy
+In geography, the location of any point on the Earth can be identified using a geographic coordinate system. This system specifies the latitude and longitude of any location in terms of angles subtended at the center of the Earth, using the equator and (usually) the Greenwich meridian as references.
+In astronomy, a given point on the celestial sphere (that is, the apparent position of an astronomical object) can be identified using any of several astronomical coordinate systems, where the references vary according to the particular system. Astronomers measure the angular separation of two stars by imagining two lines through the center of the Earth, each intersecting one of the stars. The angle between those lines and the angular separation between the two stars can be measured.
+In both geography and astronomy, a sighting direction can be specified in terms of a vertical angle such as altitude /elevation with respect to the horizon as well as the azimuth with respect to north.
+Astronomers also measure objects' apparent size as an angular diameter. For example, the full moon has an angular diameter of approximately 0.5° when viewed from Earth. One could say, "The Moon's diameter subtends an angle of half a degree." The small-angle formula can convert such an angular measurement into a distance/size ratio.
+Other astronomical approximations include:
+
+0.5° is the approximate diameter of the Sun and of the Moon as viewed from Earth.
+1° is the approximate width of the little finger at arm's length.
+10° is the approximate width of a closed fist at arm's length.
+20° is the approximate width of a handspan at arm's length.
+These measurements depend on the individual subject, and the above should be treated as rough rule of thumb approximations only.
+In astronomy, right ascension and declination are usually measured in angular units, expressed in terms of time, based on a 24-hour day.
+
+See also
+Notes
+References
+Bibliography
+Aboughantous, Charles H. (2010), A High School First Course in Euclidean Plane Geometry, Universal Publishers, ISBN 978-1-59942-822-2
+Brinsmade, J. B. (December 1936). "Plane and Solid Angles. Their Pedagogic Value When Introduced Explicitly". American Journal of Physics. 4 (4): 175–179. Bibcode:1936AmJPh...4..175B. doi:10.1119/1.1999110.
+Brownstein, K. R. (July 1997). "Angles—Let's treat them squarely". American Journal of Physics. 65 (7): 605–614. Bibcode:1997AmJPh..65..605B. doi:10.1119/1.18616.
+Eder, W E (January 1982). "A Viewpoint on the Quantity "Plane Angle"". Metrologia. 18 (1): 1–12. Bibcode:1982Metro..18....1E. doi:10.1088/0026-1394/18/1/002. S2CID 250750831.
+Foster, Marcus P (1 December 2010). "The next 50 years of the SI: a review of the opportunities for the e-Science age". Metrologia. 47 (6): R41–R51. doi:10.1088/0026-1394/47/6/R01. S2CID 117711734.
+Godfrey, Charles; Siddons, A. W. (1919), Elementary geometry: practical and theoretical (3rd ed.), Cambridge University Press
+Henderson, David W.; Taimina, Daina (2005), Experiencing Geometry / Euclidean and Non-Euclidean with History (3rd ed.), Pearson Prentice Hall, p. 104, ISBN 978-0-13-143748-7
+Heiberg, Johan Ludvig (1908), Heath, T. L. (ed.), Euclid, The Thirteen Books of Euclid's Elements, vol. 1, Cambridge: Cambridge University Press.
+Jacobs, Harold R. (1974), Geometry, W. H. Freeman, pp. 97, 255, ISBN 978-0-7167-0456-0
+Leonard, B P (1 October 2021). "Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)". Metrologia. 58 (5): 052001. Bibcode:2021Metro..58e2001L. doi:10.1088/1681-7575/abe0fc. S2CID 234036217.
+Lévy-Leblond, Jean-Marc (September 1998). "Dimensional angles and universal constants". American Journal of Physics. 66 (9): 814–815. Bibcode:1998AmJPh..66..814L. doi:10.1119/1.18964.
+Mills, Ian (1 June 2016). "On the units radian and cycle for the quantity plane angle". Metrologia. 53 (3): 991–997. Bibcode:2016Metro..53..991M. doi:10.1088/0026-1394/53/3/991. S2CID 126032642.
+Mohr, Peter J; Phillips, William D (1 February 2015). "Dimensionless units in the SI". Metrologia. 52 (1): 40–47. arXiv:1409.2794. Bibcode:2015Metro..52...40M. doi:10.1088/0026-1394/52/1/40.
+Mohr, Peter J; Shirley, Eric L; Phillips, William D; Trott, Michael (23 June 2022). "On the dimension of angles and their units". Metrologia. 59 (5): 053001. arXiv:2203.12392. Bibcode:2022Metro..59e3001M. doi:10.1088/1681-7575/ac7bc2.
+Moser, James M. (1971), Modern Elementary Geometry, Prentice-Hall
+Quincey, Paul (1 April 2016). "The range of options for handling plane angle and solid angle within a system of units". Metrologia. 53 (2): 840–845. Bibcode:2016Metro..53..840Q. doi:10.1088/0026-1394/53/2/840. S2CID 125438811.
+Quincey, Paul (1 October 2021). "Angles in the SI: a detailed proposal for solving the problem". Metrologia. 58 (5): 053002. arXiv:2108.05704. Bibcode:2021Metro..58e3002Q. doi:10.1088/1681-7575/ac023f. S2CID 236547235.
+Romain, Jacques E. (July 1962). "Angle as a fourth fundamental quantity". Journal of Research of the National Bureau of Standards Section B. 66B (3): 97. doi:10.6028/jres.066B.012.
+Sidorov, L. A. (2001) 1994, "Angle", Encyclopedia of Mathematics, EMS Press
+Slocum, Jonathan (2007), Preliminary Indo-European lexicon — Pokorny PIE data, University of Texas research department: linguistics research center, archived from the original on 27 June 2010, retrieved 2 Feb 2010
+Shute, William G.; Shirk, William W.; Porter, George F. (1960), Plane and Solid Geometry, American Book Company, pp. 25–27
+Torrens, A B (1 January 1986). "On Angles and Angular Quantities". Metrologia. 22 (1): 1–7. Bibcode:1986Metro..22....1T. doi:10.1088/0026-1394/22/1/002. S2CID 250801509.
+Wong, Tak-wah; Wong, Ming-sim (2009), "Angles in Intersecting and Parallel Lines", New Century Mathematics, vol. 1B (1 ed.), Hong Kong: Oxford University Press, pp. 161–163, ISBN 978-0-19-800177-5
+This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911), "Angle", [Encyclopædia Britannica](2230), vol. 2 (11th ed.), Cambridge University Press, p. 14
+
+External links
+
+ 
+"Angle" , [Encyclopædia Britannica](2230), vol. 2 (9th ed.), 1878, pp. 29–30

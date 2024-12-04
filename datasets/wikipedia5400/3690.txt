@@ -1,0 +1,125 @@
+3690
+Charles K. Kao
+Sir Charles Kao Kuen (simplified Chinese: 高锟; traditional Chinese: 高錕; pinyin: Gāo Kūn) (November 4, 1933 – September 23, 2018) was a Chinese physicist and Nobel laureate who contributed to the development and use of fibre optics in telecommunications. In the 1960s, Kao created various methods to combine glass fibres with lasers in order to transmit digital data, which laid the groundwork for the evolution of the Internet and the eventual creation of the World Wide Web.
+Kao was born in Shanghai. His family settled in Hong Kong in 1949. He graduated from St. Joseph's College in Hong Kong in 1952 and went to [London](2275) to study electrical engineering. In the 1960s, Kao worked at Standard Telecommunication Laboratories, the research center of Standard Telephones and Cables (STC) in Harlow, and it was here in 1966 that he laid the groundwork for fibre optics in communication. Known as the "godfather of broadband", the "father of fibre optics", and the "father of fibre optic communications", he continued his work in Hong Kong at the Chinese University of Hong Kong, and in the [United States](1100) at ITT (the parent corporation for STC) and Yale University.  Kao was awarded the Nobel Prize in Physics for "groundbreaking achievements concerning the transmission of light in fibres for optical communication". In 2010, he was knighted by Queen Elizabeth II for "services to fibre optic communications".
+Kao was a permanent resident of Hong Kong, and a citizen of the United Kingdom and the [United States](1100).
+
+Early life and education
+Charles Kao was born in Shanghai in 1933 and lived with his parents in the Shanghai French Concession.: 1  He studied Chinese classics at home with his brother, under a tutor.: 41  He also studied English and French at the Shanghai World School (上海世界學校) that was founded by a number of progressive Chinese educators, including Cai Yuanpei.
+After the Communist revolution, Kao's family settled in Hong Kong in 1949. Much of his mother's siblings moved to Hong Kong in the late 1930s, among them, his mother's youngest brother took good care of him.: 1 
+Kao's family lived in Lau Sin Street, at the edge of the North Point, a neighbourhood of Shanghai immigrants. During Kao's time in Hong Kong, he studied at St. Joseph's College for 5 years and graduated in 1952.
+Kao obtained high score in the Hong Kong School Certificate Examination, which at the time was the territory's matriculation examination, qualifying him for admission to the University of Hong Kong. However, at the time electrical engineering wasn't a programme available at the University of Hong Kong, the territory's then only teritary education institute.
+Hence in 1953, Kao went to [London](2275) to continue his studies in secondary school and obtained his A-Level in 1955. He was later admitted to Woolwich Polytechnic (now the University of Greenwich) and obtained his Bachelor of Electrical Engineering degree.: 1  He then pursued research and received his PhD in electrical engineering in 1965 from the University of [London](2275), under Professor Harold Barlow of University College [London](2275) as an external student while working at Standard Telecommunication Laboratories (STL) in Harlow, England, the research center of Standard Telephones and Cables.
+
+Ancestry and family
+Kao's father Kao Chun-Hsiang (高君湘),: 13  originally from Jinshan City (now a district of Shanghai City), obtained his Juris Doctor from the University of Michigan Law School in 1925. He was a judge at the Shanghai Concession and later a professor at Soochow University (then in Shanghai) Comparative Law School of [China](2217).
+His grandfather Kao Hsieh was a scholar, poet and artist, Several writers including Kao Hsü, Yao Kuang (姚光), and Kao Tseng (高增) were also Kao's close relatives.
+His father's cousin was astronomer Kao Ping-tse (Kao crater is named after him). Kao's younger brother Timothy Wu Kao (高鋙) is a civil engineer and Professor Emeritus at the Catholic University of America. His research is in hydrodynamics.
+Kao met his future wife Gwen May-Wan Kao (née Wong; 黃美芸) in [London](2275) after graduation, when they worked together as engineers at Standard Telephones and Cables. She was British Chinese. They were married in 1959 in [London](2275), and had a son and a daughter, both of whom reside and work in Silicon Valley, California. According to Kao's autobiography, Kao was a Catholic who attended [Catholic Church](3563) while his wife attended the Anglican Communion.: 14–15
+
+Academic career
+Fibre optics and communications
+In the 1960s at Standard Telecommunication Laboratories (STL) based in Harlow, Essex, England, Kao and his coworkers did their pioneering work in creating fibre optics as a telecommunications medium, by demonstrating that the high-loss of existing fibre optics arose from impurities in the glass, rather than from an underlying problem with the technology itself.
+In 1963, when Kao first joined the optical communications research team he made notes summarising the background situation and available technology at the time, and identifying the key individuals involved. Initially Kao worked in the team of Antoni E. Karbowiak (Toni Karbowiak), who was working under Alec Reeves to study optical waveguides for communications. Kao's task was to investigate fibre attenuation, for which he collected samples from different fibre manufacturers and also investigated the properties of bulk glasses carefully. Kao's study primarily convinced him that the impurities in material caused the high light losses of those fibres. Later that year, Kao was appointed head of the electro-optics research group at STL. He took over the optical communication program of STL in December 1964, because his supervisor, Karbowiak, left to take the chair in Communications in the School of Electrical Engineering at the University of New South Wales (UNSW), Sydney, [Australia](1659).
+Although Kao succeeded Karbowiak as manager of optical communications research, he immediately decided to abandon Karbowiak's plan (thin-film waveguide) and overall change research direction with his colleague George Hockham. They not only considered optical physics but also the material properties. The results were first presented by Kao to the IEE in January 1966 in [London](2275), and further published in July with George Hockham (1964–1965 worked with Kao). This study proposed the use of glass fibres for optical communication. The concepts described, especially the electromagnetic theory and performance parameters, are the basis of today's optical fibre communications.
+
+In 1965, Kao with Hockham concluded that the fundamental limitation for glass light attenuation is below 20 dB/km (decibels per kilometer, is a measure of the attenuation of a signal over a distance), which is a key threshold value for optical communications. However, at the time of this determination, optical fibres commonly exhibited light loss as high as 1,000 dB/km and even more. This conclusion opened the intense race to find low-loss materials and suitable fibres for reaching such criteria.
+Kao, together with his new team (members including T. W. Davies, M. W. Jones and C. R. Wright), pursued this goal by testing various materials. They precisely measured the attenuation of light with different wavelengths in glasses and other materials. During this period, Kao pointed out that the high purity of fused silica (SiO2) made it an ideal candidate for optical communication. Kao also stated that the impurity of glass material is the main cause for the dramatic decay of light transmission inside glass fibre, rather than fundamental physical effects such as scattering as many physicists thought at that time, and such impurity could be removed. This led to a worldwide study and production of high-purity glass fibres. When Kao first proposed that such glass fibre could be used for long-distance information transfer and could replace copper wires which were used for telecommunication during that era, his ideas were widely disbelieved; later people realized that Kao's ideas revolutionized the whole communication technology and industry.
+He also played a leading role in the early stage of engineering and commercial realization of optical communication. In spring 1966, Kao traveled to the U.S. but failed to interest [Bell Labs](834), which was a competitor of STL in communication technology at that time. He subsequently traveled to Japan and gained support. Kao visited many glass and polymer factories, discussed with various people including engineers, scientists, businessmen about the techniques and improvement of glass fibre manufacture. In 1969, Kao with M. W. Jones measured the intrinsic loss of bulk-fused silica at 4 dB/km, which is the first evidence of ultra-transparent glass. [Bell Labs](834) started considering fibre optics seriously. As of 2017, fibre optic losses (from both bulk and intrinsic sources) are as low as 0.1419 dB/km at the 1.56 μm wavelength.
+Kao developed important techniques and configurations for glass fibre waveguides, and contributed to the development of different fibre types and system devices which met both civil and military application requirements, and peripheral supporting systems for optical fibre communication. In mid-1970s, he did seminal work on glass fibre fatigue strength. When named the first ITT Executive Scientist, Kao launched the "Terabit Technology" program in addressing the high frequency limits of signal processing, so Kao is also known as the "father of the terabit technology concept". Kao has published more than 100 papers and was granted over 30 patents, including the water-resistant high-strength fibres (with M. S. Maklad).
+At an early stage of developing optic fibres, Kao already strongly preferred single-mode for long-distance optical communication, instead of using multi-mode systems. His vision later was followed and now is applied almost exclusively. Kao was also a visionary of modern submarine communications cables and largely promoted this idea. He predicted in 1983 that world's seas would be littered with fibre optics, five years ahead of the time that such a trans-oceanic fibre-optic cable first became serviceable.
+Ali Javan's introduction of a steady helium–neon laser and Kao's discovery of fibre light-loss properties now are recognized as the two essential milestones for the development of fibre-optic communications.
+
+Later work
+Kao joined the Chinese University of Hong Kong (CUHK) in 1970 to found the Department of Electronics, which later became the Department of Electronic Engineering. During this period, Kao was the reader and then the chair Professor of Electronics at CUHK; he built up both undergraduate and graduate study programs of electronics and oversaw the graduation of his first students. Under his leadership, the School of Education and other new research institutes were established. He returned to ITT Corporation in 1974 (the parent corporation of STC at that time) in the [United States](1100) and worked in Roanoke, Virginia, first as Chief Scientist and later as Director of Engineering. In 1982, he became the first ITT Executive Scientist and was stationed mainly at the Advanced Technology Center in Connecticut. While there, he served as an adjunct professor and Fellow of Trumbull College at Yale University. In 1985, Kao spent one year in West Germany, at the SEL Research Center. In 1986, Kao was the Corporate Director of Research at ITT.
+He was one of the earliest to study the environmental effects of land reclamation in Hong Kong, and presented one of his first related studies at the conference of the Association of Commonwealth Universities (ACU) in Edinburgh in 1972.
+Kao was the vice-chancellor of the Chinese University of Hong Kong from 1987 to 1996. From 1991, Kao was an Independent Non-Executive Director and a member of the Audit Committee of the Varitronix International Limited in Hong Kong. From 1993 to 1994, he was the President of the Association of Southeast Asian Institutions of Higher Learning (ASAIHL). In 1996, Kao donated to Yale University, and the Charles Kao Fund Research Grants was established to support Yale's studies, research and creative projects in Asia. The fund currently is managed by Yale University Councils on East Asian and Southeast Asian Studies. After his retirement from CUHK in 1996, Kao spent his six-month sabbatical leave at the Department of Electrical and Electronic Engineering of Imperial College [London](2275); from 1997 to 2002, he also served as visiting professor in the same department.
+Kao was chairman and member of the Energy Advisory Committee (EAC) of Hong Kong for two years, and retired from the position on July 15, 2000. Kao was a member of the Council of Advisors on Innovation and Technology of Hong Kong, appointed on April 20, 2000. In 2000, Kao co-founded the Independent Schools Foundation Academy, which is located in Cyberport, Hong Kong. He was its founding chairman in 2000, and stepped down from the board of the ISF in December 2008. Kao was the keynote speaker at IEEE GLOBECOM 2002 in Taipei, Taiwan. In 2003, Kao was named a Chair Professor by special appointment at the Electronics Institute of the College of Electrical Engineering and Computer Science, National Taiwan University. Kao then worked as the chairman and CEO of Transtech Services Ltd., a telecommunication consultancy in Hong Kong. He was the founder, chairman and CEO of ITX Services Limited. From 2003 to January 30, 2009, Kao was an independent non-executive director and member of the audit committee of Next Media.
+
+Awards
+Kao received numerous awards such as the Nobel Prize in Physics, Grand Bauhinia Medal, Marconi Prize, Prince Philip Medal, Charles Stark Draper Prize, Bell Award, SPIE Gold Medal, Japan International Award, Faraday Medal, and the James C. McGroddy Prize for New Materials.
+
+Honours
+1993: A Commander of the Most Excellent Order of the British Empire (CBE)
+2010: A Knight Commander of the Most Excellent Order of the British Empire (KBE)
+2010: The Grand Bauhinia Medal (GBM), Hong Kong
+
+Society and academy recognition
+Honorary degrees
+Awards
+Kao donated most of his prize medals to the Chinese University of Hong Kong.
+
+Namesakes
+The minor planet 3463 Kaokuen, discovered in 1981, was named after Kao in 1996.
+1996 (November 7): The north wing of the Chinese University of Hong Kong Science Center was named the Charles Kuen Kao Building.
+2009 (December 30): The landmark auditorium in the Hong Kong Science Park was named after Kao  – the Charles K. Kao Auditorium.
+2010 (March 18): Professor Charles Kao Square, a square of the Independent Schools Foundation Academy
+2014 (September): Sir Charles Kao UTC (now known as BMAT STEM Academy) was opened.
+2014: Kao Data, a data center operator based on the former site of Sir Charles Kao's work on fibre optics cables, was founded.
+
+Others
+Featured in Science Museum [London](2275)
+Hong Kong Affairs Adviser (May 1994 – June 30, 1997)
+Advisor of the Macao Science and Technology Council
+1999: Asian of the Century, Science and Technology
+2002: Leader of the Year – Innovation Technology Category, Sing Tao, Hong Kong
+October 21, 2002: Inducted into the Engineering Hall of Fame, the 50th Anniversary Issue, Electronic Design
+January 3, 2008: Inducted into the Celebration 60, British Council's 60th anniversary in Hong Kong
+November 4, 2009: Honorary citizenship, and the "Dr. Charles Kao Day" in Mountain View, California, U.S.A.
+2009: Hong Kong's Person of the Year
+The Top 10 Asian Achievements of 2009 – No. 7
+2010 (February): Honoree, Committee of 100, U.S.A.
+The 2010 OFC/NFOEC Conferences were dedicated to Kao, March 23–25, San Diego, California, U.S.A.
+May 14–15, 2010: Two sessions were dedicated to Kao at the 19th Annual Wireless and Optical Communications Conference (WOCC 2010), Shanghai, P.R. [China](2217).
+May 22, 2010: Inducted into the memento archive of the 2010 Shanghai World Expo
+Mid-2010: Hong Kong Definitive Stamp Sheetlet (No. 1), Hong Kong
+March 25, 2011: Blue plaque unveiled in Harlow, Essex, U.K.
+November 4, 2014: Gimme Fibre Day on Kao's birthday, FTTH Councils Global Alliance
+November 4, 2021, Google celebrated Kao's birthday with a Google Doodle. The binary output in the graphic spells out 'KAO' when converted to ASCII.
+
+Later life and death
+Kao's international travels led him to opine that he belonged to the world instead of any country. An open letter published by Kao and his wife in 2010 later clarified that "Charles studied in Hong Kong for his high schooling, he has taught here, he was the Vice-Chancellor of CUHK and retired here too. So he is a Hong Kong belonger."
+Pottery making was a hobby of Kao's. Kao also enjoyed reading Wuxia (Chinese martial fantasy) novels.
+Kao suffered from [Alzheimer's disease](313) from early 2004 and had speech difficulty, but had no problem recognising people or addresses. His father suffered from the same disease. Beginning in 2008, he resided in Mountain View, California, [United States](1100), where he moved from Hong Kong in order to live near his children and grandchild.
+On October 6, 2009, when Kao was awarded the Nobel Prize in Physics for his contributions to the study of the transmission of light in optical fibres and for fibre communication, he said, "I am absolutely speechless and never expected such an honor." Kao's wife Gwen told the press that the prize will primarily be used for Charles's medical expenses. In 2010 Charles and Gwen Kao founded the Charles K. Kao Foundation for Alzheimer's Disease to raise public awareness about the disease and provide support for the patients.
+In 2016, Kao lost the ability to maintain his balance. At the end-stage of his dementia he was cared for by his wife and intended not to be kept alive with life support or have CPR performed on him. Kao passed away at Bradbury Hospice in Hong Kong on September 23, 2018, at the age of 84.
+
+Works
+Optical Fiber Technology; by Charles K. Kao. IEEE Press, New York, U.S.A.; 1981.
+Optical Fiber Technology, II; by Charles K. Kao. IEEE Press, New York, U.S.A.; 1981, 343 pages. ISBN 0-471-09169-3 ISBN 978-0-471-09169-1.
+Optical Fiber Systems: Technology, Design, and Applications; by Charles K. Kao. McGraw-Hill, U.S.A.; 1982; 204 pages. ISBN 0-07-033277-0 ISBN 978-0-07-033277-5.
+Optical Fibre (IEE materials & devices series, Volume 6); by Charles K. Kao. Palgrave Macmillan on behalf of IEEE; 1988; University of Michigan; 158 pages. ISBN 0-86341-125-8 ISBN 978-0-86341-125-0
+A Choice Fulfilled: the Business of High Technology; by Charles K. Kao. The Chinese University Press/ Palgrave Macmillan; 1991, 203 pages. ISBN 962-201-521-2 ISBN 978-962-201-521-0
+Tackling the Millennium Bug Together: Public Conferences; by Charles K. Kao. Central Policy Unit, Hong Kong; 48 pages, 1998.
+Technology Road Maps for Hong Kong: a Preliminary Study; by Charles K. Kao. Office of Industrial and Business Development, The Chinese University of Hong Kong; 126 pages, 1990.
+Nonlinear Photonics: Nonlinearities in Optics, Optoelectronics and fibre Communications; by Yili Guo, Kin S. Chiang, E. Herbert Li, and Charles K. Kao. The Chinese University Press, Hong Kong; 2002, 600 pages.
+
+Notes
+^ a: Kao's major task was to investigate light-loss properties in materials of optic fibers, and determine whether they could be removed or not. Hockham's was investigating light-loss due to discontinuities and curvature of fiber.^ b: Some sources show around 1964, for example, "By 1964, a critical and theoretical specification was identified by Dr. Charles K. Kao for long-range communication devices, the 10 or 20 dB of light loss per kilometer standard." from Cisco Press.^ c: In 1980, Kao was awarded the Gold Medal from American Armed Forces Communications and Electronics Association, "for contribution to the application of optical fiber technology to military communications".
+^ d: In the [United States](1100) National Academy of Engineering Membership Website, Kao's country is indicated as "People's Republic of [China](2217)".
+^ e: OFC/NFOEC – Optical Fiber Communication Conference and Exposition/National Fiber Optic Engineers Conference
+^ a: Kao's major task was to investigate light-loss properties in materials of optic fibers, and determine whether they could be removed or not. Hockham's was investigating light-loss due to discontinuities and curvature of fiber.
+^ b: Some sources show around 1964, for example, "By 1964, a critical and theoretical specification was identified by Dr. Charles K. Kao for long-range communication devices, the 10 or 20 dB of light loss per kilometer standard." from Cisco Press.
+^ c: In 1980, Kao was awarded the Gold Medal from American Armed Forces Communications and Electronics Association, "for contribution to the application of optical fiber technology to military communications".
+^ d: In the [United States](1100) National Academy of Engineering Membership Website, Kao's country is indicated as "People's Republic of [China](2217)".
+^ e: OFC/NFOEC – Optical Fiber Communication Conference and Exposition/National Fiber Optic Engineers Conference^ f: for making communication at optical frequencies practical by discovering, inventing, and developing the material, techniques and configurations for glass fibre waveguides and, in particular, for recognizing and proving by careful measurements in bulk glasses that silicon glass could provide the requisite low optical loss needed for a practical communication system^ g: for contribution to the materials research and development that resulted in practical low loss optical fibres, one of the cornerstones of optical communications technology^ h: in recognition of his pioneering work which led to the invention of optical fibre and for his leadership in its engineering and commercial realization; and for his distinguished contribution to higher education in Hong Kong^ i: for pioneering research on wide-band, low-loss optical fibre communications^ j: co-recipient with Robert D. Maurer and John B. MacChesney^ k: for groundbreaking achievements concerning the transmission of light in fibres for optical communication
+
+References
+Further reading
+Kao, Charles (1982). Optical Fibre Systems: Technology, Design and Application. New York, NY: McGraw-Hill Inc., US. ISBN 978-0070332775.
+Hecht, Jeff (1999). City of Light, The Story of Fiber Optics. New York, NY: Oxford University Press. ISBN 978-0-19-510818-7.
+Kao, K. C.; Hockham, G. A. (1966). "Dielectric-fibre surface waveguides for optical frequencies". Proc. IEE. 113 (7): 1151–1158. doi:10.1049/piee.1966.0189.
+Kao, K. C.; Davies, T. W. (1968). "Spectrophotometric Studies of Ultra Low Loss Optical Glasses – I: Single Beam Method". Journal of Physics E. 2 (1): 1063–1068. Bibcode:1968JPhE....1.1063K. doi:10.1088/0022-3735/1/11/303. PMID 5707856.
+K. C. Kao (June 1986), "1012 bit/s Optoelectronics Technology", IEE Proceedings 133, Pt.J, No 3, 230–236. doi:10.1049/ip-j.1986.0037
+高錕. 傑出華人系列 (documentary and oral history) (in Cantonese, Chinese, and English). Radio Television Hong Kong. 2000. Retrieved September 27, 2018.
+"Oral-History:Charles Kao". Engineering and Technology History Wiki (oral history transcript). Interview Conducted by Robert Colburn. September 26, 2018 interview conducted in 2004. Retrieved September 27, 2018.{{cite web}}:  CS1 maint: others (link)
+Kao, Charles K. (2010). A Time and A Tide: Charles K. Kao ─ A Memoir (autobiography). Chinese University Press. ISBN 9789629969721.
+Kao, Charles K. (2005).  潮平岸闊——高錕自傳 A Time And A Tide: Charles K. Kao ─ A Memoir (autobiography) (in Chinese (Hong Kong)). Translated by 許迪鏘. Joint Publishing (Hong Kong). ISBN 978-962-04-3444-0.
+
+External links
+
+Optical Fibre History at STL
+Charles K. Kao on Nobelprize.org  including the Nobel Lecture 8 December 2009 Sand from centuries past; Send future voices fast
+[BBC](2927): Lighting the way to a revolution
+Mountain View Voice: The legacy of Charles Kao Archived February 15, 2021, at the Wayback Machine
+Man who lit up the world – Professor Charles Kao CBE FREng Ingenia, Issue 43, June 2010

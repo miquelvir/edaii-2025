@@ -1,0 +1,118 @@
+4780
+Contraction (grammar)
+A contraction is a shortened version of the spoken and written forms of a word, syllable, or word group, created by omission of internal letters and sounds.
+In linguistic analysis, contractions should not be confused with crasis, abbreviations and initialisms (including acronyms), with which they share some semantic and phonetic functions, though all three are connoted by the term "abbreviation" in layman’s terms. Contraction is also distinguished from morphological clipping, where beginnings and endings are omitted.
+The definition overlaps with the term portmanteau (a linguistic blend), but a distinction can be made between a portmanteau and a contraction by noting that contractions are formed from words that would otherwise appear together in sequence, such as do and not, whereas a portmanteau word is formed by combining two or more existing words that all relate to a singular concept that the portmanteau describes.
+
+English
+English has a number of contractions, mostly involving the elision of a vowel, which is replaced by an apostrophe in writing, as in I'm for "I am", and sometimes other changes as well. Contractions are common in speech and in informal writing but tend to be avoided in more formal writing (with limited exceptions, such as the now-standard form "o'clock").
+The main contractions are listed in the following table.
+
+Although can't, wouldn't and other forms ending ‑n't clearly started as contractions, ‑n't is now neither a contraction (a cliticized form) nor part of one but instead a negative inflectional suffix. Evidence for this is (i) ‑n't occurs only with auxiliary verbs, and clitics are not limited to particular categories or subcategories; (ii) again unlike contractions, their forms are not rule-governed but idiosyncratic (e.g., will  → won't, can → can't); and (iii) as shown in the table, the inflected and "uncontracted" versions may require different positions in a sentence.
+
+Chinese
+The Old Chinese writing system (oracle bone script and bronzeware script) is well suited for the (almost) one-to-one correspondence between morpheme and glyph. Contractions in which one glyph represents two or more morphemes are a notable exception to that rule. About 20 or so are noted to exist by traditional philologists and are known as jiāncí (兼詞, lit. 'concurrent words'), and more words have been proposed to be contractions by recent scholars, based on recent reconstructions of Old Chinese phonology, epigraphic evidence, and syntactic considerations. For example, 非 fēi has been proposed to be a contraction of 不 (bù) + 唯/隹 (wéi/zhuī). The contractions are not generally graphically evident, and there is no general rule for how a character representing a contraction might be formed. As a result, the identification of a character as a contraction, as well as the word(s) that are proposed to have been contracted, is sometimes disputed.
+As vernacular Chinese dialects use sets of function words that differ considerably from Classical Chinese, almost all of the classical contractions that are listed below are now archaic and have disappeared from everyday use. However, modern contractions have evolved from the new vernacular function words. Modern contractions appear in all major modern dialect groups. For example, 别 (bié) 'don't' in Standard Mandarin is a contraction of 不要 (bùyào), and 覅 (fiào) 'don't' in Shanghainese is a contraction of 勿要 (wù yào), as is apparent graphically. Similarly, in Northeastern Mandarin 甭 (béng) 'needn't' is a phonological and graphical contraction of 不用 (bùyòng). Finally, [Cantonese](4597) contracts 乜嘢 (mat1 ye5) 'what?' to 咩 (me1).
+
+Table of Classical Chinese contractions
+
+Note: The particles 爰, 焉, 云, and 然 ending in -ja/ən behave as the grammatical equivalents of a verb (or coverb) followed by 之 'him; her; it (third-person object)' or a similar demonstrative pronoun in the object position. In fact, 于/於 '(is) in; at', 曰 'say', and 如 'resemble' are never followed by 之 '(third-person object)' or 此 '(near demonstrative)' in pre-Qin texts. Instead, the respective 'contractions' 爰/焉, 云, and 然 are always used in their place. Nevertheless, no known object pronoun is phonologically appropriate to serve as the hypothetical pronoun that underwent contraction. Hence, many authorities do not consider them to be true contractions. As an alternative explanation for their origin, Edwin G. Pulleyblank proposed that the -n ending is derived from a Sino-Tibetan aspect marker that later took on anaphoric character.: 80
+
+Dutch
+Here are some of the contractions in Standard Dutch:
+
+Informal Belgian Dutch uses a wide range of non-standard contractions such as "hoe's't" (from "hoe is het?" - how are you?), "hij's d'r" (from "hij is daar" - he's there), "w'ebbe' goe' g'ete'" (from "we hebben goed gegeten" - we had eaten well) and "wa's da'?" (from "wat is dat?" - what is that?. Some of these contractions:
+
+French
+French has a variety of contractions like in English except that they are mandatory, as in C'est la vie ("That's life") in which c'est stands for ce + est ("that is"). The formation of such contractions is called elision.
+In general, any monosyllabic word ending in e caduc (schwa) contracts if the following word begins with a vowel, h or y (as h is silent and absorbed by the sound of the succeeding vowel; y sounds like i). In addition to ce → c'- (demonstrative pronoun "that"), these words are que → qu'- (conjunction, relative pronoun, or interrogative pronoun "that"), ne → n'- ("not"), se → s'- ("himself", "herself", "itself", "oneself" before a verb), je → j'- ("I"), me → m'- ("me" before a verb), te → t'-  (informal singular "you" before a verb), le or la → l'- ("the"; or  "he", "she", "it" before a verb or after an imperative verb and before the word y or en), and de → d'- ("of"). Unlike with English contractions, however, thoose contractions are mandatory: one would never say (or write) *ce est or *que elle.
+Moi ("me") and toi (informal "you") mandatorily contract to m'- and t'-, respectively, after an imperative verb and before the word y or en.
+It is also mandatory to avoid the repetition of a sound when the conjunction si ("if") is followed by il ("he", "it") or ils ("they"), which begin with the same vowel sound i: *si il → s'il ("if it", if he"); *si ils → s'ils ("if they").
+Certain prepositions are also mandatorily merged with masculine and plural direct articles: au for à le, aux for à les, du for de le, and des for de les. However, the contraction of cela (demonstrative pronoun "that") to ça is optional and informal.
+In informal speech, a personal pronoun may sometimes be contracted onto a following verb. For example, je ne sais pas (IPA: ʒənəsɛpa, "I don't know") may be pronounced roughly chais pas (IPA: ʃɛpa), with the ne being completely elided and the ʒ of je being mixed with the s of sais. It is also common in informal contexts to contract tu to t'- before a vowel: t'as mangé for tu as mangé.
+
+Hebrew
+In Modern Hebrew, the prepositional prefixes -בְּ /bə-/ 'in' and -לְ /lə-/ 'to' contract with the definite article prefix -ה (/ha-/) to form the prefixes -ב /ba/ 'in the' and -ל /la/ 'to the'. In Colloquial Israeli Hebrew, the preposition את (/ʔet/), which indicates a definite direct object, and the definite article prefix -ה (/ha-/) are often contracted to 'ת (/ta-/) when the former immediately precedes the latter; thus, ראיתי את הכלב (/ʁaˈʔiti ʔet haˈkelev/, "I saw the dog") may become ראיתי ת'כלב (/ʁaˈʔiti taˈkelev/).
+
+Italian
+In Italian, prepositions merge with direct articles in predictable ways. The prepositions a, da, di, in, su, con and per combine with the various forms of the definite article, namely il, lo, la, l', i, gli, gl', and le.
+
+Contractions with a, da, di, in, and su are mandatory, but those with con and per are optional.
+Words in parentheses are no longer very commonly used. However, there's a difference between pel and pei, which are old-fashioned, and the other contractions of per, which are frankly obsolete. Col and coi are still common; collo, colla, cogli and colle are nowadays rare in the written language, but common in speaking.
+Formerly, gl' was often used before words beginning with i, however it is no longer in very common (written) use.
+The words ci and è (form of essere, to be) and the words vi and è are contracted into c'è and v'è (both meaning "there is").
+
+"C'è / V'è un problema" – There is a problem
+The words dove and come are contracted with any word that begins with e, deleting the -e of the principal word, as in "Com'era bello!" – "How handsome he / it was!", "Dov'è il tuo amico?" – "Where's your friend?" The same is often true of other words of similar form, e.g. quale.
+The direct object pronouns "lo" and "la" may also contract to form "l'" with a form of "avere", such as "L'ho comprato" - "I have bought it", or "L'abbiamo vista" - "We have seen her".
+
+Spanish
+Spanish has two mandatory phonetic contractions between prepositions and articles: al (to the) for a el, and del (of the) for de el (not to be confused with a él, meaning to him, and de él, meaning his or, more literally, of him).
+Other contractions were common in writing until the 17th century, the most usual being de + personal and demonstrative pronouns: destas for de estas (of these, fem.), daquel for de aquel (of that, masc.), dél for de él (of him) etc.; and the feminine article before words beginning with a-: l'alma for la alma, now el alma (the soul). Several sets of demonstrative pronouns originated as contractions of aquí (here) + pronoun, or pronoun + otro/a (other): aqueste, aqueso, estotro etc. The modern aquel (that, masc.) is the only survivor of the first pattern; the personal pronouns nosotros (we) and vosotros (pl. you) are remnants of the second. In medieval texts, unstressed words very often appear contracted: todol for todo el (all the, masc.), ques for que es (which is); etc. including with common words, like d'ome (d'home/d'homme) instead de ome (home/homme), and so on.
+Though not strictly a contraction, a special form is used when combining con with mí, ti, or sí, which is written as conmigo for *con mí (with me), contigo for *con ti (with you sing.), consigo for *con sí (with himself/herself/itself/themselves (themself).)
+Finally, one can hear pa' for para, deriving as pa'l for para el, but these forms are only considered appropriate in informal speech.
+
+Portuguese
+In Portuguese, contractions are common and much more numerous than those in Spanish. Several prepositions regularly contract with certain articles and pronouns. For instance, de (of) and por (by; formerly per) combine with the definite articles o and a (masculine and feminine forms of "the" respectively), producing do, da (of the), pelo, pela (by the). The preposition de contracts with the pronouns ele and ela (he, she), producing dele, dela (his, her). In addition, some verb forms contract with enclitic object pronouns: e.g., the verb amar (to love) combines with the pronoun a (her), giving amá-la (to love her).
+Another contraction in Portuguese that is similar to English ones is the combination of the pronoun da with words starting in a, resulting in changing the first letter a for an apostrophe and joining both words. Examples: Estrela d'alva (A popular phrase to refer to Venus that means "Alb star", as a reference to its brightness); Caixa d'água (water tank).
+
+German
+In informal, spoken German prepositional phrases, one can often merge the preposition and the article; for example, von dem becomes vom, zu dem becomes zum, or an das becomes ans. Some of these are so common that they are mandatory. In informal speech, aufm for auf dem, unterm for unter dem, etc. are also  used, but would be considered to be incorrect if written, except maybe in quoted direct speech, in appropriate context and style.
+The pronoun es often contracts to 's (usually written with the apostrophe) in certain contexts. For example, the greeting Wie geht es? is usually encountered in the contracted form Wie geht's?.
+
+Local languages in German-speaking areas
+Regional dialects of German, and various local languages that usually were already used long before today's Standard German was created, do use contractions usually more frequently than German, but varying widely between different local languages. The informally spoken German contractions are observed almost everywhere, most often accompanied by additional ones, such as in den becoming in'n (sometimes im) or haben wir becoming hamwer, hammor, hemmer, or hamma depending on local intonation preferences. Bavarian German features several more contractions such as gesund sind wir becoming xund samma, which are schematically applied to all word or combinations of similar sound. (One must remember, however, that German wir exists alongside Bavarian mir, or mia, with the same meaning.) The Munich-born footballer Franz Beckenbauer has as his catchphrase "Schau mer mal" ("Schauen wir einmal" - in English "We shall see."). A book about his career had as its title the slightly longer version of the phrase, "Schau'n Mer Mal".
+Such features are found in all central and southern language regions. A sample from Berlin: Sag einmal, Meister, kann man hier einmal hinein? is spoken as Samma, Meesta, kamma hier ma rin?
+Several West Central German dialects along the Rhine River have built contraction patterns involving long phrases and entire sentences. In speech, words are often concatenated, and frequently the process of "liaison" is used. So, Dat kriegst Du nicht may become Kressenit, or Lass mich gehen, habe ich gesagt may become Lomejon haschjesaat.
+Mostly, there are no binding orthographies for local dialects of German, hence writing is left to a great extent to authors and their publishers. Outside quotations, at least, they usually pay little attention to print more than the most commonly spoken contractions, so as not to  degrade their readability. The use of apostrophes to indicate omissions is a varying and considerably less frequent process than in English-language publications.
+
+Indonesian
+In standard Indonesian, there are no contractions applied, although Indonesian contractions exist in Indonesian slang. Many of these contractions are terima kasih to makasih ("thank you"), kenapa to napa ("why"), nggak to gak ("not"), sebentar to tar ("a moment"), and sudah to dah ("done").
+
+Norwegian
+The use of contractions is not allowed in any form of standard Norwegian spelling; however, it is fairly common to shorten or contract words in spoken language. Yet, the commonness varies from dialect to dialect and from sociolect to sociolect—it depends on the formality etc. of the setting. Some common, and quite drastic, contractions found in Norwegian speech are "jakke" for "jeg har ikke", meaning "I do not have" and "dække" for "det er ikke", meaning "there is not". The most frequently used of these contractions—usually consisting of two or three words contracted into one word, contain short, common and often monosyllabic words like jeg, du, deg, det, har or ikke. The use of the apostrophe (') is much less common than in English, but is sometimes used in contractions to show where letters have been dropped.
+In extreme cases, long, entire sentences may be written as one word. An example of this is "Det ordner seg av seg selv" in standard written [Bokmål](4488), meaning "It will sort itself out" could become "dånesæsæsjæl" (note the letters Å and Æ, and the word "sjæl", as an eye dialect spelling of selv). R-dropping, being present in the example, is especially common in speech in many areas of Norway , but plays out in different ways, as does elision of word-final phonemes like /ə/.
+Because of the many dialects of Norwegian and their widespread use it is often difficult to distinguish between non-standard writing of standard Norwegian and eye dialect spelling. It is almost universally true that these spellings try to convey the way each word is pronounced, but it is rare to see language written that does not adhere to at least some of the rules of the official orthography. Reasons for this include words spelled unphonemically, ignorance of conventional spelling rules, or adaptation for better transcription of that dialect's phonemes.
+
+Latin
+Latin contains several examples of contractions. One such case is preserved in the verb nolo (I am unwilling/do not want), which was formed by a contraction of non volo (volo meaning "I want"). Similarly this is observed in the first person plural and third person plural forms (nolumus and nolunt respectively).
+
+Japanese
+Some contractions in rapid speech include ～っす (-ssu) for です (desu) and すいません (suimasen) for すみません (sumimasen). では (dewa) is often contracted to じゃ (ja). In certain grammatical contexts the particle の (no) is contracted to simply ん (n).
+When used after verbs ending in the conjunctive form ～て (-te), certain auxiliary verbs and their derivations are often abbreviated. Examples:
+
+* this abbreviation is never used in the polite conjugation, to avoid the resultant ambiguity between an abbreviated ikimasu (go) and the verb kimasu (come).
+The ending ～なければ (-nakereba) can be contracted to ～なきゃ (-nakya) when it is used to indicate obligation. It is often used without an auxiliary, e.g., 行かなきゃ（いけない） (ikanakya (ikenai)) "I have to go."
+Other times, contractions are made to create new words or to give added or altered meaning:
+
+The word 何か (nanika) "something" is contracted to なんか (nanka) to make a colloquial word with a meaning along the lines of "sort of", but that can be used with almost no meaning. Its usage is as a filler word is similar to English "like."
+じゃない (ja nai) "is not" is contracted to じゃん (jan), which is used at the end of statements to show the speaker's belief or opinion, often when it is contrary to that of the listener, e.g., いいじゃん！ (ii jan!) "What, it's fine!"
+The commonly used particle-verb phrase という (to iu) is often contracted to ～って／～て／～っつー (-tte/-te/-ttsū) to give a more informal or noncommittal feeling.
+といえば (to ieba), the conditional form of という (to iu) mentioned above, is contracted to ～ってば (-tte ba) to show the speaker's annoyance at the listener's failure to listen to, remember, or heed what the speaker has said, e.g., もういいってば！ (mō ii tte ba!), "I already told you I don't want to talk about it anymore!".
+The common words だ (da) and です (desu) are older contractions that originate from である (de aru) and でございます (de gozaimasu). These are fully integrated into the language now, and are not generally thought of as contractions; however in formal writing (e.g., literature, news articles, or technical/scientific writing), である (de aru) is used in place of だ (da).
+The first-person singular pronoun 私 is pronounced わたくし (watakushi) in very formal speech, but commonly contracted to わたし(watashi) in less formal speech, and further clipped in specifically younger women's speech to あたし (atashi).
+Various dialects of Japanese also use their own specific contractions that are often unintelligible to speakers of other dialects.
+
+Polish
+In Polish, pronouns have contracted forms that are more prevalent in their colloquial usage. Examples are go and mu. The non-contracted forms are jego (unless it is used as a possessive pronoun) and jemu, respectively. The clitic -ń, which stands for niego (him), as in dlań (dla niego), is more common in literature. The non-contracted forms are generally used as a means to accentuate.
+
+Uyghur
+Uyghur, a Turkic language spoken in [Central Asia](2067), includes some verbal suffixes that are actually contracted forms of compound verbs (serial verbs). For instance, sëtip alidu (sell-manage, "manage to sell") is usually written and pronounced sëtivaldu, with the two words forming a contraction and the p leniting into a v or w.
+
+Filipino/Tagalog
+In Filipino, most contractions need other words to be contracted correctly. Only words that end with vowels can make a contraction with words like "at" and "ay." In this chart, the "@" represents any vowel.
+
+See also
+Apostrophe
+Blend
+Clipping (morphology)
+Elision
+List of common English usage misconceptions
+Poetic contraction
+Synalepha
+Syncope (phonetics)
+
+Notes
+
+
+== References ==

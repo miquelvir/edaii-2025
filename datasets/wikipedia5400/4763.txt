@@ -1,0 +1,204 @@
+4763
+Clitic
+In morphology and syntax, a clitic ( KLIT-ik, backformed from Greek ἐγκλιτικός enklitikós "leaning" or "enclitic") is a morpheme that has syntactic characteristics of a word, but depends phonologically on another word or phrase. In this sense, it is syntactically independent but phonologically dependent—always attached to a host. A clitic is pronounced like an affix, but plays a syntactic role at the phrase level.  In other words, clitics have the form of affixes, but the distribution of function words.
+Clitics can belong to any grammatical category, although they are commonly pronouns, determiners, or adpositions. Note that orthography is not always a good guide for distinguishing clitics from affixes: clitics may be written as separate words, but sometimes they are joined to the word they depend on (like the Latin clitic -que, meaning "and") or separated by special characters such as hyphens or apostrophes (like the English clitic 's in "it's" for "it has" or "it is").
+
+Classification
+Clitics fall into various categories depending on their position in relation to the word they connect to.
+
+Proclitic
+A proclitic appears before its host.
+
+Enclitic
+An enclitic appears after its host.
+
+Latin: Senatus Populus-que Romanus
+"Senate people-and Roman" = "The Senate and people of Rome"
+Spanish: tenerlo
+"to have it"
+[Ancient Greek](3061): ánthrōpoí (-te) theoí -te
+"people (and) gods and" = "(both) men and gods"
+Sanskrit: naro gajaś-ca नरो गजश्च i.e. "naraḥ gajaḥ ca" नरस् गजस् -च with sandhi
+"the man the elephant and" = "the man and the elephant"
+Sanskrit: Namaste < namaḥ + te, (Devanagari: नमः + -ते = नमस्ते), with sandhi change namaḥ > namas.
+"bowing to you"
+Czech: Nevím, chtělo-li by se mi si to tam však také vyzkoušet.
+"However (však), I do not know (nevím), if (-li) it would (by) want (chtělo se) to try (vyzkoušet si) it (to) to me (mi) there (tam) as well (také)." (= However, I'm not sure if I would like to try it there as well.)
+Tamil: idu eṉ pū = இது என் பூ (This is my flower). With enclitic -vē, which indicates certainty, this sentence becomes
+idu eṉ pūvē = இது என் பூவே (This is certainly my flower)
+Telugu: idi nā puvvu = ఇది నా పువ్వు (This is my flower). With enclitic -ē, which indicates certainty, this sentence becomes
+Idi nā puvvē = ఇది నా పువ్వే (This is certainly my flower)
+Estonian: Rahagagi vaene means "Poor even having money". Enclitic -gi with the comitative case turns "with/having something" into "even with/having something". Without the enclitic, the saying would be "rahaga vaene", which would mean that the predicate is "poor, but has money" (compared to "poor even having money", having money won't make a difference if the predicate is poor or not).
+
+Endoclitic
+Some authors postulate endoclitics, which split a stem and are inserted between the two elements. For example, they have been claimed to occur between the elements of bipartite verbs (equivalent to English verbs such as take part) in the Udi language. Endoclitics have also been claimed for Pashto and Degema.
+However, other authors treat such forms as a sequence of clitics docked to the stem.
+
+Mesoclitic
+A mesoclitic is a type of clitic that occurs between the stem of a verb and its affixes. Mesoclisis is rare outside of formal standard Portuguese, where it is predominantly found. In Portuguese, mesoclitic constructions are typically formed with the infinitive form of the verb, a clitic pronoun, and a lexicalized tense affix.
+For example, in the sentence conquistar-se-á ("it will be conquered"), the reflexive pronoun "se" appears between the stem conquistar and the future tense affix á. This placement of the clitic is characteristic of mesoclisis. Other examples include dá-lo-ei ("I will give it") and matá-la-ia ("he/she/it would kill her"). These forms are typically found much more frequently in written Portuguese than in spoken varieties. Additionally, it is possible to use two clitics within a verb, as in dar-no-lo-á ("he/she/it will give it to us") and dar-ta-ei (ta = te + a, "I will give it/her to you").
+This phenomenon is possible due to the historical evolution of the Portuguese synthetic future tense, which comes from the fusion of the infinitive form of the verb and the finite forms of the auxiliary verb haver (from Latin habēre). This origin explains why the clitic can appear between the verb stem and its tense marker, as the future tense was originally a separate word.
+
+Distinction
+One distinction drawn by some scholars divides the broad term "clitics" into two categories, simple clitics and special clitics. This distinction is, however, disputed.
+
+Simple clitics
+Simple clitics are free morphemes: can stand alone in a phrase or sentence. They are unaccented and thus phonologically dependent upon a nearby word. They derive meaning only from that "host".
+
+Special clitics
+Special clitics are morphemes that are bound to the word upon which they depend: they exist as a part of their host. That form, which is unaccented, represents a variant of a free form that carries stress. Both variants carry similar meaning and phonological makeup, but the special clitic is bound to a host word and is unaccented.
+
+Properties
+Some clitics can be understood as elements undergoing a historical process of grammaticalization:
+     lexical item → clitic → affix
+According to this model from Judith Klavans, an autonomous lexical item in a particular context loses the properties of a fully independent word over time and acquires the properties of a morphological affix (prefix, suffix, infix, etc.). At any intermediate stage of this evolutionary process, the element in question can be described as a "clitic". As a result, this term ends up being applied to a highly heterogeneous class of elements, presenting different combinations of word-like and affix-like properties.
+
+Comparison with affixes
+Although the term "clitic" can be used descriptively to refer to any element whose grammatical status is somewhere in between a typical word and a typical affix, linguists have proposed various definitions of "clitic" as a technical term. One common approach is to treat clitics as words that are prosodically deficient: that, like affixes, they cannot appear without a host, and can only form an accentual unit in combination with their host. The term postlexical clitic is sometimes used for this sense of the term.
+Given this basic definition, further criteria are needed to establish a dividing line between clitics and affixes. There is no natural, clear-cut boundary between the two categories (since from a diachronic point of view, a given form can move gradually from one to the other by morphologization). However, by identifying clusters of observable properties that are associated with core examples of clitics on the one hand, and core examples of affixes on the other, one can pick out a battery of tests that provide an empirical foundation for a clitic-affix distinction.
+An affix syntactically and phonologically attaches to a base morpheme of a limited part of speech, such as a verb, to form a new word.  A clitic syntactically functions above the word level, on the phrase or clause level, and attaches only phonetically to the first, last, or only word in the phrase or clause, whichever part of speech the word belongs to.
+The results of applying these criteria sometimes reveal that elements that have traditionally been called "clitics" actually have the status of affixes (e.g., the Romance pronominal clitics discussed below).
+Zwicky and Pullum postulated five characteristics that distinguish clitics from affixes:
+
+Clitics do not select their hosts.  That is, they are "promiscuous", attaching to whichever word happens to be in the right place.  Affixes do select their host:  They only attach to the word they are connected to semantically, and generally attach to a particular part of speech.
+Clitics do not exhibit arbitrary lexical gaps.  Affixes, on the other hand, are often lexicalized and may simply not occur with certain words.  (English plural -s, for example, does not occur with "child".)
+Clitics do not exhibit morphophonological idiosyncrasies.  That is, they follow the morphophonological rules of the rest of the language.  Affixes may be irregular in this regard.
+Clitics do not exhibit semantic idiosyncrasies.  That is, the meaning of the phrase-plus-clitic is predictable from the meanings of the phrase and the clitic.  Affixes may have irregular meanings.
+Clitics can attach to material already containing clitics (and affixes).  Affixes can attach to other affixes, but not to material containing clitics. That is, an affix may appear between a stem and a clitic, but a clitic may not occur between a stem and an affix to that stem.
+An example of differing analyses by different linguists is the discussion of the possessive marker ('s) in English.  Some linguists treat it as an affix, while others treat it as a clitic.
+
+Comparison with words
+Similar to the discussion above, clitics must be distinguishable from words. Linguists have proposed a number of tests to differentiate between the two categories. Some tests, specifically, are based upon the understanding that when comparing the two, clitics resemble affixes, while words resemble syntactic phrases. Clitics and words resemble different categories, in the sense that they share certain properties. Six such tests are described below. These are not the only ways to differentiate between words and clitics.
+
+If a morpheme is bound to a word and can never occur in complete isolation, then it is likely a clitic. In contrast, a word is not bound and can appear on its own.
+If the addition of a morpheme to a word prevents further affixation, then it is likely a clitic.
+If a morpheme combines with single words to convey a further degree of meaning, then it is likely a clitic. A word combines with a group of words or phrases to denote further meaning.
+If a morpheme must be in a certain order with respect to other morphemes within the construction, then it is likely a clitic. Independent words enjoy free ordering with respect to other words, within the confines of the word order of the language.
+If a morpheme's allowable behavior is determined by one principle, it is likely a clitic. For example, "a" precedes indefinite nouns in English. Words can rarely be described with one such description.
+In general, words are more morphologically complex than clitics. Clitics are rarely composed of more than one morpheme.
+
+Word order
+Clitics do not always appear next to the word or phrase that they are associated with grammatically. They may be subject to global word order constraints that act on the entire sentence. Many Indo-European languages, for example, obey Wackernagel's law (named after Jacob Wackernagel), which requires sentential clitics to appear in "second position", after the first syntactic phrase or the first stressed word in a clause:
+
+Latin had three enclitics that appeared in second or third position of a clause: -enim 'indeed, for', -autem 'but, moreover', -vero 'however'.  For example, quis enim (quisenim) potest negare? (from Martial's epigram LXIV, literally "who indeed can deny her riches?"). Spevak (2010) reports that in her corpus of Caesar, [Cicero](2074) and Sallust, these three words appear in such position in 100% of the cases.
+Russian has one: ли (li) which acts as a general question marker. It always appears in second position in its sentence or proposition, and if the interrogation concerns one word in particular, that word is placed before it:
+Он завтра придёт (on zavtra pridyot), He'll arrive tomorrow.
+Придёт ли он завтра?, Will he arrive tomorrow?
+Завтра ли он придёт?, Is it tomorrow that he'll arrive?
+Он ли завтра придёт?, Is it he who'll arrive tomorrow?
+Я не знаю, придёт ли он завтра (Ya nye znayu, pridyot li on zavtra), I don't know if he'll arrive tomorrow.
+
+Indo-European languages
+Germanic languages
+English
+English enclitics include the contracted versions of auxiliary verbs, as in I'm and we've. Some also regard the possessive marker, as in The Queen of England's crown as an enclitic, rather than a (phrasal) genitival inflection.
+Some consider the infinitive marker to and the English articles a, an, the to be proclitics.
+The negative marker -n't as in couldn't etc. is typically considered a clitic that developed from the lexical item not. Linguists Arnold Zwicky and Geoffrey Pullum argue, however, that the form has the properties of an affix rather than a syntactically independent clitic.
+
+Other Germanic languages
+Old Norse: The definite article was the enclitic -inn, -in, -itt (masculine, feminine and neuter nominative singular), as in álfrinn ("the elf"), gjǫfin ("the gift"), and tréit ("the tree"), an abbreviated form of the independent pronoun hinn, cognate of the German pronoun jener. It was fully declined for gender, case and number. Since both the noun and enclitic were declined, this led to "double declension". The situation remains similar in modern Faroese and Icelandic, but in Danish, Norwegian and Swedish, the enclitics have become endings. Old Norse had also some enclitics of personal pronouns that were attached to verbs. These were -sk (from sik), -mk (from mik), -k (from ek), and -ðu / -du / -tu (from þú). These could even be stacked up, e.g. fásktu (Hávamál, stanza 116).
+Dutch: 't definite article of neuter nouns and third person singular neuter pronoun, 'k first person pronoun, je second person singular pronoun, ie third person masculine singular pronoun, ze third person plural pronoun
+Plautdietsch: Deit'a't vondoag? ("Will he do it today?")
+Gothic: Sentence clitics appear in 2nd position in accordance with Wackernagel's Law, including -u (yes–no question), -uh ("and"), þan ("then"), ƕa ("anything"), for example ab-u þus silbin ("of thyself?"). Multiple clitics could be stacked up, and split a preverb from its rest of the verb if the preverb comes at the beginning of the clause, e.g. diz-uh-þan-sat ijōs ("and then he seized them (fem.)"), ga-u-ƕa-sēƕi ("whether he saw anything").
+Yiddish: The unspecified pronoun מען can be contracted to מ'.
+
+Celtic languages
+In Cornish, the clitics ma / na are used after a noun and definite article to express "this" / "that" (singular) and "these" / "those" (plural). For example:
+
+an lyver "the book", an lyver ma "this book", an lyver na "that book"
+an lyvrow "the books", an lyvrow ma "these books", an lyvrow na "those books"
+Irish Gaelic uses seo / sin as clitics in a similar way, also to express "this" / "that" and "these" / "those". For example:
+
+an leabhar "the book", an leabhar seo "this book", an leabhar sin "that book"
+na leabhair "the books", na leabhair seo "these books", na leabhair sin "those books"
+
+Romance languages
+In Romance languages, some have treated the object personal pronoun forms as clitics, though they only attach to the verb they are the object of and so are affixes by the definition used here. There is no general agreement on the issue. For the Spanish object pronouns, for example:
+
+lo atamos loaˈtamos ("it tied-1PL" = "we tied it" or "we tied him"; can only occur with the verb it is the object of)
+dámelo ˈdamelo ("give me it")
+Portuguese allows object suffixes before the conditional and future suffixes of the verbs:
+
+Ela levá-lo-ia ("She take-it-would" – "She would take it").
+Eles dar-no-lo-ão ("They give-us-it-will" – "They will give it to us").
+Colloquial Portuguese allows ser to be conjugated as a verbal clitic adverbial adjunct to emphasize the importance of the phrase compared to its context, or with the meaning of "really" or "in truth":
+
+Ele estava era gordo ("He was was fat" – "He was very fat").
+Ele ligou é para Paula ("He phoned is Paula" – "He phoned Paula (with emphasis)").
+Note that this clitic form is only for the verb ser and is restricted to only third-person singular conjugations. It is not used as a verb in the grammar of the sentence but introduces prepositional phrases and adds emphasis. It does not need to concord with the tense of the main verb, as in the second example, and can be usually removed from the sentence without affecting the simple meaning.
+
+Proto-Indo-European
+In the Indo-European languages, some clitics can be traced back to Proto-Indo-European: for example, *-kʷe is the original form of Sanskrit च (-ca), Greek τε (-te), and Latin -que.
+
+Latin: -que "and", -ve "or", -ne (yes–no question)
+Greek: τε "and", δέ "but", γάρ "for" (in a logical argument), οὖν "therefore"
+
+Slavic languages
+Russian: ли (yes–no question), же (emphasis), то (emphasis), не "not" (proclitic), бы (subjunctive)
+Czech: special clitics: weak personal and reflexive pronouns (mu, "him"), certain auxiliary verbs (by, "would"), and various short particles and adverbs (tu, "here"; ale, "though"). "Nepodařilo by se mi mu to dát" "I would not succeed in giving it to him". In addition there are various simple clitics including short prepositions.
+Polish: -by (conditional mood particle), się (reflexive, also modifies meaning of certain verbs), no and -że (emphasis), -m, -ś, -śmy, -ście (personal auxiliary), mi, ci, cię, go, mu &c. (unstressed personal pronouns in oblique cases)
+
+Serbo-Croatian
+Serbo-Croatian: the reflexive pronoun forms si and se, li (yes–no question), unstressed present and aorist tense forms of biti ("to be"; sam, si, je, smo, ste, su; and bih, bi, bi, bismo, biste, bi, for the respective tense), unstressed personal pronouns in genitive (me, te, ga, je, nas, vas, ih), dative (mi, ti, mu, joj, nam, vam, im) and accusative (me, te, ga (nj), je (ju), nas, vas, ih), and unstressed present tense of htjeti ("want/will"; ću, ćeš, će, ćemo, ćete, će)
+These clitics follow the first stressed word in the sentence or clause in most cases, which may have been inherited from Proto-Indo-European (see Wackernagel's Law), even though many of the modern clitics became cliticised much more recently in the language (e.g. auxiliary verbs or the accusative forms of pronouns). In subordinate clauses and questions, they follow the connector and/or the question word respectively.
+Examples (clitics – sam "I am", biste "you would (pl.)", mi "to me", vam "to you (pl.)", ih "them"):
+
+Pokažite mi ih. "Show (pl.) them to me."
+Pokazao sam vam ih jučer. "I showed them to you (pl.) yesterday."
+Sve sam vam ih (jučer) pokazao. / Sve sam vam ih pokazao (jučer). "I showed all of them to you (yesterday)." (focus on "all")
+Jučer sam vam ih (sve) pokazao. "I showed (all of) them to you yesterday." (focus on "yesterday")
+Znam da sam vam ih već pokazao. "I know that I have already shown them to you."
+Zašto sam vam ih jučer pokazao? "Why did I show them to you yesterday?"
+Zar sam vam ih jučer pokazao? "Did I (really) show them to you yesterday?"
+Kad biste mi ih sada dali... "If you (pl.) gave them to me now..." (lit. If you-would to-me them now give-participle...)
+Što sam god vidio... "Whatever I saw..." (lit. What I-am ever see-participle...)
+In certain rural dialects this rule is (or was until recently) very strict, whereas elsewhere various exceptions occur. These include phrases containing conjunctions (e. g. Ivan i Ana "Ivan and Ana"), nouns with a genitival attribute (e. g. vrh brda "the top of the hill"), proper names and titles and the like (e. g. (gospođa) Ivana Marić "(Mrs) Ivana Marić", grad Zagreb "the city (of) Zagreb"), and in many local varieties clitics are hardly ever inserted into any phrases (e. g. moj najbolji prijatelj "my best friend", sutra ujutro "tomorrow morning"). In cases like these, clitics normally follow the initial phrase, although some Standard grammar handbooks recommend that they should be placed immediately after the verb (many native speakers find this unnatural).
+Examples: 
+
+Ja smo i on otišli u grad. "He and I went to town." (lit. I are and him gone to town) – this is dialectal.
+Ja i on smo otišli u grad. – commonly heard
+Ja i on otišli smo u grad. – prescribed by some standard grammars
+Moja mu je starija sestra to rekla. "My elder sister told him that." (lit. my to-him is elder sister that say-participle) – standard and usual in many dialects
+Moja starija sestra mu je to rekla. – common in many dialects
+Clitics are however never inserted after the negative particle ne, which always precedes the verb in Serbo-Croatian, or after prefixes (earlier preverbs), and the interrogative particle li always immediately follows the verb. Colloquial interrogative particles such as da li, dal, jel appear in sentence-initial position and are followed by clitics (if there are any).
+Examples: 
+
+Ne vidim te. "I don't (or can't) see you."
+Dovedite ih. "Bring them (over here)!" (a prefixed verb: do+vedite)
+Vidiš li me? "Do/can you see me?"
+Vidiš li sestru? "Do you see the sister?" (It is impossible to say, e. g. **Sestru li vidiš?, although Sestru vidiš. "It's the sister that you see." is natural)
+Jel (me) vidiš? "Do/Can you see (me)?" (colloquial)
+
+Other languages
+Arabic: Suffixes standing for direct object pronouns and/or indirect object pronouns (as found in Indo-European languages) are suffixed to verbs, possessive determiners are suffixed to nouns, and pronouns are suffixed to particles.
+Australian Aboriginal languages: Many Australian languages use bound pronoun enclitics to mark inanimate arguments and, in many pro-drop languages like Warlpiri, animate arguments as well. Pronominal enclitics may also mark possession and other less common argument structures like causal and reciprocal arguments (see Pintupi). In some Australian languages, case markers also seem to operate like special clitics since they are distributed at the phrasal instead of word level (indeed, clitics have been referred to as "phrasal affixes") see for example in Wangkatja.
+Finnish: Finnish has seven clitics, which change according to the vowel harmony: -kO (-ko ~ -kö), -kA (-ka ~ -kä), -kin, -kAAn (-kaan ~ -kään), -pA (-pa ~ -pä), -hAn (-han ~ -hän) and -s. One word can have multiple clitics attached to it: onkohan? "I wonder if it is?"
+-kO attached to a verb makes it a question. It is used in yes/no questions: Katsot televisiota "You are watching television" → Katsotko televisiota? "Are you watching television?". It can also be added to words that are not verbs but the emphasis changes: Televisiotako katsot? "Is it television you're watching?", Sinäkö katsot televisiota? "Is it you who is watching television?"
+-kA gives the host word a colloquial tone: miten ~ mitenkä ("how"). When attached to a negative verb it corresponds with "and": En pidä mansikoista enkä mustikoista "I don't like strawberries nor blueberries". It can also make a negative verb stronger: Enkä tule! "I definitely won't come!"
+-kin is a focus particle, often used instead of myös ("also" / "as well"): Minäkin olin siellä "I was there, too". Depending on the context when attached to a verb it can also express that something happened according to the plan or as a surprise and not according to the plan. It can also make exclamations stronger. It can be attached to several words in the same sentence, changing the focus of the host word, but can only appear once per sentence: Minäkin olin siellä ("I, too, was there"), Minä olinkin siellä ("Surprisingly, I was there" or "As expected, I was there"), Minä olin sielläkin ("I was there as well")
+-kAAn is also a focus particle and it corresponds with -kin in negative sentences: Minäkään en ollut siellä "I wasn't there either". Like -kin it can be attached to several host words in the same sentence. The only word it cannot be attached to is a negative verb. In questions it acts as a confirmation, like the word again in English: Missä sanoitkaan asuvasi? "Where did you say you lived again?"
+-pA is a tone particle which can either add an arguing or patronising tone, or strengthen the host word:  Minäpä tiedän paremmin! "Well, I know better!", Onpa kaunis kissa! "Wow what a beautiful cat!", No, kerropa, miksi teit sen! "Well, go ahead and tell why you did it"
+-hAn is also a tone particle. In interrogative sentences  it can make the question more polite and not as pressing: Onkohan isäsi kotona? "(I wonder if your dad is at home?" In command phrases it makes the command softer: Tulehan tänne "Come here you". It can also make a sentence more explanatory, make a claim more self-evident, express that something happened according to one's expectations, or that something came as a surprise etc. Pekka tuntee minut, onhan hän minun opettajani "Pekka knows me, he is my teacher after all", Kaikkihan niin tekevät "Everyone does that after all", Maijahan se siinä! "Well, if it isn't Maija!" Luulin, ettette osaisi, mutta tehän puhutte suomea hyvin "I thought you wouldn't be able to, but you speak Finnish well"
+-s is a tone particle as well. It can also be used as a mitigating or softening phrase like -hAn: Annikos se on? "Oh, but isn't it Anni?", Tules tänne "Come here, you", Miksikäs ei? "Well, why not?", Paljonkos kello on? "Say, what time it is?"
+Ganda: -nga attached to a verb to form the progressive; -wo 'in' (also attached to a verb)
+Georgian: -o (2nd and 3rd person speakers) and -metki (1st person speakers) is added to the end of a sentence to show reported speech. Examples: K'atsma miutxra, xval gnaxe-o = The man told me that he would see you tomorrow (Literally, "The man told me, tomorrow I see you reported") vs. K'atss vutxari, xval gnaxe-metki = I told the man that I would see you tomorrow (Literally, "To man I told, tomorrow I see you first person reported).
+Hungarian: the marker of indirect questions is -e: Nem tudja még, jön-e. "He doesn't know yet if he'll come." This clitic can also mark direct questions with a falling intonation. Is ("as well") and se ("not... either") also function as clitics: although written separately, they are pronounced together with the preceding word, without stress: Ő is jön. "He'll come too." Ő sem jön. "He won't come, either."
+Korean: The copula 이다 (ida) and the adjectival 하다 (hada), as well as some nominal and verbal particles (e.g. 는, neun). However, alternative analysis suggests that the nominal particles do not function as clitics, but as phrasal affixes.
+Somali: pronominal clitics, either subject or object clitics, are required in Somali. These exist as simple clitics postponed to the noun they apply to. Lexical arguments can be omitted from sentences, but pronominal clitics cannot be.
+Turkish: there are some clitics which are independent words, while others are suffixes: the clitic mI (realised as mi, mı, mu, or mü depending on vowel harmony) is used to form yes/no questions, such as iyi mi? "is it good?". It can be inflected by person: iyi misin? "are you good?". The clitic dA (realised as da or de) means "too", "as well" or "also": Sen de iyi misin? means "are you also good?". However, this word must be pronounced and written carefully, as the -dA (another clitic) suffix creates the locative case: o da means "him too", but oda means "room"; oda da means "the room too" and odada means in the room. Verbal clitics also exist, for pronouns as well as for certain meanings like "if" (-sa) or "can" (-Abil). Pronominal clitics make pronouns redundant in most situations.
+
+See also
+Clitic climbing
+Clitic doubling
+Functional item
+Genitive case
+Grammatical particle
+Possessive case
+Separable affix
+Tmesis
+V2 word order
+Weak and strong forms in English
+Weak pronoun
+
+
+== References ==

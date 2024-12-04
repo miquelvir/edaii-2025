@@ -1,0 +1,138 @@
+831
+Backus–Naur form
+In computer science, Backus–Naur form (BNF; ; Backus normal form) is a notation used to describe the syntax of programming languages or other formal languages. It was developed by John Backus and Peter Naur. BNF can be described as a metasyntax notation for context-free grammars. Backus–Naur form is applied wherever exact descriptions of languages are needed, such as in official language specifications, in manuals, and in textbooks on programming language theory. BNF can be used to describe document formats, instruction sets, and communication protocols.
+Over time, many extensions and variants of the original Backus–Naur notation have been created; some are exactly defined, including extended Backus–Naur form (EBNF) and augmented Backus–Naur form (ABNF).
+
+Overview
+BNFs describe how to combine different symbols to produce a syntactically correct sequence. BNFs consist of three components: a set of non-terminal symbols, a set of terminal symbols, and rules for replacing non-terminal symbols with a sequence of symbols. These so-called "derivation rules" are written as
+
+where:
+
+<symbol> is a nonterminal variable that is always enclosed between the pair <>.
+::= means that the symbol on the left must be replaced with the expression on the right.
+__expression__ consists of one or more sequences of either terminal or nonterminal symbols where each sequence is separated by a vertical bar "|" indicating a choice, the whole being a possible substitution for the symbol on the left.
+All syntactically correct sequences must be generated in the following manner:
+
+Initialize the sequence so that it just contains one start symbol.
+Apply derivation rules to this start symbol and the ensuing sequences of symbols.
+Applying rules in this manner can produce longer and longer sequences, so many BNF definitions allow for a special "delete" symbol to be included in the specification. We can specify a rule that allows us to replace some symbols with this "delete" symbol, which is meant to indicate that we can remove the symbols from our sequence and still have a syntactically correct sequence.
+
+Example
+As an example, consider this possible BNF for a U.S. postal address:
+
+ 
+This translates into English as: 
+
+A postal address consists of a name-part, followed by a street-address part, followed by a zip-code part.
+A name-part consists of either: a personal-part followed by a last name followed by an optional suffix (Jr. Sr., or dynastic number) and end-of-line, or a personal part followed by a name part (this rule illustrates the use of recursion in BNFs, covering the case of people who use multiple first and middle names and initials).
+A personal-part consists of either a first name or an initial followed by a dot.
+A street address consists of a house number, followed by a street name, followed by an optional apartment specifier, followed by an end-of-line.
+A zip-part consists of a town-name, followed by a comma, followed by a state code, followed by a ZIP-code followed by an end-of-line.
+An opt-suffix-part consists of a suffix, such as "Sr.", "Jr." or a roman-numeral, or an empty string (i.e. nothing).
+An opt-apt-num consists of a prefix "Apt" followed by an apartment number, or an empty string (i.e. nothing).
+Note that many things (such as the format of a first-name, apartment number, ZIP-code, and Roman numeral) are left unspecified here. If necessary, they may be described using additional BNF rules.
+
+History
+The idea of describing the structure of language using rewriting rules can be traced back to at least the work of Pāṇini, an ancient Indian Sanskrit grammarian and a revered scholar in Hinduism who lived sometime between the 6th and 4th century BC. His notation to describe Sanskrit word structure is equivalent in power to that of Backus and has many similar properties.
+In Western society, grammar was long regarded as a subject for teaching, rather than scientific study; descriptions were informal and targeted at practical usage.  In the first half of the 20th century, linguists such as Leonard Bloomfield and Zellig Harris started attempts to formalize the description of language, including phrase structure.
+Meanwhile, string rewriting rules as formal logical systems were introduced and studied by mathematicians such as Axel Thue (in 1914), Emil Post (1920s–40s) and Alan Turing (1936).  Noam Chomsky, teaching linguistics to students of information theory at MIT, combined linguistics and mathematics by taking what is essentially Thue's formalism as the basis for the description of the syntax of natural language. He also introduced a clear distinction between generative rules (those of context-free grammars) and transformation rules (1956).
+John Backus, a programming language designer at IBM, proposed a metalanguage of "metalinguistic formulas"
+to describe the syntax of the new programming language IAL, known today as [ALGOL](706) 58 (1959).  His notation was first used in the [ALGOL](706) 60 report.
+BNF is a notation for Chomsky's context-free grammars. Backus was familiar with Chomsky's work.
+As proposed by Backus, the formula defined "classes" whose names are enclosed in angle brackets.  For example, <ab>.  Each of these names denotes a class of basic symbols.
+Further development of [ALGOL](706) led to [ALGOL](706) 60. In the committee's 1963 report, Peter Naur called Backus's notation Backus normal form. Donald Knuth argued that BNF should rather be read as Backus–Naur form, as it is "not a normal form in the conventional sense",
+unlike, for instance, Chomsky normal form.  The name Pāṇini Backus form was also once suggested in view of the fact that the expansion Backus normal form may not be accurate, and that Pāṇini had independently developed a similar notation earlier.
+BNF is described by Peter Naur in the [ALGOL](706) 60 report as metalinguistic formula:
+
+Sequences of characters enclosed in the brackets <> represent metalinguistic variables whose values are sequences of symbols. The marks "::=" and "|" (the latter with the meaning of "or") are metalinguistic connectives. Any mark in a formula, which is not a variable or a connective, denotes itself. Juxtaposition of marks or variables in a formula signifies juxtaposition of the sequence denoted.
+Another example from the [ALGOL](706) 60 report illustrates a major difference between the BNF metalanguage and a Chomsky context-free grammar. Metalinguistic variables do not require a rule defining their formation. Their formation may simply be described in natural language within the <> brackets. The following [ALGOL](706) 60 report section 2.3 comments specification, exemplifies how this works:
+
+For the purpose of including text among the symbols of a program the following "comment" conventions hold:
+
+Equivalence here means that any of the three structures shown in the left column may be replaced, in any occurrence outside of strings, by the symbol shown in the same line in the right column without any effect on the action of the program.
+
+Naur changed two of Backus's symbols to commonly available characters. The ::= symbol was originally a :≡. The | symbol was originally the word "or" (with a bar over it).: 14 
+BNF is very similar to canonical-form Boolean algebra equations that are, and were at the time, used in logic-circuit design. Backus was a mathematician and the designer of the FORTRAN programming language. Studies of Boolean algebra is commonly part of a mathematics curriculum. Neither Backus nor Naur described the names enclosed in < > as non-terminals. Chomsky's terminology was not originally used in describing BNF. Naur later described them as classes in [ALGOL](706) course materials. In the [ALGOL](706) 60 report they were called metalinguistic variables. Anything other than the metasymbols ::=, |, and class names enclosed in < > are symbols of the language being defined. The metasymbol ::= is to be interpreted as "is defined as". The | is used to separate alternative definitions and is interpreted as "or". The metasymbols < > are delimiters enclosing a class name. BNF is described as a metalanguage for talking about [ALGOL](706) by Peter Naur and Saul Rosen.
+In 1947 Saul Rosen became involved in the activities of the fledgling [Association for Computing Machinery](823), first on the languages committee that became the IAL group and eventually led to [ALGOL](706). He was the first managing editor of the Communications of the ACM. BNF was first used as a metalanguage to talk about the [ALGOL](706) language in the [ALGOL](706) 60 report. That is how it is explained in [ALGOL](706) programming course material developed by Peter Naur in 1962. Early [ALGOL](706) manuals by IBM, Honeywell, Burroughs and Digital Equipment Corporation followed the [ALGOL](706) 60 report using it as a metalanguage. Saul Rosen in his book describes BNF as a metalanguage for talking about [ALGOL](706). An example of its use as a metalanguage would be in defining an arithmetic expression:
+
+The first symbol of an alternative may be the class being defined, the repetition, as explained by Naur, having the function of specifying that the alternative sequence can recursively begin with a previous alternative and can be repeated any number of times. For example, above <expr> is defined as a <term> followed by any number of <addop> <term>.
+In some later metalanguages, such as Schorre's META II, the BNF recursive repeat construct is replaced by a sequence operator and target language symbols defined using quoted strings. The < and > brackets were removed. Parentheses () for mathematical grouping were added. The <expr> rule would appear in META II as
+
+These changes enabled META II and its derivative programming languages to define and extend their own metalanguage, at the cost of the ability to use a natural language description, metalinguistic variable, language construct description. Many spin-off metalanguages were inspired by BNF. See META II, TREE-META, and Metacompiler.
+A BNF class describes a language construct formation, with formation defined as a pattern or the action of forming the pattern. The class name expr is described in a natural language as a <term> followed by a sequence <addop> <term>. A class is an abstraction; we can talk about it independent of its formation. We can talk about term, independent of its definition, as being added or subtracted in expr. We can talk about a term being a specific data type and how an expr is to be evaluated having specific combinations of data types, or even reordering an expression to group data types and evaluation results of mixed types. The natural-language supplement provided specific details of the language class semantics to be used by a compiler implementation and a programmer writing an [ALGOL](706) program. Natural-language description further supplemented the syntax as well. The integer rule is a good example of natural and metalanguage used to describe syntax:
+
+There are no specifics on white space in the above. As far as the rule states, we could have space between the digits. In the natural language we complement the BNF metalanguage by explaining that the digit sequence can have no white space between the digits. English is only one of the possible natural languages. Translations of the [ALGOL](706) reports were available in many natural languages.
+The origin of BNF is not as important as its impact on programming language development. During the period immediately following the publication of the [ALGOL](706) 60 report BNF was the basis of many compiler-compiler systems.
+Some, like "A Syntax Directed Compiler for [ALGOL](706) 60" developed by Edgar T. Irons and "A Compiler Building System" Developed by Brooker and Morris, directly used BNF. Others, like the Schorre Metacompilers, made it into a programming language with only a few changes. <class name> became symbol identifiers, dropping the enclosing <, > and using quoted strings for symbols of the target language. Arithmetic-like grouping provided a simplification that removed using classes where grouping was its only value. The META II arithmetic expression rule shows grouping use. Output expressions placed in a META II rule are used to output code and labels in an assembly language. Rules in META II are equivalent to a class definitions in BNF. The Unix utility yacc is based on BNF with code production similar to META II. yacc is most commonly used as a parser generator, and its roots are obviously BNF.
+BNF today is one of the oldest computer-related languages still in use.
+
+Further examples
+BNF's syntax itself may be represented with a BNF like the following:
+
+Note that "" is the empty string.
+The original BNF did not use quotes as shown in <literal> rule. This assumes that no whitespace is necessary for proper interpretation of the rule.
+<EOL> represents the appropriate line-end specifier (in ASCII, carriage-return, line-feed or both depending on the operating system). <rule-name> and <text> are to be substituted with a declared rule's name/label or literal text, respectively.
+In the U.S. postal address example above, the entire block-quote is a <syntax>.  Each line or unbroken grouping of lines is a rule; for example one rule begins with <name-part> ::=. The other part of that rule (aside from a line-end) is an expression, which consists of two lists separated by a vertical bar |.  These two lists consists of some terms (three terms and two terms, respectively).  Each term in this particular rule is a rule-name.
+
+Variants
+EBNF
+There are many variants and extensions of BNF, generally either for the sake of simplicity and succinctness, or to adapt it to a specific application. One common feature of many variants is the use of regular expression repetition operators such as * and +. The extended Backus–Naur form (EBNF) is a common one.
+Another common extension is the use of square brackets around optional items. Although not present in the original [ALGOL](706) 60 report (instead introduced a few years later in IBM's PL/I definition), the notation is now universally recognised.
+
+ABNF
+Augmented Backus–Naur form (ABNF) and Routing Backus–Naur form (RBNF) are extensions commonly used to describe Internet Engineering Task Force (IETF) protocols.
+Parsing expression grammars build on the BNF and regular expression notations to form an alternative class of formal grammar, which is essentially analytic rather than generative in character.
+
+Others
+Many BNF specifications found online today are intended to be human-readable and are non-formal.  These often include many of the following syntax rules and extensions:
+
+Optional items enclosed in square brackets: <item-x>.
+Items existing 0 or more times are enclosed in curly brackets or suffixed with an asterisk (*) such as <word> ::= <letter> {<letter>} or <word> ::= <letter> <letter>* respectively.
+Items existing 1 or more times are suffixed with an addition (plus) symbol, +, such as <word> ::= <letter>+.
+Terminals may appear in bold rather than italics, and non-terminals in plain text rather than angle brackets.
+Where items are grouped, they are enclosed in simple parentheses.
+
+Software using BNF or variants
+Software that accepts BNF (or a superset) as input
+ANTLR, a parser generator written in Java
+Coco/R, compiler generator accepting an attributed grammar in EBNF
+DMS Software Reengineering Toolkit, program analysis and transformation system for arbitrary languages
+GOLD, a BNF parser generator
+RPA BNF parser. Online (PHP) demo parsing: JavaScript, XML
+XACT X4MR System, a rule-based expert system for programming language translation
+XPL Analyzer, a tool which accepts simplified BNF for a language and produces a parser for that language in XPL; it may be integrated into the supplied SKELETON program, with which the language may be debugged (a SHARE contributed program, which was preceded by A Compiler Generator)
+bnfparser2, a universal syntax verification utility
+bnf2xml, Markup input with XML tags using advanced BNF matching
+JavaCC, Java Compiler Compiler tm (JavaCC tm) - The Java Parser Generator
+
+Similar software
+GNU bison, GNU version of yacc
+Yacc, parser generator (most commonly used with the Lex preprocessor)
+Racket's parser tools, lex and yacc-style parsing (Beautiful Racket edition)
+Qlik Sense, a BI tool, uses a variant of BNF for scripting 
+BNF Converter (BNFC), operating on a variant called "labeled Backus–Naur form" (LBNF). In this variant, each production for a given non-terminal is given a label, which can be used as a constructor of an algebraic data type representing that nonterminal. The converter is capable of producing types and parsers for abstract syntax in several languages, including Haskell and Java
+
+See also
+Augmented Backus–Naur form (ABNF)
+Compiler Description Language (CDL)
+Definite clause grammar – a more expressive alternative to BNF used in Prolog
+Extended Backus–Naur form (EBNF)
+Meta-II – an early compiler writing tool and notation
+Syntax diagram – railroad diagram
+Translational Backus–Naur form (TBNF)
+Van Wijngaarden grammar – used in preference to BNF to define Algol68
+Wirth syntax notation – an alternative to BNF from 1977
+
+References
+External links
+Garshol, Lars Marius, BNF and EBNF: What are they and how do they work?, NO: Priv.
+RFC 5234 — Augmented BNF for Syntax Specifications: ABNF.
+RFC 5511 — Routing BNF: A Syntax Used in Various Protocol Specifications.
+ISO/IEC 14977:1996(E) Information technology – Syntactic metalanguage – Extended BNF, available from "Publicly available", Standards, ISO or from Kuhn, Marcus, Iso 14977 (PDF), UK: CAM (the latter is missing the cover page, but is otherwise much cleaner)
+
+Language grammars
+Bernhard, Algol-60 BNF, DE: LRZ München, the original BNF.
+"BNF grammars for SQL-92, SQL-99 and SQL-2003", Savage, AU: Net, freely available BNF grammars for SQL.
+"BNF Web Club", DB research, CH: Unige, archived from the original on 2007-01-24, retrieved 2007-01-25, freely available BNF grammars for SQL, Ada, Java.
+"Free Programming Language Grammars for Compiler Construction", Source code, The free country, freely available BNF/EBNF grammars for C/C++, Pascal, [COBOL](642), Ada 95, PL/I.
+"BNF files related to the STEP standard", Exp engine (SVN), Source forge, archived from the original on 2012-12-25.  Includes parts 11, 14, and 21 of the ISO 10303 (STEP) standard.

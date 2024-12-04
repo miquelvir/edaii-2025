@@ -1,0 +1,82 @@
+772
+C99
+C99 (previously C9X, formally ISO/IEC 9899:1999) is a past version of the C programming language open standard. It extends the previous version (C90) with new features for the language and the standard library, and helps implementations make better use of available computer hardware, such as IEEE 754-1985 floating-point arithmetic, and compiler technology. The C11 version of the C programming language standard, published in 2011, updates C99.
+
+History
+After ANSI produced the official standard for the C programming language in 1989, which became an international standard in 1990, the C language specification remained relatively static for some time, while [C++](640) continued to evolve, largely during its own standardization effort. Normative Amendment 1 created a new standard for C in 1995, but only to correct some details of the 1989 standard and to add more extensive support for international character sets. The standard underwent further revision in the late 1990s, leading to the publication of ISO/IEC 9899:1999 in 1999, which was adopted as an ANSI standard in May 2000. The language defined by that version of the standard is commonly referred to as "C99". The international C standard is maintained by the working group ISO/IEC JTC1/SC22/WG14.
+
+Design
+C99 is, for the most part, backward compatible with C89, but it is stricter in some ways.
+In particular, a declaration that lacks a type specifier no longer has int implicitly assumed. The C standards committee decided that it was of more value for compilers to diagnose inadvertent omission of the type specifier than to silently process legacy code that relied on implicit int. In practice, compilers are likely to display a warning, then assume int and continue translating the program.
+C99 introduced several new features, many of which had already been implemented as extensions in several compilers:
+
+inline functions
+intermingled declarations and code: variable declaration is no longer restricted to file scope or the start of a compound statement (block)
+several new data types, including long long int, optional extended integer types, an explicit Boolean data type, and a complex type to represent complex numbers
+variable-length arrays (although subsequently relegated in C11 to a conditional feature that implementations are not required to support)
+flexible array members
+support for one-line comments beginning with //, as in BCPL, [C++](640) and Java
+new library functions, such as snprintf
+new headers, such as <stdbool.h>, <complex.h>, <tgmath.h>, and <inttypes.h>
+type-generic math (macro) functions, in <tgmath.h>, which select a math library function based upon float, double, or long double arguments, etc.
+improved support for IEEE floating point
+designated initializers (for example, initializing a structure by field names: struct point p = { .x = 1, .y = 2 };)
+compound literals (for instance, it is possible to construct structures in function calls: function((struct x) {1, 2}))
+support for variadic macros (macros with a variable number of arguments)
+restrict qualification allows more aggressive code optimization, removing compile-time array access advantages previously held by FORTRAN over ANSI C
+universal character names, which allows user variables to contain other characters than the standard character set: four-digit \u0040 or eight-digit hexadecimal sequences \U0001f431
+keyword static in array indices in parameter declarations
+Parts of the C99 standard are included in the current version of the [C++](640) standard, including integer types, headers, and library functions. Variable-length arrays are not among these included parts because [C++](640)'s Standard Template Library already includes similar functionality.
+
+IEEE 754 floating-point support
+A major feature of C99 is its numerics support, and in particular its support for access to the features of IEEE 754-1985 (also known as IEC 60559) floating-point hardware present in the vast majority of modern processors (defined in "Annex F IEC 60559 floating-point arithmetic"). Platforms without IEEE 754 hardware can also implement it in software.
+On platforms with IEEE 754 floating point:
+
+FLT_EVAL_METHOD == 2 tends to limit the risk of rounding errors affecting numerically unstable expressions (see IEEE 754 design rationale) and is the designed default method for x87 hardware, but yields unintuitive behavior for the unwary user; FLT_EVAL_METHOD == 1 was the default evaluation method originally used in K&R C, which promoted all floats to double in expressions; and FLT_EVAL_METHOD == 0 is also commonly used and specifies a strict "evaluate to type" of the operands. (For gcc, FLT_EVAL_METHOD == 2 is the default on 32 bit x86, and FLT_EVAL_METHOD == 0 is the default on 64 bit x86-64, but FLT_EVAL_METHOD == 2 can be specified on x86-64 with option -mfpmath=387.) Before C99, compilers could round intermediate results inconsistently, especially when using x87 floating-point hardware, leading to compiler-specific behaviour; such inconsistencies are not permitted in compilers conforming to C99 (annex F).
+
+Example
+The following annotated example C99 code for computing a continued fraction function demonstrates the main features:
+
+Footnotes:
+
+Compile with: gcc -std=c99 -mfpmath=387 -o test_c99_fp test_c99_fp.c -lm
+As the IEEE 754 status flags are manipulated in this function, this #pragma is needed to avoid the compiler incorrectly rearranging such tests when optimising. (Pragmas are usually implementation-defined, but those prefixed with STDC are defined in the C standard.)
+C99 defines a limited number of expression evaluation methods: the current compilation mode can be checked to ensure it meets the assumptions the code was written under.
+The special values such as NaN and positive or negative infinity can be tested and set.
+long double is defined as IEEE 754 double extended or quad precision if available. Using higher precision than required for intermediate computations can minimize round-off error (the typedef double_t can be used for code that is portable under all FLT_EVAL_METHODs).
+The main function to be evaluated. Although it appears that some arguments to this continued fraction, e.g., 3.0, would lead to a divide-by-zero error, in fact the function is well-defined at 3.0 and division by 0 will simply return a +infinity that will then correctly lead to a finite result: IEEE 754 is defined not to trap on such exceptions by default and is designed so that they can very often be ignored, as in this case. (If FLT_EVAL_METHOD is defined as 2 then all internal computations including constants will be performed in long double precision; if FLT_EVAL_METHOD is defined as 0 then additional care is need to ensure this, including possibly additional casts and explicit specification of constants as long double.)
+As the raised divide-by-zero flag is not an error in this case, it can simply be dismissed to clear the flag for use by later code.
+In some cases, other exceptions may be regarded as an error, such as overflow (although it can in fact be shown that this cannot occur in this case).
+__STDC_IEC_559__ is to be defined only if "Annex F IEC 60559 floating-point arithmetic" is fully implemented by the compiler and the C library (users should be aware that this macro is sometimes defined while it should not be).
+The default rounding mode is round to nearest (with the even rounding rule in the halfway cases) for IEEE 754, but explicitly setting the rounding mode toward + and - infinity (by defining TEST_NUMERIC_STABILITY_UP etc. in this example, when debugging) can be used to diagnose numerical instability. This method can be used even if compute_fn() is part of a separately compiled binary library. But depending on the function, numerical instabilities cannot always be detected.
+
+Version detection
+A standard macro __STDC_VERSION__ is defined with value 199901L to indicate that C99 support is available.  As with the __STDC__ macro for C90, __STDC_VERSION__ can be used to write code that will compile differently for C90 and C99 compilers, as in this example that ensures that inline is available in either case (by replacing it with static in C90 to avoid linker errors).
+
+Implementations
+Most C compilers provide support for at least some of the features introduced in C99.
+Historically, Microsoft has been slow to implement new C features in their Visual [C++](640) tools, instead focusing mainly on supporting developments in the [C++](640) standards. However, with the introduction of Visual [C++](640) 2013 Microsoft implemented a limited subset of C99, which was expanded in Visual [C++](640) 2015.
+
+Future work
+Since ratification of the 1999 C standard, the standards working group prepared technical reports specifying improved support for embedded processing, additional character data types (Unicode support), and library functions with improved bounds checking.  Work continues on technical reports addressing decimal floating point, additional mathematical special functions, and additional dynamic memory allocation functions.  The C and [C++](640) standards committees have been collaborating on specifications for threaded programming.
+The next revision of the C standard, C11, was ratified in 2011. The C standards committee adopted guidelines that limited the adoption of new features that have not been tested by existing implementations.  Much effort went into developing a memory model, in order to clarify sequence points and to support threaded programming.
+
+See also
+[C++](640)23, [C++](640)20, [C++](640)17, [C++](640)14, [C++](640)11, [C++](640)03, [C++](640)98, versions of the [C++](640) programming language standard
+Compatibility of C and [C++](640)
+[C++](640) Technical Report 1
+Floating point, for further discussion of usage of IEEE 754 hardware
+
+References
+Further reading
+N1256 (final draft of C99 standard plus TC1, TC2, TC3); WG14; 2007. (HTML and ASCII versions)
+ISO/IEC 9899:1999 (official C99 standard); ISO; 1999.
+Rationale for C99; WG14; 2003.
+Cheng, Harry (1 March 2002). "C99 & Numeric computing". Dr. Dobb's Journal.
+Seebach, Peter (24 March 2004). "Open source development using C99". developerWorks. IBM.
+
+External links
+C Language Working Group 14 (WG14) Documents
+C9X Charter - WG14
+New things in C9X
+Features of C99

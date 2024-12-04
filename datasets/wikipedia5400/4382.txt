@@ -1,0 +1,31 @@
+4382
+Castilian Spanish
+In English, Castilian Spanish can mean the variety of Peninsular Spanish spoken in northern and central Spain, the standard form of Spanish, or Spanish from Spain in general. In Spanish, the term castellano (Castilian) can either refer to the [Spanish language](4301) as a whole, or to the medieval Old Spanish, a predecessor to Early Modern Spanish.
+
+Terminology
+The term Castilian Spanish is used in English for the specific varieties of Spanish spoken in north and central Spain. This is because much of the variation in Peninsular Spanish is between north and south, often imagined as Castilian versus Andalusian. Typically, it is more loosely used to denote the Spanish spoken in all of Spain as compared to Spanish spoken in Latin America. In Spain itself, Spanish is not a uniform language and there exist several different varieties of Spanish; in addition, there are other official and unofficial languages in the country, although Spanish is official throughout Spain. 
+Castellano septentrional ("Northern Castilian") is the Spanish term for the dialects from the Northern half of Spain, including those from Aragón or Navarre, which were never part of Castile. These dialects can be distinguished from the southern varieties of Andalusia, Extremadura, and Murcia. Español castellano, the literal translation of Castilian Spanish, is not a common expression; it could refer to varieties found in the region of Castile; however, the dialects of Castile, like other dialects, are not homogenous, and they tend to merge gradually with the dialects of other regions.
+
+Phonology
+Word-final /d/ may be pronounced as a voiceless θ instead of the standard voiced ð. This is most common in the provinces of Burgos, Palencia, Valladolid, the east of León and Zamora, northern Segovia and Ávila, and Soria. This pronunciation is present, though less common, in La Rioja, Guadalajara, Cuenca, and [Madrid](3916), and it is scarcely documented in Toledo, Ciudad Real, and Albacete.
+/d/ is elided in the ending -ado throughout nearly all of Spain. In other environments, elision of intervocalic /d/ is characteristic of southern varieties of Spanish.
+Syllable-final /s/ is often aspirated in [Madrid](3916) and Castilla–La Mancha. Before a /k/ sound, it can be realized as a voiceless velar fricative x, such that es que 'it's that' sounds like exke.
+/tʃ/, spelled as ⟨ch⟩, is pronounced as a palatalized voiceless alveolar affricate t͡sʲ, at least in [Madrid](3916).
+Spanish from most of the Iberian Peninsula, including Castile, uses an apical s̠, as opposed to the non-retracted voiceless alveolar fricative of Andalusian, Canarian, and Latin American Spanish, as well as of English.
+
+Grammar
+A wide swath of central Castile is home to leísmo. The Royal Spanish Academy considers leísmo to be incorrect, though it considers it to be admissible when referring to a single, male person.
+
+See also
+[Andalusian Spanish](4223)
+[Canarian Spanish](4371)
+[Castúo](4386)
+Murcian Spanish
+Standard Spanish – the standard form that is very different from the medieval [Spanish language](4301)-base
+
+References
+Sources
+External links
+
+WordNet 3.0. Princeton University
+COSER, Audible Corpus of Spoken Rural Spanish

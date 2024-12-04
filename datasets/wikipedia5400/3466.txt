@@ -1,0 +1,98 @@
+3466
+Apsidal precession
+In celestial mechanics, apsidal precession (or apsidal advance) is the precession (gradual rotation) of the line connecting the apsides (line of apsides) of an astronomical body's orbit. The apsides are the orbital points farthest (apoapsis) and closest (periapsis) from its primary body. The apsidal precession is the first time derivative of the argument of periapsis, one of the six main orbital elements of an orbit. Apsidal precession is considered positive when the orbit's axis rotates in the same direction as the orbital motion. An apsidal period is the time interval required for an orbit to precess through 360°, which takes the Earth about 112,000 years and the Moon about 8.85 years.
+
+History
+The ancient Greek astronomer Hipparchus noted the apsidal precession of the Moon's orbit (as the revolution of the Moon's apogee with a period of approximately 8.85 years); it is corrected for in the Antikythera Mechanism (circa 80 BCE) (with the supposed value of 8.88 years per full cycle, correct to within 0.34% of current measurements). The precession of the solar apsides (as a motion distinct from the precession of the equinoxes), was first quantified in the second century by Ptolemy of Alexandria. He also calculated the effect of precession on movement of the heavenly bodies. The apsidal precessions of the Earth and other planets are the result of a plethora of phenomena, of which a part remained difficult to account for until the 20th century when the last unidentified part of Mercury's precession was precisely explained.
+
+Calculation
+A variety of factors can lead to periastron precession such as general relativity, stellar quadrupole moments, mutual star–planet tidal deformations, and perturbations from other planets.
+
+ωtotal = ωGeneral Relativity + ωquadrupole + ωtide + ωperturbations
+For Mercury, the perihelion precession rate due to general relativistic effects is 43″ (arcseconds) per century. By comparison, the precession due to perturbations from the other planets in the Solar System is 532″ per century, whereas the oblateness of the Sun (quadrupole moment) causes a negligible contribution of 0.025″ per century.
+From classical mechanics, if stars and planets are considered to be purely spherical masses, then they will obey a simple ⁠1/r2⁠ inverse-square law, relating force to distance and hence execute closed elliptical orbits according to Bertrand's theorem. Non-spherical mass effects are caused by the application of external potential(s): the centrifugal potential of spinning bodies causes flattening between the poles and the gravity of a nearby mass raises tidal bulges. Rotational and net tidal bulges create gravitational quadrupole fields (⁠1/r3⁠) that lead to orbital precession.
+Total apsidal precession for isolated very hot Jupiters is, considering only lowest order effects, and broadly in order of importance
+
+ωtotal = ωtidal perturbations + ωGeneral Relativity + ωrotational perturbations + ωrotational * + ωtidal *
+with planetary tidal bulge being the dominant term, exceeding the effects of general relativity and the stellar quadrupole by more than an order of magnitude.  The good resulting approximation of the tidal bulge is useful for understanding the interiors of such planets.  For the shortest-period planets, the planetary interior induces precession of a few degrees per year. It is up to 19.9° per year for WASP-12b.
+
+Newton's theorem of revolving orbits
+Newton derived an early theorem which attempted to explain apsidal precession.  This theorem is historically notable, but it was never widely used and it proposed forces which have been found not to exist, making the theorem invalid.  This theorem of revolving orbits remained largely unknown and undeveloped for over three centuries until 1995.  Newton proposed that variations in the angular motion of a particle can be accounted for by the addition of a force that varies as the inverse cube of distance, without affecting the radial motion of a particle. Using a forerunner of the Taylor series, Newton generalized his theorem to all force laws provided that the deviations from circular orbits are small, which is valid for most planets in the Solar System.  However, his theorem did not account for the apsidal precession of the Moon without giving up the inverse-square law of Newton's law of universal gravitation.  Additionally, the rate of apsidal precession calculated via Newton's theorem of revolving orbits is not as accurate as it is for newer methods such as by perturbation theory.
+
+General relativity
+An apsidal precession of the planet Mercury was noted by Urbain Le Verrier in the mid-19th century and accounted for by Einstein's general theory of relativity.
+In the 1910s, several astronomers calculated the precession of perihelion according to special relativity. They typically obtained a value that is only 1/6 of the correct value, at 7''/year.
+Einstein showed that for a planet, the major semi-axis of its orbit being a, the eccentricity of the orbit e and the period of revolution T, then the apsidal precession due to relativistic effects, during one period of revolution in radians, is
+
+  
+    
+      
+        ε
+        =
+        24
+        
+          π
+          
+            3
+          
+        
+        
+          
+            
+              a
+              
+                2
+              
+            
+            
+              
+                T
+                
+                  2
+                
+              
+              
+                c
+                
+                  2
+                
+              
+              
+                (
+                
+                  1
+                  −
+                  
+                    e
+                    
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon =24\pi ^{3}{\frac {a^{2}}{T^{2}c^{2}\left(1-e^{2}\right)}}}
+  
+
+where c is the speed of light.  In the case of Mercury, half of the greater axis is about 5.79×1010 m, the eccentricity of its orbit is 0.206 and the period of revolution 87.97 days or 7.6×106 s. From these and the speed of light (which is ~3×108 m/s), it can be calculated that the apsidal precession during one period of revolution is ε =  5.028×10−7 radians (2.88×10−5 degrees or 0.104″). In one hundred years, Mercury makes approximately 415 revolutions around the Sun, and thus in that time, the apsidal perihelion due to relativistic effects is approximately 43″, which corresponds almost exactly to the previously unexplained part of the measured value.
+
+Long-term climate
+Earth's apsidal precession slowly increases its argument of periapsis; it takes about 112,000 years for the ellipse to revolve once relative to the fixed stars. Earth's polar axis, and hence the solstices and equinoxes, precess with a period of about 26,000 years in relation to the fixed stars.  These two forms of 'precession' combine so that it takes between 20,800 and  29,000 years (and on average 23,000 years) for the ellipse to revolve once relative to the vernal equinox, that is, for the perihelion to return to the same date (given a calendar that tracks the seasons perfectly).
+This interaction between the anomalistic and tropical cycle is important in the long-term climate variations on Earth, called the Milankovitch cycles. Milankovitch cycles are central to understanding the effects of apsidal precession. An equivalent is also known on Mars.
+
+The figure on the right illustrates the effects of precession on the northern hemisphere seasons, relative to perihelion and aphelion. Notice that the areas swept during a specific season changes through time. Orbital mechanics require that the length of the seasons be proportional to the swept areas of the seasonal quadrants, so when the orbital eccentricity is extreme, the seasons on the far side of the orbit may be substantially longer in duration.
+
+See also
+Axial precession
+Nodal precession
+Hypotrochoid
+Rosetta (orbit)
+Spirograph
+
+
+== Notes ==

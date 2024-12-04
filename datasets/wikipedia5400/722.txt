@@ -1,0 +1,130 @@
+722
+AmigaOS 4
+AmigaOS 4 (abbreviated as OS4 or AOS4) is a line of Amiga operating systems which runs on PowerPC microprocessors. It is mainly based on AmigaOS 3.1 source code developed by Commodore, and partially on version 3.9 developed by Haage & Partner. "The Final Update" (for OS version 4.0) was released on 24 December 2006 (originally released in April 2004) after five years of development by the Belgian company Hyperion Entertainment under license from Amiga, Inc. for AmigaOne registered users.
+
+History
+During the five years of development, purchasers of AmigaOne machines could download pre-release versions of AmigaOS 4.0 from Hyperion's repository as long as these were made available.
+On 20 December 2006, Amiga, Inc. terminated the contract with Hyperion Entertainment to produce or sell AmigaOS 4. Nevertheless, AmigaOS 4.0 was released commercially for Amigas with PowerUP accelerator cards in November 2007 (having been available only to developers and beta-testers until then). The Italian computer company ACube Systems has announced Sam440ep and Sam440ep-flex motherboards, which are AmigaOS 4 compatible. Also, a third party bootloader, known as the "Moana", was released by Acube on torrent sites; it allows installation of the Sam440ep version of OS4 to Mac Mini G4s. However this is both unofficial and unsupported as of today, and very incomplete, especially regarding drivers. During the judicial procedure (between Hyperion and Amiga, Inc.), OS4 was still being developed and distributed.
+On 30 September 2009, Hyperion Entertainment and Amiga, Inc. reached a settlement agreement where Hyperion is granted an exclusive right to AmigaOS 3.1 and market AmigaOS 4 and subsequent versions of AmigaOS (including AmigaOS 5 without limitation). Hyperion has assured the Amiga community that it will continue the development and the distribution of AmigaOS 4.x (and beyond), as it has done since November 2001.
+
+Description
+AmigaOS 4 can be divided into two parts: the Workbench and the Kickstart.
+
+Workbench
+The Workbench is the GUI of OS4, a graphical interface file manager and application launcher for the Operating System. It also includes some general purpose tools and utility programs such as a Notepad for typing text, MultiView for viewing images and Amigaguide documents, Unarc for unpacking Archives, a PDF reader, a number of small preferences programs for changing settings of the GUI and OS, among other programs.
+
+Kickstart
+The Kickstart contains many of the core components of the OS. Prior to version 4 of AmigaOS the Kickstart had been released mostly on a ROM (hardware included with the computer). In OS4 the Kickstart is instead stored on the hard disk. It consists mainly of:
+
+ExecSG, a preemptive multitasking kernel. ExecSG was licensed to Hyperion Entertainment by Thomas and Hans-Jörg Frieden.
+Intuition, a windowing system API.
+AmigaDOS and AmigaShell: AmigaDOS is the disk operating system for the OS, whereas AmigaShell is the integrated Command Line Interface (CLI). The CLI and the GUI complement each other and share the same privileges.
+Petunia, a Motorola 68020 processor emulator with dynamic recompilation, also called just-in-time compilation (JIT compilation), for PowerPC based Amigas. It gives OS4 backward compatibility to some extent, it will only run system friendly (following the OS3.x API without communicating directly with the classic Amigas' custom chipset) AmigaOS 3.x programs. For the programs that Petunia is unable to handle, such as most "bang the hardware" (using legacy Amiga hardware directly) Amiga games and Amiga demos, UAE can be used which can emulate different Amiga chipsets (OCS, ECS, AGA) as well.
+
+Development process
+There have been many different versions of the AmigaOS operating system (OS) during its three decades of history.
+
+Versions 1.0 to 1.3
+The first AmigaOS was introduced in 1985 and developed by Commodore International. It was nicknamed Workbench from the name of its Graphical user interface (GUI), due to an error of Commodore Marketing and Sales Department, which labeled the OS disk just with the name "Workbench Disk" and not with the correct name "AmigaOS Disk (Workbench)". The first versions of AmigaOS (1.0 and up to 1.3) are here indicated with the name of their original disks to preserve original custom.
+
+Versions 2.0 to 3.1
+Workbench 2.0 improvements introduced a lot of major advances to the GUI of Amiga operating system. The blue and orange colour scheme was replaced with a grey and light blue with 3D aspect in the border of the windows. The Workbench was no longer tied to the 640×256 (PAL) or 640×200 (NTSC) display modes, and much of the system was improved with an eye to making future expansion easier. For the first time, a standardised "look and feel" was added. This was done by creating the Amiga Style Guide, and including libraries and software which assisted developers in making conformant software. Technologies included the GUI element creation library gadtools, the software installation scripting language Installer, and the AmigaGuide hypertext help system.
+
+Versions 3.5 and 3.9
+After the demise of Commodore International, the later owners of the Amiga trademark granted a license to a German company called Haage & Partner to update the Amiga's operating system. Along with this update came a change in the way people referred to the Amiga's operating system. Rather than specifying "Kickstart" or "Workbench", the updates were most often referred to as simply "AmigaOS".
+Whereas all previous OS releases ran on vanilla Amiga 500 with 68000 and 512 kB RAM, release 3.5 onwards required a 68020 or better and at least 4 MB fast RAM.
+
+Versions 4.0 and 4.1
+In 2001 Amiga Inc. signed a contract with Hyperion Entertainment to develop the PowerPC native AmigaOS 4 from their previous AmigaOS 3.1 release. Unlike the previous versions which were based on the Motorola 68k central processor, OS4 runs only on PowerPC computer systems. Amiga, Inc.'s (current Amiga trademark owners) distribution policies for AmigaOS 4.0 and any later versions required that OS4 must be bundled with all new third-party hardware "Amigas", with the sole exception of Amigas with Phase5 PowerPC accelerator boards, for which OS4 is sold separately. This requirement was overturned in the agreement reached between Amiga, Inc. and Hyperion in the settlement of a lawsuit over the ownership of AmigaOS 4.
+In 2014 Hyperion introduced AmigaOS 4.1 Final Edition incorporating all previous downloadable updates and some new features like unified graphics library with RTG support and support for more than 2 GB RAM.
+
+Version 4.2
+In May 2012 Hyperion announced that they were working on AmigaOS 4.2. It would introduce hardware accelerated 3D support, multi-core support, a vastly improved file system API and many other features.
+
+AmigaOS 4 prominent features
+Prominent features compared to other operating systems or previous versions of AmigaOS:
+
+Appearance
+Screens: Users can have as many different screens as they like for any purpose, each with its own application on it; or they can open a public screen which several applications can share. Switching between screens can be done in an instant, and they can come back to an application and find it exactly how they left it. It is even possible to drag the current screen down to reveal another screen behind it (even if they have different display resolutions), so that they can view two screens simultaneously, or even drag and drop files and other content from one screen to another.
+Menuing: The menu bar appears at the top of the screen when the right mouse button is pressed down and disappears when it is not needed, thus reducing screen clutter and giving more room to work.
+
+File handling
+Descriptive file structure: Operating system files are divided up into clearly labelled drawers (folders). For example, all libraries are stored in "Libs:" standard virtual device and absolute path finder for "Libs" directory, Fonts are all in "Fonts:" absolute locator, the files for language localization are all stored in "Locale:" and so on.
+RAM disk: A virtual hard drive, it acts like any other disk, and stores files and data in memory rather than on the hard drive. The RAM disk is dynamically resizable and takes up only as much memory as it needs to. It can be used as a temporary store for the user's own purposes or as a place for software installers to put temporary files, and is cleared out at reboot so the hard drive will not be cluttered with thousands of unnecessary files that bog down your system. Additionally there is an optional RAD disk, a recoverable version of the RAM disk, which preserves contents after a reboot.
+Datatypes: Recognises and handles file types: displaying a picture, playing a music file, decoding a video file, rendering a web page etc. Any application can access Datatypes transparently, and thus have the ability to use any file that it has a Datatype for.
+Icon handling: A file can have a default icon representing the type of file or a custom icon specific to the individual file. Additionally icons can store extra commands and metadata about the associated file – which program to open it in, for example.
+Assigning devices: Instead of assigning drives (devices) a letter or fixed label, each drive can be given a name. Drives can be given more than one name so the system always knows where things are. If it is the system boot drive it is also known as "Sys:". Areas of hard drive can be assigned a label as if they were a virtual disk. For example, it is possible to mount MP3 players as "MP3:" and external networked resources as logical devices.
+
+Other
+Live CD: The OS4 installation CD can be used as a Live CD.
+Dockies: A fully configurable docking bar for icons, allowing quick access to most used applications. These dock bar icons, "Dockies", are fully dynamic, which means they can show real-time content and act as useful micro tools. A Docky might act as a magnifying glass, display the time, or show you the latest weather forecast or stock market information direct from the Internet.
+Scripting: Implemented scripting as a fundamental feature. Using the AREXX scripting language and Python it is possible to automate, integrate and remote control almost every application and function of the computer. Function sets and tools from several applications can be brought together into a single, integrated interface to allow the most complex jobs to be performed with the utmost simplicity.
+The Grim Reaper: The "Guru Meditation" is replaced by "The Grim Reaper", a crash handling system that attempts to catch crashes and attempts to stop them from getting out of control. It can provide complete information about the crash and optionally suspend the offending task.
+AmiUpdate: Is an updating system designed purely for the latest incarnation of the AmigaOS 4. It is able to update OS files and also all Amiga programs which are registered to use the same update program that is standard for Amiga. Updating AmigaOS requires only few libraries to be put in standard OS location "Libs:", "Fonts:" etc. This leaves Amiga users with a minimal knowledge of the system almost free to perform by hand the update of the system files.
+SDK: A Software development kit is available that includes various versions of the GCC compiler, sample code and tools to allow developers to make programs for AmigaOS 4.1 or later.
+
+Compatible hardware
+Amiga
+Released for Amigas equipped with third party PPC add-on boards:
+
+Blizzard PPC equipped Amiga 1200
+Blizzard 2604e (prototype card) equipped Amiga 2000
+CyberStorm PPC equipped Amiga 3000 or Amiga 4000
+
+AmigaOne
+Released for AmigaOne motherboards:
+
+AmigaOne-SE (A1-SE)
+AmigaOne-XE (A1-XE)
+Micro-AmigaOne (Micro-A1)
+AmigaOne X1000 (A1X1K; A1-X1000)
+AmigaOne 500 (A1-500), an AmigaOne computer based upon the Sam460ex board introduced by Acube Systems.
+AmigaOne X5000 (A1X5K; A1-X5000)
+
+Pegasos
+Released for Pegasos systems:
+
+Pegasos II (Peg2)
+
+Samantha
+Released for Sam440 systems:
+
+Sam440ep
+Sam440ep-flex
+Sam460ex
+
+Versions
+Future
+For the AmigaOS 4.2, Hyperion Entertainment planned the following updates:
+
+Multiple core support (SMP)
+New ExecSG scheduler
+Selectable policy for scheduling (may include per task)
+Scheduling of task groups with internal scheduling of tasks within that group
+Scheduling of tasks across multiple CPU cores (may include core affinity)
+Support for real-time scheduling
+Graphics and Gallium3D
+Enables access to full OpenGL implementations like Mesa
+Compositing may be done via Gallium3D
+Opens the door to replacing the entire graphics subsystem
+multi-header support
+
+See also
+Amiga
+AmigaOS
+AmigaOS versions
+AROS
+History of the Amiga
+Linux on Power
+MorphOS
+
+References
+Notes
+Review of Micro-AmigaOne and AmigaOS 4 Developer Prerelease
+Ars Technica reviews AmigaOS 4.0
+Ars Technica reviews AmigaOS 4.1
+A history of the Amiga, part 1
+AmigaOS 4.0 - the fourth pre-release update
+
+External links
+Official website

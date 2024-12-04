@@ -1,0 +1,21 @@
+987
+Explicit parallelism
+In computer programming, explicit parallelism is the representation of concurrent computations using primitives in the form of operators, function calls or special-purpose directives. Most parallel primitives are related to process synchronization, communication and process partitioning. As they seldom contribute to actually carry out the intended computation of the program but, rather, structure it, their computational cost is often considered as overhead.
+The advantage of explicit parallel programming is increased programmer
+control over the computation. A skilled parallel programmer may take advantage of explicit parallelism to produce efficient code for a given target computation environment. However, programming with explicit parallelism is often difficult, especially for non-computing specialists, because of the extra work and skill involved in developing it.  
+In some instances, explicit parallelism may be avoided with the use of an optimizing compiler or runtime that automatically deduces the parallelism inherent to computations, known as implicit parallelism.
+
+Programming languages that support explicit parallelism
+Some of the programming languages that support explicit parallelism are:
+
+Ada
+Ease
+Erlang
+Java
+JavaSpaces
+Message Passing Interface
+Occam
+Parallel Virtual Machine
+
+
+== References ==

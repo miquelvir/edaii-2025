@@ -1,0 +1,46 @@
+465
+Armatimonadota
+Armatimonadota is a phylum of gram-negative bacteria.
+
+History
+Armatimonadota was originally described solely on the basis of environmental 16S rRNA gene clone sequences, and was temporarily titled candidate phylum OP10. However, in 2011 a bacterial strain belonging to the phylum was isolated from an aquatic plant in Japan. The species was named Armatimonas rosea and was the first member of its phylum, genus, and species.
+
+Members
+Armatimonas rosea, an aerobic chemoheterotrophic bacterium, strain YO-36T, was isolated from rhizoplane of an aquatic plant (a reed, Phragmites australis) inhabiting a freshwater lake in Japan.
+Chthonomonas calidirosea, an aerobic, saccharolytic, obligately thermophilic, motile, non-spore-forming bacterium, strain T49(T), was isolated from geothermally heated soil at Hell's Gate, Tikitere, New Zealand.
+
+Phylogeny
+Taxonomy
+The currently accepted taxonomy is based on the List of Prokaryotic names with Standing in Nomenclature (LPSN) and National Center for Biotechnology Information (NCBI).
+
+Class Chthonomonadia corrig. Lee et al. 2011
+Order Chthonomonadales Lee et al. 2011
+Family Chthonomonadaceae Lee et al. 2011
+Genus Chthonomonas Lee et al. 2011
+Species Chthonomonas calidirosea Lee et al. 2011
+Class Fimbriimonadia Im et al. 2012
+Order Fimbriimonadales Im et al. 2012
+Family Fimbriimonadaceae Im et al. 2012
+Genus Fimbriimonas Im et al. 2012
+Species Fimbriimonas ginsengisoli Im et al. 2012
+Genus "Candidatus Nitrosymbiomonas" Okubo et al. 2021
+Species "Ca. Nitrosymbiomonas proteolyticus" Okubo et al. 2021
+Class UBA5829
+Order UBA5829
+Family UBA5829
+Genus "Ca. Hippobium" Gilroy et al. 2022
+Species "Ca. Hippobium faecium" Gilroy et al. 2022
+Class Armatimonadia Tamaki et al. 2011
+Order Armatimonadales Tamaki et al. 2011
+Family Armatimonadaceae Tamaki et al. 2011
+Genus Armatimonas Tamaki et al. 2011
+Species Armatimonas rosea Tamaki et al. 2011
+Order Capsulimonadales Li, Kudo & Tonouchi 2018
+Family Capsulimonadaceae Li, Kudo & Tonouchi 2018
+Genus Capsulimonas Li, Kudo & Tonouchi 2018
+Species Capsulimonas corticalis Li, Kudo & Tonouchi 2018
+
+Notes
+References
+External links
+Page for Armatimonadetes on LPSN

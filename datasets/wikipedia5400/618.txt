@@ -1,0 +1,15 @@
+618
+Application-release automation
+Application-release automation (ARA) refers to the process of packaging and deploying an application or update of an application from development, across various environments, and ultimately to production. ARA solutions must combine the capabilities of deployment automation, environment management and modeling, and release coordination.
+
+Relationship with DevOps
+ARA tools help cultivate DevOps best practices by providing a combination of automation, environment modeling and workflow-management capabilities. These practices help teams deliver software rapidly, reliably and responsibly. ARA tools achieve a key DevOps goal of implementing continuous delivery with a large quantity of releases quickly.
+
+Relationship with deployment
+ARA is more than just software-deployment automation – it deploys applications using structured release-automation techniques that allow for an increase in visibility for the whole team. It combines workload automation and release-management tools as they relate to release packages, as well as movement through different environments within the DevOps pipeline. ARA tools help regulate deployments, how environments are created and deployed, and how and when releases are deployed.
+
+ARA Solutions
+All ARA solutions must include capabilities in automation, environment modeling, and release coordination. Additionally, the solution must provide this functionality without reliance on other tools. 
+
+
+== References ==

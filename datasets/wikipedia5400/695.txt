@@ -1,0 +1,99 @@
+695
+Concurrency (computer science)
+Concurrency refers to the ability of a system to execute multiple tasks through simultaneous execution or time-sharing (context switching), sharing resources and managing interactions. Concurrency improves responsiveness, throughput, and scalability in modern computing, including: 
+
+Operating systems and embedded systems
+Distributed systems, parallel computing, and high-performance computing
+Database systems, web applications, and cloud computing
+
+Related concepts
+Concurrency is a broader concept that encompasses several related ideas, including: 
+
+Parallelism (simultaneous execution on multiple processing units). Parallelism executes tasks independently on multiple CPU cores, while concurrency manages multiple tasks on one or more cores, switching between threads or time-slicing without completing each one. Programs may exhibit parallelism only, concurrency only, both parallelism and concurrency, neither. 
+Multi-threading and multi-processing (shared system resources)
+Synchronization (coordinating access to shared resources)
+Coordination (managing interactions between concurrent tasks)
+Concurrency Control (ensuring data consistency and integrity)
+Inter-process Communication (IPC, facilitating information exchange)
+
+Issues
+Because computations in a concurrent system can interact with each other while being executed, the number of possible execution paths in the system can be extremely large, and the resulting outcome can be indeterminate. Concurrent use of shared resources can be a source of indeterminacy leading to issues such as deadlocks, and resource starvation.
+Design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation, and execution scheduling to minimize response time and maximise throughput.
+
+Theory
+Concurrency theory has been an active field of research in theoretical computer science.  One of the first proposals was  Carl Adam Petri's seminal work on Petri nets in the early 1960s. In the years since, a wide variety of formalisms have been developed for modeling and reasoning about concurrency.
+
+Models
+A number of formalisms for modeling and understanding concurrent systems have been developed, including:
+
+The parallel random-access machine
+The actor model
+Computational bridging models such as the bulk synchronous parallel (BSP) model
+Petri nets
+Process calculi
+Calculus of communicating systems (CCS)
+Communicating sequential processes (CSP) model
+π-calculus
+Tuple spaces, e.g., Linda
+Simple Concurrent Object-Oriented Programming (SCOOP)
+Reo Coordination Language
+Trace monoids
+Some of these models of concurrency are primarily intended to support reasoning and specification, while others can be used through the entire development cycle, including design, implementation, proof, testing and simulation of concurrent systems. Some of these are based on message passing, while others have different mechanisms for concurrency.
+The proliferation of different models of concurrency has motivated some researchers to develop ways to unify these different theoretical models. For example, Lee and Sangiovanni-Vincentelli have demonstrated that a so-called "tagged-signal" model can be used to provide a common framework for defining the denotational semantics of a variety of different models of concurrency, while Nielsen, Sassone, and Winskel have demonstrated that category theory can be used to provide a similar unified understanding of different models.
+The Concurrency Representation Theorem in the actor model provides a fairly general way to represent concurrent systems that are closed in the sense that they do not receive communications from outside. (Other concurrency systems, e.g., process calculi can be modeled in the actor model using a two-phase commit protocol.) The mathematical denotation denoted by a closed system S is constructed increasingly better approximations from an initial behavior called ⊥S using a behavior approximating function progressionS to construct a denotation (meaning ) for S as follows:
+
+DenoteS ≡ ⊔i∈ω progressionSi(⊥S)
+In this way, S can be mathematically characterized in terms of all its possible behaviors.
+
+Logics
+Various types of temporal logic can be used to help reason about concurrent systems. Some of these logics, such as linear temporal logic and computation tree logic, allow assertions to be made about the sequences of states that a concurrent system can pass through. Others, such as action computational tree logic, Hennessy–Milner logic, and Lamport's temporal logic of actions, build their assertions from sequences of actions (changes in state). The principal application of these logics is in writing specifications for concurrent systems.
+
+Practice
+Concurrent programming encompasses programming languages and algorithms used to implement concurrent systems.  Concurrent programming is usually considered to be more general than parallel programming because it can involve arbitrary and dynamic patterns of communication and interaction, whereas parallel systems generally have a predefined and well-structured communications pattern. The base goals of concurrent programming include correctness, performance and robustness. Concurrent systems such as Operating systems and Database management systems are generally designed to operate indefinitely, including automatic recovery from failure, and not terminate unexpectedly (see Concurrency control). Some concurrent systems implement a form of transparent concurrency, in which concurrent computational entities may compete for and share a single resource, but the complexities of this competition and sharing are shielded from the programmer.
+Because they use shared resources, concurrent systems in general require the inclusion of some kind of arbiter somewhere in their implementation (often in the underlying hardware), to control access to those resources. The use of arbiters introduces the possibility of indeterminacy in concurrent computation which has major implications for practice including correctness and performance.  For example, arbitration introduces unbounded nondeterminism which raises issues with model checking because it causes explosion in the state space and can even cause models to have an infinite number of states.
+Some concurrent programming models include coprocesses and deterministic concurrency. In these models, threads of control explicitly yield their timeslices, either to the system or to another process.
+
+See also
+Dining philosophers problem
+Chu space
+Client–server network nodes
+Clojure
+Cluster nodes
+Concurrency control
+[Concurrent computing](696)
+Concurrent object-oriented programming
+Concurrency pattern
+Construction and Analysis of Distributed Processes (CADP)
+D (programming language)
+Distributed system
+Elixir (programming language)
+Erlang (programming language)
+Go (programming language)
+Gordon Pask
+International Conference on Concurrency Theory (CONCUR)
+OpenMP
+Parallel computing
+Partitioned global address space
+Processes
+Ptolemy Project
+Rust (programming language)
+Sheaf (mathematics)
+Threads
+X10 (programming language)
+Structured concurrency
+
+References
+Further reading
+Lynch, Nancy A. (1996). Distributed Algorithms. Morgan Kaufmann. ISBN 978-1-55860-348-6.
+Tanenbaum, Andrew S.; Van Steen, Maarten (2002). Distributed Systems: Principles and Paradigms. Prentice Hall. ISBN 978-0-13-088893-8.
+Kurki-Suonio, Reino (2005). A Practical Theory of Reactive Systems. Springer. ISBN 978-3-540-23342-8.
+Garg, Vijay K. (2002). Elements of Distributed Computing. Wiley-IEEE Press. ISBN 978-0-471-03600-5.
+Magee, Jeff; Kramer, Jeff (2006). Concurrency: State Models and Java Programming. Wiley. ISBN 978-0-470-09355-9.
+Distefano, S., & Bruneo, D. (2015). Quantitative assessments of distributed systems: Methodologies and techniques (1st ed.). Somerset: John Wiley & Sons Inc.ISBN 9781119131144
+Bhattacharyya, S. S. (2013;2014;). Handbook of signal processing systems (Second;2;2nd 2013; ed.). New York, NY: Springer.10.1007/978-1-4614-6859-2 ISBN 9781461468592
+Wolter, K. (2012;2014;). Resilience assessment and evaluation of computing systems (1. Aufl.;1; ed.). London;Berlin;: Springer. ISBN 9783642290329
+
+External links
+Process Algebra Diary - Prof. Luca Aceto's blog on Concurrency Theory
+Concurrent Systems at The WWW Virtual Library
+Concurrency patterns presentation given at scaleconf

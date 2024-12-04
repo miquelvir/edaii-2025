@@ -1,0 +1,183 @@
+1338
+Arecaceae
+The Arecaceae () is a family of perennial, flowering plants in the monocot order Arecales. Their growth form can be climbers, shrubs, tree-like and stemless plants, all commonly known as palms. Those having a tree-like form are colloquially called palm trees. Currently, 181 genera with around 2,600 species are known, most of which are restricted to tropical and subtropical climates. Most palms are distinguished by their large, compound, evergreen leaves, known as fronds, arranged at the top of an unbranched stem, except for the Hyphaene genus, who has branched palms. However, palms exhibit an enormous diversity in physical characteristics and inhabit nearly every type of habitat within their range, from rainforests to deserts.
+Palms are among the best known and most extensively cultivated plant families. They have been important to humans throughout much of history, especially in regions like the Middle East and North Africa. A wide range of common products and foods are derived from palms. In contemporary times, palms are also widely used in landscaping. In many historical cultures, because of their importance as food, palms were symbols for such ideas as victory, peace, and fertility.
+
+Etymology
+The word Arecaceae is derived from the word areca with the suffix "-aceae". Areca is derived from Portuguese, via Malayalam അടയ്ക്ക (aṭaykka), which is from Dravidian *aṭ-ay-kkāy ("areca nut"). The suffix -aceae is the feminine plural of the Latin -āceus ("resembling").
+Palm originates from Latin palma semantically overlapping with sense of "hand front" (due to similar splayed shape) ultimately from Proto-Indo-European *pl̥h₂meh₂, a direct descendant folm once existed in Old English.
+
+Morphology
+Whether as shrubs, tree-like, or vines, palms have two methods of growth: solitary or clustered. The common representation is that of a solitary shoot ending in a crown of leaves. This monopodial character may be exhibited by prostrate, trunkless, and trunk-forming members. Some common palms restricted to solitary growth include Washingtonia and Roystonea. Palms may instead grow in sparse though dense clusters. The trunk develops an axillary bud at a leaf node, usually near the base, from which a new shoot emerges. The new shoot, in turn, produces an axillary bud and a clustering habit results. Exclusively sympodial genera include many of the rattans, Guihaia, and Rhapis. Several palm genera have both solitary and clustering members. Palms which are usually solitary may grow in clusters and vice versa.
+Palms have large, evergreen leaves that are either palmately ('fan-leaved') or pinnately ('feather-leaved') compound and spirally arranged at the top of the stem. The leaves have a tubular sheath at the base that usually splits open on one side at maturity. The inflorescence is a spadix or spike surrounded by one or more bracts or spathes that become woody at maturity. The flowers are generally small and white, radially symmetric, and can be either uni- or bisexual. The sepals and petals usually number three each and may be distinct or joined at the base. The stamens generally number six, with filaments that may be separate, attached to each other, or attached to the pistil at the base. The fruit is usually a single-seeded drupe (sometimes berry-like) but some genera (e.g., Salacca) may contain two or more seeds in each fruit.
+
+Like all monocots, palms do not have the ability to increase the width of a stem (secondary growth) via the same kind of vascular cambium found in non-monocot woody plants. This explains the cylindrical shape of the trunk (almost constant diameter) that is often seen in palms, unlike in ring-forming trees. However, many palms, like some other monocots, do have secondary growth, although because it does not arise from a single vascular cambium producing xylem inwards and phloem outwards, it is often called "anomalous secondary growth".
+The Arecaceae are notable among monocots for their height and for the size of their seeds, leaves, and inflorescences. Ceroxylon quindiuense, Colombia's national "tree", is the tallest monocot in the world, reaching up to 60 metres (197 ft) tall. The coco de mer (Lodoicea maldivica) has the largest seeds of any plant, 40–50 centimetres (16–20 in) in diameter and weighing 15–30 kilograms (33–66 lb) each (coconuts are the second largest). Raffia palms (Raphia spp.) have the largest leaves of any plant, up to 25 metres (82 ft) long and 3 metres (10 ft) wide. The Corypha species have the largest inflorescence of any plant, up to 7.5 metres (25 ft) tall and containing millions of small flowers. Calamus stems can reach 200 metres (656 ft) in length.
+
+Range and habitat
+Most palms are native to tropical and subtropical climates. Palms thrive in moist and hot climates but can be found in a variety of different habitats. Their diversity is highest in wet, lowland forests. South America, the Caribbean, and areas of the South Pacific and southern Asia are regions of concentration. Colombia may have the highest number of palm species in one country. There are some palms that are also native to desert areas such as the Arabian Peninsula and parts of northwestern Mexico. Only about 130 palm species naturally grow entirely beyond the tropics, mostly in humid lowland subtropical climates, in highlands in southern Asia, and along the rim lands of the Mediterranean Sea. The northernmost native palm is Chamaerops humilis, which reaches 44°N latitude along the coast of Liguria, Italy. In the southern hemisphere, the southernmost palm is the Rhopalostylis sapida, which reaches 44°S on the Chatham Islands where an oceanic climate prevails. Cultivation of palms is possible north of subtropical climates, and some higher latitude locales such as Ireland, Scotland, England, and the Pacific Northwest feature a few palms in protected locations and microclimates. In the [United States](1100), there are at least 12 native palm species, mostly occurring in the states of the Deep South and Florida.
+Palms inhabit a variety of ecosystems. More than two-thirds of palm species live in humid moist forests, where some species grow tall enough to form part of the canopy and shorter ones form part of the understory. Some species form pure stands in areas with poor drainage or regular flooding, including Raphia hookeri which is common in coastal freshwater swamps in West Africa. Other palms live in tropical mountain habitats above 1 thousand metres (3 thousand feet), such as those in the genus Ceroxylon native to the Andes. Palms may also live in grasslands and scrublands, usually associated with a water source, and in desert oases such as the date palm. A few palms are adapted to extremely basic lime soils, while others are similarly adapted to extreme potassium deficiency and toxicity of heavy metals in serpentine soils.
+
+Taxonomy
+Palms are a monophyletic group of plants, meaning the group consists of a common ancestor and all its descendants. Extensive taxonomic research on palms began with botanist H.E. Moore, who organized palms into 15 major groups based mostly on general morphological characteristics. The following classification, proposed by N.W. Uhl and J. Dransfield in 1987, is a revision of Moore's classification that organizes palms into 6 subfamilies. A few general traits of each subfamily are listed below.
+
+Subfamily Arecoideae are the largest subfamily with 14 tribes and containing over 100 genera. All tribes have pinnate or bipinnate leaves and flowers arranged in groups of three, with a central pistillate and two staminate flowers.
+Subfamily Calamoideae includes the climbing palms, such as rattans. The leaves are usually pinnate; derived characters (synapomorphies) include spines on various organs, organs specialized for climbing, an extension of the main stem of the leaf-bearing reflexed spines, and overlapping scales covering the fruit and ovary.
+Subfamily Ceroxyloideae has small to medium-sized flowers, spirally arranged, with a gynoecium of three joined carpels.
+Subfamily Coryphoideae are the second-largest subfamily with 8 tribes. Most palms in this subfamily have palmately lobed leaves and solitary flowers with three, or sometimes four carpels. The fruit normally develops from only one carpel.
+Subfamily Nypoideae contains only one species, Nypa fruticans, which has large, pinnate leaves. The fruit is unusual in that it floats, and the stem is underground and dichotomously branched, also unusual in palms.
+The Phytelephantoideae is the sixth subfamily of Arecaceae in N.W. Uhl and J. Dransfield's 1987 classification. Members of this group have distinct monopodial flower clusters. Other distinct features include a gynoecium with five to 10 joined carpels, and flowers with more than three parts per whorl. Fruits are multiple-seeded and have multiple parts. From the modern phylogenomic data, the Phytelephantoideae are tribe in the  Ceroxyloideae subfamily.
+Currently, few extensive phylogenetic studies of the Arecaceae exist. In 1997, Baker et al. explored subfamily and tribe relationships using chloroplast DNA from 60 genera from all subfamilies and tribes. The results strongly showed the Calamoideae are monophyletic, and Ceroxyloideae and Coryphoideae are paraphyletic. The relationships of Arecoideae are uncertain, but they are possibly related to the Ceroxyloideae and Phytelephantoideae. Studies have suggested the lack of a fully resolved hypothesis for the relationships within the family is due to a variety of factors, including difficulties in selecting appropriate outgroups, homoplasy in morphological character states, slow rates of molecular evolution important for the use of standard DNA markers, and character polarization. However, hybridization has been observed among Orbignya and Phoenix species, and using chloroplast DNA in cladistic studies may produce inaccurate results due to maternal inheritance of the chloroplast DNA. Chemical and molecular data from non-organelle DNA, for example, could be more effective for studying palm phylogeny.
+Recently, nuclear genomes and transcriptomes have been used to reconstruct the phylogeny of palms. This has revealed, for example, that a whole-genome duplication event occurred early in the evolution of the Arecaceae lineage, that was not experienced by its sister clade, the Dasypogonaceae.
+For a phylogenetic tree of the family, see the list of Arecaceae genera.
+
+Selected genera
+Archontophoenix—Bangalow palm
+Areca—Betel palm
+Astrocaryum
+Attalea
+Bactris—Pupunha
+Beccariophoenix—Beccariophoenix alfredii
+Bismarckia—Bismarck palm
+Borassus—Palmyra palm, sugar palm, toddy palm
+Butia
+Calamus—Rattan palm
+Ceroxylon
+Cocos—Coconut
+Coccothrinax
+Copernicia—Carnauba wax palm
+Corypha—Gebang palm, Buri palm or Talipot palm
+Elaeis—Oil palm
+Euterpe—Cabbage heart palm, açaí palm
+Hyphaene—Doum palm
+Jubaea—Chilean wine palm, Coquito palm
+Latania—Latan palm
+Licuala
+Livistona—Cabbage palm
+Mauritia—Moriche palm
+Metroxylon—Sago palm
+Nypa—Nipa palm
+Parajubaea—Bolivian coconut palms
+Phoenix—Date palm
+Pritchardia
+Raphia—Raffia palm
+Rhapidophyllum
+Rhapis
+Roystonea—Royal palm
+Sabal—Palmettos
+Salacca—Salak
+Syagrus—Queen palm
+Thrinax
+Trachycarpus—Windmill palm, Kumaon palm
+Trithrinax
+Veitchia—Manila palm, Joannis palm
+Washingtonia—Fan palm
+
+Evolution
+The Arecaceae were the first modern family of monocots to appear in the fossil record around 80 million years ago (Mya), during the late Cretaceous period. The first modern species, such as Nypa fruticans and Acrocomia aculeata, appeared 69 Mya, as evidenced by fossil Nypa pollen. Palms appear to have undergone an early period of adaptive radiation. By 60 Mya, many of the modern, specialized genera of palms appeared and became widespread and common, much more widespread than their range today. Because palms separated from the monocots earlier than other families, they developed more intrafamilial specialization and diversity. By tracing back these diverse characteristics of palms to the basic structures of monocots, palms may be valuable in studying monocot evolution.  Several species of palms have been identified from flowers preserved in amber, including Palaeoraphe dominicana and Roystonea palaea.  Fossil evidence of them can also be found in samples of petrified palmwood.
+The relationship between the subfamilies is shown in the following cladogram:
+
+Uses
+Evidence for cultivation of the date palm by Mesopotamians and other Middle Eastern peoples exists from more than 5,000 years ago, in the form of date wood, pits for storing dates, and other remains of the date palm in Mesopotamian sites. The date palm had a significant effect on the history of the Middle East and North Africa. In the text "Date Palm Products" (1993), W.H. Barreveld wrote:
+
+One could go as far as to say that, had the date palm not existed, the expansion of the human race into the hot and barren parts of the "old" world would have been much more restricted. The date palm not only provided a concentrated energy food, which could be easily stored and carried along on long journeys across the deserts, it also created a more amenable habitat for the people to live in by providing shade and protection from the desert winds.
+An indication of the importance of palms in ancient times is that they are mentioned more than 30 times in the Bible, and at least 22 times in the Quran. The Torah also references the "70 date palm trees", which symbolize the 70 aspects of Torah that are revealed to those who "eat of its fruit."
+Arecaceae have great economic importance, including coconut products, oils, dates, palm syrup, ivory nuts, carnauba wax, rattan cane, raffia, and palm wood. This family supplies a large amount of the human diet and several other human uses, both by absolute amount produced and by number of species domesticated. This is far higher than almost any other plant family, sixth out of domesticated crops in the human diet, and first in total economic value produced – sharing the top spot with the Poaceae and Fabaceae. These human uses have also spread many Arecaceae species around the world.
+Along with dates mentioned above, members of the palm family with human uses are numerous:
+
+The type member of Arecaceae is the areca palm (Areca catechu), the fruit of which, the areca nut, is chewed with the betel leaf for intoxicating effects.
+Carnauba wax is harvested from the leaves of South American palms of the genus Copernicia.
+Rattans, whose stems are used extensively in furniture and baskets, are in the genus Calamus.
+Palm oil is an edible vegetable oil produced by the oil palms in the genus Elaeis.
+Several species are harvested for heart of palm, a vegetable eaten in salads.
+Sap of the nipa palm, Nypa fruticans, is used to make vinegar.
+Palm sap is sometimes fermented to produce palm wine or toddy, an alcoholic beverage common in parts of Africa, India, and the Philippines. The sap may be drunk fresh, but fermentation is rapid, reaching up to 4% alcohol content within an hour, and turning vinegary in a day.
+Palmyra and date palm sap is harvested in Bengal, India, to process into gur and jaggery.
+Coconut is the partially edible seed of the fruit of the coconut palm (Cocos nucifera).
+Coir is a coarse, water-resistant fiber extracted from the outer shell of coconuts, used in doormats, brushes, mattresses, and ropes.
+Some indigenous groups living in palm-rich areas use palms to make many of their necessary items and food. Sago, for example, a starch made from the pith of the trunk of the sago palm Metroxylon sagu, is a major staple food for lowland peoples of New Guinea and the Moluccas.
+Palm wine is made from Jubaea also called Chilean wine palm, or coquito palm.
+Recently, the fruit of the açaí palm Euterpe  has been used for its reputed health benefits.
+Saw palmetto (Serenoa repens) is being investigated as a drug for treating enlarged prostates.
+Palm leaves are also valuable to some peoples as a material for thatching, basketry, clothing, and in religious ceremonies (see "Symbolism" below).
+Ornamental uses: Today, palms are valuable as ornamental plants and are often grown along streets in tropical and subtropical cities. Chamaedorea elegans is a popular houseplant and is grown indoors for its low maintenance. Farther north, palms are a common feature in botanical gardens or as indoor plants. Few palms tolerate severe cold and the majority of the species are tropical or subtropical. The three most cold-tolerant species are Trachycarpus fortunei, native to eastern Asia, and Rhapidophyllum hystrix and Sabal minor, both native to the southeastern [United States](1100).
+The southeastern U.S. state of South Carolina is nicknamed the Palmetto State after the sabal palmetto (cabbage palmetto), logs from which were used to build the fort at Fort Moultrie. During the [American Revolutionary War](1183), they were invaluable to those defending the fort, because their spongy wood absorbed or deflected the British cannonballs.
+Singaporean politician Tan Cheng Bock uses a palm tree-like symbol similar to a Ravenala to represent him in the 2011 Singaporean presidential election. The symbol of a party he founded, Progress Singapore Party, was also based on a palm tree.
+On Ash Wednesday, Catholics receive a cross on their forehead made of palm ashes as a reminder of the Catholic belief that everyone and everything eventually returns to where it came from, commonly expressed by the saying "ashes to ashes and dust to dust."
+Lately the Fujairah Research Centre reported the use of date palm leaves to help restore coral reefs as it merged ancient Emerati techniques with modern science.
+
+Endangered species
+Like many other plants, palms have been threatened by human intervention and exploitation. The greatest risk to palms is destruction of habitat, especially in the tropical forests, due to urbanization, wood-chipping, mining, and conversion to farmland. Palms rarely reproduce after such great changes in the habitat, and those with small habitat ranges are most vulnerable to them. The harvesting of heart of palm, a delicacy in salads, also poses a threat because it is derived from the palm's apical meristem, a vital part of the palm that cannot be regrown (except in domesticated varieties, e.g. of peach palm). The use of rattan palms in furniture has caused a major population decrease in these species that has negatively affected local and international markets, as well as biodiversity in the area. The sale of seeds to nurseries and collectors is another threat, as the seeds of popular palms are sometimes harvested directly from the wild. In 2006, at least 100 palm species were considered endangered, and nine species have been reported as recently extinct.
+However, several factors make palm conservation more difficult. Palms live in almost every type of warm habitat and have tremendous morphological diversity. Most palm seeds lose viability quickly, and they cannot be preserved in low temperatures because the cold kills the embryo. Using botanical gardens for conservation also presents problems, since they can rarely house more than a few plants of any species or truly imitate the natural setting. There is also the risk that cross-pollination can lead to hybrid species.
+The Palm Specialist Group of the World Conservation Union (IUCN) began in 1984, and has performed a series of three studies to find basic information on the status of palms in the wild, use of wild palms, and palms under cultivation. Two projects on palm conservation and use supported by the World Wildlife Fund took place from 1985 to 1990 and 1986–1991, in the American tropics and southeast Asia, respectively. Both studies produced copious new data and publications on palms. Preparation of a global action plan for palm conservation began in 1991, supported by the IUCN, and was published in 1996.
+The rarest palm known is Hyophorbe amaricaulis. The only living individual remains at the Botanic Gardens of Curepipe in Mauritius.
+
+Arthropod pests
+Some pests are specialists to particular taxa. Pests that attack a variety of species of palms include:
+
+Raoiella indica, the red palm mite
+Caryobruchus gleditsiae, the palm seed beetle or palm seed weevil
+Rhynchophorus ferrugineus, the red palm weevil, recently introduced to Europe
+
+Symbolism
+The palm branch was a symbol of triumph and victory in classical antiquity. The Romans rewarded champions of the games and celebrated military successes with palm branches. Early Christians used the palm branch to symbolize the victory of the faithful over enemies of the soul, as in the Palm Sunday festival celebrating the triumphal entry of Jesus Christ into Jerusalem. In Judaism, the palm represents peace and plenty, and is one of the Four Species of Sukkot; the palm may also symbolize the Tree of Life in Kabbalah.
+The canopies of the Rathayatra carts which carry the deities of Krishna and his family members in the cart festival of Jagganath Puri in India are marked with the emblem of a palm tree. Specifically it is the symbol of Krishna's brother, Baladeva.
+In 1840, the American geologist Edward Hitchcock (1793–1864) published the first tree-like paleontology chart in his Elementary Geology, with two separate trees of life for the plants and the animals. These are crowned (graphically) with the Palms and with Man.
+Today, the palm, especially the coconut palm, remains a symbol of the tropical island paradise.
+Palms appear on the flags and seals of several places where they are native, including those of Haiti, Guam, Saudi Arabia, Florida, and South Carolina.
+
+Other plants
+Some species commonly called palms, though they are not true palms, include:
+
+Ailanthus altissima (Ghetto palm), a tree in the flowering plant family Simaroubaceae
+Alocasia odora x gageana 'Calidora' (Persian palm), a flowering plant in the family Araceae
+Aloe thraskii (Palm aloe), a flowering plant in the family Asphodelaceae
+Amorphophallus konjac (Snake palm), a flowering plant in the family Araceae
+Beaucarnea recurvata (Ponytail palm), a flowering plant in the family Asparagaceae
+Begonia luxurians (Palm leaf begonia), a flowering plant in the family Begoniaceae
+Biophytum umbraculum (South Pacific palm), a flowering plant in the family Oxalidaceae
+Blechnum appendiculatum (Palm fern), a fern  in the family Aspleniaceae
+Brassica oleracea 'Lacinato kale' (Black Tuscan palm), a flowering plant in the family Brassicaceae
+Brighamia insignis (Vulcan palm), a flowering plant in the family Campanulaceae
+Carludovica palmata (Panama hat palm) and perhaps other members in the family Cyclanthaceae.
+Cordyline australis (Cabbage palm, Torbay palm, ti palm) or palm lily (family Asparagaceae) and other representatives in the genus Cordyline.
+Cyathea cunninghamii (Palm fern) and other tree ferns (families Cyatheaceae and Dicksoniaceae) that may be confused with palms.
+Cycas revoluta (Sago palm) and the rest of the order Cycadales.
+Cyperus alternifolius (Umbrella palm), a sedge in the family Cyperaceae
+Dasylirion longissimum (Grass palm), a flowering plant in the family Asparagaceae and other plants in the genus Dasylirion
+Dioon spinulosum (Gum palm), a cycad in the family Zamiaceae
+Dracaena marginata (Dragon palm) a flowering plant in the family Asparagaceae
+Eisenia arborea (Southern sea palm), a species of brown alga in the family Lessoniaceae
+Fatsia japonica (Figleaf palm), a flowering plant in the family Araliaceae
+Hypnodendron comosum (Palm tree moss or palm moss), a moss in the family Hypnodendraceae
+Musa species (Banana palm), a flowering plant in the family Musaceae
+Pachypodium lamerei (Madagascar palm), a flowering plant in the family Apocynaceae
+Pandanus spiralis (Screw palm), a flowering plant in the family Pandanaceae and perhaps other Pandanus spp.
+Ravenala (Traveller's palm), a flowering plant in the family Strelitziaceae
+Setaria palmifolia (Palm grass), a grass in the family Poaceae
+Yucca brevifolia (Yucca palm or palm tree yucca)
+Yucca filamentosa (Needle palm) and Yucca filifera (St. Peter's palm), flowering plants in the family Asparagaceae
+Zamia furfuracea (Cardboard palm), a cycad in the family Zamiaceae
+Zamioculcas zamiifolia (Emerald palm or aroid palm), a flowering plant in the family Araceae
+
+See also
+Coconut
+Fan palm—genera with palmate leaves
+List of Arecaceae genera
+List of foliage plant diseases (Arecaceae)
+List of hardy palms—palms able to withstand colder temperatures
+Postelsia—called the "sea palm" (a brown alga)
+
+References
+Citations
+General sources
+External links
+
+Palmpedia—A wiki-based site dedicated to high quality images and information on palm trees.
+Fairchild Guide to Palms—A collection of palm images, scientific data, and horticultural information hosted by Fairchild Tropical Botanic Garden, Miami.
+Kew Botanic Garden's Palm Genera list—A list of the currently acknowledged genera by Kew Royal Botanic Gardens in London, England (archived 2007)
+Palm species listing with images—Palm and Cycad Societies of Australia (PACSOA)
+Palm & Cycad Societies of Florida, Inc. (PACSOF), which includes pages on Arecaceae taxonomy and a photo index.
+Sterken, Peter (2008). "The Elastic Stability of Palms" (PDF). Plant Science Bulletin. 54 (4). Archived from the original (PDF) on 17 December 2008.
+Palmaceae in the BoDD—Botanical Dermatology Database
+Wallace, A. R. (1853), Palm trees of the Amazon and their uses.

@@ -1,0 +1,22 @@
+723
+Amoeba (operating system)
+Amoeba is a distributed operating system developed by Andrew S. Tanenbaum and others at the Vrije Universiteit Amsterdam. The aim of the Amoeba project was to build a timesharing system that makes an entire network of computers appear to the user as a single machine.  Development at the Vrije Universiteit was stopped: the source code of the latest version (5.3) was last modified on 30 July 1996.
+The Python programming language was originally developed for this platform.
+
+Overview
+The goal of the Amoeba project was to construct an operating system for networks of computers that would present the network to the user as if it were a single machine. An Amoeba network consists of a number of workstations connected to a "pool" of processors, and executing a program from a terminal causes it to run on any of the available processors, with the operating system providing load balancing. Unlike the contemporary Sprite, Amoeba does not support process migration.
+The workstations would typically function as networked terminals only. Aside from workstations and processors, additional machines operate as servers for files, directory services, TCP/IP communications etc.
+Amoeba is a microkernel-based operating system. It offers multithreaded programs and a remote procedure call (RPC) mechanism for communication between threads, potentially across the network; even kernel-threads use this RPC mechanism for communication. Each thread is assigned a 48-bit number called its "port", which serves as its unique, network-wide "address" for communication.
+The user interface and APIs of Amoeba were modeled after Unix and compliance with the POSIX standard was partially implemented; some of the Unix emulation code consists of utilities ported over from Tanenbaum's other operating system, MINIX. Early versions used a "homebrew" window system, which the Amoeba authors considered "faster ... in our view, cleaner ... smaller and much easier to understand", but version 4.0 uses the X Window System (and allows X terminals as terminals).
+The system uses FLIP as a network protocol.
+
+See also
+Distributed computing
+Multikernel
+Plan 9 from Bell Labs
+
+References
+External links
+Amoeba home page (static page, ftp links are dead)
+FSD-Amoeba page at Sourceforge (file downloads give 403 errors)
+ArchiveOS mirror of Amoeba 5.3

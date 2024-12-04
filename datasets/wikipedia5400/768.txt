@@ -1,0 +1,523 @@
+768
+C++11
+[C++](640)11 is a version of a joint technical standard, ISO/IEC 14882, by the International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC), for the [C++](640) programming language. [C++](640)11 replaced the prior version of the [C++](640) standard, named [C++](640)03, and was later replaced by [C++](640)14. The name follows the tradition of naming language versions by the publication year of the specification, though it was formerly named [C++](640)0x because it was expected to be published before 2010.
+Although one of the design goals was to prefer changes to the libraries over changes to the core language, [C++](640)11 does make several additions to the core language. Areas of the core language that were significantly improved include multithreading support, generic programming support, uniform initialization, and performance. Significant changes were also made to the [C++](640) Standard Library, incorporating most of the [C++](640) Technical Report 1 (TR1) libraries, except the library of mathematical special functions.
+[C++](640)11 was published as ISO/IEC 14882:2011 in September 2011 and is available for a fee. The working draft most similar to the published [C++](640)11 standard is N3337, dated 16 January 2012; it has only editorial corrections from the [C++](640)11 standard.
+[C++](640)11 is fully supported by Clang 3.3 and later. [C++](640)11 is fully supported by GNU Compiler Collection (GCC) 4.8.1 and later.
+
+Design goals
+The design committee attempted to stick to a number of goals in designing [C++](640)11:
+
+Maintain stability and compatibility with older code
+Prefer introducing new features via the standard library, rather than extending the core language
+Improve [C++](640) to facilitate systems and library design, rather than introduce new features useful only to specific applications
+Increase type safety by providing safer alternatives to earlier unsafe techniques
+Increase performance and the ability to work directly with hardware
+Provide proper solutions for real-world problems
+Make [C++](640) easy to teach and to learn without removing any utility needed by expert programmers
+Attention to beginners is considered important, because most computer programmers will always be such, and because many beginners never widen their knowledge, limiting themselves to work in aspects of the language in which they specialize.
+
+Extensions to the [C++](640) core language
+One function of the [C++](640) committee is the development of the language core. Areas of the core language that were significantly improved include multithreading support, generic programming support, uniform initialization, and performance.
+
+Core language runtime performance enhancements
+These language features primarily exist to provide some kind of runtime performance benefit, either of memory or of computing speed.
+
+Rvalue references and move constructors
+In [C++](640)03 (and before), temporaries (termed "rvalues", as they often lie on the right side of an assignment) were intended to never be modifiable — just as in C — and were considered to be indistinguishable from const T& types; nevertheless, in some cases, temporaries could have been modified, a behavior that was even considered to be a useful loophole. [C++](640)11 adds a new non-const reference type called an rvalue reference, identified by T&&. This refers to temporaries that are permitted to be modified after they are initialized, for the purpose of allowing "move semantics".
+A chronic performance problem with [C++](640)03 is the costly and unneeded deep copies that can happen implicitly when objects are passed by value. To illustrate the issue, consider that an std::vector<T> is, internally, a wrapper around a C-style array with a defined size. If an std::vector<T> temporary is created or returned from a function, it can be stored only by creating a new std::vector<T> and copying all the rvalue's data into it. Then the temporary and all its memory is destroyed. (For simplicity, this discussion neglects the return value optimization.)
+In [C++](640)11, a move constructor of std::vector<T> that takes an rvalue reference to an std::vector<T> can copy the pointer to the internal C-style array out of the rvalue into the new std::vector<T>, then set the pointer inside the rvalue to null. Since the temporary will never again be used, no code will try to access the null pointer, and because the pointer is null, its memory is not deleted when it goes out of scope. Hence, the operation not only forgoes the expense of a deep copy, but is safe and invisible.
+Rvalue references can provide performance benefits to existing code without needing to make any changes outside the standard library. The type of the returned value of a function returning an std::vector<T> temporary does not need to be changed explicitly to std::vector<T> && to invoke the move constructor, as temporaries are considered rvalues automatically. (However, if std::vector<T> is a [C++](640)03 version without a move constructor, then the copy constructor will be invoked with a const std::vector<T>&, incurring a significant memory allocation.)
+For safety reasons, some restrictions are imposed. A named variable will never be considered to be an rvalue even if it is declared as such. To get an rvalue, the function template std::move() should be used. Rvalue references can also be modified only under certain circumstances, being intended to be used primarily with move constructors.
+Due to the nature of the wording of rvalue references, and to some modification to the wording for lvalue references (regular references), rvalue references allow developers to provide perfect function forwarding. When combined with variadic templates, this ability allows for function templates that can perfectly forward arguments to another function that takes those particular arguments. This is most useful for forwarding constructor parameters, to create factory functions that will automatically call the correct constructor for those particular arguments. This is seen in the emplace_back set of the [C++](640) standard library methods.
+
+constexpr – Generalized constant expressions
+[C++](640) has always had the concept of constant expressions. These are expressions such as 3+4 that will always yield the same results, at compile time and at runtime. Constant expressions are optimization opportunities for compilers, and compilers frequently execute them at compile time and hardcode the results in the program. Also, in several places, the [C++](640) specification requires using constant expressions. Defining an array requires a constant expression, and enumerator values must be constant expressions.
+However, a constant expression has never been allowed to contain a function call or object constructor. So a piece of code as simple as this is invalid:
+
+This was not valid in [C++](640)03, because get_five() + 7 is not a constant expression. A [C++](640)03 compiler has no way of knowing if get_five() actually is constant at runtime. In theory, this function could affect a global variable, call other non-runtime constant functions, etc.
+[C++](640)11 introduced the keyword constexpr, which allows the user to guarantee that a function or object constructor is a compile-time constant. The above example can be rewritten as follows:
+
+This allows the compiler to understand, and verify, that get_five() is a compile-time constant.
+Using constexpr on a function imposes some limits on what that function can do. First, the function must have a non-void return type. Second, the function body cannot declare variables or define new types. Third, the body may contain only declarations, null statements and a single return statement. There must exist argument values such that, after argument substitution, the expression in the return statement produces a constant expression.
+Before [C++](640)11, the values of variables could be used in constant expressions only if the variables are declared const, have an initializer which is a constant expression, and are of integral or enumeration type. [C++](640)11 removes the restriction that the variables must be of integral or enumeration type if they are defined with the constexpr keyword:
+
+Such data variables are implicitly const, and must have an initializer which must be a constant expression.
+To construct constant expression data values from user-defined types, constructors can also be declared with constexpr. A constexpr constructor's function body can contain only declarations and null statements, and cannot declare variables or define types, as with a constexpr function. There must exist argument values such that, after argument substitution, it initializes the class's members with constant expressions. The destructors for such types must be trivial.
+The copy constructor for a type with any constexpr constructors should usually also be defined as a constexpr constructor, to allow objects of the type to be returned by value from a constexpr function. Any member function of a class, such as copy constructors, operator overloads, etc., can be declared as constexpr, so long as they meet the requirements for constexpr functions. This allows the compiler to copy objects at compile time, perform operations on them, etc.
+If a constexpr function or constructor is called with arguments which aren't constant expressions, the call behaves as if the function were not constexpr, and the resulting value is not a constant expression. Likewise, if the expression in the return statement of a constexpr function does not evaluate to a constant expression for a given invocation, the result is not a constant expression.
+constexpr differs from consteval, introduced in [C++](640)20, in that the latter must always produce a compile time constant, while constexpr does not have this restriction.
+
+Modification to the definition of plain old data
+In [C++](640)03, a class or struct must follow a number of rules for it to be considered a plain old data (POD) type. Types that fit this definition produce object layouts that are compatible with C, and they could also be initialized statically. The [C++](640)03 standard has restrictions on what types are compatible with C or can be statically initialized despite there being no technical reason a compiler couldn't accept the program; if someone were to create a [C++](640)03 POD type and add a non-virtual member function, this type would no longer be a POD type, could not be statically initialized, and would be incompatible with C despite no change to the memory layout.
+[C++](640)11 relaxed several of the POD rules, by dividing the POD concept into two separate concepts: trivial and standard-layout.
+A type that is trivial can be statically initialized. It also means that it is valid to copy data around via memcpy, rather than having to use a copy constructor. The lifetime of a trivial type begins when its storage is defined, not when a constructor completes.
+A trivial class or struct is defined as one that:
+
+Has a trivial default constructor. This may use the default constructor syntax (SomeConstructor() = default;).
+Has trivial copy and move constructors, which may use the default syntax.
+Has trivial copy and move assignment operators, which may use the default syntax.
+Has a trivial destructor, which must not be virtual.
+Constructors are trivial only if there are no virtual member functions of the class and no virtual base classes. Copy/move operations also require all non-static data members to be trivial.
+A type that is standard-layout means that it orders and packs its members in a way that is compatible with C. A class or struct is standard-layout, by definition, provided:
+
+It has no virtual functions
+It has no virtual base classes
+All its non-static data members have the same access control (public, private, protected)
+All its non-static data members, including any in its base classes, are in the same one class in the hierarchy
+The above rules also apply to all the base classes and to all non-static data members in the class hierarchy
+It has no base classes of the same type as the first defined non-static data member
+A class/struct/union is considered POD if it is trivial, standard-layout, and all of its non-static data members and base classes are PODs.
+By separating these concepts, it becomes possible to give up one without losing the other. A class with complex move and copy constructors may not be trivial, but it could be standard-layout and thus interoperate with C. Similarly, a class with public and private non-static data members would not be standard-layout, but it could be trivial and thus memcpy-able.
+
+Core language build-time performance enhancements
+Extern template
+In [C++](640)03, the compiler must instantiate a template whenever a fully specified template is encountered in a translation unit. If the template is instantiated with the same types in many translation units, this can dramatically increase compile times. There is no way to prevent this in [C++](640)03, so [C++](640)11 introduced extern template declarations, analogous to extern data declarations.
+[C++](640)03 has this syntax to oblige the compiler to instantiate a template:
+
+[C++](640)11 now provides this syntax:
+
+which tells the compiler not to instantiate the template in this translation unit.
+
+Core language usability enhancements
+These features exist for the primary purpose of making the language easier to use. These can improve type safety, minimize code repetition, make erroneous code less likely, etc.
+
+Initializer lists
+[C++](640)03 inherited the initializer-list feature from C. A struct or array is given a list of arguments in braces, in the order of the members' definitions in the struct. These initializer-lists are recursive, so an array of structs or struct containing other structs can use them.
+
+This is very useful for static lists, or initializing a struct to some value. [C++](640) also provides constructors to initialize an object, but they are often not as convenient as the initializer list. However, [C++](640)03 allows initializer-lists only on structs and classes that conform to the Plain Old Data (POD) definition; [C++](640)11 extends initializer-lists, so they can be used for all classes including standard containers like std::vector.
+[C++](640)11 binds the concept to a template, called std::initializer_list. This allows constructors and other functions to take initializer-lists as parameters. For example:
+
+This allows SequenceClass to be constructed from a sequence of integers, such as:
+
+This constructor is a special kind of constructor, called an initializer-list-constructor. Classes with such a constructor are treated specially during uniform initialization (see below)
+The template class std::initializer_list<> is a first-class [C++](640)11 standard library type. They can be constructed statically by the [C++](640)11 compiler via use of the {} syntax without a type name in contexts where such braces will deduce to an std::initializer_list, or by explicitly specifying the type like std::initializer_list<SomeType>{args} (and so on for other varieties of construction syntax).
+The list can be copied once constructed, which is cheap and will act as a copy-by-reference (the class is typically implemented as a pair of begin/end pointers). An std::initializer_list is constant: its members cannot be changed once it is created, and nor can the data in those members be changed (which rules out moving from them, requiring copies into class members, etc.).
+Although its construction is specially treated by the compiler, an std::initializer_list is a real type, and so it can be used in other places besides class constructors. Regular functions can take typed std::initializer_lists as arguments. For example:
+
+Examples of this in the standard library include the std::min() and std::max() templates taking std::initializer_lists of numeric type.
+Standard containers can also be initialized in these ways:
+
+Uniform initialization
+[C++](640)03 has a number of problems with initializing types. Several ways to do this exist, and some produce different results when interchanged. The traditional constructor syntax, for example, can look like a function declaration, and steps must be taken to ensure that the compiler's most vexing parse rule will not mistake it for such. Only aggregates and POD types can be initialized with aggregate initializers (using SomeType var = {/*stuff*/};).
+[C++](640)11 provides a syntax that allows for fully uniform type initialization that works on any object. It expands on the initializer list syntax:
+
+The initialization of var1 behaves exactly as though it were aggregate-initialization. That is, each data member of an object, in turn, will be copy-initialized with the corresponding value from the initializer-list. Implicit type conversion will be used where needed. If no conversion exists, or only a narrowing conversion exists, the program is ill-formed. The initialization of var2 invokes the constructor.
+One can also do this:
+
+Uniform initialization does not replace constructor syntax, which is still needed at times. If a class has an initializer list constructor (TypeName(initializer_list<SomeType>);), then it takes priority over other forms of construction, provided that the initializer list conforms to the sequence constructor's type. The [C++](640)11 version of std::vector has an initializer list constructor for its template type. Thus this code:
+
+will call the initializer list constructor, not the constructor of std::vector that takes a single size parameter and creates the vector with that size. To access the latter constructor, the user will need to use the standard constructor syntax directly.
+
+Type inference
+In [C++](640)03 (and C), to use a variable, its type must be specified explicitly. However, with the advent of template types and template metaprogramming techniques, the type of something, particularly the well-defined return value of a function, may not be easily expressed. Thus, storing intermediates in variables is difficult, possibly needing knowledge of the internals of a given metaprogramming library.
+[C++](640)11 allows this to be mitigated in two ways. First, the definition of a variable with an explicit initialization can use the auto keyword. This creates a variable of the specific type of the initializer:
+
+The type of some_strange_callable_type is simply whatever the particular template function override of std::bind returns for those particular arguments. This type is easily determined procedurally by the compiler as part of its semantic analysis duties, but is not easy for the user to determine upon inspection.
+The type of other_variable is also well-defined, but it is easier for the user to determine. It is an int, which is the same type as the integer literal.
+This use of the keyword auto in [C++](640) re-purposes the semantics of this keyword, which was originally used in the typeless predecessor language B in a related role of denoting an untyped automatic variable definition.
+Further, the keyword decltype can be used to determine the type of expression at compile-time. For example:
+
+This is more useful in conjunction with auto, since the type of auto variable is known only to the compiler. However, decltype can also be very useful for expressions in code that makes heavy use of operator overloading and specialized types.
+auto is also useful for reducing the verbosity of the code. For instance, instead of writing
+
+the programmer can use the shorter
+
+which can be further compacted since "myvec" implements begin/end iterators:
+
+This difference grows as the programmer begins to nest containers, though in such cases typedefs are a good way to decrease the amount of code.
+The type denoted by decltype can be different from the type deduced by auto.
+
+Range-based for loop
+[C++](640)11 extends the syntax of the for statement to allow for easy iteration over a range of elements:
+
+This form of for, called the “range-based for”, will iterate over each element in the list. It will work for C-style arrays, initializer lists, and any type that has begin() and end() functions defined for it that return iterators. All the standard library containers that have begin/end pairs will work with the range-based for statement.
+
+Lambda functions and expressions
+[C++](640)11 provides the ability to create anonymous functions, called lambda functions.
+These are defined as follows:
+
+The return type (-> int in this example) can be omitted as long as all return expressions return the same type.
+A lambda can optionally be a closure.
+
+Alternative function syntax
+Standard C function declaration syntax was perfectly adequate for the feature set of the C language. As [C++](640) evolved from C, it kept the basic syntax and extended it where needed. However, as [C++](640) grew more complex, it exposed several limits, especially regarding template function declarations. For example, in [C++](640)03 this is invalid:
+
+The type Ret is whatever the addition of types Lhs and Rhs will produce. Even with the aforementioned [C++](640)11 functionality of decltype, this is not possible:
+
+This is not valid [C++](640) because lhs and rhs have not yet been defined; they will not be valid identifiers until after the parser has parsed the rest of the function prototype.
+To work around this, [C++](640)11 introduced a new function declaration syntax, with a trailing-return-type:
+
+This syntax can be used for more mundane function declarations and definitions:
+
+The use of the “auto” keyword in this case is just part of the syntax and does not perform automatic type deduction in [C++](640)11. However, starting with [C++](640)14, the trailing return type can be removed entirely and the compiler will deduce the return type automatically.
+
+Object construction improvement
+In [C++](640)03, constructors of a class are not allowed to call other constructors in an initializer list of that class. Each constructor must construct all of its class members itself or call a common member function, as follows:
+
+Constructors for base classes cannot be directly exposed to derived classes; each derived class must implement constructors even if a base class constructor would be appropriate. Non-constant data members of classes cannot be initialized at the site of the declaration of those members. They can be initialized only in a constructor.
+[C++](640)11 provides solutions to all of these problems.
+[C++](640)11 allows constructors to call other peer constructors (termed delegation). This allows constructors to utilize another constructor's behavior with a minimum of added code. Delegation has been used in other languages e.g., Java and Objective-C.
+This syntax is as follows:
+
+In this case, the same effect could have been achieved by making new_number a default parameter. The new syntax, however, allows the default value (42) to be expressed in the implementation rather than the interface — a benefit to maintainers of library code since default values for function parameters are “baked in” to call sites, whereas constructor delegation allows the value to be changed without recompilation of the code using the library.
+This comes with a caveat: [C++](640)03 considers an object to be constructed when its constructor finishes executing, but [C++](640)11 considers an object constructed once any constructor finishes execution. Since multiple constructors will be allowed to execute, this will mean that each delegating constructor will be executing on a fully constructed object of its own type. Derived class constructors will execute after all delegation in their base classes is complete.
+For base-class constructors, [C++](640)11 allows a class to specify that base class constructors will be inherited. Thus, the [C++](640)11 compiler will generate code to perform the inheritance and the forwarding of the derived class to the base class. This is an all-or-nothing feature: either all of that base class's constructors are forwarded or none of them are. Also, an inherited constructor will be shadowed if it matches the signature of a constructor of the derived class, and restrictions exist for multiple inheritance: class constructors cannot be inherited from two classes that use constructors with the same signature.
+The syntax is as follows:
+
+For member initialization, [C++](640)11 allows this syntax:
+
+Any constructor of the class will initialize value with 5, if the constructor does not override the initialization with its own. So the above empty constructor will initialize value as the class definition states, but the constructor that takes an int will initialize it to the given parameter.
+It can also use constructor or uniform initialization, instead of the assignment initialization shown above.
+
+Explicit overrides and final
+In [C++](640)03, it is possible to accidentally create a new virtual function, when one intended to override a base class function. For example:
+
+Suppose the Derived::some_func is intended to replace the base class version. But instead, because it has a different signature, it creates a second virtual function. This is a common problem, particularly when a user goes to modify the base class.
+[C++](640)11 provides syntax to solve this problem.
+
+The override special identifier means that the compiler will check the base class(es) to see if there is a virtual function with this exact signature. And if there is not, the compiler will indicate an error.
+[C++](640)11 also adds the ability to prevent inheriting from classes or simply preventing overriding methods in derived classes. This is done with the special identifier final. For example:
+
+In this example, the virtual void f() final; statement declares a new virtual function, but it also prevents derived classes from overriding it. It also has the effect of preventing derived classes from using that particular function name and parameter combination.
+Neither override nor final are language keywords. They are technically identifiers for declarator attributes:
+
+they gain special meaning as attributes only when used in those specific trailing contexts (after all type specifiers, access specifiers, member declarations (for struct, class and enum types) and declarator specifiers, but before initialization or code implementation of each declarator in a comma-separated list of declarators);
+they do not alter the declared type signature and do not declare or override any new identifier in any scope;
+the recognized and accepted declarator attributes may be extended in future versions of [C++](640) (some compiler-specific extensions already recognize added declarator attributes, to provide code generation options or optimization hints to the compiler, or to generate added data into the compiled code, intended for debuggers, linkers, and deployment of the compiled code, or to provide added system-specific security attributes, or to enhance reflective programming (reflection) abilities at runtime, or to provide added binding information for interoperability with other programming languages and runtime systems; these extensions may take parameters between parentheses after the declarator attribute identifier; for ANSI conformance, these compiler-specific extensions should use the double underscore prefix convention).
+In any other location, they can be valid identifiers for new declarations (and later use if they are accessible).
+
+Null pointer constant and type
+For the purposes of this section and this section alone, every occurrence of "0" is meant as "a constant expression which evaluates to 0, which is of type int". In reality, the constant expression can be of any integral type.
+Since the dawn of C in 1972, the constant 0 has had the double role of constant integer and null pointer constant. The ambiguity inherent in the double meaning of 0 was dealt with in C by using the preprocessor macro NULL, which commonly expands to either ((void*)0) or 0. [C++](640) forbids implicit conversion from void * to other pointer types, thus removing the benefit of casting 0 to void *. As a consequence, only 0 is allowed as a null pointer constant. This interacts poorly with function overloading:
+
+If NULL is defined as 0 (which is usually the case in [C++](640)), the statement foo(NULL); will call foo(int), which is almost certainly not what the programmer intended, and not what a superficial reading of the code suggests.
+[C++](640)11 corrects this by introducing a new keyword to serve as a distinguished null pointer constant: nullptr. It is of type nullptr_t, which is implicitly convertible and comparable to any pointer type or pointer-to-member type. It is not implicitly convertible or comparable to integral types, except for bool. While the original proposal specified that an rvalue of type nullptr_t should not be convertible to bool, the core language working group decided that such a conversion would be desirable, for consistency with regular pointer types. The proposed wording changes were unanimously voted into the Working Paper in June 2008.1 A similar proposal was also brought to the C standard working group and was accepted for inclusion in C23.
+For backwards compatibility reasons, 0 remains a valid null pointer constant.
+
+Strongly typed enumerations
+In [C++](640)03, enumerations are not type-safe. They are effectively integers, even when the enumeration types are distinct. This allows the comparison between two enum values of different enumeration types. The only safety that [C++](640)03 provides is that an integer or a value of one enum type does not convert implicitly to another enum type. Further, the underlying integral type is implementation-defined; code that depends on the size of the enumeration is thus non-portable. Lastly, enumeration values are scoped to the enclosing scope. Thus, it is not possible for two separate enumerations in the same scope to have matching member names.
+[C++](640)11 allows a special classification of enumeration that has none of these issues. This is expressed using the enum class (enum struct is also accepted as a synonym) declaration:
+
+This enumeration is type-safe. Enum class values are not implicitly converted to integers. Thus, they cannot be compared to integers either (the expression Enumeration::Val4 == 101 gives a compile error).
+The underlying type of enum classes is always known. The default type is int; this can be overridden to a different integral type as can be seen in this example:
+
+With old-style enumerations the values are placed in the outer scope. With new-style enumerations they are placed within the scope of the enum class name. So in the above example, Val1 is undefined, but Enum2::Val1 is defined.
+There is also a transitional syntax to allow old-style enumerations to provide explicit scoping, and the definition of the underlying type:
+
+In this case the enumerator names are defined in the enumeration's scope (Enum3::Val1), but for backwards compatibility they are also placed in the enclosing scope.
+Forward-declaring enums is also possible in [C++](640)11. Formerly, enum types could not be forward-declared because the size of the enumeration depends on the definition of its members. As long as the size of the enumeration is specified either implicitly or explicitly, it can be forward-declared:
+
+Right angle bracket
+[C++](640)03's parser defines “>>” as the right shift operator or stream extraction operator in all cases. However, with nested template declarations, there is a tendency for the programmer to neglect to place a space between the two right angle brackets, thus causing a compiler syntax error.
+[C++](640)11 improves the specification of the parser so that multiple right angle brackets will be interpreted as closing the template argument list where it is reasonable. This can be overridden by using parentheses around parameter expressions using the “>”, “>=” or “>>” binary operators:
+
+Explicit conversion operators
+[C++](640)98 added the explicit keyword as a modifier on constructors to prevent single-argument constructors from being used as implicit type conversion operators. However, this does nothing for actual conversion operators. For example, a smart pointer class may have an operator bool() to allow it to act more like a primitive pointer: if it includes this conversion, it can be tested with if (smart_ptr_variable) (which would be true if the pointer was non-null and false otherwise). However, this allows other, unintended conversions as well. Because [C++](640) bool is defined as an arithmetic type, it can be implicitly converted to integral or even floating-point types, which allows for mathematical operations that are not intended by the user.
+In [C++](640)11, the explicit keyword can now be applied to conversion operators. As with constructors, it prevents using those conversion functions in implicit conversions. However, language contexts that specifically need a Boolean value (the conditions of if-statements and loops, and operands to the logical operators) count as explicit conversions and can thus use a bool conversion operator.
+For example, this feature solves cleanly the safe bool issue.
+
+Template aliases
+In [C++](640)03, it is possible to define a typedef only as a synonym for another type, including a synonym for a template specialization with all actual template arguments specified. It is not possible to create a typedef template. For example:
+
+This will not compile.
+[C++](640)11 adds this ability with this syntax:
+
+The using syntax can also be used as type aliasing in [C++](640)11:
+
+Unrestricted unions
+In [C++](640)03, there are restrictions on what types of objects can be members of a union. For example, unions cannot contain any objects that define a non-trivial constructor or destructor. [C++](640)11 lifts some of these restrictions.2
+If a union member has a non trivial special member function, the compiler will not generate the equivalent member function for the union and it must be manually defined.
+This is a simple example of a union permitted in [C++](640)11:
+
+The changes will not break any existing code since they only relax current rules.
+
+Core language functionality improvements
+These features allow the language to do things that were formerly impossible, exceedingly verbose, or needed non-portable libraries.
+
+Variadic templates
+In [C++](640)11, templates can take variable numbers of template parameters. This also allows the definition of type-safe variadic functions.
+
+New string literals
+[C++](640)03 offers two kinds of string literals. The first kind, contained within double quotes, produces a null-terminated array of type const char. The second kind, defined as L"", produces a null-terminated array of type const wchar_t, where wchar_t is a wide-character of undefined size and semantics. Neither literal type offers support for string literals with UTF-8, UTF-16, or any other kind of Unicode encodings.
+[C++](640)11 supports three Unicode encodings: UTF-8, UTF-16, and UTF-32. The definition of the type char has been modified to explicitly express that it is at least the size needed to store an eight-bit coding of UTF-8, and large enough to contain any member of the compiler's basic execution character set. It was formerly defined as only the latter in the [C++](640) standard itself, then relying on the C standard to guarantee at least 8 bits. Furthermore, [C++](640)11 adds two new character types: char16_t and char32_t. These are designed to store UTF-16 and UTF-32 respectively.
+Creating string literals for each of the supported encodings can be done thus:
+
+The type of the first string is the usual const char. The type of the second string is const char16_t (note lower case 'u' prefix). The type of the third string is const char32_t (upper case 'U' prefix).
+When building Unicode string literals, it is often useful to insert Unicode code points directly into the string. To do this, [C++](640)11 allows this syntax:
+
+The number after the \u is a hexadecimal number; it does not need the usual 0x prefix. The identifier \u represents a 16-bit Unicode code point; to enter a 32-bit code point, use \U and a 32-bit hexadecimal number. Only valid Unicode code points can be entered. For example, code points on the range U+D800–U+DFFF are forbidden, as they are reserved for surrogate pairs in UTF-16 encodings.
+It is also sometimes useful to avoid escaping strings manually, particularly for using literals of XML files, scripting languages, or regular expressions. [C++](640)11 provides a raw string literal:
+
+R"(The String Data \ Stuff " )"
+R"delimiter(The String Data \ Stuff " )delimiter"
+
+In the first case, everything between the "( and the )" is part of the string. The " and \ characters do not need to be escaped. In the second case, the "delimiter( starts the string, and it ends only when )delimiter" is reached. The string delimiter can be any string up to 16 characters in length, including the empty string. This string cannot contain spaces, control characters, (, ), or the \ character. Using this delimiter string, the user can have the sequence )" within raw string literals. For example, R"delimiter("(a-z)")delimiter" is equivalent to "\"(a-z)\"".
+Raw string literals can be combined with the wide literal or any of the Unicode literal prefixes:
+
+u8R"XXX(I'm a "raw UTF-8" string.)XXX"
+uR"*(This is a "raw UTF-16" string.)*"
+UR"(This is a "raw UTF-32" string.)"
+
+User-defined literals
+[C++](640)03 provides a number of literals. The characters 12.5 are a literal that is resolved by the compiler as a type double with the value of 12.5. However, the addition of the suffix f, as in 12.5f, creates a value of type float that contains the value 12.5. The suffix modifiers for literals are fixed by the [C++](640) specification, and [C++](640)03 code cannot create new literal modifiers.
+By contrast, [C++](640)11 enables the user to define new kinds of literal modifiers that will construct objects based on the string of characters that the literal modifies.
+Transformation of literals is redefined into two distinct phases: raw and cooked. A raw literal is a sequence of characters of some specific type, while the cooked literal is of a separate type. The [C++](640) literal 1234, as a raw literal, is this sequence of characters '1', '2', '3', '4'. As a cooked literal, it is the integer 1234. The [C++](640) literal 0xA in raw form is '0', 'x', 'A', while in cooked form it is the integer 10.
+Literals can be extended in both raw and cooked forms, with the exception of string literals, which can be processed only in cooked form. This exception is due to the fact that strings have prefixes that affect the specific meaning and type of the characters in question.
+All user-defined literals are suffixes; defining prefix literals is not possible. All suffixes starting with any character except underscore (_) are reserved by the standard. Thus, all user-defined literals must have suffixes starting with an underscore (_).
+User-defined literals processing the raw form of the literal are defined via a literal operator, which is written as operator "". An example follows:
+
+The assignment statement OutputType some_variable = 1234_mysuffix; executes the code defined by the user-defined literal function. This function is passed "1234" as a C-style string, so it has a null terminator.
+An alternative mechanism for processing integer and floating point raw literals is via a variadic template:
+
+This instantiates the literal processing function as operator "" _tuffix<'1', '2', '3', '4'>(). In this form, there is no null character terminating the string. The main purpose for doing this is to use [C++](640)11's constexpr keyword to ensure that the compiler will transform the literal entirely at compile time, assuming OutputType is a constexpr-constructible and copyable type, and the literal processing function is a constexpr function.
+For numeric literals, the type of the cooked literal is either unsigned long long for integral literals or long double for floating point literals. (Note: There is no need for signed integral types because a sign-prefixed literal is parsed as an expression containing the sign as a unary prefix operator and the unsigned number.) There is no alternative template form:
+
+In accord with the formerly mentioned new string prefixes, for string literals, these are used:
+
+There is no alternative template form. Character literals are defined similarly.
+
+Multithreading memory model
+[C++](640)11 standardizes support for multithreaded programming.
+There are two parts involved: a memory model which allows multiple threads to co-exist in a program and library support for interaction between threads. (See this article's section on threading facilities.)
+The memory model defines when multiple threads may access the same memory location, and specifies when updates by one thread become visible to other threads.
+
+Thread-local storage
+In a multi-threaded environment, it is common for every thread to have some unique variables. This already happens for the local variables of a function, but it does not happen for global and static variables.
+A new thread-local storage duration (in addition to the existing static, dynamic and automatic) is indicated by the storage specifier thread_local.
+Any object which could have static storage duration (i.e., lifetime spanning the entire execution of the program) may be given thread-local duration instead. The intent is that like any other static-duration variable, a thread-local object can be initialized using a constructor and destroyed using a destructor.
+
+Explicitly defaulted special member functions
+In [C++](640)03, the compiler provides, for classes that do not provide them for themselves, a default constructor, a copy constructor, a copy assignment operator (operator=), and a destructor. The programmer can override these defaults by defining custom versions. [C++](640) also defines several global operators (such as operator new) that work on all classes, which the programmer can override.
+However, there is very little control over creating these defaults. Making a class inherently non-copyable, for example, may be done by declaring a private copy constructor and copy assignment operator and not defining them. Attempting to use these functions is a violation of the One Definition Rule (ODR). While a diagnostic message is not required, violations may result in a linker error.
+In the case of the default constructor, the compiler will not generate a default constructor if a class is defined with any constructors. This is useful in many cases, but it is also useful to be able to have both specialized constructors and the compiler-generated default.
+[C++](640)11 allows the explicit defaulting and deleting of these special member functions. For example, this class explicitly declares that a default constructor can be used:
+
+Explicitly deleted functions
+A function can be explicitly disabled. This is useful for preventing implicit type conversions.
+The = delete specifier can be used to prohibit calling a function with particular parameter types. For example:
+
+An attempt to call noInt() with an int parameter will be rejected by the compiler, instead of performing a silent conversion to double. Calling noInt() with a float still works.
+It is possible to prohibit calling the function with any type other than double by using a template:
+
+calling onlyDouble(1.0) will work, while onlyDouble(1.0f) will generate a compiler error.
+Class member functions and constructors can also be deleted. For example, it is possible to prevent copying class objects by deleting the copy constructor and operator =:
+
+Type long long int
+In [C++](640)03, the largest integer type is long int. It is guaranteed to have at least as many usable bits as int. This resulted in long int having size of 64 bits on some popular implementations and 32 bits on others. [C++](640)11 adds a new integer type long long int to address this issue. It is guaranteed to be at least as large as a long int, and have no fewer than 64 bits. The type was originally introduced by [C99](772) to the standard C, and most [C++](640) compilers supported it as an extension already.
+
+Static assertions
+[C++](640)03 provides two methods to test assertions: the macro assert and the preprocessor directive #error. However, neither is appropriate for use in templates: the macro tests the assertion at execution-time, while the preprocessor directive tests the assertion during preprocessing, which happens before instantiation of templates. Neither is appropriate for testing properties that are dependent on template parameters.
+The new utility introduces a new way to test assertions at compile-time, using the new keyword static_assert.
+The declaration assumes this form:
+
+static_assert (constant-expression, error-message);
+
+Here are some examples of how static_assert can be used:
+
+When the constant expression is false the compiler produces an error message. The first example is similar to the preprocessor directive #error, although the preprocessor does only support integral types. In contrast, in the second example the assertion is checked at every instantiation of the template class Check.
+Static assertions are useful outside of templates also. For instance, a given implementation of an algorithm might depend on the size of a long long being larger than an int, something the standard does not guarantee. Such an assumption is valid on most systems and compilers, but not all.
+
+Allow sizeof to work on members of classes without an explicit object
+In [C++](640)03, the sizeof operator can be used on types and objects. But it cannot be used to do this:
+
+This should return the size of OtherType. [C++](640)03 disallows this, so it is a compile error. [C++](640)11 allows it. It is also allowed for the alignof operator introduced in [C++](640)11.
+
+Control and query object alignment
+[C++](640)11 allows variable alignment to be queried and controlled with alignof and alignas.
+The alignof operator takes the type and returns the power of 2 byte boundary on which the type instances must be allocated (as a std::size_t). When given a reference type alignof returns the referenced type's alignment; for arrays it returns the element type's alignment.
+The alignas specifier controls the memory alignment for a variable. The specifier takes a constant or a type; when supplied a type alignas(T) is shorthand for alignas(alignof(T)). For example, to specify that a char array should be properly aligned to hold a float:
+
+Allow garbage collected implementations
+Prior [C++](640) standards provided for programmer-driven garbage collection via set_new_handler, but gave no definition of object reachability for the purpose of automatic garbage collection. [C++](640)11 defines conditions under which pointer values are "safely derived" from other values. An implementation may specify that it operates under strict pointer safety, in which case pointers that are not derived according to these rules can become invalid.
+
+Attributes
+[C++](640)11 provides a standardized syntax for compiler/tool extensions to the language. Such extensions were traditionally specified using #pragma directive or vendor-specific keywords (like __attribute__ for GNU and __declspec for Microsoft). With the new syntax, added information can be specified in a form of an attribute enclosed in double square brackets. An attribute can be applied to various elements of source code:
+
+In the example above, attribute attr1 applies to the type of variable i, attr2 and attr3 apply to the variable itself, attr4 applies to the if statement and vendor::attr5 applies to the return statement. In general (but with some exceptions), an attribute specified for a named entity is placed after the name, and before the entity otherwise, as shown above, several attributes may be listed inside one pair of double square brackets, added arguments may be provided for an attribute, and attributes may be scoped by vendor-specific attribute namespaces.
+It is recommended that attributes have no language semantic meaning and do not change the sense of a program when ignored. Attributes can be useful for providing information that, for example, helps the compiler to issue better diagnostics or optimize the generated code.
+[C++](640)11 provides two standard attributes itself: noreturn to specify that a function does not return, and carries_dependency to help optimizing multi-threaded code by indicating that function arguments or return value carry a dependency.
+
+[C++](640) standard library changes
+A number of new features were introduced in the [C++](640)11 standard library. Many of these could have been implemented under the old standard, but some rely (to a greater or lesser extent) on new [C++](640)11 core features.
+A large part of the new libraries was defined in the document [C++](640) Standards Committee's Library Technical Report (called TR1), which was published in 2005. Various full and partial implementations of TR1 are currently available using the namespace std::tr1. For [C++](640)11 they were moved to namespace std. However, as TR1 features were brought into the [C++](640)11 standard library, they were upgraded where appropriate with [C++](640)11 language features that were not available in the initial TR1 version. Also, they may have been enhanced with features that were possible under [C++](640)03, but were not part of the original TR1 specification.
+
+Upgrades to standard library components
+[C++](640)11 offers a number of new language features that the currently existing standard library components can benefit from. For example, most standard library containers can benefit from Rvalue reference based move constructor support, both for quickly moving heavy containers around and for moving the contents of those containers to new memory locations. The standard library components were upgraded with new [C++](640)11 language features where appropriate. These include, but are not necessarily limited to:
+
+Rvalue references and the associated move support
+Support for the UTF-16 encoding unit, and UTF-32 encoding unit Unicode character types
+Variadic templates (coupled with Rvalue references to allow for perfect forwarding)
+Compile-time constant expressions
+decltype
+explicit conversion operators
+Functions declared defaulted or deleted
+Further, much time has passed since the prior [C++](640) standard. Much code using the standard library has been written. This has revealed parts of the standard libraries that could use some improving. Among the many areas of improvement considered were standard library allocators. A new scope-based model of allocators was included in [C++](640)11 to supplement the prior model.
+
+Threading facilities
+While the [C++](640)03 language provides a memory model that supports threading, the primary support for actually using threading comes with the [C++](640)11 standard library.
+A thread class (std::thread) is provided, which takes a function object (and an optional series of arguments to pass to it) to run in the new thread. It is possible to cause a thread to halt until another executing thread completes, providing thread joining support via the std::thread::join() member function. Access is provided, where feasible, to the underlying native thread object(s) for platform-specific operations by the std::thread::native_handle() member function.
+For synchronization between threads, appropriate mutexes (std::mutex, std::recursive_mutex, etc.) and condition variables (std::condition_variable and std::condition_variable_any) are added to the library. These are accessible via Resource Acquisition Is Initialization (RAII) locks (std::lock_guard and std::unique_lock) and locking algorithms for easy use.
+For high-performance, low-level work, communicating between threads is sometimes needed without the overhead of mutexes. This is done using atomic operations on memory locations. These can optionally specify the minimum memory visibility constraints needed for an operation. Explicit memory barriers may also be used for this purpose.
+The [C++](640)11 thread library also includes futures and promises for passing asynchronous results between threads, and std::packaged_task for wrapping up a function call that can generate such an asynchronous result. The futures proposal was criticized because it lacks a way to combine futures and check for the completion of one promise inside a set of promises.
+Further high-level threading facilities such as thread pools have been remanded to a future [C++](640) technical report. They are not part of [C++](640)11, but their eventual implementation is expected to be built entirely on top of the thread library features.
+The new std::async facility provides a convenient method of running tasks and tying them to a std::future. The user can choose whether the task is to be run asynchronously on a separate thread or synchronously on a thread that waits for the value. By default, the implementation can choose, which provides an easy way to take advantage of hardware concurrency without oversubscription, and provides some of the advantages of a thread pool for simple usages.
+
+Tuple types
+Tuples are collections composed of heterogeneous objects of pre-arranged dimensions. A tuple can be considered a generalization of a struct's member variables.
+The [C++](640)11 version of the TR1 tuple type benefited from [C++](640)11 features like variadic templates. To implement reasonably, the TR1 version required an implementation-defined maximum number of contained types, and substantial macro trickery. By contrast, the implementation of the [C++](640)11 version requires no explicit implementation-defined maximum number of types. Though compilers will have an internal maximum recursion depth for template instantiation (which is normal), the [C++](640)11 version of tuples will not expose this value to the user.
+Using variadic templates, the declaration of the tuple class looks as follows:
+
+An example of definition and use of the tuple type:
+
+It's possible to create the tuple proof without defining its contents, but only if the tuple elements' types possess default constructors. Moreover, it's possible to assign a tuple to another tuple: if the two tuples’ types are the same, each element type must possess a copy constructor; otherwise, each element type of the right-side tuple must be convertible to that of the corresponding element type of the left-side tuple or that the corresponding element type of the left-side tuple has a suitable constructor.
+
+Just like std::make_pair for std::pair, there exists std::make_tuple to automatically create std::tuples using type deduction and auto helps to declare such a tuple. std::tie creates tuples of lvalue references to help unpack tuples. std::ignore also helps here. See the example:
+
+Relational operators are available (among tuples with the same number of elements), and two expressions are available to check a tuple's characteristics (only during compilation):
+
+std::tuple_size<T>::value returns the number of elements in the tuple T,
+std::tuple_element<I, T>::type returns the type of the object number I of the tuple T.
+
+Hash tables
+Including hash tables (unordered associative containers) in the [C++](640) standard library is one of the most recurring requests. It was not adopted in [C++](640)03 due to time constraints only. Although hash tables are less efficient than a balanced tree in the worst case (in the presence of many collisions), they perform better in many real applications.
+Collisions are managed only via linear chaining because the committee didn't consider it to be opportune to standardize solutions of open addressing that introduce quite a lot of intrinsic problems (above all when erasure of elements is admitted). To avoid name clashes with non-standard libraries that developed their own hash table implementations, the prefix “unordered” was used instead of “hash”.
+The new library has four types of hash tables, differentiated by whether or not they accept elements with the same key (unique keys or equivalent keys), and whether they map each key to an associated value. They correspond to the four existing binary search tree based associative containers, with an unordered_ prefix.
+
+The new classes fulfill all the requirements of a container class, and have all the methods needed to access elements: insert, erase, begin, end.
+This new feature didn't need any [C++](640) language core extensions (though implementations will take advantage of various [C++](640)11 language features), only a small extension of the header <functional> and the introduction of headers <unordered_set> and <unordered_map>. No other changes to any existing standard classes were needed, and it doesn't depend on any other extensions of the standard library.
+
+std::array and std::forward_list
+In addition to the hash tables two more containers was added to the standard library. The std::array is a fixed size container that is more efficient than std::vector but safer and easier to use than a c-style array. The std::forward_list is a single linked list that provides more space efficient storage than the double linked std::list when bidirectional iteration is not needed.
+
+Regular expressions
+The new library, defined in the new header <regex>, is made of a couple of new classes:
+
+regular expressions are represented by instance of the template class std::regex;
+occurrences are represented by instance of the template class std::match_results,
+std::regex_iterator is used to iterate over all matches of a regex
+The function std::regex_search is used for searching, while for ‘search and replace’ the function std::regex_replace is used which returns a new string.
+Here is an example of the use of std::regex_iterator:
+
+The library <regex> requires neither alteration of any existing header (though it will use them where appropriate) nor an extension of the core language. In POSIX C, regular expressions are also available via the C POSIX library#regex.h.
+
+General-purpose smart pointers
+[C++](640)11 provides std::unique_ptr, and improvements to std::shared_ptr and std::weak_ptr from TR1. std::auto_ptr is deprecated.
+
+Extensible random number facility
+The C standard library provides the ability to generate pseudorandom numbers via the function rand. However, the algorithm is delegated entirely to the library vendor. [C++](640) inherited this functionality with no changes, but [C++](640)11 provides a new method for generating pseudorandom numbers.
+[C++](640)11's random number functionality is split into two parts: a generator engine that contains the random number generator's state and produces the pseudorandom numbers; and a distribution, which determines the range and mathematical distribution of the outcome. These two are combined to form a random number generator object.
+Unlike the C standard rand, the [C++](640)11 mechanism will come with three base generator engine algorithms:
+
+linear_congruential_engine,
+subtract_with_carry_engine, and
+mersenne_twister_engine.
+[C++](640)11 also provides a number of standard distributions:
+
+uniform_int_distribution,
+uniform_real_distribution,
+bernoulli_distribution,
+binomial_distribution,
+geometric_distribution,
+negative_binomial_distribution,
+poisson_distribution,
+exponential_distribution,
+gamma_distribution,
+weibull_distribution,
+extreme_value_distribution,
+normal_distribution,
+lognormal_distribution,
+chi_squared_distribution,
+cauchy_distribution,
+fisher_f_distribution,
+student_t_distribution,
+discrete_distribution,
+piecewise_constant_distribution and
+piecewise_linear_distribution.
+The generator and distributions are combined as in this example:
+
+Wrapper reference
+A wrapper reference is obtained from an instance of the class template reference_wrapper. Wrapper references are similar to normal references (‘&’) of the [C++](640) language. To obtain a wrapper reference from any object the function template ref is used (for a constant reference cref is used).
+Wrapper references are useful above all for function templates, where references to parameters rather than copies are needed:
+
+This new utility was added to the existing <functional> header and didn't need further extensions of the [C++](640) language.
+
+Polymorphic wrappers for function objects
+Polymorphic wrappers for function objects are similar to function pointers in semantics and syntax, but are less tightly bound and can indiscriminately refer to anything which can be called (function pointers, member function pointers, or functors) whose arguments are compatible with those of the wrapper.
+An example can clarify its characteristics:
+
+The template class function was defined inside the header <functional>, without needing any change to the [C++](640) language.
+
+Type traits for metaprogramming
+Metaprogramming consists of creating a program that creates or modifies another program (or itself). This can happen during compilation or during execution. The [C++](640) Standards Committee has decided to introduce a library for metaprogramming during compiling via templates.
+Here is an example of a meta-program using the [C++](640)03 standard: a recursion of template instances for calculating integer exponents:
+
+Many algorithms can operate on different types of data; [C++](640)'s templates support generic programming and make code more compact and useful. Nevertheless, it is common for algorithms to need information on the data types being used. This information can be extracted during instantiation of a template class using type traits.
+Type traits can identify the category of an object and all the characteristics of a class (or of a struct). They are defined in the new header <type_traits>.
+In the next example there is the template function ‘elaborate’ which, depending on the given data types, will instantiate one of the two proposed algorithms (Algorithm::do_it).
+
+Via type traits, defined in header <type_traits>, it's also possible to create type transformation operations (static_cast and const_cast are insufficient inside a template).
+This type of programming produces elegant and concise code; however, the weak point of these techniques is the debugging: it's uncomfortable during compilation and very difficult during program execution.
+
+Uniform method for computing the return type of function objects
+Determining the return type of a template function object at compile-time is not intuitive, particularly if the return value depends on the parameters of the function. As an example:
+
+Instantiating the class template Calculus<Clear>, the function object of calculus will have always the same return type as the function object of Clear. However, given class Confused below:
+
+Attempting to instantiate Calculus<Confused> will cause the return type of Calculus to not be the same as that of class Confused. The compiler may generate warnings about the conversion from int to double and vice versa.
+TR1 introduces, and [C++](640)11 adopts, the template class std::result_of that allows one to determine and use the return type of a function object for every declaration. The object CalculusVer2 uses the std::result_of object to derive the return type of the function object:
+
+In this way in instances of function object of CalculusVer2<Confused> there are no conversions, warnings, or errors.
+The only change from the TR1 version of std::result_of is that the TR1 version allowed an implementation to fail to be able to determine the result type of a function call. Due to changes to [C++](640) for supporting decltype, the [C++](640)11 version of std::result_of no longer needs these special cases; implementations are required to compute a type in all cases.
+
+Improved C compatibility
+For compatibility with C, from [C99](772), these were added:
+
+Preprocessor:
+variadic macros,
+concatenation of adjacent narrow/wide string literals,
+_Pragma() – equivalent of #pragma.
+long long – integer type that is at least 64 bits long.
+__func__ – macro evaluating to the name of the function it is in.
+Headers:
+cstdbool (stdbool.h),
+cstdint (stdint.h),
+cinttypes (inttypes.h).
+
+Features originally planned but removed or not included
+Heading for a separate TR:
+
+Modules
+Decimal types
+Math special functions
+Postponed:
+
+Concepts
+More complete or required garbage collection support
+Reflection
+Macro scopes
+
+Features removed or deprecated
+The term sequence point was removed, being replaced by specifying that either one operation is sequenced before another, or that two operations are unsequenced.
+The former use of the keyword export was removed. The keyword itself remains, being reserved for potential future use.
+Dynamic exception specifications are deprecated. Compile-time specification of non-exception-throwing functions is available with the noexcept keyword, which is useful for optimization.
+std::auto_ptr is deprecated, having been superseded by std::unique_ptr.
+Function object base classes (std::unary_function, std::binary_function), adapters to pointers to functions and adapters to pointers to members, and binder classes are all deprecated.
+
+See also
+C11
+
+References
+External links
+
+The [C++](640) Standards Committee
+[C++](640)0X: The New Face of Standard [C++](640)
+Herb Sutter's blog coverage of [C++](640)11
+Anthony Williams' blog coverage of [C++](640)11
+A talk on [C++](640)0x given by Bjarne Stroustrup at the University of Waterloo Archived 2009-01-23 at the Wayback Machine
+The State of the Language: An Interview with Bjarne Stroustrup (15 August 2008) Archived 31 January 2009 at the Wayback Machine
+Wiki page to help keep track of [C++](640) 0x core language features and their availability in compilers
+Online [C++](640)11 standard library reference
+Online [C++](640)11 compiler
+Bjarne Stroustrup's [C++](640)11 FAQ
+More information on [C++](640)11 features:range-based for loop,why auto_ptr is deprecated,etc.

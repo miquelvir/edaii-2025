@@ -1,0 +1,136 @@
+3394
+Dorian mode
+The Dorian mode or Doric mode can refer to three very different but interrelated subjects: one of the Ancient Greek harmoniai (characteristic melodic behaviour, or the scale structure associated with it); one of the medieval musical modes; or—most commonly—one of the modern modal diatonic scales, corresponding to the piano keyboard's white notes from D to D, or any transposition of itself.
+
+Greek Dorian mode
+The Dorian mode (properly harmonia or tonos) is named after the Dorian Greeks. Applied to a whole octave, the Dorian octave species was built upon two tetrachords (four-note segments) separated by a whole tone, running from the hypate meson to the nete diezeugmenon.
+In the enharmonic genus, the intervals in each tetrachord are quarter tone–quarter tone–major third.
+
+In the chromatic genus, they are semitone–semitone–minor third.
+
+In the diatonic genus, they are semitone–tone–tone.
+
+In the diatonic genus, the sequence over the octave is the same as that produced by playing all the white notes of a piano ascending from E to E, a sequence equivalent to the pattern of the modern Phrygian mode, although the temperament differs by small amounts.
+Placing the single tone at the bottom of the scale followed by two conjunct tetrachords (that is, the top note of the first tetrachord is also the bottom note of the second), produces the Hypodorian ("below Dorian") octave species: A | B C D E | (E) F G A. Placing the two conjunct tetrachords together and the single tone at the top of the scale produces the Mixolydian octave species, a note sequence equivalent to modern Locrian mode.
+
+Medieval Dorian mode
+The early Byzantine church developed a system of eight musical modes (the octoechos), which served as a model for medieval European chant theorists when they developed their own modal classification system starting in the 9th century. The success of the Western synthesis of this system with elements from the fourth book of De institutione musica of Boethius, created the false impression that the Byzantine octoechos was inherited directly from ancient Greece.
+Originally used to designate one of the traditional harmoniai of Greek theory (a term with various meanings, including the sense of an octave consisting of eight tones), the name was appropriated (along with six others) by the 2nd-century theorist Ptolemy to designate his seven tonoi, or transposition keys. Four centuries later, Boethius interpreted Ptolemy in Latin, still with the meaning of transposition keys, not scales. When chant theory was first being formulated in the 9th century, these seven names plus an eighth, Hypermixolydian (later changed to Hypomixolydian), were again re-appropriated in the anonymous treatise Alia Musica. A commentary on that treatise, called the Nova expositio, first gave it a new sense as one of a set of eight diatonic species of the octave, or scales.
+In medieval theory, the authentic Dorian mode could include the note B♭ "by licence", in addition to B♮. The same scalar pattern, but starting a fourth or fifth below the mode final D, and extending a fifth above (or a sixth, terminating on B♭), was numbered as mode 2 in the medieval system. This was the plagal mode corresponding to the authentic Dorian, and was called the Hypodorian mode. In the untransposed form on D, in both the authentic and plagal forms the note C is often raised to C♯ to form a leading tone, and the variable sixth step is in general B♮ in ascending lines and B♭ in descent.
+
+Modern Dorian mode
+The modern Dorian mode (also called "Russian minor" by Balakirev,) by contrast, is a strictly diatonic scale corresponding to the white keys of the piano from D to D (shown below)
+
+or any transposition of its interval pattern, which has the ascending pattern of whole steps and half steps as follows:
+
+whole, half, whole, whole, whole, half, whole
+Thus, the Dorian mode is a symmetric scale, since the pattern of whole and half steps is the same ascending or descending.
+The modern Dorian mode can also be thought of as a scale with a minor third and seventh, a major second and sixth, and a perfect fourth and fifth, notated relative to the major scale as:
+
+1, 2, ♭3, 4, 5, 6, ♭7, 8
+It may be considered an "excerpt" of a major scale played from the pitch a whole tone above the major scale's tonic, i.e., a major scale played from its second scale degree up to its second degree again. The resulting scale is, however, minor in quality, because, as the D becomes the new tonal centre, the F a minor third above the D becomes the new mediant, or third degree. Thus, when a triad is built upon the tonic, it is a minor triad.
+The modern Dorian mode is equivalent to the natural minor scale (or the Aeolian mode) but with a major sixth. The modern Dorian mode resembles the Greek Phrygian harmonia in the diatonic genus.
+It is also equivalent to the ascending melodic minor scale with a minor seventh.
+
+Notable compositions in Dorian mode
+Hit songs in Dorian include, "Evil Ways..., "I Wish"..., "Lowdown"..., "Foxy Lady"..., "Owner of a Lonely Heart"..., "Moondance"..., "Billie Jean"..., and many others.
+
+Traditional
+"Drunken Sailor"
+"Scarborough Fair"
+"Noël nouvelet" (15th century French Christmas carol, often sung in English as "Sing We Now of Christmas")
+
+Medieval
+"Ave maris stella", Gregorian chant (Marian hymn)
+"Dies irae" (original setting in Gregorian chant, sequence).
+"Victimae paschali laudes", Gregorian chant (sequence)
+"Veni Sancte Spiritus", Gregorian chant (sequence)
+Alle Psallite Cum Luya, an anonymous three-part Latin motet from the late 13th or early 14th century, recorded in the Montpellier Codex and thought to have originated in France.
+Chominciamento di gioia, a 14th-century monophonic Italian estampie in five sections (British Library, Add MS 29987, No. 78).
+Lamento di Tristano, a 14th-century monophonic Italian dance in two parts, with the second section designated "La Rotta" (British Library, Add MS 29987, No. 91).
+La Manfredina, a 14th-century monophonic Italian dance in two parts, with the second section designated "La Rotta della Manfredina" (British Library, Add MS 29987, No. 92).
+The Kyrie, Gloria, and Credo of Messe de Nostre Dame (Mass of Our Lady), a polyphonic mass composed before 1365 by French poet and composer Guillaume de Machaut (c. 1300–1377).
+"Personent Hodie", Medieval Latin Christmas carol
+
+Renaissance
+"Il est bel et bon", a madrigal by Pierre Passereau
+
+Baroque
+"Chorale prelude for organ in Dorian mode, BuxWV 180: Christ, unser Herr zum Jordan kam", an organ piece by Dieterich Buxtehude.
+"Toccata and Fugue in D minor, BWV 538", an organ piece by Johann Sebastian Bach (also informally known as "the Dorian" to distinguish it from the better known "Toccata and Fugue in D minor, BWV 565"). Although Bach left no explicit indication, the piece is commonly assumed to be in the Dorian mode, since it bears no key signature.
+
+Romantic
+The "Et incarnatus est" in the Credo movement of Beethoven's Missa Solemnis.
+The "Royal March of the Lions" from Camille Saint-Saëns's Carnival of the Animals suite uses Dorian mode to evoke a "Persian style."
+Large portions of the Symphony No. 6 by Jean Sibelius are in the Dorian mode.
+In "La Brise" (from the Mélodies Persanes, Op. 26), Saint-Saëns uses an E Dorian scale in the first half of the song.
+
+Jazz
+"Maiden Voyage" by Herbie Hancock – The composition takes an AABA form with chords in the "A" sections in D Dorian and the "B" section in E♭ Dorian.
+"Milestones" by Miles Davis
+"Oye Como Va" by Tito Puente, popularized by Santana
+"So What" by Miles Davis – The composition takes an AABA form with the "A" sections in D Dorian and the "B" section in E♭ Dorian.
+
+Popular
+"Born Under a Bad Sign" written by Booker T. Jones and William Bell. The song is a simple but atypical I7-V7-IV7 12-bar progression with a key signature corresponding to C♯ major but with every B♯ and E♯ lowered to B♮ and E♮, making the song C♯ Dorian.
+"Dorian" by First of October. The song uses the modern Dorian scale on the piano during the choruses to build tension, while staying in the key of D minor for the verses and melody.
+"Eleanor Rigby" by the Beatles is often cited as a Dorian modal piece, and while the melody line in places uses the major sixth scale degree, the chord progression is in Aeolian (I–♭VI and ♭VI–I).
+The chord sequence i–III–VII–IV is sometimes used in pop songs, where the harmonic rhythm leads the listener to think of it as a minor song. In the final chord of the sequence, however, the third is a major sixth above the tonic, as in the Dorian scale. Examples include: "Mad World" by Tears for Fears.
+"Get Lucky" by Daft Punk featuring Pharrell Williams (B Dorian)
+"The Night The Lights Went Out In Georgia" (1973) by Vicki Lawrence
+"Rapper's Delight" by Sugarhill Gang is often written in E minor with a persistent C♯ accidental, but is actually played in E Dorian. It shares a key signature (F♯, C♯) with its relative key, D major.
+"Tick Tock" by Clean Bandit (and Mabel) sounds heavily pentatonic, but is in fact (nominally) in the 'D' Dorian mode.
+"Radioactive" by Imagine Dragons (B Dorian)
+"Autumn Sweater" by Yo La Tengo (D Dorian)
+"Adiemus" by Karl Jenkins performed with Miriam Stockley, Mary Carewe and London Philharmonic Orchestra (D Dorian)
+"Mad World" by Tears for Fears (F♯ Dorian, F Dorian cover by Gary Jules)
+"15 Step" by Radiohead (G♯ Dorian)
+"Billie Jean" by Michael Jackson (verse; F♯ Dorian)
+"Blinding Lights" by the Weeknd (F Dorian)
+"Blue Jeans" by Lana Del Rey (F Dorian)
+"Breathe" by Pink Floyd (E Dorian)
+"Burn it Down" (D Dorian) and "New Divide" (F Dorian) by Linkin Park
+"Don't Bother Me" by the Beatles (E Dorian)
+"Everything Means Nothing To Me" by Elliott Smith (B♭ Dorian)
+"Feather" by Sabrina Carpenter (B Dorian)
+"Give It to Me Baby" by Rick James (D Dorian)
+"Great Gig in the Sky" by Pink Floyd (G Dorian)
+"Heart-Shaped Box" by Nirvana (G♯ Dorian)
+"I Can't Dance" by Genesis (B♭ Dorian)
+"I Me Mine" by the Beatles (A Dorian, then briefly D Dorian #4)
+"Karma Police" by Radiohead (A Dorian)
+"Lotus Flower" by Radiohead (verse; D Dorian)
+"Love Me Again" by John Newman (G Dorian)
+"Lucky" by Radiohead (chorus; E Dorian)
+"Money" by Pink Floyd (B Dorian)
+"No Quarter" by Led Zeppelin (C♯ Dorian)
+"Norwegian Wood (This Bird Has Flown)" by the Beatles (chorus; E Dorian)
+"Purple Haze" by Jimi Hendrix (E Dorian)
+"Riders on the Storm" by the Doors (E Dorian)
+"Stairway To Heaven" by Led Zeppelin (chorus; A Dorian)
+“Straws Pulled At Random” by Meshuggah (chorus, D Dorian)
+"Supersonic" by Oasis (E Dorian)
+"The Fox (What Does the Fox Say?)" by Ylvis (C♯ Dorian)
+"Thriller" by Michael Jackson (C♯ Dorian)
+"Uptown Funk" by Mark Ronson featuring Bruno Mars (D Dorian)
+"Watermelon Sugar" by Harry Styles (D Dorian)
+"What Goes Around... Comes Around" by Justin Timberlake (A Dorian)
+"Wicked Game" by Chris Isaak (B Dorian)
+"Woodstock" by Joni Mitchell (E♭ Dorian)
+
+Other
+Kimigayo, the national anthem of Japan
+The Halo theme, taking significant inspiration from the aforementioned medieval Gregorian chants to effect an "ancient and mysterious" sound, is written in E dorian
+The Angry Birds theme
+
+See also
+Kafi, the equivalent scale in Hindustani music
+kOdipPaalai / Pann Marudham in Ancient Tamil music, see Evolution of Panns
+Kharaharapriya, the equivalent scale in Carnatic music
+Ukrainian Dorian scale
+
+References
+External links
+Dorian Mode – Analysis Archived 12 September 2017 at the Wayback Machine
+Dorian Scale over the Circle of Fifths
+Dorian Scale on guitar

@@ -1,0 +1,54 @@
+330
+Approximate number system
+The approximate number system (ANS) is a cognitive system that supports the estimation of the magnitude of a group without relying on language or symbols.  The ANS is credited with the non-symbolic representation of all numbers greater than four, with lesser values being carried out by the parallel individuation system, or object tracking system. Beginning in early infancy, the ANS allows an individual to detect differences in magnitude between groups.  The precision of the ANS improves throughout childhood development and reaches a final adult level of approximately 15% accuracy, meaning an adult could distinguish 100 items versus 115 items without counting.  The ANS plays a crucial role in development of other numerical abilities, such as the concept of exact number and simple arithmetic.  The precision level of a child's ANS has been shown to predict subsequent mathematical achievement in school.  The ANS has been linked to the intraparietal sulcus of the brain.
+
+History
+Piaget's theory
+Jean Piaget was a Swiss developmental psychologist who devoted much of his life to studying how children learn.  A book summarizing his theories on number cognition, The Child's Conception of Number, was published in 1952.  Piaget's work supported the viewpoint that children do not have a stable representation of number until the age of six or seven.  His theories indicate that mathematical knowledge is slowly gained and during infancy any concept of sets, objects, or calculation is absent.
+
+Challenging the Piagetian viewpoint
+Piaget's ideas pertaining to the absence of mathematical cognition at birth have been steadily challenged.  The work of Rochel Gelman and C. Randy Gallistel among others in the 1970s suggested that preschoolers have intuitive understanding of the quantity of a set and its conservation under non cardinality-related changes, expressing surprise when objects disappear without an apparent cause.
+
+Current theory
+Beginning as infants, people have an innate sense of approximate number that depends on the ratio between sets of objects.  Throughout life the ANS becomes more developed, and people are able to distinguish between groups having smaller differences in magnitude.  The ratio of distinction is defined by Weber's law, which relates the different intensities of a sensory stimulus that is being evaluated.  In the case of the ANS, as the ratio between the magnitudes increases, the ability to discriminate between the two quantities increases.
+Today, some theorize that the ANS lays the foundation for higher-level arithmetical concepts.  Research has shown that the same areas of the brain are active during non-symbolic number tasks in infants and both non-symbolic and more sophisticated symbolic number tasks in adults.   These results could suggest that the ANS contributes over time to the development of higher-level numerical skills that activate the same part of the brain.
+However, longitudinal studies do not necessarily find that non-symbolic abilities predict later symbolic abilities. Conversely, early symbolic number abilities have been found to predict later non-symbolic abilities, not vice versa as predicted. In adults for example, non-symbolic number abilities do not always explain mathematics achievement.
+
+Neurological basis
+Brain imaging studies have identified the parietal lobe as being a key brain region for numerical cognition.  Specifically within this lobe is the intraparietal sulcus which is "active whenever we think about a number, whether spoken or written, as a word or as an Arabic digit, or even when we inspect a set of objects and think about its cardinality".  When comparing groups of objects, activation of the intraparietal sulcus is greater when the difference between groups is numerical rather than an alternative factor, such as differences in shape or size.  This indicates that the intraparietal sulcus plays an active role when the ANS is employed to approximate magnitude.
+Parietal lobe brain activity seen in adults is also observed during infancy during non-verbal numerical tasks, suggesting that the ANS is present very early in life.     A neuroimaging technique, functional Near-Infrared Spectroscopy, was performed on infants revealing that the parietal lobe is specialized for number representation before the development of language.     This indicates that numerical cognition may be initially reserved to the right hemisphere of the brain and becomes bilateral through experience and the development of complex number representation.
+It has been shown that the intraparietal sulcus is activated independently of the type of task being performed with the number.  The intensity of activation is dependent on the difficulty of the task, with the intraparietal sulcus showing more intense activation when the task is more difficult.  In addition, studies in monkeys have shown that individual neurons can fire preferentially to certain numbers over others.  For example, a neuron could fire at maximum level every time a group of four objects is seen, but will fire less to a group three or five objects.
+
+Pathology
+Damage to intraparietal sulcus
+Damage done to parietal lobe, specifically in the left hemisphere, can produce difficulties in counting and other simple arithmetic.  Damage directly to the intraparietal sulcus has been shown to cause acalculia, a severe disorder in mathematical cognition.  Symptoms vary based the location of damage, but can include the inability to perform simple calculations or to decide that one number is larger than another. Gerstmann syndrome, a disease resulting in lesions in the left parietal and temporal lobes, results in acalculia symptoms and further confirms the importance of the parietal region in the ANS.
+
+Developmental delays
+A syndrome known as dyscalculia is seen in individuals who have unexpected difficulty understanding numbers and arithmetic despite adequate education and social environments.  This syndrome can manifest in several different ways from the inability to assign a quantity to Arabic numerals to difficulty with times tables.  Dyscalculia can result in children falling significantly behind in school, regardless of having normal intelligence levels.
+In some instances, such as Turner syndrome, the onset of dyscalculia is genetic.  Morphological studies have revealed abnormal lengths and depths of the right intraparietal sulcus in individuals suffering from Turner syndrome.  Brain imaging in children exhibiting symptoms of dyscalculia show less gray matter or less activation in the intraparietal regions stimulated normally during mathematical tasks.  Additionally, impaired ANS acuity has been shown to differentiate children with dyscalculia from their normally-developing peers with low maths achievement.
+
+Further research and theories
+Impact of the visual cortex
+The intraparietal region relies on several other brain systems to accurately perceive numbers.  When using the ANS we must view the sets of objects in order to evaluate their magnitude.  The primary visual cortex is responsible for disregarding irrelevant information, such as the size or shape of the objects.  Certain visual cues can sometimes affect how the ANS functions.
+Arranging the items differently can alter the effectiveness of the ANS.  One arrangement proven to influence the ANS is visual nesting, or placing the objects within one another.  This configuration affects the ability to distinguish each item and add them together at the same time.  The difficulty results in underestimation of the magnitude present in the set or a longer amount of time needed to perform an estimate.
+Another visual representation that affects the ANS is the spatial-numerical association response code, or the SNARC effect.  The SNARC effect details the tendency of larger numbers to be responded to faster by the right hand and lower numbers by the left hand, suggesting that the magnitude of a number is linked to a spatial representation.  Dehaene and other researchers believe this effect is caused by the presence of a “mental number line” in which small numbers appear on the left and increase as you move right.  The SNARC effect indicates that the ANS works more effectively and accurately if the larger set of objects is on the right and the smaller on the left.
+
+Development and mathematical performance
+Although the ANS is present in infancy before any numerical education, research has shown a link between people's mathematical abilities and the accuracy in which they approximate the magnitude of a set.  This correlation is supported by several studies in which school-aged children's ANS abilities are compared to their mathematical achievements.  At this point the children have received training in other mathematical concepts, such as exact number and arithmetic.  More surprisingly, ANS precision before any formal education accurately predicts better math performance.  A study involving 3- to 5-year-old children revealed that ANS acuity corresponds to better mathematical cognition while remaining independent of factors that may interfere, such as reading ability and the use of Arabic numerals.
+
+ANS in animals
+Many species of animals exhibit the ability to assess and compare magnitude.  This skill is believed to be a product of the ANS.  Research has revealed this capability in both vertebrate and non-vertebrate animals including birds, mammals, fish, and even insects. In primates, implications of the ANS have been steadily observed through research.  One study involving lemurs showed that they were able to distinguish groups of objects based only on numerical differences, suggesting that humans and other primates utilize a similar numerical processing mechanism.
+In a study comparing students to guppies, both the fish and students performed the numerical task almost identically.    The ability for the test groups to distinguish large numbers was dependent on the ratio between them, suggesting the ANS was involved.  Such results seen when testing guppies indicate that the ANS may have been evolutionarily passed down through many species.
+
+Applications in society
+Implications for the classroom
+Understanding how the ANS affects students' learning could be beneficial for teachers and parents.  The following tactics have been suggested by neuroscientists to utilize the ANS in school:
+
+Counting or abacus games
+Simple board games
+Computer-based number association games
+Teacher sensitivity and different teaching methods for different learners
+Such tools are most helpful in training the number system when the child is at an earlier age.  Children coming from a disadvantaged background with risk of arithmetic problems are especially impressionable by these tactics.
+
+
+== References ==

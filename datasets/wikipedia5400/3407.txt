@@ -1,0 +1,30 @@
+3407
+2dF Galaxy Redshift Survey
+In astronomy, the 2dF Galaxy Redshift Survey (Two-degree-Field Galaxy Redshift Survey), 2dF or 2dFGRS is a redshift survey conducted by the Australian Astronomical Observatory (AAO) with the 3.9m Anglo-Australian Telescope between 1997 and 11 April 2002.  The data from this survey were made public on 30 June 2003.  The survey determined the large-scale structure in two large slices of the Universe to a depth of around 2.5 billion light years (redshift ~ 0.2).  It was the world's largest redshift survey between 1998 (overtaking Las Campanas Redshift Survey) and 2003 (overtaken by the Sloan Digital Sky Survey).  Matthew Colless, Richard Ellis, Steve Maddox and John Peacock were in charge of the project. Team members Shaun Cole and John Peacock were awarded a share of the 2014 Shaw Prize in astronomy for results from the 2dFGRS.
+
+Description
+The 2dF survey covered an area of about 1500 square degrees, surveying regions in both the north and the south galactic poles. The name derives from the fact that the survey instrument has a 2 degree diameter field of view.
+The areas selected for observation were previously surveyed by the massive APM Galaxy Survey (on which Steve Maddox also worked). The regions surveyed cover roughly 75 degrees of right ascension for both bands, and the declination of the North Polar band was about 7.5 degrees while the declination of the South Polar band was about 15 degrees. Hundreds of isolated two degree fields near the South Polar band were also surveyed (see this illustration, where black circles represent survey fields, and the red grid represents the earlier APM survey).
+In total, the photometry of 382,323 objects were measured, which includes spectra for 245,591 objects, of which 232,155 were galaxies (221,414 with good quality spectra), 12,311 are stars, and 125 are quasi-stellar objects (quasars).  The survey necessitated 272 required nights of observation, spread over 5 years.
+The survey was carried out with the 4 metre Anglo-Australian Telescope, with the 2dF instrument installed at the primary focus permitting the observation of a field of 2 degrees per pointing.  The instrument possesses a spectrograph equipped with two banks each of 200 optical fibres, permitting the simultaneous measurement of 400 spectra.
+The limiting apparent magnitude of the survey is 19.5, covering objects with a redshift mostly within less than z=0.3 and a median redshift of 0.11.  The volume of the Universe covered by the survey is approximately 108 h−1 Mpc3, where h corresponds to the value of the Hubble constant, H0, divided by 100. H0 is approximately 70 km/s/Mpc.  The largest redshift observed by the survey corresponds to a distance of 600 h−1 Mpc.
+
+Survey results
+The principal results obtained for the field of cosmology by the 2dF survey are:
+
+The measurement of the density parameter of non-relativistic matter (baryonic matter plus dark matter plus massive neutrinos)
+The detection of Baryon acoustic oscillations, and as a consequence the relationship between the density of baryonic matter and dark matter
+Limits on the contribution of massive neutrinos to dark matter, putting a limit on the sum of the masses of the three families of neutrinos at 1.8 eV.
+All these results are in agreement with the measurements of other experiments, notably those of WMAP.  They confirm the standard cosmological model.
+
+The 2dF survey also yields a unique view on our local cosmic environment. In the figure a 3-D reconstruction of the inner parts of the survey is shown, revealing a view on the cosmic structures in the nearby universe. Several superclusters stand out, such as the Sloan Great Wall, one of the largest structures in the universe known to date (see also Huge-LQG).
+
+See also
+Lambda-CDM model
+Dark matter
+
+References
+External links
+Official site of the 2dF Galaxy Redshift Survey
+The 2dF Galaxy Redshift Survey: spectra and redshifts − 2001 Royal Astronomical Society paper describing the survey
+Official site Archived 2014-04-20 at the Wayback Machine of the Two Degree Field instrument system

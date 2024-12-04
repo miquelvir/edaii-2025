@@ -1,0 +1,50 @@
+458
+Archamoebae
+The Archamoebae are a group of protists originally thought to have evolved before the acquisition of mitochondria by eukaryotes. They include genera that are internal parasites or commensals of animals (Entamoeba and Endolimax).  A few species are human pathogens, causing diseases such as amoebic dysentery.  The other genera of archamoebae live in freshwater habitats and are unusual among amoebae in possessing flagella.  Most have a single nucleus and flagellum, but the giant amoeba Pelomyxa has many of each.
+
+Description
+Archamoebae are a diverse group of amoebae. Many have flagella for motility, while others do not. They grow in the absence of oxygen, though some can tolerate small amounts. Most described species of Archamoebae either lack mitochondria or are described to have reduced mitosomes.
+
+Habitat
+They thrive and live in soil, freshwater, and marine habitats.
+
+History
+The group Archamoebae was proposed by Thomas Cavalier-Smith in 1998 as part of the Archezoa, a newly-proposed group to include eukaryotes that had diverged before acquisition of mitochondria and other common eukaryotic cell features. Early molecular trees based on rRNA supported this position, placing several Archamoebae genera as separate groups that diverged from other eukaryotes very early on, suggesting that the absence of mitochondria was a primitive condition. However, soon thereafter genetic remnants of mitochondria were found in various Archamoebae, suggesting that these organisms had diverged after the evolution of mitochondria, but had lost their mitochondria over time, and are more closely related to various amoebae and slime molds.
+
+Phylogeny
+The following cladogram summarizes the known relationships between the different families of Archamoebae.
+
+Taxonomy
+Infraphylum Archamoebae Cavalier-Smith 1993 stat. nov. 1998
+
+Class [Archamoebea](458) Cavalier-Smith 1983 stat. nov. 2004
+Order Entamoebida Cavalier-Smith 1993
+Family Entamoebidae Chatton 1925 em. Cavalier-Smith 1993
+Genus †Entamoebites Poinar & Boucot 2006
+Genus Entamoeba Casagrandi & Barbagallo 1895
+Order Pelobiontida Page 1976 em. Cavalier Smith 1987
+Suborder Pelomyxina Starobogatov 1980
+Family Pelomyxidae Shulze 1877 em. Cavalier-Smith 2016
+Genus Pelomyxa Greeff 1874
+Genus Mastigella Frenzel 1892
+Suborder Mastigamoebina (Frenzel 1897) Pánek et al. 2016
+Family Rhizomastigidae Cavalier-Smith 2013
+Genus Rhizomastix Aléxéieff 1911
+Family Mastigamoebidae Goldschmidt 1907
+?Genus Craigia Calkins 1913
+?Genus Dobellina Bishop & Tate 1940
+?Genus Pansporella Chatton 1925
+?Genus Martineziella Hegner & Hewitt 1941 non Chalumeau 1986
+?Genus Dinamoeba Leidy 1874 non Pascher 1916
+Genus Endolimax Kuenen & Swellengrebel 1917
+Genus Iodamoeba Dobell 1919
+Genus Mastigamoeba Schulze 1875
+Archamoebae incertae sedis
+
+Genus Endamoeba Leidy 1879
+Genus Mastigina Frenzel 1897
+Family Tricholimacidae Cavalier-Smith 2013
+Genus Tricholimax Frenzel 1892
+
+
+== References ==

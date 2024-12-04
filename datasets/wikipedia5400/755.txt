@@ -1,0 +1,126 @@
+755
+Baidu
+Baidu, Inc. ( BY-doo; Chinese: 百度; pinyin: Bǎidù; lit. 'hundred times') is a Chinese multinational technology company specializing in Internet services and artificial intelligence. It holds a dominant position in China's search engine market (via Baidu Search), and provides a wide variety of other internet services such as Baidu App (Baidu's flagship app for search and newsfeed), Baidu Baike (an online encyclopedia), iQIYI (a video streaming service), and Baidu Tieba (a keyword-based discussion forum).
+Besides its core internet search business, Baidu has diversified into several high-growth areas. The company is a leading player in  autonomous driving (Baidu Apollo), and smart consumer electronics (Xiaodu). With over a decade of investment in artificial intelligence, Baidu is one of the few tech companies globally to offer a full-stack AI stack, including software, chips, cloud infrastructure, foundation models, and applications.
+The holding company of the group is incorporated in the Cayman Islands. Baidu was incorporated in January 2000 by Robin Li and Eric Xu. Baidu has origins in RankDex, an earlier search engine developed by Robin Li in 1996, before he founded Baidu in 2000. The company is headquartered in Beijing's Haidian District.
+In December 2007, Baidu became the first Chinese company to be included in the NASDAQ-100 index. As of May 2018, Baidu's market cap rose to US$99 billion. In October 2018, Baidu became the first Chinese firm to join the United States–based computer ethics consortium Partnership on AI. During the 2020s, Baidu has increasingly focused on generative AI related products. 
+The Chinese government views Baidu as one of its national champion corporations.: 156–157
+
+History
+Early development
+In 1994, Robin Li (Pinyin: Li Yanhong, Chinese: 李彦宏) joined IDD Information Services, a New Jersey division of Dow Jones and Company, where he helped develop software for the online edition of The Wall Street Journal. He also worked on developing better algorithms for search engines and remained at IDD Information Services from May 1994 to June 1997.
+In 1996, while at IDD, Li developed the RankDex site-scoring algorithm for search engines results page ranking and received a US patent for the technology. Launched in 1996, RankDex was the first search engine that used hyperlinks to measure the quality of websites it was indexing. Li referred to his search mechanism as "link analysis," which involved ranking the popularity of a web site based on how many other sites had linked to it. It predated the similar PageRank algorithm used by Google two years later in 1998; Google founder Larry Page referenced Li's work as a citation in some of his U.S. patents for PageRank. Li later used his RankDex technology for the Baidu search engine.
+
+Baidu was incorporated on 18 January 2000 by Robin Li and Eric Xu. In 2001, Baidu allowed advertisers to bid for ad space then pay Baidu every time a customer clicked on an ad, predating Google's approach to advertising. In 2003, Baidu launched a news search engine and picture search engine, adopting a special identification technology capable of identifying and grouping the articles.
+
+2005: Public Listing on NASDAQ
+Baidu went public on Wall Street through a variable interest entity (VIE) based in the Cayman Islands on 5 August 2005.
+In 2007, Chinese government and Chinese industry sources stated that Baidu received a license from Beijing, which allows the search engine to become a full-fledged news website. Thus Baidu is able to provide its own reports, besides showing certain results as a search engine. Baidu was the first Chinese search engine to receive such a license.
+Baidu started its Japanese language search service, run by Baidu Japan, the company's first regular service outside of China in 2008. The Japanese search engine closed on 16 March 2015.
+On 31 July 2012, Baidu announced that it would team up with Sina to provide mobile search results.
+On 18 November 2012, Baidu announced that it would be partnering with Qualcomm to offer free cloud storage to Android users with Snapdragon processors.
+On 2 August 2013, Baidu launched its Personal Assistant app, designed to help CEOs, managers and the white-collar workers manage their business relationships.
+On 16 May 2014, Baidu appointed Dr. Andrew Ng as chief scientist. Dr. Ng will lead Baidu Research in Silicon Valley and Beijing.
+On 18 July 2014, the company launched a Brazilian version of the search engine, Baidu Busca.
+On 9 October 2014, Baidu announced acquisition of Brazilian local e-commerce site Peixe Urbano.
+
+2017: Launch of Autonomous Driving Business
+In April 2017, Baidu announced the launch of its Apollo project (Apolong), a self-driving vehicle platform, in a bid to help drive the development of autonomous cars including vehicle platform, hardware platform, open-source software platform and cloud data services. Baidu plans to launch this project in July 2017, before gradually introducing fully autonomous driving capabilities on highways and open city roads by 2020. In September 2017, Baidu launched a $1.5billion autonomous driving fund to invest in as many as 100 autonomous driving projects over the ensuing three years. At the same time, Apollo open-source software version 1.5 was also launched.
+In June 2017, Baidu partnered with Continental and Bosch, auto industry suppliers, on automated driving and connected cars.
+In July 2017, Baidu GBU entered into a partnership with Snap Inc. to act as the company's official ad reseller for Snapchat in Greater China, South Korea, Japan and Singapore. The partnership was extended in 2019.
+In September 2017, Baidu rolled out a new portable talking translator that can listen and speak in several different languages. Smaller than a typical smartphone, the 140-gram translation device can also be used as a portable Wi-Fi router and is able to operate on networks in 80 countries. It is still under development. Baidu will also be inserting artificial intelligence (AI) technology into smartphones, through its deep learning platform. At the same period, it has also led a joint investment of US$12billion with Alibaba Group, Tencent, JD.com and Didi Chuxing, acquiring 35% of China Unicom's stakes.
+In October 2017, according to The Wall Street Journal, Baidu would launch self-driving buses in China in 2018. In the same month, Baidu announced that its first annual Baidu World technology conference (Bring AI to Life) would be held and live-streamed on 16 November 2017, at China World Summit Wing and Kerry Hotel, bringing together Baidu executives, employees, partners, developers, and media to discuss the company's mission and strategy, technology breakthroughs, new product developments, and its open artificial-intelligence (AI) ecosystem.
+China's government designated Baidu as one of its "AI champions" in 2018.: 281 
+In 2018, Baidu divested the "Global DU business" portion of its overseas business, which developed a series of utility apps including ES File Explorer, DU Caller, Mobojoy, Photo Wonder and DU Recorder, etc. This business now operates independently of Baidu under the name DO Global.
+
+2021: Hong Kong Secondary Listing
+In March 2021, Baidu secured a secondary listing on the Hong Kong Stock Exchange, raising $3.1 billion. This marked the largest homecoming for a U.S.-traded Chinese company in Hong Kong since JD.com's listing the previous June. 
+In August 2021 Baidu revealed a new Robocar concept said to be capable of Level 5 autonomous driving. It also comes with the latest second-generation AI chip that can analyse the internal and external surroundings to provide predictive suggestions to proactively serve the needs of passengers.
+In June 2022, Jidu Auto, an intelligent electric vehicle company originally backed by Baidu and Geely unveiled its first concept ROBO-01 in the form of a pre-production vehicle. The ROBO-01 rides on the Sustainable Experience Architecture (SEA) platform, a modular electric vehicle platform developed by Geely Holding.
+In August 2023, Baidu unveiled its ChatGPT-equivalent language model Ernie Bot publicly. In October 2023, Baidu released a newer version Ernie 4.0 chatbot.
+As of April 2024, Apollo Go, Baidu's autonomous ride-hailing service, had completed six million rides using driverless robotaxis across 11 cities. The service operates a fleet of over 400 driverless vehicles in Wuhan.
+
+Domain name redirection attack
+On 12 January 2010, Baidu.com's DNS records in the United States were altered such that browsers to baidu.com were redirected to a website purporting to be the Iranian Cyber Army, thought to be behind the attack on Twitter during the 2009 Iranian election protests, making the proper site unusable for four hours. Internet users were met with a page saying "This site has been attacked by Iranian Cyber Army". Chinese hackers later responded by attacking Iranian websites and leaving messages.
+Baidu later launched legal action against Register.com for gross negligence after it was revealed that Register.com's technical support staff changed the email address for Baidu.com on the request of an unnamed individual, despite failing security verification procedures. Once the address had been changed, the individual was able to use the forgotten password feature to have Baidu's domain passwords sent directly to them, allowing them to accomplish the domain hijacking. The lawsuit was settled out of court under undisclosed terms after Register.com issued an apology.
+
+Baidu workers arrested
+On 6 August 2012, the BBC reported that three employees of Baidu were arrested on suspicion that they accepted bribes. The bribes were allegedly paid for deleting posts from the forum service. Four people were fired in connection with these arrests.
+
+91 Wireless acquisition
+On 16 July 2013, Baidu announced its intention to purchase 91 Wireless from NetDragon. 91 Wireless is best known for its app store, but it has been reported that the app store faces privacy and other legal issues. On 14 August 2013, Baidu announced that its wholly owned subsidiary Baidu (Hong Kong) Limited has signed a definitive merger agreement to acquire 91 Wireless Web-soft Limited from NetDragon Web-soft Inc. for $1.85 billion in what was reported to be the biggest deal ever in China's IT sector.
+
+Name
+The name Baidu (百度) literally means "a hundred times", or alternatively, "countless times". It is a quote from the last line of Xin Qiji's (辛弃疾) classical poem "Green Jade Table in The Lantern Festival" (青玉案·元夕) saying: "Having searched hundreds of times in the crowd, suddenly turning back, she is there in the dimmest candlelight." (众里寻他千百度, 蓦然回首, 那人却在灯火阑珊处。)
+
+Services
+Qunar (Qunar Cayman Islands Limited), travel-booking service controlled by Baidu. As of 2013, Qunar had 31.4 million active users and raised $167 Million at its initial public offering that year. It is listed at NASDAQ.
+
+Advertisements
+Baidu's primary advertising product is called Baidu Tuiguang and is similar to Google Ads and AdSense. It is a pay per click advertising platform that allows advertisers to have their ads shown in Baidu search results pages and on other websites that are part of Baidu Union. However, Baidu's search results are also based on payments by advertisers. This has prompted criticism and skepticism among Chinese users, with People's Daily commenting in 2018 on issues regarding reliability of Baidu results. Often as many as the first two pages of search results tend to be paid advertisers.
+Baidu sells its advertising products via a network of resellers. Baidu's web administrative tools are all in Chinese, making it difficult for non-Chinese speakers to use. In 2012, a third-party company developed a tool with an interface in English for advertising on Baidu. Advertisers on Baidu must have a registered business address either in China or in specified East Asian countries.
+
+Competition
+Baidu competes with Sogou, Google Search, 360 Search (www.so.com), Yahoo! China, Microsoft's Bing and MSN Messenger, Sina, NetEase's Youdao and PaiPai, Alibaba's Taobao, TOM Online, DuckDuckGo, and EachNet.
+Baidu is the most used search engine in China, controlling 76.05 percent of China's market share. The number of Internet users in China had reached 705 million by the end of 2015, according to a report by the internetlivestats.com.
+In an August 2010 Wall Street Journal article, Baidu played down its benefit from Google's having moved its China search service to Hong Kong, but Baidu's share of revenue in China's search-advertising market grew six percentage points in the second quarter to 70%, according to Beijing-based research firm Analysys International.
+It is also evident that Baidu is attempting to enter the Internet social network market. As of 2011, it is discussing the possibility of working with Facebook, which would lead to a Chinese version of the international social network, managed by Baidu. This plan, if executed, would face off Baidu with competition from the three popular Chinese social networks Qzone, Renren and Kaixin001 as well as induce rivalry with instant-messaging giant, Tencent QQ.
+On 22 February 2012, Hudong submitted a complaint to the State Administration for Industry and Commerce asking for a review of the behavior of Baidu, accusing it of being monopolistic.
+By August 2014, Baidu's search market share in China dropped to 56.3%, where Qihoo 360, its closest competitor who has rebranded its search engine as so.com, has increased its market share to 29.0%, according to report from CNZZ.com.
+In February 2015, Baidu was alleged to have used anticompetitive tactics in Brazil against the Brazilian online security firm PSafe and Qihoo 360 (the largest investor of PSafe).
+In an ongoing competition in AI natural language processing called General Language Understanding Evaluation, otherwise known as GLUE, Baidu took a lead over Microsoft and Google in December 2019.
+
+Research and patents
+Baidu has started to invest in deep learning research and is integrating new deep learning technology into some of its apps and products, including Phoenix Nest. Phoenix Nest is Baidu's ad-bidding platform.
+In April 2012 Baidu JDC long live applied for a patent for its "DNA copyright recognition" technology. This technology automatically scans files that are uploaded by Internet users, and recognizes and filters out content that may violate copyright law. This allows Baidu to offer an infringement-free platform.
+
+In April 2022, Baidu announced they gained permits from China to provide the first driverless taxis. The company aim to provide driverless ride-hailing services to the public and have 10 autonomous cars set to begin offering rides to passengers within a 23-square-mile area in suburban begin beginning 28 April 2022.
+In July 2022, Baidu unveiled the Apollo RT6, a driverless vehicle that is planned to join Baidu's driverless fleet in 2023.
+
+Censorship
+According to the China Digital Times, Baidu has a long history of being the most active and restrictive online censor in the search arena. Documents leaked in April 2009 from an employee in Baidu's internal monitoring and censorship department show a long list of blocked websites and censored topics on Baidu search.
+In May 2011, activists sued Baidu in the United States for violating the U.S. Constitution by the censorship it conducts in accord with the demand of the Chinese government. A U.S. judge has ruled that the Chinese search engine Baidu has the right to block works from its query results under freedom of speech rights, dismissing a lawsuit that sought to punish the company.
+In 2017, Baidu began coordinating with the Chinese Ministry of Public Security as well as 372 Internet police departments to detect information related to "anti-government rumors" and then flooding "Baidu-linked web sites, news sites and devices with alerts dispelling misinformation." This was done using natural language processing, big data and artificial intelligence.
+As part of the COVID-19 pandemic, Chinese regulators instructed Baidu, along with other Internet companies, to "conduct special supervision" on news and information related to the disease.
+In November 2022, Sustainalytics downgraded Baidu to "non-compliant" with the United Nations Global Compact principles due to complicity with censorship.
+
+Controversies
+Death of Wei Zexi
+In 2016, Baidu's P4P search results reportedly contributed to the death of a student who tried an experimental cancer therapy he found online. The 21-year-old college student was named Wèi Zéxī (魏则西), who studied in Xidian University. Wei was diagnosed with synovial sarcoma, a rare form of cancer. He found the Second Hospital of the Beijing Armed Police Corps (武警北京市总队第二医院) through the search engine Baidu, on which the hospital had been promoting itself. The treatment proved unsuccessful and Wèi died in April 2016.
+After Wei's family spent around 200,000 yuan (around US$31,150) for treatment in the hospital, Wei Zexi died on 12 April 2016. The incident triggered massive online discussions after Wei's death. On 2 May 2016, Cyberspace Administration of China (CAC), the top watchdog for China's Internet space, dispatched a team of investigators to Baidu. The case is still ongoing. One report claimed medical advertising makes up for 30% of Baidu's ad revenue, much of which comes from for-profit hospitals that belong to the "Putian Network", a collection of hospitals across the country founded by medical entrepreneurs associated with the Putian region of Fujian province. The investigation led Chinese regulators to impose several restrictions on Baidu, including adding disclaimers to promotional content and establishing channels for complaints about Baidu services. In addition, Baidu's search function now largely directs users to contents published on platforms under Baidu's control, leading Chinese media scholar Fang Kecheng to proclaim that "Search engine Baidu is dead".
+
+Commercialization of Tieba
+Baidu sold the hemophilia online community, one of the communities of Tieba, to unqualified hospitals. In January 2016, Baidu announced that it will stop selling all of its illness-related Tieba. On 12 January, Baidu officially announced to the public that all Baidu Tieba for all types of diseases will completely stop commercial cooperation and will only be open to authoritative public welfare organizations. In response to Baidu's decision, Lin Jinlong, president of the Hunan Medical and Health Industry Association, said that private hospitals have entered a period of industry transformation and upgrading, and are neither dependent on posting bar ads nor counting on competitive rankings anymore, so Baidu's decision will not have a negative impact on the industry.
+
+DO Global subsidiary ad-fraud in downloaded apps
+On 20 April 2019, it was reported that several applications for Android devices developed by the subsidiary company, DO Global (formerly DU Group), were surreptitiously running revenue enhancing background programs on user devices since at least 2016. These programs, part of six known applications developed by the company, and downloaded hundreds of millions times, were clicking on internet ads – even when the devices were idle, and unbeknownst to end users, to increase revenue generated by "clicks". Just one of the apps, all of which were available on Google Play Store, had been downloaded 50 million times alone and carried a user rating of 4.5 stars by tens of thousands.
+Google banned DO Global and more than 100 of its apps from the Google Play Store on 26 April 2019. DO Global was also banned from Google's AdMob Network. Apps from another developer, ES Global, including the ES File Explorer, that were owned by DO Global were banned from the Play Store and the account was suspended.
+
+Block in India
+In August 2020, following the 2020 China–India skirmishes, Baidu was one of several Chinese websites that were banned or blocked in India for national security reasons.
+
+2024 head of communications controversy
+In May 2024, Baidu's former vice president and head of communications Qu Jing (Chinese: 璩静) sparked major backlashes across the Chinese social media for endorsing toxic workplace culture, where, according to a Douyin video, she has asked a coworker to be on a 50-day business trip during the COVID-19 pandemic. The report has aroused further discussions amongst Chinese netizens regarding Baidu's corporate governance and internal culture. Qu openly apologized after the incident and has allegedly lost her job. Baidu’s stock price fell 2.17% in Hong Kong following the incident.
+
+See also
+Panguso
+Tencent
+Sogou
+Alibaba
+Google
+Intellectual property in the People's Republic of China
+Software industry in China
+Comparison of web search engines
+List of search engines
+List of search engines by popularity
+
+References
+Further reading
+Lee, Melanie (19 January 2010). "NEWSMAKER-Baidu founder rules China's Web with pragmatism". Reuters.
+Udeze, Chuka (26 March 2012). "Baidu Search to be Integrated by Apple on iOS Devices".
+Kohout, Martin (30 October 2014). "Spyware Baidu to Sony Xperia smartphones". FreeBit.cz.
+
+External links
+
+Official website 
+Business data for Baidu:

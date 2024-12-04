@@ -1,0 +1,98 @@
+3634
+Ampere
+The ampere ( AM-pair, US:  AM-peer; symbol: A), often shortened to amp, is the unit of electric current in the International System of Units (SI).  One ampere is equal to 1 coulomb (C) moving past a point per second. It is named after French mathematician and physicist [André-Marie Ampère](3638) (1775–1836), considered the father of electromagnetism along with Danish physicist Hans Christian Ørsted.
+As of the 2019 revision of the SI, the ampere is defined by fixing the elementary charge e to be exactly 1.602176634×10−19 C, which means an ampere is an electric current equivalent to 1019 elementary charges moving every 1.602176634 seconds or 6.241509074×1018 elementary charges moving in a second. Prior to the redefinition the ampere was defined as the current passing through two parallel wires 1 metre apart that produces a magnetic force of 2×10−7 newtons per metre.
+The earlier CGS system has two units of current, one structured similarly to the SI's and the other using Coulomb's law as a fundamental relationship, with the CGS unit of charge defined by measuring the force between two charged metal plates. The CGS unit of current is then defined as one unit of charge per second.
+
+History
+The ampere is named for French physicist and mathematician [André-Marie Ampère](3638) (1775–1836), who studied electromagnetism and laid the foundation of electrodynamics. In recognition of Ampère's contributions to the creation of modern electrical science, an international convention, signed at the 1881 International Exposition of Electricity, established the ampere as a standard unit of electrical measurement for electric current.
+The ampere was originally defined as one tenth of the unit of electric current in the centimetre–gram–second system of units. That unit, now known as the abampere, was defined as the amount of current that generates a force of two dynes per centimetre of length between two wires one centimetre apart. The size of the unit was chosen so that the units derived from it in the MKSA system would be conveniently sized.
+The "international ampere" was an early realization of the ampere, defined as the current that would deposit 0.001118 grams of silver per second from a silver nitrate solution. Later, more accurate measurements revealed that this current is 0.99985 A.
+Since power is defined as the product of current and voltage, the ampere can alternatively be expressed in terms of the other units using the relationship I = P/V, and thus 1 A = 1 W/V. Current can be measured by a multimeter, a device that can measure electrical voltage, current, and resistance.
+
+Former definition in the SI
+Until 2019, the SI defined the ampere as follows:
+
+The ampere is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed one metre apart in vacuum, would produce between these conductors a force equal to 2×10−7 newtons per metre of length.: 113  
+
+Ampère's force law states that there is an attractive or repulsive force between two parallel wires carrying an electric current. This force is used in the formal definition of the ampere.
+The SI unit of charge, the coulomb, was then defined as "the quantity of electricity carried in 1 second by a current of 1 ampere".: 144  Conversely, a current of one ampere is one coulomb of charge going past a given point per second:
+
+  
+    
+      
+        
+          
+            1
+             
+            A
+            =
+            1
+            
+              
+                C
+                s
+              
+            
+            .
+          
+        
+      
+    
+    {\displaystyle {\rm {1\ A=1{\frac {C}{s}}.}}}
+  
+
+In general, charge Q was determined by steady current I flowing for a time t as Q = It.
+This definition of the ampere was most accurately realised using a Kibble balance, but in practice the unit was maintained via Ohm's law from the units of electromotive force and resistance, the volt and the ohm, since the latter two could be tied to physical phenomena that are relatively easy to reproduce, the Josephson effect and the quantum Hall effect, respectively.
+Techniques to establish the realisation of an ampere had a relative uncertainty of approximately a few parts in 107, and involved realisations of the watt, the ohm and the volt.
+
+Present definition
+The 2019 revision of the SI defined the ampere by taking the fixed numerical value of the elementary charge e to be 1.602176634×10−19 when expressed in the unit C, which is equal to A⋅s, where the second is defined in terms of ∆νCs, the unperturbed ground state hyperfine transition frequency of the caesium-133 atom.
+The SI unit of charge, the coulomb, "is the quantity of electricity carried in 1 second by a current of 1 ampere". Conversely, a current of one ampere is one coulomb of charge going past a given point per second:
+
+  
+    
+      
+        
+          
+            1
+             
+            A
+            =
+            1
+            
+            
+              C/s
+            
+            .
+          
+        
+      
+    
+    {\displaystyle {\rm {1\ A=1\,{\text{C/s}}.}}}
+  
+
+In general, charge Q is determined by steady current I flowing for a time t as Q = I t.
+Constant, instantaneous and average current are expressed in amperes (as in "the charging current is 1.2 A") and the charge accumulated (or passed through a circuit) over a period of time is expressed in coulombs (as in "the battery charge is 30000 C"). The relation of the ampere (C/s) to the coulomb is the same as that of the watt (J/s) to the joule.
+
+Units derived from the ampere
+The international system of units (SI) is based on seven SI base units the second, metre, kilogram, kelvin, ampere, mole, and candela representing seven fundamental types of physical quantity, or "dimensions", (time, length, mass, temperature, electric current, amount of substance, and luminous intensity respectively) with all other SI units being defined using these. These SI derived units can either be given special names e.g. watt, volt, lux, etc. or defined in terms of others, e.g. metre per second. The units with special names derived from the ampere are:
+
+There are also some SI units that are frequently used in the context of electrical engineering and electrical appliances, but are defined independently of the ampere, notably the hertz, joule, watt, candela, lumen, and lux.
+
+SI prefixes
+Like other SI units, the ampere can be modified by adding a prefix that multiplies it by a power of 10.
+
+See also
+Ammeter – Device that measures electric current
+Ampacity – Maximum current that can be applied continuously without harming a device or system
+Electric current – Flow of electric charge
+Electric shock – Physiological reaction or injury caused by electric currentPages displaying short descriptions of redirect targets
+Hydraulic analogy – Widely used analogy for explaining electrical circuits
+Vacuum permeability – Physical constant
+Orders of magnitude (current) – Comparison of a wide range of electric currents
+
+References
+External links
+The NIST Reference on Constants, Units, and Uncertainty
+NIST Definition of ampere and μ0

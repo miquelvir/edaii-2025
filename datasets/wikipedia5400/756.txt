@@ -1,0 +1,27 @@
+756
+Bazel (software)
+Bazel () is a free and open-source software tool used for the automation of building and testing software. Google uses the build tool Blaze internally and released an open-source port of the Blaze tool as Bazel, named as an anagram of Blaze. Bazel was first released in March 2015 and entered beta by September 2015. Version 1.0 was released in October 2019.
+Similar to build tools like Make, Apache Ant, and Apache Maven, Bazel builds software applications from source code using rules. Rules and macros are created in the Starlark language (previously called Skylark), a dialect of Python. There are built-in rules for building software written in Java, Kotlin, Scala, C, [C++](640), Go, Python, Rust, JavaScript, Objective-C, and bash scripts. Bazel can produce software application packages suitable for deployment for the Android and iOS operating systems.
+
+Rationale
+One of Bazel's main purposes is to establish a build system in which the inputs and outputs of build targets are fully specified.
+
+Starlark language
+Bazel is extensible with its custom Starlark programming language. Starlark uses a syntax that is a subset of the syntax of the Python programming language. However, it doesn't implement many of Python's language features, such as the ability to mutate collections or access the file I/O, in order to avoid extensions that could create side-effects or create build outputs not known to the build system itself. Such side-effects could potentially lead to incorrect analysis of the build dependency graph.
+Bazel was designed as a multi-language build system. Many commonly used build systems are designed with a preference for a specific programming language. Examples of such systems include Ant and Maven for Java, Leiningen for Clojure, sbt for Scala, etc. In a multi-language project, combining separate build systems and achieving the build speed and correctness benefits described above can be difficult and problematic.
+Build systems most similar to Bazel are Pants, Buck,, Please, and the Brazil build system used internally at Amazon.. Pants and Buck both aim for similar technical design objectives as Bazel, with Pants being inspired by the Blaze build system used internally at Google. Blaze is also the predecessor to Bazel. Bazel, Pants, Buck, and Please adopted Starlark as a BUILD file parser, respective to its BUILD file syntax. Independently developed build systems with similar uses in efficient dependency graph analysis and automated build artifact tracking have been implemented in build systems such as tup.
+
+Sandbox
+One feature that differentiates Bazel and similar systems from earlier build systems is the use of a sandbox for compilation steps. When Bazel performs a separate compilation, it creates a new directory and fills it with symlinks to the explicit input dependencies for the rule. For languages like C/[C++](640), this provides a significant safety net for the inclusion of header files: it ensures that the developer is aware of the files that are used in compilation, and it prevents the unexpected inclusion of a similarly named header file from another including directory.
+This sandbox approach leads to issues with common build tools, resulting in a number of workarounds required to correctly compile code under different architectures. For example, when performing separate compilation for Mac/Darwin architectures, the compiler writes the input paths into SO and OSO symbols in the Mach-O binary, which can be seen with a command like nm -a mybinary | grep SO. These paths are needed for finding symbols during debugging. As a result, builds in Bazel must correct the compiled objects after the fact, trying to correct path-related issues that arose from the sandbox construction using flags like -fdebug-prefix-map and -oso_prefix, the latter having become available in Xcode 11.0. Similar handling needs to take place in linking phases, rewriting the rpath values in shared object libraries with a command like install_name_tool.
+
+Logo
+Since Bazel's initial release the logo was a green letter "b" stylized into a stem of a basil plant with two leaves. On July 5, 2017, the Bazel Blog announced a new logo, consisting of three green building blocks arranged to shape a heart.
+
+See also
+List of build automation software
+Monorepo
+
+References
+External links
+Official website

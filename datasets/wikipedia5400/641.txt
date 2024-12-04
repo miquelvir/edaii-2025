@@ -1,0 +1,38 @@
+641
+CI/CD
+In software engineering, CI/CD or CICD is the combined practices of continuous integration (CI) and continuous delivery (CD) or, less often, continuous deployment. They are sometimes referred to collectively as continuous development or continuous software development.
+
+Components
+[Continuous integration](698)
+Frequent merging of several small changes into a main branch.
+[Continuous delivery](697)
+Producing software in short cycles with high speed and frequency so that reliable software can be released at any time, with a simple and repeatable deployment process when deciding to deploy.
+Continuous deployment
+Automatic rollout of new software functionality.
+
+Motivation
+CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications. CI/CD services compile the incremental code changes made by developers, then link and package them into software deliverables. Automated tests verify the software  functionality, and automated deployment services deliver them to end users. The aim is to increase early defect discovery, increase productivity, and provide faster release cycles. The process contrasts with traditional methods where a collection of software updates were integrated into one large batch before deploying the newer version. 
+Modern-day DevOps practices involve:
+
+continuous development,
+continuous testing,
+continuous integration,
+continuous deployment, and
+continuous monitoring
+of software applications throughout its development life cycle. The CI/CD practice, or CI/CD pipeline, forms the backbone of modern day DevOps operations.
+
+Best practices for cloud systems
+The following practices can enhance productivity of CI/CD pipelines, especially in systems hosted in the cloud: 
+
+Number of Pipelines: Small teams can be more productive by having one repository and one pipeline. In contrast, larger organizations may have separate repositories and pipelines for each team or even separate repositories and pipelines for each service within a team.
+Permissions: In the context of pipeline-related permissions, adhering to the principle of least privilege can be challenging due to the dynamic nature of architecture. Administrators may opt for more permissive permissions while implementing compensating security controls to minimize the blast radius.
+
+See also
+[Continuous integration](698) (CI)
+[Continuous delivery](697) (CD)
+Continuous deployment (CD)
+
+References
+External links
+El Khalyly, B.; Belangour, A.; Banane, M.; Erraissi, A. (2020). "A new metamodel approach of CI/CD applied to Internet of Things Ecosystem". 2020 IEEE 2nd International Conference on Electronics, Control, Optimization and Computer Science (ICECOCS). pp. 1–6. doi:10.1109/ICECOCS50124.2020.9314485. ISBN 978-1-7281-6921-7. S2CID 231645681.
+Sane, P. (2021). "A Brief Survey of Current Software Engineering Practices in Continuous Integration and Automated Accessibility Testing". 2021 Sixth International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET). pp. 130–134. arXiv:2103.00097. doi:10.1109/WiSPNET51692.2021.9419464. ISBN 978-1-6654-4086-8. S2CID 232076320.

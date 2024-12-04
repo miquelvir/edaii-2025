@@ -1,0 +1,151 @@
+2786
+Grafting
+Grafting or graftage is a horticultural technique whereby tissues of plants are joined so as to continue their growth together. The upper part of the combined plant is called the scion () while the lower part is called the rootstock. The success of this joining requires that the vascular tissues grow together. The natural equivalent of this process is inosculation. The technique is most commonly used in asexual propagation of commercially grown plants for the horticultural and agricultural trades. The scion is typically joined to the rootstock at the soil line; however, top work grafting may occur far above this line, leaving an understock consisting of the lower part of the trunk and the root system.
+In most cases, the stock or rootstock is selected for its roots and the scion is selected for its stems, leaves, flowers, or fruits. The scion contains the desired genes to be duplicated in future production by the grafted plant.
+In stem grafting, a common grafting method, a shoot of a selected, desired plant cultivar is grafted onto the stock of another type. In another common form called bud grafting, a dormant side bud is grafted onto the stem of another stock plant, and when it has inosculated successfully, it is encouraged to grow by pruning off the stem of the stock plant just above the newly grafted bud.
+For successful grafting to take place, the vascular cambium tissues of the stock and scion plants must be placed in contact with each other. Both tissues must be kept alive until the graft has "taken", usually a period of a few weeks. Successful grafting only requires that a vascular connection take place between the grafted tissues. Research conducted in Arabidopsis thaliana hypocotyls has shown that the connection of phloem takes place after three days of initial grafting, whereas the connection of xylem can take up to seven days. Joints formed by grafting are not as strong as naturally formed joints, so a physical weak point often still occurs at the graft because only the newly formed tissues inosculate with each other. The existing structural tissue (or wood) of the stock plant does not fuse.
+
+Advantages
+Precocity: The ability to induce fruitfulness without the need for completing the juvenile phase. Juvenility is the natural state through which a seedling plant must pass before it can become reproductive. In most fruiting trees, juvenility may last between 5 and 9 years, but in some tropical fruits, e.g., mangosteen, juvenility may be prolonged for up to 15 years. Grafting of mature scions onto rootstocks can result in fruiting in as little as two years.
+Dwarfing: To induce dwarfing or cold tolerance or other characteristics to the scion. Most apple trees in modern orchards are grafted on to dwarf or semi-dwarf trees planted at high density. They provide more fruit per unit of land, of higher quality, and reduce the danger of accidents by harvest crews working on ladders. Care must be taken when planting dwarf or semi-dwarf trees. If such a tree is planted with the graft below the soil, then the scion portion can also grow roots and the tree will still grow to its standard size.
+Ease of propagation: Because the scion is difficult to propagate vegetatively by other means, such as by cuttings. In this case, cuttings of an easily rooted plant are used to provide a rootstock. In some cases, the scion may be easily propagated, but grafting may still be used because it is commercially the most cost-effective way of raising a particular type of plant.
+Hybrid breeding: To speed maturity of hybrids in fruit tree breeding programs. Hybrid seedlings may take ten or more years to flower and fruit on their own roots. Grafting can reduce the time to flowering and shorten the breeding program.
+Hardiness: Because the scion has weak roots or the roots of the stock plants are tolerant of difficult conditions. e.g. many Western Australian plants are sensitive to dieback on heavy soils, common in urban gardens, and are grafted onto hardier eastern Australian relatives. Grevilleas and eucalypts are examples.
+Sturdiness: To provide a strong, tall trunk for certain ornamental shrubs and trees. In these cases, a graft is made at a desired height on a stock plant with a strong stem. This is used to raise 'standard' roses, which are rose bushes on a high stem, and it is also used for some ornamental trees, such as certain weeping cherries.
+Disease/pest resistance: In areas where soil-borne pests or pathogens would prevent the successful planting of the desired cultivar, the use of pest/disease tolerant rootstocks allow the production from the cultivar that would be otherwise unsuccessful. A major example is the use of rootstocks in combating Phylloxera.
+Pollen source: To provide pollenizers. For example, in tightly planted or badly planned apple orchards of a single variety, limbs of crab apple may be grafted at regularly spaced intervals onto trees down rows, say every fourth tree. This takes care of pollen needs at blossom time.
+Repair: To repair damage to the trunk of a tree that would prohibit nutrient flow, such as stripping of the bark by rodents that completely girdles the trunk. In this case a bridge graft may be used to connect tissues receiving flow from the roots to tissues above the damage that have been severed from the flow. Where a water sprout, basal shoot or sapling of the same species is growing nearby, any of these can be grafted to the area above the damage by a method called inarch grafting. These alternatives to scions must be of the correct length to span the gap of the wound.
+Changing cultivars: To change the cultivar in a fruit orchard to a more profitable cultivar, called top working. It may be faster to graft a new cultivar onto existing limbs of established trees than to replant an entire orchard.
+Genetic consistency:  Apples are notorious for their genetic variability, even differing in multiple characteristics, such as, size, color, and flavor, of fruits located on the same tree. In the commercial farming industry, consistency is maintained by grafting a scion with desired fruit traits onto a hardy stock.
+
+Curiosities
+A practice sometimes carried out by gardeners is to graft related potatoes and tomatoes so that both are produced on the same plant, one above ground and one underground.
+Cacti of widely different forms are sometimes grafted on to each other.
+Multiple cultivars of fruits such as apples are sometimes grafted on a single tree. This so-called "family tree" provides more fruit variety for small spaces such as a suburban backyard, and also takes care of the need for pollenizers. The drawback is that the gardener must be sufficiently trained to prune them correctly, or one strong variety will usually "take over." Multiple cultivars of different "stone fruits" (Prunus species) can be grafted on a single tree. This is called a fruit salad tree.
+Ornamental and functional, tree shaping uses grafting techniques to join separate trees or parts of the same tree to itself. Furniture, hearts, entry archways are examples. Axel Erlandson was a prolific tree shaper who grew over 75 mature specimens.
+
+Factors for successful graft
+Compatibility of scion and stock: Because grafting involves the joining of vascular tissues between the scion and rootstock, plants lacking vascular cambium, such as monocots, cannot normally be grafted.  As a general rule, the closer two plants are genetically, the more likely the graft union will form. Genetically identical clones and intra-species plants have a high success rate for grafting. Grafting between species of the same genus is sometimes successful. Grafting has a low success rate when performed with plants in the same family but in different genera, and grafting between different families is rare.
+Cambium alignment and pressure: The vascular cambium of the scion and stock should be tightly pressed together and oriented in the direction of normal growth. Proper alignment and pressure encourages the tissues to join quickly, allowing nutrients and water to transfer from the stockroot to the scion.: 466 
+Completed during appropriate stage of plant: The grafting is completed at a time when the scion and stock are capable of producing callus and other wound-response tissues. Generally, grafting is performed when the scion is dormant, as premature budding can drain the grafting site of moisture before the grafting union is properly established. Temperature greatly affects the physiological stage of plants. If the temperature is too warm, premature budding may result. Elsewise, high temperatures can slow or halt callus formation.
+Proper care of graft site: After grafting, it is important to nurse the grafted plant back to health for a period of time. Various grafting tapes and waxes are used to protect the scion and stock from excessive water loss. Furthermore, depending on the type of graft, twine or string is used to add structural support to the grafting site. Sometimes it is necessary to prune the site, as the rootstock may produce shoots that inhibit the growth of the scion.
+
+Tools
+Cutting tools: It is a good procedure to keep the cutting tool sharp to minimize tissue damage and clean from dirt and other substances to avoid the spread of disease. A good knife for general grafting should have a blade and handle length of about 3 inches and 4 inches respectively. Specialized knives for grafting include bud-grafting knives, surgical knives, and pruning knives.  Cleavers, chisels, and saws are utilized when the stock is too large to be cut otherwise.
+Disinfecting tools: Treating the cutting tools with disinfectants ensures the grafting site is clear of pathogens. The most commonly used sterilizing agent is alcohol.
+Graft seals: Keeps the grafting site hydrated. Good seals should be tight enough to retain moisture while, at the same time, loose enough to accommodate plant growth. Includes specialized types of clay, wax, petroleum jelly, and adhesive tape.
+Tying and support materials: Adds support and pressure to the grafting site to hold the stock and scion together before the tissues join, which is especially important in herbaceous grafting. The employed material is often dampened before use to help protect the site from desiccation. Support equipment includes strips made from various substances, twine, nails, and splints.
+ Grafting machines: Because grafting can take a lot of time and skill, grafting machines have been created. Automation is particularly popular for seedling grafting in countries such as Japan and Korea where farming land is both limited and used intensively. Certain machines can graft 800 seedlings /hr.: 496
+
+Techniques
+Approach
+Approach grafting or inarching is used to join together plants that are otherwise difficult to join. The plants are grown close together, and then joined so that each plant has roots below and growth above the point of union. Both scion and stock retain their respective parents that may or may not be removed after joining. Also used in pleaching. The graft can be successfully accomplished any time of year.
+
+Bud
+Bud grafting (also called chip budding or shield budding) uses a bud instead of a twig. Grafting roses is the most common example of bud grafting. In this method a bud is removed from the parent plant, and the base of the bud is inserted beneath the bark of the stem of the stock plant from which the rest of the shoot has been cut. Any extra bud that starts growing  from the stem of the stock plant is removed. Examples: roses and fruit trees like peaches.
+Budwood is a stick with several buds on it that can be cut out and used for bud grafting. It is a common method of propagation for citrus trees.
+
+Cleft
+In cleft grafting a small cut is made in the stock and then the pointed end of the scion is inserted in the stock. This is best done in the early spring and is useful for joining a thin scion about 1 cm (3⁄8 in) diameter to a thicker branch or stock. It is best if the former has 3–5 buds and the latter is 2–7 cm (3⁄4–2+3⁄4 in) in diameter. The branch or stock should be split carefully down the middle to form a cleft about 3 cm (1+1⁄8 in) deep. If it is a branch that is not vertical then the cleft should be cut horizontally. The end of the scion should be cut cleanly to a long shallow wedge, preferably with a single cut for each wedge surface, and not whittled. A third cut may be made across the end of the wedge to make it straight across.
+Slide the wedge into the cleft so that it is at the edge of the stock and the centre of the wedge faces are against the cambium layer between the bark and the wood. It is preferable if a second scion is inserted in a similar way into the other side of the cleft. This helps to seal off the cleft. Tape around the top of the stock to hold the scion in place and cover with grafting wax or sealing compound. This stops the cambium layers from drying out and also prevents the ingress of water into the cleft.
+
+Whip
+In whip grafting the scion and the stock are cut slanting and then joined. The grafted point is then bound with tape and covered with a soft sealant to prevent dehydration and infection by germs.  The common variation is a whip and tongue graft, which is considered the most difficult to master but has the highest rate of success as it offers the most cambium contact between the scion and the stock. It is the most common graft used in preparing commercial fruit trees. It is generally used with stock less than 1.25 cm (1⁄2 in) diameter, with the ideal diameter closer to 1 cm (3⁄8 in) and the scion should be of roughly the same diameter as the stock.
+The stock is cut through on one side only at a shallow angle with a sharp knife. (If the stock is a branch and not the main trunk of the rootstock then the cut surface should face outward from the centre of the tree.) The scion is similarly sliced through at an equal angle starting just below a bud, so that the bud is at the top of the cut and on the other side than the cut face.
+In the whip and tongue variation, a notch is cut downwards into the sliced face of the stock and a similar cut upwards into the face of the scion cut. These act as the tongues and it requires some skill to make the cuts so that the scion and the stock marry up neatly. The elongated "Z" shape adds strength, removing the need for a companion rod in the first season (see illustration).
+The joint is then taped around and treated with tree-sealing compound or grafting wax. A whip graft without a tongue is less stable and may need added support.
+
+Stub
+Stub grafting is a technique that requires less stock than cleft grafting, and retains the shape of a tree. Also scions are generally of 6–8 buds in this process.
+An incision is made into the branch 1 cm (3⁄8 in) long, then the scion is wedged and forced into the branch. The scion should be at an angle of at most 35° to the parent tree so that the crotch remains strong. The graft is covered with grafting compound.
+After the graft has taken, the branch is removed and treated a few centimeters above the graft, to be fully removed when the graft is strong.
+
+Four-flap
+The four-flap graft (also called banana graft) is commonly used for pecans, and first became popular with this species in Oklahoma in 1975. It is heralded for maximum cambium overlap, but is a complex graft. It requires similarly sized diameters for the rootstock and scion. The bark of the rootstock is sliced and peeled back in four flaps, and the hardwood is removed, looking somewhat like a peeled banana. It is a difficult graft to learn.
+
+Awl
+Awl grafting takes the least resources and the least time. It is best done by an experienced grafter, as it is possible to accidentally drive the tool too far into the stock, reducing the scion's chance of survival. Awl grafting can be done by using a screwdriver to make a slit in the bark, not penetrating the cambium layer completely. Then inset the wedged scion into the incision.
+
+Veneer
+Veneer grafting, or inlay grafting, is a method used for stock larger than 2.5 centimetres (1 in) in diameter. The scion is recommended to be about as thick as a pencil. Clefts are made of the same size as the scion on the side of the branch, not on top. The scion end is shaped as a wedge, inserted, and wrapped with tape to the scaffolding branches to give it more strength.
+
+Rind (also called bark)
+Rind grafting involves grafting a small scion onto the end of a thick stock. The thick stock is sawn off, and a ~4 cm long bark-deep cut is made parallel to the stock, from the sawn-off end down, and the bark is separated from the wood on one or both sides. The scion is shaped as a wedge, exposing cambium on both sides, and is pushed in under the back of the stock, with a flat side against the wood.
+
+Natural grafting
+Tree branches and more often roots of the same species will sometimes naturally graft; this is called inosculation. The bark of the tree may be stripped away when the roots make physical contact with each other, exposing the vascular cambium and allowing the roots to graft together. A group of trees can share water and mineral nutrients via root grafts, which may be advantageous to weaker trees, and may also form a larger rootmass as an adaptation to promote fire resistance and regeneration as exemplified by the California black oak (Quercus kelloggii). Additionally, grafting may protect the group from wind damages as a result of the increased mechanical stability provided by the grafting. Albino redwoods use root grafting as a form of plant parasitism of normal redwoods.
+A problem with root grafts is that they allow transmission of certain pathogens, such as Dutch elm disease. Inosculation also sometimes occurs where two stems on the same tree, shrub or vine make contact with each other. This is common in plants such as strawberries and potato.
+Natural grafting is rarely seen in herbaceous plants as those types of plants generally have short-lived roots with little to no secondary growth in the vascular cambium.
+
+Graft chimera
+Occasionally, a so-called "graft hybrid" or more accurately graft chimera can occur where the tissues of the stock continue to grow within the scion. Such a plant can produce flowers and foliage typical of both plants as well as shoots intermediate between the two. The best-known example this is probably +Laburnocytisus 'Adamii', a graft hybrid between Laburnum and Cytisus, which originated in a nursery near [Paris](2293), France, in 1825. This small tree bears yellow flowers typical of Laburnum anagyroides, purple flowers typical of Cytisus purpureus and curious coppery-pink flowers that show characteristics of both "parents". Many species of cactus can also produce graft chimeras under the right conditions although they are often created unintentionally and such results are often hard to replicate.
+
+Scientific uses
+Grafting has been important in flowering research. Leaves or shoots from plants induced to flower can be grafted onto uninduced plants and transmit a floral stimulus that induces them to flower.
+The transmission of plant viruses has been studied using grafting. Virus indexing involves grafting a symptomless plant that is suspected of carrying a virus onto an indicator plant that is very susceptible to the virus.
+Grafting can transfer chloroplasts (plant organelles that can conduct photosynthesis), mitochondrial DNA and the entire cell nucleus containing the genome to potentially make a new species making grafting a form of natural genetic engineering.
+
+Examples
+White Spruce
+White spruce can be grafted with consistent success by using 8–10 cm (3–4 in) scions of current growth on thrifty 4- to 5-year-old rootstock (Nienstaedt and Teich 1972). Before greenhouse grafting, rootstocks should be potted in late spring, allowed to make seasonal growth, then subjected to a period of chilling outdoors, or for about 8 weeks in a cool room at 2 °C (Nienstaedt 1966).
+A method of grafting white spruce of seed-bearing age during the time of seed harvest in the fall was developed by Nienstaedt et al. (1958). Scions of white spruce of 2 ages of wood from 30- to 60-year-old trees were collected in the fall and grafted by 3 methods on potted stock to which different day-length treatments had been applied prior to grafting. The grafted stock were given long-day and natural-day treatments. Survival was 70% to 100% and showed effects of rootstock and post-grafting treatments in only a few cases. Photoperiod and temperature treatments after grafting, however, had considerable effect on scion activity and total growth. The best post-grafting treatment was 4 weeks of long-day treatment followed by 2 weeks of short-day treatment, then 8 weeks of chilling, and finally long-day treatment.
+Since grafts of white spruce put on relatively little growth in the 2 years after grafting, techniques for accelerating the early growth were studied by Greenwood (1988) and others. The cultural regimes used to promote one additional growth cycle in one year involve manipulation of day length and the use of cold storage to satisfy chilling requirements. Greenwood took dormant potted grafts into the greenhouse in early January then gradually raised the temperature during the course of a week until the minimum temperature rose to 15 °C. Photoperiod was increased to 18 hours using incandescent lighting. In this technique, grafts are grown until elongation has been completed, normally by mid-March. Soluble 10-52-10 fertilizer is applied at both ends of the growth cycle and 20-20-20 during the cycle, with irrigation as needed. When growth elongation is complete, day length is reduced to 8 hours using a blackout curtain. Budset follows, and the grafts are held in the greenhouse until mid-May. Grafts are then moved into a cooler at 4 °C for 1000 hours, after which they are moved to a shade frame where they grow normally, with applications of fertilizer and irrigation as in the first cycle. Grafts are moved into cold frames or unheated greenhouse in September until January. Flower induction treatments are begun on grafts that have reached a minimum length of 1.0 m. Repotting from an initial pot size of 4.5 litre to 16 litre containers with a 2:1:1 soil mix of peat moss, loam, and aggregate.
+In one of the first accelerated growth experiments, white spruce grafts made in January and February that would normally elongate shortly after grafting, set bud, and remain in that condition until the following spring, were refrigerated for 500, 1000, or 1500 hours beginning in mid-July, and a non-refrigerated control was held in the nursery. After completion of the cold treatment, the grafts were moved into the greenhouse with an 18-hour photoperiod until late October. Height increment was significantly (P 0.01) influenced by cold treatment. Best results were given by the 1000-hour treatment.
+The refrigeration (cold treatment) phase was subsequently shown to be effective when applied 2 months earlier with proper handling and use of blackout curtains, which allows the second growth cycle to be completed in time to satisfy dormancy requirements before January (Greenwood et al. 1988).
+
+Herbaceous grafting
+Grafting is often done for non-woody and vegetable plants (tomato, cucumber, eggplant and watermelon). Tomato grafting is very popular in Asia and Europe, and is gaining popularity in the United States. The main advantage of grafting is for disease-resistant rootstocks. Researchers in Japan developed automated processes using grafting robots as early as 1987. Plastic tubing can be used to prevent desiccation and support the healing at the graft/scion interface.
+
+History, society and culture
+Fertile Crescent
+As humans began to domesticate plants and animals, horticultural techniques that could reliably propagate the desired qualities of long-lived woody plants needed to be developed. Although grafting is not specifically mentioned in the Hebrew Bible, it is claimed that ancient Biblical text hints at the practice of grafting. For example, Leviticus 19:19 states "the Hebrew people shalt not sow their field with mingled seed..." (King James Bible). Some scholars believe the phrase mingled seeds includes grafting, although this interpretation remains contentious among scholars.
+Grafting is also mentioned in the New Testament. In Romans 11, starting at verse 17,  there is a discussion about the grafting of wild olive trees concerning the relationship between Jews and Gentiles.
+By 500 BCE grafting was well established and practiced in the region as the Mishna describes grafting as a commonplace technique used to grow grapevines.
+
+China
+According to recent research: "grafting technology had been practiced in China before 2000 BC". Additional evidence for grafting in China is found in  Jia Sixie's 6th century CE agricultural treatise Qimin Yaoshu (Essential Skills for the Common People). It discusses grafting pear twigs onto crab apple, jujube and pomegranate stock (domesticated apples had not yet arrived in China), as well as grafting persimmons. The Qimin yaoshu refers to older texts that referred to grafting, but those works are missing. Nonetheless, given the sophistication of the methods discussed, and the long history of arboriculture in the region, grafting must have already been practiced for centuries by this time.
+
+Greece and Rome, and Islamic Golden Age
+In Greece, a medical record written in 424 BCE contains the first direct reference to grafting. The title of the work is On the Nature of the Child and is thought to be written by a follower of Hippocrates. The language of the author suggests that grafting appeared centuries before this period.
+In Rome, Marcus Porcius Cato wrote the oldest surviving Latin text in 160 BCE. The book is called De Agri Cultura (On Farming Agriculture) and outlines several grafting methods. Other authors in the region would write about grafting in the following years, however, the publications often featured fallacious scion-stock combinations.
+Creating lavishly flourished gardens would be a common form of competition among medieval Islamic leaders at the time. Because the region would receive an influx of foreign ornamentals to decorate these gardens, grafting was used much during this period.
+
+Europe and the United States
+After the fall of the Roman Empire, grafting kept being practiced in Christian monasteries and regained popular appeal among lay people during the Renaissance. The invention of the printing press inspired a number of authors to publish books on gardening that included information on grafting. One example, A New Orchard and Garden: Or, the Best Way for Planting, Graffing, and to Make Any Ground Good for a Rich Orchard, Particularly in the North, was written by William Lawson in 1618. While the book contains practical grafting techniques, some even still used today, it suffers from exaggerated claims of scion-stock compatibility typical of this period.
+While grafting continued to grow in Europe during the eighteenth century, it was considered unnecessary in the United States as the produce from fruit trees was largely used either to make cider or feed hogs.
+
+French Wine Pandemic
+Beginning in 1864, and without warning, grapevines across France began to sharply decline. Thanks to the efforts of scientists such as C. V. Riley and J. E. Planchon, the culprit was identified to be phylloxera, an insect that infests the roots of vines and causes fungal infections. Initially, farmers unsuccessfully attempted to contain the pest by removing and burning affected vines. When it was discovered that phylloxera was an invasive species introduced from North America, some suggested importing rootstock from the region as the North American vines were resistant to the pest. Others, opposed to the idea, argued that American rootstocks would imbue the French grapes with an undesirable taste; they instead preferred to inject the soil with expensive pesticides. Ultimately, grafting French vines onto American rootstocks became prevalent throughout the region, creating new grafting techniques and machines. American rootstocks had trouble adapting to the high soil pH value of some regions in France so the final solution to the pandemic was to hybridize the American and French variants.
+
+Cultivated plants propagated by grafting
+Apple – grafting
+Avocado – grafting
+Conifer - stem cuttings, grafting
+Citrus (lemon, orange, grapefruit, Tangerine, dayap) – grafting
+Grapes – stem cuttings, grafting, aerial layering
+Kumquat – stem cutting, grafting
+Mango- grafting, budding
+Maple – stem cuttings, grafting
+Nut crops (walnut, pecan) – grafting
+Peach – grafting
+Pear – grafting
+Rubber Plant - bud grafting
+Rose - grafting
+
+See also
+Inosculation
+Seed orchard
+Tree of 40 [Fruit](2777)s
+Cutting (plant)
+Pomato – ChimaeraPages displaying short descriptions with no spaces
+
+References
+External links
+
+"Grafting Demonstration". (with photographs). Providence Farm Ornamentals. Archived from the original on 2013-11-14. Retrieved 2012-06-19.{{cite web}}:  CS1 maint: others (link)
+"Repair Grafting". Ontario Ministry of Agriculture, Food and Rural Affairs.
+"Orchard Grafting Methods". (with diagrams). Ontario Ministry of Agriculture, Food and Rural Affairs.{{cite web}}:  CS1 maint: others (link)
+"An Overview of Asexual Reproduction". Earth-Kind. Texas A&M University System.
+"Arizona Master Gardener Manual". The University of Arizona. 1998. Archived from the original on 2017-01-29.
+"Sexual Propagation: grafting". (with diagrams). The University of Arizona. 1998. Archived from the original on 2017-02-10.{{cite web}}:  CS1 maint: others (link)
+Danielle Elliot (September 26, 2013). "Meet the TomTato: Tomatoes and potatoes grown as one". CBS News.

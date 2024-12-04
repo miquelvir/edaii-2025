@@ -1,0 +1,26 @@
+3629
+Alexey Ekimov
+Alexey Ekimov  or Aleksey Yekimov (Russian: Алексей Екимов; born 1945) is a Russian solid state physicist and a pioneer in nanomaterials research. He discovered the semiconductor nanocrystals known as quantum dots in 1981, while working at the Vavilov State Optical Institute. In 2023, he was awarded the Nobel Prize in Chemistry for this discovery.
+
+Life
+Early years and education
+Ekimov was born in Leningrad, Soviet Union in 1945. In 1967, he graduated from the Faculty of Physics, Leningrad State University. He went on to receive his PhD in physics at the Ioffe Institute of the Russian Academy of Sciences in 1974.
+
+Research and career
+After graduation, Ekimov moved to the Vavilov State Optical Institute to conduct research. He began studying  semiconductor-activated glasses, known as Schott glasses, and developing theories to explain their color. When the glasses were heated and then cooled, copper chloride crystals formed, as revealed by X-rays, creating blue colors. Smaller crystals produced bluer glass.
+In 1981, Ekimov, along with Alexei A. Onushchenko, reported the discovery of quantum size effects in copper chloride nanocrystals in glass, a phenomenon known now known as quantum dots. During his time at the institute he further investigated these system and developed the theory of quantum confinement with Alexander Efros.
+Since 1999, Ekimov has been living and working in the United States as a scientist for Nanocrystals Technology, a company based in New York State.
+
+Honors and awards
+Ekimov was awarded the 1975 USSR State Prize in Science and Engineering for work on electron spin orientation in semiconductors. He is co-recipient of the 2006 R. W. Wood Prize of the Optical Society of America for "discovery of nanocrystal quantum dots and pioneering studies of their electronic and optical properties" shared with Alexander Efros and Louis E. Brus.
+Ekimov, Brus and Moungi Bawendi were the recipients of the 2023 Nobel Prize in Chemistry "for the discovery and synthesis of quantum dots".
+
+Selected publications
+Ekimov, A. I.; Onushchenko, A. A. (30 September 1981). "Quantum size effect in three-dimensional microscopic semiconductor crystals". Zhurnal Eksperimentalnoi I Teoreticheskoi Fiziki (in Russian). 34: 363–366.
+Ekimov, A. I.; Onushchenko, A. A. (1982). "Quantum size effect in three-dimensional microscopic semiconductor crystals" (PDF). Journal of Experimental and Theoretical Physics Letters (JETP Lett.). 34: 345–349.
+Ekimov, A. I.; Efros, Al. L.; Onushchenko, A. A. (1 December 1985). "Quantum size effect in semiconductor microcrystals". Solid State Communications. 56 (11): 921–924. Bibcode:1985SSCom..56..921E. doi:10.1016/S0038-1098(85)80025-9. ISSN 0038-1098.
+Ekimov, A. I.; Hache, F.; Schanne-Klein, M. C.; Ricard, D.; Flytzanis, C.; Kudryavtsev, I. A.; Yazeva, T. V.; Rodina, A. V.; Efros, Al L. (1 January 1993). "Absorption and intensity-dependent photoluminescence measurements on CdSe quantum dots: assignment of the first electronic transitions". JOSA B. 10 (1): 100–107. Bibcode:1993JOSAB..10..100E. doi:10.1364/JOSAB.10.000100. ISSN 1520-8540.
+
+References
+External links
+Aleksey Yekimov on Nobelprize.org

@@ -1,0 +1,13 @@
+664
+Component-based software engineering
+Component-based software engineering (CBSE), also called component-based development (CBD), is a style of software engineering that aims to construct a software system from components that are loosely-coupled and reusable. This emphasizes the separation of concerns among components.
+To find the right level of component granularity, software architects have to continuously iterate their component designs with developers. Architects need to take into account user requirements, responsibilities and architectural characteristics.
+
+Considerations
+
+For large-scale systems developed by large teams, a disciplined culture and process is required to achieve the benefits of CBSE. Third-party components are often utilized in large systems.
+The system can be designed visually with the Unified Modeling Language (UML). Each component is shown as a rectangle, and an interface is shown as a lollipop to indicate a provided interface and as a socket to indicate consumption of an interface.
+Component-based usability testing is for components that interact with the end user.
+
+
+== References ==

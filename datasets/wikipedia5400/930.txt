@@ -1,0 +1,71 @@
+930
+Cache coherence
+In computer architecture, cache coherence is the uniformity of shared resource data that is stored in multiple local caches. In a cache coherent system, if multiple clients have a cached copy of the same region of a shared memory resource, all copies are the same. Without cache coherence, a change made to the region by one client may not be seen by others, and errors can result when the data used by different clients is mismatched.
+A cache coherence protocol is used to maintain cache coherency. The two main types are snooping and directory-based protocols.
+Cache coherence is of particular relevance in multiprocessing systems, where each CPU may have its own local cache of a shared memory resource.
+
+Overview
+In a shared memory multiprocessor system with a separate cache memory for each processor, it is possible to have many copies of shared data: one copy in the main memory and one in the local cache of each processor that requested it. When one of the copies of data is changed, the other copies must reflect that change. Cache coherence is the discipline which ensures that the changes in the values of shared operands (data) are propagated throughout the system in a timely fashion.
+The following are the requirements for cache coherence:
+
+Write Propagation
+Changes to the data in any cache must be propagated to other copies (of that cache line) in the peer caches.
+Transaction Serialization
+Reads/Writes to a single memory location must be seen by all processors in the same order.
+Theoretically, coherence can be performed at the load/store granularity. However, in practice it is generally performed at the granularity of cache blocks.
+
+Definition
+Coherence defines the behavior of reads and writes to a single address location.
+One type of data occurring simultaneously in different cache memory is called cache coherence, or in some systems, global memory.
+In a multiprocessor system, consider that more than one processor has cached a copy of the memory location X. The following conditions are necessary to achieve cache coherence:
+
+In a read made by a processor P to a location X that follows a write by the same processor P to X, with no writes to X by another processor occurring between the write and the read instructions made by P, X must always return the value written by P.
+In a read made by a processor P1 to location X that follows a write by another processor P2 to X, with no other writes to X made by any processor occurring between the two accesses and with the read and write being sufficiently separated, X must always return the value written by P2. This condition defines the concept of coherent view of memory. Propagating the writes to the shared memory location ensures that all the caches have a coherent view of the memory. If processor P1 reads the old value of X, even after the write by P2, we can say that the memory is incoherent.
+The above conditions satisfy the Write Propagation criteria required for cache coherence. However, they are not sufficient as they do not satisfy the Transaction Serialization condition. To illustrate this better, consider the following example:
+A multi-processor system consists of four processors - P1, P2, P3 and P4, all containing cached copies of a shared variable S whose initial value is 0. Processor P1 changes the value of S (in its cached copy) to 10 following which processor P2 changes the value of S in its own cached copy to 20. If we ensure only write propagation, then P3 and P4 will certainly see the changes made to S by P1 and P2. However, P3 may see the change made by P1 after seeing the change made by P2 and hence return 10 on a read to S. P4 on the other hand may see changes made by P1 and P2 in the order in which they are made and hence return 20 on a read to S. The processors P3 and P4 now have an incoherent view of the memory.
+Therefore, in order to satisfy Transaction Serialization, and hence achieve Cache Coherence, the following condition along with the previous two mentioned in this section must be met:
+
+Writes to the same location must be sequenced. In other words, if location X received two different values A and B, in this order, from any two processors, the processors can never read location X as B and then read it as A. The location X must be seen with values A and B in that order.
+The alternative definition of a coherent system is via the definition of sequential consistency memory model: "the cache coherent system must appear to execute all threads’ loads and stores to a single memory location in a total order that respects the program order of each thread". Thus, the only difference between the cache coherent system and sequentially consistent system is in the number of address locations the definition talks about (single memory location for a cache coherent system, and all memory locations for a sequentially consistent system).
+Another definition is: "a multiprocessor is cache consistent if all writes to the same memory location are performed in some sequential order".
+Rarely,  but especially in algorithms, coherence can instead refer to the locality of reference.
+Multiple copies of the same data can exist in different cache simultaneously and if processors are allowed to update their own copies freely, an inconsistent view of memory can result.
+
+Coherence mechanisms
+The two most common mechanisms of ensuring coherency are snooping and directory-based, each having their own benefits and drawbacks. Snooping based protocols tend to be faster, if enough bandwidth is available, since all transactions are a request/response seen by all processors. The drawback is that snooping isn't scalable. Every request must be broadcast to all nodes in a system, meaning that as the system gets larger, the size of the (logical or physical) bus and the bandwidth it provides must grow. Directories, on the other hand, tend to have longer latencies (with a 3 hop request/forward/respond) but use much less bandwidth since messages are point to point and not broadcast. For this reason, many of the larger systems (>64 processors) use this type of cache coherence.
+
+Snooping
+First introduced in 1983, snooping is a process where the individual caches monitor address lines for accesses to memory locations that they have cached. The write-invalidate protocols and write-update protocols make use of this mechanism.
+For the snooping mechanism, a snoop filter reduces the snooping traffic by maintaining a plurality of entries, each representing a cache line that may be owned by one or more nodes. When replacement of one of the entries is required, the snoop filter selects for the replacement of the entry representing the cache line or lines owned by the fewest nodes, as determined from a presence vector in each of the entries. A temporal or other type of algorithm is used to refine the selection if more than one cache line is owned by the fewest nodes.
+
+Directory-based
+In a directory-based system, the data being shared is placed in a common directory that maintains the coherence between caches. The directory acts as a filter through which the processor must ask permission to load an entry from the primary memory to its cache. When an entry is changed, the directory either updates or invalidates the other caches with that entry.
+[Distributed shared memory](978) systems mimic these mechanisms in an attempt to maintain consistency between blocks of memory in loosely coupled systems.
+
+Coherence protocols
+Coherence protocols apply cache coherence in multiprocessor systems. The intention is that two clients must never see different values for the same shared data.
+The protocol must implement the basic requirements for coherence. It can be tailor-made for the target system or application.
+Protocols can also be classified as snoopy or directory-based. Typically, early systems used directory-based protocols where a directory would keep a track of the data being shared and the sharers. In snoopy protocols, the transaction requests (to read, write, or upgrade) are sent out to all processors. All processors snoop the request and respond appropriately.
+Write propagation in snoopy protocols can be implemented by either of the following methods:
+
+Write-invalidate
+When a write operation is observed to a location that a cache has a copy of, the cache controller invalidates its own copy of the snooped memory location, which forces a read from main memory of the new value on its next access.
+Write-update
+When a write operation is observed to a location that a cache has a copy of, the cache controller updates its own copy of the snooped memory location with the new data.
+If the protocol design states that whenever any copy of the shared data is changed, all the other copies must be "updated" to reflect the change, then it is a write-update protocol. If the design states that a write to a cached copy by any processor requires other processors to discard or invalidate their cached copies, then it is a write-invalidate protocol.
+However, scalability is one shortcoming of broadcast protocols.
+Various models and protocols have been devised for maintaining coherence, such as MSI, MESI (aka Illinois), MOSI, MOESI, MERSI, MESIF, write-once, Synapse, Berkeley, Firefly and Dragon protocol. In 2011, ARM Ltd proposed the AMBA 4 ACE for handling coherency in SoCs. The AMBA CHI (Coherent Hub Interface) specification from ARM Ltd, which belongs to AMBA5 group of specifications defines the interfaces for the connection of fully coherent processors.
+
+See also
+Consistency model
+Directory-based coherence
+Memory barrier
+Non-uniform memory access (NUMA)
+False sharing
+
+References
+Further reading
+Patterson, David; Hennessy, John (2009). Computer Organization and Design (4th ed.). Morgan Kaufmann. ISBN 978-0-12-374493-7.
+Handy, Jim (1998). The Cache Memory Book (2nd ed.). Morgan Kaufmann. ISBN 9780123229809.
+Sorin, Daniel; Hill, Mark; Wood, David (2011). A Primer on Memory Consistency and Cache Coherence (PDF). Morgan and Claypool. ISBN 978-1608455645. Retrieved 20 October 2017.
+Steinke, Robert C.; Nutt, Gary J. (1 September 2004). "A unified theory of shared memory consistency". Journal of the ACM. 51 (5): 800–849. arXiv:cs/0208027. doi:10.1145/1017460.1017464. S2CID 3206071.

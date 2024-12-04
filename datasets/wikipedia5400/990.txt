@@ -1,0 +1,33 @@
+990
+Federation (information technology)
+A federation is a group of computing or network providers agreeing upon standards of operation in a collective fashion.
+The term may be used when describing the inter-operation of two distinct, formerly disconnected, telecommunications networks that may have different internal structures.  The term "federated cloud" refers to facilitating the interconnection of two or more geographically separate computing clouds.
+The term may also be used when groups attempt to delegate collective authority of development to prevent fragmentation.
+In a telecommunication interconnection, the internal modi operandi of the different systems are irrelevant to the existence of a federation.
+Joining two distinct networks:
+
+Yahoo! and Microsoft announced that Yahoo! Messenger and MSN Messenger would be interoperable.
+Collective authority:
+
+The MIT X Consortium was founded in 1988 to prevent fragmentation in development of the X Window System.
+OpenID, a form of federated identity.
+In networking systems, to be federated implies that an authority or filtering mechanism allows users to send messages from one network to the other. This is not the same as having a client that can operate with both networks, but interacts with both independently. For example, in 2009, Google allowed GMail users to log into their AOL Instant Messenger (AIM) accounts from GMail. One could not send messages from GTalk accounts or XMPP (which Google/GTalk is federated with—XMPP lingo for federation is s2s, which Facebook and MSN Live's implementations do not support) to AIM screen names, nor vice versa. In May 2011, AIM and Gmail federated, allowing users of each network to add and communicate with each other.
+
+See also
+AT Protocol
+Fediverse
+Federated Mission Networking
+Federated database system
+Distributed social network
+Federated Portal Network
+Federated VoIP
+Webmention
+MX record, *SRV record: Ways of designating what services domains provide and how to access them
+Active Directory Federation Services
+ActivityPub: Introduced in January 2018, ActivityPub is a standard for the Internet in the Social Web Networking Group of the World Wide Web Consortium (W3C).
+Usenet
+[Distributed computing](900)
+[Decentralized computing](961)
+
+
+== References ==

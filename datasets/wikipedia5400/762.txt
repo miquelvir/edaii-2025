@@ -1,0 +1,45 @@
+762
+Block (programming)
+In computer programming, a block or code block or block of code is a lexical structure of source code which is grouped together. Blocks consist of one or more declarations and statements. A programming language that permits the creation of blocks, including blocks nested within other blocks, is called a block-structured programming language. Blocks are fundamental to structured programming, where control structures are formed from blocks.
+Blocks have two functions: to group statements so that they can be treated as one statement, and to define scopes for names to distinguish them from the same name used elsewhere. In a block-structured programming language, the objects named in outer blocks are visible inside inner blocks, unless they are masked by an object declared with the same name.
+
+History
+Ideas of block structure were developed in the 1950s during the development of the first autocodes, and were formalized in the Algol 58 and Algol 60 reports. Algol 58 introduced the notion of the "compound statement", which was related solely to control flow. The subsequent Revised Report which described the syntax and semantics of Algol 60 introduced the notion of a block and block scope, with a block consisting of " A sequence of declarations followed by a sequence of statements and enclosed between begin and end..." in which "every declaration appears in a block in this way and is valid only for that block."
+
+Syntax
+Blocks use different syntax in different languages. Two broad families are:
+
+the [ALGOL](706) family in which blocks are delimited by the keywords "begin" and "end" or equivalent. In C, blocks are delimited by curly braces - "{" and "}". [ALGOL](706) 68 uses parentheses.
+Parentheses - "(" and ")", are used in the MS-DOS batch language
+indentation, as in Python
+s-expressions with a syntactic keyword such as prog or let (as in the Lisp family)
+In 1968 (with [ALGOL](706) 68), then in Edsger W. Dijkstra's 1974 Guarded Command Language the conditional and iterative code block are alternatively terminated with the block reserved word reversed: e.g. if ~ then ~ elif ~ else ~ fi, case ~ in ~ out ~ esac and for ~ while ~ do ~ od
+
+Limitations
+Some languages which support blocks with declarations do not fully support all declarations; for instance many C-derived languages do not permit a function definition within a block (nested functions). And unlike its ancestor Algol, Pascal does not support the use of blocks with their own declarations inside the begin and end of an existing block, only compound statements enabling sequences of statements to be grouped together in if, while, repeat and other control statements.
+
+Basic semantics
+The semantic meaning of a block is twofold. Firstly, it provides the programmer with a way for creating arbitrarily large and complex structures that can be treated as units. Secondly, it enables the programmer to limit the scope of variables and sometimes other objects that have been declared.
+In early languages such as Fortran IV and [BASIC](748), there were no statement blocks or control structures other than simple forms of loops. Conditionals were implemented using conditional goto statements:
+
+The logical structure of the program is not reflected in the language, and analyzing when a given statement is executed can be difficult.
+Blocks allow the programmer to treat a group of statements as a unit, and the default values which had to appear in initialization in this style of programming can, with a block structure, be placed closer to the decision:
+
+Use of blocks in the above fragment of Pascal clarifies the programmer's intent, and enables combining the resulting blocks into a nested hierarchy of conditional statements. The structure of the code reflects the programmer's thinking more closely, making it easier to understand and modify.
+The above source code can be made even clearer by taking the inner if statement out of the outer one altogether, placing the two blocks one after the other to be executed consecutively. Semantically there is little difference in this case, and the use of block structure, supported by indenting for readability, makes it easy for the programmer to refactor the code.
+In primitive languages, variables had broad scope. For instance, an integer variable called IEMPNO might be used in one part of a Fortran subroutine to denote an employee social security number (ssn), but during maintenance work on the same subroutine, a programmer might accidentally use the same variable, IEMPNO, for a different purpose, and this could result in a bug that was difficult to trace. Block structure makes it easier for programmers to control scope to a minute level.
+
+In the above Scheme fragment, empno is used to identify both the manager and their underlings each by their respective ssn, but because the underling ssn is declared within an inner block it does not interact with the variable of the same name that contains the manager's ssn. In practice, considerations of clarity would probably lead the programmer to choose distinct variable names, but they have the choice and it is more difficult to introduce a bug inadvertently.
+
+Hoisting
+In some languages, a variable can be declared at function scope even within enclosed blocks. For example, in JavaScript, variables declared with var have function scope.
+
+See also
+
+Basic block
+Block scope
+Closure (computer programming)
+[Control flow](699)
+
+
+== References ==

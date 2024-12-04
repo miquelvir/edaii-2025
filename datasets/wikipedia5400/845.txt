@@ -1,0 +1,137 @@
+845
+Boolean data type
+In computer science, the Boolean (sometimes shortened to Bool) is a data type that has one of two possible values (usually denoted true and false) which is intended to represent the two truth values of logic and Boolean algebra. It is named after George Boole, who first defined an algebraic system of logic in the mid 19th century. The Boolean data type is primarily associated with conditional statements, which allow different actions by changing control flow depending on whether a programmer-specified Boolean condition evaluates to true or false. It is a special case of a more general logical data type—logic does not always need to be Boolean  (see probabilistic logic).
+
+Generalities
+In programming languages with a built-in Boolean data type, such as Pascal, C, Python or Java, the comparison operators such as > and ≠ are usually defined to return a Boolean value. Conditional and iterative commands may be defined to test Boolean-valued expressions.
+Languages with no explicit Boolean data type, like C90 and Lisp, may still represent truth values by some other data type. Common Lisp uses an empty list for false, and any other value for true. The C programming language uses an integer type, where relational expressions like i > j and logical expressions connected by && and || are defined to have value 1 if true and 0 if false, whereas the test parts of if, while, for, etc., treat any non-zero value as true. Indeed, a Boolean variable may be regarded (and implemented) as a numerical variable with one binary digit (bit), or as a bit string of length one, which can store only two values. The implementation of Booleans in computers are most likely represented as a full word, rather than a bit; this is usually due to the ways computers transfer blocks of information.
+Most programming languages, even those with no explicit Boolean type, have support for Boolean algebraic operations such as conjunction (AND, &, *), disjunction (OR, |, +), equivalence (EQV, =, ==), exclusive or/non-equivalence (XOR, NEQV, ^, !=, ¬), and negation (NOT, ~, !, ¬).
+In some languages, like Ruby, Smalltalk, and Alice the true and false values belong to separate classes, e.g., True and False, respectively, so there is no one Boolean type.
+In SQL, which uses a three-valued logic for explicit comparisons because of its special treatment of Nulls, the Boolean data type (introduced in SQL:1999) is also defined to include more than two truth values, so that SQL Booleans can store all logical values resulting from the evaluation of predicates in SQL. A column of Boolean type can be restricted to just TRUE and FALSE though.
+
+Language-specific implementations
+ALGOL and the built-in BOOLEAN type
+One of the earliest programming languages to provide an explicit BOOLEAN data type is ALGOL 60 (1960) with values true and false and logical operators denoted by symbols '
+  
+    
+      
+        ∧
+      
+    
+    {\displaystyle \wedge }
+  
+' (and), '
+  
+    
+      
+        ∨
+      
+    
+    {\displaystyle \vee }
+  
+' (or), '
+  
+    
+      
+        ⊃
+      
+    
+    {\displaystyle \supset }
+  
+' (implies), '
+  
+    
+      
+        ≡
+      
+    
+    {\displaystyle \equiv }
+  
+' (equivalence), and '
+  
+    
+      
+        ¬
+      
+    
+    {\displaystyle \neg }
+  
+' (not).  Due to input device and character set limits on many computers of the time, however, most compilers used alternative representations for many of the operators, such as AND or 'AND'.
+This approach with BOOLEAN as a built-in (either primitive or otherwise predefined) data type was adopted by many later programming languages, such as Simula 67 (1967), [ALGOL 68](707) (1970), Pascal (1970), Ada (1980), Java (1995), and C# (2000), among others.
+
+Fortran
+The first version of FORTRAN (1957) and its successor FORTRAN II (1958) have no logical values or operations; even the conditional IF statement takes an arithmetic expression and branches to one of three locations according to its sign; see arithmetic IF.  FORTRAN IV (1962), however, follows the ALGOL 60 example by providing a Boolean data type (LOGICAL), truth literals (.TRUE. and .FALSE.), logical IF statement, Boolean-valued numeric comparison operators (.EQ., .GT., etc.), and logical operators (.NOT., .AND., .OR., .EQV., and .NEQV.).  In FORMAT statements, a specific format descriptor ('L') is provided for the parsing or formatting of logical values.
+
+Lisp and Scheme
+The language Lisp (1958) never had a built-in Boolean data type. Instead, conditional constructs like cond assume that the logical value false is represented by the empty list (), which is defined to be the same as the special atom nil or NIL; whereas any other s-expression is interpreted as true. For convenience, most modern dialects of Lisp predefine the atom t to have value t, so that t can be used as a mnemonic notation for true.
+This approach (any value can be used as a Boolean value) was retained in most Lisp dialects (Common Lisp, Scheme, Emacs Lisp), and similar models were adopted by many scripting languages, even ones having a distinct Boolean type or Boolean values; although which values are interpreted as false and which are true vary from language to language. In Scheme, for example, the false value is an atom distinct from the empty list, so the latter is interpreted as true. Common Lisp, on the other hand, also provides the dedicated boolean type, derived as a specialization of the symbol.
+
+Pascal, Ada, and Haskell
+The language Pascal (1970) popularized the concept of programmer-defined enumerated types, previously available with different nomenclature in [COBOL](642), FACT and JOVIAL. A built-in Boolean data type was then provided as a predefined enumerated type with values FALSE and TRUE. By definition, all comparisons, logical operations, and conditional statements applied to and/or yielded Boolean values.  Otherwise, the Boolean type had all the facilities which were available for enumerated types in general, such as ordering and use as indices. In contrast, converting between Booleans and integers (or any other types) still required explicit tests or function calls, as in ALGOL 60. This approach (Boolean is an enumerated type) was adopted by most later languages which had enumerated types, such as Modula, Ada, and Haskell.
+
+C, [C++](640), D, Objective-C, [AWK](804)
+Initial implementations of the language C (1972) provided no Boolean type, and to this day Boolean values are commonly represented by integers (ints) in C programs. The comparison operators (>, ==, etc.) are defined to return a signed integer (int) result, either 0 (for false) or 1 (for true). Logical operators (&&, ||, !, etc.) and condition-testing statements (if, while) assume that zero is false and all other values are true.
+After enumerated types (enums) were added to the [American National Standards Institute](810) version of C, [ANSI C](803) (1989), many C programmers got used to defining their own Boolean types as such, for readability reasons. However, enumerated types are equivalent to integers according to the language standards; so the effective identity between Booleans and integers is still valid for C programs.
+Standard C (since [C99](772)) provides a Boolean type, called _Bool. By including the header stdbool.h, one can use the more intuitive name bool and the constants true and false. The language guarantees that any two true values will compare equal (which was impossible to achieve before the introduction of the type). Boolean values still behave as integers, can be stored in integer variables, and used anywhere integers would be valid, including in indexing, arithmetic, parsing, and formatting. This approach (Boolean values are just integers) has been retained in all later versions of C. Note, that this does not mean that any integer value can be stored in a Boolean variable.
+[C++](640) has a separate Boolean data type bool, but with automatic conversions from scalar and pointer values that are very similar to those of C. This approach was adopted also by many later languages, especially by some scripting languages such as [AWK](804).
+The D programming language has a proper Boolean data type bool. The bool type is a byte-sized type that can only hold the value true or false.
+The only operators that can accept operands of type bool are: &, |, ^, &=, |=, ^=, !, &&, || and ?:.
+A bool value can be implicitly converted to any integral type, with false becoming 0 and true becoming 1.
+The numeric literals 0 and 1 can be implicitly converted to the bool values false and true, respectively. Casting an expression to bool means testing for 0 or !=0 for arithmetic types, and null or !=null for pointers or references.
+Objective-C also has a separate Boolean data type BOOL, with possible values being YES or NO, equivalents of true and false respectively. Also, in Objective-C compilers that support [C99](772), C's _Bool type can be used, since Objective-C is a superset of C.
+
+Java
+In Java, the value of the boolean data type can only be either true or false.
+
+Perl and Lua
+Perl has no Boolean data type. Instead, any value can behave as Boolean in Boolean context (condition of if or while statement, argument of && or ||, etc.). The number 0, the strings "0" and "", the empty list (), and the special value undef evaluate to false. All else evaluates to true.
+Lua has a Boolean data type, but non-Boolean values can also behave as Booleans. The non-value nil evaluates to false, whereas every other data type value evaluates to true. This includes the empty string "" and the number 0, which are very often considered false in other languages.
+
+PL/I
+PL/I has no Boolean data type. Instead, comparison operators generate BIT(1) values; '0'B represents false and '1'B represents true. The operands of, e.g., &, |, ¬, are converted to bit strings and the operations are performed on each bit. The element-expression of an IF statement is true if any bit is 1.
+
+Rexx
+Rexx has no Boolean data type. Instead, comparison operators generate 0 or 1; 0 represents false and 1 represents true. The operands of, e.g., &, |, ¬, must be 0 or 1.
+
+Tcl
+Tcl has no separate Boolean type. Like in C, the integers 0 (false) and 1 (true—in fact any nonzero integer) are used.
+Examples of coding:
+
+The above will show V is 1 or true since the expression evaluates to 1.
+
+The above will render an error, as variable v cannot be evaluated as 0 or 1.
+
+Python, Ruby, and JavaScript
+Python, from version 2.3 forward, has a bool type which is a subclass of int, the standard integer type. It has two possible values: True and False, which are special versions of 1 and 0 respectively and behave as such in arithmetic contexts. Also, a numeric value of zero (integer or fractional), the null value (None), the empty string, and empty containers (lists, sets, etc.) are considered Boolean false; all other values are considered Boolean true by default. Classes can define how their instances are treated in a Boolean context through the special method __nonzero__ (Python 2) or __bool__ (Python 3). For containers, __len__ (the special method for determining the length of containers) is used if the explicit Boolean conversion method is not defined.
+In Ruby, in contrast, only nil (Ruby's null value) and a special false object are false; all else (including the integer 0 and empty arrays) is true.
+
+SQL
+Booleans appear in SQL when a condition is needed, such as WHERE clause, in form of predicate which is produced by using operators such as comparison operators, IN operator, IS (NOT) NULL etc. However, apart from TRUE and FALSE, these operators can also yield a third state, called UNKNOWN, when comparison with NULL is made.
+The SQL92 standard introduced IS (NOT) TRUE, IS (NOT) FALSE, and IS (NOT) UNKNOWN operators which evaluate a predicate, which predated the introduction of Boolean type in SQL:1999.
+The SQL:1999 standard introduced a BOOLEAN data type as an optional feature (T031). When restricted by a NOT NULL constraint, a SQL BOOLEAN behaves like Booleans in other languages, which can store only TRUE and FALSE values. However, if it is nullable, which is the default like all other SQL data types, it can have the special null value also. Although the SQL standard defines three literals for the BOOLEAN type – TRUE, FALSE, and UNKNOWN — it also says that the NULL BOOLEAN and UNKNOWN "may be used interchangeably to mean exactly the same thing". This has caused some controversy because the identification subjects UNKNOWN to the equality comparison rules for NULL. More precisely UNKNOWN = UNKNOWN is not TRUE but UNKNOWN/NULL. As of 2012 few major SQL systems implement the T031 feature. Firebird and PostgreSQL are notable exceptions, although PostgreSQL implements no UNKNOWN literal; NULL can be used instead.
+The treatment of Boolean values differs between SQL systems.
+For example, in Microsoft SQL Server, Boolean value is not supported at all, neither as a standalone data type nor representable as an integer. It shows the error message "An expression of non-Boolean type specified in a context where a condition is expected" if a column is directly used in the WHERE clause, e.g. SELECT a FROM t WHERE a, while a statement such as SELECT column IS NOT NULL FROM t yields a syntax error. The BIT data type, which can only store integers 0 and 1 apart from NULL, is commonly used as a workaround to store Boolean values, but workarounds need to be used such as UPDATE t SET flag = IIF(col IS NOT NULL, 1, 0) WHERE flag = 0 to convert between the integer and Boolean expression.
+Microsoft Access, which uses the Access Database Engine (ACE/JET), also does not have a Boolean data type. Similar to MS SQL Server, it uses a BIT data type. In Access it is known as a Yes/No data type which can have two values; Yes (True) or No (False). The BIT data type in Access can also can be represented numerically; True is −1 and False is 0. This differs to MS SQL Server in two ways, even though both are Microsoft products:
+
+Access represents TRUE as −1, while it is 1 in SQL Server
+Access does not support the Null tri-state, supported by SQL Server
+PostgreSQL has a distinct BOOLEAN type as in the standard, which allows predicates to be stored directly into a BOOLEAN column, and allows using a BOOLEAN column directly as a predicate in a WHERE clause.
+In MySQL, BOOLEAN is treated as an alias of TINYINT(1); TRUE is the same as integer 1 and FALSE is the same is integer 0. Any non-zero integer is true in conditions.
+
+Tableau
+Tableau Software has a BOOLEAN data type. The literal of a Boolean value is True or False.
+The Tableau INT() function converts a Boolean to a number, returning 1 for True and 0 for False.
+
+Forth
+Forth (programming language) has no Boolean type, it uses regular integers: value 0 (all bits low) represents false, and -1 (all bits high) represents true. This allows the language to define only one set of logical operators, instead of one for mathematical calculations and one for conditions.
+
+Truthy
+See also
+Boolean differential calculus
+Flag (programming)
+Shannon's expansion
+Three-valued logic
+True and false (commands) for shell scripting
+
+
+== References ==

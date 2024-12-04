@@ -1,0 +1,81 @@
+99
+3x3 basketball
+3x3 basketball (stylized as ƐX3, pronounced three-ex-three) is a variation of basketball played three-a-side, with one backboard and in a half-court setup. This basketball game format is currently being promoted and structured by FIBA, the sport's governing body. Its primary competition is an annual FIBA 3X3 World Tour, comprising a series of Masters and one Final tournament, and awarding six-figure prize money in US dollars. The FIBA 3x3 World Cups for men and women are the highest tournaments for national 3x3 teams. The 3x3 format has been adopted for both the 2020 Summer Olympics and 2022 Commonwealth Games.
+
+History
+3x3 has been a basketball format long played in streets and gyms across the world, albeit in a less formal way. Starting in the late 2000s, 3x3 game rules started to become standardized throughout the United States, most notably through the Gus Macker and Hoop It Up tournament series, which held large events across the country that included teams and players from all skill levels. In 1992, Adidas launched its now-discontinued streetball competition. Since then, the number of 3x3 events and competitions has been steadily growing around the world.
+FIBA made the decision to first test 3x3 at the 2007 Asian Indoor Games in Macau. Further test events were held in April 2008 in the Dominican Republic and October 2008 in Indonesia. The international debut was at the 2009 Asian Youth Games: 19 teams competed in the boys' tournament and 16 teams competed in the girls' tournament. All games were held at Anglican High School in Tanah Merah, Singapore. 3x3 made its worldwide competitive debut at the 2010 Summer Youth Olympics in Singapore. The competition featured 20 teams in both boys' and girls' categories. The competition was held at the Youth Space. Since then, world championships in both open and U18 categories are held regularly.
+FIBA launched a full program to make 3x3 a standalone game with its own format and regular competitions. 3x3 debuted as an Olympic sport at the 2020 Summer Olympics.
+The 3x3 basketball variation has also been used in several tournaments like Spokane Hoopfest, and the Nike 3ON3 Tournament.
+
+Rules
+FIBA releases from time-to-time a supplement to its official basketball rules specifically for 3x3. The rules state that regular FIBA rules apply to all situations not specifically addressed in the FIBA 3x3 rules. The current set, both in an abbreviated version and longer format, was published in August 2019.
+The current rules depart from regular full-court basketball in the following ways.
+
+Teams
+Each team consists of three players and one substitute. Each team must have three players on the court when the game begins.
+
+Basketball court and ball
+The game is played on a half-court with one basket. The official court is 15 metres (49 ft) wide (the same as FIBA's standard for the full-court game) by 11 m (36 ft 1.07 in) in length (compared to FIBA's standard half-court distance of 14 metres 45 ft 11.18 in); however, the rules specifically state that half of a standard FIBA full court is an acceptable playing area for official competitions. The American NBA & WNBA standard half-court distance is 15.24 m (50 ft) wide & 14.33 m (47 ft) long.
+The ball is the size of a size 6 basketball (720 mm, 28.5 in) as used in the women's full-court game and its mass is that of the size 7 standard (620 g, 22 oz) used in the men's full-court game.
+
+Gameplay
+A coin toss is held immediately before the game, and the winning team of the coin flip can choose to take possession of the ball at the start of the game, or take the first possession of a potential overtime period. In turn, this means that if the game goes into overtime, the first possession goes to the team that started the game on defense.
+The game begins with the defensive team passing the ball to the offensive team to signify the start of the game. All offensive players must begin outside of the arc (the opposite side of the arc of the net), and the defensive team must begin inside of the arc. Once the offensive team receives the ball, the clock starts. This exchange is also used to restart the game from any dead ball situation. The game is a single period of a maximum 10 minutes and the winner is the first team to score 21 or the team with the higher score at the end of the 10 minutes; scoring 21 points immediately ends the game.
+Every successful shot inside the arc, including free throws, is awarded one point, while every successful shot outside of the arc ("downtown") is awarded two points. After a made goal or free throw (except for technical or unsportsmanlike fouls and team fouls 10 or more; see below), play restarts with a player from the non-scoring team taking the ball directly under the basket and then dribbling or passing it to a point behind the arc. The defense is not allowed to play for the ball inside the block/charge semi-circle under the basket. In any held-ball situation, the defensive team is granted possession.
+The offensive team must attempt a shot for a goal within 12 seconds. An offensive player may also not dribble inside the arc with their back or side to the basket for more than 3 consecutive seconds. For either violation the defensive team is granted possession.
+There is a Trent Tucker Rule in which with up to 0.2 seconds left in regulation or on the shot clock, a high lob, or tip-in must be made.
+
+Overtime
+A tie in regulation time leads to an untimed overtime period, after a one-minute intermission. Whichever team began the game as the defensive team, begins overtime as the offensive team. The first team to score two points wins the game. Note: if a game is tied at 20 at the end of regulation, a team scoring their 21st point in overtime does not end the game.
+
+Substitutions and timeouts
+Substitutions can occur only in a dead-ball situation; a substitute can only enter from behind the end line opposite the basket, and the substitution becomes official once the player leaving the game has "tagged up" by making physical contact with the substitute. Each team is allowed one 30 second time-out per game.
+
+Fouls
+Each personal or technical foul counts as one team foul, while each unsportsmanlike or disqualifying foul counts as two team fouls. Personal fouls during the act of shooting inside the arc are awarded one free throw, while fouls during the act of shooting behind the arc and the shot is unsuccessful are awarded two free throws. Team fouls 7, 8 and 9 are awarded two free throws, and all team fouls thereafter are awarded two free throws and possession of the ball. The "bonus" rule specifically supersedes the normal rule for fouls in the act of shooting. The un-timed overtime period is considered extension of regulation for purpose of team fouls.
+The first unsportsmanlike foul against a player results in two free throws. A second unsportsmanlike foul, or a disqualifying foul, results in two free throws and possession. A player who commits two unsportsmanlike fouls is disqualified. A team loses the game by default if all of its players are disqualified.
+All technical fouls result in one free throw, with possession going to the team that was entitled to possession at that time.
+If a foul is committed that results in the non-fouling team retaining possession, i.e. a technical or "unsportsmanlike" foul, the non-fouling team will receive the exchange outside of the arc.
+Offensive fouls, if not technical, unsportsmanlike, or disqualifying, never result in free throws, regardless of the number of team fouls. In the case of a double foul, no free throws are awarded to either team, regardless of team foul count or whether the double fouls were unsportsmanlike.
+
+Development
+FIBA sees 3x3 as a major vehicle for promotion of the game of basketball throughout the world. FIBA Secretary General and IOC member Patrick Baumann explained: "The 3x3 concept has all the elements and skills required for basketball, it has inspired and will continue to inspire many great players in the future. At the same time, it is the easiest and one of the most-effective ways to bring youngsters to basketball, keep them and promote our game. Finally FIBA 3x3 can and will promote key educational and social values to the next generations."
+FIBA is pursuing a unique click-and-brick strategy to implement 3x3. FIBA has developed a digital community that acts as a repository for all FIBA-endorsed 3x3 events worldwide and offers all players an individual world ranking based on the points earned by players at FIBA-endorsed 3x3 events.
+Any event around the world can become FIBA-endorsed by using FIBA's freeware, EventMaker, to organise the event. All FIBA-endorsed 3x3 events are classified within an established competition hierarchy, thus forming an official competition network. The pinnacle of this competition network is the FIBA 3x3 World Tour, which includes a series of World Tour Masters and one Final. A team can qualify for a World Tour Masters by playing in any of the designated World Tour qualifiers.
+The North American National Basketball Association (NBA) has also embraced 3x3. Since 2016, the NBA has held a summer series of tournaments known as "Dew NBA 3X", where local amateur players from around the US compete in regional events for cash prizes and a finals berth. The men's and women's NBA 3X champions then advance to the USA Basketball national 3x3 championship to potentially represent their country internationally. These tournaments also include live music performances, 3-point shooting contests for fans, an NBA 2K eSports competition, and appearances from current NBA players. In 2017, entertainer Ice Cube and entertainment executive Jeff Kwatinetz founded BIG3, where former NBA and US college basketball stars compete in a traveling league using rules slightly different from the FIBA rulebook, and also using a ball that meets the specifications for the men's full-court game instead of the FIBA 3x3 ball.
+The qualification system for the FIBA 3x3 World Cups for men and women differs radically from the system used for FIBA full-court competitions. According to The New York Times, 3x3 has "an unusual qualifying system designed to grow the sport all year long as much as find the best teams for the World Cup." National team entries are based strictly on a country's official 3x3 ranking. The ranking system for national teams also considers individual player rankings. Even a national ranking that would ostensibly qualify a team for the World Cup is not sufficient to gain entry because FIBA currently mandates that the 20 men's and women's teams that participate in a given year's World Cups come from 30 countries, making it more difficult for individual nations to enter both genders into the World Cup. For example, the US women's team qualified for the 2018 World Cup while the men's team did not, even though the men were ranked higher than the women on the cutoff date. Participating in a FIBA-sanctioned 3x3 event can earn ranking points; according to a FIBA executive, "Andorra has heavy participation every weekend." The current concentration of ranking events in Europe makes it more difficult for non-European nations, especially the US, to qualify. The aforementioned FIBA executive, when asked about the prospect of the 2020 Olympic debut of 3x3 potentially lacking any participation from the US, admitted that "a lot of teams want to beat the US. Beating the US teams is an achievement."
+
+World Cups
+After the 2010 Summer Youth Olympics, FIBA established a regular World Cup that always includes men and women competing simultaneously in open, U23 and U18 categories. World Cups are played every year, except in years when there are Youth Olympic Games or Olympic Games. The COVID-19 pandemic caused the cancellation of the 2020 event.
+Classification to the World Cup is based on the 3x3 Federation Ranking, which ranks all National Federations based on the 3x3 Individual World Ranking points of their top 100 nationals in the respective category (i.e. men, women, U23 men, U23 women, U18 men, and U18 women).
+
+International games
+3x3 basketball became a regular European Games contest since its introduction at the 2015 European Games in Baku, Azerbaijan.
+3x3 basketball made a debut in Olympic programme for the 2020 Summer Olympics in Tokyo, Japan, for both men and women.
+3x3 basketball was included in 2022 Commonwealth Games in Birmingham, England.
+After the 2022 Russian invasion of Ukraine, FIBA banned Russian teams and officials from participating in FIBA 3x3 Basketball competitions.
+
+Major event medalist
+Olympic Games
+Men
+
+Women
+
+See also
+3x3 basketball at the Summer Olympics
+Basketball at the Commonwealth Games
+FIBA 3x3 World Cup
+FIBA 3x3 Europe Cup
+FIBA 3x3 U18 World Cup
+BIG3 – 3x3 basketball league played mostly by retired NBA players, using different rules and a different ball from FIBA-sanctioned 3x3
+Gus Macker – 3x3 tournaments held in the United States since 1974, also using different rules and a different ball from FIBA-sanctioned 3x3
+Twenty-one – a variation of basketball where teams must score exactly 21 points to win
+
+References
+External links
+Official FIBA 3x3 page
+FIBA's 3x3 Subpage
+3x3 Play by FIBA
+International Olympic Committee home page
+Skyline Hoops

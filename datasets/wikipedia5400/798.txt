@@ -1,0 +1,41 @@
+798
+Commercial software
+Commercial software, or seldom payware, is a computer software that is produced for sale or that serves commercial purposes. Commercial software can be proprietary software or free and open-source software.
+
+Background and challenge
+While software creation by programming is a time and labor-intensive process, comparable to the creation of physical goods, the reproduction, duplication and sharing of software as digital goods is in comparison disproportionately easy. No special machines or expensive additional resources are required, unlike almost all physical goods and products. Once the software is created it can be copied in infinite numbers, for almost zero cost, by anyone. This made commercialization of software for the mass market in the beginning of the computing era impossible. Unlike hardware, it was not seen as trade-able and commercialize-able good. Software was plainly shared for free (hacker culture) or distributed bundled with sold hardware, as part of the service to make the hardware usable for the customer.
+Due to changes in the computer industry in the 1970s and 1980s, software slowly became a commercial good by itself. In 1969, IBM, under threat of antitrust litigation, led the industry change by starting to charge separately for (mainframe) software and services, and ceasing to supply source code. In 1983 binary software became copyrightable by the Apple vs. Franklin law decision, before only source code was copyrightable. Additionally, the growing availability of millions of computers based on the same microprocessor architecture created for the first time a compatible mass market worth and ready for binary retail software commercialization.
+
+Commercialization models for software
+Common business wisdom is that software as digital good can be commercialized to the mass-market most successfully as proprietary good, meaning that the free sharing and copying of the users ("software piracy") can be prevented. Control over this can be achieved by copyright which, along with contract law, software patents, and trade secrets, provides a legal basis for the software's owner, the intellectual property (IP) holder, to establish exclusive rights on distribution and therefore commercialization. Technical mechanisms which try to enforce the exclusive distribution right are copy-protection mechanisms, often bound to the physical media (floppy disc, CD, etc.) of the software, and digital rights management (DRM) mechanisms which try to achieve the same also in physical media-less digital distribution of software.
+When software is sold in binary form only ("closed source") on the market, exclusive control over software derivatives and further development are additionally achieved. The reverse engineering reconstruction process of complex software from its binary form to its source code form, required for unauthorized third-party adaptation and development, is a burdensome and often impossible process. This creates another commercialization opportunity of software in source code form for a higher price, e.g. by licensing a game engine's source code to another game developer for flexible use and adaptation.
+This business model, also called "research and development model", "IP-rent model" or "proprietary software business model", was described by Craig Mundie of Microsoft in 2001 as follows: "Companies and investors need to focus on business models that can be sustainable over the long term in the real world economy…. We emphatically remain committed to a model that protects the intellectual property rights in software and ensures the continued vitality of an independent software sector that generates revenue and will sustain ongoing research and development. This research and development model … based on the importance of intellectual property rights was the foundation in law that made it possible for companies to raise capital, take risks, focus on the long term, and create sustainable business models…. An economic model that protects intellectual property and a business model that recoups research and development costs have shown repeatedly that they can create impressive economic benefits and distribute them very broadly."
+
+Free and open-source software commercialization
+While less common than commercial proprietary software, free and open-source software may also be commercial software in the free and open-source software (FOSS) domain. But unlike the proprietary model, commercialization is achieved in the FOSS commercialization model without limiting the users in their capability to share, reuse and duplicate software freely. This is a fact that the Free Software Foundation emphasizes, and is the basis of the Open Source Initiative.
+Under a FOSS business model, software vendors may charge a fee for distribution and offer paid support and software customization services.
+Proprietary software uses a different business model, where a customer of the proprietary software pays a fee for a license to use the software.
+This license may grant the customer the ability to configure some or no parts of the software themselves.
+Often some level of support is included in the purchase of proprietary software, but additional support services (especially for enterprise applications) are usually available for an additional fee.
+Some proprietary software vendors will also customize software for a fee.
+Free software is often available at no cost and can result in permanently lower costs compared to proprietary software.
+With free software, businesses can fit software to their specific needs by changing the software themselves or by hiring programmers to modify it for them.
+Free software often has no warranty, and more importantly, generally does not assign legal liability to anyone.
+However, warranties are permitted between any two parties upon the condition of the software and its usage.
+Such an agreement is made separately from the free software license.
+
+Reception and impact
+All or parts of software packages and services that support commerce are increasingly made available as FOSS software.
+This includes products from Red Hat, Apple Inc., Huawei, Sun Microsystems, Google, and Microsoft.
+Microsoft uses "commercial software", to describe their business model but is also mostly proprietary.
+A report by Standish Group says that adoption of open source has caused a drop in revenue to the proprietary software industry by about $60 billion per year.
+
+See also
+Commercial off-the-shelf
+Retail software
+Proprietary software
+Gratis versus Libre
+Shareware
+
+
+== References ==

@@ -1,0 +1,45 @@
+2935
+Banana Xanthomonas wilt
+[Banana](2900) Xanthomonas Wilt (BXW), or banana bacterial wilt (BBW) or enset wilt is a bacterial disease caused by Xanthomonas campestris pv. musacearum. After being originally identified on a close relative of banana, Ensete ventricosum, in Ethiopia in the 1960s, BXW emanated in Uganda in 2001 affecting all types of banana cultivars. Since then BXW has been diagnosed in Central and [East Africa](2757) including banana growing regions of: Rwanda, Democratic Republic of the Congo, Tanzania, Kenya, Burundi, and Uganda.
+Of the numerous diseases infecting bananas, BXW alongside banana bunchy top virus  has been the most devastating in recent years. Global concern arose over the livelihoods of African banana farmers and the millions relying on bananas as a staple food when the disease was at its worst between the years 2001 and 2005. It was estimated that in Central Uganda from 2001 and 2004, there was a 30–52 % decrease in banana yield due to BXW infection. The livelihoods of more than 20 million farmers in Ethiopia is supported bye E. ventricosum. BXW is a major disease in Ethiopia and Uganda and can result in 70-100% losses of enset.
+Although extensive management of the disease outbreaks has helped reduce the impact of [Banana](2900) Xanthomonas Wilt even today BXW continues to a pose a real problem to the banana farmer of Central and [East Africa](2757).
+There is a proposal to reorganize Xanthomonas – especially pathovars of bananas and maize/corn – along the lines of the most recent phylogenetic evidence.
+
+Symptoms
+BXW symptoms can be sorted into two domains: symptoms on the inflorescence and symptoms on the fruit. Symptoms on the fruit are usually used to distinguish BXW from alternative banana diseases. A bacterial ooze is excreted from the plant organs and this is a mandatory sign that BXW may be present.  Common symptoms on the fruit include internal discoloration and premature ripening of the fruit. A cross section of the BXW infected banana is characterized by the yellow- orange discoloration of the vascular bundles and dark brown tissue scarring. Symptoms on the inflorescence include a gradual wilting and yellowing of the leaves plus wilting of the bracts and shriveling of the male buds. Many factors may affect the combination of disease symptoms on show. These include the particular cultivar infected, how the disease has been transmitted and the current growing season.
+Symptoms normally appear within 3 weeks after infection, although the time taken to reach different stages of symptom expression may differ depending on the cultivar, plant growth stage, mode of disease transmission and environmental conditions. The symptoms expression were found to be faster in AAA-EA cooking varieties compared to ABB cultivars, in young plants compared to mature plants and during the wet season compared to the dry season. Infected plants show a progressive yellowing and wilting of the leaves, and uneven and premature ripening of the fruit. Male bud symptoms are firstly observed if an infection has occurred via the male inflorescence part, while leaf wilting symptoms are the first to be observed if the infection occurred via other plant parts such as roots, corm, leaf sheaths and leaves.
+BXW can sometimes be confused with Fusarium wilt – this differs to BXW as in contrast it causes yellowing on older leaves and does not cause abnormal fruit development. Fusarium wilt also causes a dark staining in the stalk whereas BXW does not
+
+Transmission
+Soil
+Soil is one of the main sources for Xanthomonas campestris pv. musacearum inoculum. Xanthomonas campestris pv. musacearum may contaminate the soil for four months and more. BXW awareness campaigns have helped reduce the numbers of farmers growing bananas on contaminated plantains aiding in the control of the disease overall. Transmission of contaminated disease itself is thought to be low.
+
+Airborne
+It widely thought that Xanthomonas campestris pv. musacearum bacteria is transmitted to airborne vectors through exposed male flowers (see plant reproductive morphology). Xanthomonas campestris pv. musacearum bacteria has been isolated from the ooze and nectar excreted from openings of fallen male flowers. Insects, namely stingless bees (Apidae), fruit flies ([Drosophilidae](2839)) and grass flies (Chloropidae), transmit the disease from banana to banana after being drawn to the infected nectar. If the disease has been transmitted by insects the symptoms tend to first appear on the male buds of the banana plant.
+
+Tools
+The knife (panga) is used almost universally in African agriculture. Use of contaminated knives was a common method for disease spread when the disease originated but increased knowledge of BXW transmission has led to increased numbers of knives being disinfected after use. Herbicides are now advised as a more economical and effective way of destroying infected banana crop.
+
+Infected plant material
+BXW infects all parts of the plant. Disease spread has been primarily linked with the transport of plants shoots for replanting. Other parts of the plant such as the male buds (used in banana beer production) and mulch (banana waste material) can also expose novel regions to the disease.
+
+Disease management
+Control of BXW is based upon a variety of methods to help prevent the spread of the disease. Vigilance and the quick removal of infected plants remain critical to minimising spread of the disease. Complete uprooting of diseased mats and the burning or burying of plant debris was encouraged as part of a control package which included the use of clean garden tools and early removal of male buds to prevent insect vector transmission. But uprooting a complete mat is understandably time-consuming and labour-intensive and becomes very difficult when a large number of diseased mats have to be removed. Recent research findings suggest that Xcm bacteria do not colonize all lateral shoots which can lead to a new control method where only visibly attacked plants within a mat are cut at soil level. However, this single diseased stem removal should go hand in hand with prevention of new infections that can occur through the use of contaminated garden tools or through insect vector transmission.
+The CABI-led programme Plantwise recommends in addition to removing infected plants and cleaning tools, to prevent further infections by limiting the distribution of fruits to BXW-free areas to reduce the risk of spread, and limiting the movement of animals in banana plantations. They also recommend rotation of banana with other crops if infection is detected.
+
+BXW resistant banana
+No banana cultivars have shown any resistance to BXW despite some varieties, such as those in the 'Pisang Awak' region, showing increased susceptibility. Only balbisiana has any resistance. Scientists have recently transferred two genes from sweet green pepper to bananas in order to confer resistance to BXW. This is a promising step forward in circumventing the time consuming and expensive practices of disease management such as 'debudding'.
+Pflp and Hrap genes encoding the proteins plant ferredoxin-like amphipathic protein (pflp) and hypersensitive response-assisting protein (hrap) were isolated from sweet pepper and introduced to the genome of [East Africa](2757)n bananas using genetic engineering. The two proteins induced a hypersensitive response and systemic acquired resistance within the banana plant after being exposed to the bacterial pathogen. It was reported that over half of the transgenic bananas were resistant to BXW, resistance that was also found in field trials.
+
+Impact
+BXW can cause losses of up to 100% in East and Central Africa.
+
+Sources
+This article incorporates text from a free content work. Licensed under CC-BY-SA (license statement/permission). Text taken from Plantwise Factsheets for Farmers: Controlling bacterial wilt of enset using cultural methods​, Melese Haile, Yifru Hailegiorgis, Leulseged Mekonen, CABI.  
+ This article incorporates text from a free content work. Licensed under CC-BY-SA (license statement/permission). Text taken from PMDG: [Banana](2900) xanthomonas wilt​, Plantwise, CABI.
+
+References
+External links
+Musapedia page on Xanthomonas Wilt of banana
+The McKnight Foundation, most recent overview of [Banana](2900) Xanthomonas Wilt
+International Institute of Tropical Agriculture (IITA) annual report, BXW disease management

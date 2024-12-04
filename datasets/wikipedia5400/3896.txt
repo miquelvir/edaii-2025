@@ -1,0 +1,30 @@
+3896
+Catoptrics
+Catoptrics (from Ancient Greek: κατοπτρικός katoptrikós, "specular", from Ancient Greek: κάτοπτρον katoptron "mirror") deals with the phenomena of reflected light and image-forming optical systems using mirrors. A catoptric system is also called a catopter (catoptre).
+
+Ancient texts
+Catoptrics is the title of two texts from ancient Greece:
+
+The Pseudo-Euclidean Catoptrics. This book is attributed to Euclid, although the contents are a mixture of work dating from Euclid's time together with work which dates to the Roman period. It has been argued that the book may have been compiled by the 4th century mathematician Theon of Alexandria. The book covers the mathematical theory of mirrors, particularly the images formed by plane and spherical concave mirrors.
+Hero's Catoptrics. Written by Hero of Alexandria, this work concerns the practical application of mirrors for visual effects. In the Middle Ages, this work was falsely ascribed to Ptolemy. It only survives in a Latin translation.
+The Latin translation of Alhazen's (Ibn al-Haytham) main work, Book of Optics (Kitab al-Manazir), exerted a great influence on Western science: for example, on the work of Roger Bacon, who cites him by name. His research in catoptrics (the study of optical systems using mirrors) centred on spherical and parabolic mirrors and spherical aberration. He made the observation that the ratio between the angle of incidence and refraction does not remain constant, and investigated the magnifying power of a lens. His work on catoptrics also contains the problem known as "Alhazen's problem". Alhazen's work influenced Averroes' writings on optics, and his legacy was further advanced through the 'reforming' of his Optics by Persian scientist Kamal al-Din al-Farisi (d. ca. 1320) in the latter's Kitab Tanqih al-Manazir (The Revision of Ibn al-Haytham's Optics).
+
+Catoptric telescopes
+The first practical catoptric telescope (the "Newtonian reflector") was built by Isaac Newton as a solution to the problem of chromatic aberration exhibited in telescopes using lenses as objectives (dioptric telescopes).
+
+See also
+Dioptrics
+Catadioptrics
+Optical telescope
+List of telescope types
+Image-forming optical system
+Fresnel lens
+Lighthouse lens
+
+References
+Bibliography
+El-Bizri, Nader (2005a), "A Philosophical Perspective on Alhazen's Optics", Arabic Sciences and Philosophy, 15 (2), [Cambridge University Press](645): 189–218, doi:10.1017/S0957423905000172, S2CID 123057532
+El-Bizri, Nader (2005b), "Ibn al-Haytham", in Wallis, Faith (ed.), Medieval Science, Technology, and Medicine: An Encyclopedia, New York & London: Routledge, pp. 237–40, ISBN 0-415-96930-1, OCLC 218847614
+Dr. Al Deek, Mahmoud (2004), "Ibn Al-Haitham: Master of Optics, Mathematics, Physics and Medicine", Al Shindagah (November–December 2004), archived from the original on 2008-06-17, retrieved 2013-09-04
+Grant, Edward (1974), A Source Book in Medieval Science, Harvard University Press, ISBN 978-0-674-82360-0
+Lindberg, David C. (1996), Roger Bacon and the Origins of Perspectiva in the Middle Ages, Clarendon Press

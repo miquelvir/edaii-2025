@@ -1,0 +1,50 @@
+770
+C11 (C standard revision)
+C11 (previously C1X, formally ISO/IEC 9899:2011), is a past standard for the C programming language. It replaced [C99](772) (standard ISO/IEC 9899:1999) and has been superseded by C17 (standard ISO/IEC 9899:2018). C11 mainly standardizes features already supported by common contemporary compilers, and includes a detailed memory model to better support multiple threads of execution. Due to delayed availability of conforming [C99](772) implementations, C11 makes certain features optional, to make it easier to comply with the core language standard.
+The final draft, N1570, was published in April 2011. The new standard passed its final draft review on October 10, 2011 and was officially ratified by ISO and published as ISO/IEC 9899:2011 on December 8, 2011, with no comments requiring resolution by participating national bodies.
+A standard macro __STDC_VERSION__ is defined with value 201112L to indicate that C11 support is available.
+
+Changes from [C99](772)
+The standard includes several changes to the [C99](772) language and library specifications, such as
+
+Alignment specification (_Alignas specifier, _Alignof operator, aligned_alloc function, <stdalign.h> header)
+The _Noreturn function specifier and the <stdnoreturn.h> header
+Type-generic expressions using the _Generic keyword. For example, the following macro cbrt(x) translates to cbrtl(x), cbrt(x) or cbrtf(x) depending on the type of x:
+
+Multi-threading support (_Thread_local storage-class specifier, <threads.h> header including thread creation/management functions, mutex, condition variable and thread-specific storage functionality, as well as <stdatomic.h> for atomic operations supporting the C11 memory model).
+Improved Unicode support based on the C Unicode Technical Report ISO/IEC TR 19769:2004 (char16_t and char32_t types for storing UTF-16/UTF-32 encoded data, including conversion functions in <uchar.h> and the corresponding u and U string literal prefixes, as well as the u8 prefix for UTF-8 encoded literals).
+Removal of the gets function (in favor of safer fgets), which was deprecated in the previous C language standard revision, ISO/IEC 9899:1999/Cor.3:2007(E).
+Bounds-checking interfaces (Annex K).
+Analyzability features (Annex L).
+More macros for querying the characteristics of floating-point types, concerning subnormal floating-point numbers and the number of decimal digits the type is able to store.
+Anonymous structures and unions, useful when unions and structures are nested, e.g. in struct T { int tag; union { float x; int n; }; };.
+Static assertions, which are evaluated during translation at a later phase than #if and #error, when types are understood by the translator.
+An exclusive create-and-open mode ("…x" suffix) for fopen. This behaves like O_CREAT|O_EXCL in POSIX, which is commonly used for lock files.
+The quick_exit function as a third way to terminate a program, intended to do at least minimal deinitialization.
+A new timespec_get function and corresponding structure in <time.h> with a degree of POSIX compatibility.
+Macros for the construction of complex values (partly because real + imaginary*I might not yield the expected value if imaginary is infinite or NaN).
+
+Optional features
+The new revision allows implementations to not support certain parts of the standard — including some that had been mandatory to support in the 1999 revision. Programs can use predefined macros to determine whether an implementation supports a certain feature or not.
+
+Compiler support
+Some features of C11 are supported by the GCC starting with version 4.6, Clang starting with version 3.1, IBM XL C starting with version 12.1, and Microsoft Visual [C++](640) starting with VS 2019 (16.8) in September 2020.
+
+Criticism
+The optional bounds-checking interfaces (Annex K) remain controversial and have not been widely implemented, and their deprecation or removal from the next standard revision has been proposed. Even Microsoft, a main proponent of this interface, does not conform to the definition.  In addition, Annex K does not include the more useful TR24731-2 (dynamic allocation functions), such as vasprintf and open_memstream. The few open-source implementations include Open Watcom C/[C++](640)'s "Safer C" library and safeclib.
+
+See also
+[C++](640)23, [C++](640)20, [C++](640)17, [C++](640)14, [C++](640)11, [C++](640)03, [C++](640)98, versions of the [C++](640) programming language standard
+Compatibility of C and [C++](640)
+
+References
+Further reading
+N1570 (working draft of C11 standard); WG14; 2011. (HTML and ASCII versions)
+ISO/IEC 9899:2011 (official C11 standard); ISO; 2011.
+Plum, Thomas (April 6, 2012). "C Finally Gets A New Standard". Dr. Dobb's Journal.
+Safe C API—Concise solution of buffer overflow, The OWASP Foundation, OWASP AppSec, Beijing 2011
+
+External links
+C Language Working Group 14 (WG14) Documents
+C1X Charter - WG14
+Safe C Library of Bounded APIs
