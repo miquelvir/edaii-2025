@@ -35,7 +35,7 @@ void test_fact2() {
   successtest();
 }
 
-void sample_lib_test () {
+void sample_lib_test() {
   running("sample_lib_test");
   {
     // Call all tests you want to run here
