@@ -23,8 +23,8 @@ void test_fact3(){
 }
 
 
-void test_fact1(){
-    runningtest("test_fact1");
+void test_fact2(){
+    runningtest("test_fact2");
     {
         int expectedResult = 2;
         int result = fact(2);
@@ -43,7 +43,7 @@ void sample_lib_test(){
         // Call all tests you want to run here
         test_fact4();
         test_fact3();
-        test_fact1();
+        test_fact2();
     }
     success();
 }
