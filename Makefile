@@ -27,7 +27,7 @@ t:
 	./test.out
 
 compiletestdebug:
-	gcc test/test.c test/utils.c -g -o test.out
+	gcc test/test.c test/utils.c $(SRC_FILES) -g -o test.out
 
 dt:
 	make compiletestdebug
