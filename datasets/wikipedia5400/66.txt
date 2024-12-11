@@ -1,0 +1,15 @@
+66
+Cat genetics
+[Cat](54) genetics describes the study of inheritance as it occurs in domestic cats. In feline husbandry it can predict established traits (phenotypes) of the offspring of particular crosses. In medical genetics, cat models are occasionally used to discover the function of homologous human disease genes.
+The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes. About 250 heritable genetic disorders have been identified in cats, many similar to human inborn errors. The high level of similarity among the metabolisms of mammals allows many of these feline diseases to be diagnosed using genetic tests that were originally developed for use in humans, as well as the use of cats in the study of the human diseases.
+An example of a mutation that is shared among all felines, including the big cats, is a mutant chemosensor in their taste buds that prevents them from tasting sweetness, which may explain their indifference to fruits, berries, and other sugary foods. In some breeds of cats congenital sensorineural deafness is very common, with most white cats (but not albinos) being affected, particularly if they also have blue eyes. The gene responsible for this defect is the KIT gene and the disease is studied in the hope that it may shed light on the causes of hereditary deafness in humans. Mutations in this gene also causes white spotting.
+Since a large variety of coat patterns exist within the various cat breeds, the cat is an excellent animal to study the coat genetics of hair growth and coloration. Several genes interact to produce cats' hair color and coat patterns. Different combinations of these genes give different phenotypes. For example, the enzyme tyrosinase is needed to produce the dark pigment melanin and [Burmese cat](45)s have a mutant form that is only active at low temperatures, resulting in color appearing only on the cooler ears, tail and paws. A completely inactive gene for tyrosinase is found in albino cats, which therefore lack all pigment. Hair length is determined by the gene for fibroblast growth factor 5, with inactive copies of this gene causing long hair.
+The [Cat](54) Genome Project, sponsored by the Laboratory of Genomic Diversity at the U.S. National Cancer Institute Frederick Cancer Research and Development Center in Frederick, Maryland, aims to help the development of the cat as an animal model for human hereditary and infectious diseases, as well as contributing to the understanding of the evolution of mammals. This effort led to the publication in 2007 of an initial draft of the genome of an [Abyssinian cat](1) called Cinnamon. The existence of a draft genome has led to the discovery of several cat disease genes, and even allowed the development of cat genetic fingerprinting for use in forensics.
+
+See also
+[Cat](54)#Evolution
+[Cat](54) coat genetics
+List of cat body-type mutations
+
+
+== References ==

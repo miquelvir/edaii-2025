@@ -1,0 +1,117 @@
+693
+Computing
+Computing is any goal-oriented activity requiring, benefiting from, or creating computing machinery. It includes the study and experimentation of algorithmic processes, and the development of both hardware and software. Computing has scientific, engineering, mathematical, technological, and social aspects. Major computing disciplines include computer engineering, computer science, cybersecurity, data science, information systems, information technology, and software engineering.
+The term computing is also synonymous with counting and calculating. In earlier times, it was used in reference to the action performed by mechanical computing machines, and before that, to human computers.
+
+History
+The history of computing is longer than the history of computing hardware and includes the history of methods intended for pen and paper (or for chalk and slate) with or without the aid of tables. Computing is intimately tied to the representation of numbers, though mathematical concepts necessary for computing existed before numeral systems. The earliest known tool for use in computation is the abacus, and it is thought to have been invented in Babylon circa between 2700 and 2300 BC. Abaci, of a more modern design, are still used as calculation tools today.
+The first recorded proposal for using digital electronics in computing was the 1931 paper "The Use of Thyratrons for High Speed Automatic Counting of Physical Phenomena" by C. E. Wynn-Williams. Claude Shannon's 1938 paper "A Symbolic Analysis of Relay and Switching Circuits" then introduced the idea of using electronics for Boolean algebraic operations.
+The concept of a field-effect transistor was proposed by Julius Edgar Lilienfeld in 1925. John Bardeen and Walter Brattain, while working under William Shockley at Bell Labs, built the first working transistor, the point-contact transistor, in 1947. In 1953, the University of Manchester built the first transistorized computer, the Manchester Baby. However, early junction transistors were relatively bulky devices that were difficult to mass-produce, which limited them to a number of specialised applications. 
+In 1957, Frosch and Derick were able to manufacture the first silicon dioxide field effect transistors at Bell Labs, the first transistors in which drain and source were adjacent at the surface. Subsequently, a team demonstrated a working MOSFET at Bell Labs 1960. The MOSFET made it possible to build high-density integrated circuits, leading to what is known as the computer revolution or microcomputer revolution.
+
+[Computer](675)
+A computer is a machine that manipulates data according to a set of instructions called a computer program. The program has an executable form that the computer can use directly to execute the instructions. The same program in its human-readable source code form, enables a programmer to study and develop a sequence of steps known as an algorithm. Because the instructions can be carried out in different types of computers, a single set of source instructions converts to machine instructions according to the CPU type.
+The execution process carries out the instructions in a computer program. Instructions express the computations performed by the computer. They trigger sequences of simple actions on the executing machine. Those actions produce effects according to the semantics of the instructions.
+
+[Computer](675) hardware
+[Computer](675) hardware includes the physical parts of a computer, including the central processing unit, memory, and input/output. Computational logic and computer architecture are key topics in the field of computer hardware.
+
+[Computer](675) software
+[Computer](675) software, or just software, is a collection of computer programs and related data, which provides instructions to a computer. Software refers to one or more computer programs and data held in the storage of the computer. It is a set of programs, procedures, algorithms, as well as its documentation concerned with the operation of a data processing system. Program software performs the function of the program it implements, either by directly providing instructions to the computer hardware or by serving as input to another piece of software. The term was coined to contrast with the old term hardware (meaning physical devices). In contrast to hardware, software is intangible.
+Software is also sometimes used in a more narrow sense, meaning application software only.
+
+System software
+System software, or systems software, is computer software designed to operate and control computer hardware, and to provide a platform for running application software. System software includes operating systems, utility software, device drivers, window systems, and firmware. Frequently used development tools such as compilers, linkers, and debuggers are classified as system software. System software and middleware manage and integrate a computer's capabilities, but typically do not directly apply them in the performance of tasks that benefit the user, unlike application software.
+
+Application software
+Application software, also known as an application or an app, is computer software designed to help the user perform specific tasks. Examples include enterprise software, accounting software, office suites, graphics software, and media players. Many application programs deal principally with documents. Apps may be bundled with the computer and its system software, or may be published separately. Some users are satisfied with the bundled apps and need never install additional applications. The system software manages the hardware and serves the application, which in turn serves the user.
+Application software applies the power of a particular computing platform or system software to a particular purpose. Some apps, such as Microsoft Office, are developed in multiple versions for several different platforms; others have narrower requirements and are generally referred to by the platform they run on. For example, a geography application for Windows or an Android application for education or Linux gaming. Applications that run only on one platform and increase the desirability of that platform due to the popularity of the application, known as killer applications.
+
+[Computer](675) network
+A computer network, often simply referred to as a network, is a collection of hardware components and computers interconnected by communication channels that allow the sharing of resources and information. When at least one process in one device is able to send or receive data to or from at least one process residing in a remote device, the two devices are said to be in a network. Networks may be classified according to a wide variety of characteristics such as the medium used to transport the data, communications protocol used, scale, topology, and organizational scope.
+Communications protocols define the rules and data formats for exchanging information in a computer network, and provide the basis for network programming. One well-known communications protocol is Ethernet, a hardware and link layer standard that is ubiquitous in local area networks. Another common protocol is the Internet Protocol Suite, which defines a set of protocols for internetworking, i.e. for data communication between multiple networks, host-to-host data transfer, and application-specific data transmission formats.
+[Computer](675) networking is sometimes considered a sub-discipline of electrical engineering, telecommunications, computer science, information technology, or computer engineering, since it relies upon the theoretical and practical application of these disciplines.
+
+Internet
+The Internet is a global system of interconnected computer networks that use the standard Internet Protocol Suite (TCP/IP) to serve billions of users. This includes millions of private, public, academic, business, and government networks, ranging in scope from local to global. These networks are linked by a broad array of electronic, wireless, and optical networking technologies. The Internet carries an extensive range of information resources and services, such as the inter-linked hypertext documents of the World Wide Web and the infrastructure to support email.
+
+[Computer](675) programming
+[Computer](675) programming is the process of writing, testing, debugging, and maintaining the source code and documentation of computer programs. This source code is written in a programming language, which is an artificial language that is often more restrictive than natural languages, but easily translated by the computer. Programming is used to invoke some desired behavior (customization) from the machine.
+Writing high-quality source code requires knowledge of both the computer science domain and the domain in which the application will be used. The highest-quality software is thus often developed by a team of domain experts, each a specialist in some area of development. However, the term programmer may apply to a range of program quality, from hacker to open source contributor to professional. It is also possible for a single programmer to do most or all of the computer programming needed to generate the proof of concept to launch a new killer application.
+
+[Computer](675) programmer
+A programmer, computer programmer, or coder is a person who writes computer software. The term computer programmer can refer to a specialist in one area of computer programming or to a generalist who writes code for many kinds of software. One who practices or professes a formal approach to programming may also be known as a programmer analyst. A programmer's primary computer language (C, [C++](640), Java, Lisp, Python, etc.) is often prefixed to the above titles, and those who work in a web environment often prefix their titles with Web. The term programmer can be used to refer to a software developer, software engineer, computer scientist, or software analyst. However, members of these professions typically possess other software engineering skills, beyond programming.
+
+[Computer](675) industry
+The computer industry is made up of businesses involved in developing computer software, designing computer hardware and computer networking infrastructures, manufacturing computer components, and providing information technology services, including system administration and maintenance.
+The software industry includes businesses engaged in development, maintenance, and publication of software. The industry also includes software services, such as training, documentation, and consulting.
+
+Sub-disciplines of computing
+[Computer](675) engineering
+[Computer](675) engineering is a discipline that integrates several fields of electrical engineering and computer science required to develop computer hardware and software. [Computer](675) engineers usually have training in electronic engineering (or electrical engineering), software design, and hardware-software integration, rather than just software engineering or electronic engineering. [Computer](675) engineers are involved in many hardware and software aspects of computing, from the design of individual microprocessors, personal computers, and supercomputers, to circuit design. This field of engineering includes not only the design of hardware within its own domain, but also the interactions between hardware and the context in which it operates.
+
+Software engineering
+Software engineering is the application of a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software, and the study of these approaches. That is, the application of engineering to software. It is the act of using insights to conceive, model and scale a solution to a problem. The first reference to the term is the 1968 NATO Software Engineering Conference, and was intended to provoke thought regarding the perceived software crisis at the time. Software development, a widely used and more generic term, does not necessarily subsume the engineering paradigm. The generally accepted concepts of Software Engineering as an engineering discipline have been specified in the Guide to the Software Engineering Body of Knowledge (SWEBOK). The SWEBOK has become an internationally accepted standard in ISO/IEC TR 19759:2015.
+
+[Computer](675) science
+[Computer](675) science or computing science (abbreviated CS or Comp Sci) is the scientific and practical approach to computation and its applications. A computer scientist specializes in the theory of computation and the design of computational systems.
+Its subfields can be divided into practical techniques for its implementation and application in computer systems, and purely theoretical areas. Some, such as computational complexity theory, which studies fundamental properties of computational problems, are highly abstract, while others, such as computer graphics, emphasize real-world applications. Others focus on the challenges in implementing computations. For example, programming language theory studies approaches to the description of computations, while the study of computer programming investigates the use of programming languages and complex systems. The field of human–computer interaction focuses on the challenges in making computers and computations useful, usable, and universally accessible to humans.
+
+Cybersecurity
+The field of cybersecurity pertains to the protection of computer systems and networks. This includes information and data privacy, preventing disruption of IT services and prevention of theft of and damage to hardware, software, and data.
+
+Data science
+Data science is a field that uses scientific and computing tools to extract information and insights from data, driven by the increasing volume and availability of data. Data mining, big data, statistics, machine learning and deep learning are all interwoven with data science.
+
+Information systems
+Information systems (IS) is the study of complementary networks of hardware and software (see information technology) that people and organizations use to collect, filter, process, create, and distribute data. The ACM's Computing Careers describes IS as:
+
+"A majority of IS degree programs are located in business schools; however, they may have different names such as management information systems, computer information systems, or business information systems. All IS degrees combine business and computing topics, but the emphasis between technical and organizational issues varies among programs. For example, programs differ substantially in the amount of programming required."
+
+The study of IS bridges business and computer science, using the theoretical foundations of information and computation to study various business models and related algorithmic processes within a computer science discipline.  The field of [Computer](675) Information Systems (CIS) studies computers and algorithmic processes, including their principles, their software and hardware designs, their applications, and their impact on society while IS emphasizes functionality over design.
+
+Information technology
+Information technology (IT) is the application of computers and telecommunications equipment to store, retrieve, transmit, and manipulate data, often in the context of a business or other enterprise. The term is commonly used as a synonym for computers and computer networks, but also encompasses other information distribution technologies such as television and telephones. Several industries are associated with information technology, including computer hardware, software, electronics, semiconductors, internet, telecom equipment, e-commerce, and computer services.
+
+Research and emerging technologies
+DNA-based computing and quantum computing are areas of active research for both computing hardware and software, such as the development of quantum algorithms. Potential infrastructure for future technologies includes DNA origami on photolithography and quantum antennae for transferring information between ion traps. By 2011, researchers had entangled 14 qubits. Fast digital circuits, including those based on Josephson junctions and rapid single flux quantum technology, are becoming more nearly realizable with the discovery of nanoscale superconductors.
+Fiber-optic and photonic (optical) devices, which already have been used to transport data over long distances, are starting to be used by data centers, along with CPU and semiconductor memory components. This allows the separation of RAM from CPU by optical interconnects. IBM has created an integrated circuit with both electronic and optical information processing in one chip. This is denoted CMOS-integrated nanophotonics (CINP). One benefit of optical interconnects is that motherboards, which formerly required a certain kind of system on a chip (SoC), can now move formerly dedicated memory and network controllers off the motherboards, spreading the controllers out onto the rack. This allows standardization of backplane interconnects and motherboards for multiple types of SoCs, which allows more timely upgrades of CPUs.
+Another field of research is spintronics. Spintronics can provide computing power and storage, without heat buildup. Some research is being done on hybrid chips, which combine photonics and spintronics. There is also research ongoing on combining plasmonics, photonics, and electronics.
+
+Cloud computing
+Cloud computing is a model that allows for the use of computing resources, such as servers or applications, without the need for interaction between the owner of these resources and the end user. It is typically offered as a service, making it an example of Software as a Service, Platforms as a Service, and Infrastructure as a Service, depending on the functionality offered. Key characteristics include on-demand access, broad network access, and the capability of rapid scaling. It allows individual users or small business to benefit from economies of scale.
+One area of interest in this field is its potential to support energy efficiency. Allowing thousands of instances of computation to occur on one single machine instead of thousands of individual machines could help save energy. It could also ease the transition to renewable energy source, since it would suffice to power one server farm with renewable energy, rather than millions of homes and offices.
+However, this centralized computing model poses several challenges, especially in security and privacy. Current legislation does not sufficiently protect users from companies mishandling their data on company servers. This suggests potential for further legislative regulations on cloud computing and tech companies.
+
+Quantum computing
+Quantum computing is an area of research that brings together the disciplines of computer science, information theory, and quantum physics. While the idea of information as part of physics is relatively new, there appears to be a strong tie between information theory and quantum mechanics. Whereas traditional computing operates on a binary system of ones and zeros, quantum computing uses qubits. Qubits are capable of being in a superposition, i.e. in both states of one and zero, simultaneously. Thus, the value of the qubit is not between 1 and 0, but changes depending on when it is measured. This trait of qubits is known as quantum entanglement, and is the core idea of quantum computing that allows quantum computers to do large scale computations. Quantum computing is often used for scientific research in cases where traditional computers do not have the computing power to do the necessary calculations, such in molecular modeling. Large molecules and their reactions are far too complex for traditional computers to calculate, but the computational power of quantum computers could provide a tool to perform such calculations.
+
+See also
+[Artificial intelligence](622)
+Computational science
+Computational thinking
+[Computer](675) algebra
+Confidential computing
+Creative computing
+Data-centric computing
+Electronic data processing
+Enthusiast computing
+Index of history of computing articles
+Instruction set architecture
+Lehmer sieve
+Liquid computing
+List of computer term etymologies
+Mobile computing
+Outline of computers
+Outline of computing
+Scientific computing
+Spatial computing
+Ubiquitous computing
+Unconventional computing
+Urban computing
+Virtual reality
+
+References
+External links
+
+https://www.siddashi.com/FOLDOC: the Free On-Line Dictionary Of Computing

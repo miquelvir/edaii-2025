@@ -1,0 +1,50 @@
+45
+Acorn worm
+The acorn worms or Enteropneusta are a hemichordate class of invertebrates consisting of one order of the same name. The closest non-hemichordate relatives of the Enteropneusta are the echinoderms. There are 111 known species of acorn worm in the world, the main species for research being Saccoglossus kowalevskii. Two families—Harrimaniidae and Ptychoderidae—separated at least 370 million years ago.
+Until recently, it was thought that all species lived in the sediment on the seabed, subsisting as deposit feeders or suspension feeders. However, the early 21st century has seen the description of a new family, the Torquaratoridae, evidently limited to the deep sea, in which most of the species crawl on the surface of the ocean bottom and alternatively rise into the water column, evidently to drift to new foraging sites. It is assumed that the ancestors of acorn worms used to live in tubes like their relatives Pterobranchia, but that they eventually started to live a safer and more sheltered existence in sediment burrows instead. The body length normally range from 2 centimetres (0.79 in) to 2.5 metres (8 ft 2 in) (Balanoglossus gigas), but one species, Meioglossus psammophilus, only reach 0.6 millimetres (0.024 in). Due to secretions containing elements like iodine, the animals have an iodoform-like smell.
+
+Anatomy
+Most acorn worms range from 9 to 45 centimetres (3.5 to 17.7 in) in length, with the largest species, Balanoglossus gigas, reaching 1.5 metres (5 ft) or more. The body is made up of three main parts: an acorn-shaped proboscis, a short fleshy collar that lies behind it, and a long, worm-like trunk. The creature's mouth is located at the collar behind the proboscis.
+The skin is covered with cilia as well as glands that secrete mucus. Some produce a bromide compound that gives them a medicinal smell and might protect them from bacteria and predators. Acorn worms move only sluggishly, using ciliary action and peristalsis of the proboscis.
+
+Digestive system
+Many acorn worms are detritus feeders, eating sand or mud and extracting organic detritus. Others feed on organic material suspended in the water, which they can draw into the mouth using the cilia on the gill bars. Research indicates that the rate of feeding of acorn worms that are detritus feeders is dependent on food availability and flow rate. A groove lined with cilia lies just in front of the mouth and directs suspended food into the mouth and may allow the animal to taste.
+The mouth cavity is tubular, with a narrow diverticulum or stomochord extending up into the proboscis. This diverticulum was once thought to be homologous with the notochord of chordates, hence the name "hemichordate" for the phylum. The mouth opens posteriorly into a pharynx with a row of gill slits along either side. The remainder of the digestive system consists of an oesophagus and intestine; there is no stomach.
+In some families there are openings in the dorsal surface of the oesophagus connecting to the external surface, through which water from the food can be squeezed, helping to concentrate it. Digestion occurs in the intestine, with food material being pulled through by cilia, rather than by muscular action.
+Acorn worms breathe by drawing in oxygenated water through their mouth. The water then flows out the animal's gills which are on its trunk. Thus, the acorn worm breathes about the same way as fish.
+
+Circulatory system
+Acorn worms have an open circulatory system, in which the blood flows through the tissues sinuses. A dorsal blood vessel in the mesentery above the gut delivers blood to a sinus in the proboscis that contains a muscular sac acting as a heart. Unlike the hearts of most other animals, however, this structure is a closed fluid-filled vesicle whose interior does not connect directly to the blood system. Nonetheless, it does regularly pulsate, helping to push blood through the surrounding sinuses.
+From the central sinus in the collar, blood flows to a complex series of sinuses and peritoneal folds in the proboscis. This set of structures is referred to as a glomerulus and may have an excretory function, since acorn worms otherwise have no defined excretory system. From the proboscis, blood flows into a single blood vessel running underneath the digestive tract, from which smaller sinuses supply blood to the trunk, and back into the dorsal vessel.
+The blood of acorn worms is colourless and acellular.
+
+Respiratory system
+Acorn worms continually form new gill slits as they grow in size, with some older individuals of species like Balanoglossus aurantiacus having more than a hundred on each side. The microscopic species Meioglossus psammophilus has just a single gill slit. The gills in some acorn worms have cartilaginous support structures. Each slit consists of a branchial chamber opening to the pharynx through a U-shaped cleft and to the exterior through a dorso-lateral pore (see diagram below). Cilia push water through the slits, maintaining a constant flow. The tissues surrounding the slits are well supplied with blood sinuses.
+
+Nervous system
+A plexus of nerves lies underneath the skin, and is concentrated into both dorsal and ventral nerve cords. While the ventral cord runs only as far as the collar, the dorsal cord reaches into the proboscis, and is partially separated from the epidermis in that region. This part of the dorsal nerve cord is often hollow, and may well be homologous with the brain of vertebrates. In acorn worms, it seems to be primarily involved with coordinating muscular action of the body during burrowing and crawling.
+Acorn worms have no eyes, ears or other special sense organs, except for the ciliary organ in front of the mouth, which appears to be involved in filter feeding and perhaps taste (3). There are, however, numerous nerve endings throughout the skin.
+
+Skeletal system
+Acorn worms have a Y-shaped nuchal skeleton that starts their proboscis and collar on their ventral side. The length of the horns of the nuchal skeleton varies between species.
+
+Similarities to chordates
+Acorn worms have a circulatory system with a heart that also functions as a kidney. Acorn worms have  gill-like structures that they use for breathing, similar to the gills of primitive fish. Therefore, acorn worms are sometimes said to be a link between classical invertebrates and vertebrates. Some also have a postanal tail which may be homologous to the post-anal tail of vertebrates. An interesting trait is that its three-section body plan is no longer present in the vertebrates, except for the anatomy of the frontal neural tube, later developed into a brain which is divided into three main parts. This means some of the original anatomy of the early chordate ancestors is still present even if it is not always visible.
+One theory is that the three-part body originates from an early common ancestor of all the deuterostomes, and maybe even from a common bilateral ancestor of both the deuterostomes and protostomes. Studies have shown that the gene expression in the embryo share three of the same signaling centers that shape the brains of all vertebrates, but instead of taking part in the formation of their neural system, they are controlling the development of the different body regions.
+
+Phylogeny
+The internal relationships within the Enteropneusta are shown below. The tree is based on 16S +18S rRNA sequence data and phylogenomic studies from multiple sources.
+
+Lifestyle
+Acorn worms are rarely seen by humans because of their lifestyle. They live in U-shaped burrows on the sea-bed, from the shoreline down to a depth of 10,000 ft. (3,050 m). The worms lie there with the proboscis sticking out of one opening in the burrow. Acorn worms are generally slow burrowers.
+To obtain food, many acorn worms swallow sand or mud that contains organic matter and microorganisms in the manner of earthworms (this is known as deposit feeding). At low tide, they stick out their rear ends at the surface and excrete coils of processed sediments (casts).
+Another method that some acorn worms use to obtain food is to collect suspended particles of organic matter and microbes from the water. This is known as suspension feeding.
+
+Reproduction
+Acorn worms are dioecious, having separate biological sexes, although at least some species are also capable of asexual reproduction in the form of fragmentation. They have paired gonads, which lie close to the pharynx and release the gametes through a small pore near to the gill slits. The female lays a large number of eggs embedded in a gelatinous mass of mucus, which are then externally fertilized by the male before water currents break up the mass and disperse the individual eggs.
+
+In most species, the eggs hatch into planktonic larvae with elongated bodies covered in cilia. In some species, these develop directly into adults, but in others, there is a free-swimming intermediate stage referred to as a tornaria larva. These are very similar in appearance to the bipinnaria larvae of starfishes, with convoluted bands of cilia running around the body. Since the embryonic development of the blastula within the egg is also very similar to that of echinoderms, this suggests a close phylogenetic link between the two groups.
+After a number of days or weeks, a groove begins to form around the larval midsection, with the anterior portion eventually destined to become the proboscis, while the remainder forms the collar and trunk. The larvae eventually settle down and change into tiny adults to take on the burrowing lifestyle. A few species, such as Saccoglossus kowalevskii, lack even the planktonic larval stage, hatching directly as miniature adults.
+
+
+== References ==

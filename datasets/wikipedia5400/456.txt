@@ -1,0 +1,32 @@
+456
+Archaeal Richmond Mine acidophilic nanoorganisms
+[Archaea](455)l Richmond Mine acidophilic nanoorganisms (ARMAN) were first discovered in an extremely acidic mine located in northern California (Richmond Mine at Iron Mountain) by Brett Baker in Jill Banfield's laboratory at the University of California Berkeley.  These novel groups of archaea named ARMAN-1, ARMAN-2 (Candidatus Micrarchaeum acidiphilum ARMAN-2), and ARMAN-3 were missed by previous PCR-based surveys of the mine community because the ARMANs have several mismatches with commonly used PCR primers for 16S rRNA genes.  Baker et al. detected them in a later study using shotgun sequencing of the community.  The three groups were originally thought to represent three unique lineages deeply branched within the Euryarchaeota, a subgroup of the [Archaea](455). However, based on a more complete archaeal genomic tree, they were assigned to a new superphylum named DPANN. The ARMAN groups now comprise deeply divergent phyla named Micrarchaeota and Parvarchaeota. Their 16S rRNA genes differ by as much as 17% between the three groups.  Prior to their discovery, all of the [Archaea](455) shown to be associated with Iron Mountain belonged to the order Thermoplasmatales (e.g., Ferroplasma acidarmanus).
+
+Distribution
+Examination of different sites in the mine using fluorescent probes specific to the ARMAN groups has revealed that they are always present in communities associated with acid mine drainage (AMD), at Iron Mountain in northern California, that have pH < 1.5.  They are usually found in low abundance (5–25%) in the community. Recently, closely related organisms have been detected in an acidic boreal mire or bog in Finland, another acid mine drainage site in extreme environments of Rio Tinto, southwestern Spain, at a weak-alkaline deep subsurface hot spring in Yunohama, Japan and in a pyrite mine in the Harz Mountains in Germany
+
+Cell structure and ecology
+Using cryo-electron tomography, a 3D characterization of uncultivated ARMAN cells within mine biofilms revealed that they are right at the cell size predicted to be the lower limit for life, 0.009 μm3 and 0.04 μm3.  Despite their unusually small cell size it is common to find more than one type of virus attached to the cells while in the biofilms. Furthermore, the cells contain on average ≈92 ribosomes per cell, whereas the average E. coli cell grown in culture contains ≈10,000 ribosomes.  This suggests that for ARMAN cells a much more limited number of metabolites are present in a given cell.  It raises questions about what the minimal requirements are for a living cell.
+3D reconstructions of ARMAN cells in the environment has revealed that a small number of them attach to other [Archaea](455) of the order Thermoplasmatales (Baker et al. 2010 ). The Thermoplasmatales cells appear to penetrate the cell wall to the cytoplasm of the ARMAN cells. The nature of this interaction hasn't been determined. It could be some sort of parasitic or symbiotic interaction. It is possible that ARMAN is getting some sort of metabolite that it is not able to produce on its own.
+
+Genomics and proteomics
+The genomes of three ARMAN groups were sequenced at the DOE Joint Genome Institute during a 2006 Community Sequencing Program. These three genomes were successfully binned from the community genomic data using ESOM or Emergent Self-Organizing Map clustering of tetranucleotide DNA signatures.
+The first draft of Candidatus Micrarchaeum acidiphilum ARMAN-2 is ≈1 Mb.  The ARMAN-2 has recently been closed using 454 and Solexa sequencing of other biofilms to close the gaps and is being prepared for submission to NCBI.  The genomes of ARMAN-4 and ARMAN-5 (roughly 1 Mb as well) have unusually small average gene lengths, similar to those seen in endosymbiotic and parasitic bacteria. This may be signature of their interspecies interactions with other [Archaea](455) in nature. Furthermore, the branching of these groups near the Euryarchaea/Crenarchaea divide is reflected in them sharing many genetic aspects of both Crenarchaea and Euryarchaea.  Specifically they have many genes that had previously only been identified in Crenarchaea. It is difficult to elucidate many of the commonly known metabolic pathways in ARMAN due to the unusually high number of unique genes that have been identified in their genomes.
+A novel type of tRNA splicing endonuclease, involved in the processing of tRNA, has been discovered in ARMAN groups 1 and 2. The enzyme consists of two duplicated catalytic units and one structural unit encoded on a single gene, representing a novel three-unit architecture.
+
+References
+NCBI CoreNucleotide ARMAN-1
+NCBI CoreNucleotide ARMAN-2
+NCBI Candidatus Micrarchaeum acidiphilum ARMAN-2 genome
+NCBI Candidatus Parvarchaeum acidiphilum ARMAN-4 genome
+NCBI Candidatus Parvarchaeum acidophilus ARMAN-5 genome
+1
+
+External links
+ASM Small Things Considered blog article
+JGI Community Sequencing Program
+2006 University of California Berkeley Press Release
+Dr. Luis Comolli's home page with several images of ARMAN cells
+2010 Univ. of California Berkeley press release Archived 2010-05-27 at the Wayback Machine
+2010 USA Today article about ARMAN
+2010 MSNBC article about ARMAN

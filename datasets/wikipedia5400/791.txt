@@ -1,0 +1,53 @@
+791
+CiteSeerX
+CiteSeerX (formerly called CiteSeer) is a public search engine and digital library for scientific and academic papers, primarily in the fields of computer and information science.
+CiteSeer's goal is to improve the dissemination and access of academic and scientific literature. As a non-profit service that can be freely used by anyone, it has been considered part of the open access movement that is attempting to change academic and scientific publishing to allow greater access to scientific literature. CiteSeer freely provided Open Archives Initiative metadata of all indexed documents and links indexed documents when possible to other sources of metadata such as DBLP and the ACM Portal. To promote open data, CiteSeerX shares its data for non-commercial purposes under a Creative Commons license.
+CiteSeer is considered a predecessor of academic search tools such as Google Scholar and Microsoft Academic Search. CiteSeer-like engines and archives usually only harvest documents from publicly available websites and do not crawl publisher websites. For this reason, authors whose documents are freely available are more likely to be represented in the index.
+CiteSeer changed its name to ResearchIndex at one point and then changed it back.
+
+History
+CiteSeer and CiteSeer.IST
+CiteSeer was created by researchers Lee Giles, Kurt Bollacker and Steve Lawrence in 1997 while they were at the NEC Research Institute (now NEC Labs), Princeton, New Jersey, US. CiteSeer's goal was to actively crawl and harvest academic and scientific documents on the web and use autonomous citation indexing to permit querying by citation or by document, ranking them by citation impact. At one point, it was called ResearchIndex.
+CiteSeer became public in 1998 and had many new features unavailable in academic search engines at that time. These included:
+
+Autonomous Citation Indexing automatically created a citation index that can be used for literature search and evaluation.
+Citation statistics and related documents were computed for all articles cited in the database, not just the indexed articles.
+Reference linking, allowing browsing of the database using citation links.
+Citation context showed the context of citations to a given paper, allowing a researcher to quickly and easily see what other researchers have to say about an article of interest.
+Related documents were shown using citation and word based measures, and an active and continuously updated bibliography is shown for each document.
+CiteSeer was granted a United States patent # 6289342, titled "Autonomous citation indexing and literature browsing using citation context", on September 11, 2001. The patent was filed on May 20, 1998, and has priority to January 5, 1998. A continuation patent (US Patent # 6738780) was filed on May 16, 2001, and granted on May 18, 2004.
+After NEC, in 2004 it was hosted as CiteSeer.IST on the World Wide Web at the College of Information Sciences and Technology, The Pennsylvania State University, and had over 700,000 documents. For enhanced access, performance and research, similar versions of CiteSeer were supported at universities such as the Massachusetts Institute of Technology, University of Zürich and the National University of Singapore. However, these versions of CiteSeer proved difficult to maintain and are no longer available. Because CiteSeer only indexes freely available papers on the web and does not have access to publisher metadata, it returns fewer citation counts than sites, such as Google Scholar, that have publisher metadata.
+CiteSeer had not been comprehensively updated since 2005 due to limitations in its architecture design. It had a representative sampling of research documents in computer and information science but was limited in coverage because it was limited to papers that are publicly available, usually at an author's homepage, or those submitted by an author. To overcome some of these limitations, a modular and open source architecture for CiteSeer was designed – CiteSeerX.
+
+CiteSeerX
+CiteSeerX replaced CiteSeer and all queries to CiteSeer were redirected. CiteSeerX is a public search engine and digital library and repository for scientific and academic papers, primarily with a focus on computer and information science. However, recently CiteSeerX has been expanding into other scholarly domains such as economics, physics and others. Released in 2008, it was loosely based on the previous CiteSeer search engine and digital library and is built with a new open source infrastructure, SeerSuite, and new algorithms and their implementations. It was developed by researchers Isaac Councill and C. Lee Giles at the College of Information Sciences and Technology, Pennsylvania State University. It continues to support the goals outlined by CiteSeer to actively crawl and harvest academic and scientific documents on the public web and to use a citation inquiry by citations and ranking of documents by the impact of citations. Currently, Lee Giles, Prasenjit Mitra, Susan Gauch, Min-Yen Kan, Pradeep Teregowda, Juan Pablo Fernández Ramírez, Pucktada Treeratpituk, Jian Wu, Douglas Jordan, Steve Carman, Jack Carroll, Jim Jansen, and Shuyi Zheng are or have been actively involved in its development. Recently, a table search feature was introduced. It has been funded by the National Science Foundation, NASA, and Microsoft Research.
+CiteSeerX continues to be rated as one of the world's top repositories, and was rated number 1 in July 2010. It currently has over 6 million documents with nearly 6 million unique authors and 120 million citations.
+CiteSeerX also shares its software, data, databases and metadata with other researchers, currently by Amazon S3 and by rsync. Its new modular open source architecture and software (available previously on SourceForge but now on GitHub) is built on Apache Solr and other Apache and open source tools, which allows it to be a testbed for new algorithms in document harvesting, ranking, indexing, and information extraction.
+CiteSeerX caches some PDF files that it has scanned.  As such, each page includes a DMCA link which can be used to report copyright violations.
+
+Current features
+Automated information extraction
+CiteSeerX uses automated information extraction tools, usually built on machine learning methods such ParsCit, to extract scholarly document metadata such as title, authors, abstract, citations, etc. As such, there are sometime errors in authors and titles. Other academic search engines have similar errors.
+
+Focused crawling
+CiteSeerX crawls publicly available scholarly documents primarily from author webpages and other open resources, and does not have access to publisher metadata. As such, citation counts in CiteSeerX are usually less than those in Google Scholar and Microsoft Academic Search who have access to publisher metadata.
+
+Usage
+CiteSeerX has nearly one million users worldwide based on unique IP addresses and has millions of hits daily. Annual downloads of document PDFs were nearly 200 million for 2015.
+
+Data
+CiteSeerX data is regularly shared under a Creative Commons BY-NC-SA license with researchers worldwide and has been and is used in many experiments and competitions.
+Thanks to its OAI-PMH endpoint, CiteSeerX is an open archive and its content is indexed like an institutional repository in academic search engines, for instance BASE and Unpaywall consumers.
+
+Other SeerSuite-based search engines
+The CiteSeer model had been extended to cover academic documents in business with SmealSearch and in e-business with eBizSearch.  However, these were not maintained by their sponsors. An older version of both of these could be once found at BizSeer.IST but is no longer in service.
+Other Seer-like search and repository systems have been built for chemistry, ChemXSeer and for archaeology, ArchSeer. Another had been built for robots.txt file search, BotSeer. All of these are built on the open source tool SeerSuite, which uses the open source indexer Lucene.
+
+See also
+References
+Further reading
+Giles, C. Lee; Bollacker, Kurt D.; Lawrence, Steve (1998). "CiteSeer: an automatic citation indexing system". Proceedings of the Third ACM Conference on Digital Libraries. pp. 89–98. CiteSeerX 10.1.1.30.6847. doi:10.1145/276675.276685. ISBN 978-0-89791-965-4. S2CID 514080.
+
+External links
+
+Official website

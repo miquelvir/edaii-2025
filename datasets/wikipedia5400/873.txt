@@ -1,0 +1,57 @@
+873
+C mathematical functions
+C mathematical operations are a group of functions in the standard library of the [C programming language](875)  implementing basic mathematical functions. All functions use floating-point numbers in one manner or another. Different C standards provide different, albeit backwards-compatible, sets of functions. Most of these functions are also available in the [C++](640) standard library, though in different headers (the C headers are included as well, but only as a deprecated compatibility feature).
+
+Overview of functions
+Most of the mathematical functions are defined in <math.h> (<cmath> header in [C++](640)). The functions that operate on integers, such as abs, labs, div, and ldiv, are instead defined in the <stdlib.h> header (<cstdlib> header in [C++](640)).
+Any functions that operate on angles use radians as the unit of angle.
+Not all of these functions are available in the C89 version of the standard. For those that are, the functions accept only type double for the floating-point arguments, leading to expensive type conversions in code that otherwise used single-precision float values. In [C99](772), this shortcoming was fixed by introducing new sets of functions that work on float and long double arguments. Those functions are identified by f and l suffixes respectively.
+
+Floating-point environment
+[C99](772) adds several functions and types for fine-grained control of floating-point environment. These functions can be used to control a variety of settings that affect floating-point computations, for example, the rounding mode, on what conditions exceptions occur, when numbers are flushed to zero, etc. The floating-point environment functions and types are defined in <fenv.h> header (<cfenv> in [C++](640)).
+
+Complex numbers
+[C99](772) adds a new _Complex keyword (and complex convenience macro; only available if the <complex.h> header is included) that provides support for complex numbers. Any floating-point type can be modified with complex, and is then defined as a pair of floating-point numbers. Note that [C99](772) and [C++](640) do not implement complex numbers in a code-compatible way – the latter instead provides the class std::complex.
+All operations on complex numbers are defined in the <complex.h> header. As with the real-valued functions, an f or l suffix denotes the float complex or long double complex variant of the function.
+
+A few more complex functions are "reserved for future use in [C99](772)". Implementations are provided by open-source projects that are not part of the standard library.
+
+Type-generic functions
+The header <tgmath.h> defines a type-generic macro for each mathematical function defined in <math.h> and <complex.h>. This adds a limited support for function overloading of the mathematical functions: the same function name can be used with different types of parameters; the actual function will be selected  at compile time according to the types of the parameters.
+Each type-generic macro that corresponds to a function that is defined for both real and complex numbers encapsulates a total of 6 different functions: float, double and long double, and their complex variants. The type-generic macros that correspond to a function that is defined for only real numbers encapsulates a total of 3 different functions: float, double and long double variants of the function.
+The [C++](640) language includes native support for function overloading and thus does not provide the <tgmath.h> header even as a compatibility feature.
+
+Random-number generation
+The header <stdlib.h> (<cstdlib> in [C++](640)) defines several functions that can be used for statistically random number generation.
+
+The arc4random family of random number functions are not defined in POSIX standard, but is found in some common libc implementations. It used to refer to the keystream generator of a leaked version of RC4 cipher (hence "alleged RC4"), but different algorithms, usually from other ciphers like ChaCha20, have been implemented since using the same name.
+The quality of randomness from rand are usually too weak to be even considered statistically random, and it requires explicit seeding. It is usually advised to use arc4random instead of rand when possible. Some C libraries implement rand using arc4random_uniform internally.
+
+Implementations
+Under POSIX systems like Linux and BSD, the mathematical functions (as declared in <math.h>) are bundled separately in the mathematical library libm. Therefore, if any of those functions are used, the linker must be given the directive -lm. There are various libm implementations, including:
+
+GNU libc's libm
+AMD's libm, github, used almost as is by Windows
+Intel [C++](640) Compiler libm
+Red Hat's libm (Newlib)
+Sun's FDLIBM, which was used as the basis for FreeBSD's msun and OpenBSD's libm, both of which in turn were the basis of Julia's OpenLibm
+musl's libm, based on the BSD libms and other projects like Arm
+LLVM's libm, which is correctly rounded (i.e. errors from the mathematically correct result are lower than 0.5 unit in the last place)
+Arénaire project's CRlibm (correctly rounded libm), and its successor MetaLibm, which uses Remez algorithm to automatically generate approximations that are formally proven.
+Rutger's RLIBM, which provides correctly rounded functions in single precision.
+
+Implementations not necessarily under a name of libm include:
+
+Arm's optimized math routines
+GCE-Math  is a version of C/[C++](640) math functions written for [C++](640) constexpr (compile-time calculation)
+CORE-MATH, correctly rounded for single and double precision.
+SIMD (vectorized) math libraries include SLEEF, Yeppp!, and Agner Fog's VCL, plus a few closed-source ones like SVML and DirectXMath.
+
+See also
+[C99](772) floating-point support
+
+References
+External links
+
+math.h: mathematical declarations – Base Definitions Reference, The Single UNIX Specification, Version 4 from The Open Group
+C reference for math functions

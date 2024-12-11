@@ -1,0 +1,29 @@
+860
+C17 (C standard revision)
+C17, formally ISO/IEC 9899:2018, is an open standard for the C programming language, prepared in 2017 and published in July 2018. It replaced C11 (standard ISO/IEC 9899:2011), and is superseded by C23 (ISO/IEC 9899:2024) since October 2024.  Since it was under development in 2017, and officially published in 2018, C17 is sometimes referred to as C18.
+
+Changes from C11
+C17 fixes numerous minor defects in C11 without introducing new language features.
+The __STDC_VERSION__ macro is increased to the value 201710L.
+For a detailed list of changes from the previous standard, see Clarification Request Summary for C11.
+
+Compiler support
+List of compilers supporting C17:
+
+GCC 8.1.0
+LLVM [Clang](888) 7.0.0
+IAR EWARM v8.40.1
+Microsoft Visual [C++](640) VS 2019 (16.8)
+Pelles C 9.00
+
+See also
+[C++](640)23, [C++](640)20, [C++](640)17, [C++](640)14, [C++](640)11, [C++](640)03, [C++](640)98, versions of the [C++](640) programming language standard
+Compatibility of C and [C++](640)
+
+References
+Further reading
+N2176 (final draft of C17 standard); WG14; 2017.
+ISO/IEC 9899:2018 (official C17 standard); ISO; 2018.
+
+External links
+C Language Working Group 14 (WG14) Documents

@@ -1,0 +1,13 @@
+name: Build validation
+run-name: Running unit tests and checking formatting
+on: [push]
+jobs:
+  Unit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: |
+          chmod +x ./check-format.sh
+          make cf
+      - run: make t

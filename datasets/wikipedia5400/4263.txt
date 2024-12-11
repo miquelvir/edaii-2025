@@ -1,0 +1,72 @@
+4263
+Banat Romanian dialect
+The Banat dialect (subdialectul / graiul bănățean) is one of the dialects of the Romanian language (Daco-Romanian). Its geographic distribution extends over the Romanian Banat and parts of the Serbian Banat, but also in parts of the Timok Valley of Serbia.
+The Banat dialect is a member of the northern grouping of Romanian dialects, along with the Moldavian dialect and the group of Transylvanian varieties. Features of the Banat dialect are found in southern dialects of Romanian: Aromanian, Megleno-Romanian, and Istro-Romanian.
+The Banat dialect has been long classified separately from the Transylvanian varieties, but in early studies such as those by Mozes Gaster these were sometimes grouped together as a single variety. The Banat dialect was considered separately by Heimann Tiktin, Gustav Weigand, Sextil Pușcariu (in his latter studies), Emil Petrovici, Romulus Todoran, Ion Coteanu, Alexandru Philippide, Iorgu Iordan, and others.
+
+Geographic distribution
+The dialect is spoken in southwestern Romania, in the following counties: Caraș-Severin, Timiș, the southern part of Arad, and the southern part of Hunedoara. It is also spoken in the Serbian Banat and in the Timok Valley of Serbia.
+
+Transition areas
+A transition area towards the Wallachian dialect is found in the northwestern of Oltenia, in the counties of Gorj and Mehedinți. Mixtures with the southern and central Transylvanian varieties are found in northeastern parts of Banat, where such a transition area is in the Hațeg Country and another one extends towards southern Crișana.
+
+Particularities
+Phonetic features
+The Banat dialect differs from the others by the following phonetic particularities:
+
+The unstressed mid vowels /e, ə, o/ close to i, ɨ, u, respectively, and open /a/ to ə: pəˈpuk, pliˈkat, ɨŋɡruˈpat for standard papuc, plecat, îngropat.
+Dentals /t, d/ become t͡ʃʲ, d͡ʒʲ, respectively, and consonants /n, l, r/ are palatalized when followed by e, i, e̯a: d͡ʒʲimiˈnʲat͡sə, ˈfrunt͡ʃʲe, ˈbad͡ʒʲe, ˈvinʲe, ˈlʲemnʲe, ˈmarʲe for dimineață, frunte, bade, vine, lemne, mare.
+Affricates /t͡ʃ, d͡ʒ/ become the palatalized fricatives ʃʲ, ʒʲ, respectively: ʃʲas, ˈʃʲinə, ʃʲinʃʲ, ˈfuʒʲe, ˈʒʲinere, ˈsɨnʒʲe for ceas, cină, cinci, fuge, ginere, sânge.
+In some varieties, the diphthong /o̯a/ is realized as wa: ˈswarje, ˈmwart͡ʃʲe for soare, moarte. In other varieties /o̯a/ becomes the monophthong ɔ: ˈkɔʒə, ˈɔlə for coajă, oală.
+The stressed vowel /e/ becomes jɛ when followed by another e in the next syllable: muˈjɛrʲe, ˈfjɛt͡ʃʲe, poˈvjɛstə, ˈvjɛrd͡ʒʲe, ˈpjɛʃt͡ʃʲe for muiere, fete, poveste, verde, pește.
+After labials, /je/ reduces to e: ˈferʲe, ˈmerkurʲ, ˈpelʲe, pept for fiere, miercuri, piele, piept.
+After the fricatives s, z, ʃ, ʒ, affricates t͡s, d͡z, and the sequence st, /e/ becomes ə, /i/ becomes ɨ, and /e̯a/ reduces to a: ˈsarə, səmn, ˈsɨŋɡur, d͡zər, d͡zɨd, pəˈʃɨm, ʃəd, ʒɨr, ʃɨ, koˈʒaskə, ɨnˈt͡sapə, sɨmˈt͡səsk, prəˈʒaskə, povjesˈtəsk, staɡ for seară, semn, singur, zer, zid, pășim, șed, jir, și, cojească, înțeapă, simțesc, prăjească, povestesc, steag.
+Labials remain unchanged when followed by e, i, e̯a: pept, ˈbivol, oˈbe̯alə, fer, ˈvermʲe, ˈmerkurʲ for piept, bivol, obială, fier, vierme, miercuri.
+Etymological /n/ is preserved and palatalized, such as in Latin-origin words where it is followed by e or i in hiatus, words with inflection endings in i, Slavic borrowings with the sequence nj, as well as Hungarian borrowings with nʲ: kunʲ, kəlˈkɨnʲ, kəpəˈtɨnʲ, tu rəˈmɨnʲ, ˈklanʲe, səˈkrinʲ for cui, călcâi, căpătâi, tu rămâi (from Latin cuneus, calcaneum, capitaneum, tu remanēs), claie (from Slavic *klanja, cf. Serbian and Bulgarian kladnja), sicriu (from Hungarian szekrény). This phenomenon is distinct from the simple palatalization of /n/ when followed by a front vowel, which is newer, even though the two phenomena can now appear in very similar contexts: tu ˈspunʲ contains an etymological nʲ, whereas jel ˈspunʲe contains a more recently palatalized n.
+The voiced affricate d͡z is preserved in words believed to be of substrate origin: ˈbrɨnd͡zə, ˈbud͡zə, ɡruˈmad͡zə, mɨnd͡z for brânză, buză, grumaz, mânz. It is also preserved in Latin-origin words that contain a /d/ followed by a long e or i, by an inflectional i or by e or i in hiatus: ˈd͡zəʃʲe, aˈud͡z, ˈfrund͡zə for zece, auzi, frunză (Latin: decem, audīs, frondea).
+The monophthong ɨ: ˈkɨnʲe, ˈmɨnʲe, ˈpɨnʲe is old. In standard Romanian, the palatalization is anticipated, and a metathesis occurs : câine, mâine, pâine are best explained as /ˈkɨnʲe/ > ˈkɨʲne (anticipation of palatalization).
+
+Morphological features
+Feminine nouns ending in -ă tend to form the plural in -i instead of -e: casă – căși ("house(s)", compare with standard casă – case). This may be explained, in the case of nouns with roots ending in a fricative or an affricate, by the fact that the plural ending -e would be realized as -ă (see the phonetic features above), which would produce a homonymy between singular and plural.
+Genitives and datives in nouns are often built analytically: piciorul de la scaun ("the chair's leg", compare with piciorul scaunului), dau apă la cal ("I give water to the horse", compare with dau apă calului).
+The possessive article is invariable: a meu, a mea, a mei, a mele ("mine", compare with standard al meu, a mea, ai mei, ale mele) as in most Romanian dialects.
+The simple perfect of verbs is actively used in all persons and numbers, a feature the Banat dialect shares with the western areas of the Wallachian dialect.
+The auxiliary verb used for the compound perfect in the 3rd person has the forms o and or: o mărs, or mărs ("he went", "they went", compare with standard a mers, au mers).
+The newer extended conjugation does not replace the older forms in the 1st and 4th conjugation groups: el lucră, ea înfloare ("he works", "it blooms", compare with standard el lucrează, ea înflorește, with -izo and -isko suffixes borrowed by Late Latin from Greek).
+In indicative forms of verbs of the 4th conjugation group, homonymy is found between the 1st person singular and the 3rd person plural: eu cobor, ei cobor ("I come down", "they come down", compare with standard eu cobor, ei coboară).
+Periphrasis is used to express the pluperfect: am fost avut, m-am fost dus, o fost mâncat ("I had had", "I had gone", "he had eaten", compare with standard avusesem, mă dusesem, mâncase).
+The negative plural prohibitive (not imperative) continues the Latin imperfect subjunctive: nu fugireț (< lat. ne fugiretis), nu mâncareț ("don't run", don't eat", compare with standard nu fugiți, nu mâncați).
+The auxiliary fi used in the past subjunctive is variable: eu să fiu mâncat, tu să fii mâncat, el să fie mâncat ("that I / you / he ate", compare with standard eu să fi mâncat, tu să fi mâncat, el să fi mâncat).
+In some areas, the auxiliary verb used to construct the conditional is a vrea: eu vreaș face, tu vreai face, el vrea face ("I / you / he would do", compare with standard eu aș face, tu ai face, el ar face). Sometimes the v of the auxiliary is dropped: reaș, etc.
+In south-western areas, under the Serbian influence, signs of a verbal aspect are found, relying on the use of prefixes: a dogăta ("to finish completely", from a găta), a zăuita ("to forget completely", from a uita), a se proînsura ("to marry again", from a se însura).
+
+Lexical particularities
+The demonstrative articles are: ăl, a, ăi, ale ˈalʲe (standard cel, cea, cei, cele).
+Specific indefinite pronouns and adjectives are found: ˈaltəʃʲe ("something", standard ceva), məˈkar ˈʃʲnʲe ("anyone", standard oricine), tot natul ("each one", fiecare).
+Other specific words: șcătulă ("box", standard cutie), șnaidăr ("tailor", croitor), ai ("garlic", usturoi), farbă ("dye", vopsea), golumb ("pigeon", porumbel), cozeci ("measles", pojar), etc.
+
+Sample
+Banat dialect: ɨntɨmˈplare̯a o fost aˈʃa ‖ lã luˈvat d͡ʒʲe lant͡s ‖ jel mo pus ˈkapũ spiˈnare ʃo pleˈkat ku ˈminʲe d͡ʒʲm pəˈrjɛt͡ʃʲem pəˈrʲɛt͡ʃʲe ‖ jam pus ˈmɨnantruŋ kʷorn ˈʃajlaltənˈtralt kʷorn ʃɨ mo trɨnˈt͡ʃʲit ʒos
+Standard Romanian: Întâmplarea a fost așa: l-am luat de lanț. El mi-a pus capu-n spinare și-a plecat cu mine din perete în perete. I-am pus mâna într-un corn și cealaltă într-alt corn și m-a trântit jos.
+English translation: "It happened like this: I took (the bull) by the chain. It pushed its head into my back and drove me from a wall to another. I grabbed its horn with one hand and its other horn with another, and it knocked me down."
+
+Subdivisions
+The Banat dialect is further divided into several areas, based on finer distinctions in linguistic facts:
+
+south-western varieties, with particularities such as:
+/ə/ becomes ɛ: fɛˈkut, pɛˈmɨnt for făcut, pământ;
+/ʷ/ becomes v: luˈvat for luat;
+a verbal aspect appears: am dogătat, am zăuitat, s-a pronsurat (see morphological features above);
+eastern varieties;
+northern varieties, where ɨ becomes more frontal, between ɨ and i, in words like rɨd (in varieties around Lugoj);
+north-eastern varieties, in the Hațeg Country.
+
+See also
+Romanian phonology
+Romanian language in Serbia
+
+Notes
+Bibliography
+Vasile Ursan, "Despre configurația dialectală a dacoromânei actuale", Transilvania (new series), 2008, No. 1, pp. 77–85 (in Romanian)
+Ilona Bădescu, "Dialectologie", teaching material for the University of Craiova (in Romanian)
+Elena Buja, Liliana Coposescu, Gabriela Cusen, Luiza Meseșan Schmitz, Dan Chiribucă, Adriana Neagu, Iulian Pah, Raport de țară: România, country report for the Lifelong Learning Programme MERIDIUM (in Romanian)

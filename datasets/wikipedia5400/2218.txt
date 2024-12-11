@@ -1,0 +1,73 @@
+2218
+Cold shock response
+Cold shock response is a series of neurogenic cardio-respiratory responses caused by sudden immersion in cold water.
+In cold water immersions, such as by falling through thin ice, cold shock response is perhaps the most common cause of death. Also, the abrupt contact with very cold water may cause involuntary inhalation, which, if underwater, can result in fatal drowning.
+Death which occurs in such scenarios is complex to investigate and there are several possible causes and phenomena that can take part. The cold water can cause heart attack due to severe vasoconstriction, where the heart has to work harder to pump the same volume of blood throughout the arteries. For people with pre-existing cardiovascular disease, the additional workload can result in myocardial infarction and/or acute heart failure, which ultimately may lead to a cardiac arrest. A vagal response to an extreme stimulus as this one, may, in very rare cases, render per se a cardiac arrest. [Hypothermia](2254) and extreme stress can both precipitate fatal tachyarrhythmias. A more modern view suggests that an autonomic conflict — sympathetic (due to stress) and parasympathetic (due to the diving reflex) coactivation — may be responsible for some cold water immersion deaths. Gasp reflex and uncontrollable tachypnea can severely increase the risk of water inhalation and drowning.
+Some people are much better prepared to survive sudden exposure to very cold water due to body and mental characteristics and due to conditioning.  In fact, cold water swimming (also known as ice swimming or winter swimming) is a sport and an activity that reportedly can lead to several health benefits when done regularly.
+
+Physiological response
+Cold water immersion syndrome — four-stage model
+The physiological response to a sudden immersion in cold water may be divided in three or four discrete stages, with different risks and physiological changes, all being part of an entity labelled as Cold Water Immersion Syndrome. Although this process is a continuum, the 4 phases were initially described in the 1980s as follows:  
+
+The first stage of cold water immersion syndrome, the cold shock response, includes a group of reflexes lasting under 5 min in laboratory volunteers and initiated by thermoreceptors sensing rapid skin cooling.  Water has a thermal conductivity 25 times and a volume-specific heat capacity over 3000 times that of air; subsequently, surface cooling is precipitous. The primary components of the cold shock reflex include gasping, tachypnea, reduced breath-holding time, and peripheral vasoconstriction, the latter effect highlighting the presumed physiologic principle (i.e., warmth preservation via central blood shunting). The magnitude of the cold shock response parallels the cutaneous cooling rate, and its termination is likely due to reflex baroreceptor responses or thermoreceptor habituation.
+
+Diving reflex
+The diving reflex is a set of physiological responses that occur in response to cold water immersion, particularly when the face or body is exposed to cold water. It is an evolutionary adaptation that helps mammals, including humans, manage the challenges of being submerged in cold water. The diving reflex is more pronounced in aquatic mammals and is thought to have originated as a way to conserve oxygen and enhance the ability to stay underwater for longer periods.
+Key components of the diving reflex include:
+
+Bradycardia: The heart rate decreases significantly when the face is exposed to cold water. This helps to conserve oxygen by slowing down the heartbeat. The degree of bradycardia can vary among individuals, but it is a common and well-documented response.
+Peripheral Vasoconstriction: Blood vessels in the extremities constrict, reducing blood flow to the limbs. This shunting of blood helps to redirect it to essential organs, such as the heart and brain, preserving oxygen for vital functions.
+Apnea: The diving reflex triggers an involuntary breath-holding response (apnea). This allows individuals to hold their breath for longer periods, enhancing their ability to stay submerged without the immediate need to breathe.
+Blood Redistribution: The body redistributes blood flow, prioritizing essential organs and minimizing blood flow to non-essential areas, such as the skin and muscles. This redistribution helps to conserve heat and oxygen.
+While the diving reflex is more pronounced in some mammals, its presence in humans is well-documented, particularly in cold water situations. The reflex is more prominent in infants and young children but can be observed in individuals of all ages.
+
+Cardiac arrhythmias and autonomic conflict
+Early models of cold water immersion syndrome focused primarily on sympathetic responses, however recent research suggests sympathetic and parasympathetic coactivation (leading to a conflict of the autonomic system response) may be  responsible for some cold water immersion deaths. Although reciprocal activation between sympathetic (cold shock) and parasympathetic (diving response) systems is commonly adaptive (follow one another), simultaneous activation appears to be associated with arrythmya. Cold water induced rhythm disturbances are common, albeit frequently asymptomatic. In most humans, head-out cold-water immersion results in sympathetically driven tachycardia with variable disturbances. These cold water immersion induced arrhythmias appear to be accentuated by parasympathetic stimulation resulting from facial submersion or breath holding. Even vagally dominant diving bradycardia caused by isolated cold water facial immersion frequently is interrupted by supraventricular arrhythmias or premature beats. In theory, atrioventricular blockade or sinus arrest due to profound parasympathetic dominance might result in syncope or sudden cardiac death, but these rhythms tend to be rapidly reversed by lung stretch receptor activation associated with breathing. As such, a vagally produced arrest scenario is likelier during entrapment submersion than in flush drowning.
+
+Conditioning against cold shock
+It is possible to undergo physiological conditioning to reduce the cold shock response, and some people are naturally better suited to swimming in very cold water. Beneficial adaptations include the following:
+
+having an insulating layer of body fat covering the limbs and torso;
+ability to experience immersion without involuntary physical shock or mental panic;
+ability to resist shivering;
+ability to raise metabolism (and, in some cases, increase blood temperature slightly above the normal level);
+a generalized delaying of metabolic shutdown (including slipping into unconsciousness) as central and peripheral body temperatures fall.
+
+Benefits and Risks of cold water immersion
+Cold water immersion tactics are often employed by athletes to speed up muscle recovery and reduce inflammation and soreness after intense exercise or after trauma.
+There are several reported benefits from regular ice swimming, namely:
+
+Cardiovascular system: Lowering blood pressure
+Endocrine system: Decrease in triglycerides, Increase in insulin sensitivity, Decrease in norepinephrine, Increase in cortisol
+Psychiatric: Antidepressant effect
+Immune system: Increase in leucocytes, Increase in monocytes, Fewer infections
+Cold water swimming still poses a significant health risk for inexperienced and untrained swimmers. It is recommended that in order to fully benefit from the metabolic and thermogenic effects of cold water swimming, a grade and progressive acclimatization program is required and preferably done under supervisor.
+
+Cold shock response in other organisms
+Cold shock in mammals
+Cold shock has been described in several species and at least part of the physiology is similar, as described above in the Diving Reflex.
+
+Cold shock in bacteria
+A cold shock is when bacteria undergo a significant reduction in temperature, likely due to their environment dropping in temperature. To constitute as a cold shock the temperature reduction needs to be both significant, for example dropping from 37 °C to 20 °C, and it needs to happen over a short period of time, traditionally in under 24 hours. Both prokaryotic and eukaryotic cells are capable of undergoing a cold shock response. The effects of a cold shock in bacteria include:
+
+Decreased cell membrane fluidity
+Decreased enzyme activity
+Decreased efficiency of transcription and translation
+Decreased efficiency of protein folding
+Decreased ribosome function
+The bacteria uses the cytoplasmic membrane, RNA/DNA, and ribosomes as cold sensors in the cell, placing them in charge of monitoring the cell's temperature. Once these sensors send the signal that a cold shock is occurring, the bacteria will pause the majority of protein synthesis in order to redirect its focus to producing what are called cold shock proteins (Csp). The volume of the cold shock proteins produced will depend on the severity of the temperature decrease. The function of these cold shock proteins is to assist the cell in adapting to the sudden temperature change, allowing it to maintain as close to a normal level of function as possible.
+One way cold shock proteins are thought to function is by acting as nucleic acid chaperones. These cold shock proteins will block the formation of secondary structures in the mRNA during the cold shock, leaving the bacteria with only single strand RNA. Single strand is the most efficient form of RNA for the facilitation of transcription and translation. This will help to counteract the decreased efficiency of transcription and translation brought about by the cold shock. Cold shock proteins also affect the formation of hairpin structures in the RNA, blocking them from being formed. The function of these hairpin structures is to slow down or decrease the transcription of RNA. So by removing them, this will also help to increase the efficiency of transcription and translation.
+Once the initial shock of the temperature decrease has been dealt with, the production of cold shock proteins is slowly tapered off. Instead, other proteins are synthesized in their place as the cell continues to grow at this new lower temperature. However, the rate of growth seen by these bacterial cells at colder temperatures is often lower than the rates of growth they exhibit at warmer temperatures.
+
+Transcriptional response of Escherichia coli to cold shock
+Cold shocks cause the repression of several hundreds of genes in the bacterium E. coli. Many of these genes are repressed quickly after the decrease in temperature, while others are only affected several hours after this event. The repression mechanism is described in. Shortly, during cold-shocks, cellular energy levels decrease. This hampers the efficiency by which DNA gyrases remove positive supercoils produced by transcription events, whose accumulation eventually blocks future transcription events.
+Many of the genes repressed during cold shock are involved in cell metabolism. By knowing the mechanism by which these genes respond, one can potentially tune it, in genetically modified bacteria, to modify at which temperature is the response to cold shock activated. This modification could reduce the energy costs of bioreactors.
+
+See also
+Diving reflex – The physiological responses to immersion of air-breathing vertebrates
+[Hypothermia](2254) – Human body core temperature below 35 °C (95 °F)
+Cold water immersion – Respiratory impairment caused by submersion in liquid
+
+References
+Sources
+Introduction to Frozen Mythbusters and Myth #1. Wilderness Medicine Newsletter. Sourced 2008-05-17.

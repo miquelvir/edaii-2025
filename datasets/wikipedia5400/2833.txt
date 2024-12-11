@@ -1,0 +1,17 @@
+2833
+Chrysanthemin
+Chrysanthemin is an anthocyanin. It is the 3-glucoside of cyanidin (kuromanin).
+
+Natural occurrences
+Chrysanthemin can be found in the roselle plant (Hibiscus sabdariffa, Malvaceae), different Japanese angiosperms, Rhaponticum (Asteraceae), The fruits of the smooth arrowwood (Viburnum dentatum, Caprifoliaceae) appear blue. One of the major pigments is cyanidin 3-glucoside, but the total mixture is very complex.
+
+In food
+Chrysanthemin has been detected in blackcurrant pomace, in European elderberry, in red raspberries, in soybean seed coats, in Victoria plum, in peach, lychee and açaí. It is found in red oranges and black rice.
+It is the major anthocyanin in purple corn (Zea mays). Purple corn is approved in Japan and listed in the "Existing Food Additive List" as purple corn color.
+
+Biosynthesis
+The biosynthesis of cyanidin 3-O-glucoside in Escherichia coli was demonstrated by means of genetic engineering.
+In Arabidopsis thaliana, a glycosyltransferase, UGT79B1, is involved in the anthocyanin biosynthetic pathway. UGT79B1 protein converts cyanidin 3-O-glucoside to cyanidin 3-O-xylosyl(1→2)glucoside.
+
+
+== References ==

@@ -1,0 +1,37 @@
+934
+Charm++
+Charm++ is a parallel object-oriented programming paradigm based on [C++](640) and developed in the Parallel Programming Laboratory at the University of Illinois at Urbana–Champaign. Charm++ is designed with the goal of enhancing programmer productivity by providing a high-level abstraction of a parallel program while at the same time delivering good performance on a wide variety of underlying hardware platforms. Programs written in Charm++ are decomposed into a number of cooperating message-driven objects called chares. When a programmer invokes a method on an object, the Charm++ runtime system sends a message to the invoked object, which may reside on the local processor or on a remote processor in a parallel computation. This message triggers the execution of code within the chare to handle the message asynchronously.
+Chares may be organized into indexed collections called chare arrays and messages may be sent to individual chares within a chare array or to the entire chare array simultaneously.
+The chares in a program are mapped to physical processors by an adaptive runtime system. The mapping of chares to processors is transparent to the programmer, and this transparency permits the runtime system to dynamically change the assignment of chares to processors during program execution to support capabilities such as measurement-based load balancing, fault tolerance, automatic checkpointing, and the ability to shrink and expand the set of processors used by a parallel program.
+Applications implemented using Charm++ include NAMD (molecular dynamics) and OpenAtom (quantum chemistry), ChaNGa and SpECTRE (astronomy), EpiSimdemics (epidemiology), Cello/Enzo-E (adaptive mesh refinement), and ROSS (parallel discrete event simulation). All of these applications have scaled up to a hundred thousand cores or more on petascale systems.
+Adaptive MPI (AMPI) is an implementation of the Message Passing Interface standard on top of the Charm++ runtime system and provides the capabilities of Charm++ in a more traditional MPI programming model. AMPI encapsulates each MPI process within a user-level migratable thread that is bound within a Charm++ object. By embedding each thread in a chare, AMPI programs can automatically take advantage of the features of the Charm++ runtime system with little or no changes to the MPI program.
+Charm4py allows writing Charm++ applications in Python, supporting migratable Python objects and asynchronous remote method invocation.
+
+Example
+Here is some Charm++ code for demonstration purposes:
+
+Header file (hello.h)
+
+Charm++ Interface file (hello.ci)
+
+Source file (hello.cpp)
+
+Adaptive MPI (AMPI)
+Adaptive MPI is an implementation of MPI (like MPICH, OpenMPI, MV[API](708)CH, etc.) on top of Charm++'s runtime system. Users can take pre-existing MPI applications, recompile them using AMPI's compiler wrappers, and begin experimenting with process virtualization, dynamic load balancing, and fault tolerance. AMPI implements MPI "ranks" as user-level threads (rather than operating system processes). These threads are fast to context switch between, and so multiple of them can be co-scheduled on the same core based on the availability of messages for them. AMPI ranks, and all the data they own, are also migratable at runtime across the different cores and nodes of a job. This is useful for load balancing and for checkpoint/restart-based fault tolerance schemes. For more information on AMPI, see the manual: http://charm.cs.illinois.edu/manuals/html/ampi/manual.html
+
+Charm4py
+Charm4py
+is a Python parallel computing framework built on top of the Charm++ [C++](640) runtime, which it uses as a shared library. Charm4py simplifies the development of Charm++ applications and streamlines parts of the programming model. For example, there is no need to write interface files (.ci files) or to use SDAG, and there is no requirement to compile programs. Users are still free to accelerate their application-level code with technologies like Numba. Standard ready-to-use binary versions can be installed on Linux, macOS and Windows with pip.
+It is also possible to write hybrid Charm4py and MPI programs. An example of a supported scenario is a Charm4py program using mpi4py libraries for specific parts of the computation.
+
+See also
+NAMD
+ChaNGa
+OpenAtom
+
+References
+External links
+The Parallel Programming Laboratory (PPL) at UIUC
+The Charm++ Programming System
+Charmworks Inc: Commercial Support for Charm++ and Related Tools
+Charm++, AMPI, and Charm4py Forum

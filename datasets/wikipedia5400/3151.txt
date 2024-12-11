@@ -1,0 +1,53 @@
+3151
+Appropriations bill (United States)
+In the United States Congress, an appropriations bill is legislation to appropriate federal funds to specific federal government departments, agencies and programs. The money provides funding for operations, personnel, equipment and activities. Regular appropriations bills are passed annually, with the funding they provide covering one fiscal year. The fiscal year is the accounting period of the federal government, which runs from October 1 to September 30 of the following year. Appropriations bills are under the jurisdiction of the United States House Committee on Appropriations and the United States Senate Committee on Appropriations. Both committees have twelve matching subcommittees, each tasked with working on one of the twelve annual regular appropriations bills.
+There are three types of appropriations bills: regular appropriations bills, continuing resolutions, and supplemental appropriations bills. Regular appropriations bills are the twelve standard bills that cover the funding for the federal government for one fiscal year to be enacted into law by October 1. If Congress has not enacted the regular appropriations bills by that time, it may pass a continuing resolution, which generally continues the pre-existing appropriations at the same levels as the previous fiscal year (or with minor modifications) for a set amount of time. If Congress fails to pass an appropriation bill or a continuing resolution, or if the president vetoes a passed bill, it may result in a government shutdown. The third type of appropriations bills are supplemental appropriations bills, which add additional funding above and beyond what was originally appropriated at the beginning of the fiscal year. Supplemental appropriations bills may be used for areas of sudden need, such as disaster relief.
+Appropriations bills are one part of a larger United States budget and spending process. They are preceded in that process by the president's budget proposal, congressional budget resolutions, and the 302(b) allocation. Article I, section 9, clause 7 of the U.S. Constitution states that "No money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law..." This is what gives Congress the power to make these appropriations. The president, however, still has the power to veto appropriations bills. However, the president does not have line-item veto authority, so they must either sign the entire bill into law or veto it.
+
+Types
+There are three types of appropriations bills: regular appropriations bills, continuing resolutions, and supplemental appropriations bills. In any given fiscal year, all three may be used.
+
+Regular appropriations bills
+Traditionally, regular appropriations bills have provided most of the federal government's annual funding. The text of the bill is divided into "accounts" with some larger agencies having several separate accounts (for things like salaries or research/development) and some smaller agencies just having one. The appropriations bill provides a specified amount of money for each individual account, and can also include conditions or restrictions on the use of the money.
+Agencies cannot move money from one account to another without permission from Congress (or having the president declare a national emergency), which can be found in some appropriations bills. These are known as transfers. Agencies can shift some of the funding around to different activities within the same account, known as reprogramming. The appropriations subcommittees oversee such changes.
+Occasionally Congress packages several of the twelve appropriations bills into one larger bill called an omnibus spending bill or an omnibus appropriation measure. Often the bills are considered separately at the beginning and get combined later because inability to pass bills individually has led to the exigency of a potential government shutdown. Omnibus bills can "veto-proof" items: measures that the president would otherwise veto can be passed by folding them into an omnibus bill, the vetoing of which would be perceived as harmful.
+
+Continuing resolutions
+When a new fiscal year starts on October 1 and Congress has not passed some or all of the regular appropriations bills, Congress may extend their funding and budget authority based on the previous year, with possible minor modifications, using a continuing resolution. If all twelve regular appropriations bills have been passed, a continuing resolution is not necessary.
+Continuing resolutions typically provide funding at a rate or formula based on the previous year's funding. The funding extends until a specific date or regular appropriations bills are passed, whichever comes first. There can be some minor changes to some of the accounts in a continuing resolution.
+
+Supplemental appropriations bills
+Supplemental appropriations bills increase funding for activities that were already funded in previous appropriations bills or they provide new funding for unexpected expenses. For example, both the War in Afghanistan and the Iraq War were funded with a variety of supplemental appropriations. Supplemental appropriations bills also provide funding for recovering from unexpected natural disasters like Hurricane Sandy (the Disaster Relief Appropriations Act, 2013).
+
+Appropriations process
+Traditionally, after a federal budget for the upcoming fiscal year has been passed, the appropriations subcommittees receive information about what the budget sets as their spending ceilings. This is called 302(b) allocations after section 302(b) of the Congressional Budget Act of 1974. That amount is separated into smaller amounts for each of the twelve Subcommittees. The federal budget does not become law and is not signed by the president. Instead, it is a guide for the House and the Senate in making appropriations and tax decisions. 
+However, no budget is required and each chamber has procedures in place for what to do without one. The House and Senate now consider appropriations bills simultaneously, although originally the House went first. The House Committee on Appropriations usually reports the appropriations bills in May and June and the Senate in June. Any differences between appropriations bills passed by the House and the Senate are resolved in the fall.
+
+Appropriations committees
+The United States House Committee on Appropriations and the United States Senate Committee on Appropriations have jurisdiction over appropriations bills. Both committees have twelve matching subcommittees tasked with working on one of the twelve annual regular appropriations bills. Other committees and lawmakers in Congress write legislation creating programs and reauthorizing old ones to continue. This legislation is called an authorization bill. In this legislation, they authorize these programs to exist, and they authorize the expenditure of funds on them, but they cannot actually give them the money. That second step, of granting the money, is done in an appropriations bill. The appropriations committees have power because they can decide whether to fund these programs at the maximum level authorized, a lesser amount, or not at all.
+
+Appropriations Subcommittees
+History
+Between fiscal year 1977 and fiscal year 2012, Congress only passed all twelve regular appropriations bills on time in four years – fiscal years 1977, 1989, 1995, and 1997. Every other fiscal year since 1977 has required at least one continuing resolution. For example, in 2013, Congress failed to agree on any regular appropriations bills prior to the start of fiscal year 2014. An attempt was made to pass the Continuing Appropriations Resolution, 2014 (H.J.Res 59) prior to October 1, but the House and Senate could not agree on its provisions, leading to the United States federal government shutdown of 2013. 
+The federal government resumed operations on October 17, 2013 after the passage of a continuing resolution, the Continuing Appropriations Act, 2014, that provided funding until January 15, 2014. On January 15, 2014, Congress passed another continuing resolution, H.J.Res. 106 Making further continuing appropriations for fiscal year 2014, to provide funding until January 18, 2014. Congress finally passed the Consolidated Appropriations Act, 2014, an omnibus appropriations bill, on January 17, 2014 to provide funding for the remainder of fiscal year 2014.
+
+Timeline of passed legislation
+This is an outline of major appropriations bills which were ultimately passed into law.
+
+See also
+Authorization bill
+Rescission bill
+United States federal budget
+United States Congress
+2024 United States federal budget
+
+External links
+Congress.gov Appropriations Chart (1998–2019)
+House Democrats' Appropriations Committee – Official Page
+House Appropriations Committee Official Page (Republican Controlled in 2014)
+Senate Appropriations Committee Official Page (Democratic Controlled in 2014)
+The Congressional Appropriations Process: An Introduction – research report from the Congressional Research Service
+
+References
+
+ This article incorporates public domain material from websites or documents of the United States Government.

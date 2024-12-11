@@ -1,0 +1,12 @@
+1498
+Donders Centre for Cognitive Neuroimaging
+The Donders Centre for Cognitive Neuroimaging (formerly F.C. Donders Centre for Cognitive Neuroimaging) is one of the four centers which together comprise the Donders Institute. It is located at the campus of the Radboud University Nijmegen and maintains strong ties with the Max Planck Institute for Psycholinguistics. It is named after the Dutch ophthalmologist Franciscus Donders, who was the first scientist to use differences in reaction times to infer differences in cognitive processing.
+Research at the centre is focussed around neuroimaging techniques such as MEG, EEG and fMRI. The centre also has an arrangement with Universität Duisburg-Essen to operate a 7T fMRI facility in Essen, at the Kokerei Zollverein, the site of the former Zollverein Coal Mine Industrial Complex.
+In order to train young talent in the broad field of cognitive neuroscience, the Donders Institute has established the Donders Graduate School for Cognitive Neuroscience, which offers students an educational programme at both the Master's and the PhD level. The school is intended for students in biology, physics, psycholinguistics, behavioral studies and medicine who are strongly motivated to do research in cognitive neuroscience.
+FieldTrip, a MATLAB-based toolbox for the analysis of MEG and EEG data originates at the Donders Centre for Cognitive Neuroimaging.
+
+References
+External resources
+Official website
+FieldTrip
+Donders Graduate School for Cognitive Neuroscience

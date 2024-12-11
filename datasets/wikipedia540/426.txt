@@ -1,0 +1,137 @@
+426
+Adjective
+An adjective (abbreviated adj.) is a word that describes or defines a noun or noun phrase. Its semantic role is to change information given by the noun.
+Traditionally, adjectives are considered one of the main parts of speech of the English language, although historically they were classed together with nouns. Nowadays, certain words that usually had been classified as adjectives, including the, this, my, etc., typically are classed separately, as determiners.
+Examples:
+
+That's a funny idea. (Attributive)
+That idea is funny. (Predicative)
+Tell me something funny. (Postpositive)
+The good, the bad, and the funny. (Substantive)
+Clara Oswald died three times. (Quantitative)
+
+Etymology
+Adjective comes from Latin nōmen adjectīvum, a calque of Ancient Greek: ἐπίθετον ὄνομα (surname), romanized: epítheton ónoma, lit. 'additional noun' (whence also English epithet). In the grammatical tradition of Latin and Greek, because adjectives were inflected for gender, number, and case like nouns (a process called declension), they were considered a type of noun. The words that are today typically called nouns were then called substantive nouns (nōmen substantīvum). The terms noun substantive and noun adjective were formerly used in English but are now obsolete.
+
+Types of use
+Depending on the language, an adjective can precede a corresponding noun on a prepositive basis or it can follow a corresponding noun on a postpositive basis. Structural, contextual, and style considerations can impinge on the pre-or post-position of an adjective in a given instance of its occurrence. In English, occurrences of adjectives generally can be classified into one of three categories:
+
+Prepositive adjectives, which are also known as "attributive adjectives", occur on an antecedent basis within noun phrases. For example: "I put my happy kids into the car", wherein happy occurs on an antecedent basis within the my happy kids noun phrase, and therefore functions in a prepositive adjective.
+Postpositive adjectives can occur:  immediately subsequent to a noun within a noun phrase, e.g. "The only room available cost twice what we expected";  as linked via a copula or other linking mechanism subsequent to a corresponding noun or pronoun; for example: "My kids are happy", wherein happy is a predicate adjective (see also: Predicative expression, Subject complement); or  as an appositive adjective within a noun phrase, e.g. "My kids, who are happy to go for a drive, are in the back seat."
+Nominalized adjectives, which function as nouns. One way this happens is by eliding a noun from an adjective-noun noun phrase, whose remnant thus is a nominalization. In the sentence, "I read two books to them; he preferred the sad book, but she preferred the happy", happy is a nominalized adjective, short for "happy one" or "happy book". Another way this happens is in phrases like "out with the old, in with the new", where "the old" means "that which is old" or "all that is old", and similarly with "the new". In such cases, the adjective may function as a mass noun (as in the preceding example). In English, it may also function as a plural count noun denoting a collective group, as in "The meek shall inherit the Earth", where "the meek" means "those who are meek" or "all who are meek".
+
+Distribution
+Adjectives feature as a part of speech (word class) in most languages. In some languages, the words that serve the semantic function of adjectives are categorized together with some other class, such as nouns or verbs. In the phrase "a Ford car", "Ford" is unquestionably a noun but its function is adjectival: to modify "car". In some languages adjectives can function as nouns: for example, the Spanish phrase "un rojo" means "a red one".
+As for "confusion" with verbs, rather than an adjective meaning "big", a language might have a verb that means "to be big" and could then use an attributive verb construction analogous to "big-being house" to express what in English is called a "big house". Such an analysis is possible for the grammar of Standard Chinese and Korean, for example.
+Different languages do not use adjectives in exactly the same situations. For example, where English uses "to be hungry" (hungry being an adjective), Dutch, French, and Spanish use "honger hebben", "avoir faim", and "tener hambre" respectively (literally "to have hunger", the words for "hunger" being nouns). Similarly, where Hebrew uses the adjective זקוק‎ (zaqūq, roughly "in need of" or "needing"), English uses the verb "to need".
+In languages that have adjectives as a word class, it is usually an open class; that is, it is relatively common for new adjectives to be formed via such processes as derivation. However, Bantu languages are well known for having only a small closed class of adjectives, and new adjectives are not easily derived. Similarly, native Japanese adjectives (i-adjectives) are considered a closed class (as are native verbs), although nouns (an open class) may be used in the genitive to convey some adjectival meanings, and there is also the separate open class of adjectival nouns (na-adjectives).
+
+Adverbs
+Many languages (including English) distinguish between adjectives, which qualify nouns and pronouns, and adverbs, which mainly modify verbs, adjectives, or other adverbs. Not all languages make this exact distinction; many (including English) have words that can function as either. For example, in English, fast is an adjective in "a fast car" (where it qualifies the noun car) but an adverb in "he drove fast" (where it modifies the verb drove).
+In Dutch and German, adjectives and adverbs are usually identical in form and many grammarians do not make the distinction, but patterns of inflection can suggest a difference:
+
+Eine kluge neue Idee.
+A clever new idea.
+Eine klug ausgereifte Idee.
+A cleverly developed idea.
+A German word like klug ("clever(ly)") takes endings when used as an attributive adjective but not when used adverbially. Whether these are distinct parts of speech or distinct usages of the same part of speech is a question of analysis. While German linguistic terminology distinguishes adverbiale from adjektivische Formen, German refers to both as Eigenschaftswörter ("property words").
+
+Determiners
+Linguists today distinguish determiners from adjectives, considering them to be two separate parts of speech (or lexical categories). Determiners formerly were considered to be adjectives in some of their uses. Determiners function neither as nouns nor pronouns but instead characterize a nominal element within a particular context. They generally do this by indicating definiteness (a vs. the), quantity (one vs. some vs. many), or another such property.
+
+Adjective phrases
+An adjective acts as the head of an adjective phrase or adjectival phrase (AP). In the simplest case, an adjective phrase consists solely of the adjective; more complex adjective phrases may contain one or more adverbs modifying the adjective ("very strong"), or one or more complements (such as "worth several dollars", "full of toys", or "eager to please"). In English, attributive adjective phrases that include complements typically follow the noun that they qualify ("an evildoer devoid of redeeming qualities").
+
+Other modifiers of nouns
+In many languages (including English) it is possible for nouns to modify other nouns. Unlike adjectives, nouns acting as modifiers (called attributive nouns or noun adjuncts) usually are not predicative; a beautiful park is beautiful, but a car park is not "car". The modifier often indicates origin ("Virginia reel"), purpose ("work clothes"), semantic patient ("man eater") or semantic subject ("child actor"); however, it may generally indicate almost any semantic relationship. It is also common for adjectives to be derived from nouns, as in boyish, birdlike, behavioral (behavioural), famous, manly, angelic, and so on.
+In Australian Aboriginal languages, the distinction between adjectives and nouns is typically thought weak, and many of the languages only use nouns—or nouns with a limited set of adjective-deriving affixes—to modify other nouns. In languages that have a subtle adjective-noun distinction, one way to tell them apart is that a modifying adjective can come to stand in for an entire elided noun phrase, while a modifying noun cannot. For example, in Bardi, the adjective moorrooloo 'little' in the phrase moorrooloo baawa 'little child' can stand on its own to mean 'the little one,' while the attributive noun aamba 'man' in the phrase aamba baawa 'male child' cannot stand for the whole phrase to mean 'the male one.' In other languages, like Warlpiri, nouns and adjectives are lumped together beneath the nominal umbrella because of their shared syntactic distribution as arguments of predicates. The only thing distinguishing them is that some nominals seem to semantically denote entities (typically nouns in English) and some nominals seem to denote attributes (typically adjectives in English).
+Many languages have participle forms that can act as noun modifiers either alone or as the head of a phrase. Sometimes participles develop into functional usage as adjectives. Examples in English include relieved (the past participle of relieve), used as an adjective in passive voice constructs such as "I am so relieved to see you". Other examples include spoken (the past participle of speak) and going (the present participle of go), which function as attribute adjectives in such phrases as "the spoken word" and "the going rate".
+Other constructs that often modify nouns include prepositional phrases (as in "a rebel without a cause"), relative clauses (as in "the man who wasn't there"), and infinitive phrases (as in "a cake to die for"). Some nouns can also take complements such as content clauses (as in "the idea that I would do that"), but these are not commonly considered modifiers. For more information about possible modifiers and dependents of nouns, see Components of noun phrases.
+
+Order
+In many languages, attributive adjectives usually occur in a specific order. In general, the adjective order in English can be summarised as: opinion, size, age or shape, colour, origin, material, purpose. Other language authorities, like the Cambridge Dictionary, state that shape precedes rather than follows age.
+Determiners and postdeterminers—articles, numerals, and other limiters (e.g. three blind mice)—come before attributive adjectives in English. Although certain combinations of determiners can appear before a noun, they are far more circumscribed than adjectives in their use—typically, only a single determiner would appear before a noun or noun phrase (including any attributive adjectives).
+
+Opinion – limiter adjectives (e.g. a real hero, a perfect idiot) and adjectives of subjective measure (e.g. beautiful, supportive) or value (e.g. good, bad, costly)
+Size – adjectives denoting physical size (e.g. tiny, big, extensive)
+Shape or physical quality – adjectives describing more detailed physical attributes than overall size (e.g. round, sharp, turgid, thin)
+Age – adjectives denoting age (e.g. young, old, new, ancient, six-year-old)
+Colour – adjectives denoting colour or pattern (e.g. white, black, pale, splotchy)
+Origin – denominal adjectives denoting source (e.g. Japanese, volcanic, extraterrestrial)
+Material – denominal adjectives denoting what something is made of (e.g., plastic, metallic, wooden)
+Qualifier/purpose – final limiter, which sometimes forms part of the (compound) noun (e.g., high chair, northern cabin, passenger car, book cover)
+This means that, in English, adjectives pertaining to size precede adjectives pertaining to age ("little old", not "old little"), which in turn generally precede adjectives pertaining to colour ("old white", not "white old"). So, one would say "One (quantity) nice (opinion) little (size) old (age) round (shape) or round old white (colour) brick (material) house." When several adjectives of the same type are used together, they are ordered from general to specific, like "lovely intelligent person" or "old medieval castle".
+This order may be more rigid in some languages than others; in some, like Spanish, it may only be a default (unmarked) word order, with other orders being permissible. Other languages, such as Tagalog, follow their adjectival orders as rigidly as English.
+The normal adjectival order of English may be overridden in certain circumstances, especially when one adjective is being fronted. For example, the usual order of adjectives in English would result in the phrase "the bad big wolf" (opinion before size), but instead, the usual phrase is "the big bad wolf".
+Owing partially to borrowings from French, English has some adjectives that follow the noun as postmodifiers, called postpositive adjectives, as in time immemorial and attorney general. Adjectives may even change meaning depending on whether they precede or follow, as in proper: "They live in a proper town" (a real town, not a village) vs. "They live in the town proper (in the town itself, not in the suburbs). All adjectives can follow objects or subjects in elliptical constructions, such as "tell me something that is new" or "We ate the pizza that was cold."
+
+Comparison (degrees)
+In many languages, some adjectives are comparable and the measure of comparison is called degree. For example, a person may be "polite", but another person may be "more polite", and a third person may be the "most polite" of the three. The word "more" here modifies the adjective "polite" to indicate a comparison is being made, and "most" modifies the adjective to indicate an absolute comparison (a superlative).
+Among languages that allow adjectives to be compared, different means are used to indicate comparison. Some languages do not distinguish between comparative and superlative forms. Other languages allow adjectives to be compared but do not have a special comparative form of the adjective. In such cases, as in some Australian Aboriginal languages, case-marking, such as the ablative case may be used to indicate one entity has more of an adjectival quality than (i.e. from—hence ABL) another.
+
+In English, many adjectives can be inflected to comparative and superlative forms by taking the suffixes "-er" and "-est" (sometimes requiring additional letters before the suffix; see forms for far below), respectively:
+
+"great", "greater", "greatest"
+"deep", "deeper", "deepest"
+Some adjectives are irregular in this sense:
+
+"good", "better", "best"
+"bad", "worse", "worst"
+"many", "more", "most" (sometimes regarded as an adverb or determiner)
+"little", "less", "least"
+Some adjectives can have both regular and irregular variations:
+
+"old", "older", "oldest"
+"far", "farther", "farthest"
+also
+
+"old", "elder", "eldest"
+"far", "further", "furthest"
+Another way to convey comparison is by incorporating the words "more" and "most". There is no simple rule to decide which means is correct for any given adjective, however. The general tendency is for simpler adjectives and those from Anglo-Saxon to take the suffixes, while longer adjectives and those from French, Latin, or Greek do not—but sometimes the sound of the word is the deciding factor.
+Many adjectives do not naturally lend themselves to comparison. For example, some English speakers would argue that it does not make sense to say that one thing is "more ultimate" than another, or that something is "most ultimate", since the word "ultimate" is already absolute in its semantics. Such adjectives are called non-comparable or absolute. Nevertheless, native speakers will frequently play with the raised forms of adjectives of this sort. Although "pregnant" is logically non-comparable (either one is pregnant or not), one may hear a sentence like "She looks more and more pregnant each day".
+Comparative and superlative forms are also occasionally used for other purposes than comparison. In English comparatives can be used to suggest that a statement is only tentative or tendential: one might say "John is more the shy-and-retiring type", where the comparative "more" is not really comparing him with other people or with other impressions of him, but rather, could be substituting for "on the whole" or "more so than not". In Italian, superlatives are frequently used to put strong emphasis on an adjective: bellissimo means "most beautiful", but is in fact more commonly heard in the sense "extremely beautiful".
+
+Restrictiveness
+Attributive adjectives and other noun modifiers may be used either restrictively (helping to identify the noun's referent, hence "restricting" its reference) or non-restrictively (helping to describe a noun). For example:
+
+"He was a lazy sort, who would avoid a difficult task and fill his working hours with easy ones."
+Here "difficult" is restrictive – it tells which tasks he avoids, distinguishing these from the easy ones: "Only those tasks that are difficult".
+
+"She had the job of sorting out the mess left by her predecessor, and she performed this difficult task with great acumen."
+Here difficult is non-restrictive – it is already known which task it was, but the adjective describes it more fully: "The aforementioned task, which (by the way) is difficult."
+In some languages, such as Spanish, restrictiveness is consistently marked; for example, in Spanish la tarea difícil means "the difficult task" in the sense of "the task that is difficult" (restrictive), whereas la difícil tarea means "the difficult task" in the sense of "the task, which is difficult" (non-restrictive). In English, restrictiveness is not marked on adjectives but is marked on relative clauses (the difference between "the man who recognized me was there" and "the man, who recognized me, was there" being one of restrictiveness).
+
+Agreement
+In some languages, adjectives alter their form to reflect the gender, case and number of the noun that they describe. This is called agreement or concord. Usually it takes the form of inflections at the end of the word, as in Latin:
+
+In Celtic languages, however, initial consonant lenition marks the adjective with a feminine singular noun, as in Irish:
+
+Here, a distinction may be made between attributive and predicative usage. In English, adjectives never agree, whereas in French, they always agree. In German, they agree only when they are used attributively, and in Hungarian, they agree only when they are used predicatively:
+
+Semantics
+Semanticist Barbara Partee classifies adjectives semantically as intersective, subsective, or nonsubsective, with nonsubsective adjectives being plain nonsubsective or privative.
+
+An adjective is intersective if and only if the extension of its combination with a noun is equal to the intersection of its extension and that of the noun its modifying. For example, the adjective carnivorous is intersective, given the extension of carnivorous mammal is the intersection of the extensions of carnivorous and mammal (i.e., the set of all mammals who are carnivorous).
+An adjective is subsective if and only if the extension of its combination with a noun is a subset of the extension of the noun. For example, the extension of skillful surgeon is a subset of the extension of surgeon, but it is not the intersection of that and the extension of skillful, as that would include (for example) incompetent surgeons who are skilled violinists. All intersective adjectives are subsective, but the term 'subsective' is sometimes used to refer to only those subsective adjectives which are not intersective.
+An adjective is privative if and only if the extension of its combination with a noun is disjoint from the extension of the noun. For example, fake is privative because a fake cat is not a cat.
+A plain nonsubsective adjective is an adjective that is not subsective or privative. For example, the word possible is this kind of adjective, as the extension of possible murderer overlaps with, but is not included in the extension of murderer (as some, but not all, possible murderers are murderers).
+
+See also
+Flat adverb
+List of eponymous adjectives in English
+Predication (philosophy)
+Proper adjective
+
+Explanatory notes
+References
+Further reading
+Dixon, R. M. W. (1977). "Where Have All the Adjectives Gone?". Studies in Language. 1: 19–80. doi:10.1075/sl.1.1.04dix.
+Dixon, R. M. W. (1993). R. E. Asher (ed.). The Encyclopedia of Language and Linguistics (1st ed.). Pergamon Press Inc. pp. 29–35. ISBN 0-08-035943-4.
+Dixon, R. M. W. (1999). "Adjectives". In K. Brown & T. Miller (eds.), Concise Encyclopedia of Grammatical Categories. Amsterdam: Elsevier. ISBN 0-08-043164-X. pp. 1–8.
+Rießler, Michael (2016). Adjective Attribution. Language Science Press. ISBN 9783944675657.
+Warren, Beatrice (1984). Classifying adjectives. Gothenburg studies in English No. 56. Göteborg: Acta Universitatis Gothoburgensis. ISBN 91-7346-133-4.
+Wierzbicka, Anna (1986). "What's in a Noun? (Or: How Do Nouns Differ in Meaning from Adjectives?)". Studies in Language. 10 (2): 353–389. doi:10.1075/sl.10.2.05wie.
+
+External links
+
+List of English collateral adjectives at Wiktionary

@@ -1,0 +1,27 @@
+1601
+.se
+.se, formerly branded as .SE, is the country code top-level domain (ccTLD) for [Sweden](1600). It is operated by The Swedish Internet Foundation (Internetstiftelsen), but domains must be registered through one of the approved registrars. The Internet Foundation in [Sweden](1600) is managed on the basis of its charter of foundation and its statutes. The Foundation is managed by a board of directors, whose decisions are executed by the executive management.
+
+Pre 2003 system
+Prior to April 2003, the rules governing domains under the .se top domain were highly restrictive. Only companies, associations and authorities registered nationwide were allowed to register a domain, and it had to be very similar to the registered name. Individual products were not eligible for separate second-level domain names, even if they were registered trademarks. (Trademarks could register under tm.se but that was not considered satisfactory. Several companies formed daughter companies named after products to circumvent this rule and protect the trademark.) Individuals could register one (and only one) domain with the suffix .pp.se (pp is an abbreviation for "private person"), and companies and organizations registered in just a single county were eligible for domains with a <county letter>.se suffix. Non-profit organisation names are registered on county level in [Sweden](1600). Sports clubs do not need to register their name, but that was needed in order to register a "county.se" name, which made it complicated. Many who could not register directly under .se instead registered under .com or .nu. These rules were introduced in 1996. Before that there were unofficial rules that were even more restrictive, where private people and sports clubs could not register a domain.
+The former Second Level Domains were:
+
+Only a few of these second level domains are still (2021) used as in active web addresses.
+Since å, ä, ö were not available for technical reasons, organisations could register the name with a and o instead if available, sometimes causing trouble. The Habo and Håbo municipalities had a legal battle about the name habo.se which Håbo won since they registered first. After many years, in 2011, they agreed to make habo.se link to both municipalities' websites. From 2003 [Sweden](1600) allowed registering å, ä, ö in web addresses.
+
+Post 2003 system
+With the new rules, any entity or person may register any number of domains, subject to few restrictions. Individuals may register whatever .se domain, as long as it is available, not in .SE's Blocked or Reserved list. At the same time, the rules for domain name allocation were changed to the principle of first-come, first-served, and simpler rules for dispute resolution were created.
+As of October 2003, .SE started accepting registrations of internationalized domain names, containing the letters å, ä, ö, ü and é. On 6 September 2007, a total of 250 characters became available, supporting names in all of the legally recognized minority languages of [Sweden](1600): Finnish, Meänkieli (Tornedalsfinska), Sami, Romani and Yiddish.
+Domain names with å, ä, ö have not seen much use, partly since browsers on the user's side must have special support. As of 2013, organisations having å, ä, ö in their name (like Skåne) mainly use domains without these letters (e.g. skane.se), and redirect from their proper name (e.g. skåne.se). Many organisations have however not registered their proper name with å, ä or ö.
+There are some second-level TLDs still in use under .se, for example .domstol.se reserved for Swedish courts. These might not be recognized by the NIC as second-level TLDs, though in practice they are.
+.se is the first TLD to offer DNSSEC services. It does so using OpenDNSSEC.
+The entire .se domain was unavailable for 58 minutes on 12 October 2009, when an error during routine maintenance by .SE corrupted all names in the domain name registry.
+
+Known hacks
+Many Swedish domains were reserved for English words that end with "se". As of today, there are practically no such domain names left available on the domain prime market as the result of domain name speculation. Most of them can be bought on the domain secondary market. Only a few domains were developed.
+
+References
+External links
+IANA .se whois information
+iis.se, .SE (The Internet Infrastructure Foundation)
+List of approved registrars

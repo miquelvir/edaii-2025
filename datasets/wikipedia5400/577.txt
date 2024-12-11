@@ -1,0 +1,45 @@
+577
+Apodiformes
+The Apodiformes  is an order, or taxonomic grouping, of birds which traditionally contained three living families—the Apodidae (swifts), the Hemiprocnidae (treeswifts), and the Trochilidae (hummingbirds); however, in the Sibley-Ahlquist taxonomy, this order is elevated to the superorder Apodimorphae, in which hummingbirds are separated into a new order, the Trochiliformes. With nearly 450 species identified to date, it is the most diverse order of birds after the Passeriformes (the "perching" birds).
+
+Description, etymology and taxonomy
+As the name apodiforme—meaning "footless" in Greek—suggests, the legs of hummingbirds, swifts and treeswifts (or 'crested' swifts) are rather small and offer limited functional uses, aside from perching; their feet are covered with bare skin, rather than the scutes seen on many birds. Another commonality amongst Apodiformes is their evolving longer wings with short and stout humerus bones, a development which has provided the hummingbirds, in particular, with the ideal wings for hovering.
+Together, the hummingbirds, swifts and treeswifts share several anatomical commonalities with their likely-closest extant relatives in the genus Aegotheles—the owlet-nightjars; in particular, similarities are noted between the birds' skull structures. 
+The owlet-nightjars are, apparently, convergent with the closely-related Caprimulgiformes (nightjars), which form a clade known as Cypselomorphae together with the Apodiformes and the frogmouths, oilbirds and potoos.
+
+Evolution
+The Apodiformes evolved in the Northern Hemisphere. Eocypselus, a primitive genus known from the Late Paleocene or Early Eocene of north-central Europe, is somewhat difficult to assign; it is considered a primitive hemiprocnid.  This would suggest that the major apodiform lineages diverged shortly after the Cretaceous–Paleogene boundary. However, the perching adaptation of the foot of Eocypselus on which this theory rests may just as well be a symplesiomorphy.
+Most researchers believe that presently this genus cannot be unequivocally assigned to either the Apodiformes or the Caprimulgiformes. 
+The Early Eocene Primapus, found in England, is similar to both a primitive swift and the aegialornithids, which are in some aspects intermediate between swifts and owlet-nightjars. Fossil evidence demonstrates the existence of swifts during that period in Europe. At that time, most of Europe had a humid, subtropical climate, possibly comparable to modern-day southern China. For a map of Early–Middle Eocene Earth, see the Paleomap project; here note that both the Caucasus Mountains and the Alps did not exist yet and aegialornithids were possibly present in North America.
+By the late Eocene (around 35 MYA), primitive hummingbirds started to diverge from the related jungornithids; the Middle Eocene Parargornis (Messel, Germany) and the Late Eocene Argornis, found in today's southernmost Russia, belong to this lineage. Cypselavus (Late Eocene – Early Oligocene of Quercy, France) was either a primitive hemiprocnid or an aegialornithid.
+The placement of the Aegialornithidae is not quite clear. Various analyses place them sufficiently close to the Apodiformes to be included here, or into the unique owlet-nightjar lineage in the Cypselomorphae.
+
+Taxonomy
+ORDER APODIFORMES
+
+Family †Aegialornithidae Lydekker, 1891 Primapinae Harrison, 1984c
+Genus †Primapus Harrison & Walker, 1975
+Genus †Aegialornis Lydekker, 1891
+Suborder Apodi
+Genus †Procypseloides Harrison, 1984c
+Genus †Laputavis Dyke, 2001b
+Genus †Scaniacypselus Harrison, 1984
+Family †Eocypselidae Harrison 1984
+Genus †Eocypselus Harrison, 1984
+Family Hemiprocnidae Oberholser, 1906 (treeswifts)
+Family Apodidae Olphe-Galliard, 1887 (swifts)
+Suborder Trochili
+Genus †Palescyvus Karchu, 1988
+Family †Cypselavidae Mourer-Chauviré, 2006
+Genus †Argornis Karchu, 1999
+Genus †Cypselavus Gaillard, 1908
+Genus †Parargornis Mayr, 2003
+Family †Jungornithidae Karchu, 1988
+Genus †Jungornis Karchu, 1988
+Family Trochilidae Vigors, 1825 (hummingbirds)
+
+See also
+List of Apodiformes by population
+
+
+== References ==

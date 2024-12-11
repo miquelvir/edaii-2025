@@ -1,0 +1,37 @@
+7
+3-Mercapto-3-methylbutan-1-ol
+3-Mercapto-3-methylbutan-1-ol, also known as MMB, is a common odorant found in food and cat urine. The aromas ascribed to MMB include catty, roasty, broth-like, meaty, and savory,  or similar to cooked leeks.
+MMB is an organosulfur compound with the formula C5H12OS. Its structure consists of isopentane with a primary alcohol group and a tertiary thiol group attached to a β-carbon relative to the alcohol. MMB is found in the urine of leopards and domestic cats, and is considered an important semiochemical in male scent-marking.
+MMB is also a common odorant in food, including coffee,
+passionfruit juice,
+and Sauvignon Blanc wines. As a tertiary thiol, MMB is structurally similar to other "catty" thiols, including 3-mercapto-3-methyl-2-pentanone, 4-mercapto-4-methyl-2-pentanone, 8-mercapto-p-menthan-3-one, and 2-mercapto-2-methylbutane.
+
+Synthesis
+The compound can be produced through many methods. The most well-known reaction sequence begins with ethyl acetate, which is activated with lithium bis(trimethylsilyl)amide at the α-position and coupled with acetone to form ethyl 3-hydroxy-3-methylbutyrate. The 3-hydroxy-3-methylbutyrate is then brominated, treated with thiourea, and hydrolyzed to form 3-mercapto-3-methyl-butyric acid. The compound is then reduced with lithium aluminum hydride to form 3-mercapto-3-methylbutanol.
+
+Since MMB is most often synthesized for use as a standard in isotope dilution assays, most instances of MMB synthesis in chemical literature involve acetone-d6 to form 2H6-3-mercapto-3-methylbutanol.
+
+MMB in food and drink
+Besides felinine, MMB was first identified in the plant kingdom in Vitis vinifera L. cv., Sauvignon Blanc.
+
+3-mercapto-3-methylbutan-1-ol have been known to be used commercially as aromas for certain foods such as Sauvignon Blanc wine and coffee. MMB has also been identified in passion fruit juice along with its acetate.
+
+ 
+The synthesis of the MMB was formed by the action of the bacterial extract on CESFPs of passion fruit juice.
+One study looked at the influence of human whole saliva on odor-active thiols, specifically that of salivary enzymes breaking down MMB. The degradation of MMB is thought to be induced by enzymatic activity, and it is much faster than other volatile thiols. Another study found that the perception threshold of 3-mercapto-3-methylbutan-1-ol is 1500 ng/L. This study found that MMB had a "catty" odor, had an orthonasal odor threshold of 2 μg/L in water, and was found in concentrations from 150-1500 μg/kg in coffee.
+The synthesis of MMB in wine is brought on by the fermentation process. The pathway of formation for the aromatic precursors involves four important steps: enzymatic oxidation, metabolic processing of unsaturated fatty acids, cysteinlated or glutathionylated conjugation to aldehydes, and a β-lyase cleavage during alcoholic fermentation to release MMB. In this fermentation process, strains of the certain bacterial species are characterized by an extra-cellular α-arabinofuranosidase, influencing the content of desirable varietal aromas and, in particular, Metschnikowia pulcherrima releases varietal thiols including MMB. 
+For Sauvignon Blanc, the contribution of volatile thiols to varietal aroma is quite significant as the levels in wine usually exceed the threshold of detection. Unlike most aroma compounds found in wine, volatile thiols are unique in the fact that they exist in trace amounts in the berries. The intense passion fruit-type aroma of New Zealand Sauvignon Blanc wines are attributed to high concentrations of the varietal thiols. This vintner study found that aromas in wine caused by MMB diminish rapidly over just a year in its bottle.
+
+Odorant in cat urine
+MMB synthesis, within the biological system of a cat's bladder, is regulated by many different factors including cauxin, age, and sex.
+Cauxin is an enzyme that acts as a nonspecific carboxylesterase abundant in feline urine which converts 3-methylbutanol-cysteinylglycine (3MBCG) to felinine, with a side product of glycine. Upon formation, felinine gradually degrades into MMB.
+
+Prior to sexual maturation of cats, cauxin and MMB are not produced at significant levels since this is a testosterone-dependent, although the specific role of testosterone is not well understood. With little testosterone in the body in the first three months of their life, the concentrations of cauxin and 3-methylbutanol-cysteinylglycine are too low for proper reaction conditions. Biologically, this is logical as the ability to utilize pheromones such as MMB for territory marking and finding mates is not needed during kittenhood. The testosterone dependence also explains why female cats do not have nearly as much cauxin and MMB as male cats, and in turn, why their urine does not have a species-specific odor. It also explains why urine in neutered males, who are producing a lot less testosterone than their intact counterparts, do not have.
+After a cat reaches sexual maturity, a positive correlation is found with age and MMB production due to an increase in cauxin production, and release in urine with 3-methylbutanol-cysteinylglycine, allowing for the reaction to occur more frequently. This is advantageous for older cats as it allowed them to potently leave a scent trail for female cats to follow, and male cats to stay away.
+Studies have also demonstrated some wider predator-prey responses to MMB, cementing this molecule's role in wider ecological relationships. In wildlife, one study established that African wildcats respond to MMB dispensers, marking the territory nearby at higher rates than dispensers without, establishing they recognize the scent. Small mammals have also demonstrated a recognition of the scent, rolling around in where the wildcats have urinated in order to utilize the scent of MMB to its advantage, disguising itself in the scent of a large predator to ward off its own predators. Laboratory experiments have demonstrated that MMB has a does not have an expected repelling effect on mice, who are natural prey of cats, which complicates the narrative further since it is used for a repelling effect by small mammals as a defensive mechanism. Further investigation into this dynamic is needed.
+
+See also
+Cat pheromone
+
+
+== References ==

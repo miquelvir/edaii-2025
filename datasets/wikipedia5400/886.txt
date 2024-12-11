@@ -1,0 +1,101 @@
+886
+Chromium (web browser)
+Chromium is a free and open-source web browser project, primarily developed and maintained by Google. It is a widely-used codebase, providing the vast majority of code for Google Chrome and many other browsers, including Microsoft Edge, Samsung Internet, and Opera. The code is also used by several app frameworks.
+
+Licensing
+Chromium is a free and open-source software project. The Google-authored portion is shared under the 3-clause [BSD](750) license. Third party dependencies are subject to a variety of licenses, including MIT, LGPL, Ms-PL, and an MPL/GPL/LGPL tri-license.
+This licensing permits any party to build the codebase and share the resulting browser executable with the Chromium name and logo. Thus many Linux distributions do this, as well as Free[BSD](750) and Open[BSD](750).
+
+Differences from Google Chrome
+Chromium provides the vast majority of source code for Google Chrome, but there are important differences.
+
+Features
+Chromium lacks the following Chrome features:
+
+Automatic browser updates
+[API](708) keys for some Google services, including browser sync
+The Widevine DRM module
+Licensed codecs for the popular H.264 video and AAC audio formats
+Tracking mechanisms for usage and crash reports
+
+Branding and licensing
+Google first chose the name "Chrome" for its browser. Then the open-source release was named "Chromium" because chromium metal is used to make chrome plating.
+Chrome has the same user interface functionality as Chromium, but with a Google-branded color scheme. Unlike Chromium, Chrome is not open-source; its binaries are licensed as freeware under the Google Chrome Terms of Service.
+
+Development
+The Chromium browser codebase contains over 32 million source lines of code, excluding comments and blank lines.
+
+Contributors
+Chromium has been a Google project since its inception, and Google employees have done the bulk of the development work.
+Google refers to this project and the offshoot ChromiumOS as "the Chromium projects", and its employees use @chromium.org email addresses for this development work. However, in terms of governance, the Chromium projects are not independent entities; Google retains firm control of them.
+The Chromium browser codebase is widely used, so others have made important contributions, most notably Microsoft, Igalia, Yandex, Intel, Samsung, LG, Opera, Vivaldi, and Brave. Some employees of these companies also have @chromium.org email addresses.
+
+Architecture
+Google designed the first multi-process browser. Compared to single-process designs, this architecture has better responsiveness with many browser tabs open and security benefits of process isolation, but with the trade-off of higher memory usage. This was later refined as per-process website isolation, providing additional security.
+Another important design decision was for the browser's user interface to be minimalistic.
+The browser engine was originally based on Apple's WebKit, which Google deemed the "obvious choice" of available options. However, Google's novel multi-process design required engine changes. This divergence from Apple's version increased over time, so in 2013 Google officially forked its version as the Blink engine.
+
+Programming languages
+[C++](640) is the primary language, comprising over half of the codebase. This includes the Blink and V8 engines, the implementation of HTTP and other protocols, the internal caching system, the extension [API](708), and most of the user interface.
+The rest of the user interface, called the WebUI, is implemented in HTML, CSS, and JavaScript (usually via TypeScript transpilation). An extensive collection of web platform tests is also written in these languages plus XML.
+Third-party libraries that provide essential functionality, such as SQLite and numerous codecs, are written in C, [C++](640), or beginning in 2023, the newer Rust language.
+Support for mobile operating systems requires special languages: for Android both Java and Kotlin, and for iOS both Objective-C and Swift.
+Python is the main language of the build system, which also has special configuration files for Google's GN tool.
+
+Logistics
+The bug tracking system is a publicly accessible website. Participants are identified by their email addresses.
+The Chromium continuous integration system automatically builds and tests the codebase several times a day.
+Builds are identified by a four-part version number that is major.minor.build.patch. This versioning scheme and the branch points that occur every six to seven weeks are from Google Chrome and its development cycle.
+
+History
+2008 to 2010
+Google Chrome debuted in September 2008, and along with its release, the Chromium source code was also made available, allowing builds to be constructed from it.
+Upon release, Chrome was criticized for storing a user's passwords without the protection of a master password. Google has insisted that a master password provides no real security against knowledgeable hackers, but users argued that it would protect against co-workers or family members borrowing a computer and being able to view stored passwords as plaintext. In December 2009, Chromium developer P. Kasting stated: "A master password was issue 1397. That issue is closed. We will not implement a master password. Not now, not ever. Arguing for it won't make it happen. 'A bunch of people would like it' won't make it happen. Our design decisions are not democratic. You cannot always have what you want."
+
+Version 3 was the first alpha available for Linux. Chromium soon incorporated native theming for Linux, using the GTK+ toolkit to allow it fit into the GNOME desktop environment. Version 3 also introduced JavaScript engine optimizations and user-selectable themes.
+Version 6 introduced features for user interface minimalism, as one of Google's goals was to make the browser "feel lightweight (cognitively and physically) and fast". The changes were a unified tools menu, no home button by default (although user configurable), a combined reload/stop button, and the bookmark bar deactivated by default. It also introduced an integrated PDF reader, WebM and VP8 support for use with HTML video, and a smarter URL bar.
+Version 7 boosted performance to twice that of prior versions via hardware acceleration.
+Version 8 focused on improved integration into ChromeOS and improved cloud features. These include background web applications, host remoting (allowing users centrally to control features and settings on other computers) and cloud printing.
+Version 9 introduced a number of features, including a URL bar feature for exposing phishing attacks and sandboxing for the [Adobe Flash](806) plug-in. Other additions were the WebGL library and access for the new Chrome Web Store.
+
+2011
+In February, Google announced that it was considering large-scale user interface (UI) changes, including at least partial elimination of the URL bar, which had been a mainstay of browsers since the early years of the Web. The proposed UI was to be a consolidation of the row of tabs and the row of navigation buttons, the menu, and URL bar into a single row. The justification was freeing up more screen space for web page content. Google acknowledged that this would result in URLs not always being visible to the user, that navigation controls and menus may lose their context, and that the resulting single line could be quite crowded. However, by August, Google decided that these changes were too risky and shelved the idea.
+In March, Google announced other directions for the project. Development priorities focused on reducing the size of the executable, integrating web applications and plug-ins, cloud computing, and touch interface support. Thus a multi-profile button was introduced to the UI, allowing users to log into multiple Google and other accounts in the same browser instance. Other additions were malware detection and support for hardware-accelerated CSS transforms.
+By May, the results of Google's attempts to reduce the file size of Chromium were already being noted. Much of the early work in this area concentrated on shrinking the size of WebKit, the image resizer, and the Android build system. Subsequent work introduced a more compact mobile version that reduced the vertical space of the UI.
+Other changes in 2011 were GPU acceleration on all pages, adding support for the new Web Audio [API](708), and the Google Native Client (NaCl) which permits native code supplied by third parties as platform-neutral binaries to be securely executed within the browser itself. Google's Skia graphics library was also made available for all Chromium versions.
+
+Since 2012
+The sync service added for Google Chrome in 2012 could also be used by Chromium builds. The same year, a new [API](708) for high-quality video and audio communication was added, enabling web applications to access the user's webcam and microphone after asking permission to do so. Then GPU accelerated video decoding for Windows and support for the QUIC protocol were added.
+In 2013, Chromium's modified WebKit rendering engine was officially forked as the Blink engine.
+Other changes in 2013 were the ability to reset user profiles and new browser extension [API](708)s. Tab indicators for audio and webcam usage were also added, as was automatic blocking of files detected as malware.
+Version 67 added the security benefit of per-process website isolation. Then version 69 introduced a new browser theme, as part of the tenth anniversary of Google Chrome. The same year, new measures were added to curtail abusive advertising.
+Since 2021, the Google Chrome sync service can no longer be used by Chromium builds.
+Starting with version 110, only Windows 10 and later are supported for Windows users.
+
+Browsers based on Chromium
+In addition to Google Chrome, many other actively developed browsers are based on the Chromium code. Most of these are proprietary, like Chrome, but some remain FOSS, like Chromium.
+
+Proprietary
+Primarily non-English
+
+360 and QQ, for the Chinese market
+Cốc Cốc, for the Vietnamese market
+Yandex, for the Russian market
+
+FOSS
+Use in app frameworks
+These notable app frameworks embed a Chromium browser as the functional core of custom apps:
+
+Chromium Embedded Framework
+Electron
+Qt WebEngine
+The two prominent Chromium-based WebView components also provide a similar way to make apps:
+
+Android System WebView
+Microsoft Edge WebView2
+With either approach, the custom app is implemented with HTML, CSS, JavaScript, and other web technologies. Moreover, the app can be readily deployed on the operating systems supported by Chromium. Since the 2010s, many apps have been created this way. (Two examples are Spotify and Slack.)
+
+References
+External links
+
+Official website

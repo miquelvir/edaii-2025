@@ -1,0 +1,70 @@
+4032
+Angela K. Wilson
+Angela K. Wilson is an American scientist and former (2022) President of the [American Chemical Society](2806).  She currently serves as the John A. Hannah Distinguished Professor of Chemistry, associate dean for strategic initiatives in the College of Natural Sciences,  and director of the MSU Center for Quantum Computing, Science, and Engineering (MSU-Q) at Michigan State University.
+
+Education and influences
+Wilson received her Bachelor of Science (BS) degree in chemistry from Eastern Washington University and her Ph.D. from the University of Minnesota in chemical physics. She was a post-doctoral fellow at Pacific Northwest National Laboratory in the Environmental Molecular Sciences Laboratory (EMSL).  She worked on an MBA at the University of Oklahoma, and completed leadership training including the Harvard Institute for Management & Leadership in Education (MLE) program, Leadership America, Leadership Texas, and other programs. Some of her early influences were via the Girl Scouts, where she earned a Gold Award, the highest award in Girl Scouts.
+
+Career
+Academic and professional appointments
+Wilson joined the Department of Chemistry at the University of North Texas in 2000 as an assistant professor. She became a full professor in 2009 and was named a Regents Professor in 2011. In 2005, she established and became the director of the Texas Center for Advanced Scientific Computing and Modeling (CASCaM)..
+Following multiple roles within the Department of Chemistry and a two-year administrative fellowship in the Office of the Provost and Vice President for Academic Affairs, in 2015, Wilson became the Associate Vice Provost for Faculty and led the Office of Faculty Success at the university, working with ~2,400 faculty and ~58 department chairs.
+In 2016, Wilson was recruited to the National Science Foundation (NSF), where she served in the senior executive service of the federal government as Director of the Division of Chemistry, heading the division from 2016 to 2018. There, she led the investments in chemistry research across the nation for NSF, with an annual  budget of ~$250M.   
+She also became John A. Hannah Distinguished Professor in 2016 at Michigan State University, joining the Department of Chemistry. After her rotation at NSF, Wilson was an Academic Advancement Network Fellow in the Office of the Dean in the College of Agriculture and Natural Resources. In 2019, she established and began to serve as director at the MSU Center for Quantum Computing, Science, and Engineering (MSU-Q). At that time, she also helped to establish the MSU Center for PFAS Research. In 2020, she became Associate Dean for Strategic Initiatives in the College of Natural Sciences. In 2024, she became Faculty Senate Chair at Michigan State University.
+
+Professional societies and activities
+Wilson has held prominent leadership roles in major  scientific societies. In 2022, she was president of the [American Chemical Society](2806) (ACS), one of the world's largest scientific societies, with over 200,000 members and an annual operating budget of more than $700M, with two major business operations.  From 2021-2023, she served as a member of the ACS board of directors.  She has served on the Leadership Bureau of the International Union of Pure and Applied Chemistry (IUPAC), as well as president of IUPAC Division I, the Division of Physical and Biophysical Chemistry.  She was chair of the chemistry section of the American Association for the Advancement of Science (AAAS). For the U.S. National Academies, she served as the chair of the U.S. National Committee for IUPAC, and has served on the U.S. Delegation to the IUPAC General Assembly on five occasions, chairing the delegation twice. 
+In 2024, she was elected as Treasurer and member of the Board of Directors of the [American Physical Society](3451). She also serves on the Council and Council Executive Committee of the American Association for the Advancement of Science.
+
+Research
+As a researcher,  Wilson's work spans physical, theoretical, and computational chemistry.  She is engaged in areas including quantum mechanical and quantum dynamical method development, thermochemical and spectroscopic studies of small molecules, protein modeling and drug design, catalysis design, environmental challenges (i.e., CO2, PFAS), heavy element and transition metal chemistry, and mechanical properties of materials.   Some of her computational chemistry methodologies, including ab initio correlation consistent basis sets, correlation consistent composite approach (ccCA), complete basis set (CBS) procedures, and multireference wavefunction diagnostics for transition metals are utilized worldwide.  Her recent work on PFAS has provided insight upon the impact of these species on human health and potential mitigation strategies in the environment, including soils.  For drug design, she has been engaged in the development of strategies for a variety of anti-inflammatory diseases, end-stage kidney function, and tuberculosis.
+
+Publications, Editorships, Conferences, and Board Service
+Author
+Wilson has published over 200 peer-reviewed articles in scientific journals.
+
+Editor
+Wilson is the editor of Annual Reports in Computational Chemistry.  She is on the editorial advisory board for Cell Reports Physical Science. She has served as an editor of Computational and Theoretical Chemistry,  as a member of the editorial advisory boards for the Journal of Physical Chemistry and International Journal of Quantum Chemistry, and as a member of the editorial board for Scientific Reports
+In 2018, she chaired the Gordon Conference on Computational Chemistry. 
+She has edited seven books, including Pioneers of Quantum Chemistry.
+Wilson is a frequent speaker on national and global science policy, as well as on her research, success in science, leadership, and many other topics.  She has given over 500 invited talks, including named lectures -  the Robert S. Mulliken lecture, the Karton-Barton lecture, the Charles A. Abbott lecture, the William A. Smart lecture, and the Charles Reed lecture.
+She serves on the boards of quantum computing companies (non-profit and for-profit), as well multiple conferences.
+
+Awards and honors
+Wilson was named one of the top five most influential women chemists and top 40 most influential women in STEM in the world during 2010-2020.
+Some of her other recognitions include:
+
+NSF CAREER Award, 2003
+Wiley International Journal of Quantum Chemistry Young Investigator Award, 2003
+Kavli Fellow, 2004 (and U.S. Chair of the National Academies' Chinese-American Frontiers of Science Program, 2006)
+Eastern Washington University Alumni Achievement Award, 2006
+National Associate of the U.S. National Academies, 2007 (given for “extraordinary service to the National Research Council in its role as advisor to the Nation in matters of science, engineering, and health”)
+Outstanding Mentor Award, Dupont Science Challenge program, 2009
+Toulouse Scholars Award, University of North Texas, 2009
+Teachers-Scholar Award, University of North Texas, 2009
+QSCP Promising Scientist Award of Centre de Mécanique Ondulatoire Appliquée, 2010
+Research Leadership Award, University of North Texas, 2011
+Inaugural Distinguished Lecturer, University of North Texas, 2012
+Distinguished Women in Chemistry or Chemical Engineering, International Union of Pure and Applied Chemistry, 2013
+Decker Scholar, 2013-15
+Wilfred T. Doherty Award, Dallas-Ft. Worth Section of the [American Chemical Society](2806), 2014
+Francis P. Garvan-John M. Olin Medal, 2015
+University of North Texas Eminent Scholar Award, 2015
+Michigan Women's Hall of Fame,2018
+Outstanding Achievement Award, University of Minnesota, 2020 
+MSU College of Natural Sciences (NatSci) Outstanding Faculty Award, Michigan State University, 2022 
+William J. Beal Outstanding Faculty Award, Michigan State University, 2023 
+Iota Sigma Pi National Honorary Member, 2023
+Association for Women in Science Zenith Award, 2023
+She is a Fellow of the [American Chemical Society](2806) (2010), American Association for the Advancement of Science (2012), the [American Physical Society](3451) (2013), and the Royal Society of Chemistry (2021).
+Wilson was one of three women interviewed for Nature Computational Science 3, 810–812 (2023) "Celebrating Women in Science" in honor of Ada Lovelace Day.
+
+Publications
+Wilson has over 200 publications. Among them are the following:
+
+Wilson, Angela K.; Tanja van Mourik; Thom H. Dunning, Jr (29 April 1996). "Gaussian basis sets for use in correlated molecular calculations part VI: Sextuple zeta correlation consistent basis sets for boron through neon". Journal of Molecular Structure: THEOCHEM. 388: 339–349. doi:10.1016/S0166-1280(96)80048-0.
+Wilson, Angela K.; David E. Woon; Kirk A. Peterson; Thom H. Dunning (22 January 1999). "Gaussian basis sets for use in correlated molecular calculations. IX. The atoms gallium through krypton". Journal of Chemical Physics. 110 (16): 7667. Bibcode:1999JChPh.110.7667W. doi:10.1063/1.478678. S2CID 28775404.
+Wilson, Angela K.; Thom H. Dunning; Kirk A. Peterson (2 March 2001). "Gaussian basis sets for use in correlated molecular calculations. X. The atoms aluminum through argon revisited". Journal of Chemical Physics. 114 (21): 9244. Bibcode:2001JChPh.114.9244D. doi:10.1063/1.1367373. S2CID 33488776.
+
+
+== References ==

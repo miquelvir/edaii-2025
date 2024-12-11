@@ -1,0 +1,136 @@
+4238
+Aranese dialect
+Aranese (Occitan: aranés) is a standardized form of the Pyrenean Gascon variety of the Occitan language spoken in the Val d'Aran, in northwestern [Catalonia](2549) close to the Spanish border with France, where it is one of the three official languages beside Catalan and Spanish. In 2010, it was declared the third official language in [Catalonia](2549) by the Parliament of [Catalonia](2549).
+The official names of towns in Val d'Aran are in Occitan; for example, the municipality of Vielha is known by its Occitan name on maps and road signs, rather than its Catalan/Spanish name, Viella.
+
+Official status
+The Aran Valley is the only territory in the language domain of Occitania where Occitan has official recognition and institutional protection. According to Law 35/2010 passed by the Parliament of [Catalonia](2549), Occitan is considered an official language not only in Val d'Aran, but in all of [Catalonia](2549), and is given precedence in the territory where it is spoken (Val d'Aran).
+Article 3.4 of [Catalonia](2549)'s 1979 Statute of Autonomy establishes that the "Aranese language will be the object of education and of special respect and protection." Subsequently, Law 7/1983, on linguistic normalization, declares Aranese the language of Aran, proclaims certain linguistic rights of the Aranese and directs public service to guarantee its usage and teaching. Aranese is taught on all levels of compulsory education and has been the medium of instruction in the Aran Valley since 1984.
+A certain degree of autonomy was granted to the Aran Valley in 1990. Law 16/1990, concerning the special regime of the Val d'Aran, grants to the Valley an administrative autonomy. This law affirms the official status of Aranese, further guarantees its use and teaching, and affirms the general mandate to promote its normalization in Aran.
+Law 1/1998, on linguistic policy, includes specific provisions related to place names, anthroponymy, and the media. Although the localities of [Catalonia](2549) have their official names in Catalan, the localities of the Aran Valley have their official names in Occitan. Thus, the indicators of the towns and the names of their streets are written in this language. Since May 2001, there is an official regulation of the General Council of Aran that promulgates the certification system of the different levels of knowledge of Occitan.
+In 2006, a new Statute of Autonomy was promulgated in [Catalonia](2549). Concerning Aranese, article 6.5 of the organic law establishes that "the Occitan language, called Aranese in Aran, is the language of this territory and is official in [Catalonia](2549), in accordance with the provisions of this Statute and the laws of linguistic normalization." In 2010, Law 35/2010 was subsequently passed, with specific provisions concerning Occitan in [Catalonia](2549) reflecting the new constitutional framework.
+In 2011, the Spanish Government, specifically that of the Popular Party and Citizens, opposed the preference given to Aranese by the 2010 law, questioning the constitutionality of articles 2.3, 5.4, 5.7 and 6.5. In 2018, the constitutional court ruled that while article 2.3 was found to be constitutional, the "preferential" status given found in the other concerned articles are unconstitutional.
+
+Usage
+According to a 2001 linguistic census by the Aranese government, about 90% of the inhabitants of Val d'Aran can understand the language, with those between 25 and 34 years old having the lowest rate, at around 80% (excluding those under the age of 4). Between 60 and 65% of the population can speak it; however, only 26% reported being able to write in Aranese.
+
+In 2008, the Generalitat of [Catalonia](2549) surveyed the population (15 years old or older) in the Val d'Aran. The survey reported that 78.2% of the population could understand Aranese, 56.8% could speak it, 59.4% could read it, and 34.8% could write the language. The number of people that can speak Aranese grew to the 61% of the population in 2020, according to a survey of the Public Office for the Occitan Language.
+Once considered to be an endangered language spoken mainly by older people, it is now experiencing a renaissance; it enjoys co-official status with Catalan and Spanish within Val d'Aran, and since 1984 has been taught bilingually alongside Spanish in schools. Students in the Val d'Aran are required to have two hours each of Spanish, Catalan, and Aranese per week. At some levels of education, a foreign language is added to the three official languages —usually French due to proximity— and sometimes even two additional hours of English.
+
+Phonology
+General Gascon characteristics:
+
+Latin F > H:
+focus /ˈfokus/ (hearth) > huec /hwek/ (fire)
+ferrum /ˈferːum/ > hèr /hɛɾ/ (iron)
+Latin LL > TH (internal or final) or R (in intervocalic position):
+vitellu > vedèth /beˈdɛt(ʃ)/ (calf)
+ille > eth /et(ʃ)/ (sing. masc. definite article)
+ille > er /eɾ/ (sing. masc. definite article; used before words that start with a vowel sound)
+illa > era /eɾa/ (sing. fem. definite article)
+Vocalisation of L to U in final position: malum > mau /maw/ (bad)
+Loss of N in intervocalic position:
+Latin luna > lua (moon)
+Latin farīna > haria (flour)
+Metathesis of -R:
+Latin venter > vrente (stomach)
+Latin vesper > vrèspe (evening)
+Prosthetic A- before initial R-, doubling the R:
+Latin recognōscō > arreconéisher (to recognize)
+Latin rīdēre > arríder (to laugh)
+Specific Aranese characteristics:
+
+Deaspiration of Gascon /h/ > Aranese ∅ (except in Bausen and Canejan, where it remains h)
+Gascon huec /hwek/ (fire) > Aranese huec /wek/
+Gascon -AS pronounced and written -ES:
+Gascon hemnas > hemnes /ˈennes/ (women)
+Gascon parlas > parles /ˈpaɾles/ (you speak)
+Plurals of nouns ending in -A become -ES: era pèira → es pèires (the stones)
+Intervocalic /b/ written U and pronounced w:
+Gascon: cantava /kanˈtaba/ > Aranese cantaua /kanˈtawa/ (he/she was singing)
+Reduction of plural definite articles:
+Gascon: eths, eras > Aranese es /es/
+
+Consonants
+Notes:
+
+The voiced stops /b/, /d/, /ɡ/ are devoiced to /p/, /t/, /k/, respectively, in word-final position.
+/h/ is pronounced only in the towns of Bausen and Canejan. Foreign words that have not been adopted into Aranese also retain /h/: hardware, maharajah.
+/ɾ/ is pronounced ɾ, except at the end of a word, where it is generally silent, regardless of what follows.
+ŋ is heard as an allophone of /n/ in word-final position.
+
+Vowels
+Diphthongs
+Notes:
+
+In practice, stressed ei tends to be pronounced e: trueita pronounced as trueta.
+Word-final èi is often pronounced ɛ instead of ɛj: cantèi pronounced as cantè. Similarly, speakers tend to say òu as ò ɔ: auriòu is pronounced like auriò
+iu can be pronounced as iw or jew: Diu diw ~ djew
+Orthographic ui historically was a diphthong, but is currently produced as y.
+Aranese orthography denotes where two consecutive vowels do not diphthongize, but rather form a hiatus.
+
+A diaereses mark over unstressed i or u: ï, ü
+flaüta /flaˈy.ta/
+cocaïna /ku.kaˈi.na/
+coïncidir /ku.in.siˈdi(ɾ)/
+An acute accent, which marks lexical stress, on i or u: í, ú
+país /paˈis/
+
+Comparison to other Romance languages
+Orthography
+Digraphs
+Vowels
+Loanwords
+Since the Val d'Aran is located within Spanish and Catalan territory, Aranese is subject to certain influences from Spanish and Catalan. As such, Aranese has adopted several neologisms from them:
+
+actuar (vs. agir)
+empresa (vs. entrepresa)
+increment (vs. aumentacion)
+laborau (vs. professionau)
+matrícula (vs. inscripcion)
+oficina (vs. burèu, which is a Gallicism)
+Spanish and Catalan have also created deformations of words such as abans > abantes or dempús > despuès. Some Hispanicisms are directly adopted into Aranese: hasta.
+
+Regulation
+Aranese is regulated under classic unifying standards of Occitan, defined initially by Loís Alibèrt. These standards of the Conselh de la Lenga Occitana (Occitan Language Council) have officially been recognized by the Conselh Generau d'Aran (General Council of Aran) since 1999.
+In practice, several details standards diverge due to the popular or preferred usage of Aranese, in relation to other Gascon varieties. For instance:
+
+the form of the feminine plural -AS in general Gascon is replaced with -ES in Aranese, as the pronunciation is "/es/". Ex: hemnes araneses (Aranese women) in place of general Gascon hemnas aranesas 
+the accepted use of U in place of V in a good deal of the Valley (but some retain the "v" as it is pronounced /b/) Ex: auer instead of aver (general Gascon always write it "v" even when pronounced /w/).
+The Institut d'Estudis Aranesi is the recognized language academy by the Conselh Generau d'Aran.
+
+Written publications
+Grammar
+A reference on usage and conjugation of Aranese verbs entitled Es Vèrbs conjugadi : morfologia verbau aranesa was written by Verònica Barés Moga and published in 2003. A descriptive and normative reference grammar book, written in Aranese by Aitor Carrera, was published in March 2007. It includes a detailed breakdown of phonological and grammatical differences between varieties of Aranese in different villages in the valley.
+
+Dictionaries
+A dictionary of Aranese was written by the Catalan linguist Joan Coromines as his doctoral thesis.
+A simple four-language Spanish–Aranese–Catalan–French dictionary exists, written by Frederic Vergés Bartau (see Bibliography).
+An Aranese-English and English–Aranese dictionary was published in 2006. It was written by Ryan Furness, a young man from Minnesota, after he became curious about the language when he traveled to Val d'Aran.
+A detailed one-volume Catalan–Occitan and Occitan–Catalan dictionary was published under the auspices of the governments of [Catalonia](2549) ([Generalitat de Catalunya](2592)) and Val d'Aran (Conselh Generau d'Aran). Although it calls the language "Occitan", it uses Aranese spelling and its preface says that special attention is given to the Aranese variety.
+
+Periodicals and commercial publications
+A local monthly magazine Toti and local newspapers are published partly in the language. The online newspaper Jornalet also publishes a fair deal of articles and opinions in Aranese.
+
+See also
+Occitan language
+Languages of Spain
+
+References
+Bibliography
+Barés Moga, Verònica (2003). Es vèrbs conjugadi: morfologia verbau aranesa. Barcelona: Llibres de l'Index. ISBN 84-95317-47-8.
+Carrera, Aitor (2007). Gramatica Aranesa (in Occitan). Lleida: Pagès Editors. ISBN 978-84-9779-484-8.
+Furness, Ryan C. (2006). Diccionari Occitan (aranés) - Anglés/English-Occitan (Aranese) Dictionary. Pages Editors. ISBN 978-84-9779-362-9.
+Institut d'Estudis Aranesi (2019). Gramatica der occitan aranés. Institut d'Estudis Aranesi-Acadèmia aranesa dera llengua occitana.
+Leclerc, Jean-Marc (2004). Le Gascon de poche (in French). France: Assimil. ISBN 2-7005-0345-7.
+Vergés Bartau, Frederic (1991). Petit diccionari: castelhan-aranés (occitan)-catalan-francés, aranés (occitan)-castelhan-catalan-francés. Vielha, Vall dʾAran, Lhèida : Conselh Comarcau dera Val d’Aran. ISBN 84-606-0175-7.
+
+External links
+Aranese in [Catalonia](2549), Spain—Database for the European Charter for Regional or Minority Languages
+Aranese Training with the Conselh generau d'Aran (in English, Spanish, Catalan, and Occitan)
+Es vèrbs der aranés—Aranese verb conjugation guide (in Occitan)
+Lectures basiques—Manuel Naranjo i Teixido and Frederic Vergés i Bartau (in Occitan)
+A University Phrasebook (English-Catalan-Aranese)—University of Barcelona (with recordings) (in English, Catalan, and Occitan)
+Rebrembes d'ua garia—a story in Aranese (in Occitan)
+Stories in Aranese (in Catalan and Occitan)
+Vocabulari basic

@@ -1,0 +1,69 @@
+529
+A Greek–English Lexicon
+A Greek–English Lexicon, often referred to as Liddell & Scott () or Liddell–Scott–Jones (LSJ), is a standard lexicographical work of the Ancient Greek language originally edited by Henry George Liddell, Robert Scott, Henry Stuart Jones, and Roderick McKenzie and published in 1843 by the Oxford University Press. 
+It was most recently revised for its ninth edition of 1940. Abridged versions and a supplement exist. It was initially the basis for the 2021 Cambridge Greek Lexicon, although subsequently that became a complete rewrite from scratch.
+
+Liddell and Scott's lexicon (1843–1940)
+The lexicon was begun in the 19th century, and is now in its ninth (revised) edition, published in 1940. It was based on the earlier Handwörterbuch der griechischen Sprache by the German lexicographer Franz Passow (first published in 1819, fourth edition 1831), which in turn was based on Johann Gottlob Schneider's Kritisches griechisch-deutsches Handwörterbuch. The Lexicon has served as the basis for all later lexicographical work on the ancient Greek language, such as the ongoing Greek–Spanish dictionary project Diccionario Griego–Español (DGE).
+It is now conventionally referred to as Liddell & Scott, Liddell–Scott–Jones, or LSJ, and its three sizes are sometimes referred to as "The Little Liddell", "The Middle Liddell" and "The Big Liddell" or "The Great Scott". The LSJ main edition has 116,502 entries.
+According to Stuart Jones's preface to the ninth (1925) edition, the creation of the Lexicon was originally proposed by David Alphonso Talboys, an Oxford publisher. It was published by the Clarendon Press at Oxford rather than by Talboys, who died before the first edition (1843) was complete. The second through seventh editions appeared in 1845, 1849, 1855, 1861, 1869, and 1883.
+The first editor of the LSJ, Henry George Liddell, was Dean of Christ Church, Oxford, and the father of Alice Liddell, the eponymous Alice of the writings of Lewis Carroll. The eighth edition (1897) was the last edition published during Liddell's lifetime.
+The LSJ is sometimes compared and contrasted with A Latin Dictionary by Lewis and Short, which was also published by Oxford University Press (OUP). It is also sometimes compared with the Bauer lexicon, which is a similar work focused on the Greek of the New Testament.
+The LSJ's definitions reflect the Victorian morality of its time, using euphemism. For example, χέζω (chezo, 'to shit'), is translated as "ease oneself, do one's need"; βινέω (bineo, 'to fuck') as "inire, coire, of illicit intercourse"; and λαικάζω (laikazo, 'to suck cocks') as "to wench".
+
+Condensed editions (1843, 1889)
+Two condensed editions of LSJ were published by Oxford University Press and remain in print.
+In 1843, the same year as the full lexicon's publication, A Lexicon: Abridged from Liddell and Scott's Greek–English Lexicon, sometimes called "the Little Liddell" was published. Several revised editions followed. For example, a reprint, re-typeset in 2007, of the 1909 edition is available from Simon Wallenberg Press.
+In 1889, an intermediate edition of the lexicon, An Intermediate Greek–English Lexicon, was prepared on the basis of the seventh edition (1883) of LSJ. In comparison to the smaller abridgement, this "Middle Liddell" contains more entries covering the essential vocabulary of most commonly read Ancient Greek literature, adds citations of the authors to illustrate the history of Greek usage (without identifying the passages), and provides more help with irregular forms.
+
+The Supplement (1968)
+After the publication of the ninth edition in 1940, and shortly after the deaths of both Stuart Jones and McKenzie, the OUP maintained a list of addenda et corrigenda ("additions and corrections"), which was bound with subsequent printings. However, in 1968, these were replaced by a Supplement to the LSJ. Neither the addenda nor the Supplement has ever been merged into the main text, which still stands as originally composed by Liddell, Scott, Jones, and McKenzie. The Supplement was initially edited by M. L. West. Since 1981, it has been edited by P. G. W. Glare, editor of the Oxford Latin Dictionary (not to be confused with Lewis and Short's A Latin Dictionary). Since 1988, it has been edited by Glare and Anne A. Thompson. As the title page of the Lexicon makes clear (and the prefaces to the main text and to the Supplement attest), this editorial work has been performed "with the cooperation of many scholars".
+The Supplement primarily takes the form of a list of additions and corrections to the main text, sorted by entry. The supplemental entries are marked with signs to show the nature of the changes they call for. Thus, a user of the Lexicon can consult the Supplement after consulting the main text to see whether scholarship after Jones and McKenzie has provided any new information about a particular word. As of 2005, the most recent revision of the Supplement, published in 1996, contains 320 pages of corrections to the main text, as well as other materials.
+Here is a typical entry from the revised Supplement:
+
+x ἐκβουτῠπόομαι to be changed into a cow, S.fr. 269a.37 R.
+The small "x" indicates that this word did not appear in the main text at all; "S.fr." refers to the collected fragmentary works of Sophocles.
+One interesting new source of lexicographic material in the revised Supplement is the Mycenean inscriptions. The 1996 revised Supplement's Preface notes:
+
+At the time of the publication of the first Supplement it was felt that the Ventris decipherment of the Linear B tablets was still too uncertain to warrant the inclusion of these texts in a standard dictionary. Ventris's interpretation is now generally accepted and the tablets can no longer be ignored in a comprehensive Greek dictionary ....
+
+Electronic editions
+The ninth edition of LSJ has been freely available in electronic form since 2007, having been digitized by the Perseus Project. Diogenes, a free software package, incorporates the Perseus data and allows easy offline consultation of LSJ on Mac OS X, Windows, and Linux platforms. Marcion is another open source application that includes the Perseus LSJ.
+For mobile devices, both the Kindle E-Ink and the iPhone/iPod Touch feature data ported from Perseus. The Android market also currently offers the intermediate LSJ as an offline downloadable app for free or for a small price. A CD-ROM version published and sold by Logos Bible Software also incorporates the Supplement's additions to the ninth edition of LSJ. A new online version of LSJ was released in 2011 by the Thesaurus Linguae Graecae (TLG). The TLG version corrects "a large number of typographical errors", and includes links to the extensive TLG textual corpus. A Kindle version, the "Complete Liddell & Scott's Lexicon with Inflections", is also available: it allows searches of most Classical Greek word-forms and supports a growing number of Ancient/Classical Greek texts for the device.
+
+Translations
+The Lexicon has been translated into Modern Greek by Xenophon Moschos, ed.: Michael Konstantinidis and was published by Anestis Konstantinidis in 1904 with the title H. Liddell – R. Scott – Α. Κωνσταντινίδου (Μέγα Λεξικόν τῆς Ἑλληνικῆς Γλώσσης). Reprinted also by other publishers. Also, a supplement compiled by a group of Greek philologists.
+An Italian translation of the Intermediate Liddell-Scott, entitled Dizionario illustrato Greco-Italiano was published in 1975 by Le Monnier, edited by Q. Cataudella, M. Manfredi and F. Di Benedetto.
+
+Cambridge Greek Lexicon (2021)
+LSJ was the basis of the project of John Chadwick and James Diggle at Cambridge to publish the Cambridge Greek Lexicon of 2021. Although it was initially conceived as a mere update of LSJ, the editors eventually decided to start afresh since they considered LSJ "too antiquated in concept, design and content". The CGL has a smaller scope than the LSJ (and also the Brill Dictionary of Ancient Greek), and is unlikely to replace it; however, it is still more comprehensive than the Middle Liddell, which it intends to replace. The Cambridge Greek Lexicon uses contemporary language for its definitions and, unlike the LSJ, no longer elides the meaning of words considered offensive in Victorian times.
+
+See also
+Diccionario Griego-Español
+Comparison of Ancient Greek dictionaries
+
+Notes
+References
+External links
+Website of the most recent print edition at the Oxford University Press (archived 2 December 2008)
+
+Electronic editions
+LSJ in wiki format and diacritics insensitive search in Greek and Latin characters
+LSJ at Perseus: Word study tool; Search headwords and English definitions; Browse text Because it is not easy to computer-typeset breves and macrons in Greek, the Perseus transcription is "α^" for a short alpha, and "α_" for a long alpha.
+Modern Greek version of LSJ by the University of the Aegean
+LSJ via the Philologus online interface
+The Online Liddell–Scott–Jones Greek–English Lexicon at the Thesaurus Linguae Graecae (archived 27 May 2016)
+LSJ at Harvard's Archimedes Project Archived 5 March 2011 at the Wayback Machine
+LSJ at Univ. of Chicago Archived 28 July 2020 at the Wayback Machine
+
+Scanned copies of the Great Scott
+Fourth edition (1855) (archive.org)
+Sixth edition (1869) (archive.org)
+Seventh edition (1883) (archive.org)
+Eighth edition (1901) (archive.org)
+Ninth edition (1940) vol. 1 (archive.org)
+Ninth edition (1940) vol. 2 (archive.org)
+American edition (1853), ed. Henry Drisler (archive.org)
+
+Scanned copies of the Middle Liddell
+First edition (1889) (archive.org)

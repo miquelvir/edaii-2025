@@ -1,0 +1,87 @@
+673
+Computational physics
+Computational physics is the study and implementation of numerical analysis to solve problems in physics. Historically, computational physics was the first application of modern computers in science, and is now a subset of computational science. It is sometimes regarded as a subdiscipline (or offshoot) of theoretical physics, but others consider it an intermediate branch between theoretical and experimental physics — an area of study which supplements both theory and experiment.
+
+Overview
+In physics, different theories based on mathematical models provide very precise predictions on how systems behave. Unfortunately, it is often the case that solving the mathematical model for a particular system in order to produce a useful prediction is not feasible. This can occur, for instance, when the solution does not have a closed-form expression, or is too complicated. In such cases, numerical approximations are required. Computational physics is the subject that deals with these numerical approximations: the approximation of the solution is written as a finite (and typically large) number of simple mathematical operations (algorithm), and a computer is used to perform these operations and compute an approximated solution and respective error.
+
+Status in physics
+There is a debate about the status of computation within the scientific method. Sometimes it is regarded as more akin to theoretical physics; some others regard computer simulation as "computer experiments", yet still others consider it an intermediate or different branch between theoretical and experimental physics, a third way that supplements theory and experiment. While computers can be used in experiments for the measurement and recording (and storage) of data, this clearly does not constitute a computational approach.
+
+Challenges in computational physics
+Computational physics problems are in general very difficult to solve exactly. This is due to several (mathematical) reasons: lack of algebraic and/or analytic solvability, complexity, and chaos. For example, even apparently simple problems, such as calculating the wavefunction of an electron orbiting an atom in a strong electric field (Stark effect), may require great effort to formulate a practical algorithm (if one can be found); other cruder or brute-force techniques, such as graphical methods or root finding, may be required. On the more advanced side, mathematical perturbation theory is also sometimes used (a working is shown for this particular example here). In addition, the computational cost and computational complexity for many-body problems (and their classical counterparts) tend to grow quickly. A macroscopic system typically has a size of the order of 
+  
+    
+      
+        
+          10
+          
+            23
+          
+        
+      
+    
+    {\displaystyle 10^{23}}
+  
+ constituent particles, so it is somewhat of a problem. Solving quantum mechanical problems is generally of exponential order in the size of the system and for classical N-body it is of order N-squared. Finally, many physical systems are inherently nonlinear at best, and at worst chaotic: this means it can be difficult to ensure any numerical errors do not grow to the point of rendering the 'solution' useless.
+
+Methods and algorithms
+Because computational physics uses a broad class of problems, it is generally divided amongst the different mathematical problems it numerically solves, or the methods it applies. Between them, one can consider:
+
+root finding (using e.g. Newton-Raphson method)
+system of linear equations (using e.g. LU decomposition)
+ordinary differential equations (using e.g. Runge–Kutta methods)
+integration (using e.g. Romberg method and Monte Carlo integration)
+partial differential equations (using e.g. finite difference method and relaxation method)
+matrix eigenvalue problem (using e.g. Jacobi eigenvalue algorithm and power iteration)
+All these methods (and several others) are used to calculate physical properties of the modeled systems.
+Computational physics also borrows a number of ideas from computational chemistry - for example, the density functional theory used by computational solid state physicists to calculate properties of solids is basically the same as that used by chemists to calculate the properties of molecules.
+Furthermore, computational physics encompasses the tuning of the software/hardware structure to solve the problems (as the problems usually can be very large, in processing power need or in memory requests).
+
+Divisions
+It is possible to find a corresponding computational branch for every major field in physics:
+
+Computational mechanics consists of computational fluid dynamics (CFD), computational solid mechanics and computational contact mechanics.
+Computational electrodynamics is the process of modeling the interaction of electromagnetic fields with physical objects and the environment. One subfield at the confluence between CFD and electromagnetic modelling is computational magnetohydrodynamics.
+[Computational chemistry](667) is a rapidly growing field that was developed due to the quantum many-body problem.
+Computational solid state physics is a very important division of computational physics dealing directly with material science.
+Computational statistical mechanics is a field related to computational condensed matter which deals with the simulation of models and theories (such as percolation and spin models) that are difficult to solve otherwise.
+Computational statistical physics makes heavy use of Monte Carlo-like methods. More broadly, (particularly through the use of agent based modeling and cellular automata) it also concerns itself with  (and finds application in, through the use of its techniques) in the social sciences, network theory, and mathematical models for the propagation of disease (most notably, the SIR Model) and the spread of forest fires.
+Numerical relativity is a (relatively) new field interested in finding numerical solutions to the field equations of both special relativity and general relativity.
+Computational particle physics deals with problems motivated by particle physics.
+Computational astrophysics is the application of these techniques and methods to astrophysical problems and phenomena.
+Computational biophysics is a branch of biophysics and computational biology itself, applying methods of computer science and physics to large complex biological problems.
+
+Applications
+Due to the broad class of problems computational physics deals, it is an essential component of modern research in different areas of physics, namely: accelerator physics, astrophysics, general theory of relativity (through numerical relativity), fluid mechanics (computational fluid dynamics), lattice field theory/lattice gauge theory (especially lattice quantum chromodynamics), plasma physics (see plasma modeling), simulating physical systems (using e.g. molecular dynamics), nuclear engineering computer codes, protein structure prediction, weather prediction, solid state physics, soft condensed matter physics, hypervelocity impact physics etc.
+Computational solid state physics, for example, uses density functional theory to calculate properties of solids, a method similar to that used by chemists to study molecules.  Other quantities of interest in solid state physics, such as the electronic band structure, magnetic properties and charge densities can be calculated by this and several methods, including the Luttinger-Kohn/k.p method and ab-initio methods.
+On top of advanced physics software, there are also a myriad of tools of analytics available for beginning students of physics such as the PASCO Capstone software.
+
+See also
+Advanced Simulation Library
+CECAM - Centre européen de calcul atomique et moléculaire
+Division of Computational Physics (DCOMP) of the American Physical Society
+Important publications in computational physics
+Mathematical and theoretical physics
+Open Source Physics, computational physics libraries and pedagogical tools
+Timeline of computational physics
+Car–Parrinello molecular dynamics
+
+References
+Further reading
+A.K. Hartmann, Practical Guide to Computer Simulations, World Scientific (2009)
+International Journal of Modern Physics C (IJMPC): Physics and Computers Archived 2004-11-03 at the Wayback Machine, World Scientific
+Steven E. Koonin, Computational Physics, Addison-Wesley (1986)
+T. Pang, An Introduction to Computational Physics, [Cambridge University Press](645) (2010)
+B. Stickler, E. Schachinger, Basic concepts in computational physics, Springer Verlag (2013). ISBN 9783319024349.
+E. Winsberg, Science in the Age of Computer Simulation. Chicago: University of Chicago Press, 2010.
+
+External links
+
+C20 IUPAP Commission on Computational Physics Archived 2015-11-15 at the Wayback Machine
+American Physical Society: Division of Computational Physics
+Institute of Physics: Computational Physics Group Archived 2015-02-13 at the Wayback Machine
+SciDAC: Scientific Discovery through Advanced [Computing](693)
+Open Source Physics
+SCINET Scientific Software Framework
+Computational Physics Course with youtube videos

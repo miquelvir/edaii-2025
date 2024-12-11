@@ -1,0 +1,135 @@
+819
+Arduino
+Arduino () is an Italian open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a CC BY-SA license, while the software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL), permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors.
+Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits. The boards feature serial communications interfaces, including Universal Serial Bus (USB) on some models, which are also used for loading programs. The microcontrollers can be programmed using the C and [C++](640) programming languages (Embedded C), using a standard API which is also known as the Arduino Programming Language, inspired by the Processing language and used with a modified version of the Processing IDE. In addition to using traditional compiler toolchains, the Arduino project provides an integrated development environment (IDE) and a command line tool developed in Go.
+The Arduino project began in 2005 as a tool for students at the Interaction Design Institute Ivrea, Italy, aiming to provide a low-cost and easy way for novices and professionals to create devices that interact with their environment using sensors and actuators. Common examples of such devices intended for beginner hobbyists include simple robots, thermostats, and motion detectors.
+The name Arduino comes from a café in Ivrea, Italy, where some of the project's founders used to meet. The bar was named after Arduin of Ivrea, who was the margrave of the March of Ivrea and King of Italy from 1002 to 1014.
+
+History
+Founding
+The Arduino project was started at the Interaction Design Institute Ivrea (IDII) in Ivrea, Italy. At that time, the students used a BASIC Stamp microcontroller at a cost of $50. In 2004, Hernando Barragán created the development platform Wiring as a Master's thesis project at IDII, under the supervision of Massimo Banzi and Casey Reas. Casey Reas is known for co-creating, with Ben Fry, the Processing development platform. The project goal was to create simple, low cost tools for creating digital projects by non-engineers. The Wiring platform consisted of a printed circuit board (PCB) with an [ATmega](710)128 microcontroller, an IDE based on Processing and library functions to easily program the microcontroller.
+In 2005, Massimo Banzi, with David Mellis, another IDII student, and David Cuartielles, extended Wiring by adding support for the cheaper [ATmega](710)8 microcontroller. The new project, forked from Wiring, was called Arduino.
+The initial Arduino core team consisted of Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino, and David Mellis.
+Following the completion of the platform, lighter and less expensive versions were distributed in the open-source community. It was estimated in mid-2011 that over 300,000 official Arduinos had been commercially produced, and in 2013 that 700,000 official boards were in users' hands.
+
+Trademark dispute
+In early 2008, the five co-founders of the Arduino project created a company, Arduino LLC, to hold the trademarks associated with Arduino. The manufacture and sale of the boards were to be done by external companies, and Arduino LLC would get a royalty from them. The founding bylaws of Arduino LLC specified that each of the five founders transfer ownership of the Arduino brand to the newly formed company.
+At the end of 2008, Gianluca Martino's company, Smart Projects, registered the Arduino trademark in Italy and kept this a secret from the other co-founders for about two years. This was revealed when the Arduino company tried to register the trademark in other areas of the world (they originally registered only in the US), and discovered that it was already registered in Italy. Negotiations with Martino and his firm to bring the trademark under the control of the original Arduino company failed. In 2014, Smart Projects began refusing to pay royalties. They then appointed a new CEO, Federico Musto, who renamed the company Arduino SRL and created the website arduino.org, copying the graphics and layout of the original arduino.cc. This resulted in a rift in the Arduino development team.
+In January 2015, Arduino LLC filed a lawsuit against Arduino SRL.
+In May 2015, Arduino LLC created the worldwide trademark Genuino, used as brand name outside the United States.
+At the World Maker Faire in New York on 1 October 2016, Arduino LLC co-founder and CEO Massimo Banzi and Arduino SRL CEO Federico Musto announced the merger of the two companies, forming Arduino AG. Around that same time, Massimo Banzi announced that in addition to the company a new Arduino Foundation would be launched as "a new beginning for Arduino", but this decision was withdrawn later.
+In April 2017, Wired reported that Musto had "fabricated his academic record... On his company's website, personal LinkedIn accounts, and even on Italian business documents, Musto was, until recently, listed as holding a Ph.D. from the Massachusetts Institute of Technology. In some cases, his biography also claimed an MBA from New York University." Wired reported that neither university had any record of Musto's attendance, and Musto later admitted in an interview with Wired that he had never earned those degrees. The controversy surrounding Musto continued when, in July 2017, he reportedly pulled many open source licenses, schematics, and code from the Arduino website, prompting scrutiny and outcry.
+By 2017 Arduino AG owned many Arduino trademarks. In July 2017 BCMI, founded by Massimo Banzi, David Cuartielles, David Mellis and Tom Igoe, acquired Arduino AG and all the Arduino trademarks. Fabio Violante is the new CEO replacing Federico Musto, who no longer works for Arduino AG.
+
+Post-dispute
+In October 2017, Arduino announced its partnership with Arm Holdings (ARM). The announcement said, in part, "ARM recognized independence as a core value of Arduino ... without any lock-in with the ARM architecture". Arduino intends to continue to work with all technology vendors and architectures. Under Violante's guidance, the company started growing again and releasing new designs. The Genuino trademark was dismissed and all products were branded again with the Arduino name.
+In August 2018, Arduino announced its new open source command line tool (arduino-cli), which can be used as a replacement of the IDE to program the boards from a shell.
+In February 2019, Arduino announced its IoT Cloud service as an extension of the Create online environment.
+As of February 2020, the Arduino community included about 30 million active users based on the IDE downloads.
+
+Hardware
+Arduino is open-source hardware. The hardware reference designs are distributed under a Creative Commons Attribution Share-Alike 2.5 license and are available on the Arduino website. Layout and production files for some versions of the hardware are also available.
+Although the hardware and software designs are freely available under copyleft licenses, the developers have requested the name Arduino to be exclusive to the official product and not be used for derived works without permission. The official policy document on the use of the Arduino name emphasizes that the project is open to incorporating work by others into the official product. Several Arduino-compatible products commercially released have avoided the project name by using various names ending in -duino.
+
+Most Arduino boards consist of an Atmel 8-bit AVR microcontroller ([ATmega](710)8, [ATmega](710)168, [ATmega](710)328, [ATmega](710)1280, or [ATmega](710)2560) with varying amounts of flash memory, pins, and features. The 32-bit Arduino Due, based on the Atmel SAM3X8E was introduced in 2012. The boards use single or double-row pins or female headers that facilitate connections for programming and incorporation into other circuits. These may connect with add-on modules termed shields. Multiple and possibly stacked shields may be individually addressable via an I²C serial bus. Most boards include a 5 V linear regulator and a 16 MHz crystal oscillator or ceramic resonator. Some designs, such as the LilyPad, run at 8 MHz and dispense with the onboard voltage regulator due to specific form factor restrictions.
+Arduino microcontrollers are pre-programmed with a bootloader that simplifies the uploading of programs to the on-chip flash memory. The default bootloader of the Arduino Uno is the Optiboot bootloader. Boards are loaded with program code via a serial connection to another computer. Some serial Arduino boards contain a level shifter circuit to convert between RS-232 logic levels and transistor–transistor logic (TTL serial) level signals. Current Arduino boards are programmed via Universal Serial Bus (USB), implemented using USB-to-serial adapter chips such as the FTDI FT232. Some boards, such as later-model Uno boards, substitute the FTDI chip with a separate AVR chip containing USB-to-serial firmware, which is reprogrammable via its own ICSP header. Other variants, such as the Arduino Mini and the unofficial Boarduino, use a detachable USB-to-serial adapter board or cable, Bluetooth or other methods. When used with traditional microcontroller tools, instead of the Arduino IDE, standard AVR in-system programming (ISP) programming is used.
+
+The Arduino board exposes most of the microcontroller's I/O pins for use by other circuits. The Diecimila, Duemilanove, and current Uno provide 14 digital I/O pins, six of which can produce pulse-width modulated signals, and six analog inputs, which can also be used as six digital I/O pins. These pins are on the top of the board, via female 0.1-inch (2.54 mm) headers. Several plug-in application shields are also commercially available. The Arduino Nano and Arduino-compatible Bare Bones Board and Boarduino boards may provide male header pins on the underside of the board that can plug into solderless breadboards.
+Many Arduino-compatible and Arduino-derived boards exist. Some are functionally equivalent to an Arduino and can be used interchangeably. Many enhance the basic Arduino by adding output drivers, often for use in school-level education, to simplify making buggies and small robots. Others are electrically equivalent, but change the form factor, sometimes retaining compatibility with shields, sometimes not. Some variants use different processors, of varying compatibility.
+
+Official boards
+The original Arduino hardware was manufactured by the Italian company Smart Projects. Some Arduino-branded boards have been designed by the American companies SparkFun Electronics and Adafruit Industries. As of 2016, 17 versions of the Arduino hardware have been commercially produced.
+
+Shields
+Arduino and Arduino-compatible boards use printed circuit expansion boards called shields, which plug into the normally supplied Arduino pin headers. Shields can provide motor controls for 3D printing and other applications, GNSS (satellite navigation), Ethernet, liquid crystal display (LCD), or breadboarding (prototyping). Several shields can also be made do it yourself (DIY).
+
+Software
+A program for Arduino hardware may be written in any programming language with compilers that produce binary machine code for the target processor. Atmel provides a development environment for their 8-bit AVR and 32-bit ARM Cortex-M based microcontrollers: AVR Studio (older) and Atmel Studio (newer).
+
+Legacy IDE
+The Arduino integrated development environment (IDE) is a cross-platform application (for Microsoft Windows, macOS, and Linux) that is based on Processing IDE which is written in Java. It uses the Wiring API as programming style and HAL. It includes a code editor with features such as text cutting and pasting, searching and replacing text, automatic indenting, brace matching, and syntax highlighting, and provides simple one-click mechanisms to compile and upload programs to an Arduino board. It also contains a message area, a text console, a toolbar with buttons for common functions and a hierarchy of operation menus. The source code for the IDE is released under the GNU General Public License, version 2.
+The Arduino IDE supports the languages C and [C++](640) using special rules of code structuring. The Arduino IDE supplies a software library from the Wiring project, which provides many common input and output procedures. User-written code only requires two basic functions, for starting the sketch and the main program loop, that are compiled and linked with a program stub main() into an executable cyclic executive program with the GNU toolchain, also included with the IDE distribution. The Arduino IDE employs the program avrdude to convert the executable code into a text file in hexadecimal encoding that is loaded into the Arduino board by a loader program in the board's firmware. Traditionally, Arduino IDE was used to program Arduino's official boards based on Atmel AVR Microcontrollers, but over time, once the popularity of Arduino grew and the availability of open-source compilers existed, many more platforms from PIC, STM32, TI MSP430, ESP32 can be coded using Arduino IDE.
+
+IDE 2.0
+An initial alpha preview of a new Arduino IDE was released on October 18, 2019, as the Arduino Pro IDE. The beta preview was released on March 1, 2021, renamed IDE 2.0. On September 14, 2022, the Arduino IDE 2.0 was officially released as stable.
+The system still uses Arduino CLI (Command Line Interface), but improvements include a more professional development environment and autocompletion support. The application frontend is based on the Eclipse Theia Open Source IDE. Its main new features are:
+
+Modern, fully featured development environment
+New Board Manager
+New Library Manager
+Project Explorer
+Basic Auto-Completion and syntax check
+Serial Monitor with Graph Plotter
+Dark Mode and DPI awareness
+64-bit release
+Debugging capability
+One important feature Arduino IDE 2.0 provides is the debugging feature. It allows users to single-step, insert breakpoints or view memory. Debugging requires a target chip with debug port and a debug probe. The official Arduino Zero board can be debugged out of the box. Other official Arduino SAMD21 boards require a separate SEGGER J-Link or Atmel-ICE.
+For a 3rd party board, debugging in Arduino IDE 2.0 is also possible as long as such board supports GDB, OPENOCD and has a debug probe. Community has contributed debugging for ATMega328P based Arduino  or CH32 RiscV Boards, etc.
+
+Sketch
+A sketch is a program written with the Arduino IDE. Sketches are saved on the development computer as text files with the file extension .ino. Arduino Software (IDE) pre-1.0 saved sketches with the extension .pde.
+A minimal Arduino C/[C++](640) program consists of only two functions:
+
+setup(): This function is called once when a sketch starts after power-up or reset. It is used to initialize variables, input and output pin modes, and other libraries needed in the sketch. It is analogous to the function main().
+loop(): After setup() function exits (ends), the loop() function is executed repeatedly in the main program. It controls the board until the board is powered off or is reset. It is analogous to the function while(1).
+Blink example
+
+Most Arduino boards contain a light-emitting diode (LED) and a current-limiting resistor connected between pin 13 and ground, which is a convenient feature for many tests and program functions. A typical program used by beginners, akin to Hello, World!, is "blink", which repeatedly blinks the on-board LED integrated into the Arduino board. This program uses the functions pinMode(), digitalWrite(), and delay(), which are provided by the internal libraries included in the IDE environment. This program is usually loaded into a new Arduino board by the manufacturer.
+
+Libraries
+The open-source nature of the Arduino project has facilitated the publication of many free software libraries that other developers use to augment their projects.
+
+Operating systems/threading
+There is a Xinu OS port for the [ATmega](710)328P (Arduino Uno and others with the same chip), which includes most of the basic features. The source code of this version is freely available.
+There is also a threading tool, named Protothreads. Protothreads are described as "extremely lightweight stackless threads designed for severely memory constrained systems, such as small embedded systems or wireless sensor network nodes.
+There is a port of FreeRTOS for the Arduino. This is available from the Arduino Library Manager. It is compatible with a number of boards, including the Uno.
+
+Applications
+Arduboy, a handheld game console based on Arduino
+Arduinome, a MIDI controller device that mimics the Monome
+Ardupilot, drone software and hardware
+ArduSat, a cubesat based on Arduino
+C-STEM Studio, a platform for hands-on integrated learning of computing, science, technology, engineering, and mathematics (C-STEM) with robotics
+Data loggers for scientific research
+OBDuino, a trip computer that uses the on-board diagnostics interface found in most modern cars
+OpenEVSE an open-source electric vehicle charger
+XOD, a visual programming language for Arduino
+
+Simulation
+Tinkercad, an analog and digital simulator supporting Arduino Simulation, which is commonly used to create 3D models
+
+Recognitions
+The Arduino project received an honorary mention in the Digital Communities category at the 2006 Prix Ars Electronica.
+The Arduino Engineering Kit won the Bett Award for "Higher Education or Further Education Digital Services" in 2020.
+
+See also
+List of Arduino boards and compatible systems
+List of open-source hardware projects
+
+Explanatory notes
+References
+Further reading
+Banzi, Massimo; Shiloh, Michael (2022). Make: Getting Started With Arduino: The Open Source Electronics Prototyping Platform (4th ed.). Make Community. ISBN 978-1680456936.
+Blum, Jeremy (2019). Exploring Arduino: Tools and Techniques for Engineering Wizardry (2nd ed.). Wiley. ISBN 978-1119405375.
+Boxall, John (2021). Arduino Workshop: A Hands-On Introduction with 65 Projects (2nd ed.). No Starch Press. ISBN 978-1718500587.
+Karvinen, Tero; Karvinen, Kimmo; Valtokari, Ville (2014). Make: Sensors (1st ed.). Make Community. ISBN 978-1449368104.
+Monk, Simon (2018). Programming Arduino Next Steps: Going Further with Sketches (2nd ed.). McGraw-Hill Education. ISBN 978-1260143249.
+Monk, Simon (2022). Programming Arduino: Getting Started with Sketches (3rd ed.). McGraw-Hill Education. ISBN 978-1264676989.
+Nussey, John (2018). Arduino For Dummies (2nd ed.). John Wiley & Sons. ISBN 978-1119489542.
+Purdum, Jack (2015). Beginning C for Arduino: Learn C Programming for the Arduino (2nd ed.). Apress. ISBN 978-1484209417.
+Schmidt, Maik (2015). Arduino: A Quick Start Guide (2nd ed.). Pragmatic Bookshelf. ISBN 978-1941222249.
+
+External links
+
+Official website
+How Arduino is open sourcing imagination, a TED talk by creator Massimo Banzi
+Evolution tree for Arduino
+Arduino Cheat Sheet
+Arduino Dimensions and Hole Patterns
+Arduino Shield Template
+Arduino Board Pinout Diagrams: Due, Esplora, Leonardo, Mega, Micro, Mini, Pro Micro, Pro Mini, Uno, Yun
+Historical
+Arduino – The Documentary (2010): IMDb, Vimeo
+Massimo Banzi interviews: Triangulation 110, FLOSS 61
+Untold History of Arduino – Hernando Barragán
+Lawsuit documents from Arduino LLC vs. Arduino S.R.L. et al. – United States Courts Archive

@@ -1,0 +1,63 @@
+4796
+Crișana dialect
+The Crișana dialect (subdialectul / graiul crișean) is one of the dialects of the Romanian language (Daco-Romanian). Its geographic distribution covers approximately the historical region of Crișana, in western Transylvania.
+
+Classification
+The Crișana dialect is part of the group of relatively fragmented Transylvanian varieties, along with the Maramureș dialect. As such, the Crișana dialect is a member of the northern group of Romanian dialects, which also includes Moldavian and Banat, and shares with them a large number of characteristics, as opposed to the Wallachian dialect.
+As with all other dialects of Romanian, the one of Crișana is distinguished primarily by its phonetic features and to a lesser degree by its morphological, syntactic, and lexical features. However, in the context of the more fragmented Transylvanian speech varieties, these characteristics are less distinct than those of other dialectal areas. As a consequence, in some classifications the Crișana dialect is not individualized, such as those of Gustav Weigand, Alexandru Philippide, Iorgu Iordan and Emanuel Vasiliu. Other analyses, however, include the Crișana dialect in their classifications of four or five dialects (the fifth would be the even less distinct Maramureș dialect); this view is supported particularly by more recent studies, such as those of Romulus Todoran, Emil Petrovici, and Ion Coteanu. This divergence is a matter of definition.
+
+Geographic distribution
+The Crișana dialect has its name from the historical region of Crișana, although the dialectal area and the historical region only partially overlap. More precisely, the dialect is spoken in the following Romanian counties: Bihor, Sălaj, Satu Mare, Alba (north-western part), Cluj (western half), Arad (northern half, delimited by the Mureș river), Hunedoara (northern part), Maramureș (south-western part).
+
+Subdivisions
+Several varieties can be further distinguished within the Crișana dialect, specifically those of Bihor, Țara Moților, the area of the Someș River, and Țara Oașului.
+
+Particularities
+Phonetic features
+Unstressed vowels a, e, o often close to ə, i, u, respectively: pəˈhar, ˈpuni, akupeˈrit for standard pahar, pune, acoperit.
+Conversely, vowel ə sometimes opens to a: paˈduri, kapaˈtat for standard pădure, căpătat.
+The diphthong o̯a is systematically monophthongized to ɔ: ˈpɔtʲe, ˈkɔʒə for standard poate, coajă.
+After labials, e becomes ə and the diphthong e̯a is monophthongized to a: mərɡ, ˈmarɡə for standard merg, meargă.
+After the consonants s, z, t͡s, d͡z, front vowels become central, and the diphthong e̯a monophthongizes to a: ˈsɨŋɡur, ˈsarə, ˈzamə, t͡sɨn for standard singur, seară, zeamă, țin. In certain areas, the same happens with consonants ʃ, ʒ; in other areas, they palatalize and make the subsequent central vowels front: ˈkwɔʒʲe, ˈuʃʲe for standard coajă, ușă.
+The vowel o in word-initial positions diphthongizes to wə: wəj, wərb for standard oi, orb.
+Asyllabic word-final vowels ʲ, ʷ occur: a spusʷ for standard a spus.
+The diphthong ɨj monophthongizes to ɨ: ˈkɨne, ˈmɨne, ˈpɨne for standard câine, mâine, pâine.
+The diphthong ja becomes je in certain words: bəˈjet, təmɨˈjet for standard băiat, tămâiat.
+The archaic consonant d͡z becomes z in most of the dialectal area, whereas d͡ʒ is preserved, although in free variation with ʒ.
+The labials and the labio-dentals are palatalized in specific ways when followed by front vowels: p, b, m become ptʲ, bdʲ, mnʲ, respectively; f becomes hʲ or ʃʲ, and v becomes ɦʲ or dʲ. Examples: ˈptʲele, ˈbdʲinʲe, mnʲik, ˈhʲi.e / ˈʃʲi.e, ɦʲiˈt͡səl / dʲiˈt͡səl for standard piele, bine, mic, (să) fie, vițel. However, the palatalization is not generalized (it is more widespread in the northern part of the dialectal area) and fluctuations occur.
+Dentals t, d palatalize when followed by front vowels: ˈfratʲe, ˈbadʲe for standard frate, bade.
+The affricate t͡ʃ remains unchanged, while d͡ʒ becomes ʒ: ˈsɨnʒe, ˈfuʒe for standard sânge, fuge.
+The sequence sl receives an epenthetic k and becomes skl: sklab, skləˈninə for standard slab, slănină.
+In Țara Moților, a specific kind of rhotacism occurs, by which intervocalic n is replaced with r in old words: ˈwamirʲ, lumnʲirə for standard oameni, lumină. An identical phenomenon, which may be historically related, occurs in Istro-Romanian.
+In Țara Oașului, when l is followed by a consonant, it is velarized to ɫ or even w: aɫb / awb for standard alb.
+In Țara Oașului, the consonant r is realized with multiple vibrations.
+
+Morphological and syntactical features
+The possessive article is invariable: a meu, a mea, a mei, a mele ("mine", compare with standard al meu, a mea, ai mei, ale mele).
+Some verbs of the 1st and 4th conjugation groups do not take the -ez and -esc suffixes: lucră, străluce ("he works", "it shines", compare with standard lucrează, strălucește). On the other hand, the suffix -esc does occur sometimes where in the standard language it doesn't: împărțăsc, înghițăsc, simțăsc ("I divide", "I swallow", "I feel", compare with standard împart, înghit, simt).
+The auxiliary used for the compound perfect of verbs in the 3rd person is o for the singular and or / o for the plural: o zɨs, or zɨs ("he said", "they said", compare with standard a zis, au zis).
+The conjunction used for subjunctives is și: și facă ("for him to do, that he does", compare with standard să facă).
+The following forms occur for the 3rd person of the subjunctive, both singular and plural: să deie, să steie, să beie, să vreie, ending in ˈeje, where the standard language has să dea, să stea, să bea, să vrea, ending in ˈe̯a.
+The past tense of the optative-conditional mood is formed using the auxiliary a vrea and the infinitive, for instance o vu cânta, totally different from the standard ar fi cântat.
+When the object of a verb is another verb, the latter is in its infinitive form.
+In some constructions, analytic forms are preferred to synthetic ones, e.g. the preposition cătă ("towards", standard către) is used instead of the dative: o zɨs ˈkətə ˈminʲe ("he said to me", compare with standard mi-a zis).
+In certain areas, the imperative is formed using the long infinitive: nu plecareți!, nu vă lăudareți! (standard: nu plecați!, nu vă lăudați!).
+In the northern and central parts of the dialectal area, certain verb forms have n replaced with other sounds: spuj, viw, viˈind ("I say", "I come", "coming", compare with standard spun, vin, venind). This feature is shared with the Wallachian dialect.
+
+Lexical particularities
+Particular forms of the indefinite pronouns (and their corresponding adjectives) occur: oarecine ("someone", standard cineva), oarece ("something", standard ceva).
+Other specific words: arină ("sand", standard nisip), brâncă ("hand", mână), cotătoare ("mirror", oglindă), ștergură ("towel", prosop), vă! ("go!", du-te!), tulai! ("oh!", vai!), no( used to express feelings or situations), etc.
+
+Sample
+Crișana dialect: aˈtunt͡ʃ jar o jeˈʃɨt ʃɨ so ujˈtat ‖ am rədʲiˈkat ˈbrɨŋka ‖ ʃɨ ˈdomnu o zɨs ‖ ˈɨŋkaʃa nã vəˈzut ˈkɨnʲe ‖ ʃaˈtunt͡ʃ ˈkɨnʲile o vint ku ˈwə.ile ʃɨ so ujˈtat la ˈminʲe t͡ʃej maj spun ‖ kə jel o ʃtʲiˈut kəj maj spun t͡ʃeˈva
+Standard Romanian: Atunci iar a ieșit și s-a uitat. Am ridicat mâna. Și domnul a zis: Așa câine încă n-am văzut. Și-atunci câinele a venit cu oile și s-a uitat la mine așteptând să vadă ce-i mai spun. Că el a știut că-i mai spun ceva.
+English translation: "Then it went out again and watched. I raised my hand. And the gentleman said: I've never seen a dog like this. And then the dog brought the sheep back and looked at me waiting to see what else I was going to say. Because it knew I was going to say something again."
+
+Notes
+Bibliography
+Ilona Bădescu, "Dialectologie", teaching material for the University of Craiova (in Romanian)
+Vasile Ursan, "Despre configurația dialectală a dacoromânei actuale", Transilvania (new series), 2008, No. 1, pp. 77–85 (in Romanian)
+Elena Buja, Liliana Coposescu, Gabriela Cusen, Luiza Meseșan Schmitz, Dan Chiribucă, Adriana Neagu, Iulian Pah, Raport de țară: România, country report for the Lifelong Learning Programme MERIDIUM (in Romanian)
+
+See also
+Romanian phonology

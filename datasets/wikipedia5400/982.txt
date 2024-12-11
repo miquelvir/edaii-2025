@@ -1,0 +1,26 @@
+982
+Symposium on Principles of Distributed Computing
+The ACM Symposium on Principles of Distributed Computing (PODC) is an academic conference in the field of distributed computing organised annually by the [Association for Computing Machinery](823) (special interest groups SIGACT and SIGOPS).
+
+Scope and related conferences
+Work presented at PODC typically studies theoretical aspects of distributed computing, such as the design and analysis of distributed algorithms. The scope of PODC is similar to the scope of International Symposium on Distributed Computing (DISC), with the main difference being geographical: DISC is usually organized in European locations, while PODC has been traditionally held in North America. The Edsger W. Dijkstra Prize in Distributed Computing is presented alternately at PODC and at DISC.
+Other closely related conferences include ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), which – as the name suggests – puts more emphasis on parallel algorithms than distributed algorithms. PODC and SPAA have been co-located in 1998, 2005, and 2009.
+
+Reputation and selectivity
+PODC is often mentioned to be one of the top conferences in the field of distributed computing. In the 2007 Australian Ranking of ICT Conferences, PODC was the only conference in the field that received the highest ranking, "A+".
+During the recent years 2004–2009, the number of regular papers submitted to PODC has fluctuated between 110 and 224 each year. Of these submissions, 27–40 papers have been accepted for presentation at the conference each year; acceptance rates for regular papers have been between 16% and 31%.
+
+History
+PODC was first organised on 18–20 August 1982, in Ottawa, Ontario, Canada. PODC was part of the Federated Computing Research Conference in 1996, 1999 and 2011.
+Between 1982 and 2009, PODC was always held in a North American location – usually in the United States or Canada, and once in Mexico. In 2010, PODC was held in Europe for the first time in its history, and in the same year, its European sister conference DISC was organised in the United States for the first time in its history. PODC 2010 took place in Zürich, Switzerland, and DISC 2010 took place in Cambridge, Massachusetts.
+Since 2000, a review of the PODC conference appears in the year-ending issue of the ACM SIGACT News Distributed Computing Column. The review is usually written by a member of the distributed computing research community.
+
+See also
+The list of distributed computing conferences contains other academic conferences in distributed computing.
+The list of computer science conferences contains other academic conferences in computer science.
+
+References
+External links
+Official website 
+PODC proceedings in ACM Digital Library.
+PODC proceedings information in DBLP.

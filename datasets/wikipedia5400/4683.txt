@@ -1,0 +1,242 @@
+4683
+Grammatical case
+A grammatical case is a category of nouns and noun modifiers (determiners, adjectives, participles, and numerals) that corresponds to one or more potential grammatical functions for a nominal group in a wording. In various languages, nominal groups consisting of a noun and its modifiers belong to one of a few such categories. For instance, in English, one says I see them and they see me: the nominative pronouns I/they represent the perceiver and the accusative pronouns me/them represent the phenomenon perceived. Here, nominative and accusative are cases, that is, categories of pronouns corresponding to the functions they have in representation.
+English has largely lost its inflected case system but personal pronouns still have three cases, which are simplified forms of the nominative, accusative (including functions formerly handled by the dative) and genitive cases. They are used with personal pronouns: subjective case (I, you, he, she, it, we, they, who, whoever), objective case (me, you, him, her, it, us, them, whom, whomever) and possessive case (my, mine; your, yours; his; her, hers; its; our, ours; their, theirs; whose; whosever). Forms such as I, he and we are used for the subject ("I kicked John"), and forms such as me, him and us are used for the object ("John kicked me").
+As a language evolves, cases can merge (for instance, in [Ancient Greek](3061), the locative case merged with the dative), a phenomenon known as syncretism.
+Languages such as Sanskrit, Kannada, Latin, Tamil, and Russian have extensive case systems, with nouns, pronouns, adjectives, and determiners all inflecting (usually by means of different suffixes) to indicate their case. The number of cases differs between languages: Persian has three; modern English has three but for pronouns only; Torlakian dialects, Classical and Modern Standard Arabic have three; German, Icelandic, Modern Greek, and Irish have four; Albanian, Romanian and [Ancient Greek](3061) have five; Bengali, Latin, Russian, Slovak, Kajkavian, Slovenian, and Turkish each have at least six; Armenian, Czech, Georgian, Latvian, Lithuanian, Polish, Serbo-Croatian and Ukrainian have seven; Mongolian, Marathi, Sanskrit, Kannada, Tamil, Telugu, Malayalam, Assamese and Greenlandic have eight; Old Nubian and Sinhalese have nine; Basque has 13; Estonian has 14; Finnish has 15; Hungarian has 18; and Tsez has at least 36 cases.
+Commonly encountered cases include nominative, accusative, dative and genitive. A role that one of those languages marks by case is often marked in English with a preposition. For example, the English prepositional phrase with (his) foot (as in "John kicked the ball with his foot") might be rendered in Russian using a single noun in the instrumental case, or in [Ancient Greek](3061) as τῷ ποδί (tôi podí, meaning "the foot") with both words (the definite article, and the noun πούς (poús) "foot") changing to dative form.
+More formally, case has been defined as "a system of marking dependent nouns for the type of relationship they bear to their heads".: p.1  Cases should be distinguished from thematic roles such as agent and patient. They are often closely related, and in languages such as Latin, several thematic roles are realised by a somewhat fixed case for deponent verbs, but cases are a syntagmatic/phrasal category, and thematic roles are the function of a syntagma/phrase in a larger structure. Languages having cases often exhibit free word order, as thematic roles are not required to be marked by position in the sentence.
+
+History
+It is widely accepted that the [Ancient Greek](3061)s had a certain idea of the forms of a name in their own language. A fragment of Anacreon seems to prove this. Grammatical cases were first recognized by the Stoics and from some philosophers of the Peripatetic school. The advancements of those philosophers were later employed by the philologists of the Library of Alexandria.
+
+Etymology
+The English word case used in this sense comes from the Latin casus, which is derived from the verb cadere, "to fall", from the Proto-Indo-European root wikt:Appendix:Proto-Indo-European/ḱad-|*ḱad-. The Latin word is a calque of the Greek πτῶσις, ptôsis, lit. "falling, fall". The sense is that all other cases are considered to have "fallen" away from the nominative. This imagery is also reflected in the word declension, from Latin declinere, "to lean", from the PIE root wikt:Appendix:Proto-Indo-European/ḱley-|*ḱley-.
+The equivalent to "case" in several other European languages also derives from casus, including cas in French, caso in Italian and Kasus in German. The Russian word паде́ж (padyézh) is a calque from Greek and similarly contains a root meaning "fall", and the German Fall and Czech pád simply mean "fall", and are used for both the concept of grammatical case and to refer to physical falls. The Dutch equivalent naamval translates as 'noun case', in which 'noun' has the older meaning of both 'adjective (noun)' and '(substantive) noun'. The Finnish equivalent is sija, whose main meaning is "position" or "place". 
+Similar to Latin, Sanskrit uses the term विभक्ति (vibhakti) which may be interpreted as the specific or distinct "bendings" or "experiences" of a word, from the verb भुज् (bhuj) and the prefix वि (vi), and names the individual cases using ordinal numbers.
+
+Indo-European languages
+Although not very prominent in modern English, cases featured much more saliently in Old English and other ancient Indo-European languages, such as Latin, Old Persian, [Ancient Greek](3061), and Sanskrit. Historically, the Indo-European languages had eight morphological cases, although modern languages typically have fewer, using prepositions and word order to convey information that had previously been conveyed using distinct noun forms. Among modern languages, cases still feature prominently in most of the [Balto-Slavic languages](4644) (except Macedonian and Bulgarian), with most having six to eight cases, as well as Icelandic, German and Modern Greek, which have four. In German, cases are mostly marked on articles and adjectives, and less so on nouns. In Icelandic, articles, adjectives, personal names and nouns are all marked for case, making it the most conservative Germanic language.
+The eight historical Indo-European cases are as follows, with examples either of the English case or of the English syntactic alternative to case:
+
+All of the above are just rough descriptions; the precise distinctions vary significantly from language to language, and as such they are often more complex. Case is based fundamentally on changes to the noun to indicate the noun's role in the sentence – one of the defining features of so-called fusional languages. Old English was a fusional language, but Modern English does not work this way.
+
+Modern English
+Modern English has largely abandoned the inflectional case system of Proto-Indo-European in favor of analytic constructions. The personal pronouns of Modern English retain morphological case more strongly than any other word class (a remnant of the more extensive case system of Old English). For other pronouns, and all nouns, adjectives, and articles, grammatical function is indicated only by word order, by prepositions, and by the "Saxon genitive" (-'s).
+Taken as a whole, English personal pronouns are typically said to have three morphological cases:
+
+The nominative case (subjective pronouns such as I, he, she, we), used for the subject of a finite verb and sometimes for the complement of a copula.
+The oblique case (object pronouns such as me, him, her, us), used for the direct or indirect object of a verb, for the object of a preposition, for an absolute disjunct, and sometimes for the complement of a copula.
+The genitive case (possessive pronouns such as my/mine, his, her/hers, our/ours), used for a grammatical possessor. This is not always considered to be a case; see English possessive § Status of the possessive as a grammatical case.
+Most English personal pronouns have five forms: the nominative case form, the oblique case form, a distinct reflexive or intensive form (such as myself, ourselves) which is based upon the possessive determiner form but is coreferential to a preceding instance of nominative or oblique, and the possessive case forms, which include both a determiner form (such as my, our) and a predicatively-used independent form (such as mine, ours) which is distinct (with two exceptions: the third person singular masculine he and the third person singular neuter it, which use the same form for both determiner and independent his car, it is his). The interrogative personal pronoun who exhibits the greatest diversity of forms within the modern English pronoun system, having definite nominative, oblique, and genitive forms (who, whom, whose) and equivalently-coordinating indefinite forms (whoever, whomever, and whosever).
+Although English pronouns can have subject and object forms (he/him, she/her), nouns show only a singular/plural and a possessive/non-possessive distinction (e.g. chair, chairs, chair's, chairs'); there is no manifest difference in the form of chair between "The chair is here." (subject) and "I own the chair." (direct object), a distinction made instead by word order and context.
+
+Hierarchy of cases
+Cases can be ranked in the following hierarchy, where a language that does not have a given case will tend not to have any cases to the right of the missing case:: p.89 
+
+nominative or  absolutive → accusative or ergative → genitive → dative → locative or prepositional → ablative and/or instrumental → others.
+This is, however, only a general tendency. Many forms of Central German, such as Colognian and Luxembourgish, have a dative case but lack a genitive. In Irish nouns, the nominative and accusative have fallen together, whereas the dative–locative has remained separate in some paradigms; Irish also has genitive and vocative cases. In many modern Indo-Aryan languages, the accusative, genitive, and dative have merged to an oblique case, but many of these languages still retain vocative, locative, and ablative cases. Old English had an instrumental case, but neither a locative nor a prepositional case.
+
+Case order
+The traditional case order (nom-gen-dat-acc) was expressed for the first time in The Art of Grammar in the 2nd century BC:
+
+Latin grammars, such as Ars grammatica, followed the Greek tradition, but added the ablative case of Latin. Later other European languages also followed that Graeco-Roman tradition.
+However, for some languages, such as Latin, due to case syncretism the order may be changed for convenience, where the accusative or the vocative cases are placed after the nominative and before the genitive. For example:
+
+For similar reasons, the customary order of the four cases in Icelandic is nominative–accusative–dative–genitive, as illustrated below:
+
+Sanskrit similarly arranges cases in the order nominative-accusative-instrumental-dative-ablative-genitive-locative-vocative. The cases are individually named as the "first," "second," "third" and so on. For example, the common "when-then" construction is called the सति सप्तमी (Sati Saptami) or "The Good Seventh" as it uses the locative, which is the seventh case.
+
+Case concord systems
+In the most common case concord system, only the head-word (the noun) in a phrase is marked for case. This system appears in many Papuan languages as well as in Turkic, Mongolian, Quechua, Dravidian, Indo-Aryan, and other languages. In Basque and various Amazonian and Australian languages, only the phrase-final word (not necessarily the noun) is marked for case. In many Indo-European, Finnic, and Semitic languages, case is marked on the noun, the determiner, and usually the adjective. Other systems are less common. In some languages, there is double-marking of a word as both genitive (to indicate semantic role) and another case such as accusative (to establish concord with the head noun).
+
+Declension paradigms
+Declension is the process or result of altering nouns to the correct grammatical cases. Languages with rich nominal inflection (using grammatical cases for many purposes) typically have a number of identifiable declension classes, or groups of nouns with a similar pattern of case inflection or declension. Sanskrit has six declension classes, whereas Latin is traditionally considered to have five, and [Ancient Greek](3061) three. For example, Slovak has fifteen noun declension classes, five for each gender (the number may vary depending on which paradigms are counted or omitted, this mainly concerns those that modify declension of foreign words; refer to article).
+In Indo-European languages, declension patterns may depend on a variety of factors, such as gender, number, phonological environment, and irregular historical factors. Pronouns sometimes have separate paradigms. In some languages, particularly Slavic languages, a case may contain different groups of endings depending on whether the word is a noun or an adjective. A single case may contain many different endings, some of which may even be derived from different roots. For example, in Polish, the genitive case has -a, -u, -ów, -i/-y, -e- for nouns, and -ego, -ej, -ich/-ych for adjectives. To a lesser extent, a noun's animacy or humanness may add another layer of complexity. For example, in Russian:
+
+vs.
+
+and
+
+Examples
+Australian Aboriginal languages
+Australian languages represent a diversity of case paradigms in terms of their alignment (i.e. nominative-accusative vs. ergative-absolutive) and the morpho-syntactic properties of case inflection including where/how many times across a noun phrase the case morphology will appear. For typical r-expression noun phrases, most Australian languages follow a basic ERG-ABS template with additional cases for peripheral arguments; however, many Australian languages, the function of case marking extends beyond the prototypical function of specifying the syntactic and semantic relation of an NP to a predicate. Dench and Evans (1988) use a five-part system for categorizing the functional roles of case marking in Australian languages. They are enumerated below as they appear in Senge (2015):
+
+Relational: a suffix which represents syntactic or semantic roles of a noun phrase in clauses.
+Adnominal: a suffix which relates a noun phrase to another within the one noun phrase.
+Referential: a suffix which attaches to a noun phrase in agreement with another noun phrase which represents one of the core arguments in the clause.
+Subordinating: a suffix which attaches to elements of a subordinate clause. Its functions are: (i) specifying temporal or logical (typically, causal and purposive) relationships between two clauses (Temporal-subordinator); (ii) indicating coreferential relationships between arguments in the two clauses (Concord-subordinator).
+Derivational: a suffix which attaches to a bare stem before other case suffixes and create a new lexical item.
+To illustrate this paradigm in action, take the case-system of Wanyjirra for whose description Senge invokes this system. Each of the case markers functions in the prototypical relational sense, but many extend into these additional functions:
+
+Wanyjirra is an example of a language in which case marking occurs on all sub-constituents of the NP; see the following example in which the demonstrative, head, and quantifier of the noun phrase all receive ergative marking:
+
+However, this is by no means always the case or even the norm for Australian languages. For many, case-affixes are considered special-clitics (i.e. phrasal-affixes, see Anderson 2005) because they have a singular fixed position within the phrase. For Bardi, the case marker usually appears on the first phrasal constituent while the opposite is the case for Wangkatja (i.e. the case marker is attracted to the rightmost edge of the phrase). See the following examples respectively:
+
+Basque
+Basque has the following cases, with examples given in the indefinite, definite singular, definite plural, and definite close plural of the word etxe, "house", "home":
+
+absolutive (etxe, etxea, etxeak, etxeok: "house, the / a house, (the / some) houses, these houses"),
+ergative (etxek, etxeak, etxeek, etxeok),
+dative (etxeri, etxeari, etxeei, etxeoi),
+genitive (etxeren, etxearen, etxeen, etxeon),
+destinative (or benefactive: etxerentzat, etxearentzat, etxeentzat, etxeontzat),
+motivative (or causal: etxerengatik, etxearengatik, etxeengatik, etxeongatik),
+sociative (etxerekin, etxearekin, etxeekin, etxeokin),
+instrumental (etxez, etxeaz, etxeez, etxeoz),
+locative or inesive (etxetan, etxean, etxeetan, etxeotan),
+ablative (etxetatik, etxetik, exteetatik, etxeotatik),
+adlative (etxetara, etxera, etxeetara, etxeotara),
+directional adlative (etxetarantz, etxerantz, etxeetarantz, etxeotarantz),
+terminative adlative (etxetaraino, etxeraino, etxeetaraino, etxeotaraino),
+locative genitive (etxetako, etxeko, etxeetako, etxeotako),
+prolative (etxetzat), only in the indefinite grammatical number,
+partitive (etxerik), only in the indefinite grammatical number, and
+distributive (Bost liburu ikasleko banatu dituzte, "They have handed out five books to each student"), only in the indefinite grammatical number.
+Some of them can be re-declined, even more than once, as if they were nouns (usually, from the genitive locative case), although they mainly work as noun modifiers before a noun clause:
+
+etxearena (that which is of the house), etxearenarekin (with the one which pertains to the house),
+neskarentzako (which is for the girl), neskarentzakoan (in the one which is for the girl),
+neskekiko (which is with the girls), neskekikoa (the one which is for the girls),
+arazoarengatiko (which is because of the problem), arazoarengatikoak (the ones which are due to the problems),
+zurezkoaz (by means of the wooden one),
+etxeetakoaz (about the one which is in the houses), etxeetakoari (to the one which is in the houses),
+etxetiko (which comes from the house), etxetikoa (the one which comes from the house), etxetikoari (to the one which comes from the house),
+etxeetarako (which goes to the houses), etxeetarakoa (the one which goes to the houses), etxeetarakoaz (about the one which goes to the houses),
+etxeranzko (which goes towards the house), etxeranzkoa (the one which goes to the house), etxeranzkoarena (the one which belongs to the one which goes to the house),
+etxerainoko (which goes up to the house), etxerainokoa (the one which goes up to the house), etxerainokoarekin (with the one which goes up to the houses)...
+
+German
+In German, grammatical case is largely preserved in the articles and adjectives, but nouns have lost many of their original endings. Below is an example of case inflection in German using the masculine definite article and one of the German words for "sailor".
+
+der Seemann (nominative) "the sailor" as a subject (e.g. Der Seemann steht da – the sailor is standing there)
+des Seemann(e)s (genitive) "the sailor's / of the sailor" (e.g. Der Name des Seemannes ist Otto – the name of the sailor is Otto)
+dem Seemann(e) (dative) "to/for the sailor" as an indirect object (e.g. Ich gab dem Seemann ein Geschenk – I gave a present to the sailor)
+den Seemann (accusative) "the sailor" as a direct object (e.g. Ich sah den Seemann – I saw the sailor)
+An example with the feminine definite article with the German word for "woman".
+
+die Frau (nominative) "the woman" as a subject (e.g. Die Frau isst - the woman is eating)
+der Frau (genitive) "the woman's / of the woman" (e.g. Die Katze der Frau ist weiß - the cat of the woman is white)
+der Frau (dative) "to/for the woman" as an indirect object (e.g. Ich gab der Frau ein Geschenk - I gave a present to the woman)
+die Frau (accusative) "the woman" as a direct object (e.g. Ich sah die Frau - I saw the woman)
+An example with the neuter definite article with the German word for "book".
+
+das Buch (nominative) "the book" as a subject (e.g. Das Buch ist gut - the book is good)
+des Buch(e)s (genitive) "the book's/ of the book" (e.g. Die Seiten des Buchs sind grün - the pages of the book are green)
+dem Buch(e) (dative) "to/for the book" as an indirect object (e.g. Ich gab dem Buch einen Titel - I gave the book a title)
+das Buch (accusative) "the book" as a direct object (e.g. Ich sah das Buch - I saw the book)
+Proper names for cities have two genitive nouns:
+
+der Hauptbahnhof Berlins (primary genitive) "the main train station of Berlin"
+der Berliner Hauptbahnhof (secondary genitive) "Berlin's main train station"
+
+Hindi-Urdu
+Hindi-Urdu (Hindustani) has three noun cases, the nominative, oblique, and vocative cases. The vocative case is now obsolete (but still used in certain regions) and the oblique case doubles as the vocative case. The pronoun cases in Hindi-Urdu are the nominative, ergative, accusative, dative, and two oblique cases. The case forms which do not exist for certain pronouns are constructed using primary postpositions (or other grammatical particles) and the oblique case (shown in parentheses in the table below).
+The other cases are constructed adpositionally using the case-marking postpositions using the nouns and pronouns in their oblique cases. The oblique case is used exclusively with these 8 case-marking postpositions of Hindi-Urdu forming 10 grammatical cases, which are: ergative ने (ne), dative and accusative को (ko), instrumental and ablative से (se), genitive का (kā), inessive में (mẽ), adessive पे (pe), terminative तक (tak), semblative सा (sā).
+
+Latin
+An example of a Latin case inflection is given below, using the singular forms of the Latin term for "cook", which belongs to Latin's second declension class.
+
+coquus (nominative) "the cook" as a subject (e.g. coquus ibī stat – the cook is standing there)
+coquī (genitive) "the cook's / of the cook" (e.g. nōmen coquī Claudius est – the cook's name is Claudius)
+coquō (dative) "to/for the cook" as an indirect object (e.g. coquō dōnum dedī – I gave a present to the cook)
+coquum (accusative) "the cook" as a direct object (e.g. coquum vīdī – I saw the cook)
+coquō (ablative) "by/with/from/in the cook" in various uses not covered by the above (e.g. sum altior coquō – I am taller than the cook: ablative of comparison)
+coque (vocative) "you the cook" addressing the object (e.g. grātiās tibi agō, coque – I thank you, cook)
+For some toponyms, a seventh case, the locative, also exists, such as Mediolānī (in Mediolanum).
+The Romance languages have largely abandoned or simplified the grammatical cases of Latin. Much like English, most Romance case markers survive only in pronouns.
+
+Lithuanian
+Typically in Lithuanian, only the inflection changes for the seven different grammatical cases:
+
+Nominative (vardininkas): šuo – Tai yra šuo – "This is a dog."
+Genitive (kilmininkas): šuns – Tomas paėmė šuns kaulą – "Tom took the dog's bone."
+Dative (naudininkas): šuniui – Jis davė kaulą kitam šuniui – "He gave the bone to another dog."
+[Accusative](4411) (galininkas): šunį – Jis nuprausė šunį – "He washed the dog."
+Instrumental (įnagininkas): šunimi – Jis šunimi išgąsdino kates – He scared the cats with (using) the dog.
+Locative (vietininkas): šunyje – Susitiksime „Baltame šunyje“ – "We'll meet at the White Dog (Cafe)."
+Vocative (šauksmininkas): šunie – Jis sušuko: Ei, šunie! – "He shouted: Hey, dog!"
+
+Hungarian
+Hungarian declension is relatively simple with regular suffixes attached to the vast majority of nouns. The following table lists all of the cases used in Hungarian.
+
+Russian
+An example of a Russian case inflection is given below (with explicit stress marks), using the singular forms of the Russian term for "sailor", which belongs to Russian's first declension class.
+
+моря́к (nominative) "the sailor" as a subject (e.g. Там стоит моряк: The sailor is standing there)
+морякá (genitive) "the sailor's / of the sailor" (e.g. Сын моряка — художник: The sailor's son is an artist)
+моряку́ (dative) "to/for the sailor" as an indirect object (e.g. Моряку подарили подарок: (They/Someone) gave a present to the sailor)
+морякá (accusative) "the sailor" as a direct object (e.g. Вижу моряка: (I) see the sailor)
+моряко́м (instrumental) "with/by the sailor" (e.g. Дружу с моряком: (I) have a friendship with the sailor)
+о/на/в моряке́ (prepositional) "about/on/in the sailor" (e.g. Думаю о моряке: (I) think about the sailor)
+Up to ten additional cases are identified by linguists, although today all of them are either incomplete (do not apply to all nouns or do not form full word paradigm with all combinations of gender and number) or degenerate (appear identical to one of the main six cases). The most recognized additional cases are locative (в лесу́, на мосту́, в слеза́х), partitive (ча́ю, са́хару, песку́), and two forms of vocative — old (Го́споди, Бо́же, о́тче) and neo-vocative (Маш, пап, ребя́т). Sometimes, so called count-form (for some countable nouns after numerals) is considered to be a sub-case.
+
+Sanskrit
+Grammatical case was analyzed extensively in Sanskrit. The grammarian Pāṇini identified six semantic roles or kāraka, which are related to the following eight Sanskrit cases in order:
+
+For example, in the following sentence leaf is the agent (kartā, nominative case), tree is the source (apādāna, ablative case), and ground is the locus (adhikaraṇa, locative case). The declensions are reflected in the morphemes -āt, -am, and -au respectively.
+
+However, the cases may be deployed for other than the default thematic roles. A notable example is the passive construction. In the following sentence, Devadatta is the kartā, but appears in the instrumental case, and rice, the karman, object, is in the nominative case (as subject of the verb). The declensions are reflected in the morphemes -ena and -am.
+
+Tamil
+The Tamil case system is analyzed in native and missionary grammars as consisting of a finite number of cases. The usual treatment of Tamil case (Arden 1942) is one in which there are seven cases: nominative (first case), accusative (second case), instrumental (third), dative (fourth), ablative (fifth), genitive (sixth), and locative (seventh). In traditional analyses, there is always a clear distinction made between post-positional morphemes and case endings. The vocative is sometimes given a place in the case system as an eighth case, but vocative forms do not participate in usual morphophonemic alternations and do not govern the use of any postpositions. Modern grammarians, however, argue that this eight-case classification is coarse and artificial and that Tamil usage is best understood if each suffix or combination of suffixes is seen as marking a separate case.
+
+Turkish
+Modern Turkish has six cases (In Turkish İsmin Hâlleri).
+
+The accusative can exist only in the noun(whether it is derived from a verb or not). For example, "Arkadaşlar bize gelmeyi düşünüyorlar." (Friends are thinking of coming to us).
+The dative can exist only in the noun (whether it is derived from a verb or not). For example, "Bol bol kitap okumaya çalışıyorum." (I try to read a lot of books).
+
+Evolution
+As languages evolve, case systems change. In early [Ancient Greek](3061), for example, the genitive and ablative cases of given names became combined, giving five cases, rather than the six retained in Latin. In modern Hindi, the cases have been reduced to three: a direct case (for subjects and direct objects) and oblique case, and a vocative case. In English, apart from the pronouns discussed above, case has vanished altogether except for the possessive/non-possessive dichotomy in nouns.
+The evolution of the treatment of case relationships can be circular.: pp.167–174  Postpositions can become unstressed and sound like they are an unstressed syllable of a neighboring word. A postposition can thus merge into the stem of a head noun, developing various forms depending on the phonological shape of the stem. Affixes are subject to various phonological processes such as assimilation, vowel centering to the schwa, phoneme loss, and fusion, and these processes can reduce or even eliminate the distinctions between cases. Languages can then compensate for the resulting loss of function by creating postpositions, thus coming full circle.
+Recent experiments in agent-based modeling have shown how case systems can emerge and evolve in a population of language users. The experiments demonstrate that language users may introduce new case markers to reduce the cognitive effort required for semantic interpretation, hence facilitating communication through language. Case markers then become generalized through analogical reasoning and reuse.
+
+Linguistic typology
+Morphosyntactic alignment
+Languages are categorized into several case systems, based on their morphosyntactic alignment—how they group verb agents and patients into cases:
+
+Nominative–accusative (or simply accusative): The argument (subject) of an intransitive verb is in the same case as the agent (subject) of a transitive verb; this case is then called the nominative case, with the patient (direct object) of a transitive verb being in the accusative case.
+Ergative–absolutive (or simply ergative): The argument (subject) of an intransitive verb is in the same case as the patient (direct object) of a transitive verb; this case is then called the absolutive case, with the agent (subject) of a transitive verb being in the ergative case.
+Ergative–accusative (or tripartite): The argument (subject) of an intransitive verb is in its own case (the intransitive case), separate from that of the agent (subject) or patient (direct object) of a transitive verb (which is in the ergative case or accusative case, respectively).
+Active–stative (or simply active): The argument (subject) of an intransitive verb can be in one of two cases; if the argument is an agent, as in "He ate", then it is in the same case as the agent (subject) of a transitive verb (sometimes called the agentive case), and if it is a patient, as in "He tripped", then it is in the same case as the patient (direct object) of a transitive verb (sometimes called the patientive case).
+Trigger: One noun in a sentence is the topic or focus. This noun is in the trigger case, and information elsewhere in the sentence (for example a verb affix in Tagalog) specifies the role of the trigger. The trigger may be identified as the agent, patient, etc. Other nouns may be inflected for case, but the inflections are overloaded; for example, in Tagalog, the subject and object of a verb are both expressed in the genitive case when they are not in the trigger case.
+The following are systems that some languages use to mark case instead of, or in addition to, declension:
+
+Positional: Nouns are not inflected for case; the position of a noun in the sentence expresses its case.
+Adpositional: Nouns are accompanied by words that mark case.
+
+Language families
+With a few exceptions, most languages in the Finno-Ugric family make extensive use of cases. Finnish has 15 cases according to the traditional description (or up to 30 depending on the interpretation). However, only 12 are commonly used in speech (see Finnish noun cases and Finnish locative system). Estonian has 14 (see Estonian locative system) and Hungarian has 18, both with additional archaic cases used for some words.
+Turkic, Mongolic, and Tungusic languages also exhibit complex case systems. Since the abovementioned languages, along with Korean and Japanese, shared certain similarities, linguists proposed an Altaic family and reconstructed its case system; although the hypothesis had been largely discredited.
+The Tsez language, a Northeast Caucasian language, has 64 cases.
+The original version of John Quijada's constructed language Ithkuil has 81 noun cases, and its descendant Ilaksh and Ithkuil after the 2011 revision both have 96 noun cases.
+The lemma form of words, which is the form chosen by convention as the canonical form of a word, is usually the most unmarked or basic case, which is typically the nominative, trigger, or absolutive case, whichever a language may have.
+
+See also
+[Agreement (linguistics)](4419)
+Case hierarchy
+Declension
+Differential object marking
+Inflection
+List of grammatical cases
+Phi features
+Thematic relation
+Verbal case
+Voice (grammar)
+
+Notes
+References
+General references
+Iliev, Iv. The Russian Genitive of Negation and Its Japanese Counterpart. International Journal of Russian Studies. 1, 2018
+
+External links
+
+Grammatical Features Inventory – DOI: 10.15126/SMG.18/1.04
+World Atlas of Language Structures Online
+Chapter 28: Case Syncretism
+Chapter 49: Number of Cases
+Chapter 50: Asymmetrical Case Marking
+Chapter 51: Position of Case Affixes
+Chapter 98: Alignment of Case Marking of Full Noun Phrases
+Chapter 99: Alignment of Case Marking of Pronouns

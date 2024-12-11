@@ -1,0 +1,32 @@
+2707
+Australian Plant Name Index
+The Australian Plant Name Index (APNI) is an online database of all published names of Australian vascular plants. It covers all names, whether current names, synonyms or invalid names. It includes bibliographic and typification details, information from the Australian Plant Census including distribution by state, links to other resources such as specimen collection maps and plant photographs, and the facility for notes and comments on other aspects.
+
+History
+Originally the brainchild of Nancy Tyson Burbidge, it began as a four-volume printed work consisting of 3,055 pages and containing over 60,000 plant names. Compiled by Arthur Chapman, it was part of the Australian Biological Resources Study (ABRS). In 1991 it was made available as an online database and handed over to the Australian National Botanic Gardens. Two years later, responsibility for its maintenance was given to the newly formed Centre for Plant Biodiversity Research.
+
+Scope
+Recognised by Australian herbaria as the authoritative source for Australian plant nomenclature, it is the core component of Australia's Virtual Herbarium, a collaborative project with A$10 million funding, aimed at providing integrated online access to the data and specimen collections of Australia's major herbaria.
+Two query interfaces are offered:
+
+Australian Plant Name Index (APNI), a full query interface that delivers full results, with no automatic interpretation, and
+What's Its Name (WIN), a less powerful query interface that delivers concise results, augmented with automatic (and not always correct) inference as to the currency.
+
+See also
+Atlas of Living Australia
+Botanical nomenclature
+Council of Heads of Australasian Herbaria
+Index Kewensis
+International Plant Names Index
+
+References
+Further reading
+Chapman, Arthur (1991). Australian Plant Name Index. Australian Flora and Fauna, Number: 12−15. Canberra: Australian Government Publishing Service. In 4 volumes:
+Australian plant name index: A−C. Australian Flora and Fauna Series. Vol. 1. 1991. ISBN 978-0-644-13367-8. Series number 12.
+Australian plant name index: D−J. Australian Flora and Fauna Series. Vol. 2. 1991. ISBN 978-0-644-13368-5. Series number 13.
+Australian plant name index: K−P. Australian Flora and Fauna Series. Vol. 3. 1991. ISBN 978-0-644-13369-2. Series number 14.
+Australian plant name index: Q−Z. Australian Flora and Fauna Series. Vol. 4. 1991. ISBN 978-0-644-13370-8. Series number 15.
+
+External links
+
+Official Australian Plant Name Index (APNI) website — full detail search.

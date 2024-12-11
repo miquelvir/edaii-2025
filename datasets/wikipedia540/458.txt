@@ -1,0 +1,107 @@
+458
+Accusative case
+In grammar, the accusative case (abbreviated ACC) of a noun is the grammatical case used to receive the direct object of a transitive verb.
+In the [English language](441), the only words that occur in the accusative case are pronouns: "me", "him", "her", "us", "whom", and "them". For example, the pronoun she, as the subject of a clause, is in the nominative case ("She wrote a book"); but if the pronoun is instead the object of the verb, it is in the accusative case and she becomes her ("Fred greeted her").  For compound direct objects, it would be, e.g., "Fred invited her and me to the party".
+The accusative case is used in many languages for the objects of (some or all) prepositions. It is usually combined with the nominative case (for example in Latin).
+The English term, "accusative", derives from the Latin accusativus, which, in turn, is a translation of the Greek αἰτιατική. The word can also mean "causative", and that might have derived from the Greeks, but the sense of the Roman translation has endured and is used in some other modern languages as the grammatical term for this case, for example in Russian (винительный).
+The accusative case is typical of early Indo-European languages and still exists in some of them (including Albanian, Armenian, Latin, Sanskrit, Greek, German, Nepali, Polish, Romanian, Russian, Serbian, and Ukrainian), in the Finno-Ugric languages (such as Finnish and Hungarian), in all Turkic languages, in Dravidian languages like Malayalam and Tamil, and in Semitic languages (such as Arabic). Some Balto-Finnic languages, such as Finnish, have two cases for objects, the accusative and the partitive case. In morphosyntactic alignment terms, both do the accusative function, but the accusative object is telic, while the partitive is not.
+Modern English almost entirely lacks declension in its nouns; pronouns, however, have an understood case usage, as in them, her, him and whom, which merges the accusative and dative functions, and originates in old Germanic dative forms (see Declension in English).
+
+Example
+In the sentence The man sees the dog, the dog is the direct object of the verb "to see". In English, which has mostly lost grammatical cases, the definite article and noun – "the dog" – remain the same noun form without number agreement in the noun either as subject or object, though an artifact of it is in the verb and has number agreement, which changes to "sees". One can also correctly use "the dog" as the subject of a sentence: "The dog sees the cat."
+In a declined language, the morphology of the article or noun changes with gender agreement. For example, in German, "the dog" is der Hund. This is the form in the nominative case, used for the subject of a sentence. If this article/noun pair is used as the object of a verb, it (usually) changes to the accusative case, which entails an article shift in German – Der Mann sieht den Hund (The man sees the dog). In German, masculine nouns change their definite article from der to den in the accusative case.
+In Nepali, "Rama sees Shyama" would be translated as रामले श्यामलाई देख्छ। Rama-le Shyama-lai dekhchha. The same sentence in Sanskrit would be रामः पश्यति श्यामम्। Rama: pashyati Shyamam.
+
+Latin
+The accusative case in Latin has minor differences from the accusative case in Proto-Indo-European. 
+Nouns in the accusative case (accusativus) can be used:
+
+as a direct object;
+to qualify duration of time, e.g., multos annos, "for many years"; ducentos annos, "for 200 years"; this is known as the accusative of duration of time,
+to qualify direction towards which e.g., domum, "homewards"; Romam, "to Rome" with no preposition needed; this is known as the accusative of place to which, and is equivalent to the lative case found in some other languages.
+as the subject of an indirect statement with the verb as an infinitive, (e.g. Dixit me esse saevum, "He said that I had been cruel"; in later Latin works, such as the Vulgate, such a phrasing is replaced by quod and a regularly ordered sentence, having the subject in the nominative and the verb in the indicative mood, e.g., Dixit quod ego fueram saevus).
+with case-specific prepositions such as per (through), ad (to/toward), and trans (across);
+in exclamations, such as me miseram, "wretched me" (spoken by Circe to Ulysses in Ovid's Remedium Amoris);
+to qualify purpose, e.g., ad proficiscendum, "for the purpose of departing"; ad effēminandōs animōs, "for the purpose of weakening or, effeminating the spirit".
+For the accusative endings, see Latin declensions.
+
+German
+The accusative case is used for the direct object in a sentence. The masculine forms for German articles, e.g., "the", "a/an", "my", etc., change in the accusative case: they always end in -en. The feminine, neutral and plural forms do not change.
+
+For example, Hund (dog) is a masculine (der) word, so the article changes when used in the accusative case:
+
+Ich habe einen Hund. (lit., I have a dog.) In the sentence, "a dog" is in the accusative case as it is the second idea (the object) of the sentence.
+Some German pronouns also change in the accusative case.
+The accusative case is also used after particular German prepositions. These include bis, durch, für, gegen, ohne, um, after which the accusative case is always used, and an, auf, hinter, in, neben, über, unter, vor, zwischen which can govern either the accusative or the dative. The latter prepositions take the accusative when motion or action is specified (being done into/onto the space), but take the dative when location is specified (being done in/on that space). These prepositions are also used in conjunction with certain verbs, in which case it is the verb in question which governs whether the accusative or dative should be used.
+Adjective endings also change in the accusative case. Another factor that determines the endings of adjectives is whether the adjective is being used after a definite article (the), after an indefinite article (a/an) or without any article before the adjective (many green apples).
+
+In German, the accusative case is also used for some adverbial expressions, mostly temporal ones, as in Diesen Abend bleibe ich daheim (This evening I'm staying at home), where diesen Abend is marked as accusative, although not a direct object.
+
+Russian
+In Russian, accusative is used not only to display the direct object of an action, but also to indicate the destination or goal of motion. It is also used with some prepositions. The prepositions в and на can both take accusative in situations where they are indicating the goal of a motion.
+In the masculine, Russian also distinguishes between animate and inanimate nouns with regard to the accusative; only the animates carry a marker in this case.
+The PIE accusative case has nearly eroded in Russian, merging with the genitive or the nominative in most declensions. Only singular first-declension nouns (ending in 'а', 'я', or 'ия') have a distinct accusative ('у', 'ю', or 'ию').
+
+Finnish
+Traditional Finnish grammars say the accusative is the case of a total object, while the case of a partial object is the partitive. The accusative is identical either to the nominative or the genitive, except for personal pronouns and the personal interrogative pronoun kuka/ken, which have a special accusative form ending in -t.
+The major new Finnish grammar, Iso suomen kielioppi, breaks with the traditional classification to limit the accusative case to the special case of the personal pronouns and kuka/ken. The new grammar considers other total objects as being in the nominative or genitive case.
+
+Hungarian
+The accusative case is assigned to the direct object in a sentence in Hungarian. The accusative marker is always -t, often preceded by a linking vowel to facilitate pronunciation.
+
+lángos – lángost 'lángos'
+hal – halat 'fish'
+program – programot 'programme'
+tej – tejet 'milk'
+cölöp – cölöpöt 'stilt'
+
+Every personal pronoun has an accusative form.
+
+For the Hungarian 1st and 2nd person singular accusative forms, the pronoun can often be dropped if it is clear from the context who the speaker is referring to.
+
+Semitic languages
+Accusative case marking existed in Proto-Semitic, Akkadian, and Ugaritic. It is preserved today in many Semitic languages as Modern Standard Arabic, Hebrew and Ge'ez.
+Accusative in Akkadian
+
+Nominative: awīlum (a/the man)
+Accusative: apaqqid awīlam (I trust a/the man)
+Accusative in Arabic
+
+The accusative case is called in Arabic النصب (an-naṣb) and it has many other uses in addition to marking the object of a verb.
+Accusative in Hebrew
+
+In Hebrew, if the object of the sentence is a pronoun (e.g., I, you, s/he) and the transitive verb requires a direct object, the word אֵת et is combined with the pronoun into an object pronoun.
+The combined words are:
+
+me: אוֹתִי otí
+you (singular): אוֹתְךָ otkhá (M); אוֹתָךְ otákh (F)
+him: אוֹתוֹ otó
+her: אוֹתׇהּ otáh
+we: אוֹתָנוּ otánu
+you (plural): אֶתְכֶם etkhém (M); אֶתְכֶן etkhén (F)
+them: אוֹתָם otám (M); אוֹתָן otán (F)
+
+Japanese
+In Japanese, cases are marked by placing particles after nouns. The accusative case is marked with を (wo, pronounced /o̞/).
+
+Korean
+In Korean, the accusative case is marked with 를 or 을. The postpositions depend on a word's last syllable. For example:
+
+나는 게임을 했다.
+나는 숙제를 했다.
+
+Turkish
+In Turkish, cases are marked with suffixes. The accusative case is marked with the suffixes -ı, -i, -u, -ü, depending on vowel harmony. If a word ends in a vowel, -y- is added before the suffix as a buffer consonant.
+The accusative is only used if the direct object of a sentence is definite. If it is indefinite, the nominative case is used. For example:
+
+Malayalam
+In Malayalam, the accusative inflection is achieved using the suffix എ /-e/. Example: രാമൻ /raman/ → രാമനെ /ramane/. The sandhi also play a role here depending on the ending of the noun. Example: മരം /maram/ → മരത്തെ /maratte/ where /tt/ replaces /m/ when /e/ is suffixed.
+
+See also
+Morphosyntactic alignment
+Nota accusativi
+
+References
+Further reading
+Karlsson, Fred (2018). Finnish - A Comprehensive Grammar. London, England; New York, NY: Routledge. ISBN 978-1-138-82104-0.
+Anhava, Jaakko (2015). "Criteria For Case Forms in Finnish and Hungarian Grammars". journal.fi. Helsinki: Finnish Scholarly Journals Online.

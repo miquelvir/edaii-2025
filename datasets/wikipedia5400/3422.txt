@@ -1,0 +1,85 @@
+3422
+Alain Aspect
+Alain Aspect (French: aspɛ ; born 15 June 1947) is a French physicist noted for his experimental work on quantum entanglement.
+Aspect was awarded the 2022 Nobel Prize in Physics, jointly with John Clauser and [Anton Zeilinger](3464), "for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science".
+
+Education
+Aspect is a graduate of the École Normale Supérieure de Cachan (ENS Cachan, today part of Paris-Saclay University). He passed the agrégation in physics in 1969 and received his PhD degree in 1971 from the École supérieure d'optique (later known as Institut d'Optique Graduate School) of Université d'Orsay (later known as Université Paris-Sud). He then taught for three years in Cameroon as a replacement for then compulsory military service.
+In the early 1980s, while working on his doctorat d'État (habilitation thesis), he performed the Bell test experiments that showed that [Albert Einstein](3401), Boris Podolsky and Nathan Rosen's putative reductio ad absurdum of quantum mechanics, namely that it implied 'ghostly action at a distance', did in fact appear to be realized when two particles were separated by an arbitrarily large distance (see EPR paradox and Aspect's experiment). A correlation between the particles' wave functions remains, as long as they were once part of the same undisturbed wave function before one of the child particles was measured. He defended his doctorat d'État in 1983 at Université Paris-Sud (today part of Paris-Saclay University).
+Aspect received an honorary doctorate from Heriot-Watt University in 2008.
+
+Research
+Aspect's experiments, following the first experiment of Stuart Freedman and John Clauser in 1972, were considered to provide further support to the thesis that Bell's inequalities are violated in its CHSH version, in particular by closing a form of the locality loophole. However, his results were not completely conclusive since there were loopholes that allowed for alternative explanations that comply with local realism.
+After his work on Bell's inequalities, Aspect turned toward studies of laser cooling of neutral atoms, and  Bose–Einstein condensates at the Kastler-Brossel Laboratory.
+
+Aspect was deputy director of the French "grande école" École supérieure d'optique until 1994. He is a member of the French Academy of Sciences and French Academy of Technologies, and a professor at the École Polytechnique.
+
+Distinctions
+Aspect was elected a Foreign Member of the Royal Society (ForMemRS) in 2015. His certificate of election reads For his fundamental experiments in quantum optics and atomic physics. Alain Aspect was the first to exclude subluminal communication between the measurement stations in experimental demonstrations that quantum mechanics invalidates separable hidden-variable theories and the first to demonstrate experimentally the wave–particle duality of single photons. He co-invented the technique of velocity-selective coherent population trapping, was the first to compare the Hanbury Brown-Twiss correlations of fermions and bosons under the same conditions, and the first to demonstrate Anderson localization in an ultra-cold atom system. His experiments illuminate fundamental aspects of the quantum-mechanical behaviour of single photons, photon pairs and atoms.
+In 2005 he was awarded the gold medal of the Centre national de la recherche scientifique, where he is Research Director. The 2010 Wolf Prize in physics was awarded to Aspect, [Anton Zeilinger](3464) and John Clauser. In 2013 Aspect was awarded both the Niels Bohr International Gold Medal and the UNESCO Niels Bohr Medal. In 2011, he was assigned the Medal of the City of Paris. In 2013, he was also awarded the Balzan Prize for Quantum Information Processing and Communication. In 2014, he was named Officer of the Legion of Honour.
+Asteroid 33163 Alainaspect, discovered by astronomers at Caussols in 1998, was named after him. The official naming citation was published by the Minor Planet Center on 8 November 2019 (M.P.C. 118220).
+Aspect was awarded the 2022 Nobel Prize in Physics alongside John F. Clauser and [Anton Zeilinger](3464) "for experiments with entangled photons, establishing the violation of Bell's inequalities and pioneering quantum information science".
+
+Honours and awards
+Accolades received by Aspect include the following:
+
+Honours
+2022 : Commander of the Legion of Honour.
+2014 : Officier of the Legion of Honour.
+2011 : Officier of the National Order of Merit.
+2011 : Commander of the Palmes académiques.
+2011 : Medal of the City of Paris.
+2005 : Knight of the Legion of Honour.
+
+Awards
+2022: Nobel Prize in Physics (with John Clauser and [Anton Zeilinger](3464))
+2022: Honorary Optica Member
+2013: Balzan Prize
+2013: Niels Bohr International Gold Medal
+2013: UNESCO Niels Bohr Medal
+2013: Frederic Ives Medal/Jarus W. Quinn Prize
+2012: [Albert Einstein](3401) Medal
+2012: Herbert Walther Award
+2010: Wolf Prize
+2005: CNRS Gold Medal
+1999: Gay-Lussac–Humboldt Prize
+1999: Max Born Award
+1991: Fernand Holweck Medal and Prize
+1987: International Commission for Optics Award
+1985: Commonwealth Award for Science and Invention
+1983: Prix Servant
+
+Acknowledgement
+Member of the Academia Europaea
+Member of the French Academy of Sciences
+Member of the French Academy of Technologies
+Foreign Member of the Royal Society
+Foreign Associate of the National Academy of Sciences
+Associate Member of the Royal Academy of Science, Letters and Fine Arts of Belgium
+Corresponding member abroad of the Austrian Academy of Sciences
+Fellow and Honorary Member of Optica
+
+Honorary degrees
+2006: Université de Montréal
+2008: Australian National University
+2008: Heriot-Watt University
+2010: University of Glasgow
+2011: University of Haifa
+2014: University of Waterloo
+2018: City University of Hong Kong
+2023: Université de Sherbrooke
+2024: University of Minho
+
+References
+Publications
+Bardou, François; Bouchaud, Jean-Philippe; Aspect, Alain; Cohen-Tannoudji, Claude (2002). Lévy Statistics and Laser Cooling. Cambridge University Press. ISBN 978-0-521-00422-0.
+Bell, J. S. (3 June 2004). Speakable and Unspeakable in Quantum Mechanics. Cambridge University Press. ISBN 0-521-81862-1.
+Grynberg, Gilbert; Aspect, Alain; Fabre, Claude (2 September 2010). Introduction to Quantum Optics. Cambridge University Press. ISBN 978-0-521-55112-0.
+
+External links
+
+Aspect's homepage
+Biography at CNRS
+Alain Aspect International Balzan Prize Foundation
+Videos of Alain Aspect in the AV-Portal of the German National Library of Science and Technology
+Alain Aspect on NobelPrize.org

@@ -1,0 +1,77 @@
+4755
+Cimbrian language
+Cimbrian (Cimbrian: zimbar, IPA: ˈt͡simbɐr; German: Zimbrisch; Italian: cimbro) is any of several local Upper German varieties spoken in parts of the Italian regions of Trentino and Veneto. The speakers of the language are known as Zimbern in German.
+Cimbrian is a Germanic language related to Bavarian most probably deriving from a Southern Bavarian dialect. It is also related to the Mòcheno language. Its many essential differences in grammar as well as in vocabulary and pronunciation make it practically unintelligible for people speaking Standard German. Even many people speaking Bavarian have problems. The use of Italian throughout the country and the influence of nearby Venetian have both had large effects on the number of speakers of Cimbrian throughout past centuries. This effect has been large enough to cause Cimbrian to be deemed an endangered language.
+
+History
+The earliest record of the movement of Bavarians to Verona dates to ca. 1050 (Bayerische Staatsbibliothek Cod. lat. 4547). The settlement continued during the 11th and 12th centuries.
+A theory of Lombardic origin of the Zimbern was proposed in 1948 by Bruno Schweizer and again in 1974 by  Alfonso Bellotto.  The debate was again revived in 2004 by Cimbrian linguist Ermenegildo Bidese.
+The majority of linguists remain committed to the hypothesis of medieval (11th to 12th century) immigration.
+The presence of Germanic-speaking communities in Italy was discovered in the 14th century by the Italian humanists, who associated them with the Cimbri who arrived in the region in the 2nd century BC. This is the likely origin of the current endonym (Zimbar). Actually, though the ancient Cimbri are considered to have been a Germanic tribe, there is no reason to connect them linguistically or otherwise with the speakers of  Cimbrian.
+An alternative hypothesis derives the name from a term for 'carpenter', cognate with English timber (lit. 'timberer').
+
+Dialects and status
+The three major dialects of Cimbrian are spoken in: 
+
+The Seven Communities (Siben Komoin), currently only the village of Roana (Robàan)
+Luserna (Lusern), in Trentino
+The Thirteen Communities (Dreizehn Komoin), currently only the village of Giazza (Ljetzan)
+Some villages in the Carnic Alps such as Sappada, Sauris and Timau
+Cimbrian is in danger of extinction both from standard Italian, which is often used in public, and the neighboring regional Venetian language.  It is estimated that about 2,220 people speak Cimbrian.
+In Trentino, according to the census of 2001, the first in which data on native languages were recorded, Cimbrian was spoken by a majority in the municipality of Lusérn (267 people, 89.9%). In other municipalities of Trentino 615 persons declared themselves members of the Cimbrian linguistic group, a total of 882 in Trentino. With this, it is seen that the most thriving variety of Cimbrian is that of Lusern with most of the community able to speak Cimbrian, whereas in Giazza and Roana only a few elderly speakers remain.
+Cimbrian is officially recognised in Trentino by provincial and national law. Beginning in the 1990s, various laws and regulations have been passed by the Italian parliament and provincial assembly that put the Cimbrian language and culture under protection. School curricula were adapted in order to teach in Cimbrian, and bilingual street signs are being developed. A cultural institute (Istituto Cimbro/Kulturinstitut Lusérn) was founded by decree in 1987, whose purpose is to "...safeguard, promote and exploit the ethnographic and cultural heritage of the German speaking minority of the municipality of Luserna while paying special attention to historic and linguistic expressions, to the protection of the environment, and to the economic-cultural development of the Cimbrian community territory." The cultural institute hosts literature competitions for children as well as immersion summer camps.
+
+Phonology
+* A star represents sounds that are used by those who speak the Lusern dialect outside of Lusern in strictly Italian areas.
+
+Grammar and orthography
+The following description of Cimbrian grammar refers predominantly to the dialect of Lusern.
+Notes on orthography:
+
+All dialects of Cimbrian use different orthographies though all are mainly based upon Italian and German orthographies with some additions from other languages and do not drastically differ.
+Diacritics and graphemes common in German and other languages are mostly utilized for sounds that do not exist in Italian.
+Diphthongs are written as in Italian whereby, for example, drai 'three' is written in contrast to the German Drei but is pronounced the same.
+k is rendered as in standard German as k while the grapheme ch is reserved for the sound χ.
+g is rendered differently according to dialect:
+In the Thirteen and Seven communities, g is rendered as in Italian - g (which is pronounced dʒ before ⟨e⟩ and ⟨i⟩). If g is to be kept before an (orthographic) front vowel, the writing must change to gh.
+In Lusern, g is rendered mostly as g, perhaps due to more familiarity with German in Lusern. Though, seeing ghe and ghi is not uncommon.
+
+Morphology, syntax, other
+Nouns in Cimbrian, as in German and other German dialects, have three genders - masculine, feminine and neuter. Cimbrian makes use of the nominative, dative, and accusative cases. The genitive case was formerly used but has now been replaced by the dative +  vo ('of'), a similar case which can also be seen in modern German. Cimbrian nouns inflect for gender, case, and number, usually keeping the same patterns for even Italian loanwords ending in -a, - o, and -e. Nouns also have forms for diminutives. Cimbrian articles (both definite and indefinite) have long and short forms depending on stress. Examples of Cimbrian noun inflection (with long articles and German counterparts) can be seen below. The letter å denotes open back unrounded vowel.
+
+Cimbrian verbs are inflected for person, number, tense (present, past, future), mood (indicative, subjunctive, conditional, imperative, infinitive, gerund, and participial), and voice (active, passive). In regards to conjugation, Cimbrian shares many aspects with many other upper-German dialects.  As in these other dialects, the use of the preterite has been replaced by the perfect which is formed with the prefix ga- (vallen 'to fall'; gavallet 'fallen'). Infinitive verbs have two forms, a simple infinitive as well as a dependent infinitive which is formed with zo. An example of this can be seen with the verb 'to fall': vallen - zo valla. In the Cimbrian of Lusern's present indicative, first-person plural as well as third-person plural are both formed in the same manner as the simple infinitive, just as in standard German. Thus vallen acts as the infinitive, first-person plural, and third-person plural. The first- and third-person plural also match each other in other tenses and moods.
+The syntax of Cimbrian shows measurable influence from Italian; however, it still shows German traits which would be completely foreign to Italian speakers. An example of Italian influence is seen in the fact that Cimbrian does not move its verb to the second position as in German:
+
+My friend* believes that he can win. (En)
+Moi txell gloabet ke dar mage vinzarn. (Cimbrian)
+Il mio amico crede che può vincere. (Italian)
+Mein Freund* glaubt, dass er gewinnen kann. (Mein Freund can also mean 'My boyfriend') (German)
+My brother went on vacation in order to relax. (English)
+Moi pruadar is gånt in vakånza zoa zo rasta. (Cimbrian)
+Mio fratello è andato in vacanza per rilassarsi. (Italian)
+Mein Bruder ist in Urlaub gefahren um sich zu erholen. (German)
+Cimbrian, in most sentences, uses subject–verb–object (SVO) word ordering, similar to Romance languages; however, in some cases it adopts some German syntax.
+
+Vocabulary
+The vocabulary of Cimbrian is closely related to that of Bavarian, containing words that set it apart from any other German varieties. Although today many Bavarian words in Bavarian communities are used less and less due to the influence of standard German, in Cimbrian many such words have remained. Besides its original Bavarian vocabulary, Cimbrian has been affected by Italian as well as neighboring languages.
+
+Examples
+Notes
+References
+Further reading
+Baum, Wilhelm (1983). Geschichte der Zimbern. Storia dei Cimbri (in German). Landshut: Curatorium Cimbricum Bavarense.
+Schmeller, J. A. (1855). Cimbrisches Wörterbuch (in German). Vienna: K. K. Hof- und Staatsdruckerei.
+Kranzmayer, Eberhard (1985) 1981. Laut- und Flexionslehre der deutschen zimbrischen Mundart (in German). Vienna: VWGÖ. ISBN 3-85369-465-9.
+U. Martello-Martalar: Dizionario della Lingua cimbra. Vicenza 1974. Bd 2. Dal Pozzo, Roana-Vicenza 1985. (in Italian)
+Ermenegildo Bidese (ed.): Das Zimbrische zwischen Germanisch und Romanisch. Brockmeyer, Bochum 2005. ISBN 3-8196-0670-X
+Tyroller, Hans: Grammatische Beschreibung des Zimbrischen von Lusern (Franz Steiner Verlag, Stuttgart, 2003). ISBN 3-515-08038-4
+Bruno Schweizer: Zimbrische Gesamtgrammatik. Vergleichende Darstellung der zimbrischen Dialekte (= Zeitschrift für Dialektologie und Linguistik, Beiheft 132). ed.  James R. Dow, Franz Steiner Verlag, Stuttgart 2008, ISBN 978-3-515-09053-7.
+
+External links
+
+ Media related to Cimbrian language at Wikimedia Commons
+
+The Cimbri in Lessinia
+Cimbrian language resources
+Omniglot: Cimbrian Language, Alphabet, and Pronunciation
+Cimbrian tutorial

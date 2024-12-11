@@ -1,0 +1,126 @@
+1453
+Central European Time
+Central European Time (CET) is a standard time of Central, and parts of Western Europe, which is one hour ahead of Coordinated Universal Time (UTC).
+The time offset from UTC can be written as UTC+01:00.
+It is used in most parts of Europe and in a few North African countries.
+CET is also known as Middle European Time (MET, German: MEZ) and by colloquial names such as Amsterdam Time, Berlin Time, Brussels Time, Budapest Time, Madrid Time, Paris Time, Rome Time, Prague time, Warsaw Time or Romance Standard Time (RST).
+The 15th meridian east is the central axis per UTC+01:00 in the world system of time zones.
+As of 2023, all member states of the [European Union](1200) observe summer time (daylight saving time), from the last Sunday in March to the last Sunday in October.
+States within the CET area switch to [Central European Summer Time](1452) (CEST, UTC+02:00) for the summer.
+In Africa, UTC+01:00 is called West Africa Time (WAT), where it is used by several countries, year round.
+[Algeria](1317), Morocco, and Tunisia also refer to it as Central European Time.
+
+Usage
+Usage in Europe
+Current usage
+As of 2017, Central European Time is currently used in Albania, Andorra, Austria, [Belgium](197), Bosnia and Herzegovina, Croatia, the Czech Republic, Denmark, France, Germany, Hungary, Italy, Kosovo (partially recognised as an independent country), Liechtenstein, Luxembourg, Malta, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, San Marino, Serbia, Slovakia, Slovenia, Spain (except the Canary Islands), Sweden, Switzerland and Vatican City.
+
+History
+1884
+Serbia starts using CET.
+1 October 1891
+Austro-Hungarian Empire adopts CET. At first railways and post offices, cities such as Prague and Budapest, but not Vienna. (present-day Austria, Czech Republic, Croatia, Hungary, Slovakia, Slovenia and some other regions)
+1 April 1893
+The German Empire unified its time zones to use CET (MEZ).
+Malta uses CET.
+Vienna (then part of Austro-Hungarian Empire) starts using CET.
+1 November 1893
+Italy starts using CET.
+1894
+Switzerland switches from UTC+00:30 to CET
+Liechtenstein introduces CET.
+Denmark adopts CET.
+1895
+Norway adopts CET.
+1900
+Sweden adopts CET.
+1904
+Luxembourg introduces CET, but leaves 1918.
+1914
+Albania adopts CET.
+1914–1918
+During World War I CET was implemented in all German-occupied territories.
+1920
+Lithuania adopts CET (but subsequently rescinded in 1940) and 1998−1999 again.
+1922
+Poland adopts CET.
+1940
+Under German occupation:
+The Netherlands was switched from UTC+00:20 to CET.
+[Belgium](197) was switched from UTC+00:00.
+Luxembourg was switched from UTC+00:00.
+France, which had adopted Paris time on 14 March 1891 and Greenwich Mean Time on 9 March 1911, was switched to CET.
+Spain switched to CET.
+After World War II Monaco, Andorra and Gibraltar implemented CET.
+Portugal used CET in the years 1966–1976 and 1992–1996.
+
+United Kingdom
+The time around the world is based on Universal Coordinated Time (UTC) which is roughly synonymous with Greenwich Mean Time (GMT). From late March to late October, clocks in the United Kingdom are put forward by one hour for British Summer Time (BST). Since 1997, most of the [European Union](1200) aligned with the British standards for BST.
+In 1968 there was a three-year experiment called British Standard Time, when the UK and Ireland experimentally employed British Summer Time (GMT+1) all year round; clocks were put forward in March 1968 and not put back until October 1971.
+Central European Time is sometimes referred to as continental time in the UK.
+
+Other countries
+Several African countries use UTC+01:00 all year long, where it is known as West Africa Time (WAT), although [Algeria](1317), Morocco and Tunisia use the term Central European Time despite being in North Africa.
+Between 2005 and 2008, Tunisia observed daylight saving time. Libya also used CET during the years 1951–1959, 1982–1989, 1996–1997 and 2012–2013.
+For other countries see UTC+01:00 and West Africa Time.
+
+Discrepancies between official CET and geographical CET
+The criteria for drawing time zones is based on many factors including: legal, political, economic, and physical or geographic. Consequently, time zones rarely adhere to meridian lines. The CET time zone, were it drawn by purely geographical terms, would consist of exactly the area between meridians 7°30′ E and 22°30′ E. As a result, there are European locales that despite lying in an area with a "physical" or "nominal" UTC+01:00 time, actually use another time zone (UTC+02:00 in particular – there are no "physical" UTC+01:00 areas that employ UTC+00:00). Conversely, there are European areas that have gone for UTC+01:00, even though their "physical" time zone is UTC (typically), UTC−01:00 (westernmost Spain), or UTC+02:00 (e.g. the very easternmost parts of Norway, Sweden, Poland and Serbia). On the other hand, people in Spain still have all work and meal hours one hour later than France and Germany despite sharing the same time zone. Historically Gibraltar maintained UTC+01:00 all year until the opening of the land border with Spain in 1982, when it followed its neighbour and introduced CEST. The following is a list of such "incongruences":
+
+Areas within UTC+01:00 longitudes using other time zones
+These areas are between 7°30′ E and 22°30′ E ("physical" UTC+1)
+
+Areas using UTC+02:00
+The westernmost part of Greece, including the cities of Patras, Ioannina and the island of Corfu
+The westernmost parts of the Bulgarian provinces of Vidin and Kyustendil
+The westernmost part of Romania, including most of the area of the counties of Caraș-Severin, Timiș (capital Timișoara), Arad, and Bihor, as well as the westernmost tips of the counties of Mehedinți and Satu Mare
+The westernmost tip of Ukraine, near the border with Hungary and Slovakia, at the Ukrainian Transcarpathian Oblast (Zakarpattia Oblast), essentially comprising the city of Uzhhorod and its environs. (Although CET is used as local, non-official time in Transcarpathia).
+Western Lithuania, including the cities of Klaipėda, Tauragė, and Telšiai
+Western Latvia, including the cities of Liepāja and Ventspils
+The westernmost parts of the Estonian islands of Saaremaa and Hiiumaa, including the capital of the Saare County, Kuressaare
+The southwestern coast of Finland, including the city of Turku; also the Åland islands (of Finnish jurisdiction) – the Åland islands are the westernmost locale applying EET in the whole of Europe
+The northwesternmost part of Finland, including Kilpisjärvi and Kaaresuvanto.
+The Russian exclave of Kaliningrad Oblast, excluding however its easternmost slice (the city of Nesterov is east of 22°30′ E, but that of Krasnoznamensk is not)
+
+Areas outside UTC+01:00 longitudes using UTC+01:00 time
+These areas are either west of 7°30′ E or east of 22°30′ E (outside nominal UTC+01:00)
+
+Areas between 22°30′ W and 7°30′ W (nominal UTC−01:00)
+The westernmost part of mainland Spain (Galicia, e.g. the city of [A Coruña](1092)); Cape Finisterre and nearby points in Galicia, at 9°18′ W, are the westernmost places of CET in Spain.
+The Norwegian island of Jan Mayen lies entirely within this area and extends nearly as far west as Cape Finisterre, with its western tip at 9°5′ W and its eastern tip at 7°56′ W.
+Western Morocco including the city of Casablanca, at 7°35′ W. CET usage in Morocco extends as west as 13°10′ W.
+The entirety of Western Sahara with its western tip at 17°6′ W and its eastern tip at 8°40′ W.
+
+Areas between 7°30′ W and 7°30′ E (nominal UTC+00:00)
+Andorra
+[Belgium](197)
+France, with the small exception of two separate easternmost parts of the mainland, one along eastern Alsace, incl. Strasbourg and the other in parts of the Alpes-Maritimes department, as well as the island of Corsica. Overseas departments of France use local times.
+The very westernmost part of Germany, incl. the cities of Saarbrücken, Düsseldorf, [Cologne](1462), [Aachen](1269), and Trier
+The absolutely westernmost part of Italy, incl. the cities of Aosta in Aosta Valley and Cuneo in Piedmont
+Luxembourg
+Monaco
+Netherlands
+The westernmost part of Norway, incl. the cities of Bergen and Stavanger
+Spain, except for the westernmost part of the mainland (see above) and the Canary Islands (which are further than 7°30′ W and use UTC+00:00).
+Gibraltar
+The part of Switzerland west of Bern (inclusive), also incl. cities such as [Basel](1372), Geneva, Lausanne, and Fribourg
+Most of [Algeria](1317) including its capital Algiers.
+
+Areas between 22°30′ E and 37°30′ E (nominal UTC+02:00)
+The easternmost part of North Macedonia, including the city of Strumica
+The easternmost part of Serbia, in the Pirot District, including the city of Pirot, and small easternmost parts of Bor District.
+The easternmost tips of Hungary and Slovakia, bordering to the north and south respectively the Ukrainian Transcarpathian Oblast (Zakarpattia Oblast), a bit to the east of Vásárosnamény, Hungary – Uzhhorod, Ukraine (both at 22°18′ E) line
+The easternmost part of Poland, including the cities of Lublin and Białystok
+The northeast of Sweden, in the Norrbotten province, including the cities of Kalix and Haparanda
+The northeast of Norway, lying north of Finland, roughly coinciding with the county of Finnmark. The easternmost town in Norway, Vardø, lies at 30°51′ E, which is so far east, so as to be east even of the central meridian of EET (UTC+02:00), i.e. east of Istanbul and Alexandria. The sun reaches its highest point at 10:56 (when not DST), although the sun does not vary so much in height at the latitude 70°N. The Norwegian–Russian and the Polish-Belarusian border are the only places where CET (UTC+1/+2) borders Moscow time (UTC+03:00), resulting in a two hours time change (or one hour in summer) for the travellers crossing that border.
+There is a "tri-zone" point (where UTC+01:00, UTC+02:00, and UTC+03:00 meet, winter times) at the Norway–Finland–Russia tripoint near Muotkavaara. During the summer Finland and Russia both have UTC+03:00.
+
+See also
+Summer time in Europe
+Other countries and territories in UTC+1 time zone
+
+References
+External links
+German Time Act
+Dutch Time Act
+List of countries using CET (Central European Time)

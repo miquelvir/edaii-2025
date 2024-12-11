@@ -1,0 +1,21 @@
+4718
+Apical consonant
+An apical consonant is a phone (speech sound) produced by obstructing the air passage with the tip of the tongue (apex) in conjunction with upper articulators from lips to postalveolar, and possibly prepalatal. It contrasts with laminal consonants, which are produced by creating an obstruction with the blade of the tongue, just behind the tip. Sometimes apical is used exclusively for an articulation that involves only the tip of the tongue and apicolaminal for an articulation that involves both the tip and the blade of the tongue. However, the distinction is not always made and the latter one may be called simply apical, especially when describing an apical dental articulation. As there is some laminal contact in the alveolar region, the apicolaminal dental consonants are also labelled as denti-alveolar.
+It is not a very common distinction and is typically applied only to fricatives and affricates. Thus, many varieties of English have either apical or laminal pairs of t/d. However, some varieties of Arabic, including Hadhrami Arabic in Yemen, realize t as laminal but d as apical.
+Basque uses the distinction for alveolar fricatives. Mandarin Chinese uses it for postalveolar fricatives (the "alveolo-palatal" and "retroflex" series). Lillooet uses it as a secondary feature in contrasting velarized and non-velarized affricates. A distinction between apical and laminal is common in Australian Aboriginal languages for nasals, plosives and (usually) lateral approximants.
+Most dialects in the Bengali–Assamese continuum distinguish between dental–laminal alveolar stops and apical alveolar stops. In Upper Assamese, they have merged and leave only the apical alveolar stops. In Western Bengali apical alveolars are replaced by apical post-alveolars.
+In the International Phonetic Alphabet, the diacritic for apical consonants is U+033A ◌̺ COMBINING INVERTED BRIDGE BELOW.
+
+See also
+Coronal consonant
+Laminal consonant
+List of phonetic topics
+Voiceless apicoalveolar fricative
+Voiced apicoalveolar fricative
+
+References
+Bibliography
+Catford, J.C. (1977). Fundamental problems in phonetics. Bloomington: Indiana University Press.
+Gafos, Diamandis (1997). "A Cross-Sectional View of s, ʃ, θ". Proceedings of the North East Linguistics Society. 27.
+Dart, Sarah N. (1991). Articulatory and Acoustic Properties of Apical and Laminal Articulations. Working Papers in Phonetics. Vol. 79.
+Ladefoged, Peter; Maddieson, Ian (1996). The Sounds of the World's Languages. Oxford: Blackwell. ISBN 0-631-19815-6.

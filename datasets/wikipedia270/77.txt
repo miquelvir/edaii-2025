@@ -1,0 +1,7 @@
+77
+.nato
+The domain .nato was a top-level domain (TLD) in the Domain Name System (DNS) of the Internet. The domain was added in 1990 by the Network Information Center for use by NATO, the North Atlantic Treaty Organization, based on the rationale that none of the then-existing top-level domains adequately reflected its status as an international organization. Soon after this addition, however, Paul Mockapetris, the designer of the DNS, suggested to NATO representatives that nato.int would be a better choice. The TLD .int was created for the use of international organizations, and NATO switched to using nato.int. Without use, the TLD .nato was removed in July 1996.
+
+References
+External links
+nato.int - NATO homepage

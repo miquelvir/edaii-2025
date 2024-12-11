@@ -1,0 +1,94 @@
+657
+Comparison of instruction set architectures
+An instruction set architecture (ISA) is an abstract model of a computer, also referred to as computer architecture. A realization of an ISA is called an implementation. An ISA permits multiple implementations that may vary in performance, physical size, and monetary cost (among other things); because the ISA serves as the interface between software and hardware. Software that has been written for an ISA can run on different implementations of the same ISA. This has enabled binary compatibility between different generations of computers to be easily achieved, and the development of computer families. Both of these developments have helped to lower the cost of computers and to increase their applicability. For these reasons, the ISA is one of the most important abstractions in computing today.
+An ISA defines everything a machine language programmer needs to know in order to program a computer. What an ISA defines differs between ISAs; in general, ISAs define the supported data types, what state there is (such as the main memory and registers) and their semantics (such as the memory consistency and addressing modes), the instruction set (the set of machine instructions that comprises a computer's machine language), and the input/output model.
+
+Data representation
+In the early decades of computing, there were computers that used binary, decimal and even ternary. Contemporary computers are almost exclusively binary.
+Characters are encoded as strings of bits or digits, using a wide variety of character sets; even within a single manufacturer there were character set differences.
+Integers are encoded with a variety of representations, including Sign-magnitude,  Ones' complement, Two's complement, Offset binary, Nines' complement and Ten's complement.
+Similarly, floating point numbers are encoded with a variety of representations for the sign, exponent and mantissa. In contemporary machines IBM hexadecimal floating-point and IEEE 754 floating point have largely supplanted older formats.
+Addresses are typically unsigned integers generated from a combination of fields in an instruction, data from registers and data from storage; the details vary depending on the architecture.
+
+Bits
+[Computer](675) architectures are often described as n-bit architectures. In the first 3⁄4 of the 20th century, n is often  12, 18, 24, 30, 36,  48 or 60. In the last 1⁄3 of the 20th century, n is often 8, 16, or 32, and in the 21st century, n is often 16, 32 or 64, but other sizes have been used (including 6, 39, 128). This is actually a simplification as computer architecture often has a few more or less "natural" data sizes in the instruction set, but the hardware implementation of these may be very different. Many instruction set architectures have instructions that, on some implementations of that instruction set architecture, operate on half and/or twice the size of the processor's major internal datapaths. Examples of this are the Z80, MC68000, and the IBM System/360. On these types of implementations, a twice as wide operation typically also takes around twice as many clock cycles (which is not the case on high performance implementations). On the 68000, for instance, this means 8 instead of 4 clock ticks, and this particular chip may be described as a 32-bit architecture with a 16-bit implementation. The IBM System/360 instruction set architecture is 32-bit, but several models of the System/360 series, such as the IBM System/360 Model 30, have smaller internal data paths, while others, such as the 360/195, have larger internal data paths.  The external databus width is not used to determine the width of the architecture; the NS32008, NS32016 and NS32032 were basically the same 32-bit chip with different external data buses; the NS32764 had a 64-bit bus, and used 32-bit register. Early 32-bit microprocessors often had a 24-bit address, as did the System/360 processors.
+
+Digits
+In the first 3⁄4 of the 20th century, word oriented decimal computers typically had 10 digit words with a separate sign, using all ten digits in integers and using two digits for exponents in floating point numbers.
+
+Endianness
+An architecture may use "big" or "little" endianness, or both, or be configurable to use either. Little-endian processors order bytes in memory with the least significant byte of a multi-byte value in the lowest-numbered memory location. Big-endian architectures instead arrange bytes with the most significant byte at the lowest-numbered address. The x86 architecture as well as several 8-bit architectures are little-endian. Most RISC architectures (SPARC, Power, PowerPC, MIPS) were originally big-endian (ARM was little-endian), but many (including ARM) are now configurable as either.
+Endianness only applies to processors that allow individual addressing of units of data (such as bytes) that are smaller than some of the data formats.
+
+Instruction formats
+Opcodes
+In some architectures, an instruction has a single opcode. In others, some instructions have an opcode and one or more modifiers. E.g., on the IBM System/370, byte 0 is the opcode but when byte 0 is a B216 then byte 1 selects a specific instruction, e.g., B20516 is store clock (STCK).
+
+Operands
+Addressing modes
+Architectures typically allow instructions to include some combination of operand addressing modes
+
+Direct
+The instruction specifies a complete (virtual) address
+Immediate
+The instruction specifies a value rather than an address
+Indexed
+The instruction specifies a register to use as an index. In some architecture the index is scaled by the operand length.
+Indirect
+The instruction specifies the location of a pointer word that describes the operand, possibly involving multiple levels of indexing and indirection.
+Truncated
+Base-displacement
+The instruction specifies a displacement from an address in a register
+autoincrement/autodecrement
+A register used for indexing, or a pointer word used by indirect addressing, is incremented or decremented by 1, an operand size or an explicit delta
+
+Number of operands
+The number of operands is one of the factors that may give an indication about the performance of the instruction set.
+A three-operand architecture (2-in, 1-out) will allow
+
+A := B + C
+
+to be computed in one instruction
+
+ADD B, C, A
+
+A two-operand architecture (1-in, 1-in-and-out) will allow
+
+A := A + B
+
+to be computed in one instruction
+
+ADD B, A
+
+but requires that
+
+A := B + C
+
+be done in two instructions
+
+MOVE B, A
+ADD C, A
+
+Encoding length
+As can be seen in the table below some instructions sets keep to a very simple fixed encoding length, and other have variable-length.  Usually it is RISC architectures that have fixed encoding length and CISC architectures that have variable length, but not always.
+
+Instruction sets
+The table below compares basic information about instruction set architectures.
+Notes: 
+
+Usually the number of registers is a power of two, e.g. 8, 16, 32. In some cases a hardwired-to-zero pseudo-register is included, as "part" of register files of architectures, mostly to simplify indexing modes. The column "Registers" only counts the integer "registers" usable by general instructions at any moment. Architectures always include special-purpose registers such as the program counter (PC). Those are not counted unless mentioned. Note that some architectures, such as SPARC, have register windows; for those architectures, the count indicates how many registers are available within a register window. Also, non-architected registers for register renaming are not counted.
+In the "Type" column, "Register–Register" is a synonym for a common type of architecture, "load–store", meaning that no instruction can directly access memory except some special ones, i.e. load to or store from register(s), with the possible exceptions of memory locking instructions for atomic operations.
+In the "Endianness" column, "Bi" means that the endianness is configurable.
+
+See also
+[Central processing unit](648) (CPU)
+Processor design
+Comparison of CPU microarchitectures
+Instruction set architecture
+Microprocessor
+Benchmark (computing)
+
+Notes
+
+
+== References ==

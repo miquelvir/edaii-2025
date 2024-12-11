@@ -1,0 +1,83 @@
+2821
+Breeding of strawberries
+The breeding of strawberries started with the selection and cultivation of European strawberry species in western Europe in the 15th century while a similar discovery and cultivation occurred in Chile. The most commonly consumed strawberry species in modern times is the garden strawberry, a species derived from hybridization of two other species, with the scientific name [Fragaria](2850) × ananassa, but there are many species of strawberries, several others of which are cultivated to some extent. The strawberry species fall into several different genetic types, based on their number of chromosomes. [Strawberry](2800) growers have employed many breeding techniques, starting with traditional plant breeding and then moving on to molecular breeding and genetic engineering in the 20th century.
+
+The history of the breeding of strawberries
+Early breeding
+In Europe, there were three main strawberry species. They are [Fragaria](2850) vesca, F. viridis and F. moschata. By the time American plants were introduced, the most commonly grown of these was F. vesca.
+[Fragaria](2850) vesca has a red variety and is known as the "woodland strawberry". Of particular interest is F. sylvestris var. semperflorens, which is unusual, because it is ever-bearing, meaning that it constantly flowers and bears fruit until autumn frosts arrive.
+[Fragaria](2850) viridis is known as a "green strawberry". Its origins are in the Alps. A unique characteristic of this plant is that it is twice bearing, meaning that it will flower and bear fruit twice in a year.
+[Fragaria](2850) moschata, known as the "musky flavoured strawberry" or "Hautboy" in England, has large fruit with a slightly musky scent.
+[Fragaria](2850) chiloensis was grown by Mapuches in the Americas as far back as 1714. Modern varieties are still produced on a local scale in Chile and Argentina.
+The origins of modern large-fruited strawberries can be found in France. In 1714 [Fragaria](2850) chiloensis, a plant that produces large fruit that is particularly good for eating, was taken from South America to France by a French spy. After its arrival in France, this variety was bred with [Fragaria](2850) virginiana, a hearty plant from North America. The product of this cross is the species [Fragaria](2850) × ananassa. [Antoine Nicolas Duchesne](2814) is important in the development of strawberries in both France, and the rest of the world. He discovered that strawberries can be either bisexual, or unisexual. He also conducted experiments, crossing F. moschata and F. chiloensis. The resulting large fruit put Duchesne in King Louis XV's favor and allowed him to continue to study and create his categorization of the ten "races" of strawberry.
+While France did much to establish modern large fruit strawberries, they were not alone in their development of the plant. The most commonly used strawberry was [Fragaria](2850) virginiana or the "scarlet strawberry". It was commonly used because of the English holdings in North America, F. virginiana’s genetic home. The English work with breeding was centered on breeding F. virginiana into new varieties and crossing it with F. chiloensis. The reason for this was that F. chiloensis has a large berry size and a pleasant flavor but poor tolerance to the climate of England.  The English breeding of early F. virginiana x F. chiloensis crosses can be examined by looking at two of the most successful breeders of England: Andrew Knight and Michael Keens.
+Thomas Andrew Knight worked mostly with F. virginiana x F. chiloensis plants. While he developed many successful varieties in his 1817 breeding experiment, he was mistaken in his belief that all inter-fertile large fruited strawberries were the same species.
+Michael Keens was far less methodical than Knight. He did develop an extremely popular variety that was praised for its large size and excellent flavor up until the 20th century.
+
+Modern breeding
+In the modern age, strawberry breeding is a delicate science and art. Its aim is to produce plant varieties that will be able to supply the world's demand for fruit by overcoming adverse conditions and disease.
+
+United States
+In 1920 a large shift in the breeding of strawberries occurred. Breeding stopped being a largely private personal endeavor and became a government matter when the United States department of Agriculture started to fund strawberry breeding.  The Plant Patent Act of 1930 gave plant breeders the same status as mechanical and chemical inventors had through patent law. The early objectives of the breeding stations were to develop new varieties to better satisfy the American demand for better dessert, canning and freezing varieties. In the late 1930s and 40s disease resistance became an objective of breeding, particularly to red stele root disease. The 1937 federal work objectives included goals of improving resistance to disease and improving tolerance of long and short days as well as high and low temperatures.
+
+Great Britain
+By the 1950s many American varieties were being used in Great Britain such as the F. vesca x F. chiloensis In the mid 50s, varieties were released that were resistant to red stele root disease.
+
+France
+Unlike Great Britain and the United States, France allowed strawberry breeding to remain a largely private study for the early 20th century. This allowed individual breeders to follow their own curiosity and work with plants that were atypical for the time. A notable example is Charles Simmen's work with ever-bearing strawberries.
+
+Private sector funded breeding
+As part of research and development, many agricultural businesses have seen fit to invest in the development of their own varieties.
+
+Genetics of strawberries
+Strawberries have many different chromosome numbers. These are typically multiples of seven chromosomes, for example diploid being x2, octaploid being x8. While these are four of the most common numbers of chromosome pairs some strawberries can have as many as 16.
+
+Diploid
+[Fragaria](2850) daltoniana — native to Asia
+[Fragaria](2850) nilgerrensis — native to South Asia
+[Fragaria](2850) nubicola — native to South Asia
+[Fragaria](2850) vesca — found throughout Europe, North America, and Northern Asia as well as North Africa, the mountains of South America, and the northern polar regions
+[Fragaria](2850) viridis — native to Central Europe
+
+Tetraploid
+[Fragaria](2850) moupinensis — native to East Central Asia
+[Fragaria](2850) orientalis — native to Northeast Asia
+
+Hexaploid
+[Fragaria](2850) moschata — native to Central Europe
+
+Octaploid
+[Fragaria](2850) chiloensis — native to South Chile, mountains of Hawaii
+[Fragaria](2850) ovalis — native to Western North America
+[Fragaria](2850) virginiana — native to Eastern North America
+
+The breeding techniques
+Traditional breeding
+Traditional breeding refers to the process of allowing certain chosen plants to sexually reproduce with other plants. Plants are chosen based on favorable characteristics. Simply put, traditional breeding takes plants with favorable characteristics and breeds them. Then the offspring are raised and then judgment is made about which ones have the best traits and the process proceeds to the next generation. This method has been the way that humans have traditionally modified organisms. Not until the 20th century were humans able to influence the genotypes of organisms in any other way.
+
+An example variety developed by Andrew Knight
+The "Downton" was a successful variety developed by Andrew Knight as a result of his 1817 breeding experiment. The mother of this variety was a plant grown from seeds direct from America (probably F. Virginiana) and its father was the variety "Old Black", which is of uncertain origin. This variety was created by pollination, not direct manipulation of the plant's genes.
+
+Molecular breeding
+Molecular breeding is the application of molecular biology tools in a breeding program.
+
+Genetic engineering
+Broad spectrum resistance can be quickly achieved in strawberry by the addition of a transgene, the Arabidopsis defense master regulator gene NPR1. This quickly produces a large number of changes because of the conservation in strawberry of several other genes. Specifically, these are defense genes that NPR1 interfaces with.
+
+An example of cold resistance
+An excellent example of transgenic modification is in the case of cold resistant strawberries. In one particular variety genes from the arctic flounder, a fish that lives in very cold water, were used to give plants resistance to cold. This modification works because of the genetics of the arctic flounder. It lives in water where other fish would freeze to death but, with a special gene that allows it to produce a sort of anti-freeze, it can survive. This gene is put into bacteria that are sprayed on the strawberry during the freezing temperatures, allowing it to also be resistant to cold. The strawberry is then cleaned, removing the bacteria.
+
+See also
+Ploidy
+
+References
+
+Capocasa, F., Diamanti, J., Tulipani, S., Battino, M., & Mezzetti, B. (2008). Breeding strawberry (fragaria X ananassa duch) to increase fruit nutritional quality. Biofactors, 34(1), 67-72.
+Enhancement of blueberry, strawberry, and brambles through molecular approaches ... annual report electronic resource (2006). Washington, D.C. : U.S. Dept. of Agriculture, Agricultural Research Service.
+Korbin, M. U. (2011). Molecular approaches to disease resistance in fragaria spp. Journal of Plant Protection Research, 51(1), 60-65.
+Lado, J., Vicente, E., Manzzioni, A., & Ares, G. (2010). Application of a check-all-that-apply question for the evaluation of strawberry cultivars from a breeding program. Journal of the Science of Food and Agriculture, 90(13), 2268-2275.
+Qin, Y., Teixeira da Silva, J., A., Zhang, L., & Zhang, S. (2008). Transgenic strawberry: State of the art for improved traits. Biotechnology Advances, 26(3), 219-232.
+Sargent, D. J., Fernandéz-Fernandéz, F., Ruiz-Roja, J., Sutherland, B. G., Passey, A., Whitehouse, A. B., & Simpson, D. W. (2009). A genetic linkage map of the cultivated strawberry ( fragaria × ananassa) and its comparison to the diploid fragaria reference map. Molecular Breeding, 24(3), 293-303. doi:10.1007/s11032-009-9292-9
+Shaw, D. V., Gordon, T. R., Larson, K. D., Gubler, W. D., Hansen, J., & Kirkpatrick, S. C. (2010). [Strawberry](2800) breeding improves genetic resistance to verticillium wilt. California Agriculture, 64(1), 37-41.
+Whitaker, V. M., Hasing, T., Chandler, C. K., Plotto, A., & Baldwin, E. (2011). Historical trends in strawberry fruit quality revealed by a trial of university of Florida cultivars and advanced selections. HortScience, 46(4), 553-557.
+Zebrowska, J. I. (2010). In vitro selection in resistance breeding of strawberry (fragaria x ananassa duch.). Communications in Agricultural and Applied Biological Sciences, 75(4), 699-704.

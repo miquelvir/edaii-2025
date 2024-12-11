@@ -1,0 +1,44 @@
+3622
+Akira Yoshino
+Akira Yoshino (吉野 彰, Yoshino Akira, born 30 January 1948) is a Japanese chemist. He is a fellow of Asahi Kasei Corporation and a professor at Meijo University in Nagoya. He created the first safe, production-viable lithium-ion battery, which became used widely in cellular phones and notebook computers. Yoshino was awarded the Nobel Prize in [Chemist](3695)ry in 2019 alongside M. Stanley Whittingham and John B. Goodenough.
+
+Early life and education
+Yoshino was born in Suita, Japan, on 30 January 1948. He graduated from Kitano High School in Osaka City (1966). He earned a B.S. in 1970 and an M.S. degree in 1972, both in engineering from Kyoto University, and a Dr.Eng. degree from Osaka University in 2005.
+During his time in elementary school, one of his teachers suggested that he read The Chemical History of a Candle by Michael Faraday, and this sparked a multitude of questions for Yoshino regarding chemistry, a subject he had not been interested in prior to reading the book.
+During his college years, Yoshino had attended a course taught by Japanese chemist Kenichi Fukui, the first recipient of East Asian ancestry to be awarded the Nobel Prize in [Chemist](3695)ry.
+
+Career
+Yoshino spent his entire non-academic career at Asahi Kasei Corporation. Immediately after graduating with his master's degree in 1972, Yoshino began working at Asahi Kasei. He joined the Exploratory Research Team at Asahi Kasei Corporation in the early 1970s to explore new general-purpose materials, initially exploring practical applications for polyacetylene but turned to experimenting with using polyacetylene as an anode material once Japan's electronics industry attempted to create new lightweight and compact rechargeable battery to power their mobile devices.
+He began work in the Kawasaki Laboratory in 1982 and was promoted to manager of product development for ion batteries in 1992. In 1994, he became manager of technical development for the LIB manufacturer A&T Battery Corp., a joint venture company of Asahi Kasei and Toshiba. Asahi Kasei made him a fellow in 2003 and, in 2005, general manager of his own laboratory. Since 2017, he has been a professor at Meijo University and his status at Asahi Kasei has changed to honorary fellow.
+
+Research
+In 1981 Yoshino started doing research on rechargeable batteries using polyacetylene. Polyacetylene is the electroconductive polymer discovered by Hideki Shirakawa, who later (in 2000) would be awarded the Nobel Prize in [Chemist](3695)ry for its discovery.
+In 1983 Yoshino fabricated a prototype rechargeable battery using lithium cobalt oxide (LiCoO2) (discovered in 1979 by Godshall et al. at Stanford University, and John Goodenough and Koichi Mizushima at Oxford University) as cathode and polyacetylene as anode.  This prototype, in which the anode material itself contains no lithium, and lithium ions migrate from the LiCoO2 cathode into the anode during charging, was the direct precursor to the modern lithium-ion battery (LIB).
+Polyacetylene had low real density which meant high capacity required large battery volume, and also had problems with instability, so Yoshino switched to carbonaceous material as anode and in 1985 fabricated the first prototype of the LIB and received the basic patent.
+This was the birth of the current lithium-ion battery.
+The LIB in this configuration was commercialized by Sony in 1991 and by A&T Battery in 1992. Yoshino described challenges and history of the invention process in a book chapter from 2014.
+Yoshino discovered that carbonaceous material with a certain crystalline structure was suitable as anode material,  and this is the anode material that was used in the first generation of commercial LIBs.  Yoshino developed the aluminum foil current collector  which formed a passivation layer to enable high cell voltage at low cost, and developed the functional separator membrane  and the use of a positive temperature coefficient (PTC) device  for additional safety.
+The LIB's coil-wound structure was conceived by Yoshino to provide large electrode surface area and enable high current discharge despite the low conductivity of the organic electrolyte.
+In 1986 Yoshino commissioned the manufacture of a batch of LIB prototypes. Based on safety test data from those prototypes, the United States Department of Transportation (DOT) issued a letter stating that the batteries were different from the metallic lithium battery.
+
+Recognition
+1998 Chemical Technology Prize from the Chemical Society of Japan
+1999: Battery Division Technology Award from The Electrochemical Society
+2001: Ichimura Prizes in Industry—Meritorious Achievement Prize
+2003: Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science and Technology—Prize for Science and Technology, Development Category
+2004: Medal with Purple Ribbon, from the Government of Japan
+2011: Yamazaki-Teiichi Prize from the Foundation for Promotion of Material Science and Technology of Japan
+2011: C&C Prize from the NEC C&C Foundation
+2012 : IEEE Medal for Environmental and Safety Technologies from the IEEE
+2013 : Global Energy Prize
+2014 : Charles Stark Draper Prize
+2018 : Japan Prize
+2019 : European Inventor Award
+2019 : Nobel Prize in [Chemist](3695)ry
+2019 : Order of Culture
+2023 : VinFuture Prize
+
+References
+External links
+The father of lithium-ion batteries ([Chemist](3695)ry World, July 2018)
+Akira Yoshino on Nobelprize.org  including the Nobel Lecture 8 December 2019 Brief History and Future of Lithium-ion Batteries

@@ -1,0 +1,1693 @@
+3834
+Angle bisector theorem
+In geometry, the angle bisector theorem is concerned with the relative lengths of the two segments that a triangle's side is divided into by a line that bisects the opposite angle. It equates their relative lengths to the relative lengths of the other two sides of the triangle.
+Note that this theorem is not to be confused with the Inscribed [Angle](3833) Theorem, which also involves angle bisection (but of an angle of a triangle inscribed in a circle).
+
+Theorem
+Consider a triangle △ABC. Let the angle bisector of angle ∠ A intersect side BC at a point D between B and C. The angle bisector theorem states that the ratio of the length of the line segment BD to the length of segment CD is equal to the ratio of the length of side AB to the length of side AC:
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              B
+              A
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              A
+              
+                |
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {|BD|}{|CD|}}={\frac {|BA|}{|CA|}},}
+  
+
+and conversely, if a point D on the side BC of △ABC divides BC in the same ratio as the sides AB and AC, then AD is the angle bisector of angle ∠ A.
+The generalized angle bisector theorem states that if D lies on the line BC, then
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              B
+              A
+              
+                |
+              
+              sin
+              ⁡
+              ∠
+              D
+              A
+              B
+            
+            
+              
+                |
+              
+              C
+              A
+              
+                |
+              
+              sin
+              ⁡
+              ∠
+              D
+              A
+              C
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {|BD|}{|CD|}}={\frac {|BA|\sin \angle DAB}{|CA|\sin \angle DAC}}.}
+  
+
+This reduces to the previous version if AD is the bisector of ∠ BAC. When D is external to the segment BC, directed line segments and directed angles must be used in the calculation.
+The angle bisector theorem is commonly used when the angle bisectors and side lengths are known. It can be used in a calculation or in a proof.
+An immediate consequence of the theorem is that the angle bisector of the vertex angle of an isosceles triangle will also bisect the opposite side.
+
+Proofs
+There exist many different ways of proving the angle bisector theorem. A few of them are shown below.
+
+Proof using similar triangles
+As shown in the accompanying animation, the theorem can be proved using similar triangles. In the version illustrated here, the triangle 
+  
+    
+      
+        △
+        A
+        B
+        C
+      
+    
+    {\displaystyle \triangle ABC}
+  
+ gets reflected across a line that is perpendicular to the angle bisector 
+  
+    
+      
+        A
+        D
+      
+    
+    {\displaystyle AD}
+  
+, resulting in the triangle 
+  
+    
+      
+        △
+        A
+        
+          B
+          
+            2
+          
+        
+        
+          C
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \triangle AB_{2}C_{2}}
+  
+ with bisector 
+  
+    
+      
+        A
+        
+          D
+          
+            2
+          
+        
+      
+    
+    {\displaystyle AD_{2}}
+  
+. The fact that the bisection-produced angles 
+  
+    
+      
+        ∠
+        B
+        A
+        D
+      
+    
+    {\displaystyle \angle BAD}
+  
+ and 
+  
+    
+      
+        ∠
+        C
+        A
+        D
+      
+    
+    {\displaystyle \angle CAD}
+  
+ are equal means that 
+  
+    
+      
+        B
+        A
+        
+          C
+          
+            2
+          
+        
+      
+    
+    {\displaystyle BAC_{2}}
+  
+ and 
+  
+    
+      
+        C
+        A
+        
+          B
+          
+            2
+          
+        
+      
+    
+    {\displaystyle CAB_{2}}
+  
+ are straight lines. This allows the construction of triangle 
+  
+    
+      
+        △
+        
+          C
+          
+            2
+          
+        
+        B
+        C
+      
+    
+    {\displaystyle \triangle C_{2}BC}
+  
+ that is similar to 
+  
+    
+      
+        △
+        A
+        B
+        D
+      
+    
+    {\displaystyle \triangle ABD}
+  
+. Because the ratios between corresponding sides of similar triangles are all equal, it follows that 
+  
+    
+      
+        
+          |
+        
+        A
+        B
+        
+          |
+        
+        
+          /
+        
+        
+          |
+        
+        A
+        
+          C
+          
+            2
+          
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        B
+        D
+        
+          |
+        
+        
+          /
+        
+        
+          |
+        
+        C
+        D
+        
+          |
+        
+      
+    
+    {\displaystyle |AB|/|AC_{2}|=|BD|/|CD|}
+  
+. However, 
+  
+    
+      
+        A
+        
+          C
+          
+            2
+          
+        
+      
+    
+    {\displaystyle AC_{2}}
+  
+ was constructed as a reflection of the line 
+  
+    
+      
+        A
+        C
+      
+    
+    {\displaystyle AC}
+  
+, and so those two lines are of equal length. Therefore, 
+  
+    
+      
+        
+          |
+        
+        A
+        B
+        
+          |
+        
+        
+          /
+        
+        
+          |
+        
+        A
+        C
+        
+          |
+        
+        =
+        
+          |
+        
+        B
+        D
+        
+          |
+        
+        
+          /
+        
+        
+          |
+        
+        C
+        D
+        
+          |
+        
+      
+    
+    {\displaystyle |AB|/|AC|=|BD|/|CD|}
+  
+, yielding the result stated by the theorem.
+
+Proof using Law of Sines
+In the above diagram, use the law of sines on triangles △ABD and △ACD:
+
+[Angle](3833)s ∠ ADB and ∠ ADC form a linear pair, that is, they are adjacent supplementary angles.  Since supplementary angles have equal sines,
+
+  
+    
+      
+        
+          sin
+          ⁡
+          ∠
+          A
+          D
+          B
+        
+        =
+        
+          sin
+          ⁡
+          ∠
+          A
+          D
+          C
+        
+        .
+      
+    
+    {\displaystyle {\sin \angle ADB}={\sin \angle ADC}.}
+  
+
+[Angle](3833)s ∠ DAB and ∠ DAC are equal. Therefore, the right hand sides of equations (1) and (2) are equal, so their left hand sides must also be equal.
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {|BD|}{|CD|}}={\frac {|AB|}{|AC|}},}
+  
+
+which is the angle bisector theorem.
+If angles ∠ DAB, ∠ DAC are unequal, equations (1) and (2) can be re-written as:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  |
+                
+                A
+                B
+                
+                  |
+                
+              
+              
+                
+                  |
+                
+                B
+                D
+                
+                  |
+                
+              
+            
+          
+          sin
+          ⁡
+          ∠
+          D
+          A
+          B
+          =
+          sin
+          ⁡
+          ∠
+          A
+          D
+          B
+        
+        ,
+      
+    
+    {\displaystyle {{\frac {|AB|}{|BD|}}\sin \angle DAB=\sin \angle ADB},}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  |
+                
+                A
+                C
+                
+                  |
+                
+              
+              
+                
+                  |
+                
+                C
+                D
+                
+                  |
+                
+              
+            
+          
+          sin
+          ⁡
+          ∠
+          D
+          A
+          C
+          =
+          sin
+          ⁡
+          ∠
+          A
+          D
+          C
+        
+        .
+      
+    
+    {\displaystyle {{\frac {|AC|}{|CD|}}\sin \angle DAC=\sin \angle ADC}.}
+  
+
+[Angle](3833)s ∠ ADB, ∠ ADC are still supplementary, so the right hand sides of these equations are still equal, so we obtain:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  |
+                
+                A
+                B
+                
+                  |
+                
+              
+              
+                
+                  |
+                
+                B
+                D
+                
+                  |
+                
+              
+            
+          
+          sin
+          ⁡
+          ∠
+          D
+          A
+          B
+          =
+          
+            
+              
+                
+                  |
+                
+                A
+                C
+                
+                  |
+                
+              
+              
+                
+                  |
+                
+                C
+                D
+                
+                  |
+                
+              
+            
+          
+          sin
+          ⁡
+          ∠
+          D
+          A
+          C
+        
+        ,
+      
+    
+    {\displaystyle {{\frac {|AB|}{|BD|}}\sin \angle DAB={\frac {|AC|}{|CD|}}\sin \angle DAC},}
+  
+
+which rearranges to the "generalized" version of the theorem.
+
+Proof using triangle altitudes
+Let D be a point on the line BC, not equal to B or C and such that AD is not an altitude of triangle △ABC.
+Let B1 be the base (foot) of the altitude in the triangle △ABD through B and let C1 be the base of the altitude in the triangle △ACD through C. Then, if D is strictly between B and C, one and only one of B1 or C1 lies inside △ABC and it can be assumed without loss of generality that B1 does. This case is depicted in the adjacent diagram. If D lies outside of segment BC, then neither B1 nor C1 lies inside the triangle.
+∠ DB1B, ∠ DC1C are right angles, while the angles ∠ B1DB, ∠ C1DC are congruent if D lies on the segment BC (that is, between B and C) and they are  identical in the other cases being considered, so the triangles △DB1B, △DC1C are similar (AAA), which implies that:
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              B
+              
+                B
+                
+                  1
+                
+              
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              
+                C
+                
+                  1
+                
+              
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+              sin
+              ⁡
+              ∠
+              B
+              A
+              D
+            
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+              sin
+              ⁡
+              ∠
+              C
+              A
+              D
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {|BD|}{|CD|}}={\frac {|BB_{1}|}{|CC_{1}|}}={\frac {|AB|\sin \angle BAD}{|AC|\sin \angle CAD}}.}
+  
+
+If D is the foot of an altitude, then,
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+            
+          
+        
+        =
+        sin
+        ⁡
+        ∠
+         
+        B
+        A
+        D
+        
+           and 
+        
+        
+          
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+            
+          
+        
+        =
+        sin
+        ⁡
+        ∠
+         
+        D
+        A
+        C
+        ,
+      
+    
+    {\displaystyle {\frac {|BD|}{|AB|}}=\sin \angle \ BAD{\text{ and }}{\frac {|CD|}{|AC|}}=\sin \angle \ DAC,}
+  
+
+and the generalized form follows.
+
+Proof using triangle areas
+A quick proof can be obtained by looking at the ratio of the areas of the two triangles △BAD, △CAD, which are created by the angle bisector in A. Computing those areas twice using different formulas, that is 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        g
+        h
+      
+    
+    {\displaystyle {\tfrac {1}{2}}gh}
+  
+ with base 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ and altitude h and 
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        a
+        b
+        sin
+        ⁡
+        (
+        γ
+        )
+      
+    
+    {\displaystyle {\tfrac {1}{2}}ab\sin(\gamma )}
+  
+ with sides a, b and their enclosed angle γ, will yield the desired result.
+Let h denote the height of the triangles on base BC and 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  
+ be half of the angle in A. Then
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              △
+              A
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              △
+              A
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+              h
+            
+            
+              
+                
+                  1
+                  2
+                
+              
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+              h
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {|\triangle ABD|}{|\triangle ACD|}}={\frac {{\frac {1}{2}}|BD|h}{{\frac {1}{2}}|CD|h}}={\frac {|BD|}{|CD|}}}
+  
+
+and
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              △
+              A
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              △
+              A
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+              
+                |
+              
+              A
+              D
+              
+                |
+              
+              sin
+              ⁡
+              (
+              α
+              )
+            
+            
+              
+                
+                  1
+                  2
+                
+              
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+              
+                |
+              
+              A
+              D
+              
+                |
+              
+              sin
+              ⁡
+              (
+              α
+              )
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {|\triangle ABD|}{|\triangle ACD|}}={\frac {{\frac {1}{2}}|AB||AD|\sin(\alpha )}{{\frac {1}{2}}|AC||AD|\sin(\alpha )}}={\frac {|AB|}{|AC|}}}
+  
+
+yields
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              B
+              D
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              D
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {|BD|}{|CD|}}={\frac {|AB|}{|AC|}}.}
+
+Length of the angle bisector
+The length of the angle bisector 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  
+ can be found by 
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+        =
+        b
+        c
+        −
+        m
+        n
+        =
+        m
+        n
+        (
+        
+          k
+          
+            2
+          
+        
+        −
+        1
+        )
+        =
+        b
+        c
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                
+                  k
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\textstyle d^{2}=bc-mn=mn(k^{2}-1)=bc\left(1-{\frac {1}{k^{2}}}\right)}
+  
+,
+where 
+  
+    
+      
+        k
+        =
+        
+          
+            b
+            n
+          
+        
+        =
+        
+          
+            c
+            m
+          
+        
+        =
+        
+          
+            
+              b
+              +
+              c
+            
+            a
+          
+        
+      
+    
+    {\displaystyle k={\frac {b}{n}}={\frac {c}{m}}={\frac {b+c}{a}}}
+  
+ is the constant of proportionality from the angle bisector theorem.
+Proof: By Stewart's theorem, we have
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    2
+                  
+                
+                m
+                +
+                
+                  c
+                  
+                    2
+                  
+                
+                n
+              
+              
+                
+                =
+                a
+                (
+                
+                  d
+                  
+                    2
+                  
+                
+                +
+                m
+                n
+                )
+              
+            
+            
+              
+                (
+                k
+                n
+                
+                  )
+                  
+                    2
+                  
+                
+                m
+                +
+                (
+                k
+                m
+                
+                  )
+                  
+                    2
+                  
+                
+                n
+              
+              
+                
+                =
+                a
+                (
+                
+                  d
+                  
+                    2
+                  
+                
+                +
+                m
+                n
+                )
+              
+            
+            
+              
+                
+                  k
+                  
+                    2
+                  
+                
+                (
+                m
+                +
+                n
+                )
+                m
+                n
+              
+              
+                
+                =
+                (
+                m
+                +
+                n
+                )
+                (
+                
+                  d
+                  
+                    2
+                  
+                
+                +
+                m
+                n
+                )
+              
+            
+            
+              
+                
+                  k
+                  
+                    2
+                  
+                
+                m
+                n
+              
+              
+                
+                =
+                
+                  d
+                  
+                    2
+                  
+                
+                +
+                m
+                n
+              
+            
+            
+              
+                (
+                
+                  k
+                  
+                    2
+                  
+                
+                −
+                1
+                )
+                m
+                n
+              
+              
+                
+                =
+                
+                  d
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b^{2}m+c^{2}n&=a(d^{2}+mn)\\(kn)^{2}m+(km)^{2}n&=a(d^{2}+mn)\\k^{2}(m+n)mn&=(m+n)(d^{2}+mn)\\k^{2}mn&=d^{2}+mn\\(k^{2}-1)mn&=d^{2}\\\end{aligned}}}
+
+Exterior angle bisectors
+For the exterior angle bisectors in a non-equilateral triangle there exist similar equations for the ratios of the lengths of triangle sides. More precisely if the exterior angle bisector in A intersects the extended side BC in E,  the exterior angle bisector in B intersects the extended side AC in D and the exterior angle bisector in C intersects the extended side AB in F, then the following equations hold:
+
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              E
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              E
+              C
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              A
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              A
+              C
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {|EB|}{|EC|}}={\frac {|AB|}{|AC|}}}
+  
+, 
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              F
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              F
+              A
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              C
+              B
+              
+                |
+              
+            
+            
+              
+                |
+              
+              C
+              A
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {|FB|}{|FA|}}={\frac {|CB|}{|CA|}}}
+  
+, 
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              D
+              A
+              
+                |
+              
+            
+            
+              
+                |
+              
+              D
+              C
+              
+                |
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              B
+              A
+              
+                |
+              
+            
+            
+              
+                |
+              
+              B
+              C
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {|DA|}{|DC|}}={\frac {|BA|}{|BC|}}}
+  
+
+The three points of intersection between the exterior angle bisectors and the extended triangle sides D, E, F are collinear, that is they lie on a common line.
+
+History
+The angle bisector theorem appears as Proposition 3 of Book VI in Euclid's Elements. According to Heath (1956, p. 197 (vol. 2)), the corresponding statement for an external angle bisector was given by Robert Simson who noted that Pappus assumed this result without proof. Heath goes on to say that Augustus De Morgan proposed that the two statements should be combined as follows:
+
+If an angle of a triangle is bisected internally or externally by a straight line which cuts the opposite side or the opposite side produced, the segments of that side will have the same ratio as the other sides of the triangle; and, if a side of a triangle be divided internally or externally so that its segments have the same ratio as the other sides of the triangle, the straight line drawn from the point of section to the angular point which is opposite to the first mentioned side will bisect the interior or exterior angle at that angular point.
+
+Applications
+This theorem has been used to prove the following theorems/results:
+
+Coordinates of the incenter of a triangle
+Circles of Apollonius
+
+References
+Further reading
+G.W.I.S Amarasinghe: On the Standard Lengths of [Angle](3833) Bisectors and the [Angle](3833) Bisector Theorem, Global Journal of Advanced Research on Classical and Modern Geometries, Vol 01(01), pp. 15 – 27, 2012
+
+External links
+A Property of [Angle](3833) Bisectors at cut-the-knot
+Intro to angle bisector theorem at Khan Academy

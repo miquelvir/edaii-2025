@@ -1,0 +1,57 @@
+983
+Embarrassingly parallel
+In parallel computing, an embarrassingly parallel workload or problem (also called embarrassingly parallelizable, perfectly parallel, delightfully parallel or pleasingly parallel) is one where little or no effort is needed to split the problem into a number of parallel tasks. This is due to minimal or no dependency upon communication between the parallel tasks, or for results between them.
+These differ from distributed computing problems, which need communication between tasks, especially communication of intermediate results. They are easier to perform on server farms which lack the special infrastructure used in a true supercomputer cluster. They are well-suited to large, Internet-based volunteer computing platforms such as [BOINC](916), and suffer less from parallel slowdown. The opposite of embarrassingly parallel problems are inherently serial problems, which cannot be parallelized at all.
+A common example of an embarrassingly parallel problem is 3D video rendering handled by a graphics processing unit, where each frame (forward method) or pixel (ray tracing method) can be handled with no interdependency. Some forms of password cracking are another embarrassingly parallel task that is easily distributed on central processing units, CPU cores, or clusters.
+
+Etymology
+"Embarrassingly" is used here to refer to parallelization problems which are "embarrassingly easy". The term may imply embarrassment on the part of developers or compilers: "Because so many important problems remain unsolved mainly due to their intrinsic computational complexity, it would be embarrassing not to develop parallel implementations of polynomial homotopy continuation methods." The term is first found in the literature in a 1986 book on multiprocessors by MATLAB's creator Cleve Moler, who claims to have invented the term.
+An alternative term, pleasingly parallel, has gained some use, perhaps to avoid the negative connotations of embarrassment in favor of a positive reflection on the parallelizability of the problems: "Of course, there is nothing embarrassing about these programs at all."
+
+Examples
+A trivial example involves serving static data. It would take very little effort to have many processing units produce the same set of bits. Indeed, the famous Hello World problem could easily be parallelized with few programming considerations or computational costs.
+Some examples of embarrassingly parallel problems include:
+
+Monte Carlo analysis
+Distributed relational database queries using distributed set processing.
+Numerical integration
+Bulk processing of unrelated files of similar nature in general, such as photo gallery resizing and conversion.
+The Mandelbrot set, Perlin noise and similar images, where each point is calculated independently.
+Rendering of computer graphics. In computer animation, each frame or pixel may be rendered independently (see parallel rendering).
+Some brute-force searches in cryptography. Notable real-world examples include distributed.net and proof-of-work systems used in cryptocurrency.
+BLAST searches in bioinformatics with split databases.
+Large scale facial recognition systems that compare thousands of arbitrary acquired faces (e.g., a security or surveillance video via closed-circuit television) with similarly large number of previously stored faces (e.g., a rogues gallery or similar watch list).
+Computer simulations comparing many independent scenarios.
+Genetic algorithms.
+Ensemble calculations of numerical weather prediction.
+Event simulation and reconstruction in particle physics.
+The marching squares algorithm.
+Sieving step of the quadratic sieve and the number field sieve.
+Tree growth step of the random forest machine learning technique.
+Discrete Fourier transform where each harmonic is independently calculated.
+Convolutional neural networks running on GPUs.
+Parallel search in constraint programming
+
+Implementations
+In R (programming language) – The Simple Network of Workstations (SNOW) package implements a simple mechanism for using a set of workstations or a [Beowulf cluster](918) for embarrassingly parallel computations. Similar R packages include "future", "parallel" and others.
+
+See also
+[Amdahl's law](906) defines value P, which would be almost or exactly equal to 1 for embarrassingly parallel problems.
+Cellular automaton
+Connection Machine
+[CUDA](928) framework
+Manycore processor
+Map (parallel pattern)
+Massively parallel
+Multiprocessing
+Parallel computing
+Process-oriented programming
+Shared-nothing architecture (SN)
+Symmetric multiprocessing (SMP)
+Vector processor
+
+References
+External links
+
+Embarrassingly Parallel Computations, Engineering a Beowulf-style Compute Cluster
+"Star-P: High Productivity Parallel Computing"

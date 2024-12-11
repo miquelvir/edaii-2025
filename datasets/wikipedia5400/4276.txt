@@ -1,0 +1,31 @@
+4276
+Betacism
+In historical linguistics, betacism (UK:  BEE-tə-siz-əm, US:  BAY-) is a sound change in which b (the voiced bilabial plosive, as in bane) and v (the voiced labiodental fricative v, as in vane) are confused. The final result of the process can be either /b/ → v or /v/ → b. Betacism is a fairly common phenomenon; it has taken place in Greek, Hebrew, Japanese, and several Romance languages.
+
+Greek
+In Classical Greek, the letter beta ⟨β⟩ denoted b. As a result of betacism, it has come to denote v in Modern Greek, a process which probably began during the Koine Greek period, approximately in the 1st century CE, along with the spirantization of the sounds represented by the letters δ and γ. Modern (and earlier Medieval) Greek uses the digraph ⟨μπ⟩ to represent b. Indeed, this is the origin of the word betacism.
+
+Romance languages
+Perhaps the best known example of betacism is in the Romance languages. The first traces of betacism in Latin can be found in the 3rd century CE. The results of the shift are most widespread in the Western Romance languages, especially in Spanish, in which the letters ⟨b⟩ and ⟨v⟩ are now both pronounced β (the voiced bilabial fricative) except phrase-initially and after a nasal consonant, when they are pronounced b; the two sounds (β and b) are now allophones. Betacism is one of the main features in which Galician and northern Portuguese diverge from central and southern Portuguese. In Catalan, betacism features in many dialects, but not in central and southern Valencian or the [Balearic dialect](4261). In Occitan language, betacism is common in Gascon, Languedocien and [Auvergnat](4254) dialects. Other Iberian languages with betacism are Astur-Leonese and Aragonese.
+Another example of betacism is in Neapolitan, or in Central Italian (particularly in Macerata) which uses ⟨v⟩ to denote betacism-produced v, such that Latin bucca corresponds to Neapolitan vocca and to Maceratese vocca, Latin arborem to arvero or arvulo, and barba to Neapolitan varva and Maceratese varba.
+
+Betacism in Latin
+A famous medieval Latin saying states:
+
+Beati hispani, quibus vivere bibere est.
+Translation: Fortunate are the Hispani, for whom living is drinking.
+The saying is a pun referring to the fact that the Iberians would generally pronounce the letter v the same as b (which uses the sound b or β) instead of w or v. In Latin, the words vivere ("to live") and bibere ("to drink") are distinguished only by the use of the letters v and b, thus creating a point of confusion in the Iberian pronunciation.
+
+Hebrew
+Betacism occurred in Ancient Hebrew; the sound b (denoted ⟨ב⟩) changed to β and eventually to v except when geminated or when following a consonant or pause. As a result, the two sounds became allophones; but, due to later sound changes, including the loss of gemination, the distinction became phonemic again in Modern Hebrew.
+
+See also
+Lenition
+Iotacism
+Phonological merger
+Sound change
+
+Notes
+
+
+== References ==

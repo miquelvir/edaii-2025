@@ -1,0 +1,27 @@
+578
+Apsaravis
+Apsaravis is a Mesozoic avialan genus from the Late Cretaceous. The single known species, Apsaravis ukhaana, lived about 78 million years ago, in the Campanian age of the Cretaceous period.  Its fossilized remains were found in the Camel's  Humps sublocality of the Djadokhta Formation,  at Ukhaa Tolgod in the Gobi Desert of Mongolia. They were collected in the 1998 field season by the Mongolian Academy of Sciences/American Museum of Natural History Paleontological Expeditions. It was described by Norell and Clarke (2001).
+Its habitat was presumably very arid open landscape much like it is today, perhaps hotter still and with more (but nonetheless intermittent) rain. Permanent freshwater would have been scarce.
+
+Implications
+Apsaravis is important in avian paleontology. It has provided evidence that is directly relevant to at least four issues:
+
+Sauriurae
+The Sauriurae are a putative clade of  primitive birds that includes  [Archaeopteryx](582),  Confuciusornis, and Enantiornithes. It is thought  by Feduccia and Martin to be phylogenetically separate from the Ornithurae and, thus, from modern birds. Apsaravis has  features of both Sauriurae and Ornithurae. Apsaravis has several characters that place it near Aves (sensu Gauthier), including the presence of at least ten sacral vertebrae, a pubis and ischium that are closely appressed, distal pubes that do not touch, an 'obturator flange' on the ischium, loss of the cuppedicus muscle fossa on the ilium, a patellar groove on the distal femur, an anterior sternal keel, completely heterocoelus vertebrae, curved scapular shaft, and several features of the forelimb, ankle, and foot. Apsaravis also retains primitive characters shared with Enantiornithes and more basal theropods, including a narrow intercondylar groove and barrel-shaped condyles of the tibiotarsus, a dorsal fossa of the coracoid, into which the supracoracoideus nerve foramen opens, and several features of the humerus. This intermediate anatomy is evidence against the validity of the clade "Sauriurae".
+
+Enantiornithine monophyly
+In their cladistic analyses, Clarke and Norell (2002) found that Apsaravis had a mixture of primitive and advanced characters (described above in "Sauriurae") that removed most of the supporting characters for the clade Enantiornithes. Twenty-seven characters have been used to support enantiornithine monophyly, but Apsaravis brings the number down to only four. The discovery of further basal ornithurine fossils like Apsaravis could render the Enantiornithes paraphyletic. This would mean that, rather than a radiation of primitive birds separate from the radiation that led to modern birds, "enantiornithines" would actually be steps along the way to becoming modern birds.
+
+Ecological bottle neck
+Prior to the discovery of Apsaravis,  most ornithurine birds had been found in marine, lacustrine, or littoral sediments. This led Feduccia (1996) and Martin (1983) to deduce that the ancestors of modern birds were restricted to aquatic environments, and that they were all basal members of the Charadriiformes. Because they believed that all such birds had a "shorebird ecology", they described this limited habitat as an "ecological bottleneck", with all other ecological niches being dominated by enantiornithine birds instead. Apsaravis, however, was found in a sand dune environment, and it has no obviously aquatic anatomical adaptations, giving clear evidence that not all early members of Ornithurae were shorebirds.
+
+Automatic extension of the manus
+Apsaravis is the most basal bird that possesses an extensor process. This is a bony projection on metacarpal I that develops at the insertion of the m.extensor metacarpi radialis muscle and the propatagial ligaments. This anatomy functions to "automate" extension of the manus during extension of the forelimb in Aves. This is a key function for the flight stroke of modern birds.
+
+Phylogenetic position
+Clarke and Norell (2002) found that Apsaravis is the most basal ornithurine bird,  but more advanced than  Enantiornithes and  Patagopteryx.
+Subsequent cladistic analysis indicates that it and the more advanced Palintropus – long believed to be a modern bird –, and perhaps [Ambiortus](541) with which the preceding two had occasionally been allied, form a distinct lineage. This has been named "Palintropiformes", but Apsaraviformes was proposed earlier for the Apsaravis lineage and is thus the senior synonym. And if this group is held to include [Apatornis](574) too, it would receive the name [Ambiortiformes](540), which was proposed even earlier.
+
+Footnotes
+References
+Mortimer, Michael (2004): The Theropod Database: Phylogeny of taxa. Retrieved 2013-MAR-02.

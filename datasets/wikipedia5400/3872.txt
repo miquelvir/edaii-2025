@@ -1,0 +1,201 @@
+3872
+Axiomatic system
+In mathematics and logic, an axiomatic system is any set of primitive notions and axioms to logically derive theorems. A theory is a consistent, relatively-self-contained body of knowledge which usually contains an axiomatic system and all its derived theorems. An axiomatic system that is completely described is a special kind of formal system. A formal theory is an axiomatic system (usually formulated within model theory) that describes a set of sentences that is closed under logical implication. A formal proof is a complete rendition of a mathematical proof within a formal system.
+
+Properties
+An axiomatic system is said to be consistent if it lacks contradiction. That is, it is impossible to derive both a statement and its negation from the system's axioms. Consistency is a key requirement for most axiomatic systems, as the presence of contradiction would allow any statement to be proven (principle of explosion).
+In an axiomatic system, an axiom is called independent if it cannot be proven or disproven from other axioms in the system. A system is called independent if each of its underlying axioms is independent. Unlike consistency, independence is not a necessary requirement for a functioning axiomatic system — though it is usually sought after to minimize the number of axioms in the system.
+An axiomatic system is called complete if for every statement, either itself or its negation is derivable from the system's axioms (equivalently, every statement is capable of being proven true or false).
+
+Relative consistency
+Beyond consistency, relative consistency is also the mark of a worthwhile axiom system. This describes the scenario where the undefined terms of a first axiom system are provided definitions from a second, such that the axioms of the first are theorems of the second.
+A good example is the relative consistency of absolute geometry with respect to the theory of the real number system.  Lines and points are undefined terms (also called primitive notions) in absolute geometry, but assigned meanings in the theory of real numbers in a way that is consistent with both axiom systems.
+
+Models
+A model for an axiomatic system is a well-defined set, which assigns meaning for the undefined terms presented in the system, in a manner that is correct with the relations defined in the system. The existence of a concrete model proves the consistency of a system. A model is called concrete if the meanings assigned are objects and relations from the real world, as opposed to an abstract model which is based on other axiomatic systems.
+Models can also be used to show the independence of an axiom in the system. By constructing a valid model for a subsystem without a specific axiom, we show that the omitted axiom is independent if its correctness does not necessarily follow from the subsystem.
+Two models are said to be isomorphic if a one-to-one correspondence can be found between their elements, in a manner that preserves their relationship. An axiomatic system for which every model is isomorphic to another is called categorial (sometimes categorical). The property of categoriality (categoricity) ensures the completeness of a system, however the converse is not true: Completeness does not ensure the categoriality (categoricity) of a system, since two models can differ in properties that cannot be expressed by the semantics of the system.
+
+Example
+As an example, observe the following axiomatic system, based on first-order logic with additional semantics of the following countably infinitely many axioms added (these can be easily formalized as an axiom schema):
+
+  
+    
+      
+        ∃
+        
+          x
+          
+            1
+          
+        
+        :
+        ∃
+        
+          x
+          
+            2
+          
+        
+        :
+        ¬
+        (
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \exists x_{1}:\exists x_{2}:\lnot (x_{1}=x_{2})}
+  
+ (informally, there exist two different items).
+
+  
+    
+      
+        ∃
+        
+          x
+          
+            1
+          
+        
+        :
+        ∃
+        
+          x
+          
+            2
+          
+        
+        :
+        ∃
+        
+          x
+          
+            3
+          
+        
+        :
+        ¬
+        (
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          x
+          
+            2
+          
+        
+        )
+        ∧
+        ¬
+        (
+        
+          x
+          
+            1
+          
+        
+        =
+        
+          x
+          
+            3
+          
+        
+        )
+        ∧
+        ¬
+        (
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          x
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle \exists x_{1}:\exists x_{2}:\exists x_{3}:\lnot (x_{1}=x_{2})\land \lnot (x_{1}=x_{3})\land \lnot (x_{2}=x_{3})}
+  
+ (informally, there exist three different items).
+
+  
+    
+      
+        .
+        .
+        .
+      
+    
+    {\displaystyle ...}
+  
+
+Informally, this infinite set of axioms states that there are infinitely many different items. However, the concept of an infinite set cannot be defined within the system — let alone the cardinality of such a set.
+The system has at least two different models – one is the natural numbers (isomorphic to any other countably infinite set), and another is the real numbers (isomorphic to any other set with the cardinality of the continuum). In fact, it has an infinite number of models, one for each cardinality of an infinite set. However, the property distinguishing these models is their cardinality — a property which cannot be defined within the system. Thus the system is not categorial. However it can be shown to be complete.
+
+[Axiom](3871)atic method
+Stating definitions and propositions in a way such that each new term can be formally eliminated by the priorly introduced terms requires primitive notions (axioms) to avoid infinite regress. This way of doing mathematics is called the axiomatic method.
+A common attitude towards the axiomatic method is logicism. In their book Principia Mathematica, Alfred North Whitehead and Bertrand Russell attempted to show that all mathematical theory could be reduced to some collection of axioms. More generally, the reduction of a body of propositions to a particular collection of axioms underlies the mathematician's research program. This was very prominent in the mathematics of the twentieth century, in particular in subjects based around homological algebra.
+The explication of the particular axioms used in a theory can help to clarify a suitable level of abstraction that the mathematician would like to work with. For example, mathematicians opted that rings need not be commutative, which differed from Emmy Noether's original formulation. Mathematicians decided to consider topological spaces more generally without the separation axiom which Felix Hausdorff originally formulated.
+The Zermelo–Fraenkel set theory, a result of the axiomatic method applied to set theory, allowed the "proper" formulation of set-theory problems and helped avoid the paradoxes of naïve set theory. One such problem was the continuum hypothesis. Zermelo–Fraenkel set theory, with the historically controversial axiom of choice included, is commonly abbreviated ZFC, where "C" stands for "choice". Many authors use ZF to refer to the axioms of Zermelo–Fraenkel set theory with the axiom of choice excluded. Today ZFC is the standard form of axiomatic set theory and as such is the most common foundation of mathematics.
+
+History
+Mathematical methods developed to some degree of sophistication in ancient Egypt, Babylon, India, and China, apparently without employing the axiomatic method.
+Euclid of [Alexandria](1844) authored the earliest extant axiomatic presentation of Euclidean geometry and number theory. His idea begins with five undeniable geometric assumptions called axioms. Then, using these axioms, he established the truth of other propositions by proofs, hence the axiomatic method.
+Many axiomatic systems were developed in the nineteenth century, including non-Euclidean geometry, the foundations of real analysis, Cantor's set theory, Frege's work on foundations, and Hilbert's 'new' use of axiomatic method as a research tool. For example, group theory was first put on an axiomatic basis towards the end of that century. Once the axioms were clarified (that inverse elements should be required, for example), the subject could proceed autonomously, without reference to the transformation group origins of those studies.
+
+Issues
+Not every consistent body of propositions can be captured by a describable collection of axioms. In recursion theory, a collection of axioms is called recursive if a computer program can recognize whether a given proposition in the language is a theorem. Gödel's first incompleteness theorem then tells us that there are certain consistent bodies of propositions with no recursive axiomatization. Typically, the computer can recognize the axioms and logical rules for deriving theorems, and the computer can recognize whether a proof is valid, but to determine whether a proof exists for a statement is only soluble by "waiting" for the proof or disproof to be generated. The result is that one will not know which propositions are theorems and the axiomatic method breaks down. An example of such a body of propositions is the theory of the natural numbers, which is only partially axiomatized by the Peano axioms (described below).
+In practice, not every proof is traced back to the axioms. At times, it is not even clear which collection of axioms a proof appeals to. For example, a number-theoretic statement might be expressible in the language of arithmetic (i.e. the language of the Peano axioms) and a proof might be given that appeals to topology or complex analysis. It might not be immediately clear whether another proof can be found that derives itself solely from the Peano axioms.
+Any more-or-less arbitrarily chosen system of axioms is the basis of some mathematical theory, but such an arbitrary axiomatic system will not necessarily be free of contradictions, and even if it is, it is not likely to shed light on anything. Philosophers of mathematics sometimes assert that mathematicians choose axioms "arbitrarily", but it is possible that although they may appear arbitrary when viewed only from the point of view of the canons of deductive logic, that appearance is due to a limitation on the purposes that deductive logic serves.
+
+Example: The Peano axiomatization of natural numbers
+The mathematical system of natural numbers  0, 1, 2, 3, 4, ... is based on an axiomatic system first devised by the mathematician Giuseppe Peano in 1889. He chose the axioms, in the language of a single unary function symbol S (short for "successor"), for the set of natural numbers to be:
+
+There is a natural number 0.
+Every natural number a has a successor, denoted by Sa.
+There is no natural number whose successor is 0.
+Distinct natural numbers have distinct successors: if a ≠ b, then Sa ≠ Sb.
+If a property is possessed by 0 and also by the successor of every natural number it is possessed by, then it is possessed by all natural numbers ("Induction axiom").
+
+[Axiom](3871)atization
+In mathematics, axiomatization is the process of taking a body of knowledge and working backwards towards its axioms. It is the formulation of a system of statements (i.e. axioms) that relate a number of primitive terms — in order that a consistent body of propositions may be derived deductively from these statements. Thereafter, the proof of any proposition should be, in principle, traceable back to these axioms.
+
+See also
+[Axiom](3871) schema – Short notation for a set of statements that are taken to be true
+Formalism – View that mathematics does not necessarily represent reality, but is more akin to a game
+Gödel's incompleteness theorems – Limitative results in mathematical logic
+Hilbert-style deduction system – System of formal deduction in logicPages displaying short descriptions of redirect targets
+History of logic
+List of logic systems
+Logicism – Programme in the philosophy of mathematics
+Zermelo–Fraenkel set theory – Standard system of axiomatic set theory, an axiomatic system for set theory and today's most common foundation for mathematics.
+
+References
+Further reading
+"[Axiom](3871)atic method", Encyclopedia of Mathematics, EMS Press, 2001 1994
+Eric W. Weisstein, [Axiom](3871)atic System, From MathWorld—A Wolfram Web Resource. Mathworld.wolfram.com & Answers.com

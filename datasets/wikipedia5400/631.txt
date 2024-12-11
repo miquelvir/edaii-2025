@@ -1,0 +1,7703 @@
+631
+Bernoulli number
+In mathematics, the Bernoulli numbers Bn are a sequence of rational numbers which occur frequently in analysis. The Bernoulli numbers appear in (and can be defined by) the Taylor series expansions of the tangent and hyperbolic tangent functions, in Faulhaber's formula for the sum of m-th powers of the first n positive integers, in the Euler–Maclaurin formula, and in expressions for certain values of the Riemann zeta function.
+The values of the first 20 Bernoulli numbers are given in the adjacent table. Two conventions are used in the literature, denoted here by 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            −
+            
+
+            
+          
+        
+      
+    
+    {\displaystyle B_{n}^{-{}}}
+  
+ and 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            +
+            
+
+            
+          
+        
+      
+    
+    {\displaystyle B_{n}^{+{}}}
+  
+; they differ only for n = 1, where 
+  
+    
+      
+        
+          B
+          
+            1
+          
+          
+            −
+            
+
+            
+          
+        
+        =
+        −
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle B_{1}^{-{}}=-1/2}
+  
+ and 
+  
+    
+      
+        
+          B
+          
+            1
+          
+          
+            +
+            
+
+            
+          
+        
+        =
+        +
+        1
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle B_{1}^{+{}}=+1/2}
+  
+. For every odd n > 1, Bn = 0. For every even n > 0, Bn is negative if n is divisible by 4 and positive otherwise. The Bernoulli numbers are special values of the Bernoulli polynomials 
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle B_{n}(x)}
+  
+, with 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            −
+            
+
+            
+          
+        
+        =
+        
+          B
+          
+            n
+          
+        
+        (
+        0
+        )
+      
+    
+    {\displaystyle B_{n}^{-{}}=B_{n}(0)}
+  
+ and 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            +
+          
+        
+        =
+        
+          B
+          
+            n
+          
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle B_{n}^{+}=B_{n}(1)}
+  
+.
+The Bernoulli numbers were discovered around the same time by the Swiss mathematician Jacob Bernoulli, after whom they are named, and independently by Japanese mathematician Seki Takakazu.  Seki's discovery was posthumously published in 1712 in his work Katsuyō Sanpō; Bernoulli's, also posthumously, in his Ars Conjectandi of 1713.  [Ada Lovelace](606)'s note G on the [Analytical Engine](617) from 1842 describes an algorithm for generating Bernoulli numbers with Babbage's machine; it is disputed whether Lovelace or Babbage developed the algorithm. As a result, the Bernoulli numbers have the distinction of being the subject of the first published complex computer program.
+
+Notation
+The superscript ± used in this article distinguishes the two sign conventions for Bernoulli numbers. Only the n = 1 term is affected: 
+
+B−n  with B−1 =  −⁠1/2⁠  (OEIS: A027641 / OEIS: A027642) is the sign convention prescribed by NIST and most modern textbooks.
+B+n with B+1 = +⁠1/2⁠  (OEIS: A164555 / OEIS: A027642) was used in the older literature, and (since 2022) by Donald Knuth following Peter Luschny's "Bernoulli Manifesto".
+In the formulas below, one can switch from one sign convention to the other with the relation 
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            +
+          
+        
+        =
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          B
+          
+            n
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle B_{n}^{+}=(-1)^{n}B_{n}^{-}}
+  
+, or for integer n = 2 or greater, simply ignore it.
+Since Bn = 0 for all odd n > 1, and many formulas only involve even-index Bernoulli numbers, a few authors write "Bn" instead of B2n . This article does not follow that notation.
+
+History
+Early history
+The Bernoulli numbers are rooted in the early history of the computation of sums of integer powers, which have been of interest to mathematicians since antiquity.
+
+Methods to calculate the sum of the first n positive integers, the sum of the squares and of the cubes of the first n positive integers were known, but there were no real 'formulas', only descriptions given entirely in words. Among the great mathematicians of antiquity to consider this problem were Pythagoras (c. 572–497 BCE, Greece), Archimedes (287–212 BCE, Italy), Aryabhata (b. 476, India), Abu Bakr al-Karaji (d. 1019, Persia) and Abu Ali al-Hasan ibn al-Hasan ibn al-Haytham (965–1039, Iraq).
+During the late sixteenth and early seventeenth centuries mathematicians made significant progress.  In the West Thomas Harriot (1560–1621) of England, Johann Faulhaber (1580–1635) of Germany, Pierre de Fermat (1601–1665) and fellow French mathematician Blaise Pascal (1623–1662) all played important roles.
+Thomas Harriot seems to have been the first to derive and write formulas for sums of powers using symbolic notation, but even he calculated only up to the sum of the fourth powers.  Johann Faulhaber gave formulas for sums of powers up to the 17th power in his 1631 Academia Algebrae, far higher than anyone before him, but he did not give a general formula.
+Blaise Pascal in 1654 proved Pascal's identity relating the sums of the pth powers of the first n positive integers for p = 0, 1, 2, ..., k.
+The Swiss mathematician Jakob Bernoulli (1654–1705) was the first to realize the existence of a single sequence of constants B0, B1, B2,... which provide a uniform formula for all sums of powers.
+The joy Bernoulli experienced when he hit upon the pattern needed to compute quickly and easily the coefficients of his formula for the sum of the cth powers for any positive integer c can be seen from his comment. He wrote:
+
+"With the help of this table, it took me less than half of a quarter of an hour to find that the tenth powers of the first 1000 numbers being added together will yield the sum 91,409,924,241,424,243,424,241,924,242,500."
+Bernoulli's result was published posthumously in Ars Conjectandi in 1713.  Seki Takakazu independently discovered the Bernoulli numbers and his result was published a year earlier, also posthumously, in 1712. However, Seki did not present his method as a formula based on a sequence of constants.
+Bernoulli's formula for sums of powers is the most useful and generalizable formulation to date. The coefficients in Bernoulli's formula are now called Bernoulli numbers, following a suggestion of Abraham de Moivre.
+Bernoulli's formula is sometimes called Faulhaber's formula after Johann Faulhaber who found remarkable ways to calculate sum of powers but never stated Bernoulli's formula. According to Knuth a rigorous proof of Faulhaber's formula was first published by Carl Jacobi in 1834. Knuth's in-depth study of Faulhaber's formula concludes (the nonstandard notation on the LHS is explained further on):
+
+"Faulhaber never discovered the Bernoulli numbers; i.e., he never realized that a single sequence of constants B0, B1, B2, ... would provide a uniform
+
+  
+    
+      
+        ∑
+        
+          n
+          
+            m
+          
+        
+        =
+        
+          
+            1
+            
+              m
+              +
+              1
+            
+          
+        
+        
+          (
+          
+            
+              B
+              
+                0
+              
+            
+            
+              n
+              
+                m
+                +
+                1
+              
+            
+            −
+            
+              
+                
+                  (
+                
+                
+                  
+                    m
+                    +
+                    1
+                  
+                  1
+                
+                
+                  )
+                
+              
+            
+            
+              B
+              
+                1
+              
+            
+            
+              n
+              
+                m
+              
+            
+            +
+            
+              
+                
+                  (
+                
+                
+                  
+                    m
+                    +
+                    1
+                  
+                  2
+                
+                
+                  )
+                
+              
+            
+            
+              B
+              
+                2
+              
+            
+            
+              n
+              
+                m
+                −
+                1
+              
+            
+            −
+            ⋯
+            +
+            (
+            −
+            1
+            
+              )
+              
+                m
+              
+            
+            
+              
+                
+                  (
+                
+                
+                  
+                    m
+                    +
+                    1
+                  
+                  m
+                
+                
+                  )
+                
+              
+            
+            
+              B
+              
+                m
+              
+            
+            n
+          
+          )
+        
+      
+    
+    {\textstyle \sum n^{m}={\frac {1}{m+1}}\left(B_{0}n^{m+1}-{\binom {m+1}{1}}B_{1}n^{m}+{\binom {m+1}{2}}B_{2}n^{m-1}-\cdots +(-1)^{m}{\binom {m+1}{m}}B_{m}n\right)}
+  
+
+for all sums of powers. He never mentioned, for example, the fact that almost half of the coefficients turned out to be zero after he had converted his formulas for Σ nm from polynomials in N to polynomials in n."
+In the above Knuth meant 
+  
+    
+      
+        
+          B
+          
+            1
+          
+          
+            −
+          
+        
+      
+    
+    {\displaystyle B_{1}^{-}}
+  
+; instead using 
+  
+    
+      
+        
+          B
+          
+            1
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle B_{1}^{+}}
+  
+ the formula avoids subtraction:
+
+  
+    
+      
+        ∑
+        
+          n
+          
+            m
+          
+        
+        =
+        
+          
+            1
+            
+              m
+              +
+              1
+            
+          
+        
+        
+          (
+          
+            
+              B
+              
+                0
+              
+            
+            
+              n
+              
+                m
+                +
+                1
+              
+            
+            +
+            
+              
+                
+                  (
+                
+                
+                  
+                    m
+                    +
+                    1
+                  
+                  1
+                
+                
+                  )
+                
+              
+            
+            
+              B
+              
+                1
+              
+              
+                +
+              
+            
+            
+              n
+              
+                m
+              
+            
+            +
+            
+              
+                
+                  (
+                
+                
+                  
+                    m
+                    +
+                    1
+                  
+                  2
+                
+                
+                  )
+                
+              
+            
+            
+              B
+              
+                2
+              
+            
+            
+              n
+              
+                m
+                −
+                1
+              
+            
+            +
+            ⋯
+            +
+            
+              
+                
+                  (
+                
+                
+                  
+                    m
+                    +
+                    1
+                  
+                  m
+                
+                
+                  )
+                
+              
+            
+            
+              B
+              
+                m
+              
+            
+            n
+          
+          )
+        
+        .
+      
+    
+    {\textstyle \sum n^{m}={\frac {1}{m+1}}\left(B_{0}n^{m+1}+{\binom {m+1}{1}}B_{1}^{+}n^{m}+{\binom {m+1}{2}}B_{2}n^{m-1}+\cdots +{\binom {m+1}{m}}B_{m}n\right).}
+
+Reconstruction of "Summae Potestatum"
+The Bernoulli numbers OEIS: A164555(n)/OEIS: A027642(n) were introduced by Jakob Bernoulli in the book Ars Conjectandi published posthumously in 1713 page 97. The main formula can be seen in the second half of the corresponding facsimile. The constant coefficients denoted A, B, C and D by Bernoulli are mapped to the notation which is now prevalent as A = B2, B = B4, C = B6, D = B8. The expression c·c−1·c−2·c−3 means c·(c−1)·(c−2)·(c−3) – the small dots are used as grouping symbols. Using today's terminology these expressions are falling factorial powers ck. The factorial notation k! as a shortcut for 1 × 2 × ... × k was not introduced until 100 years later. The integral symbol on the left hand side goes back to Gottfried Wilhelm Leibniz in 1675 who used it as a long letter S for "summa" (sum). The letter n on the left hand side is not an index of summation but gives the upper limit of the range of summation which is to be understood as 1, 2, ..., n. Putting things together, for positive c, today a mathematician is likely to write Bernoulli's formula as:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          k
+          
+            c
+          
+        
+        =
+        
+          
+            
+              n
+              
+                c
+                +
+                1
+              
+            
+            
+              c
+              +
+              1
+            
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+        
+          n
+          
+            c
+          
+        
+        +
+        
+          ∑
+          
+            k
+            =
+            2
+          
+          
+            c
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+            
+            
+              k
+              !
+            
+          
+        
+        
+          c
+          
+            
+              
+                k
+                −
+                1
+              
+              _
+            
+          
+        
+        
+          n
+          
+            c
+            −
+            k
+            +
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{k=1}^{n}k^{c}={\frac {n^{c+1}}{c+1}}+{\frac {1}{2}}n^{c}+\sum _{k=2}^{c}{\frac {B_{k}}{k!}}c^{\underline {k-1}}n^{c-k+1}.}
+  
+
+This formula suggests setting B1 = ⁠1/2⁠ when switching from the so-called 'archaic' enumeration which uses only the even indices 2, 4, 6... to the modern form (more on different conventions in the next paragraph). Most striking in this context is the fact that the falling factorial ck−1 has for k = 0 the value ⁠1/c + 1⁠. Thus Bernoulli's formula can be written
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          k
+          
+            c
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            c
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+            
+            
+              k
+              !
+            
+          
+        
+        
+          c
+          
+            
+              
+                k
+                −
+                1
+              
+              _
+            
+          
+        
+        
+          n
+          
+            c
+            −
+            k
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle \sum _{k=1}^{n}k^{c}=\sum _{k=0}^{c}{\frac {B_{k}}{k!}}c^{\underline {k-1}}n^{c-k+1}}
+  
+
+if B1 = 1/2, recapturing the value Bernoulli gave to the coefficient at that position.
+The formula for 
+  
+    
+      
+        
+          
+            ∑
+            
+              k
+              =
+              1
+            
+            
+              n
+            
+          
+          
+            k
+            
+              9
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle \sum _{k=1}^{n}k^{9}}
+  
+ in the first half of the quotation by Bernoulli above contains an error at the last term; it should be 
+  
+    
+      
+        −
+        
+          
+            
+              3
+              20
+            
+          
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {3}{20}}n^{2}}
+  
+ instead of 
+  
+    
+      
+        −
+        
+          
+            
+              1
+              12
+            
+          
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {1}{12}}n^{2}}
+  
+.
+
+Definitions
+Many characterizations of the Bernoulli numbers have been found in the last 300 years, and each could be used to introduce these numbers.  Here only four of the most useful ones are mentioned:
+
+a recursive equation,
+an explicit formula,
+a generating function,
+an integral expression.
+For the proof of the equivalence of the four approaches.
+
+Recursive definition
+The Bernoulli numbers obey the sum formulas
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      
+                        m
+                        +
+                        1
+                      
+                      k
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  B
+                  
+                    k
+                  
+                  
+                    −
+                    
+
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  δ
+                  
+                    m
+                    ,
+                    0
+                  
+                
+              
+            
+            
+              
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      
+                        m
+                        +
+                        1
+                      
+                      k
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  B
+                  
+                    k
+                  
+                  
+                    +
+                    
+
+                    
+                  
+                
+              
+              
+                
+                =
+                m
+                +
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\sum _{k=0}^{m}{\binom {m+1}{k}}B_{k}^{-{}}&=\delta _{m,0}\\\sum _{k=0}^{m}{\binom {m+1}{k}}B_{k}^{+{}}&=m+1\end{aligned}}}
+  
+
+where 
+  
+    
+      
+        m
+        =
+        0
+        ,
+        1
+        ,
+        2...
+      
+    
+    {\displaystyle m=0,1,2...}
+  
+ and δ denotes the Kronecker delta. 
+The first of these is sometimes written as the formula (for m > 1)
+
+  
+    
+      
+        (
+        B
+        +
+        1
+        
+          )
+          
+            m
+          
+        
+        −
+        
+          B
+          
+            m
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle (B+1)^{m}-B_{m}=0,}
+  
+
+where the power is expanded formally using the binomial theorem and 
+  
+    
+      
+        
+          B
+          
+            k
+          
+        
+      
+    
+    {\displaystyle B^{k}}
+  
+ is replaced by 
+  
+    
+      
+        
+          B
+          
+            k
+          
+        
+      
+    
+    {\displaystyle B_{k}}
+  
+.
+Solving for 
+  
+    
+      
+        
+          B
+          
+            m
+          
+          
+            ∓
+            
+
+            
+          
+        
+      
+    
+    {\displaystyle B_{m}^{\mp {}}}
+  
+ gives the recursive formulas
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                  
+                    m
+                  
+                  
+                    −
+                    
+
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  δ
+                  
+                    m
+                    ,
+                    0
+                  
+                
+                −
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                    −
+                    1
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      m
+                      k
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    
+                      B
+                      
+                        k
+                      
+                      
+                        −
+                        
+
+                        
+                      
+                    
+                    
+                      m
+                      −
+                      k
+                      +
+                      1
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  B
+                  
+                    m
+                  
+                  
+                    +
+                  
+                
+              
+              
+                
+                =
+                1
+                −
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                    −
+                    1
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      m
+                      k
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    
+                      B
+                      
+                        k
+                      
+                      
+                        +
+                      
+                    
+                    
+                      m
+                      −
+                      k
+                      +
+                      1
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}B_{m}^{-{}}&=\delta _{m,0}-\sum _{k=0}^{m-1}{\binom {m}{k}}{\frac {B_{k}^{-{}}}{m-k+1}}\\B_{m}^{+}&=1-\sum _{k=0}^{m-1}{\binom {m}{k}}{\frac {B_{k}^{+}}{m-k+1}}.\end{aligned}}}
+
+Explicit definition
+In 1893 Louis Saalschütz listed  a total of 38 explicit formulas for the Bernoulli numbers, usually giving some reference in the older literature. One of them is (for 
+  
+    
+      
+        m
+        ≥
+        1
+      
+    
+    {\displaystyle m\geq 1}
+  
+):
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                  
+                    m
+                  
+                  
+                    −
+                  
+                
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    1
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                
+                
+                  ∑
+                  
+                    j
+                    =
+                    0
+                  
+                  
+                    k
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      k
+                      j
+                    
+                    
+                      )
+                    
+                  
+                
+                (
+                −
+                1
+                
+                  )
+                  
+                    j
+                  
+                
+                
+                  j
+                  
+                    m
+                  
+                
+              
+            
+            
+              
+                
+                  B
+                  
+                    m
+                  
+                  
+                    +
+                  
+                
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    1
+                    
+                      k
+                      +
+                      1
+                    
+                  
+                
+                
+                  ∑
+                  
+                    j
+                    =
+                    0
+                  
+                  
+                    k
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      k
+                      j
+                    
+                    
+                      )
+                    
+                  
+                
+                (
+                −
+                1
+                
+                  )
+                  
+                    j
+                  
+                
+                (
+                j
+                +
+                1
+                
+                  )
+                  
+                    m
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}B_{m}^{-}&=\sum _{k=0}^{m}{\frac {1}{k+1}}\sum _{j=0}^{k}{\binom {k}{j}}(-1)^{j}j^{m}\\B_{m}^{+}&=\sum _{k=0}^{m}{\frac {1}{k+1}}\sum _{j=0}^{k}{\binom {k}{j}}(-1)^{j}(j+1)^{m}.\end{aligned}}}
+
+Generating function
+The exponential generating functions are
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    t
+                    
+                      
+                        e
+                        
+                          t
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    t
+                    2
+                  
+                
+                
+                  (
+                  
+                    coth
+                    ⁡
+                    
+                      
+                        t
+                        2
+                      
+                    
+                    −
+                    1
+                  
+                  )
+                
+              
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    m
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        B
+                        
+                          m
+                        
+                        
+                          −
+                          
+
+                          
+                        
+                      
+                      
+                        t
+                        
+                          m
+                        
+                      
+                    
+                    
+                      m
+                      !
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      t
+                      
+                        e
+                        
+                          t
+                        
+                      
+                    
+                    
+                      
+                        e
+                        
+                          t
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+                =
+                
+                  
+                    t
+                    
+                      1
+                      −
+                      
+                        e
+                        
+                          −
+                          t
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    t
+                    2
+                  
+                
+                
+                  (
+                  
+                    coth
+                    ⁡
+                    
+                      
+                        t
+                        2
+                      
+                    
+                    +
+                    1
+                  
+                  )
+                
+              
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    m
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        B
+                        
+                          m
+                        
+                        
+                          +
+                        
+                      
+                      
+                        t
+                        
+                          m
+                        
+                      
+                    
+                    
+                      m
+                      !
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{alignedat}{3}{\frac {t}{e^{t}-1}}&={\frac {t}{2}}\left(\operatorname {coth} {\frac {t}{2}}-1\right)&&=\sum _{m=0}^{\infty }{\frac {B_{m}^{-{}}t^{m}}{m!}}\\{\frac {te^{t}}{e^{t}-1}}={\frac {t}{1-e^{-t}}}&={\frac {t}{2}}\left(\operatorname {coth} {\frac {t}{2}}+1\right)&&=\sum _{m=0}^{\infty }{\frac {B_{m}^{+}t^{m}}{m!}}.\end{alignedat}}}
+  
+
+where the substitution is 
+  
+    
+      
+        t
+        →
+        −
+        t
+      
+    
+    {\displaystyle t\to -t}
+  
+. The two generating functions only differ by t.
+
+The (ordinary) generating function
+
+  
+    
+      
+        
+          z
+          
+            −
+            1
+          
+        
+        
+          ψ
+          
+            1
+          
+        
+        (
+        
+          z
+          
+            −
+            1
+          
+        
+        )
+        =
+        
+          ∑
+          
+            m
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          B
+          
+            m
+          
+          
+            +
+          
+        
+        
+          z
+          
+            m
+          
+        
+      
+    
+    {\displaystyle z^{-1}\psi _{1}(z^{-1})=\sum _{m=0}^{\infty }B_{m}^{+}z^{m}}
+  
+
+is an asymptotic series. It contains the trigamma function ψ1.
+
+Integral Expression
+From the generating functions above, one can obtain the following integral formula for the even Bernoulli numbers: 
+
+  
+    
+      
+        
+          B
+          
+            2
+            n
+          
+        
+        =
+        4
+        n
+        (
+        −
+        1
+        
+          )
+          
+            n
+            +
+            1
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              t
+              
+                2
+                n
+                −
+                1
+              
+            
+            
+              
+                e
+                
+                  2
+                  π
+                  t
+                
+              
+              −
+              1
+            
+          
+        
+        
+          d
+        
+        t
+      
+    
+    {\displaystyle B_{2n}=4n(-1)^{n+1}\int _{0}^{\infty }{\frac {t^{2n-1}}{e^{2\pi t}-1}}\mathrm {d} t}
+
+Bernoulli numbers and the Riemann zeta function
+The Bernoulli numbers can be expressed in terms of the Riemann zeta function:
+
+B+n = −n ζ(1 − n)           for n ≥ 1 .
+Here the argument of the zeta function is 0 or negative. As 
+  
+    
+      
+        ζ
+        (
+        k
+        )
+      
+    
+    {\displaystyle \zeta (k)}
+  
+ is zero for negative even integers (the trivial zeroes), if n>1 is odd, 
+  
+    
+      
+        ζ
+        (
+        1
+        −
+        n
+        )
+      
+    
+    {\displaystyle \zeta (1-n)}
+  
+ is zero.
+By means of the zeta functional equation and the gamma reflection formula the following relation can be obtained:
+
+  
+    
+      
+        
+          B
+          
+            2
+            n
+          
+        
+        =
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  n
+                  +
+                  1
+                
+              
+              2
+              (
+              2
+              n
+              )
+              !
+            
+            
+              (
+              2
+              π
+              
+                )
+                
+                  2
+                  n
+                
+              
+            
+          
+        
+        ζ
+        (
+        2
+        n
+        )
+        
+      
+    
+    {\displaystyle B_{2n}={\frac {(-1)^{n+1}2(2n)!}{(2\pi )^{2n}}}\zeta (2n)\quad }
+  
+ for n ≥ 1 .
+Now the argument of the zeta function is positive.
+It then follows from ζ → 1 (n → ∞) and Stirling's formula that
+
+  
+    
+      
+        
+          |
+        
+        
+          B
+          
+            2
+            n
+          
+        
+        
+          |
+        
+        ∼
+        4
+        
+          
+            π
+            n
+          
+        
+        
+          
+            (
+            
+              
+                n
+                
+                  π
+                  e
+                
+              
+            
+            )
+          
+          
+            2
+            n
+          
+        
+        
+      
+    
+    {\displaystyle |B_{2n}|\sim 4{\sqrt {\pi n}}\left({\frac {n}{\pi e}}\right)^{2n}\quad }
+  
+ for n → ∞ .
+
+Efficient computation of Bernoulli numbers
+In some applications it is useful to be able to compute the Bernoulli numbers B0 through Bp − 3 modulo p, where p is a prime; for example to test whether Vandiver's conjecture holds for p, or even just to determine whether p is an irregular prime. It is not feasible to carry out such a computation using the above recursive formulae, since at least (a constant multiple of) p2 arithmetic operations would be required. Fortunately, faster methods have been developed which require only O(p (log p)2) operations (see big O notation).
+David Harvey describes an algorithm for computing Bernoulli numbers by computing Bn modulo p for many small primes p, and then reconstructing Bn via the Chinese remainder theorem. Harvey writes that the asymptotic time complexity of this algorithm is O(n2 log(n)2 + ε) and claims that this implementation is significantly faster than implementations based on other methods. Using this implementation Harvey computed Bn for n = 108. Harvey's implementation has been included in SageMath since version 3.1. Prior to that, Bernd Kellner computed Bn to full precision for n = 106 in December 2002 and Oleksandr Pavlyk for n = 107 with Mathematica in April 2008.
+
+* Digits is to be understood as the exponent of 10 when Bn is written as a real number in normalized scientific notation.
+
+Applications of the Bernoulli numbers
+Asymptotic analysis
+Arguably the most important application of the Bernoulli numbers in mathematics is their use in the Euler–Maclaurin formula. Assuming that f is a sufficiently often differentiable function the Euler–Maclaurin formula can be written as
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            a
+          
+          
+            b
+            −
+            1
+          
+        
+        f
+        (
+        k
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        +
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+              
+                −
+              
+            
+            
+              k
+              !
+            
+          
+        
+        (
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        b
+        )
+        −
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        a
+        )
+        )
+        +
+        
+          R
+          
+            −
+          
+        
+        (
+        f
+        ,
+        m
+        )
+        .
+      
+    
+    {\displaystyle \sum _{k=a}^{b-1}f(k)=\int _{a}^{b}f(x)\,dx+\sum _{k=1}^{m}{\frac {B_{k}^{-}}{k!}}(f^{(k-1)}(b)-f^{(k-1)}(a))+R_{-}(f,m).}
+  
+
+This formulation assumes the convention B−1 = −⁠1/2⁠. Using the convention B+1 = +⁠1/2⁠ the formula becomes
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            a
+            +
+            1
+          
+          
+            b
+          
+        
+        f
+        (
+        k
+        )
+        =
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        +
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            m
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+              
+                +
+              
+            
+            
+              k
+              !
+            
+          
+        
+        (
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        b
+        )
+        −
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        a
+        )
+        )
+        +
+        
+          R
+          
+            +
+          
+        
+        (
+        f
+        ,
+        m
+        )
+        .
+      
+    
+    {\displaystyle \sum _{k=a+1}^{b}f(k)=\int _{a}^{b}f(x)\,dx+\sum _{k=1}^{m}{\frac {B_{k}^{+}}{k!}}(f^{(k-1)}(b)-f^{(k-1)}(a))+R_{+}(f,m).}
+  
+
+Here 
+  
+    
+      
+        
+          f
+          
+            (
+            0
+            )
+          
+        
+        =
+        f
+      
+    
+    {\displaystyle f^{(0)}=f}
+  
+ (i.e. the zeroth-order derivative of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ is just 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+). Moreover, let 
+  
+    
+      
+        
+          f
+          
+            (
+            −
+            1
+            )
+          
+        
+      
+    
+    {\displaystyle f^{(-1)}}
+  
+ denote an antiderivative of 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+. By the fundamental theorem of calculus,
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        f
+        (
+        x
+        )
+        
+        d
+        x
+        =
+        
+          f
+          
+            (
+            −
+            1
+            )
+          
+        
+        (
+        b
+        )
+        −
+        
+          f
+          
+            (
+            −
+            1
+            )
+          
+        
+        (
+        a
+        )
+        .
+      
+    
+    {\displaystyle \int _{a}^{b}f(x)\,dx=f^{(-1)}(b)-f^{(-1)}(a).}
+  
+
+Thus the last formula can be further simplified to the following succinct form of the Euler–Maclaurin formula
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            a
+            +
+            1
+          
+          
+            b
+          
+        
+        f
+        (
+        k
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+            
+            
+              k
+              !
+            
+          
+        
+        (
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        b
+        )
+        −
+        
+          f
+          
+            (
+            k
+            −
+            1
+            )
+          
+        
+        (
+        a
+        )
+        )
+        +
+        R
+        (
+        f
+        ,
+        m
+        )
+        .
+      
+    
+    {\displaystyle \sum _{k=a+1}^{b}f(k)=\sum _{k=0}^{m}{\frac {B_{k}}{k!}}(f^{(k-1)}(b)-f^{(k-1)}(a))+R(f,m).}
+  
+
+This form is for example the source for the important Euler–Maclaurin expansion of the zeta function
+
+  
+    
+      
+        
+          
+            
+              
+                ζ
+                (
+                s
+                )
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    m
+                  
+                
+                
+                  
+                    
+                      B
+                      
+                        k
+                      
+                      
+                        +
+                      
+                    
+                    
+                      k
+                      !
+                    
+                  
+                
+                
+                  s
+                  
+                    
+                      
+                        k
+                        −
+                        1
+                      
+                      ¯
+                    
+                  
+                
+                +
+                R
+                (
+                s
+                ,
+                m
+                )
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    
+                      B
+                      
+                        0
+                      
+                    
+                    
+                      0
+                      !
+                    
+                  
+                
+                
+                  s
+                  
+                    
+                      
+                        −
+                        1
+                      
+                      ¯
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      B
+                      
+                        1
+                      
+                      
+                        +
+                      
+                    
+                    
+                      1
+                      !
+                    
+                  
+                
+                
+                  s
+                  
+                    
+                      0
+                      ¯
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      B
+                      
+                        2
+                      
+                    
+                    
+                      2
+                      !
+                    
+                  
+                
+                
+                  s
+                  
+                    
+                      1
+                      ¯
+                    
+                  
+                
+                +
+                ⋯
+                +
+                R
+                (
+                s
+                ,
+                m
+                )
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    1
+                    
+                      s
+                      −
+                      1
+                    
+                  
+                
+                +
+                
+                  
+                    1
+                    2
+                  
+                
+                +
+                
+                  
+                    1
+                    12
+                  
+                
+                s
+                +
+                ⋯
+                +
+                R
+                (
+                s
+                ,
+                m
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\zeta (s)&=\sum _{k=0}^{m}{\frac {B_{k}^{+}}{k!}}s^{\overline {k-1}}+R(s,m)\\&={\frac {B_{0}}{0!}}s^{\overline {-1}}+{\frac {B_{1}^{+}}{1!}}s^{\overline {0}}+{\frac {B_{2}}{2!}}s^{\overline {1}}+\cdots +R(s,m)\\&={\frac {1}{s-1}}+{\frac {1}{2}}+{\frac {1}{12}}s+\cdots +R(s,m).\end{aligned}}}
+  
+
+Here sk denotes the rising factorial power.
+Bernoulli numbers are also frequently used in other kinds of asymptotic expansions. The following example is the classical Poincaré-type asymptotic expansion of the digamma function ψ.
+
+  
+    
+      
+        ψ
+        (
+        z
+        )
+        ∼
+        ln
+        ⁡
+        z
+        −
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+              
+                +
+              
+            
+            
+              k
+              
+                z
+                
+                  k
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \psi (z)\sim \ln z-\sum _{k=1}^{\infty }{\frac {B_{k}^{+}}{kz^{k}}}}
+
+Sum of powers
+Bernoulli numbers feature prominently in the closed form expression of the sum of the mth powers of the first n positive integers. For m, n ≥ 0 define
+
+  
+    
+      
+        
+          S
+          
+            m
+          
+        
+        (
+        n
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          k
+          
+            m
+          
+        
+        =
+        
+          1
+          
+            m
+          
+        
+        +
+        
+          2
+          
+            m
+          
+        
+        +
+        ⋯
+        +
+        
+          n
+          
+            m
+          
+        
+        .
+      
+    
+    {\displaystyle S_{m}(n)=\sum _{k=1}^{n}k^{m}=1^{m}+2^{m}+\cdots +n^{m}.}
+  
+
+This expression can always be rewritten as a polynomial in n of degree m + 1. The coefficients of these polynomials are related to the Bernoulli numbers by Bernoulli's formula:
+
+  
+    
+      
+        
+          S
+          
+            m
+          
+        
+        (
+        n
+        )
+        =
+        
+          
+            1
+            
+              m
+              +
+              1
+            
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                m
+                +
+                1
+              
+              k
+            
+            
+              )
+            
+          
+        
+        
+          B
+          
+            k
+          
+          
+            +
+          
+        
+        
+          n
+          
+            m
+            +
+            1
+            −
+            k
+          
+        
+        =
+        m
+        !
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+          
+        
+        
+          
+            
+              
+                B
+                
+                  k
+                
+                
+                  +
+                
+              
+              
+                n
+                
+                  m
+                  +
+                  1
+                  −
+                  k
+                
+              
+            
+            
+              k
+              !
+              (
+              m
+              +
+              1
+              −
+              k
+              )
+              !
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle S_{m}(n)={\frac {1}{m+1}}\sum _{k=0}^{m}{\binom {m+1}{k}}B_{k}^{+}n^{m+1-k}=m!\sum _{k=0}^{m}{\frac {B_{k}^{+}n^{m+1-k}}{k!(m+1-k)!}},}
+  
+
+where (m + 1k) denotes the binomial coefficient.
+For example, taking m to be 1 gives the triangular numbers 0, 1, 3, 6, ... OEIS: A000217.
+
+  
+    
+      
+        1
+        +
+        2
+        +
+        ⋯
+        +
+        n
+        =
+        
+          
+            1
+            2
+          
+        
+        (
+        
+          B
+          
+            0
+          
+        
+        
+          n
+          
+            2
+          
+        
+        +
+        2
+        
+          B
+          
+            1
+          
+          
+            +
+          
+        
+        
+          n
+          
+            1
+          
+        
+        )
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        (
+        
+          n
+          
+            2
+          
+        
+        +
+        n
+        )
+        .
+      
+    
+    {\displaystyle 1+2+\cdots +n={\frac {1}{2}}(B_{0}n^{2}+2B_{1}^{+}n^{1})={\tfrac {1}{2}}(n^{2}+n).}
+  
+
+Taking m to be 2 gives the square pyramidal numbers 0, 1, 5, 14, ... OEIS: A000330.
+
+  
+    
+      
+        
+          1
+          
+            2
+          
+        
+        +
+        
+          2
+          
+            2
+          
+        
+        +
+        ⋯
+        +
+        
+          n
+          
+            2
+          
+        
+        =
+        
+          
+            1
+            3
+          
+        
+        (
+        
+          B
+          
+            0
+          
+        
+        
+          n
+          
+            3
+          
+        
+        +
+        3
+        
+          B
+          
+            1
+          
+          
+            +
+          
+        
+        
+          n
+          
+            2
+          
+        
+        +
+        3
+        
+          B
+          
+            2
+          
+        
+        
+          n
+          
+            1
+          
+        
+        )
+        =
+        
+          
+            
+              1
+              3
+            
+          
+        
+        
+          (
+          
+            
+              n
+              
+                3
+              
+            
+            +
+            
+              
+                
+                  3
+                  2
+                
+              
+            
+            
+              n
+              
+                2
+              
+            
+            +
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            n
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle 1^{2}+2^{2}+\cdots +n^{2}={\frac {1}{3}}(B_{0}n^{3}+3B_{1}^{+}n^{2}+3B_{2}n^{1})={\tfrac {1}{3}}\left(n^{3}+{\tfrac {3}{2}}n^{2}+{\tfrac {1}{2}}n\right).}
+  
+
+Some authors use the alternate convention for Bernoulli numbers and state Bernoulli's formula in this way:
+
+  
+    
+      
+        
+          S
+          
+            m
+          
+        
+        (
+        n
+        )
+        =
+        
+          
+            1
+            
+              m
+              +
+              1
+            
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                m
+                +
+                1
+              
+              k
+            
+            
+              )
+            
+          
+        
+        
+          B
+          
+            k
+          
+          
+            −
+            
+
+            
+          
+        
+        
+          n
+          
+            m
+            +
+            1
+            −
+            k
+          
+        
+        .
+      
+    
+    {\displaystyle S_{m}(n)={\frac {1}{m+1}}\sum _{k=0}^{m}(-1)^{k}{\binom {m+1}{k}}B_{k}^{-{}}n^{m+1-k}.}
+  
+
+Bernoulli's formula is sometimes called Faulhaber's formula after Johann Faulhaber who also found remarkable ways to calculate sums of powers.
+Faulhaber's formula was generalized by V. Guo and J. Zeng to a q-analog.
+
+Taylor series
+The Bernoulli numbers appear in the Taylor series expansion of many trigonometric functions and hyperbolic functions.
+
+  
+    
+      
+        
+          
+            
+              
+                tan
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          1
+                          x
+                        
+                      
+                    
+                  
+                
+                
+                  ∑
+                  
+                    n
+                    =
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      (
+                      −
+                      1
+                      
+                        )
+                        
+                          n
+                          −
+                          1
+                        
+                      
+                      
+                        2
+                        
+                          2
+                          n
+                        
+                      
+                      (
+                      
+                        2
+                        
+                          2
+                          n
+                        
+                      
+                      −
+                      1
+                      )
+                      
+                        B
+                        
+                          2
+                          n
+                        
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                    
+                  
+                
+                
+                
+                  x
+                  
+                    2
+                    n
+                    −
+                    1
+                  
+                
+                ,
+              
+              
+              
+                
+                  |
+                  x
+                  |
+                
+                <
+                
+                  
+                    π
+                    2
+                  
+                
+                .
+              
+            
+            
+              
+                cot
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    1
+                    x
+                  
+                
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      (
+                      −
+                      1
+                      
+                        )
+                        
+                          n
+                        
+                      
+                      
+                        B
+                        
+                          2
+                          n
+                        
+                      
+                      (
+                      2
+                      x
+                      
+                        )
+                        
+                          2
+                          n
+                        
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                    
+                  
+                
+                ,
+              
+              
+                0
+                <
+              
+              
+                
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                π
+                .
+              
+            
+            
+              
+                tanh
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        
+                          1
+                          x
+                        
+                      
+                    
+                  
+                
+                
+                  ∑
+                  
+                    n
+                    =
+                    1
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        2
+                        
+                          2
+                          n
+                        
+                      
+                      (
+                      
+                        2
+                        
+                          2
+                          n
+                        
+                      
+                      −
+                      1
+                      )
+                      
+                        B
+                        
+                          2
+                          n
+                        
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                    
+                  
+                
+                
+                
+                  x
+                  
+                    2
+                    n
+                    −
+                    1
+                  
+                
+                ,
+              
+              
+              
+                
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                
+                  
+                    π
+                    2
+                  
+                
+                .
+              
+            
+            
+              
+                coth
+                ⁡
+                x
+              
+              
+                
+                =
+                
+                  
+                    1
+                    x
+                  
+                
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      
+                        B
+                        
+                          2
+                          n
+                        
+                      
+                      (
+                      2
+                      x
+                      
+                        )
+                        
+                          2
+                          n
+                        
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                    
+                  
+                
+                ,
+              
+              
+                0
+                <
+              
+              
+                
+                
+                  |
+                
+                x
+                
+                  |
+                
+                <
+                π
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\tan x&={\hphantom {1 \over x}}\sum _{n=1}^{\infty }{\frac {(-1)^{n-1}2^{2n}(2^{2n}-1)B_{2n}}{(2n)!}}\;x^{2n-1},&&\left|x\right|<{\frac {\pi }{2}}.\\\cot x&={1 \over x}\sum _{n=0}^{\infty }{\frac {(-1)^{n}B_{2n}(2x)^{2n}}{(2n)!}},&0<&|x|<\pi .\\\tanh x&={\hphantom {1 \over x}}\sum _{n=1}^{\infty }{\frac {2^{2n}(2^{2n}-1)B_{2n}}{(2n)!}}\;x^{2n-1},&&|x|<{\frac {\pi }{2}}.\\\coth x&={1 \over x}\sum _{n=0}^{\infty }{\frac {B_{2n}(2x)^{2n}}{(2n)!}},&0<&|x|<\pi .\end{aligned}}}
+
+Laurent series
+The Bernoulli numbers appear in the following Laurent series:
+Digamma function: 
+  
+    
+      
+        ψ
+        (
+        z
+        )
+        =
+        ln
+        ⁡
+        z
+        −
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              B
+              
+                k
+              
+              
+                +
+                
+
+                
+              
+            
+            
+              k
+              
+                z
+                
+                  k
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \psi (z)=\ln z-\sum _{k=1}^{\infty }{\frac {B_{k}^{+{}}}{kz^{k}}}}
+
+Use in topology
+The Kervaire–Milnor formula for the order of the cyclic group of diffeomorphism classes of exotic (4n − 1)-spheres which bound parallelizable manifolds involves Bernoulli numbers. Let ESn be the number of such exotic spheres for n ≥ 2, then
+
+  
+    
+      
+        
+          
+            
+              ES
+            
+          
+          
+            n
+          
+        
+        =
+        (
+        
+          2
+          
+            2
+            n
+            −
+            2
+          
+        
+        −
+        
+          2
+          
+            4
+            n
+            −
+            3
+          
+        
+        )
+        Numerator
+        ⁡
+        
+          (
+          
+            
+              
+                B
+                
+                  4
+                  n
+                
+              
+              
+                4
+                n
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle {\textit {ES}}_{n}=(2^{2n-2}-2^{4n-3})\operatorname {Numerator} \left({\frac {B_{4n}}{4n}}\right).}
+  
+
+The Hirzebruch signature theorem for the L genus of a smooth oriented closed manifold of dimension 4n also involves Bernoulli numbers.
+
+Connections with combinatorial numbers
+The connection of the Bernoulli number to various kinds of combinatorial numbers is based on the classical theory of finite differences and on the combinatorial interpretation of the Bernoulli numbers as an instance of a fundamental combinatorial principle, the inclusion–exclusion principle.
+
+Connection with Worpitzky numbers
+The definition to proceed with was developed by Julius Worpitzky in 1883. Besides elementary arithmetic only the factorial function n! and the power function km is employed. The signless Worpitzky numbers are defined as
+
+  
+    
+      
+        
+          W
+          
+            n
+            ,
+            k
+          
+        
+        =
+        
+          ∑
+          
+            v
+            =
+            0
+          
+          
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            v
+            +
+            k
+          
+        
+        (
+        v
+        +
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            
+              k
+              !
+            
+            
+              v
+              !
+              (
+              k
+              −
+              v
+              )
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle W_{n,k}=\sum _{v=0}^{k}(-1)^{v+k}(v+1)^{n}{\frac {k!}{v!(k-v)!}}.}
+  
+
+They can also be expressed through the Stirling numbers of the second kind
+
+  
+    
+      
+        
+          W
+          
+            n
+            ,
+            k
+          
+        
+        =
+        k
+        !
+        
+          {
+          
+            
+              
+                n
+                +
+                1
+              
+              
+                k
+                +
+                1
+              
+            
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle W_{n,k}=k!\left\{{n+1 \atop k+1}\right\}.}
+  
+
+A Bernoulli number is then introduced as an inclusion–exclusion sum of Worpitzky numbers weighted by the harmonic sequence 1, ⁠1/2⁠, ⁠1/3⁠, ...
+
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          
+            
+              W
+              
+                n
+                ,
+                k
+              
+            
+            
+              k
+              +
+              1
+            
+          
+        
+         
+        =
+         
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            1
+            
+              k
+              +
+              1
+            
+          
+        
+        
+          ∑
+          
+            v
+            =
+            0
+          
+          
+            k
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            v
+          
+        
+        (
+        v
+        +
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              v
+            
+            
+              )
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle B_{n}=\sum _{k=0}^{n}(-1)^{k}{\frac {W_{n,k}}{k+1}}\ =\ \sum _{k=0}^{n}{\frac {1}{k+1}}\sum _{v=0}^{k}(-1)^{v}(v+1)^{n}{k \choose v}\ .}
+  
+
+B0 = 1
+B1 = 1 − ⁠1/2⁠
+B2 = 1 − ⁠3/2⁠ + ⁠2/3⁠
+B3 = 1 − ⁠7/2⁠ + ⁠12/3⁠ − ⁠6/4⁠
+B4 = 1 − ⁠15/2⁠ + ⁠50/3⁠ − ⁠60/4⁠ + ⁠24/5⁠
+B5 = 1 − ⁠31/2⁠ + ⁠180/3⁠ − ⁠390/4⁠ + ⁠360/5⁠ − ⁠120/6⁠
+B6 = 1 − ⁠63/2⁠ + ⁠602/3⁠ − ⁠2100/4⁠ + ⁠3360/5⁠ − ⁠2520/6⁠ + ⁠720/7⁠
+This representation has B+1 = +⁠1/2⁠.
+Consider the sequence sn, n ≥ 0. From Worpitzky's numbers OEIS: A028246, OEIS: A163626 applied to s0, s0, s1, s0, s1, s2, s0, s1, s2, s3, ... is identical to the Akiyama–Tanigawa transform applied to sn (see Connection with Stirling numbers of the first kind). This can be seen via the table:
+
+The first row represents s0, s1, s2, s3, s4.
+Hence for the second fractional Euler numbers OEIS: A198631 (n) / OEIS: A006519 (n + 1):
+
+E0 = 1
+E1 = 1 − ⁠1/2⁠
+E2 = 1 − ⁠3/2⁠ + ⁠2/4⁠
+E3 = 1 − ⁠7/2⁠ + ⁠12/4⁠ − ⁠6/8⁠
+E4 = 1 − ⁠15/2⁠ + ⁠50/4⁠ − ⁠60/8⁠ + ⁠24/16⁠
+E5 = 1 − ⁠31/2⁠ + ⁠180/4⁠ − ⁠390/8⁠ + ⁠360/16⁠ − ⁠120/32⁠
+E6 = 1 − ⁠63/2⁠ + ⁠602/4⁠ − ⁠2100/8⁠ + ⁠3360/16⁠ − ⁠2520/32⁠ + ⁠720/64⁠
+A second formula representing the Bernoulli numbers by the Worpitzky numbers is for n ≥ 1
+
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+        =
+        
+          
+            n
+            
+              
+                2
+                
+                  n
+                  +
+                  1
+                
+              
+              −
+              2
+            
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+            −
+            1
+          
+        
+        (
+        −
+        2
+        
+          )
+          
+            −
+            k
+          
+        
+        
+        
+          W
+          
+            n
+            −
+            1
+            ,
+            k
+          
+        
+        .
+      
+    
+    {\displaystyle B_{n}={\frac {n}{2^{n+1}-2}}\sum _{k=0}^{n-1}(-2)^{-k}\,W_{n-1,k}.}
+  
+
+The simplified second Worpitzky's representation of the second Bernoulli numbers is:
+OEIS: A164555 (n + 1) / OEIS: A027642(n + 1) = ⁠n + 1/2n + 2 − 2⁠ × OEIS: A198631(n) / OEIS: A006519(n + 1)
+which links the second Bernoulli numbers to the second fractional Euler numbers. The beginning is:
+
+⁠1/2⁠, ⁠1/6⁠, 0, −⁠1/30⁠, 0, ⁠1/42⁠, ... = (⁠1/2⁠, ⁠1/3⁠, ⁠3/14⁠, ⁠2/15⁠, ⁠5/62⁠, ⁠1/21⁠, ...) × (1, ⁠1/2⁠, 0, −⁠1/4⁠, 0, ⁠1/2⁠, ...)
+The numerators of the first parentheses are OEIS: A111701 (see Connection with Stirling numbers of the first kind).
+
+Connection with Stirling numbers of the second kind
+If one defines the Bernoulli polynomials Bk(j) as:
+
+  
+    
+      
+        
+          B
+          
+            k
+          
+        
+        (
+        j
+        )
+        =
+        k
+        
+          ∑
+          
+            m
+            =
+            0
+          
+          
+            k
+            −
+            1
+          
+        
+        
+          
+            
+              (
+            
+            
+              j
+              
+                m
+                +
+                1
+              
+            
+            
+              )
+            
+          
+        
+        S
+        (
+        k
+        −
+        1
+        ,
+        m
+        )
+        m
+        !
+        +
+        
+          B
+          
+            k
+          
+        
+      
+    
+    {\displaystyle B_{k}(j)=k\sum _{m=0}^{k-1}{\binom {j}{m+1}}S(k-1,m)m!+B_{k}}
+  
+
+where Bk for k = 0, 1, 2,... are the Bernoulli numbers,
+and S(k,m) is a Stirling number of the second kind.
+One also has the following for Bernoulli polynomials,
+
+  
+    
+      
+        
+          B
+          
+            k
+          
+        
+        (
+        j
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            k
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              n
+            
+            
+              )
+            
+          
+        
+        
+          B
+          
+            n
+          
+        
+        
+          j
+          
+            k
+            −
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle B_{k}(j)=\sum _{n=0}^{k}{\binom {k}{n}}B_{n}j^{k-n}.}
+  
+
+The coefficient of j in (jm + 1) is ⁠(−1)m/m + 1⁠.
+Comparing the coefficient of j in the two expressions of Bernoulli polynomials, one has:
+
+  
+    
+      
+        
+          B
+          
+            k
+          
+        
+        =
+        
+          ∑
+          
+            m
+            =
+            0
+          
+          
+            k
+            −
+            1
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            m
+          
+        
+        
+          
+            
+              m
+              !
+            
+            
+              m
+              +
+              1
+            
+          
+        
+        S
+        (
+        k
+        −
+        1
+        ,
+        m
+        )
+      
+    
+    {\displaystyle B_{k}=\sum _{m=0}^{k-1}(-1)^{m}{\frac {m!}{m+1}}S(k-1,m)}
+  
+
+(resulting in B1 = +⁠1/2⁠) which is an explicit formula for Bernoulli numbers and can be used to prove Von-Staudt Clausen theorem.
+
+Connection with Stirling numbers of the first kind
+The two main formulas relating the unsigned Stirling numbers of the first kind nm to the Bernoulli numbers (with B1 = +⁠1/2⁠) are
+
+  
+    
+      
+        
+          
+            1
+            
+              m
+              !
+            
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          
+          
+            
+              
+                m
+                +
+                1
+              
+              
+                k
+                +
+                1
+              
+            
+          
+          
+        
+        
+          B
+          
+            k
+          
+        
+        =
+        
+          
+            1
+            
+              m
+              +
+              1
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {1}{m!}}\sum _{k=0}^{m}(-1)^{k}\left{m+1 \atop k+1}\rightB_{k}={\frac {1}{m+1}},}
+  
+
+and the inversion of this sum (for n ≥ 0, m ≥ 0)
+
+  
+    
+      
+        
+          
+            1
+            
+              m
+              !
+            
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            m
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          
+          
+            
+              
+                m
+                +
+                1
+              
+              
+                k
+                +
+                1
+              
+            
+          
+          
+        
+        
+          B
+          
+            n
+            +
+            k
+          
+        
+        =
+        
+          A
+          
+            n
+            ,
+            m
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{m!}}\sum _{k=0}^{m}(-1)^{k}\left{m+1 \atop k+1}\rightB_{n+k}=A_{n,m}.}
+  
+
+Here the number An,m are the rational Akiyama–Tanigawa numbers, the first few of which are displayed in the following table.
+
+The Akiyama–Tanigawa numbers satisfy a simple recurrence relation which can be exploited to iteratively compute the Bernoulli numbers. This leads to the algorithm shown in the section 'algorithmic description' above. See OEIS: A051714/OEIS: A051715.
+An autosequence is a sequence which has its inverse binomial transform equal to the signed sequence. If the main diagonal is zeroes = OEIS: A000004, the autosequence is of the first kind. Example: OEIS: A000045, the Fibonacci numbers. If the main diagonal is the first upper diagonal multiplied by 2, it is of the second kind. Example: OEIS: A164555/OEIS: A027642, the second Bernoulli numbers (see OEIS: A190339). The Akiyama–Tanigawa transform applied to 2−n = 1/OEIS: A000079 leads to OEIS: A198631 (n) / OEIS: A06519 (n + 1). Hence:
+
+See OEIS: A209308 and OEIS: A227577. OEIS: A198631 (n) / OEIS: A006519 (n + 1) are the second (fractional) Euler numbers and an autosequence of the second kind.
+
+(⁠OEIS: A164555 (n + 2)/OEIS: A027642 (n + 2)⁠ = ⁠1/6⁠, 0, −⁠1/30⁠, 0, ⁠1/42⁠, ...) × ( ⁠2n + 3 − 2/n + 2⁠ = 3, ⁠14/3⁠, ⁠15/2⁠, ⁠62/5⁠, 21, ...) = ⁠OEIS: A198631 (n + 1)/OEIS: A006519 (n + 2)⁠ = ⁠1/2⁠, 0, −⁠1/4⁠, 0, ⁠1/2⁠, ....
+Also valuable for OEIS: A027641 / OEIS: A027642 (see Connection with Worpitzky numbers).
+
+Connection with Pascal's triangle
+There are formulas connecting Pascal's triangle to Bernoulli numbers
+
+  
+    
+      
+        
+          B
+          
+            n
+          
+          
+            +
+          
+        
+        =
+        
+          
+            
+              
+                |
+              
+              
+                A
+                
+                  n
+                
+              
+              
+                |
+              
+            
+            
+              (
+              n
+              +
+              1
+              )
+              !
+            
+          
+        
+         
+         
+         
+      
+    
+    {\displaystyle B_{n}^{+}={\frac {|A_{n}|}{(n+1)!}}~~~}
+  
+
+where 
+  
+    
+      
+        
+          |
+        
+        
+          A
+          
+            n
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle |A_{n}|}
+  
+ is the determinant of a n-by-n Hessenberg matrix part of Pascal's triangle whose elements are: 
+  
+    
+      
+        
+          a
+          
+            i
+            ,
+            k
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  k
+                  >
+                  1
+                  +
+                  i
+                
+              
+              
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        
+                          i
+                          +
+                          1
+                        
+                        
+                          k
+                          −
+                          1
+                        
+                      
+                      
+                        )
+                      
+                    
+                  
+                
+                
+                  
+                    otherwise
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle a_{i,k}={\begin{cases}0&{\text{if }}k>1+i\\{i+1 \choose k-1}&{\text{otherwise}}\end{cases}}}
+  
+
+Example:
+
+  
+    
+      
+        
+          B
+          
+            6
+          
+          
+            +
+          
+        
+        =
+        
+          
+            
+              det
+              
+                
+                  (
+                  
+                    
+                      
+                        1
+                      
+                      
+                        2
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        3
+                      
+                      
+                        3
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        4
+                      
+                      
+                        6
+                      
+                      
+                        4
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        5
+                      
+                      
+                        10
+                      
+                      
+                        10
+                      
+                      
+                        5
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        6
+                      
+                      
+                        15
+                      
+                      
+                        20
+                      
+                      
+                        15
+                      
+                      
+                        6
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        7
+                      
+                      
+                        21
+                      
+                      
+                        35
+                      
+                      
+                        35
+                      
+                      
+                        21
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              7
+              !
+            
+          
+        
+        =
+        
+          
+            120
+            5040
+          
+        
+        =
+        
+          
+            1
+            42
+          
+        
+      
+    
+    {\displaystyle B_{6}^{+}={\frac {\det {\begin{pmatrix}1&2&0&0&0&0\\1&3&3&0&0&0\\1&4&6&4&0&0\\1&5&10&10&5&0\\1&6&15&20&15&6\\1&7&21&35&35&21\end{pmatrix}}}{7!}}={\frac {120}{5040}}={\frac {1}{42}}}
+
+Connection with Eulerian numbers
+There are formulas connecting Eulerian numbers ⟨nm⟩ to Bernoulli numbers:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ∑
+                  
+                    m
+                    =
+                    0
+                  
+                  
+                    n
+                  
+                
+                (
+                −
+                1
+                
+                  )
+                  
+                    m
+                  
+                
+                
+                  ⟨
+                  
+                    
+                      n
+                      m
+                    
+                  
+                  ⟩
+                
+              
+              
+                
+                =
+                
+                  2
+                  
+                    n
+                    +
+                    1
+                  
+                
+                (
+                
+                  2
+                  
+                    n
+                    +
+                    1
+                  
+                
+                −
+                1
+                )
+                
+                  
+                    
+                      B
+                      
+                        n
+                        +
+                        1
+                      
+                    
+                    
+                      n
+                      +
+                      1
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  ∑
+                  
+                    m
+                    =
+                    0
+                  
+                  
+                    n
+                  
+                
+                (
+                −
+                1
+                
+                  )
+                  
+                    m
+                  
+                
+                
+                  ⟨
+                  
+                    
+                      n
+                      m
+                    
+                  
+                  ⟩
+                
+                
+                  
+                    
+                      
+                        (
+                      
+                      
+                        n
+                        m
+                      
+                      
+                        )
+                      
+                    
+                  
+                  
+                    −
+                    1
+                  
+                
+              
+              
+                
+                =
+                (
+                n
+                +
+                1
+                )
+                
+                  B
+                  
+                    n
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\sum _{m=0}^{n}(-1)^{m}\left\langle {n \atop m}\right\rangle &=2^{n+1}(2^{n+1}-1){\frac {B_{n+1}}{n+1}},\\\sum _{m=0}^{n}(-1)^{m}\left\langle {n \atop m}\right\rangle {\binom {n}{m}}^{-1}&=(n+1)B_{n}.\end{aligned}}}
+  
+
+Both formulae are valid for n ≥ 0 if B1 is set to ⁠1/2⁠. If B1 is set to −⁠1/2⁠ they are valid only for n ≥ 1 and n ≥ 2 respectively.
+
+A binary tree representation
+The Stirling polynomials σn(x) are related to the Bernoulli numbers by Bn = n!σn(1). S. C. Woon described an algorithm to compute σn(1) as a binary tree:
+
+Woon's recursive algorithm (for n ≥ 1) starts by assigning to the root node N = 1,2. Given a node N = a1, a2, ..., ak of the tree, the left child of the node is L(N) = −a1, a2 + 1, a3, ..., ak and the right child R(N) = a1, 2, a2, ..., ak. A node N = a1, a2, ..., ak is written as ±a2, ..., ak in the initial part of the tree represented above with ± denoting the sign of a1.
+Given a node N the factorial of N is defined as
+
+  
+    
+      
+        N
+        !
+        =
+        
+          a
+          
+            1
+          
+        
+        
+          ∏
+          
+            k
+            =
+            2
+          
+          
+            length
+            ⁡
+            (
+            N
+            )
+          
+        
+        
+          a
+          
+            k
+          
+        
+        !
+        .
+      
+    
+    {\displaystyle N!=a_{1}\prod _{k=2}^{\operatorname {length} (N)}a_{k}!.}
+  
+
+Restricted to the nodes N of a fixed tree-level n the sum of ⁠1/N!⁠ is σn(1), thus
+
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            
+              
+                
+                  
+                     tree-level 
+                  
+                  n
+                
+                
+                  N
+                  
+                     node of
+                  
+                
+              
+            
+          
+        
+        
+          
+            
+              n
+              !
+            
+            
+              N
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle B_{n}=\sum _{\stackrel {N{\text{ node of}}}{{\text{ tree-level }}n}}{\frac {n!}{N!}}.}
+  
+
+For example:
+
+B1 = 1!(⁠1/2!⁠)
+B2 = 2!(−⁠1/3!⁠ + ⁠1/2!2!⁠)
+B3 = 3!(⁠1/4!⁠ − ⁠1/2!3!⁠ − ⁠1/3!2!⁠ + ⁠1/2!2!2!⁠)
+
+Integral representation and continuation
+The integral
+
+  
+    
+      
+        b
+        (
+        s
+        )
+        =
+        2
+        
+          e
+          
+            s
+            i
+            π
+            
+              /
+            
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              s
+              
+                t
+                
+                  s
+                
+              
+            
+            
+              1
+              −
+              
+                e
+                
+                  2
+                  π
+                  t
+                
+              
+            
+          
+        
+        
+          
+            
+              d
+              t
+            
+            t
+          
+        
+        =
+        
+          
+            
+              s
+              !
+            
+            
+              2
+              
+                s
+                −
+                1
+              
+            
+          
+        
+        
+          
+            
+              ζ
+              (
+              s
+              )
+            
+            
+              
+
+              
+              
+                π
+                
+                  s
+                
+              
+              
+
+              
+            
+          
+        
+        (
+        −
+        i
+        
+          )
+          
+            s
+          
+        
+        =
+        
+          
+            
+              2
+              s
+              !
+              ζ
+              (
+              s
+              )
+            
+            
+              (
+              2
+              π
+              i
+              
+                )
+                
+                  s
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle b(s)=2e^{si\pi /2}\int _{0}^{\infty }{\frac {st^{s}}{1-e^{2\pi t}}}{\frac {dt}{t}}={\frac {s!}{2^{s-1}}}{\frac {\zeta (s)}{{}\pi ^{s}{}}}(-i)^{s}={\frac {2s!\zeta (s)}{(2\pi i)^{s}}}}
+  
+
+has as special values b(2n) = B2n for n > 0.
+For example, b(3) = ⁠3/2⁠ζ(3)π−3i and b(5) = −⁠15/2⁠ζ(5)π−5i. Here, ζ is the Riemann zeta function, and i is the imaginary unit. Leonhard Euler (Opera Omnia, Ser. 1, Vol. 10, p. 351) considered these numbers and calculated
+
+  
+    
+      
+        
+          
+            
+              
+                p
+              
+              
+                
+                =
+                
+                  
+                    3
+                    
+                      2
+                      
+                        π
+                        
+                          3
+                        
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    1
+                    +
+                    
+                      
+                        1
+                        
+                          2
+                          
+                            3
+                          
+                        
+                      
+                    
+                    +
+                    
+                      
+                        1
+                        
+                          3
+                          
+                            3
+                          
+                        
+                      
+                    
+                    +
+                    ⋯
+                  
+                  )
+                
+                =
+                0.0581522
+                …
+              
+            
+            
+              
+                q
+              
+              
+                
+                =
+                
+                  
+                    15
+                    
+                      2
+                      
+                        π
+                        
+                          5
+                        
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    1
+                    +
+                    
+                      
+                        1
+                        
+                          2
+                          
+                            5
+                          
+                        
+                      
+                    
+                    +
+                    
+                      
+                        1
+                        
+                          3
+                          
+                            5
+                          
+                        
+                      
+                    
+                    +
+                    ⋯
+                  
+                  )
+                
+                =
+                0.0254132
+                …
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}p&={\frac {3}{2\pi ^{3}}}\left(1+{\frac {1}{2^{3}}}+{\frac {1}{3^{3}}}+\cdots \right)=0.0581522\ldots \\q&={\frac {15}{2\pi ^{5}}}\left(1+{\frac {1}{2^{5}}}+{\frac {1}{3^{5}}}+\cdots \right)=0.0254132\ldots \end{aligned}}}
+  
+
+Another similar integral representation is
+
+  
+    
+      
+        b
+        (
+        s
+        )
+        =
+        −
+        
+          
+            
+              e
+              
+                s
+                i
+                π
+                
+                  /
+                
+                2
+              
+            
+            
+              
+                2
+                
+                  s
+                
+              
+              −
+              1
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              s
+              
+                t
+                
+                  s
+                
+              
+            
+            
+              sinh
+              ⁡
+              π
+              t
+            
+          
+        
+        
+          
+            
+              d
+              t
+            
+            t
+          
+        
+        =
+        
+          
+            
+              2
+              
+                e
+                
+                  s
+                  i
+                  π
+                  
+                    /
+                  
+                  2
+                
+              
+            
+            
+              
+                2
+                
+                  s
+                
+              
+              −
+              1
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                e
+                
+                  π
+                  t
+                
+              
+              s
+              
+                t
+                
+                  s
+                
+              
+            
+            
+              1
+              −
+              
+                e
+                
+                  2
+                  π
+                  t
+                
+              
+            
+          
+        
+        
+          
+            
+              d
+              t
+            
+            t
+          
+        
+        .
+      
+    
+    {\displaystyle b(s)=-{\frac {e^{si\pi /2}}{2^{s}-1}}\int _{0}^{\infty }{\frac {st^{s}}{\sinh \pi t}}{\frac {dt}{t}}={\frac {2e^{si\pi /2}}{2^{s}-1}}\int _{0}^{\infty }{\frac {e^{\pi t}st^{s}}{1-e^{2\pi t}}}{\frac {dt}{t}}.}
+
+The relation to the Euler numbers and π
+The Euler numbers are a sequence of integers intimately connected with the Bernoulli numbers. Comparing the
+asymptotic expansions of the Bernoulli and the Euler numbers shows that the Euler numbers E2n are in magnitude approximately ⁠2/π⁠(42n − 22n) times larger than the Bernoulli numbers B2n. In consequence:
+
+  
+    
+      
+        π
+        ∼
+        2
+        (
+        
+          2
+          
+            2
+            n
+          
+        
+        −
+        
+          4
+          
+            2
+            n
+          
+        
+        )
+        
+          
+            
+              B
+              
+                2
+                n
+              
+            
+            
+              E
+              
+                2
+                n
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \pi \sim 2(2^{2n}-4^{2n}){\frac {B_{2n}}{E_{2n}}}.}
+  
+
+This asymptotic equation reveals that π lies in the common root of both the Bernoulli and the Euler numbers. In fact π could be computed from these rational approximations.
+Bernoulli numbers can be expressed through the Euler numbers and vice versa. Since, for odd n, Bn = En = 0 (with the exception B1), it suffices to consider the case when n is even.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    k
+                    =
+                    0
+                  
+                  
+                    n
+                    −
+                    1
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      
+                        n
+                        −
+                        1
+                      
+                      k
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    n
+                    
+                      
+                        4
+                        
+                          n
+                        
+                      
+                      −
+                      
+                        2
+                        
+                          n
+                        
+                      
+                    
+                  
+                
+                
+                  E
+                  
+                    k
+                  
+                
+              
+              
+                n
+              
+              
+                
+                =
+                2
+                ,
+                4
+                ,
+                6
+                ,
+                …
+              
+            
+            
+              
+                
+                  E
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                
+                  ∑
+                  
+                    k
+                    =
+                    1
+                  
+                  
+                    n
+                  
+                
+                
+                  
+                    
+                      (
+                    
+                    
+                      n
+                      
+                        k
+                        −
+                        1
+                      
+                    
+                    
+                      )
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        2
+                        
+                          k
+                        
+                      
+                      −
+                      
+                        4
+                        
+                          k
+                        
+                      
+                    
+                    k
+                  
+                
+                
+                  B
+                  
+                    k
+                  
+                
+              
+              
+                n
+              
+              
+                
+                =
+                2
+                ,
+                4
+                ,
+                6
+                ,
+                …
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}B_{n}&=\sum _{k=0}^{n-1}{\binom {n-1}{k}}{\frac {n}{4^{n}-2^{n}}}E_{k}&n&=2,4,6,\ldots \\6ptE_{n}&=\sum _{k=1}^{n}{\binom {n}{k-1}}{\frac {2^{k}-4^{k}}{k}}B_{k}&n&=2,4,6,\ldots \end{aligned}}}
+  
+
+These conversion formulas express a connection between the Bernoulli and the Euler numbers. But more important, there is a deep arithmetic root common to both kinds of numbers, which can be expressed through a more fundamental sequence of numbers, also closely tied to π. These numbers are defined for n ≥ 1 as
+
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+        =
+        2
+        
+          
+            (
+            
+              
+                2
+                π
+              
+            
+            )
+          
+          
+            n
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              −
+              1
+              
+                )
+                
+                  k
+                  n
+                
+              
+            
+            
+              (
+              2
+              k
+              +
+              1
+              
+                )
+                
+                  n
+                
+              
+            
+          
+        
+        =
+        2
+        
+          
+            (
+            
+              
+                2
+                π
+              
+            
+            )
+          
+          
+            n
+          
+        
+        
+          lim
+          
+            K
+            →
+            ∞
+          
+        
+        
+          ∑
+          
+            k
+            =
+            −
+            K
+          
+          
+            K
+          
+        
+        (
+        4
+        k
+        +
+        1
+        
+          )
+          
+            −
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle S_{n}=2\left({\frac {2}{\pi }}\right)^{n}\sum _{k=0}^{\infty }{\frac {(-1)^{kn}}{(2k+1)^{n}}}=2\left({\frac {2}{\pi }}\right)^{n}\lim _{K\to \infty }\sum _{k=-K}^{K}(4k+1)^{-n}.}
+  
+
+The magic of these numbers lies in the fact that they turn out to be rational numbers.  This was first proved by Leonhard Euler in a landmark paper De summis serierum reciprocarum (On the sums of series of reciprocals) and has fascinated mathematicians ever since. The first few of these numbers are
+
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+        =
+        1
+        ,
+        1
+        ,
+        
+          
+            1
+            2
+          
+        
+        ,
+        
+          
+            1
+            3
+          
+        
+        ,
+        
+          
+            5
+            24
+          
+        
+        ,
+        
+          
+            2
+            15
+          
+        
+        ,
+        
+          
+            61
+            720
+          
+        
+        ,
+        
+          
+            17
+            315
+          
+        
+        ,
+        
+          
+            277
+            8064
+          
+        
+        ,
+        
+          
+            62
+            2835
+          
+        
+        ,
+        …
+      
+    
+    {\displaystyle S_{n}=1,1,{\frac {1}{2}},{\frac {1}{3}},{\frac {5}{24}},{\frac {2}{15}},{\frac {61}{720}},{\frac {17}{315}},{\frac {277}{8064}},{\frac {62}{2835}},\ldots }
+  
+ (OEIS: A099612 / OEIS: A099617)
+These are the coefficients in the expansion of sec x + tan x.
+The Bernoulli numbers and Euler numbers can be understood as special views of these numbers, selected from the sequence Sn and scaled for use in special applications.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                (
+                −
+                1
+                
+                  )
+                  
+                    
+                      ⌊
+                      
+                        
+                          n
+                          2
+                        
+                      
+                      ⌋
+                    
+                  
+                
+                
+                n
+                
+                   even
+                
+                
+                
+                  
+                    
+                      n
+                      !
+                    
+                    
+                      
+                        2
+                        
+                          n
+                        
+                      
+                      −
+                      
+                        4
+                        
+                          n
+                        
+                      
+                    
+                  
+                
+                
+                
+                  S
+                  
+                    n
+                  
+                
+                 
+                ,
+              
+              
+                n
+              
+              
+                
+                =
+                2
+                ,
+                3
+                ,
+                …
+              
+            
+            
+              
+                
+                  E
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                (
+                −
+                1
+                
+                  )
+                  
+                    
+                      ⌊
+                      
+                        
+                          n
+                          2
+                        
+                      
+                      ⌋
+                    
+                  
+                
+                
+                n
+                
+                   even
+                
+                
+                n
+                !
+                
+                
+                  S
+                  
+                    n
+                    +
+                    1
+                  
+                
+              
+              
+                n
+              
+              
+                
+                =
+                0
+                ,
+                1
+                ,
+                …
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}B_{n}&=(-1)^{\left\lfloor {\frac {n}{2}}\right\rfloor }n{\text{ even}}{\frac {n!}{2^{n}-4^{n}}}\,S_{n}\ ,&n&=2,3,\ldots \\E_{n}&=(-1)^{\left\lfloor {\frac {n}{2}}\right\rfloor }n{\text{ even}}n!\,S_{n+1}&n&=0,1,\ldots \end{aligned}}}
+  
+
+The expression n even has the value 1 if n is even and 0 otherwise (Iverson bracket).
+These identities show that the quotient of Bernoulli and Euler numbers at the beginning of this section is just the special case of Rn = ⁠2Sn/Sn + 1⁠ when n is even. The Rn are rational approximations to π and two successive terms always enclose the true value of π. Beginning with n = 1 the sequence starts (OEIS: A132049 / OEIS: A132050):
+
+  
+    
+      
+        2
+        ,
+        4
+        ,
+        3
+        ,
+        
+          
+            16
+            5
+          
+        
+        ,
+        
+          
+            25
+            8
+          
+        
+        ,
+        
+          
+            192
+            61
+          
+        
+        ,
+        
+          
+            427
+            136
+          
+        
+        ,
+        
+          
+            4352
+            1385
+          
+        
+        ,
+        
+          
+            12465
+            3968
+          
+        
+        ,
+        
+          
+            158720
+            50521
+          
+        
+        ,
+        …
+        
+        ⟶
+        π
+        .
+      
+    
+    {\displaystyle 2,4,3,{\frac {16}{5}},{\frac {25}{8}},{\frac {192}{61}},{\frac {427}{136}},{\frac {4352}{1385}},{\frac {12465}{3968}},{\frac {158720}{50521}},\ldots \quad \longrightarrow \pi .}
+  
+
+These rational numbers also appear in the last paragraph of Euler's paper cited above.
+Consider the Akiyama–Tanigawa transform for the sequence OEIS: A046978 (n + 2) / OEIS: A016116 (n + 1):
+
+From the second, the numerators of the first column are the denominators of Euler's formula. The first column is −⁠1/2⁠ × OEIS: A163982.
+
+An algorithmic view: the Seidel triangle
+The sequence Sn has another unexpected yet important property: The denominators of Sn+1 divide the factorial n!. In other words: the numbers Tn = Sn + 1 n!, sometimes called Euler zigzag numbers, are integers.
+
+  
+    
+      
+        
+          T
+          
+            n
+          
+        
+        =
+        1
+        ,
+        
+        1
+        ,
+        
+        1
+        ,
+        
+        2
+        ,
+        
+        5
+        ,
+        
+        16
+        ,
+        
+        61
+        ,
+        
+        272
+        ,
+        
+        1385
+        ,
+        
+        7936
+        ,
+        
+        50521
+        ,
+        
+        353792
+        ,
+        …
+        
+        n
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        …
+      
+    
+    {\displaystyle T_{n}=1,\,1,\,1,\,2,\,5,\,16,\,61,\,272,\,1385,\,7936,\,50521,\,353792,\ldots \quad n=0,1,2,3,\ldots }
+  
+ (OEIS: A000111). See (OEIS: A253671).
+Their exponential generating function is the sum of the secant and tangent functions.
+
+  
+    
+      
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          T
+          
+            n
+          
+        
+        
+          
+            
+              x
+              
+                n
+              
+            
+            
+              n
+              !
+            
+          
+        
+        =
+        tan
+        ⁡
+        
+          (
+          
+            
+              
+                π
+                4
+              
+            
+            +
+            
+              
+                x
+                2
+              
+            
+          
+          )
+        
+        =
+        sec
+        ⁡
+        x
+        +
+        tan
+        ⁡
+        x
+      
+    
+    {\displaystyle \sum _{n=0}^{\infty }T_{n}{\frac {x^{n}}{n!}}=\tan \left({\frac {\pi }{4}}+{\frac {x}{2}}\right)=\sec x+\tan x}
+  
+.
+Thus the above representations of the Bernoulli and Euler numbers can be rewritten in terms of this sequence as
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  B
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                (
+                −
+                1
+                
+                  )
+                  
+                    
+                      ⌊
+                      
+                        
+                          n
+                          2
+                        
+                      
+                      ⌋
+                    
+                  
+                
+                
+                n
+                
+                   even
+                
+                
+                
+                  
+                    n
+                    
+                      
+                        2
+                        
+                          n
+                        
+                      
+                      −
+                      
+                        4
+                        
+                          n
+                        
+                      
+                    
+                  
+                
+                
+                
+                  T
+                  
+                    n
+                    −
+                    1
+                  
+                
+                 
+              
+              
+                n
+              
+              
+                
+                ≥
+                2
+              
+            
+            
+              
+                
+                  E
+                  
+                    n
+                  
+                
+              
+              
+                
+                =
+                (
+                −
+                1
+                
+                  )
+                  
+                    
+                      ⌊
+                      
+                        
+                          n
+                          2
+                        
+                      
+                      ⌋
+                    
+                  
+                
+                
+                n
+                
+                   even
+                
+                
+                
+                  T
+                  
+                    n
+                  
+                
+              
+              
+                n
+              
+              
+                
+                ≥
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}B_{n}&=(-1)^{\left\lfloor {\frac {n}{2}}\right\rfloor }n{\text{ even}}{\frac {n}{2^{n}-4^{n}}}\,T_{n-1}\ &n&\geq 2\\E_{n}&=(-1)^{\left\lfloor {\frac {n}{2}}\right\rfloor }n{\text{ even}}T_{n}&n&\geq 0\end{aligned}}}
+  
+
+These identities make it easy to compute the Bernoulli and Euler numbers: the Euler numbers E2n are given immediately by T2n and the Bernoulli numbers B2n are fractions obtained from T2n - 1 by some easy shifting, avoiding rational arithmetic.
+What remains is to find a convenient way to compute the numbers Tn. However, already in 1877 Philipp Ludwig von Seidel published an ingenious algorithm, which makes it simple to calculate Tn.
+
+Start by putting 1 in row 0 and let k denote the number of the row currently being filled
+If k is odd, then put the number on the left end of the row k − 1 in the first position of the row k, and fill the row from the left to the right, with every entry being the sum of the number to the left and the number to the upper
+At the end of the row duplicate the last number.
+If k is even, proceed similar in the other direction.
+Seidel's algorithm is in fact much more general (see the exposition of Dominique Dumont ) and was rediscovered several times thereafter.
+Similar to Seidel's approach D. E. Knuth and T. J. Buckholtz gave a recurrence equation for the numbers T2n and recommended this method for computing B2n and E2n 'on electronic computers using only simple operations on integers'.
+V. I. Arnold rediscovered Seidel's algorithm and later Millar, Sloane and Young popularized Seidel's algorithm under the name boustrophedon transform.
+Triangular form:
+
+Only OEIS: A000657, with one 1, and OEIS: A214267, with two 1s, are in the OEIS.
+Distribution with a supplementary 1 and one 0 in the following rows:
+
+This is OEIS: A239005, a signed version of OEIS: A008280. The main andiagonal is OEIS: A122045. The main diagonal is OEIS: A155585. The central column is OEIS: A099023. Row sums: 1, 1, −2, −5, 16, 61.... See OEIS: A163747. See the array beginning with 1, 1, 0, −2, 0, 16, 0 below.
+The Akiyama–Tanigawa algorithm applied to OEIS: A046978 (n + 1) / OEIS: A016116(n) yields:
+
+1. The first column is OEIS: A122045. Its binomial transform leads to:
+
+The first row of this array is OEIS: A155585. The absolute values of the increasing antidiagonals are OEIS: A008280. The sum of the antidiagonals is −OEIS: A163747 (n + 1).
+2. The second column is 1 1 −1 −5 5 61 −61 −1385 1385.... Its binomial transform yields:
+
+The first row of this array is 1 2 2 −4 −16 32 272 544 −7936 15872 353792 −707584.... The absolute values of the second bisection are the double of the absolute values of the first bisection.
+Consider the Akiyama-Tanigawa algorithm applied to OEIS: A046978 (n) / (OEIS: A158780 (n + 1) = abs(OEIS: A117575 (n)) + 1 = 1, 2, 2, ⁠3/2⁠, 1, ⁠3/4⁠, ⁠3/4⁠, ⁠7/8⁠, 1, ⁠17/16⁠, ⁠17/16⁠, ⁠33/32⁠....
+
+The first column whose the absolute values are OEIS: A000111 could be the numerator of a trigonometric function.
+OEIS: A163747 is an autosequence of the first kind (the main diagonal is OEIS: A000004). The corresponding array is:
+
+The first two upper diagonals are −1 3 −24 402... = (−1)n + 1 × OEIS: A002832. The sum of the antidiagonals is 0 −2 0 10... = 2 × OEIS: A122045(n + 1).
+−OEIS: A163982 is an autosequence of the second kind, like for instance OEIS: A164555 / OEIS: A027642. Hence the array:
+
+The main diagonal, here 2 −2 8 −92..., is the double of the first upper one, here OEIS: A099023. The sum of the antidiagonals is 2 0 −4 0... = 2 × OEIS: A155585(n + 1). OEIS: A163747 − OEIS: A163982 = 2 × OEIS: A122045.
+
+A combinatorial view: alternating permutations
+Around 1880, three years after the publication of Seidel's algorithm, Désiré André proved a now classic result of combinatorial analysis. Looking at the first terms of the Taylor expansion of the trigonometric functions
+tan x and sec x André made a startling discovery.
+
+  
+    
+      
+        
+          
+            
+              
+                tan
+                ⁡
+                x
+              
+              
+                
+                =
+                x
+                +
+                
+                  
+                    
+                      2
+                      
+                        x
+                        
+                          3
+                        
+                      
+                    
+                    
+                      3
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      16
+                      
+                        x
+                        
+                          5
+                        
+                      
+                    
+                    
+                      5
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      272
+                      
+                        x
+                        
+                          7
+                        
+                      
+                    
+                    
+                      7
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      7936
+                      
+                        x
+                        
+                          9
+                        
+                      
+                    
+                    
+                      9
+                      !
+                    
+                  
+                
+                +
+                ⋯
+              
+            
+            
+              
+                sec
+                ⁡
+                x
+              
+              
+                
+                =
+                1
+                +
+                
+                  
+                    
+                      x
+                      
+                        2
+                      
+                    
+                    
+                      2
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      5
+                      
+                        x
+                        
+                          4
+                        
+                      
+                    
+                    
+                      4
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      61
+                      
+                        x
+                        
+                          6
+                        
+                      
+                    
+                    
+                      6
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      1385
+                      
+                        x
+                        
+                          8
+                        
+                      
+                    
+                    
+                      8
+                      !
+                    
+                  
+                
+                +
+                
+                  
+                    
+                      50521
+                      
+                        x
+                        
+                          10
+                        
+                      
+                    
+                    
+                      10
+                      !
+                    
+                  
+                
+                +
+                ⋯
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\tan x&=x+{\frac {2x^{3}}{3!}}+{\frac {16x^{5}}{5!}}+{\frac {272x^{7}}{7!}}+{\frac {7936x^{9}}{9!}}+\cdots \\6pt\sec x&=1+{\frac {x^{2}}{2!}}+{\frac {5x^{4}}{4!}}+{\frac {61x^{6}}{6!}}+{\frac {1385x^{8}}{8!}}+{\frac {50521x^{10}}{10!}}+\cdots \end{aligned}}}
+  
+
+The coefficients are the Euler numbers of odd and even index, respectively. In consequence the ordinary expansion of tan x + sec x has as coefficients the rational numbers Sn.
+
+  
+    
+      
+        tan
+        ⁡
+        x
+        +
+        sec
+        ⁡
+        x
+        =
+        1
+        +
+        x
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          
+            
+              1
+              3
+            
+          
+        
+        
+          x
+          
+            3
+          
+        
+        +
+        
+          
+            
+              5
+              24
+            
+          
+        
+        
+          x
+          
+            4
+          
+        
+        +
+        
+          
+            
+              2
+              15
+            
+          
+        
+        
+          x
+          
+            5
+          
+        
+        +
+        
+          
+            
+              61
+              720
+            
+          
+        
+        
+          x
+          
+            6
+          
+        
+        +
+        ⋯
+      
+    
+    {\displaystyle \tan x+\sec x=1+x+{\tfrac {1}{2}}x^{2}+{\tfrac {1}{3}}x^{3}+{\tfrac {5}{24}}x^{4}+{\tfrac {2}{15}}x^{5}+{\tfrac {61}{720}}x^{6}+\cdots }
+  
+
+André then succeeded by means of a recurrence argument to show that the alternating permutations of odd size are enumerated by the Euler numbers of odd index (also called tangent numbers) and the alternating permutations of even size by the Euler numbers of even index (also called secant numbers).
+
+Related sequences
+The arithmetic mean of the first and the second Bernoulli numbers are the associate Bernoulli numbers: 
+B0 = 1, B1 = 0, B2 = ⁠1/6⁠, B3 = 0, B4 = −⁠1/30⁠, OEIS: A176327 / OEIS: A027642. Via the second row of its inverse Akiyama–Tanigawa transform OEIS: A177427, they lead to Balmer series OEIS: A061037 / OEIS: A061038.
+The Akiyama–Tanigawa algorithm applied to OEIS: A060819 (n + 4) / OEIS: A145979 (n) leads to the Bernoulli numbers OEIS: A027641 / OEIS: A027642, OEIS: A164555 / OEIS: A027642, or OEIS: A176327 OEIS: A176289 without B1, named intrinsic Bernoulli numbers Bi(n).
+
+Hence another link between the intrinsic Bernoulli numbers and the Balmer series via OEIS: A145979 (n).
+OEIS: A145979 (n − 2) = 0, 2, 1, 6,... is a permutation of the non-negative numbers.
+The terms of the first row are f(n) = ⁠1/2⁠ + ⁠1/n + 2⁠. 2, f(n) is an autosequence of the second kind. 3/2, f(n) leads by its inverse binomial transform to 3/2 −1/2 1/3 −1/4 1/5 ... = 1/2 + log 2.
+Consider g(n) = 1/2 – 1 / (n+2) = 0, 1/6, 1/4, 3/10, 1/3. The Akiyama-Tanagiwa transforms gives:
+
+0, g(n), is an autosequence of the second kind.
+Euler OEIS: A198631 (n) / OEIS: A006519 (n + 1) without the second term (⁠1/2⁠) are the fractional intrinsic Euler numbers Ei(n) = 1, 0, −⁠1/4⁠, 0, ⁠1/2⁠, 0, −⁠17/8⁠, 0, ... The corresponding Akiyama transform is:
+
+The first line is Eu(n). Eu(n) preceded by a zero is an autosequence of the first kind. It is linked to the Oresme numbers. The numerators of the second line are OEIS: A069834 preceded by 0. The difference table is:
+
+Arithmetical properties of the Bernoulli numbers
+The Bernoulli numbers can be expressed in terms of the Riemann zeta function as Bn = −nζ(1 − n) for integers n ≥ 0 provided for n = 0 the expression −nζ(1 − n) is understood as the limiting value and the convention B1 = ⁠1/2⁠ is used. This intimately relates them to the values of the zeta function at negative integers. As such, they could be expected to have and do have deep arithmetical properties. For example, the Agoh–Giuga conjecture postulates that p is a prime number if and only if pBp − 1 is congruent to −1 modulo p. Divisibility properties of the Bernoulli numbers are related to the ideal class groups of cyclotomic fields by a theorem of Kummer and its strengthening in the Herbrand-Ribet theorem, and to class numbers of real quadratic fields by Ankeny–Artin–Chowla.
+
+The Kummer theorems
+The Bernoulli numbers are related to Fermat's Last Theorem (FLT) by Kummer's theorem, which says:
+
+If the odd prime p does not divide any of the numerators of the Bernoulli numbers B2, B4, ..., Bp − 3 then xp + yp + zp = 0 has no solutions in nonzero integers.
+Prime numbers with this property are called regular primes. Another classical result of Kummer are the following congruences.
+
+Let p be an odd prime and b an even number such that p − 1 does not divide b. Then for any non-negative integer k
+
+  
+    
+      
+        
+          
+            
+              B
+              
+                k
+                (
+                p
+                −
+                1
+                )
+                +
+                b
+              
+            
+            
+              k
+              (
+              p
+              −
+              1
+              )
+              +
+              b
+            
+          
+        
+        ≡
+        
+          
+            
+              B
+              
+                b
+              
+            
+            b
+          
+        
+        
+          
+          (
+          mod
+          
+          p
+          )
+        
+        .
+      
+    
+    {\displaystyle {\frac {B_{k(p-1)+b}}{k(p-1)+b}}\equiv {\frac {B_{b}}{b}}{\pmod {p}}.}
+  
+
+A generalization of these congruences goes by the name of p-adic continuity.
+
+p-adic continuity
+If b, m and n are positive integers such that m and n are not divisible by p − 1 and m ≡ n (mod pb − 1 (p − 1)), then
+
+  
+    
+      
+        (
+        1
+        −
+        
+          p
+          
+            m
+            −
+            1
+          
+        
+        )
+        
+          
+            
+              B
+              
+                m
+              
+            
+            m
+          
+        
+        ≡
+        (
+        1
+        −
+        
+          p
+          
+            n
+            −
+            1
+          
+        
+        )
+        
+          
+            
+              B
+              
+                n
+              
+            
+            n
+          
+        
+        
+          
+          (
+          mod
+          
+          
+            p
+            
+              b
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle (1-p^{m-1}){\frac {B_{m}}{m}}\equiv (1-p^{n-1}){\frac {B_{n}}{n}}{\pmod {p^{b}}}.}
+  
+
+Since Bn = −nζ(1 − n), this can also be written
+
+  
+    
+      
+        
+          (
+          
+            1
+            −
+            
+              p
+              
+                −
+                u
+              
+            
+          
+          )
+        
+        ζ
+        (
+        u
+        )
+        ≡
+        
+          (
+          
+            1
+            −
+            
+              p
+              
+                −
+                v
+              
+            
+          
+          )
+        
+        ζ
+        (
+        v
+        )
+        
+          
+          (
+          mod
+          
+          
+            p
+            
+              b
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \left(1-p^{-u}\right)\zeta (u)\equiv \left(1-p^{-v}\right)\zeta (v){\pmod {p^{b}}},}
+  
+
+where u = 1 − m and v = 1 − n, so that u and v are nonpositive and not congruent to 1 modulo p − 1. This tells us that the Riemann zeta function, with 1 − p−s taken out of the Euler product formula, is continuous in the p-adic numbers on odd negative integers congruent modulo p − 1 to a particular a ≢ 1 mod (p − 1), and so can be extended to a continuous function ζp(s) for all p-adic integers 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle \mathbb {Z} _{p},}
+  
+ the p-adic zeta function.
+
+Ramanujan's congruences
+The following relations, due to Ramanujan, provide a method for calculating Bernoulli numbers that is more efficient than the one given by their original recursive definition:
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              
+                m
+                +
+                3
+              
+              m
+            
+            
+              )
+            
+          
+        
+        
+          B
+          
+            m
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        m
+                        +
+                        3
+                      
+                      3
+                    
+                  
+                  −
+                  
+                    ∑
+                    
+                      j
+                      =
+                      1
+                    
+                    
+                      
+                        m
+                        6
+                      
+                    
+                  
+                  
+                    
+                      
+                        (
+                      
+                      
+                        
+                          m
+                          +
+                          3
+                        
+                        
+                          m
+                          −
+                          6
+                          j
+                        
+                      
+                      
+                        )
+                      
+                    
+                  
+                  
+                    B
+                    
+                      m
+                      −
+                      6
+                      j
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  m
+                  ≡
+                  0
+                  
+                    
+                    (
+                    mod
+                    
+                    6
+                    )
+                  
+                  ;
+                
+              
+              
+                
+                  
+                    
+                      
+                        m
+                        +
+                        3
+                      
+                      3
+                    
+                  
+                  −
+                  
+                    ∑
+                    
+                      j
+                      =
+                      1
+                    
+                    
+                      
+                        
+                          m
+                          −
+                          2
+                        
+                        6
+                      
+                    
+                  
+                  
+                    
+                      
+                        (
+                      
+                      
+                        
+                          m
+                          +
+                          3
+                        
+                        
+                          m
+                          −
+                          6
+                          j
+                        
+                      
+                      
+                        )
+                      
+                    
+                  
+                  
+                    B
+                    
+                      m
+                      −
+                      6
+                      j
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  m
+                  ≡
+                  2
+                  
+                    
+                    (
+                    mod
+                    
+                    6
+                    )
+                  
+                  ;
+                
+              
+              
+                
+                  −
+                  
+                    
+                      
+                        m
+                        +
+                        3
+                      
+                      6
+                    
+                  
+                  −
+                  
+                    ∑
+                    
+                      j
+                      =
+                      1
+                    
+                    
+                      
+                        
+                          m
+                          −
+                          4
+                        
+                        6
+                      
+                    
+                  
+                  
+                    
+                      
+                        (
+                      
+                      
+                        
+                          m
+                          +
+                          3
+                        
+                        
+                          m
+                          −
+                          6
+                          j
+                        
+                      
+                      
+                        )
+                      
+                    
+                  
+                  
+                    B
+                    
+                      m
+                      −
+                      6
+                      j
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  m
+                  ≡
+                  4
+                  
+                    
+                    (
+                    mod
+                    
+                    6
+                    )
+                  
+                  .
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\binom {m+3}{m}}B_{m}={\begin{cases}{\frac {m+3}{3}}-\sum \limits _{j=1}^{\frac {m}{6}}{\binom {m+3}{m-6j}}B_{m-6j},&{\text{if }}m\equiv 0{\pmod {6}};\\{\frac {m+3}{3}}-\sum \limits _{j=1}^{\frac {m-2}{6}}{\binom {m+3}{m-6j}}B_{m-6j},&{\text{if }}m\equiv 2{\pmod {6}};\\-{\frac {m+3}{6}}-\sum \limits _{j=1}^{\frac {m-4}{6}}{\binom {m+3}{m-6j}}B_{m-6j},&{\text{if }}m\equiv 4{\pmod {6}}.\end{cases}}}
+
+Von Staudt–Clausen theorem
+The von Staudt–Clausen theorem was given by Karl Georg Christian von Staudt and Thomas Clausen independently in 1840. The theorem states that for every n > 0,
+
+  
+    
+      
+        
+          B
+          
+            2
+            n
+          
+        
+        +
+        
+          ∑
+          
+            (
+            p
+            −
+            1
+            )
+            
+            ∣
+            
+            2
+            n
+          
+        
+        
+          
+            1
+            p
+          
+        
+      
+    
+    {\displaystyle B_{2n}+\sum _{(p-1)\,\mid \,2n}{\frac {1}{p}}}
+  
+
+is an integer. The sum extends over all primes p for which p − 1 divides 2n.
+A consequence of this is that the denominator of B2n is given by the product of all primes p for which p − 1 divides 2n. In particular, these denominators are square-free and divisible by 6.
+
+Why do the odd Bernoulli numbers vanish?
+The sum
+
+  
+    
+      
+        
+          φ
+          
+            k
+          
+        
+        (
+        n
+        )
+        =
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          i
+          
+            k
+          
+        
+        −
+        
+          
+            
+              n
+              
+                k
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \varphi _{k}(n)=\sum _{i=0}^{n}i^{k}-{\frac {n^{k}}{2}}}
+  
+
+can be evaluated for negative values of the index n. Doing so will show that it is an odd function for even values of k, which implies that the  sum has only terms of odd index. This and the formula for the Bernoulli sum imply that B2k + 1 − m is 0 for m even and 2k + 1 − m > 1; and that the term for B1 is cancelled by the subtraction.  The von Staudt–Clausen theorem combined with Worpitzky's representation also gives a combinatorial answer to this question (valid for n > 1).
+From the von Staudt–Clausen theorem it is known that for odd n > 1 the number 2Bn is an integer. This seems trivial if one knows beforehand that the integer in question is zero. However, by applying Worpitzky's representation one gets
+
+  
+    
+      
+        2
+        
+          B
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            m
+            =
+            0
+          
+          
+            n
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            m
+          
+        
+        
+          
+            2
+            
+              m
+              +
+              1
+            
+          
+        
+        m
+        !
+        
+          {
+          
+            
+              
+                n
+                +
+                1
+              
+              
+                m
+                +
+                1
+              
+            
+          
+          }
+        
+        =
+        0
+        
+        (
+        n
+        >
+        1
+        
+           is odd
+        
+        )
+      
+    
+    {\displaystyle 2B_{n}=\sum _{m=0}^{n}(-1)^{m}{\frac {2}{m+1}}m!\left\{{n+1 \atop m+1}\right\}=0\quad (n>1{\text{ is odd}})}
+  
+
+as a sum of integers, which is not trivial. Here a combinatorial fact comes to surface which explains the vanishing of the Bernoulli numbers at odd index. Let Sn,m be the number of surjective maps from {1, 2, ..., n} to {1, 2, ..., m}, then Sn,m = m!{nm}. The last equation can only hold if
+
+  
+    
+      
+        
+          ∑
+          
+            
+              odd 
+            
+            m
+            =
+            1
+          
+          
+            n
+            −
+            1
+          
+        
+        
+          
+            2
+            
+              m
+              
+                2
+              
+            
+          
+        
+        
+          S
+          
+            n
+            ,
+            m
+          
+        
+        =
+        
+          ∑
+          
+            
+              even 
+            
+            m
+            =
+            2
+          
+          
+            n
+          
+        
+        
+          
+            2
+            
+              m
+              
+                2
+              
+            
+          
+        
+        
+          S
+          
+            n
+            ,
+            m
+          
+        
+        
+        (
+        n
+        >
+        2
+        
+           is even
+        
+        )
+        .
+      
+    
+    {\displaystyle \sum _{{\text{odd }}m=1}^{n-1}{\frac {2}{m^{2}}}S_{n,m}=\sum _{{\text{even }}m=2}^{n}{\frac {2}{m^{2}}}S_{n,m}\quad (n>2{\text{ is even}}).}
+  
+
+This equation can be proved by induction. The first two examples of this equation are
+
+n = 4: 2 + 8 = 7 + 3,
+n = 6: 2 + 120 + 144 = 31 + 195 + 40.
+Thus the Bernoulli numbers vanish at odd index because some non-obvious combinatorial identities are embodied in the Bernoulli numbers.
+
+A restatement of the Riemann hypothesis
+The connection between the Bernoulli numbers and the Riemann zeta function is strong enough to provide an alternate formulation of the Riemann hypothesis (RH) which uses only the Bernoulli numbers. In fact Marcel Riesz proved that the RH is equivalent to the following assertion:
+
+For every ε > ⁠1/4⁠ there exists a constant Cε > 0 (depending on ε) such that |R(x)| < Cεxε as x → ∞.
+Here R(x) is the Riesz function
+
+  
+    
+      
+        R
+        (
+        x
+        )
+        =
+        2
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                k
+                
+                  
+                    k
+                    ¯
+                  
+                
+              
+              
+                x
+                
+                  k
+                
+              
+            
+            
+              (
+              2
+              π
+              
+                )
+                
+                  2
+                  k
+                
+              
+              
+                (
+                
+                  
+                    
+                      B
+                      
+                        2
+                        k
+                      
+                    
+                    
+                      2
+                      k
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        =
+        2
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                k
+                
+                  
+                    k
+                    ¯
+                  
+                
+              
+              
+                x
+                
+                  k
+                
+              
+            
+            
+              (
+              2
+              π
+              
+                )
+                
+                  2
+                  k
+                
+              
+              
+                β
+                
+                  2
+                  k
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle R(x)=2\sum _{k=1}^{\infty }{\frac {k^{\overline {k}}x^{k}}{(2\pi )^{2k}\left({\frac {B_{2k}}{2k}}\right)}}=2\sum _{k=1}^{\infty }{\frac {k^{\overline {k}}x^{k}}{(2\pi )^{2k}\beta _{2k}}}.}
+  
+
+nk denotes the rising factorial power in the notation of D. E. Knuth. The numbers βn = ⁠Bn/n⁠ occur frequently in the study of the zeta function and are significant  because βn is a p-integer for primes p where p − 1 does not divide n.  The βn are called divided Bernoulli numbers.
+
+Generalized Bernoulli numbers
+The generalized Bernoulli numbers are certain algebraic numbers, defined similarly to the Bernoulli numbers, that are related to special values of Dirichlet L-functions in the same way that Bernoulli numbers are related to special values of the Riemann zeta function.
+Let χ be a Dirichlet character modulo f. The generalized Bernoulli numbers attached to χ are defined by
+
+  
+    
+      
+        
+          ∑
+          
+            a
+            =
+            1
+          
+          
+            f
+          
+        
+        χ
+        (
+        a
+        )
+        
+          
+            
+              t
+              
+                e
+                
+                  a
+                  t
+                
+              
+            
+            
+              
+                e
+                
+                  f
+                  t
+                
+              
+              −
+              1
+            
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          B
+          
+            k
+            ,
+            χ
+          
+        
+        
+          
+            
+              t
+              
+                k
+              
+            
+            
+              k
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{a=1}^{f}\chi (a){\frac {te^{at}}{e^{ft}-1}}=\sum _{k=0}^{\infty }B_{k,\chi }{\frac {t^{k}}{k!}}.}
+  
+
+Apart from the exceptional B1,1 = ⁠1/2⁠, we have, for any Dirichlet character χ, that Bk,χ = 0 if χ(−1) ≠ (−1)k.
+Generalizing the relation between Bernoulli numbers and values of the Riemann zeta function at non-positive integers, one has the for all integers k ≥ 1:
+
+  
+    
+      
+        L
+        (
+        1
+        −
+        k
+        ,
+        χ
+        )
+        =
+        −
+        
+          
+            
+              B
+              
+                k
+                ,
+                χ
+              
+            
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle L(1-k,\chi )=-{\frac {B_{k,\chi }}{k}},}
+  
+
+where L(s,χ) is the Dirichlet L-function of χ.
+
+Eisenstein–Kronecker number
+Eisenstein–Kronecker numbers are an analogue of the generalized Bernoulli numbers for imaginary quadratic fields. They are related to critical L-values of Hecke characters.
+
+Appendix
+Assorted identities
+See also
+Notes
+References
+Bibliography
+Abramowitz, M.; Stegun, I. A. (1972), "§23.1: Bernoulli and Euler Polynomials and the Euler-Maclaurin Formula", Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables (9th printing ed.), New York: Dover Publications, pp. 804–806.
+Arfken, George (1970), Mathematical methods for physicists (2nd ed.), Academic Press, ISBN 978-0120598519
+Arlettaz, D. (1998), "Die Bernoulli-Zahlen: eine Beziehung zwischen Topologie und Gruppentheorie", Math. Semesterber, 45: 61–75, doi:10.1007/s005910050037, S2CID 121753654.
+Ayoub, A. (1981), "Euler and the Zeta Function", Amer. Math. Monthly, 74 (2): 1067–1086, doi:10.2307/2319041, JSTOR 2319041.
+Conway, John; Guy, Richard (1996), The Book of Numbers, Springer-Verlag.
+Dilcher, K.; Skula, L.; Slavutskii, I. Sh. (1991), "Bernoulli numbers. Bibliography (1713–1990)", Queen's Papers in Pure and Applied Mathematics (87), Kingston, Ontario.
+Dumont, D.; Viennot, G. (1980), "A combinatorial interpretation of Seidel generation of Genocchi numbers", Ann. Discrete Math., Annals of Discrete Mathematics, 6: 77–87, doi:10.1016/S0167-5060(08)70696-4, ISBN 978-0-444-86048-4.
+Entringer, R. C. (1966), "A combinatorial interpretation of the Euler and Bernoulli numbers", Nieuw. Arch. V. Wiskunde, 14: 241–6.
+Fee, G.; Plouffe, S. (2007), "An efficient algorithm for the computation of Bernoulli numbers", arXiv:math/0702300.
+Graham, R.; Knuth, D. E.; Patashnik, O. (1989), Concrete Mathematics (2nd ed.), Addison-Wesley, ISBN 0-201-55802-5
+Ireland, Kenneth; Rosen, Michael (1990), A Classical Introduction to Modern Number Theory (2nd ed.), Springer-Verlag, ISBN 0-387-97329-X
+Jordan, Charles (1950), Calculus of Finite Differences, New York: Chelsea Publ. Co..
+Kaneko, M. (2000), "The Akiyama-Tanigawa algorithm for Bernoulli numbers", Journal of Integer Sequences, 12: 29, Bibcode:2000JIntS...3...29K.
+Knuth, D. E. (1993), "Johann Faulhaber and the Sums of Powers", Mathematics of Computation, 61 (203), American Mathematical Society: 277–294, arXiv:math/9207222, doi:10.2307/2152953, JSTOR 2152953
+Luschny, Peter (2007), An inclusion of the Bernoulli numbers.
+Luschny, Peter (8 October 2011), "TheLostBernoulliNumbers", OeisWiki, retrieved 11 May 2019.
+The Mathematics Genealogy Project, Fargo: Department of Mathematics, North Dakota State University, n.d., archived from the original on 10 May 2019, retrieved 11 May 2019.
+Miller, Jeff (23 June 2017), "Earliest Uses of Symbols of Calculus", Earliest Uses of Various Mathematical Symbols, retrieved 11 May 2019.
+Milnor, John W.; Stasheff, James D. (1974), "Appendix B: Bernoulli Numbers", Characteristic Classes, Annals of Mathematics Studies, vol. 76, Princeton University Press and University of Tokyo Press, pp. 281–287.
+Pietrocola, Giorgio (October 31, 2008), "Esplorando un antico sentiero: teoremi sulla somma di potenze di interi successivi (Corollario 2b)", Maecla (in Italian), retrieved April 8, 2017.
+Slavutskii, Ilya Sh. (1995), "Staudt and arithmetical properties of Bernoulli numbers", Historia Scientiarum, 2: 69–74.
+von Staudt, K. G. Ch. (1845), "De numeris Bernoullianis, commentationem alteram", Erlangen.
+Sun, Zhi-Wei (2005–2006), Some curious results on Bernoulli and Euler polynomials, archived from the original on 2001-10-31.
+Woon, S. C. (1998), "Generalization of a relation between the Riemann zeta function and Bernoulli numbers", arXiv:math.NT/9812143.
+Worpitzky, J. (1883), "Studien über die Bernoullischen und Eulerschen Zahlen", Journal für die reine und angewandte Mathematik, 94: 203–232.
+
+External links
+"Bernoulli numbers", Encyclopedia of Mathematics, EMS Press, 2001 1994
+The first 498 Bernoulli Numbers from Project Gutenberg
+A multimodular algorithm for computing Bernoulli numbers
+The Bernoulli Number Page
+Bernoulli number programs at LiteratePrograms
+P. Luschny, The Computation of Irregular Primes
+P. Luschny, The Computation And Asymptotics Of Bernoulli Numbers
+Gottfried Helms, Bernoullinumbers in context of Pascal-(Binomial)matrix (PDF), archived (PDF) from the original on 2022-10-09
+Gottfried Helms, summing of like powers in context with Pascal-/Bernoulli-matrix (PDF), archived (PDF) from the original on 2022-10-09
+Gottfried Helms, Some special properties, sums of Bernoulli-and related numbers (PDF), archived (PDF) from the original on 2022-10-09

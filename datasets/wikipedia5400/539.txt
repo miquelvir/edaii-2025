@@ -1,0 +1,25 @@
+539
+Alxasaurus
+Alxasaurus (; meaning "Alxa lizard") is a genus of therizinosauroid theropod dinosaurs from the Early Cretaceous (Albian age) Bayin-Gobi Formation of Inner Mongolia.
+
+History of discovery
+The fossil remains were first discovered in 1988 and described by the Canadian paleontologist Dale Russell and his Chinese colleague Dong Zhiming in 1993 or 1994. Although the paper is technically included in the last issue of the 1993 volume of the Canadian Journal of Earth Sciences, this issue was not actually released until February or March 1994.
+
+ 
+Alxasaurus is named after the Alxa Desert of Inner Mongolia, also known as the "Alashan" desert, and the name also includes the Greek word sauros ("lizard"). Alxa (or Alashan) is also the name of the league, or administrative division, of the Inner Mongolia (Nei Mongol Zizhiqu) region of the People's Republic of China. The single known species, elesitaiensis, is named after Elesitai, a village found in this region, near which the fossil remains of Alxasaurus were located.
+Five Alxasaurus specimens were recovered from the Bayin-Gobi Formation of Inner Mongolia, which dates to the Albian stage of the Early Cretaceous Period, or about 113 million to 100.5 million years ago. The holotype specimen, IVPP 88402 (large individual), which is considered to exemplify the genus and species, is the largest and most complete of the five, consisting of the right dentary (lower jaw) with some teeth, 5 cervical vertebrae, 28 caudal vertebrae, 5 sacral vertebrae, 9 ribs, 15 chevrons, an isolated scapula, both coracoids, both humeri, isolated radius, both ulnae, a virtually complete manus, both ilia, both ischia and both femora. The other four specimens are the paratypes IVPP 88301, IVPP 88402 (small individual), IVPP 88501 (immature individual) and IVPP 88510. Together the specimens represent most of the species hypodigm aside from the skull.
+
+Description
+Several specimens are known and they vary in size, but Gregory S. Paul estimated its maximum adult length up to 4 m (13 ft) and mass up to 400 kg (880 lb). Alxasaurus is among the earliest known members of the Therizinosauroidea, but it already possessed the body shape—including the long neck, short tail, and relatively large claws—of later therizinosauroids. Like other members of this group, it was a bipedal herbivore with a large gut to process plant material.
+
+Classification
+While exhibiting many typical therizinosaur features in overall body shape and in the teeth, the skeleton of Alxasaurus also shows several features present in more typical theropods, and the discovery of this animal provided significant evidence that therizinosaurs were aberrant theropods. Specifically, the semilunate carpal bone of the wrist is found only in maniraptoran theropods, which also include oviraptorosaurs, dromaeosaurs, troodontids, and birds. Even more basal therizinosaurs such as the feathered Beipiaosaurus and primitive Falcarius have since been discovered with more theropod features and have helped to solidify this arrangement. Alxasaurus is now thought to occupy a position between the early Beipiaosaurus and later therizinosaurids such as Erlikosaurus, Segnosaurus, or Therizinosaurus.
+
+Although Rusell and Dong coined the Alxasauridae to contain Alxasaurus, the family has not been widely corroborated in most analyses. In 2010, Lindsay E. Zanno noted that, while technically still valid, the group currently consists of only a single species and is thus of dubious utility.
+The following cladogram is based on the phylogenetic analysis conducted by Hartman et al., 2019:
+
+See also
+Timeline of therizinosaur research
+
+
+== References ==

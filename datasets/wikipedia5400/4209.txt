@@ -1,0 +1,138 @@
+4209
+Agglutination
+In linguistics, agglutination is a morphological process in which words are formed by stringing together morphemes, each of which corresponds to a single syntactic feature. Languages that use agglutination widely are called agglutinative languages. For example, in the agglutinative language of Turkish, the word evlerinizden ("from your houses") consists of the morphemes ev-ler-i-n-iz-den. Agglutinative languages are often contrasted with isolating languages, in which words are monomorphemic, and fusional languages, in which words can be complex, but morphemes may correspond to multiple features.
+
+Examples of agglutinative languages
+Although agglutination is characteristic of certain language families, this does not mean that when several languages in a certain geographic area are all agglutinative they are necessarily related phylogenetically. In the past, this assumption led linguists to propose the so-called Ural–Altaic language family, which included the Uralic and Turkic languages, as well as Mongolian, Korean, and Japanese. Contemporary linguistics views this proposal as controversial, and some of whom refer to this as a language convergence instead.
+Another consideration when evaluating the above proposal is that some languages, which developed from agglutinative proto-languages, lost their agglutinative features. For example, contemporary Estonian has shifted towards the fusional type. (It has also lost other features typical of the Uralic families, such as vowel harmony.)
+
+Eurasia and Oceania
+Examples of agglutinative languages include the Uralic languages, such as Finnish, Estonian, and Hungarian. These have highly agglutinated expressions in daily usage, and most words are bisyllabic or longer. Grammatical information expressed by adpositions in Western Indo-European languages is typically found in suffixes.
+Hungarian uses extensive agglutination in almost every part of it. The suffixes follow each other in special order based on the role of the suffix, and many can be heaped, one upon the other, resulting in words conveying complex meanings in compacted forms. An example is fiaiéi, where the root "fi(ú)-" means "son", the subsequent four vowels are all separate suffixes, and the whole word means "plural properties belong to his/her sons". The nested possessive structure and expression of plurals are quite remarkable (note that Hungarian uses no genders).
+Persian has some features of agglutination, making use of prefixes and suffixes attached to the stems of verbs and nouns, thus making it a synthetic language rather than an analytic one. Persian is an SOV language, thus having a head-final phrase structure. Persian utilizes a noun root + plural suffix + case suffix + postposition suffix syntax similar to Turkish. For example, the phrase "mashinashuno nega mikardam" meaning 'I was looking at their cars' lit. '(at their cars) (look) (I was doing)'. 
+Breaking down the first word:
+
+mashin(car)+a(plural suffix)+shun(possessive suffix)+o(post-positional suffix) 
+
+We can see its agglutinative nature and the fact that Persian is able to affix a given number of dependent morphemes to a root morpheme (in this example, car).
+Almost all [Austronesian languages](2925), such as Malay, and most Philippine languages, also belong to this category, thus enabling them to form new words from simple base forms. The Indonesian and Malay word mempertanggungjawabkan is formed by adding active-voice, causative and benefactive affixes to the compound verb tanggung jawab, which means "to account for". In Tagalog (and its standardised register, Filipino), nakakapágpabagabag ("that which is upsetting/disturbing") is formed from the root bagabag ("upsetting" or "disquieting").
+In East Asia, Korean is an agglutinating language. Its uses of '조사', '접사', and '어미' makes Korean agglutinate. They represent tense, time, number, causality, and honorific forms.
+Japanese is also an agglutinating language, like Korean, adding information such as negation, passive voice, past tense, honorific degree and causality in the verb form. Common examples would be hatarakaseraretara (働かせられたら), which combines causative, passive or potential, and conditional conjugations to arrive at two meanings depending on context "if (subject) had been made to work..." and "if (subject) could make (object) work", and tabetakunakatta (食べたくなかった), which combines desire, negation, and past tense conjugations to mean "I/he/she/they did not want to eat".
+
+taberu ("(subject) will eat (it)")
+tabetai ("(subject) wants to eat (it)")
+tabetakunai ("(subject) doesn't want to eat (it)")
+tabetakunakatta ("(subject) didn't want to eat (it)")
+Turkish, along with all other Turkic languages, is another agglutinating language: as an extreme example, the expression Muvaffakiyetsizleştiriveremeyebileceklerimizdenmişsinizcesine is pronounced as one word in Turkish, but it can be translated into English as "as if you were of those we would not be able to turn into a maker of unsuccessful ones". The "-siniz" refers to plural form of you with "-sin" being the singular form, the same way "-im" being "I" ("-im" means "my" not "I". The original editor must have mistaken it for "-yim". This second suffix is used as such "Oraya gideyim" meaning "May I go there" or "When I get there") and "-imiz" making it become "we". Similarly, this suffix means "our" and not "we".
+Tamil is agglutinative. For example, in Tamil, the word "அதைப்பண்ணமுடியாதவர்களுக்காக" (ataippaṇṇamuṭiyātavarkaḷukkāka) means "for the sake of those who cannot do that", literally "that to do impossible he plural marker dative marker to become". Another example is verb conjugation. In all Dravidian languages, verbal markers are used to convey tense, person, and mood. For example, in Tamil, "சாப்பிடுகிறேன்" (cāppiṭukiṟēṉ, "I eat") is formed from the verb root சாப்பிடு- (cāppiṭu-, "to eat") + the present tense marker -கிற்- (-kiṟ-) + the first-person singular suffix -ஏன் (-ēṉ).
+Agglutination is also a notable feature of Basque. The conjugation of verbs, for example, is done by adding different prefixes or suffixes to the root of the verb: dakartzat, which means "I bring them", is formed by da (indicates present tense), kar (root of the verb ekarri → bring), tza (indicates plural) and t (indicates subject, in this case, "I"). Another example would be the declension: Etxean = "In the house" where etxe = house.
+
+Americas
+Agglutination is used very heavily in most Native American languages, such as the Inuit languages, Nahuatl, Mapudungun, Quechua, Tz'utujil, Kaqchikel, Cha'palaachi and Kʼicheʼ, where one word can contain enough morphemes to convey the meaning of what would be a complex sentence in other languages. Conversely, Navajo contains affixes for some uses, but overlays them in such unpredictable and inseparable ways that it is often referred to as a fusional language.
+
+Slots
+As noted above, it is a typical feature of agglutinative languages that there is a one-to-one correspondence between suffixes and syntactic categories. For example, a noun may have separate markers for number, case, possessive or conjunctive usage etc. The order of these affixes is fixed; so we may view any given noun or verb as a stem followed by several inflectional and derivational "slots", i.e. positions in which particular suffixes may occur, and/or preceded by several "slots" for prefixes. It is often the case that the most common instance of a given grammatical category is unmarked, i.e. the corresponding affix is empty.
+The number of slots for a given part of speech can be surprisingly high. For example, a finite Korean verb has seven slots (the inner round brackets indicate parts of morphemes which may be omitted in some phonological environments):
+
+honorific:                        -(eu)si ((으)시) is used when the speaker is honouring the subject of the sentence
+tense:                            -(eo)ss (었) for completed (past) action or state; when this slot is empty, the tense is interpreted as present (The 'ss' is pronounced as 't' if it is placed behind a consonant. For example, -었어(eoss-eo) is pronounced as (eosseo), but -었다(eoss-ta) is pronounced as (eotta). Please note that the same rule applies to all instances of the 'ss' ending.)
+experiential-contrastive aspect:  -(eo)ss (었) doubling the past tense marker means "the subject has had the experience described by the verb"
+modal:                            -gess (겠) is used with first-person-subjects only for definite future and with second-or-third-person-subjects also for probable present or past
+formal:                           -(eu)pni ((으)ㅂ니) expresses politeness to the hearer
+retrospective aspect:             -deo; (더) indicates that the speaker recollects what he observed in the past and reports in the present situation
+mood:                             -da (다) for declarative, -kka (까) for interrogative, -ra/-la (라) for imperative, -ja (자) for propositive, -yo (요) for polite declarative and a large number of other possible mood markers
+Moreover, passive and causative verbal forms can be derived by adding suffixes to the base, which could be seen as the null-th slot.
+Even though some combinations of suffixes are not possible (e.g. only one of the aspect slots may be filled with a non-empty suffix), over 400 verb forms may be formed from a single base. Here are a few examples formed from the word root ga 'to go'; the numbers indicate which slots contain non-empty suffixes:
+
+7 (imperative mood marker): imperative suffix -ra (라) combines with the root ga- (가) to express imperative:
+ga-ra (가라) 'Go!'
+7 (propositive mood marker): if we want to express proposition rather than command, the propositive mood marker is used: -ja (자) instead of -ra (라):
+ga-ja (가자) 'Let's go!'
+5 and 7: If the speaker wants to show respect for the hearer, he uses the politeness marker -(eu)pni ((으)ㅂ니) (in slot 5); various mood markers may be simultaneously used (in slot 7, therefore after the politeness marker):
+gap-ni-da (갑니다) 'He is going.'
+gap-ni-kka? (갑니까) 'Is he going?'
+6: retrospective aspect:
+Jon-i jib-e ga-deo-ra (존이 집에 가더라) 'I observed that John was going home and now I am reporting that to you.'
+7: simple indicative:
+seon-saeng-nim-i jib-e gan-da (선생님이 집에 간다) 'The teacher is going home. (not expressing respect or politeness)'
+5 and 7: politeness towards the hearer:
+seon-saeng-nim-i jib-e gap-ni-da (선생님이 집에 갑니다) or seon-saeng-nim-i jib-e ga-yo (선생님이 집에 가요) 'The teacher is going home.',
+1 and 7: respect towards the subject:
+seon-saeng-nim-i jib-e ga-sin-da (선생님이 집에 가신다) 'The (respected) teacher is going home.'
+1, 5 and 7: two kinds of politeness in one sentence:
+seon-saeng-nim-i jib-e ga-syeo-yo (선생님이 집에 가셔요) or seon-saeng-nim-i jib-e ga-sip-ni-da (선생님이 집에 가십니다) 'The teacher is going home. (expressing respect both to the hearer and the teacher)'
+2, 3 and 7: past forms:
+Jon-i hak-gyo-e ga-ss-da/gat-ta (존이 학교에 갔다) 'John has gone to school (and is there now).'
+Jon-i hak-gyo-e gass-eoss-da/gass-eot-ta (존이 학교에 갔었다) 'John has been to school (and has come back).'
+4 and 7: first person modal:
+nae-ga nae-il ga-gess-da/ga-get-ta (내가 내일 가겠다) 'I will go tomorrow.'
+4 and 7: third person modal:
+Jon-i nae-il ga-gess-da/ga-get-ta (존이 내일 가겠다) 'I suppose that John will go tomorrow.'
+Jon-i eo-je gass-gess-da/gat-get-ta (존이 어제 갔겠다) 'I suppose that John left yesterday.'
+
+Suffixing or prefixing
+Although most agglutinative languages in Europe and Asia are predominantly suffixing, the Bantu languages of eastern and southern Africa are known for a highly complex mixture of prefixes, suffixes and reduplication. A typical feature of this language family is that nouns fall into noun classes. For each noun class, there are specific singular and plural prefixes, which also serve as markers of agreement between the subject and the verb. Moreover, the noun determines prefixes of all words that modify it and subject determines prefixes of other elements in the same verb phrase.
+For example, the Swahili nouns -toto ("child") and -tu ("person") fall into class 1, with singular prefix m- and plural prefix wa-. The noun -tabu ("book") falls into class 7, with singular prefix ki- and plural prefix vi-. The following sentences may be formed:
+
+In the context of quantitative linguistics
+The American linguist Joseph Harold Greenberg in his 1960 paper proposed to use the so-called agglutinative index to calculate a numerical value that would allow a researcher to compare the "degree of agglutitativeness" of various languages. For Greenberg, agglutination means that the morphs are joined only with slight or no modification. A morpheme is said to be automatic if it either takes a single surface form (morph), or if its surface form is determined by phonological rules that hold in all similar instances in that language. A morph juncture – a position in a word where two morphs meet – is considered agglutinative when both morphemes included are automatic. The index of agglutination is equal to the average ratio of the number of agglutinative junctures to the number of morph junctures. Languages with high values of the agglutinative index are agglutinative and with low values of the agglutinative index are fusional.
+In the same paper, Greenberg proposed several other indices, many of which turn out to be relevant to the study of agglutination. The synthetic index is the average number of morphemes per word, with the lowest conceivable value equal to 1 for isolating (analytic) languages and real-life values rarely exceeding 3. The compounding index is equal to the average number of root morphemes per word (as opposed to derivational and inflectional morphemes). The derivational, inflectional, prefixial and suffixial indices correspond respectively to the average number of derivational and inflectional morphemes, prefixes and suffixes.
+Here is a table of sample values:
+
+Phonetics and agglutination
+The one-to-one relationship between an affix and its grammatical function may be somewhat complicated by the phonological processes active in the given language. For example, the following two phonological phenomena appear in many of the Uralic and Turkic languages:
+
+consonant gradation, meaning that there is alternation between certain pairs of consonant clusters such that one member of the pair appears at the beginning of an open syllable and the other at the beginning of a closed syllable; (in Uralic languages)
+consonant devoicing assimilation: similar but different process from above, assimilating devoicing of a stem-final unvoiced consonant; (in some Turkic languages)
+vowel harmony, meaning that only specific subclasses of vowels coexist in a non-compounded word.
+Several examples from Finnish will illustrate how these two rules and other phonological processes lead to diversions from the basic one-to-one relationship between morphs and their syntactic and semantic function. No phonological rule is applied in the declension of talo 'house'. However, the second example illustrates several kinds of phonological phenomena.
+
+Extremes
+It is possible to construct artificially extreme examples of agglutination, which have no real use, but illustrate the theoretical capability of the grammar to agglutinate. This is not a question of "long words", because some languages permit limitless combinations with compound words, negative clitics or such, which can be (and are) expressed with an analytic structure in actual usage.
+English is capable of agglutinating morphemes of solely native (Germanic) origin, as un-whole-some-ness, but generally speaking the longest words are assembled from forms of Latin or [Ancient Greek](3061) origin. The classic example is antidisestablishmentarianism. Agglutinative languages often have more complex derivational agglutination than isolating languages, so they can do the same to a much larger extent. For example, in Hungarian, a word such as elnemzetietleníthetetlenségnek, which means "for the purposes of undenationalizationability" can find actual use. In the same way, there are the words that have meaning, but probably are never used such as legeslegmegszentségteleníttethetetlenebbjeitekként, which means "like the most of most undesecratable ones of you", but is hard to decipher even for native speakers. Using inflectional agglutination, these can be extended. For example, the official Guinness world record is Finnish epäjärjestelmällistyttämättömyydellänsäkäänköhän "I wonder if – even with his/her quality of not having been made unsystematized". It has the derived word epäjärjestelmällistyttämättömyys as the root and is lengthened with the inflectional endings -llänsäkäänköhän. However, this word is grammatically unusual, because -kään "also" is used only in negative clauses, but -kö (question) only in question clauses.
+A very popular Turkish agglutination is Çekoslovakyalılaştıramadıklarımızdanmışsınız, meaning "(Apparently / I've heard that) You are one of those that we were not able to convert into Czechoslovakians". This historical reference is used as a joke for the individuals who are hard to change or those who stick out in a group.
+On the other hand, Afyonkarahisarlılaştırabildiklerimizdenmişsinizcesine is a longer word that does not surprise people and means "As if you were one of those we were able to make resemble people from Afyonkarahisar". A recent addition to the claims has come with the introduction of the following word in Turkish muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine, which means something like "(you are talking) as if you are one of those that we were unable to turn into a maker of unsuccessful people" (someone who un-educates people to make them unsuccessful).
+Georgian is also a highly agglutinative language. For example, the word gadmosakontrrevolucieleblebisnairebisatvisaco (გადმოსაკონტრრევოლუციელებლებისნაირებისათვისაცო) would mean "(someone not specified) said that it is also for those who are like the ones who need to be to again/back counter-revolutionized".
+Aristophanes' comedy Assemblywomen includes the Greek word λοπαδο­τεμαχο­σελαχο­γαλεο­κρανιο­λειψανο­δριμ­υπο­τριμματο­σιλφιο­καραβο­μελιτο­κατακεχυ­μενο­κιχλ­επι­κοσσυφο­φαττο­περιστερ­αλεκτρυον­οπτο­κεφαλλιο­κιγκλο­πελειο­λαγῳο­σιραιο­βαφη­τραγανο­πτερύγων, a fictional dish named with a word that enumerates its ingredients. It was created to ridicule a trend for long compounds in Attic Greek at the time.
+Slavic languages are not considered agglutinative but fusional. However, extreme derivations similar to ones found in typical agglutinative languages do exist. A famous example is the Bulgarian word непротивоконституциослователствувайте, meaning don't speak against the constitution and secondarily don't act against the constitution. It is composed of just three roots: против against, конституция constitution, a loan word and therefore devoid of its internal composition and слово word. The remaining are bound morphemes for negation (не, a proclitic, otherwise written separately in verbs), noun intensifier (-ателств), noun-to-verb conversion (-ува), imperative mood second person plural ending (-йте). It is rather unusual, but finds some usage, e.g. newspaper headlines on 13 July 1991, the day after the current Bulgarian constitution was adopted with much controversy and debate, and even scandals.
+
+Other uses of the words agglutination and agglutinative
+The words agglutination and agglutinative come from the Latin word agglutinare, 'to glue together'. In linguistics, these words have been in use since 1836, when Wilhelm von Humboldt's posthumously published work Über die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluß auf die geistige Entwicklung des Menschengeschlechts lit.: On the differences of human language construction and its influence on the mental development of mankind introduced the division of languages into isolating, inflectional, agglutinative and incorporating.
+Especially in some older literature, agglutinative is sometimes used as a synonym for synthetic. In that case, it embraces what we call agglutinative and inflectional languages, and it is an antonym of analytic or isolating. Besides the clear etymological motivation (after all, inflectional endings are also "glued" to the stems), this more general usage is justified by the fact that the distinction between agglutinative and inflectional languages is not a sharp one, as we have already seen.
+In the second half of the 19th century, many linguists believed that there is a natural cycle of language evolution: function words of the isolating type are glued to their head-words, so that the language becomes agglutinative; later morphs become merged through phonological processes, and what comes out is an inflectional language; finally inflectional endings are often dropped in quick speech, inflection is omitted and the language goes back to the isolating type.
+The following passage from Lord (1960) demonstrates well the whole range of meanings that the word agglutination may have.
+
+(Agglutination...) consists of the welding together of two or more terms constantly occurring as a syntagmatic group into a single unit, which becomes either difficult or impossible to analyse thereafter.
+Agglutination takes various forms. In French, welding becomes complete fusion. Latin hanc horam 'at this hour' is the French adverbial unit encore. Old French tous jours becomes toujours, and dès jà ('since now') déjà ('already'). In English, on the other hand, apart from rare combinations such as good-bye from God be with you, walnut from Wales nut, window from wind-eye (O.N. vindauga), the units making up the agglutinated forms retain their identity. Words like blackbird and beefeater are a different kettle of fish; they retain their units but their ultimate meaning is not fully deducible from these units. (...)
+
+Saussure preferred to distinguish between compound words and truly synthesised or agglutinated combinations.
+
+Agglutinative languages in natural language processing
+In natural language processing, languages with rich morphology pose problems of quite a different kind than isolating languages. In the case of agglutinative languages, the main obstacle lies in the large number of word forms that can be obtained from a single root. As we have already seen, the generation of these word forms is somewhat complicated by the phonological processes of the particular language. Although the basic one-to-one relationship between form and syntactic function is not broken in Finnish, the authoritative institution Institute for the Languages of Finland (Kotus) lists 51 declension types for Finnish nouns, adjectives, pronouns, and numerals.
+Even more problems occur with the recognition of word forms. Modern linguistic methods are largely based on the exploitation of corpora; however, when the number of possible word forms is large, any corpus will necessarily contain only a small fraction of them. Hajič (2010) claims that computer space and power are so cheap nowadays that all possible word forms may be generated beforehand and stored in a form of a lexicon listing all possible interpretations of any given word form. (The data structure of the lexicon has to be optimized so that the search is quick and efficient.) According to Hajič, it is the disambiguation of these word forms which is difficult (more so for inflective languages where the ambiguity is high than for agglutinative languages).
+Other authors do not share Hajič's view that space is no issue and instead of listing all possible word forms in a lexicon, word form analysis is implemented by modules which try to break up the surface form into a sequence of morphemes occurring in an order permissible by the language. The problem of such an analysis is the large number of morpheme boundaries typical for agglutinative languages. A word of an inflectional language has only one ending and therefore the number of possible divisions of a word into the base and the ending is only linear with the length of the word. In an agglutinative language, where several suffixes are concatenated at the end of the word, the number of different divisions which have to be checked for consistency is large. This approach was used for example in the development of a system for Arabic, where agglutination occurs when articles, prepositions
+and conjunctions are joined with the following word and pronouns are joined with the preceding word. See Grefenstette et al. (2005) for more details.
+
+See also
+Affix
+Agglutinative language
+Noun adjunct
+Word formation
+
+Notes
+References
+Bibliography
+Kimmo Koskenniemi & Lingsoft Oy: Finnish Morphological Analyser, Lingsoft Language Solutions, 1995–2011.
+Bernard Comrie (editor): The World's Major Languages, Oxford University Press, New York – Oxford 1990.
+Keith Denning, Suzanne Kemmer (ed.): On language: selected writings of Joseph H. Greenberg, Stanford University Press, 1990. Selected parts are available on googlebooks.
+Victoria Fromkin, Robert Rodman, Nina Hyams: An Introduction to Language, Thompson Wadsworth, 2007.
+Joseph H. Greenberg: A quantitative approach to the morphological typology of language, 1960. Available through JSTOR and in Denning et al. (1990), p. 3–25. There is also a good a short summary.
+Gregory Grefenstette, Nasredine Semmar, Faïza Elkateb-Gara: Modifying a Natural Language Processing System for European Languages to Treat Arabic in Information Processing and Information Retrieval Applications, Computational Approaches to Semitic Languages – Workshop Proceedings, University of Michigan 2005, p. 31-38. Available at 1.
+Jan Hajič: Reliving the history: the beginnings of statistical machine translation and languages with rich morphology, IceTAL'10 Proceedings of the 7th international conference on Advances in natural language processing, Springer-Verlag Berlin, Heidelberg, 2010. Abstract available at 2.
+Helena Lehečková: Úvod do ugrofinistiky, Státní pedagogické nakladatelství, Praha 1983.
+Robert Lord: Teach Yourself Comparative Linguistics, The English Universities Press Ltd., St Paul's House, London 1967 (first edition 1966).
+Hans Christian Luschützky: Uvedení do typologie jazyků, Filozofická fakulta Univerzity Karlovy, Praha 2003.
+J. Vendryes: Language – A Linguistic Introduction to History, Kegan Paul, Trench, Trubner Co., Ltd., London 1925 (translated by Paul Radin)
+
+External links
+Mwana Simba, a web-page about Swahili grammar.

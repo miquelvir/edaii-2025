@@ -1,0 +1,67 @@
+4261
+Balearic Catalan
+Balearic (Catalan: balear bəleˈa) is the collective name for the dialects of Catalan spoken in the [Balearic Islands](2515): mallorquí in Mallorca, eivissenc in Ibiza and menorquí in Menorca.
+At the 2011 census, 861,232 respondents in the [Balearic Islands](2515) claimed to be able to understand either Balearic or mainland Catalan, compared to 111,912 respondents who could not; proportions were similar on each of the islands.
+
+Dialects
+The dialects spoken in the [Balearic Islands](2515) are mallorquí, spoken on Mallorca, menorquí on Menorca and eivissenc on Ibiza and Formentera.
+
+Features
+Distinctive features of Catalan in the [Balearic Islands](2515) differ according to the specific variant being spoken (Mallorcan, Menorcan, or Ibizan).
+
+Phonology
+Vowels
+
+Notes:
+Most variants preserve a vocalic system of eight stressed vowels; /a/, /ə/, /ɛ/, /e/, /i/, /ɔ/, /o/, /u/:
+The Majorcan system has eight stressed vowels /a, ə, ɛ, e, i, ɔ, o, u/, reduced to four /ə, i, o, u/ in unstressed position.
+The Western Minorcan system has eight stressed vowels /a, ə, ɛ, e, i, ɔ, o, u/, reduced to three /ə, i, u/ in unstressed position.
+The Eastern Minorcan and partly the Ibizan system have seven stressed vowels /a, ɛ, e, i, ɔ, o, u/ reduced to three /ə, i, u/ in unstressed position (as in Central Catalan). There are differences between the dialect spoken in Ibiza Town (eivissenc de vila) and those of the rest of the island (eivissenc pagès) and Formentera (formenterer).
+The vowel /a/ is central ä in Ibizan (as most Catalan dialects), while it is front a in Majorcan and Minorcan. The variant æ is found in Felanitx.
+The so-called "open vowels" (vocals obertes), /ɛ/ and /ɔ/, are generally as low as /a/ in most Balearic subvarieties. The phonetic realizations of /ɛ/ approaches æ (as in American English lad) and /ɔ/ is as open as ɒ (as in traditional RP dog) (feature shared with Valencian). In many Majorcan dialects /ɔ/ can be unrounded to ɑ.
+In most of parts of Majorca, words with ante-penultimate stress ending in -ia lose the ⟨a⟩ ə; e.g. glòria ('glory') is pronounced as glòri ˈɡlɔɾi.
+Consonants
+
+Notes:
+In Majorcan and some Minorcan subvarieties /k/ and /ɡ/ become palatal, c and ɟ, before non-back vowels and word-finally; e.g. guerra ˈɟɛrə ('war'), casa ˈcazə ('house').
+A phonemic distinction between /v/ and /b/ is preserved, as in Algherese and Standard Valencian, e.g. viu ˈviw.
+As Central Catalan /l/ is velarised, ɫ, in all instances; e.g. tela ˈtɛɫə ('fabric'). However the velarised /l/ (also known as dark l) is not used in the transcriptions of any Catalan variety.
+The palatal lateral approximant /ʎ/ is preserved as a distinct phoneme, with absence of ieisme except for the most Castilianised speakers. However, most Majorcan speakers use j rather than /ʎ/ in words that in Latin had /l/ + yod (-li-, -le-), -cvl-, or -tvl-; e.g. palla ˈpajə 'straw', from Latin palea. This is known as iodització. Note that this phenomenon is more restricted than yeísmo, as /ʎ/ is always used initially e.g. lluna ˈʎunə ('moon'), as well as intervocalically in words that had -ll- in Latin.
+Depalatalization of syllable-final /ɲs/ and /ŋks/ with compensatory diphthongization in Majorcan: anys ˈajns ('years'), troncs ˈtɾojns ('logs').
+Most Balearic variants preserve final stops in clusters; e.g. mp, nt, ŋk, and lt: camp ˈkamp 'field' (feature shared with Modern Valencian).
+Balearic variants of Catalan have the strongest tendency not to pronounce historical final ⟨r⟩ in any context; e.g. amor əˈmo 'love', cor ˈkɔ 'heart'.
+Assimilation of intervocalic clusters in some Majorcan and Minorcan subvarieties:
+
+(Notice some of these assimilations may also occur in continental Catalan: capmoix /ˌkapˈmoʃ/ → ˌkabˈmoʃ ~ ˌkamˈmoʃ 'crestfallen').
+Other assimilations (amongst many) include:
+/fɡ/ → ɡː (e.g. afgans 'afghani')
+/ɾl/ → lː (e.g. Carles 'Carl')
+Prosody
+Except in Ibiza, in combinations of verb and weak pronoun (clitics), the accent moves to the final element; e.g. comprar-ne komˌpɾaˈnə or kumˌpɾaˈnə (Standard Central Catalan kumˈpɾar.nə).
+
+Morphology and syntax
+Balearic preserves the salat definite article (derived from Latin ipse/ipsa instead of ille/illa), a feature shared only with Sardinian among extant Romance languages, but which was more common in other Catalan and Gascon areas in ancient times. However, the salat definite article is also preserved along the Costa Brava ([Catalonia](2549)) and in the Valencian municipalities of Tàrbena and La Vall de Gallinera.
+The personal article en/na, n' is used before personal names.
+The first person singular present indicative has a zero exponent, i.e. no visible ending. For example, what in Central Catalan would be jo parlo ('I speak') is realised as jo parl.
+In verbs of the first conjugation (in -ar), the first and second person plural forms end in -am and -au respectively. For example, cantam ('we sing'), cantau ('you pl. sing').
+Also in verbs of the first conjugation, the imperfect subjunctive is formed with -a-, e.g. cantàs, cantassis. However, the Standard Catalan forms in ⟨e⟩ are nowadays also common in many places.
+In combinations of two unstressed pronouns preceding a verb, one direct with the form el, la, etc. and the other indirect with the form me, te, etc., the direct pronoun appears first. For example, la me dóna ('s/he gives it to me'), Standard Catalan me la dóna.
+
+Lexicon
+Balearic has a large quantity of characteristic vocabulary, especially archaisms preserved by the isolation of the islands and the variety of linguistic influences which surround them. The lexicon differs considerably depending on the subdialect. For example: al·lot for standard "noi" ('boy'), moix for "gat" ('cat'), besada for "petó" ('kiss'), ca for "gos" ('dog'), doblers for "diners" ('money'), horabaixa for "vesprada" ('evening') and rata-pinyada for "rat-penat" ('bat').
+Minorcan has a few English loanwords dating back to the British occupation, such as grevi ('gravy'), xumaquer ('shoemaker'), boínder ('bow window'), xoc ('chalk') or ull blec ('black eye').
+
+Political questions
+Some in the [Balearic Islands](2515), such as the Partido Popular party member and former Balearic president José Ramón Bauzà, argue that the dialects of [Balearic Islands](2515) are actually separate languages and not dialects of Catalan. During the election of 2011, Bauzà  campaigned against having centralized or standardized standards of Catalan in public education.
+
+See also
+[Catalan language](4201)
+Catalan dialects and varieties
+Alguerese
+Central Catalan
+Northern Catalan
+Valencian
+
+References
+Bibliography
+Carbonell, Joan F.; Llisterri, Joaquim (1992), "Catalan" (PDF), Journal of the International Phonetic Association, 22 (1–2): 53–56, doi:10.1017/S0025100300004618, S2CID 249411809

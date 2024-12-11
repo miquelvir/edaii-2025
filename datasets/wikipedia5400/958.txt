@@ -1,0 +1,101 @@
+958
+Dataflow programming
+In computer programming, dataflow programming is a programming paradigm that models a program as a directed graph of the data flowing between operations, thus implementing dataflow principles and architecture. Dataflow programming languages share some features of functional languages, and were generally developed in order to bring some functional concepts to a language more suitable for numeric processing. Some authors use the term datastream instead of dataflow to avoid confusion with dataflow computing or dataflow architecture, based on an indeterministic machine paradigm. Dataflow programming was pioneered by Jack Dennis and his graduate students at MIT in the 1960s.
+
+Considerations
+Traditionally, a program is modelled as a series of operations happening in a specific order; this may be referred to as sequential,: p.3 
+procedural,
+control flow (indicating that the program chooses a specific path), or imperative programming. The program focuses on commands, in line with the von Neumann: p.3  vision of sequential programming, where data is normally "at rest".: p.7 
+In contrast, dataflow programming emphasizes the movement of data and models programs as a series of connections. Explicitly defined inputs and outputs connect operations, which function like black boxes.: p.2  An operation runs as soon as all of its inputs become valid. Thus, dataflow languages are inherently parallel and can work well in large, decentralized systems.: p.3
+
+State
+One of the key concepts in computer programming is the idea of state, essentially a snapshot of various conditions in the system. Most programming languages require a considerable amount of state information, which is generally hidden from the programmer. Often, the computer itself has no idea which piece of information encodes the enduring state. This is a serious problem, as the state information needs to be shared across multiple processors in parallel processing machines. Most languages force the programmer to add extra code to indicate which data and parts of the code are important to the state. This code tends to be both expensive in terms of performance, as well as difficult to read or debug. [Explicit parallelism](987) is one of the main reasons for the poor performance of Enterprise Java Beans when building data-intensive, non-OLTP applications.
+Where a sequential program can be imagined as a single worker moving between tasks (operations), a dataflow program is more like a series of workers on an assembly line, each doing a specific task whenever materials are available. Since the operations are only concerned with the availability of data inputs, they have no hidden state to track, and are all "ready" at the same time.
+
+Representation
+Dataflow programs are represented in different ways. A traditional program is usually represented as a series of text instructions, which is reasonable for describing a serial system which pipes data between small, single-purpose tools that receive, process, and return. Dataflow programs start with an input, perhaps the command line parameters, and illustrate how that data is used and modified. The flow of data is explicit, often visually illustrated as a line or pipe.
+In terms of encoding, a dataflow program might be implemented as a hash table, with uniquely identified inputs as the keys, used to look up pointers to the instructions. When any operation completes, the program scans down the list of operations until it finds the first operation where all inputs are currently valid, and runs it. When that operation finishes, it will typically output data, thereby making another operation become valid.
+For parallel operation, only the list needs to be shared; it is the state of the entire program. Thus the task of maintaining state is removed from the programmer and given to the language's runtime. On machines with a single processor core where an implementation designed for parallel operation would simply introduce overhead, this overhead can be removed completely by using a different runtime.
+
+Incremental updates
+Some recent dataflow libraries such as Differential/Timely Dataflow have used incremental computing for much more efficient data processing.
+
+History
+A pioneer dataflow language was BLOck DIagram (BLODI), published in 1961 by John Larry Kelly, Jr., Carol Lochbaum and Victor A. Vyssotsky for specifying sampled data systems. A BLODI specification of functional units (amplifiers, adders, delay lines, etc.) and their interconnections was compiled into a single loop that updated the entire system for one clock tick.
+In a 1966 Ph.D. thesis, The On-line Graphical Specification of Computer Procedures, Bert Sutherland created one of the first graphical dataflow programming frameworks in order to make parallel programming easier. Subsequent dataflow languages were often developed at the large supercomputer labs. POGOL, an otherwise conventional data-processing language developed at NSA, compiled large-scale applications composed of multiple file-to-file operations, e.g. merge, select, summarize, or transform, into efficient code that eliminated the creation of or writing to intermediate files to the greatest extent possible. SISAL, a popular dataflow language developed at Lawrence Livermore National Laboratory, looks like most statement-driven languages, but variables should be assigned once. This allows the compiler to easily identify the inputs and outputs. A number of offshoots of SISAL have been developed, including SAC, Single Assignment C, which tries to remain as close to the popular C programming language as possible.
+The United States Navy funded development of signal processing graph notation (SPGN) and ACOS starting in the early 1980s. This is in use on a number of platforms in the field today.
+A more radical concept is Prograph, in which programs are constructed as graphs onscreen, and variables are replaced entirely with lines linking inputs to outputs. Incidentally, Prograph was originally written on the Macintosh, which remained single-processor until the introduction of the DayStar Genesis MP in 1996.
+There are many hardware architectures oriented toward the efficient implementation of dataflow programming models. MIT's tagged token dataflow architecture was designed by Greg Papadopoulos.
+Data flow has been proposed as an abstraction for specifying the global behavior of distributed system components: in the live distributed objects programming model, distributed data flows are used to store and communicate state, and as such, they play the role analogous to variables, fields, and parameters in Java-like programming languages.
+
+Languages
+Dataflow programming languages include:
+
+Céu (programming language)
+ASCET
+AviSynth scripting language, for video processing
+BMDFM Binary Modular Dataflow Machine
+CAL
+Cuneiform, a functional workflow language.
+CMS Pipelines
+Hume
+Joule
+Keysight VEE
+KNIME is a free and open-source data analytics, reporting and integration platform
+LabVIEW, G
+Linda
+Lucid
+Lustre
+Max/MSP
+Microsoft Visual Programming Language - A component of Microsoft Robotics Studio designed for robotics programming
+Nextflow: a workflow language
+Orange - An open-source, visual programming tool for data mining, statistical data analysis, and machine learning.
+Oz now also distributed since 1.4.0
+Pipeline Pilot
+Prograph
+Pure Data
+Quartz Composer - Designed by Apple; used for graphic animations and effects
+SAC Single assignment C
+SIGNAL (a dataflow-oriented synchronous language enabling multi-clock specifications)
+Simulink
+SISAL
+SystemVerilog - A hardware description language
+Verilog - A hardware description language absorbed into the SystemVerilog standard in 2009
+VisSim - A block diagram language for simulation of dynamic systems and automatic firmware generation
+VHDL - A hardware description language
+Wapice IOT-TICKET implements an unnamed visual dataflow programming language for IoT data analysis and reporting.
+XEE (Starlight) XML engineering environment
+XProc
+
+Libraries
+Apache Beam: Java/Scala SDK that unifies streaming (and batch) processing with several execution engines supported (Apache Spark, Apache Flink, Google Dataflow etc.)
+Apache Flink: Java/Scala library that allows streaming (and batch) computations to be run atop a distributed Hadoop (or other) cluster
+Apache Spark
+SystemC: Library for C++, mainly aimed at hardware design.
+TensorFlow: A machine-learning library based on dataflow programming.
+
+See also
+[Actor model](903)
+Data-driven programming
+Digital signal processing
+Event-driven programming
+Flow-based programming
+Functional reactive programming
+Glossary of reconfigurable computing
+High-performance reconfigurable computing
+Incremental computing
+Parallel programming model
+Partitioned global address space
+Pipeline (Unix)
+Quantum circuit
+Signal programming
+Stream processing
+Yahoo Pipes
+
+References
+External links
+Book: Dataflow and Reactive Programming Systems
+Basics of Dataflow Programming in F# and C#
+Dataflow Programming - Concept, Languages and Applications
+Static Scheduling of Synchronous Data Flow Programs for Digital Signal Processing
+Handling huge loads without adding complexity The basic concepts of dataflow programming, Dr. Dobb's, Sept. 2011

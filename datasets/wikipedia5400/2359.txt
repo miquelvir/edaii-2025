@@ -1,0 +1,74 @@
+2359
+Competition climbing
+Competition climbing is a form of regulated rock climbing competition held indoors on purpose-built artificial climbing walls (earlier versions were held on external natural rock surfaces). The three competition climbing disciplines are lead climbing, bouldering, and speed climbing. The result of multiple disciplines can be used in a "combined" format to determine an all-round winner (or the "combined" winner). Competition climbing is sometimes called "sport climbing", which is the name given to pre-bolted lead climbing.
+In competition lead climbing, competitors start at the bottom of a pre-bolted sport climbing route and lead-climb to touch or secure the highest climbing hold possible within a set time limit on a single attempt, making sure to clip the rope into pre-placed quickdraws while ascending. In competition bouldering, competitors climb short bouldering problems without a rope, with an emphasis on the number of problems completed, and the attempts necessary to do so. In competition speed climbing, competitors race-off in pairs on a standardised 'speed climbing wall' using a top rope on an auto belay, in the shortest time.
+The International Federation of Sport Climbing (IFSC) regulates and organizes the international competition climbing events, including the biennial IFSC Climbing World Championships, and the annual IFSC Climbing World Cup that is held as a series of events during the year. Competition climbing was featured at the Summer Olympics for the first time in 2020, in a once-off single combined format per gender, with the results based on a combination of lead climbing, bouldering, and speed climbing performances. The format for climbing at the 2024 Olympics has speed climbing as a standalone event, although lead and boulder are still a combined event.
+
+History
+Competition climbing dates from the arrival of sport climbing in the mid-1980s, which is a type of rock climbing where the climbing protection is pre-bolted into the climbing route, so the climber does not have to worry about their safety while ascending. Some were reticent about the ethics of competitive climbing, and in early 1985, several leading climbers signed the Manifeste des 19, rejecting the concept. However, later in 1985, the first internationally recognized competition climbing event was held at Sportroccia, which later became the annual Rock Master competition. These were annual lead climbing competitions held outdoors on natural rock surfaces and their first winners were Stefan Glowacz, Patrick Edlinger and Catherine Destivelle.
+In 1988–89, the French Federation and Paul Brasset convinced the UIAA to regulate and administer competition climbing; it was agreed that events would be held on indoor artificial climbing walls. In 1989, the first UIAA Climbing World Cup was held over seven events around the world. In 1991, the first biennial UIAA World Climbing Championships was held in Frankfurt. In 1992, the first UIAA Climbing World Youth Championships was held in Basel. In 1998, bouldering and speed climbing were added alongside lead climbing for UIAA competition climbing events. In 2005, competition climbing was added to the World Games. In 2006–07, the UIAA ceded governance of competition climbing to a newly formed International Federation of Sport Climbing (IFSC) that the International Olympic Committee provisionally recognised.
+In August 2016, the IOC announced that competition climbing would be a sport in the [2020 Summer Olympics](1074), but that lead, boulder, and speed would be combined into a single medal event; this caused upset however it allowed the maximum number of disciplines to feature at the Olympics. During August 3–6, 2021, Alberto Ginés López and Janja Garnbret won the first-ever men's and women's Olympic climbing gold medals at the Tokyo Olympics, in the newly created combined event consisting of all three disciplines.
+After the Tokyo Olympics, it was announced that the 2024 Paris Olympics would only combine lead climbing and bouldering into a single medal event, with speed climbing as a standalone medal event.
+
+Disciplines
+Competition lead climbing
+In competition lead climbing, the competitors have 6 minutes to climb a 15-metre (49 ft) challenging, and usually significantly overhanging, pre-bolted sport climbing route (with pre-placed quickdraws for their protection), which was constructed by a route setter. For the safety of the competitors, they must also clip their safety rope into the various quickdraws (that are attached to the bolts) while they ascend the route; failing to clip into a quickdraw terminates their climb at that position.
+In the wider sport of rock climbing, pre-bolted lead climbing routes are known as sport climbs (in contrast to traditional climbing, where the climber places the protection equipment), confusingly however, "competition climbing" is sometimes also called "sport climbing", even though it also has bouldering and speed climbing.
+The climber is allowed one single attempt at the route. Their score on the route is determined by the highest artificial hold number that they "controlled" before falling (i.e. all the artificial holds on the wall are numbered, starting with 1 at the bottom); if in addition, they had "used" that hold to make a controlled movement for the next hold before falling, a "+" is added to their score. For example, falling while secured on hold 34, while reaching for hold 35, earns a score of "34+".
+Between rounds, the competitors are collectively given 6 minutes to inspect — but not attempt or practice — the next route. After the brief inspection, they are kept in an isolation area to prevent them from observing other competitors on the route and collecting its beta (which would help them to flash the route); they are thus effectively lead climbing the artificial route as an onsight, which is the most difficult way to ascend a new route.
+
+Competition bouldering
+In competition bouldering, the competitors have to "solve" multiple short 4.5-metre (15 ft) bouldering problems over a set time period, with the fewest falls. In contrast to lead climbing, these boulder problems are more complex, but each boulder problem can be attempted multiple times – with repeated falls – within a certain time limit (usually 5 minutes in qualifiers and 4 minutes in finals). As in all bouldering, the competitors do not use a rope or any climbing protection, but crash pads that are laid across the ground for safety.
+Each individual boulder problem has an official start position with proscribed positions for all four of the competitor's limbs at the base of the problem. The competitor is judged to have completed the boulder problem when they have placed their two hands on the explicitly marked "top" hold and held it long enough to receive confirmation from the judge. In addition to the top hold, "zone holds" are located at the mid-point of the problem, which if secured, earn a half point, in lieu of failing to earn a full point by "topping".
+As with competition lead climbing, the competitors cannot see each other's attempts which would help them to learn route's beta. The climber's score is determined by the overall number of routes "topped", the most "zone holds" reached, and the number of attempts needed. Where two climbers have the same score (i.e. "tops" plus "zones"), the number of "tops" takes precedence, and where they are still level, the fewest attempts takes precedence.
+
+Competition speed climbing
+In competition speed climbing, the competitors must ascend a 15-metre (49 ft), slightly overhanging, standardised climbing wall, where, unlike leading climbing or bouldering, the holds are always the exact same size and placed in the exact same location. As the emphasis is on speed, the climbers do not have the time to clip into quickdraws (as per competition lead climbing) and instead use an auto-belay top rope for climbing protection.
+In qualification, competitors race in pairs in Lane A and Lane B, however, they are not racing against each other, but against the clock. Each competitor during qualification races twice — once in each Lane — and the eight fastest competitors, using their best time, reach the finals. In the finals, competitors race against each other in elimination rounds, with the winner, regardless of time, advancing until the ultimate winner is decided.
+
+Combined formats
+Over the years, two different combinations of disciplines have comprised the combined format. They can either be held as additional competitions or be calculated from the results of the other events. The IFSC combined all three events into one competition from 2017 to 2021, after which they split out speed but kept boulder and lead in a combined format.
+
+Triple combination
+As sport climbing was allocated only a single medal per gender at its Olympic debut in 2020, the IFSC opted to merge lead, boulder and speed into a single format, first held at the 2017 Climbing Youth World Championships. Individual rounds were scored as usual. For the overall result, an athletes ranks in each of the three competitions were multiplied, leaving the competitor with the lowest score as the winner.
+
+Boulder & Lead
+For the 2024 Olympics two medals per gender were allocated. Speed climbing is now separate from the Boulder & Lead competition.
+Each of the four boulders features two zones worth 5 and 10 points respectively, and a top worth 25 points. Points are awarded for the highest hold controlled by the climber, minus 0.1 points for each attempt needed to reach that hold. On the lead route, the last ten holds from the top are worth 4 points each, the 10 before those 3 points each etc. If the last hold reached is not only controlled but used to progress along the route, 0.1 points will be added to the score. The scores of each round are added with the competitor with the highest score as the winner.
+
+Notable competitions
+International Federation of Sport Climbing
+The most important competition climbing events are administered by the International Federation of Sport Climbing (IFSC):
+
+IFSC Climbing World Championships, a biennial event (i.e. every two years), for male and female rock climbers with medals awarded in the four disciplines of lead climbing, bouldering, speed climbing, and combined (from the first three).
+IFSC Climbing World Cup, an annual competition, spread over several individual events held during the year, for male and female rock climbers with medals awarded in the four disciplines of lead climbing, bouldering, speed climbing, and combined (from the first three).
+
+Olympics
+Climbing was included for the first time in the 2020 Olympics as an additional sport. The decision to combine three disciplines of lead, boulder and speed climbing into a single event had caused widespread criticism in the climbing world. In the 2024 Olympics, boulder-and-lead combined and speed climbing were held as separate events.
+On 3 February 2022, the IOC designated sport climbing as a core Summer Olympic sport starting with the 2028 Olympics.
+
+Notable competition climbers
+As of 2023, the most successful overall male competition climber in history is Austrian climber Jakob Schubert, followed by Czech climber Adam Ondra, and French climber François Legrand. Legrand is the most successful lead competition climber, Austrian climber Kilian Fischhuber is the most successful bouldering competition climber, and Chinese climber Zhong Qixin is the most successful speed competition climber.
+As of 2023, the most successful overall female competition climber in history is Slovenian climber Janja Garnbret, followed by French climber Sandrine Levet, and Austrian climber Angela Eiter. Garnbret is also the most successful lead competition climber, Levet also is the most successful bouldering competition climber, and Russian climber Tatiana Ruyga is the most successful speed competition climber.
+As of 2023, Garnbret is the most dominant competition climber, male or female, of all time.
+
+Notable non-competition climbers
+As competition climbing developed in the 1980s, some of the leading sport climbers largely ignored it to focus on setting new grade milestones in sport climbing. German climber Wolfgang Güllich, the strongest sport climber of that era, avoided the climbing competition circuit throughout his career saying: "competitions are good for earning money, I see it as nothing more". In 1990, British leading climber Jerry Moffatt retired early from a promising competition climbing career saying: "I no longer had energy the energy to keep it all up. I wanted to get myself back again. I wanted to see my friends. I wanted to climb for myself. I wanted to do first ascents. Most of all I wanted to have fun". In 2001, American climber Chris Sharma, the strongest sport climber of his era, also retired early from competition climbing saying: "Personally, that's not ever really been my deal. I mean, competitions are fun, but 15 minutes after the competition they take the holds off. It's way more important for me to put up new routes and develop my vision in rock climbing. Create a legacy, create something lasting. No one remembers who won the freakin' World Cup in 1997, but people know who put up Action Directe".
+Since 2010, it has become increasingly rarer for leading male and female rock climbers, in both sport climbing and bouldering, not to begin their careers as successful competition climbers. Exceptions remain, including leading French sport climber Seb Bouin, who wanted to instead focus on finding "mega lines" (a reference to Sharma's "King Lines") on outdoor crags, which he described as his sole motivation.
+
+In film
+The Wall: Climb for Gold, a 2022 film documentary on Janja Garnbret, Shauna Coxsey, Brooke Raboutou, and Miho Nonaka.
+
+See also
+USA Climbing, the body charged with regulating and administration of competition climbing in America
+Competition ice climbing, regulated by the UIAA
+Competition multi-pitch climbing
+
+References
+Further reading
+Burgman, John (March 2020). High Drama: The Rise, Fall, and Rebirth of American Competition Climbing (illustrated ed.). Triumph Books. ISBN 978-1629377759.
+Lutter, Christoph; Tischer, Thomas; Rainer Schöffl, Volker (August 2021). "Olympic competition climbing: the beginning of a new era-a narrative review". British Journal of Sports Medicine. 55 (15): 857–864. doi:10.1136/bjsports-2020-102035. Retrieved 28 August 2023.
+
+External links
+Rules of Competition Climbing, International Federation of Sport Climbing (2023)
+IFSC World Cup Climbing Rules & Scoring Explained, Gear Junkie (July 2022)

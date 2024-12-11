@@ -1,0 +1,108 @@
+346
+Bile acid
+Bile acids are steroid acids found predominantly in the bile of mammals and other vertebrates. Diverse bile acids are synthesized in the liver.  Bile acids are conjugated with taurine or glycine residues to give anions called bile salts.
+Primary bile acids are those synthesized by the liver. Secondary bile acids result from bacterial actions in the colon. In humans, taurocholic acid and glycocholic acid (derivatives of cholic acid) and taurochenodeoxycholic acid and glycochenodeoxycholic acid (derivatives of chenodeoxycholic acid) are the major bile salts.  They are roughly equal in concentration.  The salts of their 7-alpha-dehydroxylated derivatives, deoxycholic acid and lithocholic acid, are also found, with derivatives of cholic, chenodeoxycholic and deoxycholic acids accounting for over 90% of human biliary bile acids.
+Bile acids comprise about 80% of the organic compounds in bile (others are phospholipids and cholesterol). An increased secretion of bile acids produces an increase in bile flow. Bile acids facilitate digestion of dietary fats and oils.  They serve as micelle-forming surfactants, which encapsulate nutrients, facilitating their absorption. These micelles are suspended in the chyme before further processing. Bile acids also have hormonal actions throughout the body, particularly through the farnesoid X receptor and GPBAR1 (also known as TGR5).
+Bile acid synthesis is the only manner in which humans or other mammals may excrete excess cholesterol, as the parent compound of all bile acids is cholesterol.
+
+Production
+Primary bile acids
+Bile acid synthesis occurs in liver cells, which synthesize primary bile acids (cholic acid and chenodeoxycholic acid in humans) via cytochrome P450-mediated oxidation of cholesterol in a multi-step process. Approximately 600 mg of bile salts are synthesized daily to replace bile acids lost in the feces, although, as described below, much larger amounts are secreted, reabsorbed in the gut and recycled.
+The rate-limiting step in synthesis is the addition of a hydroxyl group of the 7th position of the steroid nucleus by the enzyme cholesterol 7 alpha-hydroxylase. This enzyme is down-regulated by cholic acid, up-regulated by cholesterol and is inhibited by the actions of the ileal hormone FGF15/19.
+Prior to secreting any of the bile acids (primary or secondary, see below), liver cells conjugate them with either glycine or taurine, to form a total of 8 possible conjugated bile acids. These conjugated bile acids are often referred to as bile salts. The pKa of the unconjugated bile acids are between 5 and 6.5, and the pH of the duodenum ranges between 3 and 5, so when unconjugated bile acids are in the duodenum, they are almost always protonated (HA form), which makes them relatively insoluble in water. Conjugating bile acids with amino acids lowers the pKa of the bile-acid/amino-acid conjugate to between 1 and 4. Thus conjugated bile acids are almost always in their deprotonated (A-) form in the duodenum, which makes them much more water-soluble and much more able to fulfil their physiologic function of emulsifying fats.
+
+Secondary bile acids
+Once secreted into the lumen of the intestine, bile salts are modified by gut bacteria.  They are partially dehydroxylated. Their glycine and taurine groups are removed to give the secondary bile acids, deoxycholic acid and lithocholic acid. Cholic acid is converted into deoxycholic acid and chenodeoxycholic acid into lithocholic acid. All four of these bile acids are recycled, in a process known as enterohepatic circulation.
+
+Functions
+Lipid digestion
+As molecules with hydrophobic and hydrophilic regions, conjugated bile salts sit at the lipid/water interface and, above the right concentration, form micelles. The added solubility of conjugated bile salts aids in their function by preventing passive re-absorption in the small intestine. As a result, the concentration of bile acids/salts in the small intestine is high enough to form micelles and solubilize lipids. "Critical micellar concentration" refers to both an intrinsic property of the bile acid itself and amount of bile acid necessary to function in the spontaneous and dynamic formation of micelles. Bile acid-containing micelles aid lipases to digest lipids and bring them near the intestinal brush border membrane, which results in fat absorption.
+Synthesis of bile acids is a major route of cholesterol metabolism in most species other than humans. The body produces about 800 mg of cholesterol per day and about half of that is used for bile acid synthesis producing 400–600 mg daily. Human adults secrete between 12 and 18 g of bile acids into the intestine each day, mostly after meals. The bile acid pool size is between 4–6 g, which means that bile acids are recycled several times each day. About 95% of bile acids are reabsorbed by active transport in the ileum and recycled back to the liver for further secretion into the biliary system and gallbladder. This enterohepatic circulation of bile acids allows a low rate of synthesis, only about 0.3 g/day, but with large amounts being secreted into the intestine.
+Bile acids have other functions, including eliminating cholesterol from the body, driving the flow of bile to eliminate certain catabolites (including bilirubin), emulsifying fat-soluble vitamins to enable their absorption, and aiding in motility and the reduction of the bacteria flora found in the small intestine and biliary tract.
+
+Cell signalling
+Bile acids have metabolic actions in the body resembling those of hormones, acting through two specific receptors, the farnesoid X receptor and G protein-coupled bile acid receptor/TGR5.  They bind less specifically to some other receptors and have been reported to regulate the activity of certain enzymes  and ion channels  and the synthesis of diverse substances including endogenous fatty acid ethanolamides.
+
+Structure and synthesis
+The structures of the principal human bile acids
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+Bile salts constitute a large family of molecules, composed of a steroid structure with four rings, a five- or eight-carbon side-chain terminating in a carboxylic acid, and several hydroxyl groups,  the number and orientation of which is different among the specific bile salts. The four rings are labeled A, B, C, and D, from the farthest to the closest to the side chain with the carboxyl group. The D-ring is smaller by one carbon than the other three. The structure is commonly drawn with A at the left and D at the right.  The hydroxyl groups can be in either of two configurations: either up (or out), termed beta (β; often drawn by convention as a solid line), or down, termed alpha (α; displayed as a dashed line). All bile acids have a 3-hydroxyl group, derived from the parent molecule, cholesterol, in which the 3-hydroxyl is beta.
+
+The initial step in the classical pathway of hepatic synthesis of bile acids is the enzymatic addition of a 7α hydroxyl group by cholesterol 7α-hydroxylase (CYP7A1) forming 7α-hydroxycholesterol. This is then metabolised to 7α-hydroxy-4-cholesten-3-one. There are multiple steps in bile acid synthesis requiring 14 enzymes in all. These result in the junction between the first two steroid rings (A and B) being altered, making the molecule bent; in this process, the 3-hydroxyl is converted to the α orientation. The simplest 24-carbon bile acid has two hydroxyl groups at positions 3α and 7α.  This is 3α,7α-dihydroxy-5β-cholan-24-oic acid, or, as more usually known, chenodeoxycholic acid. This bile acid was first isolated from the domestic goose, from which the "cheno" portion of the name was derived (Greek: χήν = goose). The 5β in the name denotes the orientation of the junction between rings A and B of the steroid nucleus (in this case, they are bent). The term "cholan" denotes a particular steroid structure of 24 carbons, and the "24-oic acid" indicates that the carboxylic acid is found at position 24, at the end of the side-chain. Chenodeoxycholic acid is made by many species, and is the prototypic functional bile acid.
+An alternative (acidic) pathway of bile acid synthesis is initiated by mitochondrial sterol 27-hydroxylase (CYP27A1), expressed in liver, and also in macrophages and other tissues. CYP27A1 contributes significantly to total bile acid synthesis by catalyzing sterol side chain oxidation, after which cleavage of a three-carbon unit in the peroxisomes leads to formation of a C24 bile acid. Minor pathways initiated by 25-hydroxylase in the liver and 24-hydroxylase in the brain also may contribute to bile acid synthesis. 7α-hydroxylase (CYP7B1) generates oxysterols, which may be further converted in the liver to CDCA.
+Cholic acid, 3α,7α,12α-trihydroxy-5β-cholan-24-oic acid, the most abundant bile acid in humans and many other species, was discovered before chenodeoxycholic acid. It is a tri-hydroxy-bile acid with 3 hydroxyl groups (3α, 7α and 12α). In its synthesis in the liver, 12α hydroxylation is performed by the additional action of CYP8B1. As this had already been described, the discovery of chenodeoxycholic acid (with 2 hydroxyl groups) made this new bile acid a "deoxycholic acid" in that it had one fewer hydroxyl group than cholic acid.
+Deoxycholic acid is formed from cholic acid by 7-dehydroxylation, resulting in 2 hydroxyl groups (3α and 12α). This process with chenodeoxycholic acid results in a bile acid with only a 3α hydroxyl group, termed lithocholic acid (litho = stone) having been identified first in a gallstone from a calf. It is poorly water-soluble and rather toxic to cells.
+Different vertebrate families have evolved to use modifications of most positions on the steroid nucleus and side-chain of the bile acid structure. To avoid the problems associated with the production of lithocholic acid, most species add a third hydroxyl group to chenodeoxycholic acid. The subsequent removal of the 7α hydroxyl group by intestinal bacteria will then result in a less toxic but still-functional dihydroxy bile acid. Over the course of vertebrate evolution, a number of positions have been chosen for placement of the third hydroxyl group. Initially, the 16α position was favored, in particular in birds. Later, this position was superseded in a large number of species selecting the 12α position. Primates (including humans) utilize 12α for their third hydroxyl group position, producing cholic acid. In mice and other rodents, 6β hydroxylation forms muricholic acids (α or β depending on the 7 hydroxyl position). Pigs have 6α hydroxylation in hyocholic acid (3α,6α,7α-trihydroxy-5β-cholanoic acid), and other species have a hydroxyl group on position 23 of the side-chain.
+Many other bile acids have been described, often in small amounts, resulting from bacterial enzymatic or other modifications. The "iso-" epimers have the 3-hydroxyl group in the β position. The "allo-" epimers have the 5α configuration, which changes the relative position of the A and B rings.
+Ursodeoxycholic acid was first isolated from bear bile, which has been used medicinally for centuries. Its structure resembles chenodeoxycholic acid but with the 7-hydroxyl group in the β position.
+Obeticholic acid, 6α-ethyl-chenodeoxycholic acid, is a semi-synthetic bile acid with greater activity as an FXR agonist, which has been developed as a pharmaceutical agent in certain liver diseases.
+
+Hormonal actions
+Bile acids also act as steroid hormones, secreted from the liver, absorbed from the intestine and having various direct metabolic actions in the body through the nuclear receptor Farnesoid X receptor (FXR), also known by its gene name NR1H4. Another bile acid receptor is the cell membrane receptor known as G protein-coupled bile acid receptor 1 or TGR5. Many of their functions as signaling molecules in the liver and the intestines are by activating FXR, whereas TGR5 may be involved in metabolic, endocrine and neurological functions.
+
+Regulation of synthesis
+As surfactants or detergents, bile acids are potentially toxic to cells, and so their concentrations are tightly regulated. Activation of FXR in the liver inhibits synthesis of bile acids, and is one mechanism of feedback control when bile acid levels are too high. Secondly, FXR activation by bile acids during absorption in the intestine increases transcription and synthesis of FGF19, which then inhibits bile acid synthesis in the liver.
+
+Metabolic functions
+Emerging evidence associates FXR activation with alterations in triglyceride metabolism, glucose metabolism, and liver growth.
+
+Other interactions
+Bile acids bind to some other proteins in addition to their hormone receptors (FXR and TGR5) and their transporters. Among these protein targets, the enzyme N-acyl phosphatidylethanolamine-specific phospholipase D (NAPE-PLD) generates bioactive lipid amides (e.g. the endogenous cannabinoid anandamide) that play important roles in several physiological pathways including stress and pain responses, appetite, and lifespan. NAPE-PLD orchestrates a direct cross-talk between lipid amide signals and bile acid physiology.
+
+Clinical significance
+Hyperlipidemia
+As bile acids are made from endogenous cholesterol, disruption of the enterohepatic circulation of bile acids will lower cholesterol. Bile acid sequestrants bind bile acids in the gut, preventing reabsorption. In so doing, more endogenous cholesterol is shunted into the production of bile acids, thereby lowering cholesterol levels. The sequestered bile acids are then excreted in the feces.
+
+Cholestasis
+Tests for bile acids are useful in both human and veterinary medicine, as they aid in the diagnosis of a number of conditions, including types of cholestasis such as intrahepatic cholestasis of pregnancy, portosystemic shunt, and hepatic microvascular dysplasia in dogs. Structural or functional abnormalities of the biliary system result in an increase in bilirubin (jaundice) and in bile acids in the blood. Bile acids are related to the itching (pruritus) which is common in cholestatic conditions such as primary biliary cirrhosis (PBC), primary sclerosing cholangitis or intrahepatic cholestasis of pregnancy. Treatment with ursodeoxycholic acid has been used for many years in these cholestatic disorders.
+
+Gallstones
+The relationship of bile acids to cholesterol saturation in bile and cholesterol precipitation to produce gallstones has been studied extensively. Gallstones may result from increased saturation of cholesterol or bilirubin, or from bile stasis. Lower concentrations of bile acids or phospholipids in bile reduce cholesterol solubility and lead to microcrystal formation. Oral therapy with chenodeoxycholic acid and/or ursodeoxycholic acid has been used to dissolve cholesterol gallstones. Stones may recur when treatment is stopped. Bile acid therapy may be of value to prevent stones in certain circumstances such as following bariatric surgery.
+
+Bile acid diarrhea
+Excess concentrations of bile acids in the colon are a cause of chronic diarrhea. It is commonly found when the ileum is abnormal or has been surgically removed, as in Crohn's disease, or cause a condition that resembles diarrhea-predominant irritable bowel syndrome (IBS-D). This condition of bile acid diarrhea/bile acid malabsorption can be diagnosed by the SeHCAT test and treated with bile acid sequestrants.
+
+Bile acids and colon cancer
+Bile acids may have some importance in the development of colorectal cancer. Deoxycholic acid (DCA) is increased in the colonic contents of humans in response to a high fat diet. In populations with a high incidence of colorectal cancer, fecal concentrations of bile acids are higher, and this association suggests that increased colonic exposure to bile acids could play a role in the development of cancer. In one particular comparison, the fecal DCA concentrations in Native Africans in South Africa (who eat a low fat diet) compared to African Americans (who eat a higher fat diet) was 7.30 vs. 37.51 nmol/g wet weight stool.  Native Africans in South Africa have a low incidence rate of colon cancer of less than 1:100,000, compared to the high incidence rate for male African Americans of 72:100,000.
+Experimental studies also suggest mechanisms for bile acids in colon cancer. Exposure of colonic cells to high DCA concentrations increase formation of reactive oxygen species, causing oxidative stress, and also increase DNA damage. Mice fed a diet with added DCA mimicking colonic DCA levels in humans on a high fat diet developed colonic neoplasia, including adenomas and adenocarcinomas (cancers), unlike mice fed a control diet producing one-tenth the level of colonic DCA who had no colonic neoplasia.
+The effects of ursodeoxycholic acid (UDCA) in modifying the risk of colorectal cancer has been looked at in several studies, particularly in primary sclerosing cholangitis and inflammatory bowel disease, with varying results partly related to dosage.  Genetic variation in the key bile acid synthesis enzyme, CYP7A1, influenced the effectiveness of UDCA in colorectal adenoma prevention in a large trial.
+
+Dermatology
+Bile acids may be used in subcutaneous injections to remove unwanted fat (see Mesotherapy).  Deoxycholic acid as an injectable has received FDA approval to dissolve submental fat. Phase III trials showed significant responses although many subjects had mild adverse reactions of bruising, swelling, pain, numbness, erythema, and firmness around the treated area.
+
+References
+External links
+Bile [Acid](107)s and Salts at the U.S. National Library of Medicine Medical Subject Headings (MeSH)
+Special Issue on "Bile [Acid](107)s"

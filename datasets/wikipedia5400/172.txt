@@ -1,0 +1,17 @@
+172
+Asiatic linsang
+The Asiatic linsang (Prionodon) is a genus comprising two species native to Southeast Asia: the banded linsang (Prionodon linsang) and the spotted linsang (Prionodon pardicolor). Prionodon is considered a sister taxon of the Felidae.
+
+Characteristics
+The coat pattern of the Asiatic linsang is distinct, consisting of large spots that sometimes coalesce into broad bands on the sides of the body; the tail is banded transversely. It is small in size with a head and body length ranging from 14.4 to 16.75 in (36.6 to 42.5 cm) and a 12 to 16 in (30 to 41 cm) long tail. The tail is nearly as long as the head and body, and about five or six times as long as the hind foot. The head is elongated with a narrow muzzle, rhinarium evenly convex above, with wide internarial septum, shallow infranarial portion, and philtrum narrow and grooved, the groove extending only about to the level of the lower edge of the nostrils. The delicate skull is long, low, and narrow with a well defined occipital and a strong crest, but there is no complete sagittal crest. The teeth also are more highly specialized, and show an approach to those of Felidae, although more primitive. The dental formula is 3.1.4.13.1.4.2. The incisors form a transverse, not a curved, line; the first three upper and the four lower pre-molars are compressed and trenchant with a high, sharp, median cusp and small subsidiary cusps in front and behind it. The upper carnassial has a small inner lobe set far forwards, a small cusp in front of the main compressed, high, pointed cusp, and a compressed, blade-like posterior cusp; the upper molar is triangular, transversely set, much smaller than the upper carnassial, and much wider than it is long, so that the upper carnassial is nearly at the posterior end of the upper cheek-teeth as in Felidae.
+
+Systematics
+Taxonomic history
+With Viverridae (morphological)
+Prionodon was denominated and first described by Thomas Horsfield in 1822, based on a linsang from Java. He had placed the linsang under ‘section Prionodontidae’ of the genus Felis, because of similarities to both genera Viverra and Felis. In 1864, John Edward Gray placed the genera Prionodon and Poiana in the tribe Prionodontina, as part of Viverridae. Reginald Innes Pocock initially followed Gray's classification, but the existence of scent glands in Poiana induced him provisionally to regard the latter as a specialized form of Genetta, its likeness to Prionodon being possibly adaptive. Furthermore, the skeletal anatomy of Asiatic linsangs are said to be a mosaic of features of other viverrine-like mammals, as linsangs share cranial, postcranial and dental similarities with falanoucs, [African palm civet](114), and oyans respectively.
+
+With Felidae (molecular)
+DNA analysis based on 29 species of Carnivora, comprising 13 species of Viverrinae and three species representing Paradoxurus, Paguma and Hemigalinae, confirmed Pocock's assumption that the African linsang Poiana represents the sister-group of the genus Genetta. The placement of Prionodon as the sister-group of the family Felidae is strongly supported, and it was proposed that the Asiatic linsangs be placed in the monogeneric family Prionodontidae. There is a physical synapomorphy shared between felids and Prionodon in the presence of the specialized fused sacral vertebrae.
+
+
+== References ==

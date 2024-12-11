@@ -1,0 +1,110 @@
+600
+Computer programming
+[Computer](675) programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks. It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages. Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit. Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.
+Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs' machine code. While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se. Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.
+
+History
+Programmable devices have existed for centuries. As early as the 9th century, a programmable music sequencer was invented by the Persian [Banu Musa](629) brothers, who described an automated mechanical flute player in the [Book of Ingenious Devices](634). In 1206, the Arab engineer [Al-Jazari](610) invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams. In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.
+[Code-breaking](651) algorithms have also existed for centuries. In the 9th century, the Arab mathematician [Al-Kindi](611) described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages. He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.
+The first computer program is generally dated to 1843 when mathematician [Ada Lovelace](606) published an algorithm to calculate a sequence of [Bernoulli numbers](631), intended to be carried out by [Charles Babbage](649)'s [Analytical Engine](617). However, [Charles Babbage](649) himself had written a program for the AE in 1837.
+
+In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form. Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers. However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+
+Machine language
+Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation. [Assembly language](624)s were soon developed that let the programmer specify instructions in a text format (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses. However, because an assembly language is little more than a different notation for a machine language,  two machines with different instruction sets also have different assembly languages.
+
+[Compiler](662) languages
+High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware. 
+The first compiler related tool, the [A-0 System](601), was developed in 1952 by Grace Hopper, who also coined the term 'compiler'. FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957, and many other languages were soon developed—in particular, [COBOL](642) aimed at commercial data processing, and Lisp for computer research.
+These compiled languages allow the programmer to write programs in terms that are syntactically richer, and more capable of abstracting the code, making it easy to target varying machine instruction sets via compilation declarations and heuristics. [Compiler](662)s harnessed the power of computers to make programming easier by allowing programmers to specify calculations by entering a formula using infix notation.
+
+Source code entry
+Programs were mostly entered using punched cards or paper tape. By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers. Text editors were also developed that allowed changes and corrections to be made much more easily than with punched cards.
+
+Modern programming
+Quality requirements
+Whatever the approach to development may be, the final program must satisfy some fundamental properties. The following properties are among the most important:
+
+Reliability: how often the results of a program are correct. This depends on conceptual correctness of algorithms and minimization of programming mistakes, such as mistakes in resource management (e.g., buffer overflows and race conditions) and logic errors (such as division by zero or off-by-one errors).
+Robustness: how well a program anticipates problems due to errors (not bugs). This includes situations such as incorrect, inappropriate or corrupt data, unavailability of needed resources such as memory, operating system services, and network connections, user error, and unexpected power outages.
+Usability: the ergonomics of a program: the ease with which a person can use the program for its intended purpose or in some cases even unanticipated purposes. Such issues can make or break its success even regardless of other issues. This involves a wide range of textual, graphical, and sometimes hardware elements that improve the clarity, intuitiveness, cohesiveness, and completeness of a program's user interface.
+Portability: the range of computer hardware and operating system platforms on which the source code of a program can be compiled/interpreted and run. This depends on differences in the programming facilities provided by the different platforms, including hardware and operating system resources, expected behavior of the hardware and operating system, and availability of platform-specific compilers (and sometimes libraries) for the language of the source code.
+Maintainability: the ease with which a program can be modified by its present or future developers in order to make improvements or to customize, fix bugs and security holes, or adapt it to new environments. Good practices during initial development make the difference in this regard. This quality may not be directly apparent to the end user but it can significantly affect the fate of a program over the long term.
+Efficiency/performance: Measure of system resources a program consumes (processor time, memory space, slow devices such as disks, network bandwidth and to some extent even user interaction): the less, the better. This also includes careful management of resources, for example cleaning up temporary files and eliminating memory leaks. This is often discussed under the shadow of a chosen programming language. Although the language certainly affects performance, even slower languages, such as Python, can execute programs instantly from a human perspective. Speed, resource usage, and performance are important for programs that bottleneck the system, but efficient use of programmer time is also important and is related to cost: more hardware may be cheaper.
+Using automated tests and fitness functions can help to maintain some of the aforementioned attributes.
+
+Readability of source code
+In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code. It affects the aspects of quality above, including portability, usability and most importantly maintainability.
+Readability is important because programmers spend the majority of their time reading, trying to understand, reusing, and modifying existing source code, rather than writing new source code. Unreadable code often leads to bugs, inefficiencies, and duplicated code. A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Following a consistent programming style often helps readability. However, readability is more than just programming style. Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability. Some of these factors include:
+
+Different indent styles (whitespace)
+Comments
+Decomposition
+Naming conventions for objects (such as variables, classes, functions, procedures, etc.)
+The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display. Integrated development environments (IDEs) aim to integrate all such help. Techniques like [Code refactoring](653) can enhance readability.
+
+[Algorithm](612)ic complexity
+The academic field and the engineering practice of computer programming are concerned with discovering and implementing the most efficient algorithms for a given class of problems. For this purpose, algorithms are classified into orders using [Big O notation](632), which expresses resource use—such as execution time or memory consumption—in terms of the size of an input. Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+
+Methodologies
+The first step in most formal software development processes is requirements analysis, followed by testing to determine value modeling, implementation, and failure elimination (debugging). There exist a lot of different approaches for each of those tasks. One approach popular for requirements analysis is Use Case analysis. Many programmers use forms of [Agile software development](609) where the various stages of formal software development are more integrated together into short cycles that take a few weeks rather than years. There are many approaches to the Software development process.
+Popular modeling techniques include Object-Oriented Analysis and Design (OOAD) and Model-Driven Architecture (MDA). The Unified Modeling Language (UML) is a notation used for both the OOAD and MDA.
+A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+Implementation techniques include imperative languages (object-oriented or procedural), functional languages, and logic programming languages.
+
+Measuring language usage
+It is very difficult to determine what are the most popular modern programming languages. Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as [COBOL](642)).
+Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications. For example, [COBOL](642) is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software. Many applications use a mix of several languages in their construction and use.  New languages are generally designed around the syntax of a prior language with new functionality added, (for example [C++](640) adds object-orientation to C, and Java adds memory management and bytecode to [C++](640), but as a result, loses efficiency and the ability for low-level manipulation).
+
+Debugging
+Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users. Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages. Use of a static code analysis tool can help detect some possible problems. Normally the first step in debugging is to attempt to reproduce the problem. This can be a non-trivial task, for example as with parallel processes or some unusual software bugs. Also, specific user environment and usage history can make it difficult to reproduce the problem.
+After the bug is reproduced, the input of the program may need to be simplified to make it easier to debug. For example, when a bug in a compiler can make it crash when parsing some large source file, a simplification of the test case that results in only few lines from the original source file can be sufficient to reproduce the same crash. Trial-and-error/divide-and-conquer is needed: the programmer will try to remove some parts of the original test case and check if the problem still exists. When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if the remaining actions are sufficient for bugs to appear. Scripting and breakpointing are also part of this process.
+Debugging is often done with IDEs. Standalone debuggers like GDB are also used, and these often provide less of a visual environment, usually using a command line. Some text editors such as Emacs allow GDB to be invoked through them, to provide a visual environment.
+
+Programming languages
+Different programming languages support different styles of programming (called programming paradigms). The choice of language used is subject to many considerations, such as company policy, suitability to task, availability of third-party packages, or individual preference. Ideally, the programming language best suited for the task at hand will be selected. Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute. Languages form an approximate spectrum from "low-level" to "high-level"; "low-level" languages are typically more machine-oriented and faster to execute, whereas "high-level" languages are more abstract and easier to use but execute less quickly. It is usually easier to code in "high-level" languages than in "low-level" ones.
+Programming languages are essential for software development. They are the building blocks for all software, from the simplest applications to the most sophisticated ones.
+[Allen Downey](615), in his book How To Think Like A [Computer](675) Scientist, writes:
+
+The details look different in different languages, but a few basic instructions appear in just about every language:
+Input: Gather data from the keyboard, a file, or some other device.
+Output: Display data on the screen or send data to a file or other device.
+Arithmetic: Perform basic arithmetical operations like addition and multiplication.
+Conditional Execution: Check for certain conditions and execute the appropriate sequence of statements.
+Repetition: Perform some action repeatedly, usually with some variation.
+Many computer languages provide a mechanism to call functions provided by shared libraries. Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.
+
+Programmers
+[Computer](675) programmers are those who write computer software. Their jobs usually involve:
+
+Although programming has been presented in the media as a somewhat mathematical subject, some research shows that good programmers have strong skills in natural human languages, and that learning to code is similar to learning a foreign language.
+
+See also
+[Code smell](654)
+[Computer](675) networking
+[Competitive programming](660)
+Programming best practices
+Systems programming
+
+References
+Sources
+Ceruzzi, Paul E. (1998). History of [Computing](693). Cambridge, Massachusetts: MIT Press. ISBN 9780262032551 – via EBSCOhost.
+Evans, Claire L. (2018). Broad Band: The Untold Story of the Women Who Made the Internet. New York: Portfolio/Penguin. ISBN 9780735211759.
+Gürer, Denise (1995). "Pioneering Women in [Computer](675) Science" (PDF). Communications of the ACM. 38 (1): 45–54. doi:10.1145/204865.204875. S2CID 6626310. Archived (PDF) from the original on October 9, 2022.
+Smith, Erika E. (2013). "Recognizing a Collective Inheritance through the History of Women in [Computing](693)". CLCWeb: Comparative Literature & Culture: A WWWeb Journal. 15 (1): 1–9 – via EBSCOhost.
+
+Further reading
+A.K. Hartmann, Practical Guide to [Computer](675) Simulations, Singapore: World Scientific (2009)
+A. Hunt, D. Thomas, and W. Cunningham, The Pragmatic Programmer. From Journeyman to Master, Amsterdam: Addison-Wesley Longman (1999)
+Brian W. Kernighan, The Practice of Programming, Pearson (1999)
+Weinberg, Gerald M., The Psychology of [Computer](675) Programming, New York: Van Nostrand Reinhold (1971)
+Edsger W. Dijkstra, A Discipline of Programming, Prentice-Hall (1976)
+O.-J. Dahl, E.W.Dijkstra, C.A.R. Hoare, Structured Programming, Academic Press (1972)
+David Gries, The Science of Programming, Springer-Verlag (1981)
+
+External links
+
+ Media related to [Computer](675) programming at Wikimedia Commons
+ Quotations related to Programming at Wikiquote

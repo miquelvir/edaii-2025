@@ -1,0 +1,13 @@
+733
+Apple Public Source License
+The Apple Public Source License (APSL) is the open-source and free software license under which Apple's Darwin operating system was released in 2000. A free and open-source software license was voluntarily adopted to further involve the community from which much of Darwin originated.
+The first version of the Apple Public Source License was approved by the Open Source Initiative (OSI). Version 2.0, released July 29, 2003, is also approved as a free software license by the Free Software Foundation (FSF) which finds it acceptable for developers to work on projects that are already covered by this license. However, the FSF recommends that developers should not release new projects under this license, because the partial copyleft is not compatible with the GNU General Public License and allows linking with files released entirely as proprietary software. The license does require that if any derivatives of the original source are released externally, their source should be made available; the Free Software Foundation compares this requirement to a similar one in its own GNU Affero General Public License.
+Many software releases from Apple have now been relicensed under the more liberal [Apache License](729), such as the Bonjour Zeroconf stack. However, most OS component source code remains under APSL.
+
+See also
+Software using the Apple Public Source License (category)
+
+References
+External links
+Text of the Apple Public Source License
+Free Software Foundation's opinion on the license

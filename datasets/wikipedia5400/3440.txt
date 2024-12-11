@@ -1,0 +1,46 @@
+3440
+Alexander Friedmann
+Alexander Alexandrovich Friedmann (also spelled Friedman or Fridman; ; Russian: Алекса́ндр Алекса́ндрович Фри́дман; June 16 O.S. June 4 1888 – September 16, 1925) was a Russian and Soviet physicist and mathematician. He originated the pioneering theory that the universe is expanding, governed by a set of equations he developed known as the Friedmann equations.
+
+Early life
+Alexander Friedmann was born to the composer and ballet dancer Alexander Friedmann (who was a son of a baptized Jewish cantonist) and the pianist Ludmila Ignatievna Voyachek (who was a daughter of the Czech composer Hynek Vojáček). Friedmann was baptized into the Russian Orthodox Church as an infant, and lived much of his life in Saint Petersburg.
+Friedmann obtained his degree from St. Petersburg State University in 1910, and became a lecturer at Saint Petersburg Mining Institute.
+From his school days, Friedmann found a lifelong companion in Jacob Tamarkin, who was also a distinguished mathematician.
+
+World War I
+Friedmann fought in World War I on behalf of Imperial Russia, as an army aviator, an instructor, and eventually, under the revolutionary regime, as the head of an airplane factory.
+
+Professorship
+Friedmann in 1922 introduced the idea of an expanding universe that contained moving matter. Correspondence with Einstein suggests that Einstein was unwilling to accept the idea of an evolving Universe and worked instead to revise his equations to support the static, eternal Universe of Newton's time.  In 1929 Hubble published the redshift vs distance relationship showing that all the galaxies in the neighborhood recede at a rate proportional to their distance, formalizing an observation made earlier by Carl Wilhelm Wirtz. Unaware of Friedmann's work, in 1927 Belgian astronomer Georges Lemaître independently formulated an evolving Universe.
+In June 1925 Friedmann was given the job of the director of the Main Geophysical Observatory in Leningrad. In July 1925 he participated in a record-setting balloon flight, reaching the elevation of 7,400 m (24,300 ft).
+
+Work
+Friedmann's 1924 papers, including "Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes" ("On the possibility of a world with constant negative curvature of space") published by the German physics journal Zeitschrift für Physik (Vol. 21, pp. 326–332), demonstrated that he had command of all three Friedmann models describing positive, zero and negative curvature respectively, a decade before Robertson and Walker published their analysis.
+This dynamic cosmological model of general relativity would come to form the standard for both the Big Bang and Steady State theories. Friedmann's work supported both theories equally, so it was not until the detection of the cosmic microwave background radiation that the Steady State theory was abandoned in favor of the current favorite Big Bang paradigm.
+The classic solution of the Einstein field equations that describes a homogeneous and isotropic universe was called the Friedmann–Lemaître–Robertson–Walker metric, or FLRW, after Friedmann, Georges Lemaître, Howard P. Robertson and Arthur Geoffrey Walker, who worked on the problem in the 1920s and 30s independently of Friedmann.
+In addition to general relativity, Friedmann's interests included hydrodynamics and meteorology.
+Physicists George Gamow, Vladimir Fock, and Lev Vasilievich Keller were among his students.
+
+Personal life and death
+In 1911, he married Ekaterina Dorofeeva, though he later divorced her. He married Natalia Malinina in 1923. They had a religious wedding ceremony, though both were far from religious. Together they had a son Alexander Alexandrovich Friedman (1925—1983), born after his father's death.
+Friedmann died on September 16, 1925, from misdiagnosed typhoid fever. He had allegedly contracted the bacteria on return from his honeymoon in Crimea, when he ate an unwashed pear bought at a railway station.
+
+Legacy
+The Moon crater Fridman is named after him.
+Alexander Friedmann International Seminar is a periodical scientific event. The objective of the meeting is to promote contact between scientists working in the field of Relativity, Gravitation and Cosmology, and related fields. The First Alexander Friedmann International Seminar on Gravitation and Cosmology devoted to the centenary of his birth took place in 1988.
+During the 2022 COVID-19 protests in China, Tsinghua University students were seen displaying Friedmann's equation as if it were a protest slogan, which was understood as an evasion of censorship by punning multilingually on "free man" and referring to liberalization and opening via the expansion of the universe.
+
+Selected publications
+Friedman, A. (1922). "Über die Krümmung des Raumes". Zeitschrift für Physik. 10 (1): 377–386. Bibcode:1922ZPhy...10..377F. doi:10.1007/BF01332580. S2CID 125190902.. English translation in: Friedman, A. (1999). "On the curvature of space". General Relativity and Gravitation. 31 (12): 1991–2000. Bibcode:1999GReGr..31.1991F. doi:10.1023/A:1026751225741. S2CID 122950995. The original Russian manuscript of this paper is preserved in the Ehrenfest archive, together with some letters and unpublished work.
+Friedman, A. (1924). "Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes". Zeitschrift für Physik. 21 (1): 326–332. Bibcode:1924ZPhy...21..326F. doi:10.1007/BF01328280. S2CID 120551579.. English translation in: Friedmann, A. (1999). "On the Possibility of a World with Constant Negative Curvature of Space". General Relativity and Gravitation. 31 (12): 2001–2008. Bibcode:1999GReGr..31.2001F. doi:10.1023/A:1026755309811. S2CID 123512351.
+
+References
+Bibliography
+Poluboyarinova-Kochina, P. Ya. (January–February 1964). "Aleksandr Fridman" (PDF). Soviet Physics Uspekhi (English Edition): 467–472.
+Ferguson, Kitty (1991). Stephen Hawking: Quest For A Theory of Everything. New York: Bantam Books. ISBN 0-553-29895-X.
+Frenkel', V.Ya. (1988). "Aleksandr Aleksandrovich Fridman (Friedmann): a biographical essay". Soviet Physics Uspekhi. 31 (7): 645–665. Bibcode:1988SvPhU..31..645F. doi:10.1070/PU1988v031n07ABEH003574.
+
+External links
+Alexander A Friedmann: The Man who Made the Universe Expand – Biography written by Eduard A. Tropp, Viktor Ya. Frenkel and Artur D. Chernin
+O'Connor, John J.; Robertson, Edmund F., "Alexander Friedmann", MacTutor History of Mathematics Archive, University of St Andrews
+How Do We Know the Age of the Universe – Mary Lynn Germadnik

@@ -1,0 +1,198 @@
+4450
+Appalachian English
+Appalachian English is [American English](1173) native to the Appalachian mountain region of the Eastern United States. Historically, the term Appalachian dialect refers to a local English variety of southern Appalachia, also known as Smoky Mountain English or Southern Mountain English in American linguistics. This variety is both influential upon and influenced by the Southern U.S. regional dialect, which has become predominant in central and southern Appalachia today, while a Western Pennsylvania regional dialect has become predominant in northern Appalachia, according to the 2006 Atlas of North [American English](1173) (ANAE). The ANAE identifies the "Inland South", a dialect sub-region in which the Southern U.S. dialect's defining vowel shift is the most developed, as centering squarely in southern Appalachia: namely, the cities of Knoxville and Chattanooga, Tennessee; Birmingham, Alabama; Greenville, South Carolina; and Asheville, North Carolina. All Appalachian English is rhotic and characterized by distinct phonology, morphology, syntax, and lexicon. It is mostly oral but its features are also sometimes represented in literary works.
+Extensive research has been conducted since the 1930s to determine the origin of the Appalachian dialect. One popular theory is that the dialect is a preserved remnant of 16th-century (or "Elizabethan") English in isolation, though a far more accurate comparison would be to 18th-century (or "colonial") English. Regardless, the Appalachian dialect studied within the last century, like most dialects, actually shows a mix of both older and newer features, with particular Ulster Scots immigrant influences.
+Appalachian English has long been a popular stereotype of Appalachians and is criticized both inside and outside the speaking area as an inferior dialect, which is often mistakenly attributed to supposed laziness, lack of education, or the region's relative isolation. American writers throughout the 20th century have used the dialect as the chosen speech of uneducated and unsophisticated characters, though research has largely disproven these stereotypes; however, due to such prejudice, the use of the Appalachian dialect is still often an impediment to educational and social advancement.
+Along with these pejorative associations, there has been much debate as to whether Appalachian English constitutes a dialect separate from the American Southern regional dialect, as it shares many core components with it. Research reveals that Appalachian English also includes many grammatical components similar to those of the Midland regional dialect, as well as several unique grammatical, lexical, and phonological features of its own.
+
+Phonology
+Phonetics
+The Southern Shift and Southern Drawl: A vowel shift known as the Southern Shift, which largely defines the speech of most of the Southern United States, is the most developed both in Texas English and here in Appalachian English (located in a dialect region which The Atlas of North [American English](1173) identifies as the "Inland South"). This involves several unique vowel changes, in three complex stages:
+Stage 1: In the diphthong /aɪ/, the second half of the diphthong is often omitted (referred to as monophthongization), and it is thus pronounced similar to äː. (Thus, for example, the word tide in this dialect may sound to outsiders more like Todd or even tad). In extreme instances, words such as "wire", "fire", "tire", and "hired" are pronounced identically to the words "war", "far", "tar", and "hard," respectively.
+Stage 2: The diphthong /eɪ/ begins further back and open in the mouth, so that, for example, fish bait and old lace in this dialect may sound to other English speakers more like fish bite and old lice. The vowel /ɛ/ then moves in the opposite direction and acquires a "drawl" or longer, glide-like sound quality, so that red may be said to sound more like ray-ud or rih-yud. Stage 2 is most common in heavily stressed syllables.
+Stage 3: The vowel /ɪ/ is pronounced higher in the mouth and with a drawl, so that hit may be said to sound like hee-it. Conversely, the vowel /i/ lowers and then glides up again, so that feet may sound more like fih-eet or fuh-eet. Stage 3 is most common in heavily stressed syllables.
+Lax and tense vowels often neutralize before /l/, making pairs like feel/fill and fail/fell homophones for speakers in some areas. Some speakers may distinguish between the two sets of words by reversing the normal vowel sound, e.g., feel may sound like fill, and vice versa.
+Short "i" and short "e" have the same pronunciation when appearing before "n" or "m" (e.g., "pen" and "pin" are both pronounced "pin"). Adjectives are often used to distinguish between the two (e.g., "ink pen", "sewing pin").
+
+Phonemic incidence
+Research suggests that the Appalachian dialect is one of the most distinctive and divergent dialects within the United States.
+
+An epenthetic /r/ sometimes occurs in some words such as wash, leading to the pronunciation "worsh"/wɔːrʃ/.
+An "-er" sound is often used for long "o" at the end of a word. For example, hollow— "a small, sheltered valley"— is pronounced /ˈhɑlər/, homophonous with holler. Other examples are "potato" (pronounced "tader"), "tomato" (pronounced "mader"), and "tobacco" (pronounced "backer").
+H-retention occurs at the beginning of certain words. It, in particular, is pronounced hit at the beginning of a sentence and also when emphasized. The word "ain't" is pronounced hain't, homophonic with a local word for ghost or spirit (itself a corruption of the word haunt).
+Participles and gerunds such as doing and mining end in /ɪn/ instead of /ɪŋ/. While this occurs to some extent in all dialects of [American English](1173), it possibly occurs with greater frequency in Southern Appalachia.
+Word final a is sometimes pronounced /i/, as in okra (/ˈokri/). Also see opera --> "opry" as in the "Gran' Ol' Opry" and Dula --> "Dooley" as in "Tom Dula" (Dooley).
+Intervocalic s in greasy is pronounced /z/, as in other Southern American and some British speech. A related matter: The noun "grease" is pronounced with an "s", but this consonant turns into a "z" in the adjective and in the verb "to grease."
+People who live in the Appalachian dialect area or elsewhere in the South pronounce the word Appalachia with a short "a" sound (as in "latch") in the third syllable, /ˌæpəˈlætʃə/ or /ˌæpəˈlætʃiə/, while those who live outside of the Appalachian dialect area or at its outer edges tend to pronounce it with a long "a" sound (as in "lay"), /ˌæpəˈleɪʃə/.
+
+Grammar
+Pronouns and demonstratives
+"Them" is sometimes used in place of "those" as a demonstrative in both nominative and oblique constructions. Examples are "Them are the pants I want" and "Give me some of them crackers."
+Oblique forms of the personal pronouns are used as nominative when more than one is used (cf. French moi et toi). For example, "Me and him are real good friends" instead of "He and I are really good friends." Accusative case personal pronouns are used as reflexives in situations which, in [American English](1173), do not typically demand them (e.g., "I'm gonna get me a haircut"). The -self/-selves forms are used almost exclusively as emphatics, and then often in non-standard forms (e.g., "the preacher hisself"). Second person pronouns are often retained as subjects in imperative sentences (e.g., "You go an' get you a cookie").
+The possessive absolutive forms, Standard yours, his, hers, theirs, and ours appear as yourn, hisn, hern, theirn, and ourn. The possessive absolute form of "yinz/yunz/you'uns" is yournses.
+Pronouns and adjectives are sometimes combined with "'un" (meaning "one"), such as "young'un" to mean "child", "big'un" to mean "big one", and "you'uns" to mean "you all". "Young'n'" and "'big'n'" also are common in Northern [England](1990).
+The word element "-ever" is sometimes reversed in words such as "whatever" ("everwhat"), "whoever" ("everwho"), and "however" ("everhow"), but the usage remains the same (e.g., "Everwho did this is in big trouble").
+
+Verbs
+Conjugation of the verb "to be"
+The conjugation of the verb "to be" is different from that of standard English in several ways, and sometimes more than one form of the verb "to be" is acceptable in Appalachian English.
+Divergence from standard English conjugation of the verb "to be" occurs with the highest frequency in the past tense, where grammatically plural subjects also take the singular form "was" rather than "were". Thus, the paradigm of the verb "to be" in Appalachian English more closely resembles the paradigm for other non-"be" verbs in English, where the past tense takes a single form, regardless of number or person.
+The use of the word ain't is also one of the most salient features of this dialect. While "ain't" is used to some extent in most [American English](1173) dialects, it is used with much greater frequency in the Appalachian dialect. Similarly, the phrase "it is" frequently appeared as "it are" in Appalachian English as late as the mid-twentieth century.
+
+Conjugation among other verb types
+While the greatest amount of divergence in subject-verb concord occurs in the past tense of the verb 'to be', certain types of plural subjects have an effect on concord across various types of verbs. However, plural subjects continue to show the greatest frequency of non-concord. The example below is taken from Wolfram & Christian (1976:78):
+Conjoined noun phrases:
+
+"Me and my sister gets into a fight sometimes."
+"A boy and his daddy was a-huntin'."
+Collective noun phrases:
+
+"Some people makes it from fat off a pig."
+"People's not concerned."
+Other plural noun phrases:
+
+"...no matter what their parents has taught 'em."
+"The cars was all tore up."
+Expletive 'there':
+
+"There's different breeds of 'em."
+"There was 5 in our family."
+
+A-verb-ing (a-prefixing)
+A notable feature of Appalachian English is the a-prefix which occurs with participle forms ending in -ing. This prefix is pronounced as a schwa ə. The a-prefix most commonly occurs with progressives, in both past and non-past tenses. For example, "My cousin had a little pony and we was a-ridin' it one day" Common contexts also include where the participle form functions as an adverbial complement, such as after movement verbs (come, go, take off) and with verbs of continuing or starting (keep, start, get to). Examples include "All of a sudden a bear come a-runnin'", and "He just kep' a-beggin'".
+Phonological rules and restrictions apply to a-prefixing; for example, it can only occur with verbs accented on the initial syllable: a-fóllowin but not a-discóverin or a-retírin. Moreover, it cannot occur on –ing forms functioning as nouns or adjectives; the forms must function as verbs. Thus, sentences like the movie was a-charmin are ungrammatical. 'A' can only be a prefix of verbs or complements of verbs with –ing.
+However, the a-prefix may not be attached to a verb which begins with an unstressed syllable, such as discover or retire.
+While much less frequent or productive, the a-prefix can also occur on participles ending in -ed, such as "a-haunted"
+The a-prefix has been found to occur most frequently in more animated or vivid narratives, as a stylistic device.
+Studies suggest that a-prefixing is more common with older speakers and might therefore disappear completely in a few years. Because of the considerable difference of a-prefixing frequency according to age (the frequency varied between 10% and 50%), Walt Wolfram (1976) supports the "(...) contention that a-prefixing is a phenomenon that is dying out in Appalachia".
+A-prefixing can be traced back to the 16th century: The construction reached its height from 1500 to 1700 and developed out of using the preposition "on" and a verbal noun ending in -ing. Only used in formal and educated writing in the 17th century, it became nonstandard in the 18th century. Montgomery (2009) argues that a-prefixing developed from the preposition "an"/"on" in Early Middle English and suggests that it arose from the loss of the -n from "on" in examples like "hee set before his eyes king Henrie the eight with all his Lordes on hunting in his forrest at Windsore" (Thomas Nashe, "Unfortunate Traveller", 1594).
+
+'Liketa'
+In Appalachian English, the form 'liketa' functions as an adverb and occurs before the past form of a verb. 'Liketa' carries a meaning similar to "on the verge of" or "came so close that I really thought x would", where x is the subject of the verb. It comes from a compression of the phrase "likely to".
+
+"I liketa never went to sleep last night."
+"And I knew what I'd done and boy it liketa scared me to death."
+'Liketa' also imposes a notion of impossibility on the clause in which it appears, distinguishing it from the word 'almost'. For example, "They almost made it to the top of the mountain" is allowed but not "They liketa made it to the top of the mountain." 'Liketa' does not carry the same notion of partial truth as 'almost'.
+
+Other verb forms
+Sometimes the past participle of a strong verb such as "do" is used in place of the past tense. For example, "I done it already" instead of "I did it already" or in the case of the verb "see", "I seen" instead of "I saw". "Went" is often used instead of "gone" as the past participle of the verb "to go". She had went to Ashland. Less frequently, "gone" is used as the simple past tense: "I gone down to the meeting, but wasn't nobody there." "Done" is used with the past tense (or a past participle commonly used as a past tense, such as "gone") to express action just completed, as in "I done went/gone to the store".
+Some English strong verbs are occasionally conjugated as weak verbs in Appalachian English, e.g. "knowed", and "seed".
+The construction "don't...no" is used with transitive verbs to indicate the negative, e.g. "He don't know no better." This is commonly referred to as the double negative, and is either negative or emphatically negative, never positive. "None" is often used in place of "any", as in "I don't have none."
+Verb forms for the verb "to lay" are used instead of forms of the verb "to lie". For example, "Lay down and hush." The same occurs with "set" for "sit", and "leave" for "let".
+"Might could|would|should" is sometimes used where a speaker of standard English would say "might be able to" or "could maybe". It is often used as a sort of equivalent to "If it weren't for X", such as "I might would, if I had any to spare." This is found in Scots as well.
+Verbs ending in -st, -sk, and -sp take the syllabic -es rather than Standard -s, pronounced /ɪz/, e.g. "costes".
+
+Nouns
+Double nouns
+Some nouns are spoken in pairs, the first noun describing the seemingly redundant second noun, as in "hound dog", "Cadillac car", "widow woman", "toad frog", "biscuit bread", or "rifle gun".
+
+Measurement nouns
+Measurements such as "foot" and "mile" often retain their singular form even when used in the plural sense. For example, "That stick is 3 foot long", or "We need 6 foot of drywall". This is found in the Scots language.
+
+Adverbs
+The word right can be used with adjectives (e.g., "a right cold morning") and along with its standard use with adverbs, can also be used with adverbs of manner and time (e.g., "right loud" or "right often").
+
+Vocabulary
+Being part of the greater Southern United States, the dialect shares many of the same terms of the South. In its relation to south of the Midland, it has several terms in common with its North Midland counterpart, including poke (paper bag), hull (to shell), and blinds (shutters). Certain German-derived words such as smearcase (cottage cheese), however, are present in the North Midland dialect but absent in the Appalachian dialect.
+The following is a list of words which occur in the Appalachian dialect. These words are not exclusive to the region, but tend to occur with greater frequency than in other English dialects:
+
+afeared — afraid
+airish — cool, chilly
+ary/ary'ne — any
+bald — a treeless mountain summit (see Appalachian balds)
+ball-hoot — to drive recklessly fast on dangerous rural or mountain roads; derived from an old logging term for rolling or skidding logs downhill
+blinds — window shades or window shutters. While blinds usually refers to window shades, in Appalachia and the greater Midland dialect, it can also refer to window shutters.
+blinked — sour, rotten
+boomer — a small red squirrel
+brickle — brittle
+britches - pants; a derivation of the word "breeches"
+buggy — shopping cart
+caps — popcorn
+cat-head — a large biscuit
+chancy — doubtful
+chaw — a wad of chewing tobacco
+clean — a verb modifier which is used to mean entirely completing an action; can be used in place of 'all the way'; e.g., "He knocked it clean off the table."
+coke — short for Coca-Cola, but applied to all flavored, carbonated sodas, regardless of brand, flavor or type. Coke is used primarily in the southern half of the dialect region, whereas pop receives more usage in southern Ohio, Eastern Kentucky, West Virginia and most of Southwest Virginia.
+Co'-cola — colloquial term for Coca-Cola, but used in the same sense as coke above.
+cornpone — skillet cornbread made without eggs
+counterpane — bedspread
+cove — a valley between two ridges
+discomfit — to inconvenience
+directly — later, after a while; when it becomes convenient, soon, immediately (largely depending on context)
+dope — soda
+fireboard — mantel
+fit — used in replacement of 'fought'
+fixin' —
+a serving or helping of food; e.g., "Can I get a fixin' of fritters?"
+an event, party or social function where food is served; e.g., "They're having a fixin' in the hall next Friday."
+about to; e.g., "They're fixin' to get hitched."
+flannel cake — pancake
+gaum — mess; used as a noun and a transitive verb; e.g., 'to gaum up' (to mess up).
+haint — used in the context of 'ghost, spirit', and not the derivation of ain't.
+holler — hollow, as in a valley between two hills; e.g., "I continue to travel between hollers and cities."
+hull — to shell, as in to shell beans
+ill — bad-tempered
+jacket — a vest
+jarfly — cicada
+jasper — Stranger
+kyarn — carrion; dead flesh, such as roadkill; e.g., "That smells like kyarn."
+kindly — kind of, sort of; e.g., "Just kindly give it a little twist when you throw."
+kelvinator — refrigerator.
+lamp oil/coal oil — kerosene
+lay out — to be truant; e.g., 'to lay out of school', 'to lay out of work'
+meeting — a gathering of people for religious purposes
+nary/nary'ne — none
+palings — fence posts
+peckerwood — a disliked person
+piece — distance; e.g., "He'd have went up the road a piece to get on the main road." also refers to a snack
+plum/plumb — completely; e.g., "Son, you're plum crazy."
+poke — a brown paper bag
+poke sallet/salat/salit (etc.) — a type of salad made from boiled greens (usually pokeweed)
+pokestock/polkstalk — a single shot shotgun; historically a rifle with an unusually long barrel popular with Kentucky frontiersmen
+pop — see coke above
+quare — queer, strange, odd; completely unrelated to sexuality; e.g., "He's shore a quare 'un."
+reckon — to suppose; e.g., "I reckon you don't like soup beans."
+right smart — good deal of; e.g., "a right smart piece" (a long way)
+scald — poor land, bad land
+sigogglin — not built correctly, crooked, out of balance
+skift — a dusting of snow
+slap — full, complete; e.g., "A fall in the river, which went slap-right and straight down."
+smart — hard-working; e.g., "She's a smart womern—always a-cleanin and a-sewin and a-cookin fer 'er famly."
+sop — gravy
+springhouse — a building; usually positioned over a spring used for refrigeration before the advent of refrigerators
+sugar tree — sugar maple tree
+swan/swanny — to swear, to declare to be true
+toboggan — a knit hat or tuque; rarely used to describe a type of sled
+tote — to carry
+tow sack — burlap sack
+whistle pig — groundhog
+yonder/yander — a directional adverb meaning distant from both the speaker and the listener; e.g., "Look over yonder."
+
+Origins
+Early theories regarding the origins of the Appalachian dialect tend to revolve around popular notions regarding the region's general isolation and the belief that the region is culturally static or homogenous. The tendency of Appalachian speakers to retain many aspects of their dialect for a generation or more after moving to large urban areas in the north and west suggests that Appalachian English is conservative rather than isolated.
+Beliefs about Appalachia's isolation led to the early suggestion that the dialect was a surviving relic of long-forgotten forms of English. The most enduring of these early theories suggested that the Appalachian dialect was a remnant of Elizabethan English, a theory popularized by Berea College president William Goddell Frost in the late 1800s. However, while Shakespearean words occasionally appear in Appalachian speech (e.g., afeared), these occurrences are rare. David Hackett Fischer (1989) linked the dialect to the Southern Scots and Northumbrian English dialects of northern [England](1990), southern Scotland and Ulster. However, many aspects of this theory have been questioned by linguists, with Michael Ellis (1992) arguing that the dialect is difficult to attribute to a single source.
+Montgommery (1991, 1995) identifies 18 characteristics of Appalachian grammar, including the use of might could for might be able to, the use of "'un" with pronouns and adjectives (e.g., young'un), the use of "done" as a helping verb (e.g., we done finished it), and 22 words such as airish ("airy") as being derived from the Scotch-Irish, Scottish and Northumbrian dialects of English. The use of double negatives was common in [England](1990) during the 17th and 18th centuries, especially in the Northern English Cumbrian dialect. Montgommery also identified several features, such as the use of the "a-" prefix (e.g., "a-goin'" for "going") and the attachment of "-ed" to certain verbs (e.g., knowed), as originating in Southern and Midland English dialects. The use of "it are" (usually pronounced "it err") in place of "it is" was common among the rural population of the English Midlands and South in the 1500s, 1600s and 1700s, and was correspondingly common amongst British colonists, in particular English colonists in the original thirteen colonies. The phrase fell out of use in [England](1990) sometime in the early 1800s; however, it remained in use in the Appalachia region of North America until the mid-to-late twentieth century. A few items characteristic of Appalachian grammar originate, via [British English](4497) and Scots dialects, in the Old Norse language, having taken root in Britain with Scandinavian settlement there during the Viking Age (c. 800–1050 CE). Two such items are constructions with the word "till" to tell the time of day ("quarter till five") and the use of "at" in place of "that" as both a demonstrative and relative pronoun (Old Norse at ("that")). 
+Some speech habits which can be traced back to the rural areas of northern [England](1990) and the Midlands include the h-retention (e.g., hit for it), the use of the word right in the place of very (e.g., "right cold"), and the presence of words such as yonder. Similarly the word "afeared" was common in northern [England](1990) and the Midlands throughout the 1500s, 1600s and 1700s, though fell out of use in the early 1800s when it was supplanted in literary English after 1700 by the word "afraid". The word was used frequently in the work of Shakespeare. In Appalachia the word simply remained in use and did not get completely supplanted by the word "afraid", unlike in most of the English-speaking world. Though the word "afeared" originates in northern [England](1990) and throughout the Midlands, it is nonetheless incorrect to refer to the word "afeared" as "Elizabethan" because it was commonly used in [England](1990) long after the Elizabethan era (including throughout the 1600s).
+Some pronunciation features reminiscent of those in the Scottish Lowlands and Ulster can also be heard, such as the pin-pen merger and goose fronting, the Scotch-Irish and English settlers had a strong influence on the Appalachian dialect, linguistic analyses suggest that Appalachian English developed as a distinctive dialect among English-speaking people in North America. The Appalachian dialect retains a number of speech patterns found in Colonial [American English](1173) but largely discarded in Standard speech, such as "r" intrusion (e.g., "warsh" for "wash") and a "y" sound in place of "a" on the end of certain words (e.g., "okry" for "okra"). The southern drawl is of an unknown American origin, although some of its characteristics suggest a relationship with the drawl of Ulster accents.
+Native American influences in the Appalachian dialect are virtually nonexistent except for place names (e.g., "Appalachia", "Tennessee", "Chattahoochee River", "Cheoah Mountains"). While early settlers adopted numerous customs from tribes such as the Cherokee and Shawnee, they typically applied existing words from their own languages to those customs.
+
+Relation to the Ozarks
+The traditional Appalachian dialect spread to the Ozark Mountains in northern Arkansas and southern Missouri. Ozark and Appalachian English have been documented together as a single Southern Mountain dialect of the United States.
+Appalachian terms found in Ozark English include fireboard, tow sack, jarfly, and brickle and similar speech patterns also exist, such as epenthetic h (hit instead of it), the use of the "a-" prefix ("a-goin'" for "going"), and the d-stop in place of certain "z" sounds (e.g., "idn't" for "isn't"), all of which is seen in other dialects of older Southern [American English](1173). Studies have shown that Ozark English has more in common with the dialect of East Tennessee than with the dialect of West Tennessee or even Eastern Arkansas. Other distinctive features of Ozark English include phonological idiosyncrasies (many of which it shares with Appalachian English); certain syntactic patterns, such as the use of for to, rather than to, before infinitives in some constructions; and a number of lexical peculiarities.
+
+Controversies surrounding Appalachian English
+Linguistic boundaries of Appalachian English
+The systematic study of linguistic boundaries in the United States has advanced, succeeding its inception in 1949. The systematic study of linguistic boundaries in the United States was established by Hans Kurath. Hans Kurath was an American linguist who is acknowledged for his role as chief editor of the Linguistic Atlas of New [England](1990). The Linguistic Atlas of New [England](1990) was the earliest, complete linguistic atlas of a broad region. Furthermore, many of Hans Kurath's initial ideas about linguistic boundaries are under discussion in the modern-day. Appalachian English is one of the linguistic boundaries constructed by Hans Kurath. The origins of Appalachian English can be traced back to Scottish-Irish ancestors, and include unique grammatical and lexical differences Appalachian English can be found in the following states: Ohio; West Virginia; Kentucky; North Carolina; Northern Georgia; Northern South Carolina; western Virginia; Alabama; and Tennessee. Notwithstanding, when it comes to determining its specific boundaries, some linguists believe that the boundaries should be fuzzy lines. These fuzzy lines should provide rough ideas of boundaries, rather than hard lines, because there is a lot of dialectic variety within these small areas that is often difficult to differentiate. The reality is a range of dialectic variants are commonplace in the Appalachian area of the country. Categorizing all of these different variants under one umbrella may actually further complicate the process of studying the variants of Appalachian speech. Appalachian English is thought to be the oldest form of English to date-including the Shakespearean dialect-which can be a factor contributing to the myth of the dialect being outdated.
+
+Stereotypical views of Appalachian English
+In addition to the linguistic boundary debates, Appalachian English is surrounded by stereotypical views of the area and the people living in it. A sense of "Appalachianism" is positively correlated with a shortage in access to environmental influences. These environmental influences include the following: housing; schooling; employment; medical assistance; and money. Appalachian English is often viewed by outsiders as a dialect of uneducated people. Individuals from Appalachia tend to be perceived as low-income and lower class, regardless of the individual's actual situation. Historically, these ideas originated prior to the onset of the American Civil War. Appalachian stereotypes are damaging to natives of the area. Consequently, natives hide or modify their accent when visiting or moving to areas outside of Appalachia. This is done in fear of accent discrimination. Accent discrimination undermines intelligence and the character of an individual. Furthermore, easier access to social relations via the internet has expanded the quantity of negative beliefs associated with individuals from Appalachia. Despite all of the debates surrounding this dialect and whether or not its boundaries are legitimate and correct, to the people of Appalachia, their variety of English is central to their identities regardless of how it is seen by linguists, as well as outsiders. According to expert linguist Kirk Hazen, "Appalachia is the most misunderstood region in the nation". There are roles/portrayals of the language that have inspired it to be falsely associated with a stereotypical "hillbilly". Thus, creating misjudgments from non-Appalachians about the region.
+
+See also
+Appalachian American
+Southern [American English](1173)
+
+Notes
+References
+Further reading
+External links
+"Hall Speakers and Transcripts – Southern Appalachian English". College of Arts and Sciences – College of Arts and Sciences | University of South Carolina. Retrieved August 13, 2019. – sound files of interviews with long-time residents of the Great Smoky Mountains conducted in 1939 by the University of South Carolina.

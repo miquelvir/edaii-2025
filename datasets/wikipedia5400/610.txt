@@ -1,0 +1,144 @@
+610
+Ismail al-Jazari
+Badīʿ az-Zaman Abu l-ʿIzz ibn Ismāʿīl ibn ar-Razāz al-Jazarī (1136–1206, Arabic: بَدِيعُ الزَّمانِ أَبُو العِزِّ بْنُ إسْماعِيلَ بْنِ الرَّزَّازِ الجَزَرِيّ, IPA: ældʒæzæriː) was a Muslim polymath: a scholar, inventor, mechanical engineer, artisan and artist from the Artuqid Dynasty of Jazira in Mesopotamia. He is best known for writing The Book of Knowledge of Ingenious Mechanical Devices (Arabic: كتاب في معرفة الحيل الهندسية, romanized: Kitab fi ma'rifat al-hiyal al-handasiya, lit. 'Book in knowledge of engineering tricks', also known as Automata) in 1206, where he described 50 mechanical devices, along with instructions on how to construct them. One of his more famous inventions is the elephant clock. He has been described as the "father of robotics" and modern day engineering.
+
+Biography
+[Al-Jazari](610) was born in the area of Upper Mesopotamia in 1136. Sources state his exact location is unknown, but they speculate he could have been born in Jazirat ibn Umar, where he got the name Jazari from or Al-Jazira which was used to denote Upper Mesopotamia. The only biographical information known about him is contained in his Book of Knowledge of Ingenious Mechanical Devices. Like his father before him, he served as chief engineer at the Artuklu Palace, the residence of the Mardin branch of the Artuqids which ruled across Upper Mesopotamia as vassals of the Zengid dynasty of Mosul and later of Ayyubid general Saladin. Little is known about his ethnic background, so he has been variously described as Arab,: 21  Kurdish or Persian.
+[Al-Jazari](610) was part of a tradition of artisans and was thus more a practical engineer than an inventor who appears to have been "more interested in the craftsmanship necessary to construct the devices than in the technology which lay behind them" and his machines were usually "assembled by trial and error rather than by theoretical calculation". His Book of Knowledge of Ingenious Mechanical Devices appears to have been quite popular as it appears in a large number of manuscript copies, and as he explains repeatedly, he only describes devices he has built himself. According to Mayr, the book's style resembles that of a modern "do-it-yourself" book.
+Some of his devices were inspired by earlier devices, such as one of his monumental water clocks, which was based on that of a Pseudo-Archimedes. He also cites the influence of the Banū Mūsā brothers for his fountains, al-Saghani for the design of a candle clock, and Hibatullah ibn al-Husayn (d. 1139) for musical automata. [Al-Jazari](610) goes on to describe the improvements he made to the work of his predecessors, and describes a number of devices, techniques and components that are original innovations which do not appear in the works by his precessors.: 21–22
+
+1206 edition (Ahmet III 3472)
+The Artuqid ruler Nasr al-Din Mahmud (r. 1201–1222) is known to have commissioned the first edition of Al-Jāmi‘ fī ṣinā‘at al-ḥiyal of Ibn al-Razzaz al-Jazari, in April 1206 at the Artuqid court. This manuscript is known as Ahmet III 3472, now in the Topkapı Sarayı Library. The miniatures are thought to reflect various aspects of the Artuqid court at the time. Ibn al-Razzaz al-Jazari was employed at the Artuqid court during the last quarter of the 12th century, and this is the earliest known manuscript of his opus.
+
+Mechanisms and methods
+The most significant aspect of al-Jazari's machines are the mechanisms, components, ideas, methods, and design features which they employ.
+
+Camshaft
+A camshaft, a shaft to which cams are attached, was described in 1206 by al-Jazari, who employed them in his automata, water clocks (such as the candle clock) and water-raising machines.
+
+Crankshaft and crank-slider mechanism
+The eccentrically mounted handle of the rotary quern-stone in fifth century BCE Spain that spread across the Roman Empire constitutes a crank. The earliest evidence of a crank and connecting rod mechanism dates to the 3rd century AD Hierapolis sawmill in the Roman Empire. The crank also appears in the mid-9th century in several of the hydraulic devices described by the Banū Mūsā brothers in their [Book of Ingenious Devices](634).
+In 1206, al-Jazari invented an early crankshaft, which he incorporated with a crank-connecting rod mechanism in his twin-cylinder pump. Like the modern crankshaft, al-Jazari's mechanism consisted of a wheel setting several crankpins into motion, with the wheel's motion being circular and the pins moving back-and-forth in a straight line. The crankshaft described by al-Jazari transforms continuous rotary motion into a linear reciprocating motion, and is central to modern machinery such as the steam engine, internal combustion engine and automatic controls.
+He used the crankshaft with a connecting rod in two of his water-raising machines: the crank-driven saqiya chain pump and the double-action reciprocating piston suction pump. His water pump also employed the first known crank-slider mechanism.
+
+Design and construction methods
+English technology historian Donald Hill writes:
+
+We see for the first time in al-Jazari's work several concepts important for both design and construction: the lamination of timber to minimize warping, the static balancing of wheels, the use of wooden templates (a kind of pattern), the use of paper models to establish designs, the calibration of orifices, the grinding of the seats and plugs of valves together with emery powder to obtain a watertight fit, and the casting of metals in closed mold boxes with sand.
+
+Escapement mechanism in a rotating wheel
+[Al-Jazari](610) invented a method for controlling the speed of rotation of a wheel using an escapement mechanism.
+
+Mechanical controls
+According to Donald Hill, al-Jazari described several early mechanical controls, including "a large metal door, a combination lock and a lock with four bolts".
+
+Conical valve and segmental gear
+A segmental gear is "a piece for receiving or communicating reciprocating motion from or to a cogwheel, consisting of a sector of a circular gear, or ring, having cogs on the periphery, or face." Lynn Townsend White wrote:
+
+Western scholars had thought that conical valves first appeared in Leonardo's drawings, but al-Jazarl's pictures show them. Similarly, segmental gears first clearly appear in al-Jazarl; in the West they emerge in Giovanni de’ Dondi's astronomical clock finished in 1364; with the great Sienese engineer Francesco di Giorgio (d. 1501) they entered the general vocabulary of European machine design.
+
+Water-raising machines
+[Al-Jazari](610) invented five machines for raising water, as well as watermills and water wheels with cams on their axle used to operate automata, in the 12th and 13th centuries, and described them in 1206. It was in these water-raising machines that he introduced his most important ideas and components.
+
+Saqiya chain pumps
+The first known use of a crankshaft in a chain pump was in one of al-Jazari's saqiya machines. The concept of minimizing intermittent working is also first implied in one of al-Jazari's saqiya chain pumps, which was for the purpose of maximising the efficiency of the saqiya chain pump. [Al-Jazari](610) also constructed a water-raising saqiya chain pump which was run by hydropower rather than manual labour, though the Chinese were also using hydropower for chain pumps prior to him. Saqiya machines like the ones he described have been supplying water in Damascus since the 13th century up until modern times, and were in everyday use throughout the medieval Islamic world.
+Interestingly, the depiction of the chain in al-Jazari's pump appears to be in the form of a Möbius strip, from long before the Möbius strip was first identified as an object of study in mathematics.
+
+Double-action suction pump with valves and reciprocating piston motion
+[Al-Jazari](610) described suction pipes, suction pump, double-action pump, and made early uses of valves and a crankshaft-connecting rod mechanism, when he developed a twin-cylinder reciprocating piston suction pump. This pump is driven by a water wheel, which drives, through a system of gears, an oscillating slot-rod to which the rods of two pistons are attached. The pistons work in horizontally opposed cylinders, each provided with valve-operated suction and delivery pipes. The delivery pipes are joined above the centre of the machine to form a single outlet into the irrigation system. This water-raising machine had a direct significance for the development of modern engineering. This pump is remarkable for three reasons:
+
+The first known use of a true suction pipe (which sucks fluids into a partial vacuum) in a pump.
+The first application of the double-acting principle.
+The conversion of rotary to reciprocating motion via the crank-connecting rod mechanism.
+[Al-Jazari](610)'s suction piston pump could lift 13.6 metres of water, with the help of delivery pipes. It was not, however, any more efficient than the noria commonly used by the Muslim world at the time.
+[Al-Jazari](610) cited the Byzantine siphon used for discharging Greek fire as an inspiration for his pump. According to Donald Hill, al-Jazari's pump can be considered "a direct ancestor of the steam engine combination". According to Joseph Needham, al-Jazari's slot-rod force pump is one of "the two machines of the Middle Ages which lie most directly in the line of ancestry of the steam-engine and the locomotive" along with Wang Zhen's blowing engine a century later.
+
+Single-bucket and four-bucket water lifting machines
+[Al-Jazari](610) described single-bucket and four-bucket water lifting machines. The single-bucket version employs differentials, semi-circular gear units, bucket elevators, and gearboxes, while the four-bucket version adds a mechanical timer.
+
+Water supply system
+[Al-Jazari](610) developed the earliest water supply system to be driven by gears and hydropower, which was built in 13th century Damascus to supply water to its mosques and Bimaristan hospitals. The system had water from a lake turn a scoop-wheel and a system of gears which transported jars of water up to a water channel that led to mosques and hospitals in the city.
+
+Automata
+[Al-Jazari](610) built automated moving peacocks driven by hydropower. He also created automatic doors as part of one of his elaborate water clocks, and invented water wheels with cams on their axle used to operate automata. According to Encyclopædia Britannica, the Italian Renaissance inventor Leonardo da Vinci may have been influenced by the classic automata of al-Jazari.
+Mark E. Rosheim summarizes the advances in robotics made by Muslim engineers, especially al-Jazari, as follows:
+
+Unlike the Greek designs, these Arab examples reveal an interest, not only in dramatic illusion, but in manipulating the environment for human comfort. Thus, the greatest contribution the Arabs made, besides preserving, disseminating and building on the work of the Greeks, was the concept of practical application. This was the key element that was missing in Greek robotic science.
+The Arabs, on the other hand, displayed an interest in creating human-like machines for practical purposes but lacked, like other preindustrial societies, any real impetus to pursue their robotic science.
+
+Drink-serving waitress
+One of al-Jazari's humanoid automata was a waitress that could serve water, tea or drinks. The drink was stored in a tank with a reservoir from where the drink drips into a bucket and, after seven minutes, into a cup, after which the waitress appears out of an automatic door serving the drink.
+
+Hand-washing automaton with flush mechanism
+[Al-Jazari](610) invented a hand washing automaton incorporating a flush mechanism now used in modern flush toilets. This device is another example of humanoid automata. It consisted of a human figure, made from jointed copper, holding a pitcher resembling a peacock in its right hand. The pitcher is made from brass and holds within it a chamber, divided into two parts by a metal plate. This mechanism aided the pouring of the water from the spout so that it was smooth and would not splutter. The reservoir in which the water is held is situated within the right-hand side of the human figure. An axle is fitted into the right elbow of the human figure so as to allow the liquid to pour from the reservoir through the spout of the pitcher. The left arm of the figure had a fixed weight which would raise and lower the arm which would hold a towel, comb and mirror.
+This automaton was designed to aid the king whilst he performed his ritual ablutions. A servant of the king would carry the figure and place it next to a basin that could hold liquid. The servant then turned a knob on the back of the figure which opened a valve resulting in the pouring of water from the right hand of the figure into the basin. When the reservoir is nearly empty and most of the water has been poured a mechanism is prompted and the left hand of the figure, holding the towel, comb and mirror, is extended out in the direction of the king so that he can dry himself and tend to his beard.
+
+Peacock fountain with automated servants
+Water and its usages holds particular importance in Islam; both as being an integral part of the pre-prayer washing processes wudu and ghusl, and a key feature in Islamic gardens – four fountains featuring in the Paradise Garden; the Islamic final resting place referenced in the Quran. Additionally, with Mesopotamia being a naturally drought-ridden place, machines relating to water held a significant function; in both a divine and practical sense.
+An entire section of The Book of Knowledge of Ingenious Mechanical Devices was devoted to fountain mechanisms, titled: ‘On the construction in pools of fountains which change their shape, and of machines for the perpetual flute’.
+[Al-Jazari](610)'s "peacock fountain" was a more sophisticated hand washing device featuring humanoid automata as servants which offer soap and towels. Mark E. Rosheim describes it as follows:
+
+Pulling a plug on the peacock's tail releases water out of the beak; as the dirty water from the basin fills the hollow base a float rises and actuates a linkage which makes a servant figure appear from behind a door under the peacock and offer soap. When more water is used, a second float at a higher level trips and causes the appearance of a second servant figure – with a towel!
+
+The basin of the "peacock fountain" formed the basin for performing wudu, and it would have been operated by a servant, who would have pulled the plug and positioned the peacock's beak; allowing the mechanism to release the water into the basin in front of the user.
+
+However, whilst water moving objects such as the peacock fountain had ritualistic usage, there is suggestion that water-moving hydraulics were put to profane use. Ayhan Aytes suggests that:Many of the devices also had additional functions that contradicted divine omnipotence. The most profane purpose of several of his hydraulic and pnuematic automata was to get guests at parties drunk as quickly as possible.
+
+Musical robot band
+[Al-Jazari](610)'s work described fountains and musical automata, in which the flow of water alternated from one large tank to another at hourly or half-hourly intervals. This operation was achieved through his innovative use of hydraulic switching.
+[Al-Jazari](610) created a musical automaton, which was a boat with four automatic musicians that floated on a lake to entertain guests at royal drinking parties. Professor Noel Sharkey has argued that it is quite likely that it was an early programmable automata and has produced a possible reconstruction of the mechanism; it has a programmable drum machine with pegs (cams) that bump into little levers that operated the percussion. The drummer could be made to play different rhythms and different drum patterns if the pegs were moved around.
+
+The water-clock of the drummers
+The water-clock of the drummers, which differs from the Musical robot band in that it lacks a flute-playing doll and instead has two trumpeters, consists of seven wood-jointed male figures, including the aforementioned trumpeters as well as two dolls playing cymbals and the rest playing other percussive instruments. The mechanism in this specific automaton serves as a clock by producing a musical output once every hour, illustrating [Al-Jazari](610)'s ability to create multi-faceted automata that functioned on a practical and entertainment level. The motion of the automaton is initiated at daybreak by another male doll, who stands at the edge of the frieze element of the design, moving across until he reaches a specific point at which a carved falcon leans forward dropping a ball from its beak onto a cymbal. All mechanical aspects of the automaton are then driven by water and a series of pistons and cables. Each hour water drains out of the main cistern to cause another bucket to tip over driving a water wheel that is connected to the musicians. The automaton is described to ‘perform a with a clamorous sound which is heard from afar’ and could play several different tunes. Like many other automatons by [Al-Jazari](610), this was created to entertain guests at the royal palace.
+
+Clocks
+[Al-Jazari](610) constructed a variety of water clocks and candle clocks. These included a portable water-powered scribe clock, which was a meter high and half a meter wide, reconstructed successfully at the Science Museum in 1976 [Al-Jazari](610) also invented monumental water-powered astronomical clocks which displayed moving models of the Sun, Moon, and stars.
+
+Candle clocks
+According to Donald Hill, al-Jazari constructed the most sophisticated candle clocks known to date. Hill described one of al-Jazari's candle clocks as follows:
+
+The candle, whose rate of burning was known, bore against the underside of the cap, and its wick passed through the hole. Wax collected in the indentation and could be removed periodically so that it did not interfere with steady burning. The bottom of the candle rested in a shallow dish that had a ring on its side connected through pulleys to a counterweight. As the candle burned away, the weight pushed it upward at a constant speed. The automata were operated from the dish at the bottom of the candle. No other candle clocks of this sophistication are known.
+[Al-Jazari](610)'s candle clock also included a dial to display the time and, for the first time, employed a bayonet fitting, a fastening mechanism still used in modern times.
+
+Elephant clock
+The elephant clock described by al-Jazari in 1206 is notable for several innovations. It was the first clock in which an automaton reacted after certain intervals of time (in this case, a humanoid robot striking the cymbal and a mechanical robotic bird chirping) and the first water clock to accurately record the passage of the temporal hours to match the uneven length of days throughout the year.
+
+Castle clock
+[Al-Jazari](610)'s largest astronomical clock was the "castle clock", which was a complex device that was about 11 feet (3.4 m) high, and had multiple functions besides timekeeping. It included a display of the zodiac and the solar and lunar orbits, and an innovative feature of the device was a pointer in the shape of the crescent moon which travelled across the top of a gateway, moved by a hidden cart, and caused automatic doors to open, each revealing a mannequin, every hour.
+Another feature of the device was five automata musicians who automatically play music when moved by levers operated by a hidden camshaft attached to a water wheel.
+[Al-Jazari](610) invented water clocks that were driven by both water and weights. These included geared clocks and a portable water-powered scribe clock, which was a meter high and half a meter wide. The scribe with his pen was synonymous to the hour hand of a modern clock. [Al-Jazari](610)'s famous water-powered scribe clock was reconstructed successfully at the Science Museum, London in 1976.
+
+Miniature paintings
+Alongside his accomplishments as an inventor and engineer, al-Jazari was also an accomplished artist. In The Book of Knowledge of Ingenious Mechanical Devices, he gave instructions of his inventions and illustrated them using miniature paintings, a medieval style of Islamic art.
+
+See also
+Hero of Alexandria
+History of the internal combustion engine
+List of inventions in the medieval Islamic world
+Islamic Golden Age
+Science in the medieval Islamic world
+Lists of Muslim scientists and scholars
+Taqi ad-Din Muhammad ibn Ma'ruf
+
+Notes
+References
+Balafrej, Lamia (2022). "Automated Slaves, Ambivalent Images, and Noneffective Machines in al-Jazari's Compendium of the Mechanical Arts, 1206". 21: Inquiries into Art, History, and the Visual. 3 (4): 737–774. doi:10.11588/xxi.2022.4.91685. ISSN 2701-1569.
+al-Hassan, Ahmad Y.; Hill, Donald (1992). Islamic Technology: An Illustrated History. [Cambridge University Press](645). ISBN 978-0-521-42239-0.
+Beckwith, Guy V. (1 October 1997). Readings in Technology and Civilization. Pearson Custom Publishing. ISBN 978-0-536-00579-3.
+Hill, Donald (1998). Studies in Medieval Islamic Technology: From Philo to Al-Jazarī, from Alexandria to Diyār Bakr. Ashgate. ISBN 978-0-86078-606-1.
+Claus-Peter Haase, Modest Variations—Theoretical Tradition and Practical Innovation in the Mechanical Arts from Antiquity to the Arab Middle Ages, in: Zielinski, Siegfried; Fürlus, Eckhard (2010). Variantology: On deep time relations of arts, sciences and technologies in the Arabic-Islamic world and beyond. Distributed Art Pub Incorporated. ISBN 978-3-86560-732-4.
+Ulrich Alertz, The Horologium of Hārūn al-Rashīd Presented to Charlemagne – An Attempt to Identify and Reconstruct the Clock Using the Instructions Given by al-Jazarī, in: Zielinski, Siegfried; Fürlus, Eckhard (2010). Variantology: On deep time relations of arts, sciences and technologies in the Arabic-Islamic world and beyond. Distributed Art Pub Incorporated. ISBN 978-3-86560-732-4.
+George Saliba, Blurred Edges—At the Intersection of Science, Culture, and Art, in: Zielinski, Siegfried; Fürlus, Eckhard (2010). Variantology: On deep time relations of arts, sciences and technologies in the Arabic-Islamic world and beyond. Distributed Art Pub Incorporated. ISBN 978-3-86560-732-4.
+Amnon Shiloah, The Paradigmatic-Individualistic Approach of Arab Musical Creativeness, in: Zielinski, Siegfried; Fürlus, Eckhard (2010). Variantology: On deep time relations of arts, sciences and technologies in the Arabic-Islamic world and beyond. Distributed Art Pub Incorporated. ISBN 978-3-86560-732-4.
+Eilhard Wiedemann, On Musical Automata, in: Zielinski, Siegfried; Fürlus, Eckhard (2010). Variantology: On deep time relations of arts, sciences and technologies in the Arabic-Islamic world and beyond. Distributed Art Pub Incorporated. ISBN 978-3-86560-732-4.
+Hill, Donald Routledge (1974). The Book of Knowledge of Ingenious Mechanical Devices (Kitab fi Ma'rifat al-Hiyal al-Handasiyya) by ibn al-Razzaz al-Jazari. D. Reidel Publishing Company.
+Hill, Donald (2012). The Book of Knowledge of Ingenious Mechanical Devices: (Kitāb fī ma 'rifat al-ḥiyal al-handasiyya). Springer Science & Business Media. ISBN 978-94-010-2573-7.
+Hill, Donald (2013). A History of Engineering in Classical and Medieval Times. Routledge. ISBN 978-1-317-76157-0.
+Paratico, Angelo. Leonardo Da Vinci. A Chinese Scholar Lost in Renaissance Italy. {{cite book}}: Check |url= value (help)
+
+Further reading
+Hill, Donald R. (2008) 1970-80. "Al-jazarī, Badīʿ Al-zamān Abū'l-ʿizz Ismāʿīl Ibn Al-razzāz". Complete Dictionary of Scientific Biography. Encyclopedia.com.
+
+External links
+ Media related to [Al-Jazari](610) at Wikimedia Commons
+"Al Jazari's Book - The Book Of Knowledge Of Ingenious Mechanical Devices'

@@ -1,0 +1,45 @@
+4520
+Alt code
+On personal computers with numeric keypads that use Microsoft operating systems, such as Windows, many characters that do not have a dedicated key combination on the keyboard may nevertheless be entered using the Alt code (the Alt numpad input method). This is done by pressing and holding the Alt key, then typing a number on the keyboard's numeric keypad that identifies the character and then releasing Alt.
+
+MS-DOS
+On IBM PC compatible personal computers from the 1980s, the BIOS allowed the user to hold down the Alt key and type a decimal number on the keypad. It would place the corresponding code into the keyboard buffer so that it would look (almost) as if the code had been entered by a single keystroke. Applications reading keystrokes from the BIOS would behave according to what action they associate with that code. Some would interpret the code as a command, but often it would be interpreted as an 8-bit character from the current code page that was inserted into the text the user was typing. On the original IBM PC the code page was CP437.
+Some Eastern European, Arabic and Asian computers used other hardware code pages, and MS-DOS was able to switch between them at runtime with commands like  KEYB, CHCP or MODE. This causes the Alt combinations to produce different characters (as well as changing the display of any previously-entered text in the same manner). A common choice in locales using variants of the Latin alphabet was CP850, which provided more Latin character variants. (There were, however, many more code pages; for a more complete list, see code page).
+PC keyboards designed for non-English use included other methods of inserting these characters, such as national keyboard layouts, the AltGr key or dead keys, but the Alt key was the only method of inserting some characters, and the only method that was the same on all machines, so it remained very popular. This input method is emulated by many pieces of software (such as later versions of MS-DOS and Windows) that do not use the BIOS keyboard decoding.
+In the ASCII standard, the numbers 0-31 and 127 are assigned to control characters, for instance, code point 7 is typed by Ctrl+G. While some (most?) applications would insert a bullet character • (code point 7 on code page 437), some would treat this identical to Ctrl+G which often was a command for the program.
+
+Windows
+The Alt codes had become so well known and memorized by users that Microsoft decided to preserve them in Microsoft Windows, even though the OS features a newer and different set of code pages, such as CP1252. Windows includes the following processing algorithm for Alt code, which supports both methods:
+
+The familiar Alt+### combination (where ### is from 0 to 255) retains the old MS-DOS behavior, i.e., generates characters from the legacy code pages now called "OEM code pages." For instance, the combination Alt+163 would result in ú (Latin letter u with acute accent) which is at 163 in the OEM code page of CP437 or CP850. This did not work for characters not in the Windows Code Page (such as box-drawing characters).
+The new Alt+0### combination (which prefixes a zero to each Alt code), produces characters from the newer "Windows code pages." For example, Alt+0163 yields the character £ (symbol for the pound sterling) which is at 163 in CP1252.
+
+Unicode
+Later versions of Windows and applications such as Microsoft Word supported Unicode. As Unicode included all the characters in the MSDOS code pages, this had the immediate benefit that all the old MSDOS Alt combinations worked, not just the ones that existed in the Windows Code Page.
+In the IBM PC Bios typing an Alt code greater than 255 produced the same as that number modulo 256. Some applications retained this behavior, while others (in particular applications using the Windows RichEdit control, such as WordPad and PSPad) made numbers from 256 to 65,535 produce the corresponding Unicode character. For instance, Alt+9731 in WordPad produces the U+2603 ☃ SNOWMAN. If the Windows Code Page was set to CP1252 then all Unicode characters except control characters could be typed this way.
+
+Alternatives
+Because most Unicode documentation and character tables show the code points in hex, not decimal, a variation of Alt codes was developed to allow the typing of numbers in hex (using the main keyboard for A–F). To enable it, a user must set or create a string type (REG_SZ) value called EnableHexNumpad in the registry key HKEY_CURRENT_USER\Control Panel\Input Method, assign the value data 1 to it, and then reboot or log out/in. A leading + then indicates hex input, for example Alt++11B will produce ě (e with caron).
+There are many other ways of typing arbitrary Unicode characters, such as the Character Map utility.
+
+Other operating systems
+The Alt key method does not work on ChromeOS, macOS, Linux or other operating systems and there is no evidence of interest in replicating it. However, numeric entry of Unicode characters is possible in most Unix or Unix-like OSs by pressing and releasing Ctrl+⇧ Shift+U, and typing the hex number followed by the space bar or enter key. For example, 
+
+For the registered trademark symbol ®, type Ctrl+⇧ Shift+U, AE, ↵ Enter.
+For the  no entry sign ⛔, type Ctrl+⇧ Shift+U, 26D4, ↵ Enter.
+
+Limitations
+If Num lock is disabled, attempting an Alt code may cause unexpected results in some applications, due to the controls used on the same key. For example, Alt+4 can be taken as Alt+←, causing a web browser to go back one page.
+
+List of codes
+See also
+Combining character
+Compose key for other operating systems
+Keyboard layout
+List of Unicode characters
+Numeric character reference
+
+Notes
+
+
+== References ==

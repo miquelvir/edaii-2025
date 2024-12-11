@@ -1,0 +1,169 @@
+67
+Cat health
+The health of domestic cats is a well studied area in veterinary medicine.
+Topics include infectious and genetic diseases, diet and nutrition and non-therapeutic surgical procedures such as neutering and declawing.
+
+Diseases
+Infectious diseases
+An infectious disease is caused by the presence of pathogenic organisms such as viruses, bacteria, fungi, or parasites (either animalian or protozoan).  Most of these diseases can spread from cat to cat via airborne pathogens or through direct or indirect contact, while others require a vector such as a tick or mosquito. Certain infectious diseases are a concern from a public health standpoint because they are a Feline zoonosis and transmittable to humans.
+
+Viral
+Viral diseases in cats can be serious, especially in catteries and kennels. Timely vaccination can reduce the risk and severity of an infection. The most commonly recommended viruses to vaccinate cats against are:
+
+Feline herpesvirus 1 (FHV-1), a viral cause of feline viral rhinotracheitis, a respiratory infection of cats.
+Feline calicivirus (FCV), a common viral cause of respiratory infection in cats.
+Feline parvovirus, which causes feline panleukopenia (FPV), more commonly known as feline distemper.
+Feline leukemia virus (FeLV), a retrovirus.
+Rabies, a fatal disease transmitted by the bite of an infected mammal. In the United States, cats make up 4.6% of reported cases of rabies infected animals.
+Viruses for which there are no vaccines:
+
+Feline immunodeficiency virus (FIV), a lentivirus and genetic relative of HIV. There is no approved vaccine for FIV in North America.
+Feline infectious peritonitis virus (FIPV), a mutation of feline enteric coronavirus (FECV/FeCoV) that causes feline infectious peritonitis (FIP), a fatal incurable disease.
+See: Global spread of H5N1#Felidae (cats)
+
+Bacterial
+Chlamydia felis
+
+Fungal
+Ringworm
+Cryptococcus
+Malassezia pachydermatis
+
+Parasites
+Veterinary parasitology studies both external and internal parasites in animals. External parasites, such as fleas, mites, ticks and mosquitoes can cause skin irritation, and are also often carriers of other diseases or of internal parasites.
+
+External parasites
+Ear mites and other mites can cause skin problems such as mange.
+Ticks, fleas, and mosquitoes often carry multiple blood-borne diseases.
+
+Internal parasites
+Heartworm
+Hookworm
+Roundworm
+Toxoplasma gondii
+Cytauxzoon felis
+
+Genetic diseases
+Domestic cats are affected by over 250 naturally occurring hereditary disorders, many of which are similar to those in humans, such as diabetes, hemophilia and Tay–Sachs disease. For example, [Abyssinian cat](1)'s pedigree contains a genetic mutation that causes retinitis pigmentosa, which also affects humans.
+
+Familial renal disease is inherited in Abyssinians and Persians
+Feline hypertrophic cardiomyopathy
+Heart valve dysplasia
+Heterochromia
+Luxating patella
+Portosystemic shunt. Found in Persians and Himalayans.
+Flat-chested kitten syndrome
+
+Skin disorders
+Skin disorders are among the most common health problems in cats and have many causes. The condition of a cat's skin and coat can be an important indicator of its general health.
+
+Cheyletiellosis is a mild dermatitis caused by mites of the genus Cheyletiella. It is also known as walking dandruff due to skin scales being carried by the mites.
+Feline acne
+Feline eosinophilic granuloma
+Flea allergy dermatitis
+Miliary dermatitis (feline eczema)
+Mange
+Nutritional skin disorders
+
+Tumors and cancer
+Bladder cancer
+Bone cancer
+Intestinal cancer
+Liver cancer
+Lymphoma in animals
+Mammary tumor
+Mast cell tumor
+Nose cancer
+Skin cancer
+Soft tissue sarcoma
+Stomach cancer
+
+Other diseases
+Anal sacs impaction
+Cerebellar hypoplasia is a disorder found in cats and dogs in which the cerebellum is not completely mature at birth. Cerebellar hypoplasia causes jerky movements, tremors and generally uncoordinated motion.  The animal often falls down and has trouble walking.  Tremors increase when the animal is excited and subside when at ease.
+A corneal ulcer is an inflammatory condition of the cornea involving loss of its outer layer.  It is very common in dogs and is sometimes seen in cats.
+Diabetes
+Feline hyperaldosteronism
+Feline hyperthyroidism
+Epilepsy is characterized by recurrent unprovoked seizures. Epilepsy in cats is rare likely because there is no hereditary component to epilepsy in cats.
+Feline asthma
+Feline hepatic lipidosis also known as Feline Fatty Liver Syndrome, is one of the most common forms of liver disease of cats. The disease begins when the cat stops eating from a loss of appetite, forcing the liver to convert body fat into usable energy.
+Feline lower urinary tract disease is a term that is used to cover many problems of the feline urinary tract, including stones and cystitis. The term feline urologic syndrome is an older term which is still sometimes used for this condition. It is a common disease in adult cats, though it can strike in young cats too. It may present as any of a variety of urinary tract problems, and can lead to a complete blockage of the urinary system, which if left untreated is fatal.
+Feline odontoclastic resorptive lesion
+Feline spongiform encephalopathy
+Polyneuropathy
+Pyometra
+Uterine unicornis a condition in which the female cat is missing a uterine horn.  A rare discovery by veterinarians, the condition can be detected by x-ray or ultrasound prior to spaying if the patient has a family history of the medical condition.  There is no known scientific study to prove that uterine unicornis is a hereditary genetic disorder.  In some cases, the patient may also be missing a kidney on the same side as its missing uterine horn.  This phenomenon is also called unilateral renal agenesis.
+
+Zoonosis
+Researchers at the University of Cornell Feline Health Center believe that "most zoonotic diseases pose minimal threat" to humans.  However some humans are particularly at risk.  These are people "with immature or weakened immune systems" (infants, the elderly, people undergoing cancer therapy, and individuals with acquired immunodeficiency syndrome).
+Some common and preventable forms of zoonosis are as follows:
+
+Toxoplasmosis
+Giardia
+[Cat](54)-scratch disease
+Rabies
+Ringworm
+
+Preventive medicine
+Vaccinations
+Vaccinations are an important preventive animal health measure. The specific vaccinations recommended for cats varies depending on geographic location, environment, travel history, and the activities the animal frequently engages in. In the United States, regardless of any of these factors, it is usually highly recommended that cats be vaccinated against rabies, feline herpesvirus 1 (FHV-1), feline calicivirus (FCV), and feline panleukopenia virus (FPV).  The decision on whether to vaccinate against other diseases should be made between an owner and a veterinarian, taking into account factors specific to the cat.
+
+Detection of diseases
+Feline diseases such as FeLV, FIV, and feline heartworm can be detected during a routine visit to a veterinarian.  A variety of tests exist that can detect feline illnesses, and with early detection most diseases can be managed effectively.
+
+Parasite medication
+Once-a-month topical products or ingestible pills are the most commonly used products to kill and prevent future parasite infestations.
+
+Diet and nutrition
+Veterinarians commonly recommend commercial cat foods that are formulated to address the specific nutritional requirements of cats, although an increasing number of owners are opting for home-prepared cooked or raw diets.
+Although cats are obligate carnivores, vegetarian and vegan cat food are preferred by owners uncomfortable with feeding animal products to their pets. The U.S. Food and Drug Administration Center for Veterinary Medicine has come out against vegetarian cat and dog food for health reasons. [Cat](54)s require high levels of taurine in their diet. Taurine is an organic acid found in animal tissues. It is a major constituent of bile and can be found in the large intestine. Taurine has many  biological roles, such as conjugation of bile acids, antioxidation, membrane stabilization, and modulation of calcium signaling. It is essential for cardiovascular function in cats, as well as the development and function of skeletal muscle, the retinas, and the central nervous system. Although meat protein can be substituted with vegetable proteins, vegetable proteins do not provide a sufficiency of the specific amino acids which are vital for a cat's body to function.
+[Cat](54)s can be selective eaters. Although it is extremely rare for a cat to deliberately starve itself to the point of injury, in obese cats, the sudden loss of weight can cause a fatal condition called feline hepatic lipidosis, a liver dysfunction which causes pathological loss of appetite and reinforces the starvation, which can lead to death within as little as 48 hours.
+Pica is a condition in which animals chew or eat unusual things such as fabric, plastic or wool. In cats, this can be fatal or require surgical removal if a large amount of foreign material is ingested (for example, an entire sock). It tends to occur more often in Burmese, Oriental, and Siamese breeds.
+
+Food allergy
+Food allergy is a non-seasonal disease with skin and/or gastrointestinal disorders. The main complaint is pruritus. The exact prevalence of food allergy in cats remains unknown. There is no breed, sex or age predilection, although some breeds are commonly affected. Before the onset of clinical signs, the animals have been fed the offending food components for at least two years, although some animals are less than a year old. In 20 to 30% of the cases, cats have concurrent allergic diseases (atopy / flea-allergic dermatitis). A reliable diagnosis can only be made with an elimination diet. Challenge–dechallenge–rechallenge is necessary for the identification of the causative food component(s). Therapy consists of avoiding the offending food component(s). [Cat](54)s with food allergies may present with red, hairless, and scabby skin. Hair loss usually occurs on the face and/or anus. Depending on the severity of the reaction, it may take two weeks to three months for a cat to recover once the offending allergen is removed.
+
+Food dangerous to cats
+A number of common human foods and household ingestibles are toxic to cats, including chocolate solids, onion, garlic, avocados, grapes, raisins, coffee, tomato and tomato leaves, and milk.
+Phenolic compounds such as those in TCP are harmful to cats.
+
+Malnutrition
+Malnutrition in cats is currently uncommon due to complete and balanced diets being formulated and fed. Yet it can still occur if the cat's food intake decreases beyond what the food can provide, if interactions occur between ingredients or nutrients, if mistakes are made during formulation or manufacturing, and if the food is stored for a lengthy amount of time. If a cat becomes malnourished, a deficiency of energy, protein, taurine, essential fatty acids, minerals (calcium, phosphorus, magnesium, sodium, potassium), vitamins (A, D, E, thiamine, niacin, biotin), and trace elements (iron, copper, zinc, iodine, selenium) can occur, causing a multitude of deficiency symptoms.
+For information about a correct cat diet, see [Cat](54) food.
+
+Central retinal degeneration
+One of the cat diseases caused by malnutrition is central retinal deficiency, a dysfunction in cats that can be hereditary as well.
+The retina, a thin layer of tissue in the back of the eye, is the structure affected by this disorder. This structure receives the light gathered and focused from the lens. It essentially takes light and converts it into electrical nerve signals that the brain interprets as vision. The retina contains rods and cones, which are photo-receptors that help the animal see (rods) and visualize certain colors (cones).
+Retinal degeneration can be caused by a taurine deficiency, which is why many cat foods are supplemented with taurine. Central retinal deficiency is irreversible, but its effects can be significantly hindered if a diet supplemented with adequate amounts of taurine is provided. Vitamin deficiencies in A and E can also lead to retinal degeneration in cats.
+
+Obesity
+Neutering and overfeeding have contributed to increased obesity in domestic cats, especially in developed countries. Obesity in cats has similar effects as in humans, and will increase the risk of heart disease, diabetes mellitus, etc., thereby shortening the cat's lifespan.
+
+Non-therapeutic surgical procedures
+Spaying and neutering
+Onychectomy (declawing)
+
+Dangers in urban environment
+High–rise syndrome
+Vehicles
+
+Toxic substances
+The ASPCA lists some common sources of toxins that pets encounter, including: plants, human medications and cosmetics, cleaning products, and even foods.
+Some houseplants are harmful to cats. For example, the leaves of the Easter Lily can cause permanent and life-threatening kidney damage to cats, and Philodendron are also poisonous to cats. The [Cat](54) Fanciers' Association has a full list of plants harmful to cats.
+Paracetamol or acetaminophen (trade name Panadol and Tylenol) is extremely toxic to cats, and should not be given to them under any circumstances. [Cat](54)s lack the necessary glucuronyl transferase enzymes to safely break paracetamol down and minute portions of a normal tablet for humans may prove fatal. Initial symptoms include vomiting, salivation and discolouration of the tongue and gums. After around two days, liver damage is evident, typically giving rise to jaundice. Unlike an overdose in humans, it is rarely liver damage that is the cause of death; instead, methaemoglobin formation and the production of Heinz bodies in red blood cells inhibit oxygen transport by the blood, causing asphyxiation. Effective treatment is occasionally possible for small doses, but must be extremely rapid.
+Even aspirin, which is sometimes used to treat arthritis in cats, can be toxic and must be administered cautiously. Similarly, application of minoxidil (Rogaine) to the skin of cats, either accidentally or by well-meaning owners attempting to counter loss of fur, has sometimes proved fatal.
+In addition to such obvious dangers as insecticides and weed killers, other common household substances that should be used with caution in areas where cats may be exposed include mothballs and other naphthalene products, as well as phenol-based products often used for cleaning and disinfecting near cats' feeding areas or litter boxes, such as Pine-Sol, Dettol (Lysol), hexachlorophene, etc. which, although they are widely used without problem, have been sometimes seen to be fatal. Essential oils are toxic to cats and there have been reported cases of serious illnesses caused by tea tree oil and tea tree oil-based flea treatments and shampoos.
+Many human foods are somewhat toxic to cats; theobromine in chocolate can cause theobromine poisoning, for instance, although few cats will eat chocolate. Toxicity in cats ingesting relatively large amounts of onions or garlic has also been reported.
+[Cat](54)s may be poisoned by many chemicals usually considered safe by their human guardians, because their livers are less effective at some forms of detoxification. Some of the most common causes of poisoning in cats are antifreeze and rodent baits. [Cat](54)s may be particularly sensitive to environmental pollutants.
+
+Ethylene glycol (antifreeze) poisoning
+[Cat](54)s can succumb quickly from ethylene glycol poisoning, after ingesting as little as one teaspoon. The primary source of ethylene glycol is automotive antifreeze or radiator coolant, where concentrations are high. Other sources of antifreeze include windshield deicing agents, brake fluid, motor oil, developing solutions for hobby photographers, wood stains, solvents, and paints.  Some people put antifreeze into their cabin's toilet to prevent it from freezing during the winter, resulting in toxicities when animals drink from the toilet. Small amounts of antifreeze may be contained in ornaments such as snow globes. A cat suspected of having ingested ethylene glycol requires immediate veterinary treatment, to receive an antidote within three hours. The earlier the treatment is started, the greater the chance of survival.
+
+References
+External links
+2010 AAFP/AAHA Feline Life Stage Guidelines
+The Merck Veterinary Manual
+[Cat](54) health info Cornell Feline Health Center
+Notes on Acetaminophen Toxicosis in [Cat](54)s
+Ohio State University, College of Veterinary Medicine: Indoor pet initiative: For cat owners - discusses cat needs and how to meet them, problem solve and avoid common stressors

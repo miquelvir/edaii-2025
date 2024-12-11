@@ -1,0 +1,23 @@
+475
+Atribacterota
+Atribacterota is a phylum of bacteria, which are common in anoxic sediments rich in methane. They are distributed worldwide and in some cases abundant in anaerobic marine sediments, geothermal springs, and oil deposits. Genetic analyzes suggest a heterotrophic metabolism that gives rise to fermentation products such as acetate, ethanol, and CO2. These products in turn can support methanogens within the sediment microbial community and explain the frequent occurrence of Atribacterota in methane-rich anoxic sediments. According to phylogenetic analysis, Atribacterota appears to be related to several thermophilic phyla within Terrabacteria or may be in the base of Gracilicutes. According to research, Atribacterota shows patterns of gene expressions which consists of fermentative, acetogenic metabolism. These expressions let Atribacterota to be able to create catabolic and anabolic functions which are necessary to generate cellular reproduction, even when the energy levels are limited due to the depletion of dissolved oxygen in the areas of sea waters, fresh waters, or ground waters.
+
+Taxonomy
+National Center for Biotechnology Information (NCBI) taxonomy and List of Prokaryotic names with Standing in Nomenclature (LPSN) were used as the primary taxonomic authority for establishing naming priorities. Also Annotree website, which uses the GTDB release 06-RS202. was consulted.
+
+Class Atribacteria Katayama et al. 2021
+Order Atribacterales Katayama et al. 2021
+Family Atribacteraceae Katayama et al. 2021
+Genus Atribacter Katayama et al. 2021
+Species A. laminatus Katayama et al. 2021
+Family "Caldatribacteriaceae" 
+Genus "Candidatus Caldatribacterium" Dodsworth et al. 2013
+Species "Ca. C. californiense" corrig. Dodsworth et al. 2013
+Species "Ca. C. saccharofermentans" Dodsworth et al. 2013
+
+See also
+List of bacterial orders
+List of bacteria genera
+
+
+== References ==

@@ -1,0 +1,37 @@
+409
+Adnaviria
+Adnaviria is a realm of viruses that includes archaeal viruses that have a filamentous virion (i.e. body) and a linear, double-stranded DNA genome. The genome exists in A-form (A-DNA) and encodes a dimeric major capsid protein (MCP) that contains the SIRV2 fold, a type of alpha-helix bundle containing four helices. The virion consists of the genome encased in capsid proteins to form a helical nucleoprotein complex. For some viruses, this helix is surrounded by a lipid membrane called an envelope. Some contain an additional protein layer between the nucleoprotein helix and the envelope. Complete virions are long and thin and may be flexible or a stiff like a rod.
+Adnaviria was established in 2020 after cryogenic electron microscopy showed that the viruses in the realm were related due to a shared MCP, A-DNA, and general virion structure. Viruses in Adnaviria infect hyperthermophilic archaea, i.e. archaea that inhabit very high temperature environments such as hot springs. Their A-DNA genome may be an adaptation to this extreme environment. Viruses in Adnaviria have potentially existed for a long time, as it is thought that they may have infected the last archaeal common ancestor. In general, they show no genetic relation to any viruses outside the realm.
+
+Etymology
+Adnaviria takes the first part of its name, Adna-, from A-DNA, referring to the A-form genomic DNA of all viruses in the realm. The second part, -viria is the suffix used for virus realms. The sole kingdom in the realm, Zilligvirae, is named after Wolfram Zillig (1925–2005) for his research on hyperthermophilic archaea, with the virus kingdom suffix -virae. The name of the sole phylum, Taleaviricota, is derived from Latin talea, meaning "rod", referring to the morphology of viruses in the realm, and the virus phylum suffix -viricota. Lastly, the sole class in the realm, Tokiviricetes, is constructed from Georgian toki (თოკი), meaning "thread", and the suffix used for virus classes, -viricetes.
+
+Characteristics
+Viruses in Adnaviria infect hyperthermophilic archaea and have linear, double-stranded DNA (dsDNA) genomes ranging from about 16 to 56 kilobase pairs in length. The ends of their genomes contain inverted terminal repeats. Notably, their genomes exist in A-form, also called A-DNA. A-form is proposed to be an adaptation allowing DNA survival under extreme conditions since their hosts are hyperthermophilic and acidophilic microorganisms from the archaea domain. Furthermore, Adnaviria viruses have high genome redundancy, an adaptation mechanism to survive such extreme environments.
+The creation of genomic A-DNA is caused by an interaction with major capsid protein (MCP) dimers, which, during virion assembly, cover pre-genomic B-DNA to form a helical nucleoprotein complex containing genomic A-DNA.
+The nucleoprotein helix is composed of asymmetric units of two MCPs. For rudiviruses, this is a homodimer, whereas for lipothrixviruses and tristromaviruses, it is a heterodimer of paralogous MCPs. The MCPs of viruses in Adnaviria contain a folded structure consisting of a type of alpha-helix bundle that contains four helices called the SIRV2 fold, named after the virus of the same name, Sulfolobus islandicus rod-shaped virus 2 (SIRV2). Variations in the protein structure exist, but the same base structure is retained in all adnaviruses.
+Adnaviruses have filamentous virions, i.e. they are long, thin, and cylindrical. Lipothrixviruses have flexible virions about 900 nanometers (nm) in length and 24 nm in width in which the nucleoprotein helix is surrounded by a lipid envelope. Tristromaviruses, about 400 by 32 nm, likewise have flexible virions with an envelope, and they contain an additional protein sheath layer between the nucleoprotein complex and the envelope. Rudviruses have stiff, rod-like virions about 600–900 by 23 nm. At both ends of the virion, lipothrixviruses have mop- or claw-like structures connected to a collar, whereas rudiviruses and tristromaviruses have plugs at each end from which bundles of thin filaments emanate.
+
+Phylogenetics
+Viruses in Adnaviria have potentially existed for a long time, as it is thought that they may have infected the last archaeal common ancestor. In general, they show no genetic relation to viruses outside the realm. The only genes that are shared with other viruses are glycosyltransferases, ribbon-helix-helix transcription factors, and anti-CRISPR proteins. Adnaviruses are morphologically similar to non-archaeal filamentous viruses but their virions are built from different capsid proteins. Viruses of Clavaviridae, a family of filamentous archaeal viruses morphologically similar to adnaviruses, likewise possess MCPs that show no relation to the MCPs of viruses in Adnaviria and for that reason are excluded from the realm.
+
+Classification
+Adnaviria is monotypic down to the rank of its sole class, Tokiviricetes, which has three orders. This taxonomy is shown hereafter:
+
+Realm: Adnaviria
+Kingdom: Zilligvirae
+Phylum: Taleaviricota
+Class: Tokiviricetes
+Order: Ligamenvirales, which contains viruses that infect archaea of the order Sulfolobales, containing the families Lipothrixviridae and Rudiviridae
+Order: Maximonvirales, which contains viruses that infect archaea of the Candidatus order Menathophagales, currently containing the single species Yumkaaxvirus pescaderoense
+Order: Primavirales, which contains viruses that infect archaea of the order Thermoproteales, containing the family Tristromaviridae
+
+History
+Viruses of Adnaviria began to be discovered in the 1980s by Wolfram Zillig and his colleagues. To discover these viruses, Zillig developed the methods used to culture their hosts. The first of these to be described were TTV1, TTV2, and TTV3 in 1983. TTV1 was classified as the first lipothrixvirus but is now classified as a tristromavirus. SIRV2, a rudivirus, became a model for studying virus-host interactions after its discovery in 1998. The families Lipothrixviridae and Rudiviridae were then united under the order Ligamenvirales in 2012 based on evidence of their relation. Cryogenic electron microscopy would later show in 2020 that the MCPs of tristromaviruses contained a SIRV2-like fold like ligamenviruses, providing justification for establishing Adnaviria in the same year.
+
+See also
+List of higher virus taxa
+
+References
+External links
+ Media related to Adnaviria at Wikimedia Commons

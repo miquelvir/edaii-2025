@@ -1,0 +1,18 @@
+2895
+International Plant Names Index
+The International Plant Names Index (IPNI) describes itself as "a database of the names and associated basic bibliographical details of seed plants, ferns and lycophytes." Coverage of plant names is best at the rank of species and genus. It includes basic bibliographical details associated with the names. Its goals include eliminating the need for repeated reference to primary sources for basic bibliographic information about plant names.
+The IPNI also maintains a list of standardized author abbreviations. These were initially based on Brummitt & Powell (1992), but new names and abbreviations are continually added.
+
+Description
+IPNI is the product of a collaboration between The Royal Botanic Gardens, Kew (Index Kewensis), The Harvard University Herbaria (Gray Herbarium Index), and the Australian National Herbarium (APNI). The IPNI database is a collection of the names registered by the three cooperating institutions and they work towards standardizing the information. The standard of author abbreviations recommended by the International Code of Nomenclature for algae, fungi, and plants is Brummitt and Powell's Authors of Plant Names. A digital and continually updated list of authors and abbreviations can be consulted online at IPNI.
+The IPNI provides names that have appeared in scholarly publications, with the objective of providing an index of published names rather than prescribing the accepted botanical nomenclature.
+
+See also
+Plants of the World Online
+The Plant List
+Index Fungorum
+Multilingual Multiscript Plant Name [Database](955)
+
+References
+External links
+Official website  of the IPNI – searchable for plant name, author name, publication

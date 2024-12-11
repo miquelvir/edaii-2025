@@ -1,0 +1,78 @@
+3650
+Bank of France
+The Bank of France (French: [Banque de France](3650) bɑ̃k də fʁɑ̃s, the name used by the bank to refer to itself in all English communications) is the member of the Eurosystem for France. It was established by Napoleon Bonaparte in 1800 as a private-sector corporation with unique public status. It was granted note-issuance monopoly in [Paris](2293) in 1803 and in the entire country in 1848, issuing the French franc. Long independent from direct political interference, it was brought under government control in 1936 and eventually nationalized in 1945. While other banks of issue were established in the French colonial empire, the Bank of France remained Metropolitan France's sole monetary authority until end-1998, when France adopted the euro as its currency.
+The Bank of France long held high prestige as an anchor of financial stability, especially before the monetary turmoil that followed World War I. In 1907, Italian economist and statesman Luigi Luzzatti referred to the Bank of France as "the centre of the world's monetary power.": 21 
+The French framework for banking supervision was initiated by the Vichy Government in 1941 and entrusted from the start to a separate body under the aegis of the Bank of France, which in 2013 became the French Prudential Supervision and Resolution Authority (French acronym ACPR). The ACPR lost its notional autonomy from the Bank of France in 2017.
+
+History
+Background
+The Kingdom of France's first experiment with a central bank was the Banque Générale (Banque Générale Privée or "General Private Bank"), set up by John Law at the behest of the Duke of Orléans after the death of Louis XIV. Law received the bank's 20-year charter in May 1716 and its stock consisted of 1,200 shares valued at 5,000 livres apiece. It was meant to stimulate France's stagnant economy and pay down its staggering national debt acquired from Louis XIV's wars, including the War of the Spanish Succession. It was nationalized in December 1718 at Law's request and formally renamed the Banque Royale a month later. It saw great initial success, increasing industry 60% in two years, but Law's mercantilist policies saw him seek to establish large monopolies, leading to the Mississippi bubble. The bubble ultimately burst in a financial crisis in 1720, and on 27 November of that year, the Banque Royale officially closed.
+The collapse of the Mississippi Company and the Banque Royale tarnished the word banque ("bank") so much that France abandoned central banking for almost a century, possibly precipitating [Louis XVI](2277)'s economic crisis and the French Revolution. Successors such as the Caisse d'Escompte (from 1776 to 1793) and Caisse d'escompte du commerce (from 1797 to 1803) used the word "caisse" instead, until Napoleon retook the term with la [Banque de France](3650) ("Bank of France") in 1800.
+
+Creation
+In 1803, financial power in France was in the hands of fifteen members of the Haute Banque, when the shareholders' meeting ratified the appointment of a “Council of Regency” composed of Jean-Frédéric Perregaux, Guillaume Mallet, Jean-Barthélemy Le Couteulx de Canteleu, Joseph Hugues-Lagarde, Jacques-Rose Récamier, Jean-Pierre Germain, Carié-Bézard, Pierre-Léon Basterrèche, Jean-Auguste Sévène, Alexandre Barrillon, Georges-Antoine Ricard, Georges-Victor Demautort, Claude Perier, Pierre-Nicolas Perrée-Duhamel, Jacques-Florent Robillard, and Jean-Conrad Hottinguer. These powerful bankers, representative of the financial elite that would become referred to in France as the Haute banque, were deeply involved in the agitations leading up to the French Revolution. When the revolutionary violence got out of hand, they orchestrated the rise of Napoleon Bonaparte, whom they regarded as the restorer of order. As a reward for their support, Napoleon, in 1800, gave the bankers a monopoly over French finance by giving them control of the new Bank of France ([Banque de France](3650)). Banker Claude Perier drafted the first statutes and Emmanuel Crétet was the first governor of the Bank. 
+On 24 Germinal, year XI (14 April 1803), the new Bank received its first official charter granting it the exclusive right to issue paper money in [Paris](2293) for fifteen years.
+
+Development
+On 22 April 1806, a new law replaced the Central Committee with a Governor and two Deputy Governors. All three were appointed by the Emperor. On 16 January 1808, a decree set out the "Basic Statutes", which were to govern the Bank's operations until 1936.
+For the first fifteen years, the Bank of France was the sole issuer of bank notes in [Paris](2293), and this privilege was extended to other financially important cities and the rest of the country by 1848.
+The Bank was also instrumental in the creation of the Latin Monetary Union (LMU) in 1865. The countries of France, [Belgium](197), Italy, and the Swiss Confederation established the LMU franc as a common bimetallic currency.
+In World War I, the Bank sold short-term Treasury bonds abroad to help pay for wartime expenditures. France abandoned the gold standard shortly after the outbreak of war. Debts amounted to approximately 42 billion francs by 1919. Following the war, the Bank sought to re-establish the gold standard and acquired capital from a number of American and British banking syndicates to defend the franc from exchange-rate fluctuations. The Bank also began to hoard gold reserves and, at its peak, held 28.3 percent of the world's gold stock (only behind the [United States](1100) at 30.4 percent). Some scholars have asserted that this gold accumulation was a contributing factor to the Great Depression. Under Émile Moreau, Governor from 1926 to 1930, the Bank consolidated gold reserves created a stabilization insurance fund (fonds de stabilisation), and tested new monetary policies in the wake of a global depression.
+In World War II, the Bank oversaw the transfer of gold reserves overseas, which mainly included [Canada](1956), the [United States](1100), and the French overseas territories. In 1945, the Bank was nationalized by Charles de Gaulle and became a state-owned institution. Existing shareholders received bonds to replace their shares in the company.  The Bank's statute was reformed in 1973.
+In 1993, the Bank of France was again reformed when it obtained independence from the state. It sought to establish credibility by promising to adhere to the single mandate of price stability. Jean-Claude Trichet, Governor from 1993 to 2003, was the final Governor of the Bank until the establishment of the European Central Bank (ECB) in June 1998. Today, the ECB sets monetary policy and oversees price stability for all countries in the Eurozone, including France.
+
+On 1 June 1998, a new institution was created, the European Central Bank (ECB), charged with steering the single monetary policy for the euro. The body formed by the ECB, and the national central banks (NCB) of all the member states of the [European Union](1200), constitute the European System of Central Banks (ESCB).  According to the Maastrict Treaty, the Bank would oversee the functioning of the payment system and conduct independent research on the French economy, while the newly established European Central Bank conducted monetary policy for the entire Eurozone. The French franc was replaced by the Euro as a virtual currency on 1 January 1999, being replaced entirely with coins and banknotes on 1 March 2002.
+Following the Great Recession, the Bank of France implemented quantitative easing for the account of the ECB.
+In 2010, the French government's Autorité de la concurrence (the department in charge of regulating competition) fined eleven banks, including Bank of France, the sum of €384,900,000 for colluding to charge unjustified fees on check processing, especially for extra fees charged during the transition from paper check transfer to "Exchanges Check-Image" electronic transfer.
+The Bank recently established a "Lab", located on the Rue Réaumur in [Paris](2293), where start-ups and small businesses work on blockchain, artificial intelligence, and virtual reality. The Bank is the first to set up a blockchain system.
+With the onset of the COVID-19 pandemic and the ensuing economic crisis, the Eurosystem resolved to inject €3 trillion of liquidity into banks, allowing them in turn to support households and businesses, particularly with regard to urgent cash flow needs. In addition to membership in the Eurosystem, the [Banque de France](3650) is in charge of credit mediation. This service, which has been in very high demand during the crisis, provides assistance to companies facing difficulties in their relations with financial institutions. The [Banque de France](3650) manages procedures to resolve overindebtedness, and while its premises are no longer open to the public, requests continue to be processed.
+
+Activities
+The Bank of France describes itself as responsible for three missions: monetary strategy, financial stability, and services to the economy.
+
+Monetary policy
+The Bank of France contributes to the design of the monetary policy of the euro zone, through macroeconomic research and forecast and by taking part in the deliberations on ECB decisions, and implements it in France. It prints euro bank notes, in larger volumes than any of its Eurosystem peers, and manages the circulation of bank notes and coins. It also participates in the fight against counterfeit money, by training bank employees, merchants, police, and other stakeholders. It manages part of the foreign exchange reserves of the ECB.
+
+Financial stability
+The Bank of France participates in the prudential oversight of the French financial sector through the Prudential Supervision and Resolution Authority (ACPR) which operates under its aegis. In 2018, the French financial sector was composed of 777 banks and 827 insurance and mutual insurance companies. It also monitors payment systems and means, and publishes a periodical Financial Stability Review (Revue de la Stabilité Financière).
+
+Services to the economy
+The Bank of France provides services to households, businesses, and the French state: 
+
+It is in charge of offering services to households in severe financial difficulty. This includes the management of over-indebtedness (one of the major tasks of the local branches of the bank), and the guarantee to an access to basic banking services for everyone, such as the right to a basic bank account. It is also in charge of financial and economic education of the general public, by developing an economic culture among specific populations (like youngsters and households in severe financial difficulty). This includes sensitizing high school students, providing online information and educational services, training social workers and the launch of the French Cité de l'économie et de la monnaie (Citéco), a museum based in the 17th district of [Paris](2293), in 2019.
+It provides company ratings for non-listed companies, which can for instance be used by business leaders to obtain credit from their bank. It also manages credit mediation (mediation between companies and their banks, their credit insurers, etc.) and proposes support to very small businesses (advice for their development and needs). The Bank of France publishes a number of economic surveys, national and regional statistics, destined to businesses.
+
+Governance
+The governor of the Bank of France is appointed by the president and is, as of 2019, François Villeroy de Galhau, since 1 November 2015. He presides over the Bank's General Council, the body responsible for deliberating on all matters relating to non-Eurosystem activities. As of late 2023, the first deputy governor was Denis Beau and the second deputy governor was Agnès Bénassy-Quéré.
+
+Key figures
+In 2019, the main key figures of the Bank of France are as follows: 
+
+Number of full-time employees: 9,857
+Regional branches: 95
+Profit before tax : 6.5 billion euros
+Dividend distributed to the French state : 6.1 billion euros
+Gold reserves: 106.1 billion euros
+Gold stock in France: 2,436 tons
+The Bank distributed dividends to the French state of 4.5 billion euros in 2016, 5.0 billion euros in 2017 and 6.1 billion euros in 2019.
+
+Buildings
+A decree on 6 March 1808 authorized the Bank to purchase the former mansion of the Count of Toulouse in the rue de la Vrillière in [Paris](2293) for its headquarters. The bank's head office subsequently expanded from that original property, through the acquisition and remodeling of adjacent buildings and in the surrounding neighborhood. A major expansion occurred in 1924-1927 as part of an urban renewal project that entailed the demolition of several historical buildings and the creation of a new thoroughfare, the rue du Colonel-Driant. It entailed the erection of a new complex for the bank above a large underground bunker known as the Souterraine, designed by architect Alphonse Defrasse.
+The Bank of France commissioned the erection of branches in many French towns and cities, which are often prominent in the urban landscape. 
+In 2019, the bank opened its museum, the Cité de l'économie et de la monnaie, in a former branch in the 17th arrondissement of [Paris](2293). This followed comparable initiatives in Europe such as the Museum of the National Bank of [Belgium](197) (opened 1982), the Bank of England Museum (1988), and the Bundesbank Money Museum (1999).
+
+See also
+Economy of France
+French franc
+Governor of the Bank de France
+List of central banks
+Anti-money laundering framework for financial institutions in France
+
+References
+Further reading
+External links
+(in French and English) Official site of Bank of France
+(in French) Beginnings of [Banque de France](3650) The directors of Bank of France between 1800 and 1815.
+
+(in French) [Banque de France](3650), Minitel Connection
+Documents and clippings about Bank of France in the [20th Century Press Archives](3406) of the ZBW

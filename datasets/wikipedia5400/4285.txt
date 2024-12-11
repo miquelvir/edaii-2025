@@ -1,0 +1,29 @@
+4285
+Brda dialect
+The Brda dialect (Slovene: briško narečje ˈbɾíːʃkɔ naˈɾéːt͡ʃjɛ, briščina), or Gorizia Hills dialect, is a Slovene dialect spoken in the Gorizia Hills in Slovenia and Italy. It is known for extreme vowel reduction in final position. It borders the Natisone Valley dialect to the north and the Karst dialect to the east, and Friulian to the west. The dialect belongs to the Littoral dialect group, and it evolved from Venetian–Karst dialect base.
+It is spoken in a territory with around 6,000 Slovene speakers, most of whom have a degree of knowledge of the dialect.
+
+Geographical distribution
+The dialect is spoken west of the Soča River in the Gorizia Hills, extending from Lig in the north, along the Soča River in the east, up to Oslavia (Slovene: Oslavje) and Gradiscutta (Gradiščula) in the south and to Dolegna del Collio (Dolenje) in the west.
+In Slovenia, the dialect is spoken in most of the territory of the Municipality of Brda (except for its northwesternmost strip, where the Natisone Valley dialect is spoken) and in the westernmost part of the Municipality of Kanal ob Soči. Notable settlements include Hum, Kojsko, Kozana, Šmartno, Medana, Dobrovo, Plave, and Anhovo. 
+In Italy, it is spoken in the northeastern area of the Province of Gorizia, in the municipalities of San Floriano del Collio (Števerjan), and in part of the municipalities of Cormons (Krmin) and Dolegna del Collio (Dolenje). It is also spoken in the western suburbs of the town of Gorizia: in Piedimonte del Calvario (Podgora), Piuma (Pevma), and Oslavia.
+
+Accentual changes
+The Brda dialect lost pitch accent, unlike the nearby Natisone Valley and Torre Valley dialects; however, some southeastern microdialects (especially around Kojsko) have developed new tonal oppositions, which are morphologically correlated. These dialects distinguish between circumflex and acute accent on long vowels; short ones always have the same pitch. The dialect is in the late stages of losing length oppositions. It has undergone two accent shifts—the *ženȁ → *žèna and *məglȁ → *mə̀gla accent shift in most of its territory—but some locales retain the initial accentuation.
+
+Phonology
+The Brda dialect has mostly uniform sounds for long vowels; however, for short vowels, sounds can vary drastically. The vowel *ě̄ turned into iːe. The vowels *ę̄ and *ā are now both pronounced as aː, the first one in Kozana as oː if not followed or preceded by a nasal consonant. The vowel *ē turned into eː. The vowel *ǭ turned into oː in most microdialects; some speakers near the Karst dialect pronounce it as uːo, and *ō is a diphthong uːo in most microdialects. Alpine Slavic *ī is still pronounced as iː and *ū is still pronounced as *uː. Syllabic *ł̥̄ turned into uː and *r̥̄ turned into ər. Newly accented *ə is pronounced as *əː, and long *ə̄ is pronounced as aː.
+In closed syllables, short *è turned into eː, *ò into oː, and *ì, *ù, and *ę̀ into əː, lengthening in the process. The only unlengthened vowel is *à, which turned into ḁ around Kojsko, but may have also turned into a long vowel in other microdialects. The vowel *o before a stressed syllable usually turned into u, although it also changes into ḁ. The vowels *a and *i before the stress turn into e. Vowel *ě after the stress turned into i. Final *i, *u, *ę, and *ǫ are not pronounced anymore; the only exception is the third-person singular ending -i (e.g., (on) vȋdi → vìːdẹ).
+Consonant changes are rather common in the Littoral dialects. Palatal *ń and *ĺ are pronounced the same in most microdialects; the latter turned into i̯ in Kozana and west of that. The consonant *g turned into ɣ and into x at the end of a word. Final m turned into n in the west. The clusters čr-, čl-, and pš- turned into čer-, čel-, and peš-, respectively.
+
+Morphology
+The Brda dialect has separate dual forms only in masculine o-stems in the nominative, vocative, and accusative cases; elsewhere they merged with the plural forms. A special case is the second-person plural, where the ending is -ta (from the dual form) and the ending -te is used only for vikanje. The dialect uses the long infinitive, although final -i is dropped, but the accent remains the same. Neuter nouns are feminized in the plural.
+The dialect also has different endings for the third-person plural form in the present tense. It is -i̯o in the west, but -i̯ in the east.
+The greatest changes to morphology occurred around Kojsko, where the declension fundamentally changed. Because of vowel reduction, most endings were lost, and so different cases have different tones—either circumflex or acute—which helps determine the case.
+
+A similar thing also happens with i-stem nouns when the ending is -i.
+
+References
+Bibliography
+Logar, Tine (1996). Kenda-Jež, Karmen (ed.). Dialektološke in jezikovnozgodovinske razprave Dialectological and etymological discussions (in Slovenian). Ljubljana: Znanstvenoraziskovalni center SAZU, Inštitut za slovenski jezik Frana Ramovša. ISBN 961-6182-18-8.
+Šekli, Matej (2018). Legan Ravnikar, Andreja (ed.). Tipologija lingvogenez slovanskih jezikov (in Slovenian). Translated by Plotnikova, Anastasija. Ljubljana: Znanstvenoraziskovalni center SAZU. ISBN 978-961-05-0137-4. {{cite book}}: |work= ignored (help)

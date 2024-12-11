@@ -1,0 +1,14 @@
+635
+Bottleneck (software)
+In software engineering, a bottleneck occurs when the capacity of an application or a computer system is limited by a single component, like the neck of a bottle slowing down the overall water flow. The bottleneck has the lowest throughput of all parts of the transaction path. 
+System designers try to avoid bottlenecks through direct effort towards locating and tuning existing bottlenecks in a software application. Some examples of engineering bottlenecks that appear include the following: a processor, a communication link, and disk IO. A system or application will hit a bottleneck if the work arrives at a comparatively faster pace relative to other processing components. According to the theory of constraints, improving on the occurrences of hot-spot point of the bottleneck constraint improves the overall processing speed of the software. A thought-provoking stipulation of the theory reveals that improving the efficiency of a particular process stage rather than the constraint can generate even more delay and decrease overall processing capabilities of a software.
+It is impossible to remove bottlenecks completely since there is always a component that limits the overall performance, so the usual goal is to improve the bottleneck component so that the whole system can achieve the desired performance.
+The process of tracking down bottlenecks (also referred as "hot spots" - sections of the code that execute most frequently - i.e. have the highest execution count) is called performance analysis. Reduction is achieved with the utilization of specialized tools such as performance analyzers or profilers, the objective being to make particular sections of code perform as effectively as possible to improve overall algorithmic efficiency.
+
+See also
+Performance engineering
+Profiling (computer programming)
+Program optimization
+
+
+== References ==

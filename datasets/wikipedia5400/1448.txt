@@ -1,0 +1,64 @@
+1448
+CS gas
+The compound 2-chlorobenzalmalononitrile (also called o-chlorobenzylidene malononitrile; chemical formula: C10H5ClN2), a cyanocarbon, is the defining component of the lachrymatory agent commonly referred to as CS gas, a tear gas which is used as a riot control agent, and is banned for use in warfare due to the 1925 Geneva Protocol.
+Exposure causes a burning sensation and tearing of the eyes to the extent that the subject cannot keep their eyes open, and a burning irritation of the mucous membranes of the nose, mouth and throat, resulting in profuse coughing, nasal mucus discharge, disorientation, and difficulty breathing, partially incapacitating the subject. CS gas is an aerosol of a volatile solvent (a substance that dissolves other active substances and that easily evaporates) and 2-chlorobenzalmalononitrile, which is a solid compound at room temperature. CS gas is generally accepted as being non-lethal.
+
+History
+CS gas was first synthesized by two Americans, Ben Corson and Roger Stoughton, at Middlebury College in Vermont in 1928, and the chemical's name is derived from the first letters of the scientists' surnames.
+CS was developed and tested secretly at Porton Down in Wiltshire, UK, in the 1950s and '60s. CS was used first on animals, and subsequently on British Army servicemen volunteers. CS has less effect on animals because they have different tear ducts and, in the case of non-human mammals, their fur inhibits the free entry of the gas.
+As recently as 2002, the U.S. State Department Bureau of International Security and Nonproliferation of Colin Powell made a firm distinction between "riot-control agents" such as CS gas, and "lethal chemical weapons." The Bureau cited support for this position from the U.K. and Japan.
+The use of CS in warfare has been prohibited under the Chemical Weapons Convention. The OPCW (the governing body of the convention) has observed its use in the Russo-Ukrainian War in 2024.
+
+Production
+CS is synthesized by the reaction of 2-chlorobenzaldehyde and malononitrile via the Knoevenagel condensation:
+
+ClC6H4CHO + H2C(CN)2 → ClC6H4CHC(CN)2 + H2O
+The reaction is catalysed with a weak base like piperidine or pyridine. The production method has not changed since the substance was discovered by Corson and Stoughton. Other bases, solvent free methods and microwave promotion have been suggested to improve the production of the substance.
+The physiological properties had been discovered already by the chemists first synthesising the compound in 1928:
+"Physiological Properties. Certain of these dinitriles have the effect of sneeze and tear gases. They are harmless when wet but to handle the dry powder is disastrous."
+
+Use as an aerosol
+As 2-chlorobenzalmalononitrile is a solid at room temperature, not a gas, a variety of techniques have been used to make this solid usable as an aerosol:
+
+Melted and sprayed in the molten form.
+Dissolved in organic solvent.
+CS2 dry powder (CS2 is a siliconized, micro-pulverized form of CS).
+CS from thermal grenades by generation of hot gases.
+In the Waco Siege in the United States, CS was dissolved in the organic solvent dichloromethane (also known as methylene chloride). The solution was dispersed as an aerosol via explosive force and when the highly volatile dichloromethane evaporated, CS crystals precipitated and formed a fine dispersion in the air.
+
+Effects
+Many types of tear gas and other riot control agents have been produced with effects ranging from mild tearing of the eyes to immediate vomiting and prostration. CN and CS are the most widely used and known, but around 15 different types of tear gas have been developed worldwide, e.g. adamsite or bromoacetone, CNB, and CNC. CS has become the most popular due to its strong effect. The effect of CS on a person will depend on whether it is packaged as a solution or used as an aerosol. The size of solution droplets and the size of the CS particulates after evaporation are factors determining its effect on the human body.
+The chemical reacts with moisture on the skin and in the eyes, causing a burning sensation and the immediate forceful and uncontrollable shutting of the eyes. Effects usually include tears streaming from the eyes, profuse coughing, exceptional nasal discharge that is full of mucus, burning in the eyes, eyelids, nose and throat areas, disorientation, dizziness and restricted breathing. It will also burn the skin where sweaty or sunburned. In highly concentrated doses, it can also induce severe coughing and vomiting. Most of the immediate effects wear off within a few hours (such as exceptional nasal discharge and profuse coughing), although respiratory, gastrointestinal, and oral symptoms may persist for months. Excessive exposure can cause chemical burns resulting in permanent scarring.
+Adults exposed to tear gas during the 2020 protests in Portland, Oregon, US also reported menstrual changes (899; 54.5% of 1650 female respondents). Exposure to tear gas is associated with avoidable healthcare utilization.
+
+Secondary effects
+People or objects contaminated with CS gas can cause secondary exposure to others, including healthcare professionals and police. In addition, repeated exposure may cause sensitisation.
+
+Toxicity
+TRPA1 (Transient Receptor Potential-Ankyrin 1) ion channel expressed on nociceptors (especially trigeminal) has been implicated as the site of action for CS gas in rodent models.
+Although described as a non-lethal weapon for crowd control, studies have raised doubts about this classification. CS can cause severe pulmonary damage and can also significantly damage the heart and liver.
+On 28 September 2000, Prof. Dr. Uwe Heinrich released a study commissioned by John C. Danforth, of the United States Office of Special Counsel, to investigate the use of CS by the FBI at the Branch Davidians' Mount Carmel compound. He said no human deaths had been reported, but concluded that the lethality of CS used would have been determined mainly by two factors: whether gas masks were used and whether the occupants were trapped in a room. He suggests that if no gas masks were used and the occupants were trapped, then, "there is a distinct possibility that this kind of CS exposure can significantly contribute to or even cause lethal effects".
+CS gas can have a clastogenic effect (abnormal chromosome change) on mammalian cells, but no studies have linked it to miscarriages or stillbirths. In Egypt, CS gas was reported to be the cause of death of several protesters in Mohamed Mahmoud Street near Tahrir square during the November 2011 protests. The solvent in which CS is dissolved, methyl isobutyl ketone (MIBK), is classified as harmful by inhalation; irritating to the eyes and respiratory system; and repeated exposure may cause skin dryness or cracking.
+
+See also
+List of parties to the Chemical Weapons Convention
+List of uses of CS gas by country
+CR gas
+CN gas
+Pepper spray
+Chemical Weapons Convention
+Hand grenades
+
+References
+External links
+
+Salem H, Gutting B, Kluchinsky T, Boardman C, Tuorinsky S, Hout J (2008). Medical Aspects of Chemical Warfare, Chapter 13 Riot Control Agents, US Army Medical Institute, Borden Institute, pp. 441–484 (2008).
+Carron PN, Yersin B (June 2009). "Management of the effects of exposure to tear gas". BMJ. 338 (7710): b2283. doi:10.1136/bmj.b2283. PMID 19542106. S2CID 7870564.
+Hout J, Hook G, LaPuma P, White D (2010). "Identification of compounds formed during low temperature thermal dispersion of encapsulated o-chlorobenzylidene malononitrile (CS riot control agent)" Journal of Occupational and Environmental Hygiene, June 2010
+Gas Chromatography NIST
+CDC – NIOSH Pocket Guide to Chemical Hazards – o-Chlorobenzylidene malononitrile
+Patten report recommendations 69 and 70 relating to public order equipment A Paper prepared by the Steering Group led by the Northern Ireland Office – April 2001
+Committees on toxicity, mutagenicity and carcinogenicity of chemicals in food, consumer products and the environment statement on 2-chlorobenzylidene malononitrile (CS) and CS spray, September 1999. (pdf)
+Journal of Non-lethal Combatives, January 2003 Noxious Tear-Gas Bomb Mightier in Peace than in War.
+"Crowd Control Technologies: An Assessment Of Crowd Control Technology Options For The European Union" – The Omega Foundation (pdf)
+eMedicine Information on irritants: Cs, Cn, Cnc, Ca, Cr, Cnb, PS

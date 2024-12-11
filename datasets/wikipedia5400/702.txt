@@ -1,0 +1,122 @@
+702
+Autodesk 3ds Max
+Autodesk 3ds Max, formerly 3D Studio and 3D Studio Max, is a professional 3D computer graphics program for making 3D animations, models, games and images. It is developed and produced by Autodesk Media and Entertainment. It has modeling capabilities and a flexible plugin architecture and must be used on the Microsoft Windows platform. It is frequently used by video game developers, many TV commercial studios, and architectural visualization studios. It is also used for movie effects and movie pre-visualization. 3ds Max features shaders (such as ambient occlusion and subsurface scattering), dynamic simulation, particle systems, radiosity, normal map creation and rendering, global illumination, a customizable user interface, and its own scripting language.
+
+History
+The original 3D Studio product was created for the DOS platform by the Yost Group, and published by Autodesk. The release of 3D Studio made Autodesk's previous 3D rendering package AutoShade obsolete. After 3D Studio DOS Release 4, the product was rewritten for the Windows NT platform, and renamed "3D Studio MAX." This version was also originally created by the Yost Group. It was released by Kinetix, which was at that time Autodesk's division of media and entertainment.
+Autodesk purchased the product at the second release update of the 3D Studio MAX version and internalized development entirely over the next two releases. Later, the product name was changed to "3ds max" (all lower case) to better comply with the naming conventions of Discreet, a Montreal-based software company which Autodesk had purchased.
+When it was re-released (release 7), the product was again branded with the Autodesk logo, and the short name was again changed to "3ds Max" (upper and lower case), while the formal product name became the current "Autodesk 3ds Max."
+
+Version history
+Features
+Non-Destructive Modifiers
+One core feature that stands 3ds Max apart from other 3D graphics software is its ability to edit geometry using non-destructive modifiers. Modifiers allow users to make changes to the geometry of an object without permanently altering the original geometry. Instead, the modifications are applied as separate layers on top of the base geometry, which can be easily adjusted or removed without affecting the underlying structure.
+
+MAXScript
+MAXScript is a built-in scripting language that can be used to automate repetitive tasks, combine existing functionality in new ways, develop new tools and user interfaces, and much more. Plugin modules can be created entirely within MAXScript.
+
+Character Studio
+Character Studio was a plugin which since version 4 of Max is now integrated in 3ds Max; it helps users to animate virtual characters. The system works using a character rig or "Biped" skeleton which has stock settings that can be modified and customized to fit the character meshes and animation needs. This tool also includes robust editing tools for IK/FK switching, Pose manipulation, Layers and Keyframing workflows, and sharing of animation data across different Biped skeletons. These "Biped" objects have other useful features that help accelerate the production of walk cycles and movement paths, as well as secondary motion.
+
+Scene Explorer
+Scene Explorer, a tool that provides a hierarchical view of scene data and analysis, facilitates working with more complex scenes. Scene Explorer has the ability to sort, filter, and search a scene by any object type or property (including metadata). Added in 3ds Max 2008, it was the first component to facilitate .NET managed code in 3ds Max outside of MAXScript.
+
+DWG import
+3ds Max supports both import and linking of .dwg files. Improved memory management in 3ds Max 2008 enables larger scenes to be imported with multiple objects.
+
+Texture assignment/editing
+3ds Max offers operations for creative texture and planar mapping, including tiling, mirroring, decals, angle, rotate, blur, UV stretching, and relaxation; Remove Distortion; Preserve UV; and UV template image export. The texture workflow includes the ability to combine an unlimited number of textures, a material/map browser with support for drag-and-drop assignment, and hierarchies with thumbnails. UV workflow features include Pelt mapping, which defines custom seams and enables users to unfold UVs according to those seams; copy/paste materials, maps and colors; and access to quick mapping types (box, cylindrical, spherical).
+
+General keyframing
+Two keying modes — set key and auto key — offer support for different keyframing workflows.
+Fast and intuitive controls for keyframing — including cut, copy, and paste — let the user create animations with ease. Animation trajectories may be viewed and edited directly in the viewport.
+
+Constrained animation
+Objects can be animated along curves with controls for alignment, banking, velocity, smoothness, and looping, and along surfaces with controls for alignment. Weight path-controlled animation between multiple curves, and animate the weight. Objects can be constrained to animate with other objects in many ways — including look at, orientation in different coordinate spaces, and linking at different points in time. These constraints also support animated weighting between more than one target.
+All resulting constrained animation can be collapsed into standard keyframes for further editing.
+
+Skinning
+Either the Skin or Physique modifier may be used to achieve precise control of skeletal deformation, so the character deforms smoothly as joints are moved, even in the most challenging areas, such as shoulders. Skin deformation can be controlled using direct vertex weights, volumes of vertices defined by envelopes, or both. Capabilities such as weight tables, paintable weights, and saving and loading of weights offer easy editing and proximity-based transfer between models, providing the accuracy and flexibility needed for complicated characters.
+The rigid bind skinning option is useful for animating low-polygon models or as a diagnostic tool for regular skeleton animation.
+Additional modifiers, such as Skin Wrap and Skin Morph, can be used to drive meshes with other meshes and make targeted weighting adjustments in tricky areas.
+
+Skeletons and inverse kinematics (IK)
+Characters can be rigged with custom skeletons using 3ds Max bones, IK solvers, and rigging tools powered by Motion Capture Data.
+All animation tools — including expressions, scripts, list controllers, and wiring — can be used along with a set of utilities specific to bones to build rigs of any structure and with custom controls, so animators see only the UI necessary to get their characters animated. Four plug-in IK solvers ship with 3ds Max: history-independent solver, history-dependent solver, limb solver, and spline IK solver. These powerful solvers reduce the time it takes to create high-quality character animation. The history-independent solver delivers smooth blending between IK and FK animation and uses preferred angles to give animators more control over the positioning of affected bones.  The history-dependent solver can solve within joint limits and is used for machine-like animation. IK limb is a lightweight two-bone solver, optimized for real-time interactivity, ideal for working with a character arm or leg. Spline IK solver provides a flexible animation system with nodes that can be moved anywhere in 3D space. It allows for efficient animation of skeletal chains, such as a character's spine or tail, and includes easy-to-use twist and roll controls.
+
+Integrated Cloth solver
+In addition to reactor's cloth modifier, 3ds Max software has an integrated cloth-simulation engine that enables the user to turn almost any 3D object into clothing and even build garments from scratch. Collision solving is fast and accurate even in complex simulations. Local simulation lets artists drape cloth in real time to set up an initial clothing state before setting animation keys.
+Cloth simulations can be used in conjunction with other 3ds Max dynamic forces, such as Space Warps. Multiple independent cloth systems can be animated with their own objects and forces. Cloth deformation data can be cached to the hard drive to allow for nondestructive iterations and to improve playback performance.
+
+Integration with Autodesk Vault
+Autodesk Vault plug-in, which ships with 3ds Max, consolidates users' 3ds Max assets in a single location, enabling them to automatically track files and manage work in progress. Users can easily and safely find, share, and reuse 3ds Max (and design) assets in a large-scale production or visualization environment.
+
+Max Creation Graph
+Introduced with Max 2016, Max Creation Graph (MCG) enables users to create modifiers, geometry, and utility plug-ins using a visual node-based workflow.
+With MCG the user can create a new plug-in for 3ds Max in minutes by simply wiring together parameter nodes, computation nodes, and output nodes. The resulting graph can then be saved in an XML file (.maxtool) or be packaged with any compounds (.maxcompound) it depends on in a ZIP file (.mcg) which can be shared easily with 3ds Max users.
+
+Adoption
+Many films have made use of 3ds Max, or previous versions of the program under previous names, in CGI animation, such as Avatar and 2012, which contain computer generated graphics from 3ds Max alongside live-action acting. Mudbox was also used in the final texturing of the set and characters in Avatar, with 3ds Max and Mudbox being closely related.
+3ds Max has been used in the development of 3D computer graphics for a number of video games.
+Architectural and engineering design firms use 3ds Max for developing concept art and previsualization.
+Educational programs at secondary and tertiary level use 3ds Max in their courses on 3D computer graphics and computer animation. Students in the FIRST competition for 3d animation are known to use 3ds Max.
+
+Modeling techniques
+Polygon modeling
+Polygon modeling is more common with game design than any other modeling technique as the very specific control over individual polygons allows for extreme optimization. Usually, the modeler begins with one of the 3ds max primitives, and using such tools as bevel and extrude, adds detail to and refines the model. Versions 4 and up feature the Editable Polygon object, which simplifies most mesh editing operations, and provides subdivision smoothing at customizable levels (see NURMS).
+Version 7 introduced the edit poly modifier, which allows the use of the tools available in the editable polygon object to be used higher in the modifier stack (i.e., on top of other modifications).
+NURBS in 3ds Max is a legacy feature. None of the features have been updated since version 4 and have been ignored by the development teams over the past decade. For example, the updated path deform and the updated normalize spline modifiers in version 2018 do not work on NURBS curves anymore as they did in previous versions.
+
+NURBS (Non-Uniform Rational Based-Splines)
+An alternative to polygons, it gives a smoothed out surface that eliminates the straight edges of a polygon model. NURBS is a mathematically exact representation of freeform surfaces like those used for car bodies and ship hulls, which can be exactly reproduced at any resolution whenever needed. With NURBS, a smooth sphere can be created with only one face.
+The non-uniform property of NURBS brings up an important point. Because they are generated mathematically, NURBS objects have a parameter space in addition to the 3D geometric space in which they are displayed. Specifically, an array of values called knots specifies the extent of influence of each control vertex (CV) on the curve or surface. Knots are invisible in 3D space and can't be manipulated directly, but occasionally their behavior affects the visible appearance of the NURBS object. Parameter space is one-dimensional for curves, which have only a single U dimension topologically, even though they exist geometrically in 3D space. Surfaces have two dimensions in parameter space, called U and V.
+NURBS curves and surfaces have the important properties of not changing under the standard geometric affine transformations (Transforms), or under perspective projections. The CVs have local control of the object: moving a CV or changing its weight does not affect any part of the object beyond the neighboring CVs. (This property can be overridden by using the Soft Selection controls). Also, the control lattice that connects CVs surrounds the surface. This is known as the convex hull property.
+
+Surface tool/editable patch object
+Surface tool was originally a 3rd party plugin, but Kinetix acquired and included this feature since version 3.0. The surface tool is for creating common 3ds Max splines, and then applying a modifier called "surface." This modifier makes a surface from every three or four vertices in a grid. It is often seen as an alternative to "mesh" or "nurbs" modeling, as it enables a user to interpolate curved sections with straight geometry (for example a hole through a box shape). Although the surface tool is a useful way to generate parametrically accurate geometry, it lacks the "surface properties" found in the similar Edit Patch modifier, which enables a user to maintain the original parametric geometry whilst being able to adjust "smoothing groups" between faces.
+
+Predefined primitives
+This is a basic method, in which one models something using only boxes, spheres, cones, cylinders and other predefined objects from the list of Predefined Standard Primitives or a list of Predefined Extended Primitives. One may also apply Boolean operations, including subtract, cut and connect. For example, one can make two spheres which will work as blobs that will connect with each other. These are called metaballs.
+
+Standard primitives
+Extended primitives
+Rendering
+Scanline rendering
+The default rendering method in 3ds Max is scanline rendering. Several advanced features have been added to the scanliner over the years, such as global illumination, radiosity, and ray tracing.
+ART Renderer
+Autodesk Raytracer Renderer (ART) is a CPU-only, physically based renderer for architectural, product, and industrial design renderings and animations. It is integrated into 3ds Max as of version 2017.
+Redshift
+A third-party GPU-accelerated, biased renderer with plugins for 3ds Max, [Cinema 4D](789), Houdini, Katana and Maya.
+Mental Ray
+Mental ray is a third-party renderer using bucket rendering, a technique that allows distributing the rendering task for a single image between several computers. Since 3ds Max 2018, mental ray is no longer shipped with 3ds Max and needs to be obtained directly from NVIDIA.
+RenderMan
+A third party connection tool to RenderMan pipelines is also available for those that need to integrate Max into Renderman render farms. Used by Pixar for rendering several of their CGI animated films.
+V-Ray
+A third-party render engine plug-in for 3ds Max.
+Brazil R/S
+A third-party photorealistic rendering system. It is capable of fast ray tracing and global illumination.
+Arion
+A third party hybrid GPU+CPU interactive, unbiased ray tracer, based on Nvidia CUDA.
+Indigo Renderer
+A third-party photorealistic renderer with plugins for 3ds Max.
+Maxwell Render
+A third-party photorealistic rendering system providing materials and unbiased rendering.
+Octane Render
+A third party unbiased GPU ray tracer with plugins for 3ds Max, based on Nvidia CUDA.
+Luxrender
+An open-source ray tracer supporting 3ds Max, [Cinema 4D](789), Softimage, and Blender. Focuses on photorealism by simulating real light physics as much as possible.
+Arnold
+Arnold is an unbiased, physically based, unidirectional path-tracing renderer.
+Corona Renderer
+An third party high-performance (un)biased photorealistic renderer.
+
+Licensing
+Earlier versions (up to and including 3D Studio Max R3.1) required a special copy protection device (called a dongle) to be plugged into the parallel port while the program was run, but later versions incorporated software based copy prevention methods instead. Current versions require online registration.
+Due to the high price of the commercial version of the program, Autodesk also offers a free student version, which explicitly states that it is to be used for "educational purposes only". The student version has identical features to the full version, but is only for single use and cannot be installed on a network. The student license expires after three years, at which time the user, if they are still a student, may download the latest version, thus renewing the license for another three years.
+In 2020, Autodesk had since reduced the free student version limit to 1 year only, as opposed to 3 years previously. In addition, all customers seeking free access to Autodesk educational products and services are required to provide proof of enrollment, employment, or contractor status at a qualified educational institution.
+
+See also
+References
+External links
+
+Official website

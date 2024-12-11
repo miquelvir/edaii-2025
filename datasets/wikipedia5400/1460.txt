@@ -1,0 +1,23 @@
+1460
+Collateral (finance)
+In lending agreements, collateral is a borrower's pledge of specific property to a lender, to secure repayment of a loan. The collateral serves as a lender's protection against a borrower's default and so can be used to offset the loan if the borrower fails to pay the principal and interest satisfactorily under the terms of the lending agreement.
+The protection that collateral provides generally allows lenders to offer a lower interest rate on loans that have collateral. The reduction in interest rate can be up to several percentage points, depending on the type and value of the collateral. For example, the Annual Percentage Rate (APR) on an unsecured loan is often much higher than on a secured loan or logbook loan.
+If a borrower defaults on a loan (due to insolvency or another event), that borrower loses the property pledged as collateral, with the lender then becoming the owner of the property. In a typical mortgage loan transaction, for instance, the real estate being acquired with the help of the loan serves as collateral. If the buyer fails to repay the loan according to the mortgage agreement, the lender can use the legal process of foreclosure to obtain ownership of the real estate. If a second mortgage is involved the primary mortgage loan is repaid first with the remaining funds used to satisfy the second mortgage. A pawnbroker is a common example of a business that may accept a wide range of items as collateral.
+The type of the collateral may be restricted based on the type of the loan (as is the case with auto loans and mortgages); it also can be flexible, such as in the case of collateral-based personal loans.
+
+Concept
+Collateral, especially within banking, traditionally refers to secured lending (also known as asset-based lending). More-complex collateralization arrangements may be used to secure trade transactions (also known as capital market collateralization). The former often presents unilateral obligations secured in the form of property, surety, guarantee or other collateral (originally denoted by the term security), whereas the latter often presents bilateral obligations secured by more-liquid assets (such as cash). Collateralization of assets gives lenders a sufficient level of reassurance against default risk. It also help some borrowers to obtain loan if they have poor credit histories. Collateralized loans generally have substantially lower interest rate than unsecured loans.
+
+Marketable collateral
+Marketable collateral is the exchange of financial assets, such as stocks and bonds, for a loan between a financial institution and borrower. To be deemed marketable, assets must be capable of being sold under normal market conditions with reasonable promptness at current fair market value. For sizeable banks to accept a borrower's loan proposal, collateral must be equal to or greater than 100% of the loan or credit extension amount. In the United States of America, the bank's total outstanding loans and credit extensions to one borrower may not exceed 15 percent of the bank's capital and surplus (plus an additional 10 percent of the bank's capital and surplus if the bank fulfills certain qualifications).
+Reduction of collateral value is the primary risk when securing loans with marketable collateral. Financial institutions closely monitor the market value of any financial assets held as collateral and take appropriate action if the value subsequently declines below the predetermined maximum loan-to-value ratio. The permitted actions are generally specified in a loan agreement or margin agreement.
+Tokenization of securities like company shares, pharmaceutical & defence project patents and mining licenses is an emerging novel concept of dynamic investment despite still being considered and classified as relatively experimental. Spektral Investment Bank is currently the only example of above mentioned novel complete tokenization concept via establishment of 800.000.000.00 EU worth in-kind collateral based capital composed of exclusive pharmaceutical & bioceucal patent rights and reserve volume approved mining licenses.
+
+Examples of collateral
+Intellectual property such as copyrights, patents, and trademarks, as well as royalty streams from licensing revenue, are increasingly being used as collateral. The use of IP as collateral in IP-backed finance transactions is the subject of a report series at the World Intellectual Property Organization.
+Many agricultural assets can be used as collateral, even unharvested crops in some cases. Some Italian banks accept wheels of aging Parmigiano Reggiano cheese as collateral, and may even provide high-quality storage for it.
+
+See also
+
+
+== References ==

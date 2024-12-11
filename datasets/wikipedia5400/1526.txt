@@ -1,0 +1,133 @@
+1526
+Act of parliament
+An act of parliament, as a form of primary legislation, is a text of law passed by the legislative body of a jurisdiction (often a parliament or council). In most countries with a parliamentary system of government, acts of parliament begin as a bill, which the legislature votes on. Depending on the structure of government, this text may then be subject to assent or approval from the executive branch.
+
+Bills
+A draft act of parliament is known as a bill. In other words, a bill is a proposed law that needs to be discussed in the parliament before it can become a law.
+In territories with a Westminster system, most bills that have any possibility of becoming law are introduced into parliament by the government. This will usually happen following the publication of a "white paper", setting out the issues and the way in which the proposed new law is intended to deal with them. A bill may also be introduced into parliament without formal government backing; this is known as a private member's bill.
+In territories with a multicameral parliament, most bills may be first introduced in any chamber. However, certain types of legislation are required, either by constitutional convention or by law, to be introduced into a specific chamber. For example, bills imposing a tax, or involving public expenditure, are introduced into the House of Commons in the United Kingdom, Canada's House of Commons, Lok Sabha of India and Ireland's Dáil as a matter of law. Conversely, bills proposed by the Law Commission and consolidation bills traditionally start in the House of Lords.
+Once introduced, a bill must go through a number of stages before it can become law. In theory, this allows the bill's provisions to be debated in detail, and for amendments to the original bill to also be introduced, debated, and agreed to.
+In bicameral parliaments, a bill that has been approved by the chamber into which it was introduced then sends the bill to the other chamber. Broadly speaking, each chamber must separately agree to the same version of the bill. Finally, the approved bill receives assent; in most territories this is merely a formality and is often a function exercised by the head of state.
+In some countries, such as in France, Belgium, Luxembourg, Spain and Portugal, the term for a bill differs depending on whether it is initiated by the government (when it is known as a "draft"), or by the parliament (a "proposition", i.e., a private member's bill).
+
+Procedure
+Australia
+In Australia, the bill passes through the following stages:
+
+First reading: This stage is a mere formality; it involves the reading of the title of the proposed bill and distribution of the bill to members of parliament.
+Second reading: As in the UK, the stage involves a debate on the general principles of the bill and is followed by a vote. Again, the second reading of a government bill is usually approved. A defeat for a government bill on this reading signifies a major loss. If the bill is read a second time, it is then considered in detail
+Consideration in detail: This usually takes place on the floor of the House. Generally, committees sit on the floor of the House and consider the bill in detail.
+Third reading: A debate on the final text of the bill, as amended. Very rarely do debates occur during this stage.
+Passage: The bill is then sent to the other House (to the Senate, if it originated in the House of Representatives; to the House of Representatives, if it is a Senate bill), which may amend it. If the other House amends the bill, the bill and amendments are posted back to the original House for a further stage. The State of Queensland's Parliament is unicameral and skips this and the rest of the stages.
+Consideration of Senate/Representatives amendments: The House in which the bill originated considers the amendments made in the other House. It may agree to them, amend them, propose other amendments in lieu, or reject them. However, the Senate may not amend money bills, though it can "request" the House to make amendments. A bill may pass backward and forward several times at this stage, as each House amends or rejects changes proposed by the other. If each House insists on disagreeing with the other, the Bill is lost.
+Disagreement between the Houses: Often, when a bill cannot be passed in the same form by both Houses, it is "laid aside", i.e. abandoned. There is also a special constitutional procedure allowing the passage of the bill without the separate agreement of both houses. If the House twice passes the same bill, and the Senate twice fails to pass that bill (either through rejection or through the passage of unacceptable amendments), then the Governor-General may dissolve both Houses of Parliament simultaneously and call an election for the entire Parliament. This is called a double dissolution. After the election, if the House again passes the bill, but the deadlock between the Houses persists, then the Governor-General may convene a joint sitting of both Houses, where a final decision will be taken on the bill. Although the House and the Senate sit as a single body, bills passed at a joint sitting are treated as if they had been passed by each chamber separately. The procedure only applies if the bill originated in the House of Representatives. Six double dissolutions have occurred, though a joint sitting was only held once, in 1974.
+The bill is sent to the viceroy (the Governor-General for the Commonwealth; the Governor for a State; the Administrator for a Territory) for the royal assent. Acts in the Australian Capital Territory do not require this step.
+
+Canada
+In Canada, the bill passes through the following stages:
+
+First reading: This stage is a mere formality.
+Second reading: As in the UK, the stage involves a debate on the general principles of the bill and is followed by a vote. Again, the second reading of a government bill is usually approved. A defeat for a Government bill on this reading signifies a major loss. If the bill is read a second time, then it progresses to the committee stage.
+Committee stage: This usually takes place in a standing committee of the Commons or Senate.
+Standing committee: The standing committee is a permanent one; each committee deals with bills in specific subject areas. Canada's standing committees are similar to the UK's select committees.
+Special committee: A committee established for a particular purpose, be it the examination of a bill or a particular issue.
+Legislative committee: Similar to a special committee in that it is established for the consideration of a particular bill. The chairmanship is determined by the Speaker, rather than elected by the members of the committee. Not used in the Senate.
+Committee of the Whole: The whole house sits as a committee in the House of Commons or Senate. Most often used to consider appropriation bills, but can be used to consider any bill.
+The committee considers each clause of the bill, and may make amendments to it. Significant amendments may be made at the committee stage. In some cases, whole groups of clauses are inserted or removed. However, if the Government holds a majority, almost all the amendments which are agreed to in committee will have been tabled by the Government to correct deficiencies in the bill or to enact changes to policy made since the bill was introduced (or, in some cases, to import material which was not ready when the bill was presented).
+
+Report stage: this takes place on the floor of the appropriate chamber, and allows the House or Senate to approve amendments made in committee, or to propose new ones.
+Third reading: A debate on the final text of the bill, as amended.
+Passage: The bill is then sent to the other House (to the Senate, if it originated in the House of Commons; to the Commons, if it is a Senate bill), where it will face a virtually identical process. If the other House amends the bill, the bill and amendments are sent back to the original House for a further stage.
+Consideration of Senate/Commons amendments: The House in which the bill originated considers the amendments made in the other House. It may agree to them, amend them, propose other amendments in lieu or reject them. If each House insists on disagreeing with the other, the Bill is lost.
+Disagreement between the Houses: There is no specific procedure under which the Senate's disagreement can be overruled by the Commons. The Senate's rejection is absolute.
+The debate on each stage is actually debate on a specific motion. For the first reading, there is no debate. For the second reading, the motion is "That this bill be now read a second time and be referred to name of committee" and for third reading "That this bill be now read a third time and pass." In the Committee stage, each clause is called and motions for amendments to these clauses, or that the clause stand part of the bill are made. In the Report stage, the debate is on the motions for specific amendments.
+Once a bill has passed both Houses in an identical form, it is presented to the Governor General, who gives it royal assent. Although the Governor General can refuse to assent a bill, this power has never been exercised.
+Bills being reviewed by Parliament are assigned numbers: 2 to 200 for government bills, 201 to 1000 for private member's bills, and 1001 up for private bills. They are preceded by C- if they originate in the House of Commons, or S- if they originate in the Senate. For example, Bill C-250 was a private member's bill introduced in the House. Bills C-1 and S-1 are pro forma bills, and are introduced at the beginning of each session in order to assert the right of each Chamber to manage its own affairs. They are introduced and read a first time, and then are dropped from the Order Paper.
+
+India
+In the Parliament of India, every bill passes through following stages before it becomes an Act of Parliament of India:
+
+First reading – introduction stage: Any member, or member-in-charge of the bill seeks the leave of the house to introduce a bill. If the bill is an important one, the minister may make a brief speech, stating its main features.
+Second reading – discussion stage: This stage consists of detailed consideration of the bill and proposed amendments.
+Third reading – voting stage: This stage is confined only to arguments either in support of the bill or for its rejection as a whole, without referring to its details. After the bill is passed, it is sent to the other house.
+Bill in the other house (Rajya Sabha): After a bill, other than a money bill, is transmitted to the other house, it goes through all the stages in that house as that in the first house. But if the bill passed by one house is amended by the other house, it goes back to the originating house.
+President's approval: When a bill is passed by both the houses, it is sent to the President for his approval. The President can assent or withhold his assent to a bill or he can return a bill, other than a money bill. If the President gives his assent, the bill is published in The Gazette of India and becomes an Act from the date of his assent. If he withholds his assent, the bill is dropped, which is known as pocket veto. The pocket veto is not written in the constitution and has only been exercised once, by President Zail Singh in 1986, over the postal act where the government wanted to open postal letters without warrant. If the president returns it for reconsideration, the Parliament must do so, but if it is passed again and returned to him, he must give his assent to it.
+
+Ireland
+In the Irish Parliament, the Oireachtas, bills pass through the following stages. Bills may be initiated in either the Dáil or the Seanad, and must pass both houses.
+
+First stage – private members must seek the permission of the house to introduce a bill. Government bills do not require approval and are therefore introduced at the second stage.
+Second stage – this involves a discussion of the general principle of the bill. It is introduced by the sponsoring minister (or in the case of a private member's bill, by the member) and is followed by contributions from the floor of the house. Finally, the debate is brought to a conclusion by voting on the proposal "that the bill now be read a second time".
+Third stage, commonly referred to as the Committee Stage. This involves section by section scrutiny of the bill and any amendments which have been tabled. In the Dáil this usually takes place in a committee room and will involve examination by one of the select committees. In the Seanad, this stage takes place in the chamber. The Seanad may only make recommendations rather than amendments, in the case of a money bill.
+Fourth stage, commonly referred to as the Report Stage. At this point, a version of the bill incorporating any changes made at the Committee Stage is printed for consideration. In both houses, this stage is taken on the floor of the chamber. Amendments may be considered at this stage but must arise from matters discussed or changes made at the Committee Stage.
+Fifth stage: in practice this is a formality, taken with the fourth stage and referred to as the Report and Final Stage.
+Passage in the other house: the same stages are repeated in the other house and the bill is then deemed to have been passed, except that any bill initiated in the Dáil and amended by the Seanad must return to the Dáil for final consideration.
+Signature: once the bill has passed both houses it is sent to the President for signature. The signed copy is then enrolled in the Office of the Supreme Court.
+
+New Zealand
+In New Zealand, the bill passes through the following stages:
+
+First reading: MPs debate and vote on the bill. If a bill is approved, it passes on to the committee stage.
+Select committee stage: The bill is considered by a Select Committee, which scrutinises the bill in detail and hears public submissions on the matter. The Committee may recommend amendments to the bill.
+Second reading: The general principles of the bill are debated, and a vote is held. If the bill is approved, it is put before a Committee of the House.
+Committee of the House: The bill is debated and voted on, clause by clause, by the whole House sitting as a committee.
+Third reading: Summarising arguments are made, and a final vote is taken. If the bill is approved, it is passed to the Governor-General for royal assent. New Zealand has no upper house, and so no further approval is necessary.
+
+United Kingdom
+Parliament of the United Kingdom
+A draft piece of legislation is called a bill; when this is passed by Parliament it becomes an act and part of statute law. There are two types of bill and act, public and private. Public acts apply to the whole of the UK or a number of its constituent countries – England, Scotland, Wales and Northern Ireland. Private acts are local and personal in their effect, giving special powers to bodies such as local authorities or making exceptions to the law in particular geographic areas.
+In the United Kingdom Parliament, each bill passes through the following stages:
+
+Pre-legislative scrutiny: Not undertaken for all bills; usually a joint committee of both houses will review a bill and vote on amendments that the government can either accept or reject. The report from this stage can be influential in later stages as rejected recommendations from the committee are revived to be voted on.
+First reading: This is a formality; no vote occurs. The bill is presented and ordered to be printed and, in the case of private members' bills, a date is set for second reading.
+Second reading: A debate on the general principles of the bill is followed by a vote.
+Committee stage: This usually takes place in a public bill committee in the Commons and on the floor of the House in the Lords. The committee considers each clause of the bill, and may make amendments to it.
+Consideration (or report) stage: This takes place on the floor of the House, and is a further opportunity to amend the bill. Unlike committee stage, the House need not consider every clause of the bill, only those to which amendments have been tabled.
+Third reading: A debate on the final text of the bill, as amended in the House of Lords. Further amendments may be tabled at this stage.
+Passage: The bill is then sent to the other House (to the Lords, if it originated in the Commons; to the Commons, if it is a Lords bill), which may amend it.
+Consideration of Lords/Commons amendments: The House in which the bill originated considers the amendments made in the other House. This may continue for several rounds.
+Royal assent: the bill is passed with any amendments and becomes an act of Parliament.
+
+Senedd (Welsh Parliament)
+Northern Ireland Assembly
+Scottish Parliament
+In the Scottish Parliament, bills pass through the following stages:
+
+Introduction: The bill is introduced to the parliament together with its accompanying documents – explanatory notes, a policy memorandum setting out the policy underlying the bill, and a financial memorandum setting out the costs and savings associated with it. Statements from the presiding officer and the member in charge of the bill are also lodged, indicating whether the bill is within the legislative competence of the parliament.
+Stage one: The bill is considered by one or more of the subject committees of the parliament, which normally take evidence from the bill's promoter and other interested parties before reporting to the parliament on the principles of the bill. Other committees, notably the Finance and Subordinate Legislation Committees, may also feed in at this stage. The report from the committee is followed by a debate in the full parliament.
+Stage two: The bill returns to the subject committee where it is subject to line-by-line scrutiny and amendment. This is similar to the committee stage in the UK Parliament.
+Stage three: The bill as amended by the committee returns to the full parliament. There is a further opportunity for amendment, followed by a debate on the whole bill, at the end of which the parliament decides whether to pass the bill.
+Royal assent: After the bill has been passed, the presiding officer submits it to the monarch for royal assent. However, he cannot do so until a four-week period has elapsed during which the law officers of the Scottish government or the UK government can refer the bill to the Supreme Court of the United Kingdom for a ruling on whether it is within the powers of the parliament.
+There are special procedures for emergency bills, member's bills (similar to private member's bills in the UK Parliament), committee bills, and private bills.
+
+Singapore
+In Singapore, the bill passes through these certain stages before becoming into an Act of Parliament.
+
+First reading: The bill is introduced to the government, usually by the members of parliament. The unicameral parliament will then discuss the bill, followed by a vote. Voting must be at least half ayes for non-controversial bills and two-thirds ayes for controversial ones. If the bill passes the vote it will proceed to the second reading.
+Second reading: In this stage, the bill is further discussed and put to a second vote. If more than half of the votes are ayes the bill proceeds to the select committee.
+Select committee: The select committee consists of people not only from the parliaments, but also the people who could be affected by the bill is passed into law. This is to ensure equality and that the bill is fair for all. If the bill is in favour, it will proceed to the third reading.
+Third reading: After the select committee has discussed and are in favour of the bill, they will put it to a vote. At this juncture, if the votes are more than half ayes, it will be sent to the President of Singapore. This is known as President Assent.
+President Assent: The president must give permission in order for the bill to be passed. If they approve it, it will become a statute passed down by the members of parliament which is called an Act of Parliament.
+
+Titles and citation of acts
+Acts passed by the Parliament of England did not originally have titles, and could only be formally cited by reference to the parliamentary session in which they were passed, with each individual act being identified by year and chapter number. Descriptive titles began to be added to the enrolled acts by the official clerks, as a reference aid; over time, titles came to be included within the text of each bill. Since the mid-nineteenth century, it has also become common practice for acts to have a short title, as a convenient alternative to the sometimes lengthy main titles.  The Short Titles Act 1892, and its replacement the Short Titles Act 1896, gave short titles to many acts which previously lacked them.
+The numerical citation of acts has also changed over time.  The original method was based on the regnal year (or years) in which the relevant parliamentary session met. This has been replaced in most territories by simple reference to the calendar year, with the first act passed being chapter 1, and so on.
+In the United Kingdom, legislation has referenced by year and chapter number since 1963 (Acts of Parliament Numbering and Citation Act 1962). Each act is numbered consecutively based on the date it received royal assent, for example the 43rd act passed in 1980 would be 1980 chapter 43.  The full reference includes the (short) title and would be the Magistrate's Court Act 1980 (c. 43).
+Until the 1980s, acts of the Australian state of Victoria were numbered in a continuous sequence from 1857; thus the Age of Majority Act 1977 was No. 9075 of 1977.
+
+See also
+Act of Congress
+Legislative act
+Halsbury's Statutes
+List of legislation in the United Kingdom
+Table of contents
+
+References
+Citations
+Sources
+General
+
+External links
+Acts of the UK Parliament and statutory instruments are available free on-line under Crown copyright terms National Archives (legislation.gov.uk).
+Parliamentary Stages of a Government Bill (pdf) from the House of Commons Information Office.
+Acts of the Commonwealth Parliament of Australia: ComLaw.gov.au

@@ -1,0 +1,39 @@
+1098
+Administrador de Infraestructuras Ferroviarias
+ADIF (Spanish pronunciation: aˈðif, an acronym of Administrador de Infraestructuras Ferroviarias) is a Spanish state-owned railway infrastructure manager.  This state owned company reports to the Ministry of Transport and Sustainable Mobility. ADIF is charged with the management of most of Spain's railway infrastructure, that is the track, signaling and stations. It was formed in 2005 in response to European Union requirements to separate the natural monopoly of infrastructure management from the competitive operations of running train services. It is the legal successor of Renfe, Feve (Ferrocarriles de Vía Estrecha), and GIF (Gestor de Infraestructuras Ferroviarias).
+
+History
+ADIF was created as the result of Railway Sector Act, which arises from the transposition of European Directives that required all large European national railways to independently manage the infrastructure and trains on it. The ultimate goal of this legislation was to permit any other rail operator seeking to access the network to do so on equal terms with the incumbent operator (in the case of Spain, Renfe) and thus promote free competition. 
+The Renfe division became effective on 1 January 2005 between the two companies:
+
+Renfe (newly created entity): Owner of trains and responsible for its circulation, which works in competition with other railway companies
+ADIF (Legal successor of Renfe): Owner of infrastructure and responsible for its management, which provides its services to any rail operator who requests
+A similar operation was conducted on 31 December 2012 with Feve, a company that managed the narrow gauge railways. ADIF took charge of all narrow gauge infrastructures not transferred to the autonomous governments. Spain's implementation, and thus compliance, with EU legislation has on occasion been contested and even occasionally subject to legal challenges.
+Throughout the 2010s, considerable attention was paid to developing ADIF's international presence; the organisation also seeks to promote the involvement of various Spanish railway companies in international projects. Some success has been encountered in these endeavours, with links being formed with partners in nations such as India and Egypt.
+Between 2016 and 2021, ADIF undertook a protracted and complicated process under which it implemented numerous free market-orientated models to replace ones favouring the state-owned Renfe. Greater legal separation was implemented (intended at eliminating any conflict of interest between ADIF and Renfe), full recognition of operating licences granted to train operators by other EU member states was granted, the quota system was eliminated, and the CNMC was given greater regulatory authority over such matters. Following these changes, three different companies had signed ten-year agreements on the provision of various high-speed services, including on the Madrid-Barcelona, Madrid-East and Madrid-South routes, by early 2023.
+During 2021, the Comisión Nacional de los Mercados y la Competencia (CNMC), Spain's competition regulator, imposed fines totalling €127.3m on various infrastructure supplies, including Alstom, Bombardier Transportation, CAF Signalling, Cobra, Nokia, Siemens Rail, and Thales, for their involvement in a cartel that fraudulently inflated the prices of bids issued for at least 82 tenders by ADIF, the Ministry of Development, and the former Railway Infrastructure Manager (GIF), related to the construction, execution of works, supply, installation, commissioning and maintenance of security and communications apparatus on Spain's railway network. These actions, taken over a 15-year period between 2002 and 2017, involved contracts worth €4.142bn and running as late as 2040.
+During December 2022, responsibilities related to track access charges was transferred from the state budget to ADIF; this change permits the organisation to modify the charges imposed in various ways, such as to account for various economic and social factors. Shortly thereafter, the CNMC recommended that the track access charges should be adjusted to reflect the substantial post-COVID-19 changes in both passenger traffic and revenue. During July 2023, following a competitive tendering process, the international auditing company Deloitte was awarded a contract to develop a new scale for the calculation of these access charges that were applied to operators, such as Renfe, Iryo and Ouigo, for the first time in the following year.
+During 2023, ADIF proposed the expansion of measures aimed at encouraging open access operations across the wider Spanish rail network, instead of on certain selected routes; ADIF President María Domínguez-González referred to these proposed changes as being "a second phase of liberalisation". The mixed track gauges in use in Spain have been identified as one practical barrier for railway operators; seeking to address this issue, ADIF has been involved in new freight gauge changeover schemes.
+
+Operations
+ADIF is responsible for administering rail infrastructure (tracks, stations, freight terminals, etc.), managing rail traffic distributing capacity to rail operators, and the collection of fees for infrastructure, station and freight terminal use.
+
+Current high-speed rail lines in Spain
+High-speed rail lines under construction in Spain
+León - Asturias (Pajares New Line). Length: 49.7 km
+Venta de Baños - Burgos - Vitoria. Length: 200.4 km
+Vitoria - Bilbao - San Sebastián. Length: 176.5 km (including accesses to cities)
+Madrid – Castile-La Mancha – Valencia Region – Murcia Region. Length: 955 km (603 in service and 352 under construction)
+Extension of Madrid Southern Access-Torrejón de Velasco
+High-speed Mediterranean Corridor. Murcia-Almería section. Length: 184.4 km (not including the Murcia Railway Network)
+Antequera-Granada. Length: 125.7 km
+Madrid - Extremadura - Portuguese Border. Estimated length: 450 km
+Madrid: Atocha-Chamartín connection. Length: 8.2 km
+
+Financial information
+References
+External links
+
+Official site
+Líneas, the official Adif magazine
+ADIF Economic and management information

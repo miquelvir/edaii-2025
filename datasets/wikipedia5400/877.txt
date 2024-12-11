@@ -1,0 +1,128 @@
+877
+C standard library
+The C standard library, sometimes referred to as libc, is the standard library for the C programming language, as specified in the ISO C standard. Starting from the original [ANSI C](803) standard, it was developed at the same time as the C library POSIX specification, which is a superset of it. Since [ANSI C](803) was adopted by the International Organization for Standardization, the C standard library is also called the ISO C library.
+The C standard library provides macros, type definitions and functions for tasks such as string manipulation, mathematical computation, input/output processing, memory management, and input/output.
+
+Application programming interface (API)
+Header files
+The application programming interface (API) of the C standard library is declared in a number of header files. Each header file contains one or more function declarations, data type definitions, and macros.
+After a long period of stability, three new header files (iso646.h, wchar.h, and wctype.h) were added with Normative Addendum 1 (NA1), an addition to the C Standard ratified in 1995. Six more header files (complex.h, fenv.h, inttypes.h, stdbool.h, stdint.h, and tgmath.h) were added with [C99](772), a revision to the C Standard published in 1999, and five more files (stdalign.h, stdatomic.h, stdnoreturn.h, threads.h, and uchar.h) with C11 in 2011. In total, there are now 29 header files:
+
+Three of the header files (complex.h, stdatomic.h, and threads.h) are conditional features that implementations are not required to support.
+The POSIX standard added several nonstandard C headers for Unix-specific functionality. Many have found their way to other architectures. Examples include fcntl.h and unistd.h. A number of other groups are using other nonstandard headers – the GNU C Library has alloca.h, and OpenVMS has the va_count() function.
+
+Documentation
+On Unix-like systems, the authoritative documentation of the API is provided in the form of man pages. On most systems, man pages on standard library functions are in section 3; section 7 may contain some more generic pages on underlying concepts (e.g. man 7 math_error in Linux).
+
+Implementations
+Unix-like systems typically have a C library in shared library form, but the header files (and compiler toolchain) may be absent from an installation so C development may not be possible. The C library is considered part of the operating system on Unix-like systems; in addition to functions specified by the C standard, it includes other functions that are part of the operating system API, such as functions specified in the POSIX standard. The C library functions, including the ISO C standard ones, are widely used by programs, and are regarded as if they were not only an implementation of something in the C language, but also de facto part of the operating system interface. Unix-like operating systems generally cannot function if the C library is erased. This is true for applications which are dynamically as opposed to statically linked. Further, the kernel itself (at least in the case of Linux) operates independently of any libraries.
+On Microsoft Windows, the core system dynamic libraries (DLLs) provide an implementation of the C standard library for the Microsoft Visual [C++](640) compiler v6.0; the C standard library for newer versions of the Microsoft Visual [C++](640) compiler is provided by each compiler individually, as well as redistributable packages. Compiled applications written in C are either statically linked with a C library, or linked to a dynamic version of the library that is shipped with these applications, rather than relied upon to be present on the targeted systems. Functions in a compiler's C library are not regarded as interfaces to Microsoft Windows.
+Many C library implementations exist, provided with both various operating systems and C compilers.  Some of the popular implementations are the following:
+
+The [BSD](750) libc, various implementations distributed with [BSD](750)-derived operating systems
+GNU C Library (glibc), used in GNU Hurd, GNU/kFree[BSD](750), and most Linux distributions
+Microsoft C run-time library, part of Microsoft Visual [C++](640). There are two versions of the library: MSVCRT that was a redistributable till v12 / Visual Studio 2013 with low [C99](772) compliance, and a new one UCRT (Universal C Run Time) that is part of Windows 10 and 11, so always present to link against, and is [C99](772) compliant too 1.
+dietlibc, an alternative small implementation of the C standard library (MMU-less)
+μClibc, a C standard library for embedded μClinux systems (MMU-less)
+uclibc-ng, an embedded C library, fork of μClibc, still maintained, with memory management unit (MMU) support
+Newlib, a C standard library for embedded systems (MMU-less) and used in the Cygwin GNU distribution for Windows
+klibc, primarily for booting Linux systems
+musl, another lightweight C standard library implementation for Linux systems
+Bionic, originally developed by Google for the Android embedded system operating system, derived from [BSD](750) libc
+picolibc, developed by Keith Packard, targeting small embedded systems with limited RAM, based on code from Newlib and AVR Libc
+
+Compiler built-in functions
+Some compilers (for example, GCC) provide built-in versions of many of the functions in the C standard library; that is, the implementations of the functions are written into the compiled object file, and the program calls the built-in versions instead of the functions in the C library shared object file. This reduces function-call overhead, especially if function calls are replaced with inline variants, and allows other forms of optimization (as the compiler knows the control-flow characteristics of the built-in variants), but may cause confusion when debugging (for example, the built-in versions cannot be replaced with instrumented variants).
+However, the built-in functions must behave like ordinary functions in accordance with ISO C. The main implication is that the program must be able to create a pointer to these functions by taking their address, and invoke the function by means of that pointer. If two pointers to the same function are derived in two different translation units in the program, these two pointers must compare equal; that is, the address comes by resolving the name of the function, which has external (program-wide) linkage.
+
+Linking, libm
+Under Free[BSD](750) and glibc, some functions such as sin() are not linked in by default and are instead bundled in the mathematical library libm. If any of them are used, the linker must be given the directive -lm. POSIX requires that the c99 compiler supports -lm, and that the functions declared in the headers math.h, complex.h, and fenv.h are available for linking if -lm is specified, but does not specify if the functions are linked by default. musl satisfies this requirement by putting everything into a single libc library and providing an empty libm.
+
+Detection
+According to the C standard the macro __STDC_HOSTED__ shall be defined to 1 if the implementation is hosted. A hosted implementation has all the headers specified by the C standard. An implementation can also be freestanding which means that these headers will not be present. If an implementation is freestanding, it shall define __STDC_HOSTED__ to 0.
+
+Problems and workarounds
+[Buffer overflow](637) vulnerabilities
+Some functions in the C standard library have been notorious for having buffer overflow vulnerabilities and generally encouraging buggy programming ever since their adoption. The most criticized items are:
+
+string-manipulation routines, including strcpy() and strcat(), for lack of bounds checking and possible buffer overflows if the bounds are not checked manually;
+string routines in general, for side-effects, encouraging irresponsible buffer usage, not always guaranteeing valid null-terminated output, linear length calculation;
+printf() family of routines, for spoiling the execution stack when the format string does not match the arguments given. This fundamental flaw created an entire class of attacks: format string attacks;
+gets() and scanf() family of I/O routines, for lack of (either any or easy) input length checking.
+Except the extreme case with gets(), all the security vulnerabilities can be avoided by introducing auxiliary code to perform memory management, bounds checking, input checking, etc. This is often done in the form of wrappers that make standard library functions safer and easier to use. This dates back to as early as The Practice of Programming book by B. Kernighan and R. Pike where the authors commonly use wrappers that print error messages and quit the program if an error occurs.
+The ISO C committee published Technical reports TR 24731-1 and is working on TR 24731-2 to propose adoption of some functions with bounds checking and automatic buffer allocation, correspondingly. The former has met severe criticism with some praise, and the latter saw mixed response.
+Despite concerns, TR 24731-1 was integrated into the C standards track in ISO/IEC 9899:2011 (C11), Annex K (Bounds-checking interfaces), and implemented approximately in Microsoft’s C/++ runtime (CRT) library for the Win32 and Win64 platforms.
+
+(By default, Microsoft Visual Studio’s C and [C++](640) compilers issue warnings when using older, "insecure" functions. However, Microsoft’s implementation of TR 24731-1 is subtly incompatible with both TR 24731-1 and Annex K, so it’s common for portable projects to disable or ignore these warnings. They can be disabled directly by issuing  before/around the call sites in question, or indirectly by issuing 
+before including any headers. Command-line option /D_CRT_NO_SECURE_WARNINGS=1 should have the same effect as this #define.)
+
+Threading problems, vulnerability to race conditions
+The strerror() routine is criticized for being thread unsafe and otherwise vulnerable to race conditions.
+
+Error handling
+The error handling of the functions in the C standard library is not consistent and sometimes confusing. According to the Linux manual page math_error, "The current (version 2.8) situation under glibc is messy. Most (but not all) functions raise exceptions on errors. Some also set errno. A few functions set errno, but do not raise an exception. A very few functions do neither."
+
+Standardization
+The original C language provided no built-in functions such as I/O operations, unlike traditional languages such as [COBOL](642) and Fortran. Over time, user communities of C shared ideas and implementations of what is now called C standard libraries. Many of these ideas were incorporated eventually into the definition of the standardized C language.
+Both Unix and C were created at AT&T's Bell Laboratories in the late 1960s and early 1970s. During the 1970s the C language became increasingly popular. Many universities and organizations began creating their own variants of the language for their own projects. By the beginning of the 1980s compatibility problems between the various C implementations became apparent. In 1983 the [American National Standards Institute](810) (ANSI) formed a committee to establish a standard specification of C known as "[ANSI C](803)". This work culminated in the creation of the so-called C89 standard in 1989. Part of the resulting standard was a set of software libraries called the [ANSI C](803) standard library.
+
+POSIX standard library
+POSIX, as well as SUS, specify a number of routines that should be available over and above those in the basic C standard library. The POSIX specification includes header files for, among other uses, multi-threading, networking, and regular expressions. These are often implemented alongside the C standard library functionality, with varying degrees of closeness. For example, glibc implements functions such as fork within libc.so, but before NPTL was merged into glibc it constituted a separate library with its own linker flag argument. Often, this POSIX-specified functionality will be regarded as part of the library; the basic C library may be identified as the ANSI or ISO C library.
+
+[BSD](750) libc
+[BSD](750) libc is a superset of the POSIX standard library supported by the C libraries included with [BSD](750) operating systems such as Free[BSD](750), Net[BSD](750), Open[BSD](750) and macOS. [BSD](750) libc has some extensions that are not defined in the original standard, many of which first appeared in 1994's 4.4[BSD](750) release (the first to be largely developed after the first standard was issued in 1989). Some of the extensions of [BSD](750) libc are:
+
+sys/tree.h –  contains an implementation of red–black tree and splay tree
+sys/queue.h –  implementations of Linked list, queues, tail queue, etc.
+fgetln() –  defined in stdio.h. This can be used to read a file line by line.
+fts.h –  contains some functions to traverse a file hierarchy
+db.h –  some functions to connect to the Berkeley DB
+strlcat() and strlcpy() –  secure alternatives for strncat() and strncpy()
+err.h –  contains some functions to print formatted error messages
+vis.h –  contains the vis() function. This function is used to display non-printable characters in a visual format.
+
+The C standard library in other languages
+Some languages include the functionality of the standard C library in their own libraries. The library may be adapted to better suit the language's structure, but the operational semantics are kept similar.
+
+[C++](640)
+The [C++](640) language incorporates the majority of the C standard library’s constructs into its own, excluding C-specific machinery. C standard library functions are exported from the [C++](640) standard library in two ways.
+
+For backwards-/cross-compatibility to C and pre-Standard [C++](640), functions can be accessed in the global namespace (::), after #includeing the C standard header name as in C. Thus, the [C++](640)98 program  should exhibit (apparently-)identical behavior to C95 program 
+From [C++](640)98 on, C functions are also made available in namespace ::std (e.g., C printf as [C++](640) ::std::printf, atoi as ::std::atoi, feof as ::std::feof), by including header <chdrname> instead of corresponding C header <hdrname.h>. E.g., <cstdio> substitutes for <stdio.h> and <cmath> for <math.h>; note lack of .h extension on [C++](640) header names.
+
+Thus, an equivalent (generally preferable) [C++](640)≥98 program to the above two is: 
+A using namespace ::std declaration above or within 
+main can be issued to apply the ::std:: prefix automatically, although it’s generally considered poor practice to use it globally in headers because it pollutes the global namespace.
+A few of the [C++](640)≥98 versions of C’s headers are missing; e.g., C≥11 <stdnoreturn.h> and <threads.h> have no [C++](640) counterparts.
+Others are reduced to placeholders, such as (until [C++](640)20) <ciso646> for C95 <iso646.h>, all of whose requisite macros are rendered as keywords in [C++](640)98. C-specific syntactic constructs aren’t generally supported, even if their header is.
+
+Several C headers exist primarily for [C++](640) compatibility, and these tend to be near-empty in [C++](640). For example, [C99](772)–17 <stdbool.h> require only  in order to feign support for the [C++](640)98 bool, false, and true keywords in C. [C++](640)11 requires <stdbool.h> and <cstdbool> for compatibility, but all they need to define is __bool_true_false_are_defined. C23 obsoletes older _Bool keyword in favor of new, [C++](640)98-equivalent bool, false, and true keywords, so the C≥23 and [C++](640)≥11 <stdbool.h>/<cstdbool> headers are fully equivalent. (In particular, C23 doesn’t require any __STDC_VERSION_BOOL_H__ macro for <stdbool.h>.)
+Access to C library functions via namespace ::std and the [C++](640)≥98 header names is preferred where possible. To encourage adoption, [C++](640)98 obsoletes the C (*.h) header names, so it’s possible that use of C compatibility headers will cause an especially strict [C++](640)98–20 preprocessor to raise a diagnostic of some sort. However, [C++](640)23 (unusually) de-obsoletes these headers, so newer [C++](640) implementations/modes shouldn’t complain without being asked to specifically.
+
+Other languages take a similar approach, placing C compatibility functions/routines under a common namespace; these include D, Perl, and Ruby.
+
+Python
+[CPython](777) includes wrappers for some of the C library functions in its own common library, and it also grants more direct access to C functions and variables via its ctypes package.
+More generally, Python 2.x specifies the built-in file objects as being “implemented using C's stdio package,” and frequent reference is made to C standard library behaviors; the available operations (open, read, write , etc.) are expected to have the same behavior as the corresponding C functions (fopen, fread, fwrite, etc.).
+Python 3’s specification relies considerably less on C specifics than Python 2, however.
+
+Rust
+Rust offers crate libc, which allows various C standard (and other) library functions and type definitions to be used.
+
+Comparison to standard libraries of other languages
+The C standard library is small compared to the standard libraries of some other languages. The C library provides a basic set of mathematical functions, string manipulation, type conversions, and file and console-based I/O. It does not include a standard set of "container types" like the [C++](640) Standard Template Library, let alone the complete graphical user interface (GUI) toolkits, networking tools, and profusion of other functionality that Java and the .NET Framework provide as standard. The main advantage of the small standard library is that providing a working ISO C environment is much easier than it is with other languages, and consequently porting C to a new platform is comparatively easy.
+
+See also
+[C++](640) Standard Library
+
+Notes
+References
+Further reading
+Plauger, P.J. (1992). The Standard C library (1 ed.). Prentice Hall. ISBN 978-0131315099.
+
+External links
+The C Library Reference Guide
+Handy list of which headers are in which standard
+Microsoft Universal C runtime routines by category on MSDN
+Net[BSD](750) C libraries manual Archived 2015-12-23 at the Wayback Machine and full C library source
+Manual pages for the original C standard libraries in Unix

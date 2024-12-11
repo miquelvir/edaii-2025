@@ -1,0 +1,82 @@
+403
+Acanthocephala
+Acanthocephala  (Greek ἄκανθος, akanthos 'thorn' + κεφαλή, kephale 'head') is a group of parasitic worms known as acanthocephalans, thorny-headed worms, or spiny-headed worms, characterized by the presence of an eversible proboscis, armed with spines, which it uses to pierce and hold the gut wall of its host. Acanthocephalans have complex life cycles, involving at least two hosts, which may include invertebrates, fish, amphibians, birds, and mammals. About 1,420 species have been described.
+The Acanthocephala were long thought to be a discrete phylum. Recent genome analysis has shown that they are descended from, and should be considered as, highly modified rotifers. This unified taxon is sometimes known as Syndermata, or simply as Rotifera, with the acanthocephalans described as a subclass of a rotifer class Hemirotatoria.
+
+History
+The earliest recognisable description of Acanthocephala – a worm with a proboscis armed with hooks – was made by Italian author Francesco Redi (1684). In 1771, Joseph Koelreuter proposed the name Acanthocephala. Philipp Ludwig Statius Müller independently called them Echinorhynchus in 1776. Karl Rudolphi in 1809 formally named them Acanthocephala.
+
+Evolutionary history
+The oldest known remains of acanthocephalans are eggs found in a coprolite from the Late Cretaceous Bauru Group of Brazil, around 70–80 million years old, likely from a crocodyliform. The group may have originated substantially earlier.
+
+Phylogeny
+Acanthocephalans are highly adapted to a parasitic mode of life, and have lost many organs and structures through evolutionary processes. This makes determining relationships with other higher taxa through morphological comparison problematic. Phylogenetic analysis of the 18S ribosomal gene has revealed that the Acanthocephala are most closely related to the rotifers. They are possibly closer to the two rotifer classes Bdelloidea and Monogononta than to the other class, Seisonidea, producing the names and relationships shown in the cladogram below.
+
+The three rotifer classes and the Acanthocephala make up a clade called Syndermata. This clade is placed in the Gnathifera.
+A study of the gene order in the mitochondria suggests that Seisonidea and Acanthocephala are sister clades and that the Bdelloidea are the sister clade to this group.
+Currently the phylum is divided into four classes – Palaeacanthocephala, Archiacanthocephala, Polyacanthocephala and Eoacanthocephala. The monophyletic Archiacanthocephala are the sister taxon of a clade comprising Eoacanthocephala and the monophyletic Palaeacanthocephala.
+
+Morphology
+Several morphological characteristics distinguish acanthocephalans from other phyla of parasitic worms.
+
+Digestion
+Acanthocephalans lack a mouth or alimentary canal. This is a feature they share with the cestoda (tapeworms), although the two groups are not closely related. Adult stages live in the intestines of their host and uptake nutrients which have been digested by the host, directly, through their body surface. The acanthocephalans lack an excretory system, although some species have been shown to possess flame cells (protonephridia).
+
+Proboscis
+The most notable feature of the acanthocephala is the presence of an anterior, protrudable proboscis that is usually covered with spiny hooks (hence the common name: thorny or spiny headed worm). The proboscis bears rings of recurved hooks arranged in horizontal rows, and it is by means of these hooks that the animal attaches itself to the tissues of its host. The hooks may be of two or three shapes, usually: longer, more slender hooks are arranged along the length of the proboscis, with several rows of more sturdy, shorter nasal hooks around the base of the proboscis. The proboscis is used to pierce the gut wall of the final host, and hold the parasite fast while it completes its life cycle.
+Like the body, the proboscis is hollow, and its cavity is separated from the body cavity by a septum or proboscis sheath. Traversing the cavity of the proboscis are muscle-strands inserted into the tip of the proboscis at one end and into the septum at the other.  Their contraction causes the proboscis to be invaginated into its cavity. The whole proboscis apparatus can also be, at least partially, withdrawn into the body cavity, and this is effected by two retractor muscles which run from the posterior aspect of the septum to the body wall.
+Some of the acanthocephalans (perforating acanthocephalans) can insert their proboscis in the intestine of the host and open the way to the abdominal cavity.
+
+Size
+The size of these animals varies greatly, ranging from a few millimetres in length to Macracanthorhynchus hirudinaceus, which measures from 10 to 65 centimetres (3.9 to 25.6 in). A curious feature shared by both larva and adult is the large size of many of the cells, e.g. the nerve cells and cells forming the uterine bell. Polyploidy is common, with up to 343n having been recorded in some species.
+
+Skin
+The body surface of the acanthocephala is peculiar. Externally, the skin has a thin tegument covering  the epidermis, which consists of a syncytium with no cell walls. The syncytium is traversed by a series of branching tubules containing fluid and is controlled by a few wandering, amoeboid nuclei. Inside the syncytium is an irregular layer of circular muscle fibres, and within this again some rather scattered longitudinal fibres; there is no endothelium. In their micro-structure the muscular fibres resemble those of nematodes.
+Except for the absence of the longitudinal fibres the skin of the proboscis resembles that of the body, but the fluid-containing tubules of the proboscis are shut off from those of the body. The canals of the proboscis open into a circular vessel which runs round its base. From the circular canal two sac-like projections called the lemnisci run into the cavity of the body, alongside the proboscis cavity. Each consists of a prolongation of the syncytial material of the proboscis skin, penetrated by canals and sheathed with a muscular coat. They seem to act as reservoirs into which the fluid which is used to keep the proboscis "erect" can withdraw when it is retracted, and from which the fluid can be driven out when it is wished to expand the proboscis.
+
+Nervous system
+The central ganglion of the nervous system lies behind the proboscis sheath or septum. It innervates the proboscis and projects two stout trunks posteriorly which supply the body.  Each of these trunks is surrounded by muscles, and this nerve-muscle complex is called a retinaculum. In the male at least there is also a genital ganglion. Some scattered papillae may possibly be sense-organs.
+
+Life cycles
+Acanthocephalans have complex life cycles, involving a number of hosts, for both developmental and resting stages. Complete life cycles have been worked out for only 25 species.
+
+Reproduction
+The Acanthocephala are dioecious (an individual organism is either male or female). There is a structure called the genital ligament which runs from the posterior end of the proboscis sheath to the posterior end of the body. In the male, two testes lie on either side of this. Each opens in a vas deferens which bears three diverticula or vesiculae seminales. The male also possesses three pairs of cement glands, found behind the testes, which pour their secretions through a duct into the vasa deferentia. These unite and end in a penis which opens posteriorly.
+In the female, the ovaries are found, like the testes, as rounded bodies along the ligament. From the ovaries, masses of ova dehisce into the body cavity, floating in its fluids for fertilization by male's sperm. After fertilization, each egg contains a developing embryo. (These embryos hatch into first stage larva.) The fertilized eggs are brought into the uterus by actions of the uterine bell, a funnel like opening continuous with the uterus. At the junction of the bell and the uterus there is a second, smaller opening situated dorsally. The bell "swallows" the matured eggs and passes them on into the uterus. (Immature embryos are passed back into the body cavity through the dorsal opening.) From the uterus, mature eggs leave the female's body via her oviduct, pass into the host's alimentary canal and are expelled from the host's body within feces.
+
+Release
+Having been expelled by the female, the acanthocephalan egg is released along with the feces of the host. For development to occur, the egg, containing the acanthor, needs to be ingested by an arthropod, usually a crustacean (there is one known life cycle which uses a mollusc as a first intermediate host). Inside the intermediate host, the acanthor is released from the egg and develops into an acanthella.  It then penetrates the gut wall, moves into the body cavity, encysts, and begins transformation into the infective cystacanth stage. This form has all the organs of the adult save the reproductive ones.
+The parasite is released when the first intermediate host is ingested. This can be by a suitable final host, in which case the cystacanth develops into a mature adult, or by a paratenic host, in which the parasite again forms a cyst. When consumed by a suitable final host, the cycstacant excysts, everts its proboscis and pierces the gut wall. It then feeds, grows and develops its sexual organs. Adult worms then mate. The male uses the excretions of its cement glands to plug the vagina of the female, preventing subsequent matings from occurring. Embryos develop inside the female, and the life cycle repeats.
+
+Host control
+Thorny-headed worms begin their life cycle inside invertebrates that reside in marine or freshwater systems.  One example is Polymorphus paradoxus.  Gammarus lacustris, a small crustacean that inhabits ponds and rivers, is one invertebrate that  P. paradoxus may occupy; ducks are one of the definitive hosts.
+This crustacean is preyed on by ducks and hides by avoiding light and staying away from the surface.  However, infection by P. paradoxus changes its behavior and appearance in a number of ways that increase its chance of being eaten.  First, infection significantly reduces G. lacustris's photophobia; as a result, it becomes attracted toward light and swims to the surface. Second, an infected organism will even go so far as to find a rock or a plant on the surface, clamp its mouth down, and latch on, making it easy prey for the duck.  Finally, infection reduces the pigment distribution and amount in G. lacustris, causing the host to turn blue; unlike their normal brown colour, this makes the crustacean stand out and increases the chance the duck will see it.
+Experiments have shown that altered serotonin levels are likely responsible for at least some of these changes in behaviour.  One experiment found that serotonin induces clinging behavior in G. lacustris similar to that seen in infected organisms.  Another showed that infected G. lacustris had approximately 3 times as many serotonin-producing sites in its ventral nerve cord. Furthermore, experiments in closely-related species of Polymorphus and Pomphorhynchus infecting other Gammarus species confirmed this relation: infected organisms were considerably more attracted to light and had higher serotonin levels, while the phototropism could be duplicated by injections of serotonin.
+
+Effects on hosts
+Polymorphus spp. are parasites of seabirds, particularly the eider duck (Somateria mollissima). Heavy infections of up to 750 parasites per bird are common, causing ulceration to the gut, disease and seasonal mortality. Recent research has suggested that there is no evidence of pathogenicity of Polymorphus spp. to intermediate crab hosts. The cystacanth stage is long lived and probably remains infectious throughout the life of the crab.
+
+Economic impact
+Acanthocephalosis, a disease caused by Acanthacephalus infection, is prevalent in aquaculture, occurring in Atlantic salmon, rainbow and brown trout, tilapia, and tambaqui. Increasing occurrence in Brazilian farming of tambaqui has been reported, and in 2003 Acanthacephalus was first reported in cultured red snapper in Taiwan.   
+The life cycle of Polymorphus spp. normally occurs between sea ducks (e.g. eiders and scoters) and small crabs.  Infections found in commercial-sized lobsters in Canada were probably acquired from crabs that form an important dietary item of lobsters. Cystacanths occurring in lobsters can cause economic loss to fishermen. There are no known methods of prevention or control.
+
+Human infections
+In humans, it causes the disease acanthocephaliasis. The earliest known infection was found in a prehistoric man in Utah. This infection was dated to 1869 ± 160 BC. The species involved was thought to be Moniliformis clarki which is still common in the area. 
+The first report of an isolate in historic times was by Lambl in 1859 when he isolated Macracanthorhynchus hirudinaceus from a child in Prague. Lindemann in 1865 reported that this organism was commonly isolated in Russia. The reason for this was discovered by Schneider in 1871 when he found that an intermediate host, the scarabaeid beetle grub, was commonly eaten raw. 
+The first report of clinical symptoms was by Calandruccio who in 1888 while in Italy infected himself by ingesting larvae. He reported gastrointestinal disturbances and shed eggs in two weeks. Subsequent natural infections have since been reported. 
+Eight species have been isolated from humans to date. Moniliformis moniliformis is the most common isolate. Other isolates include Acanthocephalus bufonis and Corynosoma strumosum.
+
+See also
+Cestoda
+Digenea
+Monogenea
+
+References
+Further reading
+Amin, O. M. (1987). "Key to the families and subfamilies of Acanthocephala, with erection of a new class (Polyacanthocephala) and a new order (Polyacanthorhynchida)". Journal of Parasitology. 73 (6): 1216–1219. doi:10.2307/3282307. JSTOR 3282307. PMID 3437357.
+Lühe, M. (1904). "Geschichte und Ergebnisse der Echinorhynchen – Forschung bis auf Westrumb (1821)". Zoologischer Annalen. 1: 139–250.
+Tain, Luke; Marie-Jeanne Perrot-Minnot; Frank Cézilly (December 22, 2006). "Altered host behaviour and brain serotonergic activity caused by acanthocephalans: evidence for specificity". Proceedings of the Royal Society B. 273 (1605): 3039–3045. doi:10.1098/rspb.2006.3618. PMC 1679890. PMID 17015346.
+Zimmer, Carl (2000). Parasite Rex: Inside the Bizarre World of Nature's Most Dangerous Creatures. Free Press. p. 92. ISBN 978-0-7432-0011-0.
+
+
+== External links ==

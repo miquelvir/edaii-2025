@@ -1,0 +1,37 @@
+778
+CSPro
+CSPro, short for the Census and Survey Processing System, is a public domain data processing software package developed by the U.S. Census Bureau and ICF International. Serpro S.A. was involved in past development. Funding for development comes primarily from the U.S. Agency for International Development. The main purpose of this software framework is to design an application for data collection and processing.
+CSPro was designed and implemented through a joint effort by the developers of two earlier software packages that were used to capture, edit, and tabulate census and survey data on DOS-based machines: the Integrated Microcomputer Processing System (IMPS), developed by the U.S. Census Bureau, and the Integrated System for Survey Analysis (ISSA), developed by Serpro S.A. As a result, CSPro is founded on more than 30 years of development.
+The software can be run on Windows-based OS (Vista, 7, 8, and 10—Linux and IOS operating systems are not supported) to design applications able to be deployed on Android and Windows family OS following its "Build Once, Deploy Many" ability. These applications can be used for mobile survey data collection (via Smartphones or tablets), or for office-based collection (via laptops or desktops). The public domain distribution is binary-only. Support for Unicode data entry began with version 5.
+A CSPro designed application can be a dynamic and intelligent questionnaire for entering, editing, tabulating, mapping, and disseminating census and survey data. Also, the simple IDE of the CSPro Designer can be used to implement sophisticated Information System in various fields such as Monitoring and Evaluation, Business Administration, Logistics and so on.
+This package is widely used worldwide by statistical agencies, international organizations, NGOs, consulting firms, colleges and universities, hospitals, and private sector groups, in more than 160 countries. Major international household survey programs, such as Multiple Indicator Cluster Surveys (MICS) and Demographic and Health Surveys (DHS) also use CSPro for Census and Survey works.
+While the program uses a simple graphical interface (IDE), CSPro also contains a sophisticated programming language that can be used to create highly customized applications. Beginning users can program simple quality control checks, and advanced users can write dynamic applications using his procedural and object oriented programming language.
+It remains actively in development (as of spring 2021). With latest improvements, CSPro designed application support:
+
+SQLite and SQL language;
+Relational database support on device and servers;
+Improved data security through transparent data encryption and support of best in class hashing/salting algorithms;
+Multiple questions per screen;
+Mobile Mapping: Displaying dynamic mapping and deal with geographic informations (online maps, Tiled offline basemap and points (all features: polygon, polyline, line is supported on version 7.7));
+Introduction of Objects programming in CSPro logic;
+CSS, HTML5, JavaScript via templated report, CAPI text, Webview/Webview 2 and CSPro-Javascript interface;
+PHP through CSWeb;
+Powerful and comprehensive paradata for complete and intelligent monitoring of the data collection step;
+Smart application installation using barcode/QR Code;
+Multiple programming language improvements (smart synchronization (including on local Dropbox and FTP servers, dynamic translation, etc.));
+The source code of the CSWeb API and the help system have been released to the public, but generally it is not open source. In addition to the help system disseminated with CSPro, an active users forum is maintained as well.
+
+See also
+Epi Info
+X-12-ARIMA
+Data Processing
+Data collection system
+CAPI
+Survey data collection
+Information System
+
+References
+External links
+Official website
+CSPro Users
+Serpro S.A.

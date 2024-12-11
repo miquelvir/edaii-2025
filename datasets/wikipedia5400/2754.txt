@@ -1,0 +1,28 @@
+2754
+Disease resistance
+Disease resistance is the ability to prevent or reduce the presence of diseases in otherwise susceptible hosts. It can arise from genetic or environmental factors, such as incomplete penetrance. Disease tolerance is different as it is the ability of a host to limit the impact of disease on host health.
+In crops this includes plant disease resistance and can follow a gene-for-gene relationship.
+
+Genetic Factors
+Incomplete Penetrance
+An example of a genetic factor causing disease resistance is incomplete penetrance. Incomplete penetrance is the result of a genetic mutation not fully manifesting as the associated trait or disease. In the combined case of sickle cell anemia and malaria, individuals with one normal allele and one sickle cell allele, (heterozygous HbAS), are largely healthy due to incomplete penetrance. They do not experience the effects of having sickle cell anemia, (due to the incomplete nature of the mutation), and gain resistance to malaria. This is due to the altered shape of their red blood cells due to the partial sickle cell trait, which impedes the Plasmodium parasite, giving the individual resistance to the associated infection and disease caused by the parasite.
+
+Specific Genes
+Certain genes themselves provide disease resistance by directly enhancing the immune response or directly inhibiting pathogens. For example, the Mx1 gene directly encodes a protein that blocks the replication of some viruses, such as influenza, providing natural resistance in certain organisms (like mice). Similarly, Toll-like receptors (TLRs), which are naturally occurring proteins, are critical in recognizing pathogen-associated molecules, (including microbial and viral threats), and triggering immune responses. Notably, variations or specific alleles in these genes can strengthen the body’s ability to combat infections, showing how genetic traits can further contribute to innate immunity and pathogen resistance.
+
+Hemoglobinopathies
+Hemoglobinopathies are a class of monogenic disorders that impact the major red blood cell protein hemoglobin. Hemoglobinopathies interfere either with hemoglobin production or change hemoglobin’s protein structure, respectively splitting them into the two categories of thalassemias and structural variants. These disorders exist due to alpha- or beta-globin gene mutations, causing symptoms of moderate to severe anemia, organ damage, and reliance on blood transfusion for survival. Hemoglobinopathies provide an uncommon resistance against malarial infection, allowing an increased fitness of these mutations in regions where the mortality risk of malaria is high.
+
+Hormonal Immunity
+See also
+Disease resistance breeding
+Plant disease resistance
+Gene-for-gene relationship
+Malaria
+Sickle cell disease
+MX1
+Toll-like receptor
+Hemoglobinopathy
+
+
+== References ==

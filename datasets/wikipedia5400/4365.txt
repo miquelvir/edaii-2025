@@ -1,0 +1,117 @@
+4365
+Business process outsourcing in the Philippines
+One of the most dynamic and fastest growing sectors in the Philippines is the information technology–business process outsourcing (IT-BPO) industry. The industry is composed of eight sub-sectors, namely, knowledge process outsourcing and back offices, animation, call centers, software development, game development, engineering design, and medical transcription. The IT-BPO industry plays a major role in the country's growth and development.
+
+History
+In 1995, the Special Economic Zone Act, thus establishing the Philippine Economic Zone Authority, was passed by the Philippine Congress. This Act provided lower area requirements for developments and tax incentives, which consequently attracted foreign investors.
+In 1997, SYKES opened its doors in the Philippines, becoming the first multinational call center to operate in the country.
+In the November 2001 visit of President Gloria Macapagal Arroyo to the United States, the President addressed an Information Technology (IT) Forum in New York and Six (6) Memoranda of Understanding (MOUs) were signed by the following:
+1. ICP Venture Partners, Inc. and Ambergis Solutions, Inc.
+2. Customer Contact Center, Inc.(C3) (Ph) and Source One Communications (US)
+3. Corporate Information Solutions (CIS) and Information Builders
+4. Immequire (RP) and Tele Response Center, Inc. (US)
+5. ePLDT, Inc. and Echostar Communications Corporation
+6. ePLDT, Inc. and Teletech Holdings, Inc.
+The signing of MOUs started the growth of BPO industry in the Philippines,
+Ambergis Solutions was established that year as a call center for US-based clients in the utilities, IT, travel & hospitality, telecommunications and financial services industries, and hired 5,500 employees.
+Immequire was a call center based in Arlington, Virginia that came to operate one of the fastest growing contact centers in the Philippines.
+Source One Communications put up a call center in Eastwood Cyberpark.
+The American company Echostar and ePLDT established a $5.5- million call center in Makati City located at Reposo corner Jupiter Streets with an initial 500 seats.
+Teletech, whose founder-CEO Kenneth Tuchman invested heavily and employed more than 21 thousand workers in the Philippines during President Arroyo's administration. (Ref: Department of Trade and Industry, New York Office)
+Also in the same year, a US-based outsourcing center called the "People Support" moved its operations to the Philippines, generating 8,400 jobs for the country. Bong Borja, its CEO, became president of the BPO Association of the Philippines.
+In 2003, the Convergys Corporation opened up two more call centers in the Philippines. It was at this time when Jack Freker, the president of Convergys Corporation, announced the incorporation of the Philippines in the revenue generation plan and the global expansion of the company. In 2005, accounting for 2.4% of the country's GDP, the Philippines acquired over 3% of the global BPO market. A year after, with ePLDT Ventus leading in the BPO industry, domestic economy increased by 5.4% and 11,000 more people were employed. In 2010, the Philippines was then declared the world's BPO capital. From this point, the BPO industry continued to grow and generate more revenue, with the industry providing the most job opportunities in the private sector.
+Since the 1980s, the unemployment rate stayed between 8-11% in the Philippines. Even when the economy does gain some growth, there is always the problem of job generation. The BPO industry has had the most substantial contribution to economic growth, yet it only employs 1% of the Philippine labor force. The MTPDP (Medium-Term Philippine Development Plan 2004–2010) set a target to create "1.5 million jobs a year between 2004 and 2010, or a total of 10 million jobs by 2010." Though the government came short of this success, in 2006 the government was able to identify nine employment-generating factors, namely cyber services, aviation, agribusiness, health services, mining, creative industries, hotels and restaurants, medical tourism and overseas employment. The BPO sector only accounted for 0.075% of the GDP in 2000 but rose to 2.4% in 2005, which indicated a great potential for generating employment. In this sector alone, it reached a staggering one million workers by 2010 and accounted for 27% of all new jobs.
+
+BPO setups (captive markets and offshoring/third party outsourcing)
+Due to the lower cost of producing specific goods or services in another country, outsourcing has become a common business strategy for many multinational firms. There are two common practices of outsourcing, and these are using third-party outsourcing or a captive market. These two differ based on the level of risk management, cost effectiveness or the need for managerial control. In the Philippines, Captive Markets seem to be gaining some growth although the economic landscape still has third-party outsourcing holding the majority industry presence. This is due to the fact that in recent cases of crises there have been observations on positive growth for third-party outsourcing firms as opposed to captive markets. This event led to the perception of captive markets as being less efficient than third-party outsourcing.
+
+Third-party outsourcing
+Outsourcing gives a perfect job environment for the people in other nations and significantly the states with the economic issues. Additionally, it would aid the companies to save more cash. Therefore, it can also aid the interior economy. Outsourcing is explained as turning over a project to an exterior provider that will execute the project on behalf of the central companies.
+
+Project-based outsourcing
+This is primarily used for business activities with irregular frequencies or one-off projects. The usual costing method makes use of time and material costs as variable costs and fixed costs.
+
+Dedicated development center
+This is primarily used in business cases when there are hanging requirements. In this specific model it could be used for some long-term goals for developing technology or software. This is preferred when resource requirements are lower in the outsourced country than the home country, hence developing a comparative advantage. The customers (multinational firms) are charged for fixed fees, which are the wages of full-time employees.
+
+Captive markets
+This setup is preferred when core or crucial business activities are needed to be run at cheaper costs. The rationale for employing such a setup is to cater to long-term strategic plans involving high managerial control. In this case there are two major ways of setting up a captive market: these are the DIY or 'Start From Scratch' model and the Build-Operate-Transfer model. This way, the business practices and operations are still run within and by the firm, which mitigates risk of disclosure of sensitive information. In the Philippines there are examples of these setups, including Citi, American Express, JP Morgan, Wells Fargo and the currently-growing Capital One, which are all United States–based multinational companies.
+
+Start from scratch model
+The usual flow is for the company to develop all its resources in the new designated area or country of operations. This involves the beginning of the model, which includes the purchasing of property and equipment, with due diligence lasting up to the point of running the BPO center itself. The acquisition of property and equipment is done by contacting a third party liaison in the country of operation. This model is preferred by the companies that have high levels of market knowledge and analytics.
+
+Build-operate-transfer model
+In this model, the practice is to contact a third-party vendor in order to develop a contract in which the vendor is the one who develops the property, sources the employees and manages the BPO center for the first designated period or amount of time. Thereafter, the company who contracted the vendor comes in and takes over the operations. The common practice is to have managerial and training staff of the company join at some midpoint of the period of the vendor's development to have specialized training in order for the employees to meet company standards. This model is preferred by companies that do not have any specialized expertise in the new country of operations, hence needing a local partner or vendor to assist with market entry strategies.
+
+Growth and impact
+Government support was key to the growth of the Philippines' business process outsourcing industry. To promote increased investment in the industry, the Omnibus Investment Act was amended to include ICT in the investment priority plan. Incentives, tax holidays, PEZA accreditation were given to the firms providing ICT services.
+With the Philippines being the 39th largest economy in the world, the country continues to be a promising prospect for the BPO Industry. In August 2014, the Philippines hit an all-time high for employment in the BPO industry. From 101,000 workers in 2004, the labor force in the industry grew to over 930,000 in just the first quarter of 2014.
+Growth in the BPO industry continues to show significant improvements with an average annual expansion rate of 20%. Figures have shown that from $1.3 billion in 2004, export revenues from BPO has increased to over $13.1 billion in 2013. The IT and Business Process Association of the Philippines (IBPAP) also projects that the sector will have an expected total revenue of $25 billion in 2016.
+This growth in the industry is further promoted by the Philippine government. BPO is highlighted by the Philippines Development Plan as among the 10 high-potential and priority development areas. To further entice investors, government programs include different incentives such as tax holidays, tax exemptions, and simplified export and import procedures. Additionally, training is also available for BPO applicants.
+
+Trends in the industry
+With the Philippines BPO industry getting more competitive, the following trends can be forecasted to occur in the country as with the rest of the world. Arguably it is in the best interest of BPOs in the country to adapt new practices and leverage technologies to keep up with the pace and meet the evolving demand of clients. For the year 2015, the predicted industry trends were:
+
+Better information security
+Security breaches threaten outsourcing industries as the nature of the work involves handling sensitive client information. With 2014 ending in a security breach of Sony Pictures' security, businesses made security a top priority in order to mitigate the negative effects on the reputation of outsourcing firms brought about by security breaches.
+
+Strategic balanced-shore outsourcing
+To address issues such as schedule conflicts between service providers and clients, outsourcing firms started to provide a more flexible operation scheme in the form of balanced-shore outsourcing (a combination of at-home, on-site, nearshore, onshore or offshore outsourcing solutions) in order to meet their needs.
+
+Booming blogging and social media outsourcing
+Given the rising popularity of the different outsourcing firms in the country, the need for more talent in digital advertising was needed by the firms to expand their customer base and keep customer loyalty within their firms. Since the start of 2015, the common practice of multinational companies as customer to the outsourcing firms was to enter into short-term contracts with the local outsourcing firm of a designated country to keep their efficiency up and to grab possible price reductions when availing of outsourcing services.
+
+Popularity of cloud-based software
+In terms of technology, another practice that then became more commonly applied was the use of cloud-based software to store data. Such practice, once adapted, was forecasted to mitigate the cost and risk of having to keep and maintain large data-storing hardware.
+
+Future outlook
+For the year 2016, the BPO industry of the Philippines projected an overall positive growth rate. Activity in the industry appeared to be robust enough such that the industry's projected total income range could reach $20 to $27 billion by 2016 and $40 to $55 billion by 2020. The industry, then holding about 1 million directly employed employees, was also projected to increase employment by providing a total of about 1.3 to 1.5 million new jobs, which would consist of employees directly and indirectly employed.
+In terms of the Philippines' credit ratings, there had been statements that the country's then-current and future credit rating would hold, if not increase, as driven by the constant economic growth the country enjoyed, a good portion of which was recognized as the contribution of the BPO industry.
+For the local industry sectors, the leading subsector were those of voice functions or call centers. According to the industry's article, the Philippines BPO industry had now taken over India's spot as the leading call center country. Due to this event, the subsector was projected to continue holding the largest contribution to the industry's growth in the following years. According to a UA&P (University of Asia and the Pacific) industrial economist, the voice subsector was expected to continue a robust growth rate until 2020, but was projected to slow down or degrade by the end of that year due to speculation by the BSP (Bangko Sentral ng Pilipinas), the Philippines' central bank, that a shift in reliance from voice sources of information will occur, turning the demand to non-voice information sources.
+
+Forecasted threats
+Though the industry outlook has been positive on the overall, there remains the issue of forecasted threats caused by policy shifts that may be undertaken by the country's government. One such issue involves proposed changes for tax holidays, the temporary reductions or eliminations of taxes. The proposal discusses the reduction of tax holidays to be implemented for the BPO industry, with the compromise of having income taxes reduced from 30% to 15% for the next 15 years. According to industry characters, the threat here was that although tax costs would decrease, the change, even if reduced to 10%, might serve as a deterrent for foreign companies to enter the Philippine market due to a consequent reduction of the country's competitive advantage. Other key challenges to the BPO industry are the lack of well-trained 
+employees as well as high turnover rates, the rate at which employees 
+are replaced, which is said to reach as high as 50% of employees in the 
+industry during 2014.
+The 4th Industrial Revolution technologies will be another expected threat to the Philippine BPO industry. They will have significant economic, productivity and employment impacts on the industry and expect to narrow gap between the Philippines and India, two big industries in the BPO sector. IBPAP (IT & Business Process Association Philippines) estimates that the overall market will mature and grow at a compound annual growth rate (CAGR) of 9.2% from 2016 to 2022, slower than the CAGR of 17% from 2010 to 2016. 43,000 low-skilled jobs will become obsolete as a result of automation, while 388,000 new mid-skilled jobs and 309,000 higher-skilled jobs will be created by 2022 as the industry moves up the value chain.
+
+Opportunities
+Though the shift in demand of voice information is an issue
+to be faced by the industry, this has already been forecasted since 
+2014. The industry is also projected to shift with the demand in terms 
+of having new firms enter the country or expanding the services provided
+by having KPOs or Knowledge Process outsourcing which could then cater 
+to new demand and fulfill a wide set of roles. These roles would be as 
+follows: Market research, Fraud analytics, Equity research and investment, 
+banking Insurance and actuarial Engineering services, Web development, 
+Data integration, Project management Research and development, Medical 
+transcript preparation and legal processes.
+Considering the current advantages of lower labor cost and large English-speaking workforce in the Philippines, relevant training programs of lower-skilled jobs to prevent job mismatches and sufficient government funding for this purpose will be essential for the transition from the BPO to the KPO. To train the Filipino workforce for the BPO industry, the TESDA (Technical Education and Skills Development Authority) has rolled out Technical and Vocational Education and Training (TVET) programs. However, while TVET funding has risen, the BPO industry only got a minor allocation of limited training resources, with most funding currently invested into non-BPO industries such as tourism, electrical and electronics, construction and health care. For human capital development and sustainable development in the BPO industry, more researches on other countries and funding to upskill and reskill BPO workforce are required.
+
+Issues
+Health issues
+The call/contact centers, being the largest sub-sector in the Philippine BPO industry, have been a major subject on a case study on health and working conditions. Some commonly identified health problems are as follows: employees experience back and shoulder pains, due to the workstation setups and monitor levels, several have complained about experiencing throat irritations due to dealing with multiple calls a day coupled with a high stress work environment and concerns regarding the employees' hearing being damaged due to most of these workers being exposed to higher noise levels.
+There have also been some negative effects to the psychosocial aspect of health with regard to these call/contact center workers. There exists multiple job stressors in the workplace such as irregular work schedules interfering with social and family life, irregular hours causing trouble with transportation regarding safety and availability of such mediums and fast-paced workloads. The case study addresses that these psychosocial stressors may also be a major cause or amplifier with regards to the health issues stated above.
+
+Economic issues
+The BPO industry is the fastest growing sector in the country and is expected to overtake OFW remittances in 2017. Because of this rapid growth, the question arises whether or not this growth is inclusive. Negros Occidental Governor Alfredo Marañon Jr said that IT will close the gap between the rich and the poor: "65% of our population is below 35 years old. Make your future bright. I believe that IT is the answer to your future."
+However, a 2012 report by the [Asian Development Bank](1652) notes that the growth in the BPO industry has barely trickled down to most of the Philippine population. The report notes that there is only a weak link between the industry's growth and the development of the country mainly because of the high unemployment and underemployment rates; the BPO industry was the fastest growing sector from 2005 to 2012 but only took in 1% of the labor force. ADB Philippine Country Senior Economist Norio Usi notes in the report that the industry only hires college graduates, leaving little to no chance for people with moderate skills and no college degrees to take part in the industry's growth.
+Despite the country's abundance of English-speaking, young college educated work force, the country's poor infrastructure and slow internet connectivity also negatively influences prospective foreign investors' decision in investing in the country's growing BPO industry.
+
+See also
+Business process outsourcing to India
+Call center industry in Bangladesh
+Call center industry in the Philippines
+Call centre
+Cyberservices
+List of India-related topics in Philippines
+Offshoring
+Outsourcing
+Outsourcing of animation
+Philippine Cyber Corridor
+
+References
+
+
+== Sources ==

@@ -1,0 +1,54 @@
+884
+Ch (computer programming)
+CH  is a proprietary cross-platform C and [C++](640) interpreter and scripting language environment. It was designed by Harry Cheng as a scripting language for beginners to learn mathematics, computing, numerical analysis (numeric methods), and programming in C/[C++](640). Ch is now developed and marketed by SoftIntegration, Inc.. Free versions include the student edition, and the non-commercial Professional Edition for Raspberry Pi.
+CH can be embedded in C and [C++](640) application programs. It has numerical computing and graphical plotting features. CH is combined of both shell and IDE. CH shell combines the features of common shell and C language. ChIDE provides quick code navigation and symbolic debugging. It is based on embedded CH, Scite, and Scintilla.
+CH is written in C and runs on Windows, Linux, macOS, FreeBSD, AIX, Solaris, QNX, and HP-UX. It supports C90 and major [C99](772) features, but it does not support the full set of [C++](640) features. [C99](772) complex number, IEEE-754 floating-point arithmetic, and variable-length array features were supported in CH before they became part of the [C99](772) standard. An article published by Computer Reseller News (CRN) named CH as notable among C-based virtual machines for its functionality and the availability of third-party libraries.
+CH has many tool kits that extend its functions. For example, the CH Mechanism Toolkit is used for design and analysis of commonly used mechanisms such as four-bar linkage, five-bar linkage, six-bar linkage, crank-slider mechanism, and cam-follower system. CH Control System Toolkit is used for the design, analysis, and modelling of continuous-time or discrete-time linear time-invariant (LTI) control systems. Both tool kits include the source code.
+CH has been integrated into free C-STEM Studio, a platform for learning computing, science, technology, engineering, and mathematics (C-STEM) with robotics. C-STEM Studio is developed by the UC Davis Center for Integrated Computing and STEM Education, offering a curriculum for K-12 students.
+CH supports LEGO Mindstorms NXT and EV3, Arduino, Linkbot, Finch Robot, RoboTalk and Raspberry Pi, Pi Zero, and ARM for robot programming and learning. It can also be embedded into the LabVIEW system design platform and development environment.
+
+Features
+CH supports the 1999 ISO C Standard ([C99](772)) and [C++](640) classes. It is a superset of C with [C++](640) classes. Several major features of [C99](772) are supported, such as complex numbers, variable length arrays (VLAs), IEEE-754 floating-point arithmetic, and generic mathematical functions. The specification for wide characters in Addendum 1 for C90 is also supported.
+[C++](640) features available in CH include:
+
+Member functions
+Mixed code and declaration
+The this -> pointer
+Reference type and pass-by-reference
+Function-style type conversion
+Classes
+Private/public data and functions in classes. Ch is compatible with [C++](640) in that by default, members of a class definition are assumed to be private until a 'public' declaration is given
+Static member of class/struct/union
+Const member functions
+The new and delete operators
+Constructors and destructors
+Polymorphic functions
+The scope resolution operator
+The I/O functions cout, cerr, and cin with endl
+Arguments for variadic functions are optional
+CH supports classes in [C++](640) with added abilities, including:
+
+Classes inside member functions
+Nested functions with classes
+Passing member function to argument of pointer-to-function type of functions
+CH can interact with existing C/[C++](640) libraries and call C/[C++](640) functions from CH script.
+As a C/[C++](640) interpreter, CH can be used as a scripting engine and extension language for applications. Pointers to arrays or variables can be passed and shared in both C-compiled and CH scripting contexts. One example of an embedded CH scripting application is Mobile-C, which has been used for collaborative visualization of distributed mesh model.
+CH has a built-in string type (string_t) for automatic memory allocation and de-allocation. It supports shell aliases, history, and piping.
+CH has built-in 2D/3D graphical plotting features and computational arrays for numerical computing. A 2D linear equation of the form b = A*x can be written verbatim in Ch.
+
+See also
+[CINT](864)
+Pike (programming language)
+
+References
+Further reading
+Heller, Martin (2001). "The Ch Language Environment". Byte. Archived from the original on November 16, 2001. {{cite journal}}: Cite journal requires |journal= (help)
+Cheng, Harry (2002). "[C99](772) & Numeric Computing". Dr. Dobb's Journal. pp. 28–34.
+Cheng, Harry (2006). "Ch: A C/[C++](640) Interpreter for Script Computing". Dr. Dobb's Journal. pp. 6–12.
+Cheng, Harry (2009). C For Engineers & Scientists, An Interpretive Approach. McGraw-Hill. ISBN 978-0-07-729046-7.
+Cheng, Harry (2011). C For Engineers & Scientists (Chinese ed.). Higher Education Press. ISBN 978-0-07-729046-7.
+
+External links
+Official website, SoftIntegration
+Mobile-C: a Multi-Agent Platform for Mobile C/[C++](640) Agents Home Page
+C-STEM Studio

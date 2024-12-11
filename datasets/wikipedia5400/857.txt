@@ -1,0 +1,409 @@
+857
+C++Builder
+[C++](640)Builder is a rapid application development (RAD) environment for developing software in the [C++](640) programming language. Originally developed by Borland, as of 2009 it is owned by Embarcadero Technologies, a subsidiary of Idera. [C++](640)Builder can compile apps for Windows (both IA-32 and x64), iOS, macOS, and Android (32-bit only). It includes tools that allow drag-and-drop visual development, making programming easier by incorporating a WYSIWYG graphical user interface builder.
+[C++](640)Builder is the sibling product of Delphi, an IDE that uses the Object Pascal programming language. [C++](640)Builder combines the Visual Component Library (VCL) and IDE written in Object Pascal with multiple [C++](640) compilers. [C++](640)Builder and Delphi can generate mutually compatible binaries. [C++](640) methods can call Object Pascal methods and vice versa. Since both Delphi and [C++](640) use the same back-end linker, the debugger can  step from Delphi code into [C++](640) transparently. In addition, [C++](640)Builder projects can include Delphi code. (The reverse is not possible.)
+
+Technology
+[C++](640)Builder uses the same IDE as Delphi, and shares many core libraries.  Notable shared Delphi (Object Pascal code) and [C++](640) Builder routines include the FastMM4 memory manager, which was developed as a community effort within the FastCode project, the entire UI framework known as the VCL, which is written in Object Pascal, as well as base system routines, many of which have been optimised for both Delphi and [C++](640)Builder through the FastCode project.
+[C++](640)Builder projects can include Delphi code. The Delphi compiler emits [C++](640) headers, allowing [C++](640) code to link to Delphi classes and methods as though they were written in [C++](640). The reverse ([C++](640) code being used by Delphi) is not as straightforward but possible.
+[C++](640)Builder originally targeted only the Microsoft Windows platform. Later versions incorporated Borland CLX, a cross-platform development visual component library based on Qt, that supports Windows and Linux, however CLX is now abandoned. The current version by Embarcadero supports cross-platform development using the new Firemonkey (FMX) library.
+
+Editions
+[C++](640) Builder is available in four editions with increasing features and price:
+
+Community: Available for free for one year but has a limited commercial-use license.  Includes local database connectivity and some library source code.
+Professional: Adds cross-platform compilation for macOS, (until version 10.2.2: iOS and Android requiring the purchase of the additional Mobile Add-On pack), more library source code, code formatting, and a full commercial license.
+Enterprise: Includes the mobile target platforms and adds client/server database connectivity, Enterprise Mobility Services, and DataSnap multi-tier SDK.
+Architect: Adds data modeling tools.
+
+History
+Traditionally, the release cycle was such that Delphi got major enhancements first, with [C++](640)Builder following, though recent versions have been released at the same time as their Delphi equivalents.
+
+1.0
+Borland announced the preview version of [C++](640)Builder 1.0 on January 7, 1997. The company released a retail version on February 26, 1997, in three editions: "Standard," "Professional," and "Client/Server Suite."
+
+3.0
+Borland skipped the 2.0 version number to align [C++](640)Builder with its Delphi version numbering.
+
+4.0
+New features include:
+
+Integrated Inprise Corporation's VisiBroker 3.3 with event and naming services
+New multi-standard flexible [C++](640) compiler
+Support for the latest ANSI/ISO [C++](640) language specifications, including a host of compiler enhancements including Dynamic Compilation and Adaptive Compiler Technology (ACT), which radically speed compiler build processes; full ANSI/ISO template implementation; full ANSI/ISO STL (standard template library) support; and a high-performance 32-bit ANSI [C++](640) native code compiler.
+Fully customizable AppBrowser IDE
+Latest support for Windows 98, 95, and NT including multiple monitors, common controls, docking forms and toolbars, and more.
+New Code and Parameter completion, and the new ClassExplorer live structured class view and member creation wizards.
+Exclusive [C++](640) debugging tools, including remote debugging for distributed development (COM and CORBA); multi-process and cross-process debugging with debug inspectors, dynamic watch windows, and debug tooltips.
+Internet tools, including ActiveForms for building Web browser [C++](640) applications and WebBroker for building CGI, WinCGI, ISAPI, and NSAPI [C++](640) applications and over 25 Internet protocol components for instantly adding HTTP, FTP, SMTP, POP, NNTP, HTML, and TCP/IP support to any [C++](640) application.
+Multi-Tier Database Development Services (MIDAS) Development Kit, including MIDAS 2.
+Support for industry standards, including Oracle Corporation's Oracle8i database server; Microsoft Corporation's Microsoft Foundation Classes (MFC), Microsoft Active Template Library (ATL), Microsoft SQL Server 7 and MTS (Microsoft Transaction Server); and Inprise Corporation's Object Windows Library (OWL) and Visual Component Library (VCL).
+EZ-COM, which simplifies [C++](640) COM client development and One-Step ActiveX Control creation with new Data Binding support.
+
+5.0
+On March 22, 2000, Inprise Corporation announced the release of Borland [C++](640)Builder 5, available in Enterprise, Professional, Standard editions. New features include:
+
+Support of Windows 2000.
+Internet Express
+XML and HTML4 Support for Full-featured Dynamic Clients
+Active Server Objects for the Microsoft Internet Platform
+TeamSource
+Interbase 6.5
+
+6.0
+On February 5, 2002, Borland announced the release of [C++](640)Builder 6 on February 8, 2002, in three editions: "Enterprise," "Professional," and "Personal." 60-day free trial download of [C++](640)Builder 6 Enterprise was also planned. New features include:
+
+Support of Windows XP
+BizSnap e-business development platform with Web Services
+WebSnap Web application development platform
+Borland CLX component library (Professional/Enterprise)
+dbExpress (Professional/Enterprise), Enterprise edition adds DB2/Informix/Oracle dbExpress drivers
+NetCLX WebBroker WebBroker-compatible cross-platform Web application development framework for Windows and Linux (Professional/Enterprise)
+MyBase XML data briefcases (Professional/Enterprise)
+Borland [C++](640) Compiler 5.5
+Minimum supported operating system was changed to Windows 98.
+
+[C++](640)BuilderX
+On Sep 15, 2003, Borland Software Corporation announced the release of Borland [C++](640)BuilderX (CBX), which was also included as part of the latest Borland Enterprise Studio for Mobile. CBX was written using the same framework as JBuilder and bore little resemblance to either [C++](640)Builder or Delphi. This product was aimed at developing large programs for enterprises, but did not sell well.
+On Sep 22, 2003, Borland Software Corporation and PalmSource, Inc. announced Borland has licensed the PalmSource software development kits (SDKs) and will support Palm OS development in the Borland [C++](640)BuilderX Integrated Development Environment (IDE) and latest Borland Application Lifecycle Management (ALM) solutions for [C++](640).
+At the end of 2004 Borland announced that it would continue to develop the earlier [C++](640)Builder and bundle it with the Delphi development suite, abandoning [C++](640)BuilderX.
+
+2006
+On Oct 10, 2005, Borland announced the release of [C++](640)Builder 2006 (previously codenamed "DeXter"). Minimum supported operating system was changed to Windows 2000.
+About a year after the announcement, the company released Borland Developer Studio 2006, which includes Borland [C++](640)Builder 2006, with improved configuration management and bug fixes. Borland Developer Studio 2006 is a single package containing Delphi, [C++](640)Builder, and C#Builder.
+
+2007
+In 2006 Borland's Developer Tools Group, developers of [C++](640)Builder, was transferred to a wholly owned subsidiary, CodeGear.
+June 5, 2007, CodeGear released [C++](640)Builder 2007, providing:
+
+Full API support for Microsoft Windows Vista including themed applications and seamless VCL support for Aero and Vista Desktop
+Increased ANSI [C++](640) conformance
+Up to 500% faster in-IDE build performance
+Support for MSBuild, DBX4 database architecture, and "VCL for the Web" which supports Ajax
+IDE, debugger, dbExpress, and VCL component improvements
+CodeGear RAD Studio 2007 incorporates [C++](640)Builder 2007 and Delphi. Also in 2007 Borland revived the "Turbo" brand and released two "Turbo" editions of [C++](640)Builder: Turbo [C++](640) Professional, and Turbo [C++](640) Explorer (no longer available from CodeGear), based on Borland [C++](640)Builder 2006.
+In 2008 CodeGear was purchased by Embarcadero Technologies, who continued development.
+
+2009 and 2010
+After purchasing CodeGear, Embarcadero Technologies bundled [C++](640)Builder with Delphi and other tools and released them as RAD Studio.
+[C++](640)Builder 2009 was released on August 25, 2008, featuring:
+
+Full Unicode support throughout VCL and RTL
+Early adoption of the [C++](640)0x standard
+Full ITE (Integrated Translation Environment) support
+Native Ribbon components
+Inclusion of the Boost library.
+VCL and RTL enhancements
+New DataSnap library for database applications.
+[C++](640)Builder 2010 followed August 24, 2009, adding:
+
+Touch and gesture support for VCL components
+[C++](640) specific class explorer
+Code completion improvements
+IDE updates
+
+XE releases
+Embarcadero changed the versioning scheme. Each new version of [C++](640)Builder was called XE#, where # is a sequential integer.
+
+XE
+[C++](640)Builder XE was released August 30, 2010 and included:
+
+Multiple [C++](640) language updates
+New [C++](640) compiler options
+Multiple user-requested fixes
+
+XE2
+[C++](640)Builder XE2 was released August 31, 2011 and included:
+
+New 'FireMonkey' library for creating cross-platform GUIs (Windows, macOS, iOS)
+dbExpress to deliver new connectivity options with support for InterBase XE, FireBird 2.5, SQL Anywhere 12 and ODBC
+DataSnap mobile support for iOS, Android, Blackberry, and Windows Phone
+Expanded cloud computing integration with new data and deployment options to Amazon EC2 and Microsoft Windows Azure
+LiveBindings for VCL and FireMonkey components
+Multiple new reporting tools
+
+XE3
+[C++](640)Builder XE3 was released September 4, 2012 and added:
+
+Windows 8 Style UI
+Enhanced native UI control styling
+3rd party Pro-Designer UI Styles
+Support for Mac OS X Mountain Lion & Retina
+Project templates
+Touch and Live Tile support
+1-click conversion for existing apps
+Audio/Video Multimedia controls
+Simple “Draw to bind” data and properties between objects
+Quick app prototyping
+Organize bindings with Layers
+
+XE4
+[C++](640)Builder XE4 was released April 22, 2013, and included:
+
+64-bit Windows compiler based on [Clang](888) 3.1. The 32-bit compiler was still based on Embarcadero's older technology.
+FireDAC library for database access
+Many new FireMonkey components and updates
+Mobile Form Designer
+
+XE5
+[C++](640)Builder XE5 was released September 11, 2013, and included:
+
+Time Picker control for Windows and OS X
+Built-in search filtering for TListView on Windows and OS X
+FM Platform performance optimizations
+Professional edition includes expanded FireDAC support for local databases, including Microsoft Access database, SQLite database, InterBase ToGo / IBLite, InterBase on localhost, MySQL Embedded, MySQL Server on localhost, Advantage Database local engine, PostgreSQL on localhost, Firebird Embedded, and Firebird on localhost
+FireDAC integrated into the [C++](640)Builder install for Professional, Enterprise, Ultimate and Architect editions
+REST Client support for simplified invocation of REST services
+Authorization support including Basic Authentication, Plan Authentication, OAuth1, OAuth2
+TRestClient, TRestRequest, and TRestResponse components
+REST Debugger tool for testing REST calls and their parameters
+[C++](640)Builder XE5 Starter Edition includes:
+
+Develop 32-bit Windows application using the [C++](640)Builder VCL and FireMonkey application platform
+IDE and visual development environment
+Hundreds of included components
+License for use until user's individual revenue from [C++](640)Builder applications or company revenue reaches $1,000 US or development team expands to more than five developers
+Available editions include Architect, Ultimate, Enterprise, Professional, Starter.
+
+XE6
+Released April 15, 2014, [C++](640)Builder XE6 included:
+
+FireMonkey Android application support
+Support for Windows 64-bit packages
+[C++](640) compiler improvements
+IDE, Deployment Manager, and SDK Manager improvements
+
+XE7
+Released September 2, 2014, [C++](640)Builder XE7 added:
+
+FireMonkey multi-platform support through "multi-device applications"
+Runtime Library improvements for Bluetooth, parallel programming, XML, and web encoding/decoding
+Enterprise Mobility Services to interface with DataSnap REST APIs and enterprise database data.
+
+XE8
+[C++](640)Builder XE8, released April 7, 2015, included the following new features:
+
+GetIt Package Manager updates
+Native iOS Presentation for FireMonkey components
+Desktop web browser component
+Interactive mobile maps
+New media library options
+Mobile app analytics
+New [C++](640) compiler for 64-bit iOS
+Mercurial version control integration
+New DUnitX testing framework
+
+Subsequent releases
+In 2015, Embarcadero once again changed the versioning scheme. Starting with version number 10.0, each version also received a nickname.
+
+10.0 Seattle
+Released August 31, 2015, Seattle updated the IDE with:
+
+CLANG 3.3 [C++](640) compiler suite with some exceptions
+Windows 10 FireMonkey, CVL, and RTL support
+VCL Windows 10 controls
+New VCL Styles
+Multi-monitor configuration improvements
+Updates to the IDE, debugger, database and cloud libraries, and documentation
+
+10.0.1 Update 1
+Released November 2015, Update 1 added:
+
+FMX Grid control for iOS
+iOS native UI styling
+New FMX feature demos
+Platform support for iOS 10 and macOS Sierra
+
+10.1 Berlin
+Released April 20, 2016, Berlin added:
+
+FireUI App Previews - Lets you preview your FireMonkey application on iOS, Android, OS X and Windows as you are designing the app
+Android API 23 support
+Improved Style Designer
+Address Book for iOS and Android
+DataSnap support for JSON streaming
+FireDAC database improvements
+Improved support for new Azure and AWS APIs
+Runtime Library optimizations
+iOS (32 and 64 bit) and Android debuggers
+
+10.1.1 Update 1
+Released September 2016, Update 1 added:
+
+iOS native styling for TGrid
+FMX ListView Item Designer and search filter
+iOS 10 and macOS Sierra support
+
+10.1.2 Update 2
+Released December 2016, Update 2 added:
+
+Windows Desktop Bridge deployment support
+VCL QuickEdits
+New Windows 10 styles
+Improved GetIt package manager
+
+10.2 Tokyo
+Released March 22, 2017, Tokyo included:
+
+Better support for debugging
+Better Codegen in [Clang](888)-enhanced compilers
+[C++](640) Android applications can be built without requiring specific versions of the NDK
+Linker utilizing up to 4GiB of memory
+Improved exception handling
+Improved app tethering
+iOS and macOS debugger enhancements
+High DPI fixes for VCL components
+
+10.2.1 Update 1
+Released August 2017, Update 1 added:
+
+[C++](640) compiler and linker quality fixes
+Support for iOS 10.3 and XCode 8.3.3 when targeting the iOS App Store
+Runtime Library and VCL enhancements
+Android control rendering enhancements
+
+10.2.2 Update 2
+Released December 2017, Update 2 added:
+
+FireMonkey QuickEdits
+New VCL controls
+Updated IDE look and feel
+iPhone 11 and X support
+
+10.2.3 Update 3
+Released March 2018, Update 3 provided quality improvements and fixes for:
+
+iOS 11.3 support
+CodeInsight
+[C++](640) compiler 4k stack allocation
+Context help
+Android push notification
+
+10.3 Rio
+[C++](640)Builder 10.3 was released November 21, 2018 with new features:
+
+[C++](640)17 Support
+Improved code completion
+Improved math performance for [C++](640) functions
+Error Insight preview of code issues
+New libraries through the GetIt package manager
+Improved IDE, dark theme
+VCL High DPI component support
+TWindowsStore component
+Support for Android API 26
+Android Z-Order, native controls, and new permissions model
+iOS 12 support
+Multiple database improvements
+Improved REST architecture
+Improved Azure and AWS S3 support
+
+10.3.1 Update 1
+Released February 2019, Update 1 added:
+
+Expanded support for iOS12 and iPhone X
+HTTP and SOAP Client Library enhancements for Windows
+Bookmarks and Navigator IDE productivity tools
+15 custom VCL and FMX styles
+Compiler improvements and bugfixes
+
+10.3.2 Update 2
+Released July 2019, Update 2 added:
+
+[C++](640)17 support for Windows 64-bit
+Improved Code Insight and Code Completion
+Updates to the Android Firebase push notification support
+Run Time Library optimizations
+VCL, FMX, and IDE quality improvements
+
+10.3.3 Update 3
+Released November 2019, Update 3 provided numerous quality enhancements and bug fixes for:
+
+[C++](640) RTL and compiler
+IDE, iOS/Android compatibility
+FireDAC and Database tools
+Web clients
+Debugger
+
+10.4 Sydney
+Released May 26, 2020, Sydney improved the product by adding:
+
+Unified memory management
+Expanded [C++](640) library support
+Windows 64-bit debugging and linking improvements
+New VCL Styles and control styling for high-DPI monitors
+Metal driver GPU support for macOS and iOS
+Enhanced parallel programming library support
+Improved LiveBindings performance
+
+10.4.1 Update 1
+Released September 2020, Update 1 added:
+
+Quality improvements to IDE, [C++](640) Toolchain, FMX, VCL, and other libraries
+Improved support for multi-monitor desktop layouts
+Windows 64-bit debugger and linker enhancements
+
+10.4.2 Update 2
+Released February 2021, Update 2 added:
+
+Advertising component for iOS, including AdMob support based on the Google Firebase SDK
+VCL TControlList control, a flexible and virtualized list control, designed as a high-performance control for very long lists and a modern look and feel
+VCL TNumberBox control, a modern-looking numeric input control, for integer, floating point numbers, and currency values
+Updated Konopka Signature VCL Controls (over 200 additional Windows UI controls), available for download in the GetIt Package Manager
+
+11 Alexandria
+[C++](640)Builder 11 was released September 10, 2021.
+
+11.1 Update 1
+On March 15, 2022, Embarcadero released RAD Studio 11.1 with new features including:
+
+Many IDE Improvements
+Extensive High DPI IDE quality, plus improved use of the IDE with Remote Desktop
+Improvements with High DPI designers for VCL and FireMonkey and the styled VCL form designer
+GetIt Library Manager enhancements
+Code Insight Across Delphi and [C++](640)Builder
+The Delphi LSP engine saw big performance improvements
+The Delphi and [C++](640) compilers for the various platforms were improved in terms of stability and performance
+Improved RTL, UI, and Database Libraries
+
+11.1.5 [C++](640) Code Insight Update
+On July 14, 2022, Embarcadero released [C++](640)Builder 11.1.5 [C++](640) Code Insight Update with a number of improvements and quality fixes for [C++](640) developers using [C++](640)Builder 11.1 by adding:
+
+New handling multiple navigation destinations
+New delayed indexing to reduce CPU usage
+New third option for LSP Code Insight
+Performance improvements
+Improvements display of code completion results
+Improved navigation
+An issue for users of the classic compiler
+Issues saving all files in a project
+More improvements and a variety of quality fixes
+
+11.2
+[C++](640)Builder 11.2 was released September 2022.
+
+11.3
+[C++](640)Builder 11.3 was released February 2023.
+
+12 Athens
+[C++](640)Builder 12 Athens was released November 2023.
+
+12.1
+[C++](640)Builder 12.1 was released April 2024.
+
+12.2
+[C++](640)Builder 12.2 was released September 2024.
+
+See also
+Comparison of integrated development environments
+
+References
+External links
+Embarcadero Technologies, Inc. [C++](640)Builder current version product pages: Full version Archived 2012-11-13 at the Wayback Machine, Starter edition
+[C++](640)Builder current version downloads
+Embarcadero Technologies, Inc. [C++](640)Builder archived pages for prior versions: 2009, 2010, XE, XE2, XE3, XE4
+CodeGear from Borland (Borland Software Corporation) [C++](640)Builder pages: 2006, 2007, 2007 R2
+Borland Software Corporation [C++](640)Builder pages: 5, 6, 6 Studio, 2006, [C++](640)BuilderX
+Inprise Corporation Borland [C++](640)Builder pages: 4, 5
+Borland International, Inc. [C++](640)Builder pages: 1, 3
+Download selection of 2010, v5.5, and other versions
+[C++](640)Builder Developer's Journal Archived 2005-03-20 at the Wayback Machine

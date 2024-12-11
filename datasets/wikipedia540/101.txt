@@ -1,0 +1,87 @@
+101
+Telephone numbers in Spain
+The Spanish telephone numbering plan is the allocation of telephone numbers in Spain. It was previously regulated by the Comisión del Mercado de las Telecomunicaciones (CMT), but is now regulated by the Comisión Nacional de los Mercados y la Competencia (CNMC).
+
+History
+Before 1998, local telephone calls could be made using only the subscriber's number without the area code, while the trunk code '9' was omitted when calling from outside Spain, e.g.:
+
+xxx xx xx     (within the same province) 
+9xx xxx xxx     (within Spain)   
++34 xx xxx xxx  (outside Spain)
+
+International calls were made by dialling the international access code 07, waiting for a tone, and then dialling the country code. However, calls to Gibraltar were made using the prefix '956' for the province of Cádiz, followed by the digit '7', instead of the country code +350, e.g.:
+
+7 xx xxx     (from Cádiz)
+956 7 xx xxx (from the rest of Spain)
+
+Similarly, calls to Andorra were made using the prefix '973' for the province of Lleida followed by the digit '8', e.g.:
+
+8 xx xxx        (from Lleida) 
+9738 xx xxx     (from Spain)
+
+It was also possible to call Andorra from other countries via Spain using the prefix +34 738 instead of via France using the prefix +33 628. However, on 17 December 1994, Andorra adopted its own country code +376, with '8' being added to the subscriber's five-digit number, meaning that international dialling was required from Spain, e.g.:
+
+9738 xx xxx   (before 17 December 1994) 
+07376 8xx xxx (after 17 December 1994)
+
+Mobile phone numbers began with the prefix '90x' or '9x9', e.g.:
+
+9x9 xxx xxx     (within Spain)   
++34 x9 xxx xxx  (outside Spain)
+
+Current numbering plan
+On 1 December 1998, Spain changed to a new telephone numbering plan. Under the closed numbering plan with the trunk prefix '9' being incorporated into the subscriber's number, so that a nine-digit number was used for all calls, e.g.:
+
+9xx xxx xxx      (within Spain)   
++34 9xx xxx xxx  (outside Spain)
+
+Mobiles similarly changed, and were now prefixed with the digit '6':
+
+ 608 xxx xxx     (within Spain before 1998)
+ +34 08 xxx xxx  (outside Spain before 1998) 
+ +34 608 xxx xxx (since 1998)
+
+New numbering ranges have also since been introduced:
+
+ 10xx        Carrier selection codes
+ 5xx xxx xxx Personal Numbering
+ 7yx xxx xxx (since 2009–2010; note y cannot be 0 (zero) because this is allocated as a personal number, see below)
+ 8xx xxx xxx Geographic expansion 
+ 800 xxx xxx Freephone
+ 900 xxx xxx Freephone
+ 80x xxx xxx Shared-cost 
+ 90x xxx xxx Shared-cost
+
+Spain's international access code also changed from 07 to 00, but this did not affect dialling arrangements for calls to Gibraltar, with the 9567 prefix being retained. In addition, it was possible to call Gibraltar from other countries via Spain using the prefix +34 9567. However, on 10 February 2007, Spain adopted the international prefix 00350 for all calls to Gibraltar, thereby bringing end to a dispute between Gibraltar and Spain. Consequently, numbers with the prefix 9567 were withdrawn from use, and made available for reassignment to subscribers in Spain.
+
+Mobile phones
+Mobile phone numbers begin with 6 or 7, followed by 8 digits (6xx xxx xxx or 7yx xxx xxx), where y can be 1 to 9, not 0 (zero).  Note, numbers starting with 70 are personal numbers which can  be re-directed to any other number by the personal owner.  Since the blocks of mobile phone numbers are allocated according to demand from the service providers, there is not necessarily a unique service provider indicated by the three digit numbering group (6xx or 7yx).
+In October 2009, new legislation was approved to grant the allocation of up to 80,000,000 new numbers beginning with number 7 (followed by 8 digits) to supplement the existing group beginning with number 6 (followed by 8 digits); due to the lack of available numbers to satisfy the increasing demand for mobile phone and other mobile / wireless services.
+
+Personal numbering
+Personal numbers are used as redirection IDs. The owner of a personal number may request, for example, any call to its personal number to be redirected to any other number it wants.
+Personal numbers begin with 5, followed by 8 digits.
+
+Other numbers
+Numbers starting with 2, 3, 4, 5, and 99 are reserved.
+Numbers starting with 0 and 1 are used to compose short numbers or for prefixes. For example, three-digit numbers starting with 0 are for emergency and services to the citizen.
+Non-emergency numbers are 010 for requesting information to the city council, 012 to the regional government, and 060 to the national government.
+016, implemented in 2007 by the national government, is a telephone number meant for reporting cases of violence against women. Calls to this number do not appear in the phone bill.
+112 is the generic emergency number. Specific emergency numbers are 061 for medical emergencies (only some of the autonomous communities offer this number, elsewhere 112 must be called), 062 for the Civil Guard, 080 or 085 for the fire brigade (depending on the province), 091 for the National Police, 092 for the municipal police.
+Five-digit numbers starting with 118 are information numbers.
+Numbers starting with 80 and 90, then a number different from 0, are used for premium rates, toll free, and internet access numbers.
+905 numbers are supposed to be used for voting systems. Calls have a limited duration (typically 3 minutes), and are charged a fixed rate per call. They are often used in TV shows as a substitutive of 80 numbers, both for image reasons and because operators are not obliged to block them on a user request, as 80 numbers are.
+Until 2003, 906 used to be the prefix for premium rate calls, where the calling party pays a fixed amount of money per minute and are lucrative for the called party. In that year, 906 was discontinued and split in three: 803 for phone sex, 806 for entertainment, gambling and various services such as divination, and 807 for professional services such as legal and medical advice.
+908 and 909 were designed to be the numbers for dial-up Internet access. However, they have been widely replaced by digital subscriber line and faster Internet access technologies. 907 was the prefix for dial-up access to premium rate websites.
+800 and 900 numbers are freephone numbers in Spain. The called party pays the cost of the call.
+901 and 902 numbers are Non Geographic Numbers. These have been widely introduced by the call centres of large multinational European businesses. Unlike other normal Spanish phone numbers beginning 910 onwards, 901 and 902 numbers are always excluded from inclusive call bundles on Spanish landlines and mobiles. In 901 lines, the cost of the call is shared between the calling party and the receiver; in a 902, the calling party pays all the cost of the call. 902 numbers are extremely expensive to call from Spanish mobiles. 901 and 902 numbers are also premium rated if calling Spain from overseas and low cost international call carriers to Spain normally refuse to connect calls to 901 and 902 numbers.
+
+Area codes
+References
+External links
+CMNC - National Commission of Markets and Competition (Spanish)
+Spanish Numbering plan from CMT/Previous Spanish Communications Regulator  (Spanish)
+Operator codes assigned to each network - Due to portability it can change - Registration Needed
+Downloadable list of phone numbers (Spanish)
+Real Decreto 2296/2004, de 10 de diciembre (Spanish)
+Resolución de 30 de junio de 2005, de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información por la que se atribuyen recursos públicos de numeración al servicio telefónico fijo disponible al público y a los servicios vocales nómadas, y se adjudican determinados indicativos provinciales (Spanish)

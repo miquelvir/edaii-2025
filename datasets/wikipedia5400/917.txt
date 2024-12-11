@@ -1,0 +1,63 @@
+917
+Barrier (computer science)
+In parallel computing, a barrier is a type of synchronization method. A barrier for a group of threads or processes in the source code means any thread/process must stop at this point and cannot proceed until all other threads/processes reach this barrier.
+Many collective routines and directive-based parallel languages impose implicit barriers. For example, a parallel do loop in Fortran with OpenMP will not be allowed to continue on any thread until the last iteration is completed. This is in case the program relies on the result of the loop immediately after its completion. In message passing, any global communication (such as reduction or scatter) may imply a barrier.
+In concurrent computing, a barrier may be in a raised or lowered state. The term latch is sometimes used to refer to a barrier that starts in the raised state and cannot be re-raised once it is in the lowered state. The term count-down latch is sometimes used to refer to a latch that is automatically lowered once a predetermined number of threads/processes have arrived.
+
+Implementation
+Take an example for thread, known as the thread barrier. The thread barrier needs a variable to keep track of the total number of threads that have entered the barrier. Whenever there are enough threads enter the barrier, it will be lifted. A synchronization primitive like mutex is also needed when implementing the thread barrier.
+This thread barrier method is also known as Centralized Barrier as the threads have to wait in front of a "central barrier" until the expected number of threads have reached the barrier before it is lifted.
+The following C code, which implemented thread barrier by using POSIX Threads will demonstrate this procedure:
+
+In this program, the thread barrier is defined as a struct, struct _thread_barrier, which include:
+
+total_thread: Total threads in the process
+thread_barrier_number: Total number of threads expected to enter the thread barrier so that it can be lifted
+lock: A POSIX thread mutex lock
+Based on the definition of barrier, we need to implement a function like thread_barrier_wait() in this program which will "monitor" the total number of thread in the program in order to life the barrier.
+In this program, every thread calls thread_barrier_wait() will be blocked until THREAD_BARRIERS_NUMBER threads reach the thread barrier. 
+
+The result of that program is:As we can see from the program, there are just only 2 threads are created. Those 2 thread both have thread_func(), as the thread function handler, which call thread_barrier_wait(&barrier), while thread barrier expected 3 threads to call thread_barrier_wait (THREAD_BARRIERS_NUMBER = 3) in order to be lifted.
+Change TOTAL_THREADS to 3 and the thread barrier is lifted:
+
+Sense-Reversal Centralized Barrier
+Beside decreasing the total thread number by one for every thread successfully passing the thread barrier, thread barrier can use opposite values to mark for every thread state as passing or stopping. For example, thread 1 with state value is 0 means it's stopping at the barrier, thread 2 with state value is 1 means it has passed the barrier, thread 3's state value = 0 means it's stopping at the barrier and so on. This is known as Sense-Reversal.
+The following C code demonstrates this:
+
+This program has all features similar to the previous Centralized Barrier source code. It just only implements in a different way by using 2 new variables:
+local_sense: A thread local Boolean variable to check whether THREAD_BARRIERS_NUMBER have arrived at the barrier.
+flag: A Boolean member of struct _thread_barrier to indicate whether THREAD_BARRIERS_NUMBER have arrived at the barrier
+When a thread stops at the barrier, local_sense's value is toggled. When there are less than THREAD_BARRIERS_NUMBER threads stopping at the thread barrier, those threads will keep waiting with the condition that the flag member of struct _thread_barrier is not equal to the private local_sense variable.
+When there are exactly THREAD_BARRIERS_NUMBER threads stopping at the thread barrier, the total thread number is reset to 0, and the flag is set to local_sense.
+
+Combining Tree Barrier
+The potential problem with the Centralized Barrier is that due to all the threads repeatedly accessing the global variable for pass/stop, the communication traffic is rather high, which decreases the scalability.
+This problem can be resolved by regrouping the threads and using multi-level barrier, e.g. Combining Tree Barrier. Also hardware implementations may have the advantage of higher scalability.
+A Combining Tree Barrier is a hierarchical way of implementing barrier to resolve the scalability by avoiding the case that all threads are spinning at the same location.
+In k-Tree Barrier, all threads are equally divided into subgroups of k threads and a first-round synchronizations are done within these subgroups. Once all subgroups have done their synchronizations, the first thread in each subgroup enters the second level for further synchronization. In the second level, like in the first level, the threads form new subgroups of k threads and synchronize within groups, sending out one thread in each subgroup to next level and so on. Eventually, in the final level there is only one subgroup to be synchronized. After the final-level synchronization, the releasing signal is transmitted to upper levels and all threads get past the barrier.
+
+Hardware Barrier Implementation
+The hardware barrier uses hardware to implement the above basic barrier model.
+The simplest hardware implementation uses dedicated wires to transmit signal to implement barrier. This dedicated wire performs OR/AND operation to act as the pass/block flags and thread counter. For small systems, such a model works and communication speed is not a major concern. In large multiprocessor systems this hardware design can make barrier implementation have high latency. The network connection among processors is one implementation to lower the latency, which is analogous to Combining Tree Barrier.
+
+POSIX Thread barrier functions
+POSIX Threads standard directly supports thread barrier functions which can be used to block the specified threads or the whole process at the barrier until other threads to reach that barrier. 3 main [API](708) supports by POSIX to implement thread barriers are:
+
+pthread_barrier_init()
+Init the thread barrier with the number of threads needed to wait at the barrier in order to lift it
+pthread_barrier_destroy()
+Destroy the thread barrier to release back the resource
+pthread_barrier_wait()
+Calling this function will block the current thread until the number of threads specified by pthread_barrier_init() call pthread_barrier_wait() to lift the barrier.
+The following example (implemented in C with pthread [API](708)) will use thread barrier to block all the threads of the main process and therefore block the whole process:The result of that source code is:As we can see from the source code, there are just only two threads are created. Those 2 thread both have thread_func(), as the thread function handler, which call pthread_barrier_wait(&barrier), while thread barrier expected 3 threads to call pthread_barrier_wait (THREAD_BARRIERS_NUMBER = 3) in order to be lifted.
+Change TOTAL_THREADS to 3 and the thread barrier is lifted:As main() is treated as a thread, i.e the "main" thread of the process, calling pthread_barrier_wait() inside main() will block the whole process until other threads reach the barrier. The following example will use thread barrier, with pthread_barrier_wait() inside main(), to block the process/main thread for 5 seconds as waiting the 2 "newly created" thread to reach the thread barrier:
+This example doesn't use pthread_join() to wait for 2 "newly created" threads to complete. It calls pthread_barrier_wait() inside main(), in order to block the main thread, so that the process will be blocked until 2 threads finish its operation after 5 seconds wait (line 9 - sleep(5)).
+
+See also
+Fork–join model
+Rendezvous (Plan 9)
+Memory barrier
+
+References
+External links
+"Parallel Programming with Barrier Synchronization". sourceallies.com. March 2012.

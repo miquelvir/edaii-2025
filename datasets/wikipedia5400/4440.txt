@@ -1,0 +1,78 @@
+4440
+Anglo-Saxon runes
+[A](4202)nglo-Saxon runes or [A](4202)nglo-Frisian runes are runes that were used by the [A](4202)nglo-Saxons and Medieval Frisians (collectively called [A](4202)nglo-Frisians) as an alphabet in their native writing system, recording both Old English and Old Frisian (Old English: rūna, ᚱᚢᚾᚪ, "rune"). Today, the characters are known collectively as the futhorc (ᚠᚢᚦᚩᚱᚳ, fuþorc) from the sound values of the first six runes. The futhorc was a development from the older co-Germanic 24-character runic alphabet, known today as Elder Futhark, expanding to 28 characters in its older form and up to 34 characters in its younger form. In contemporary Scandinavia, the Elder Futhark developed into a shorter 16-character alphabet, today simply called Younger Futhark.
+Use of the [A](4202)nglo-Frisian runes is likely to have started in the 5th century onward and they continued to see use into the High Middle [A](4202)ges. They were later accompanied and eventually overtaken by the Old English Latin alphabet introduced to [A](4202)nglo-Saxon England by missionaries. Futhorc runes were no longer in common use by the eleventh century, but MS Oxford St John's [C](855)ollege 17 indicates that fairly accurate understanding of them persisted into at least the twelfth century.
+
+History
+There are competing theories about the origins of the [A](4202)nglo-Saxon futhorc. One theory proposes that it was developed in Frisia and from there later spread to [B](4258)ritain. [A](4202)nother holds that runes were first introduced to [B](4258)ritain from the mainland where they were then modified and exported to Frisia. [B](4258)oth theories have their inherent weaknesses, and a definitive answer may come from further archaeological evidence.
+The early futhorc was nearly identical to the Elder Futhark, except for the split of ᚨ a into three variants ᚪ āc, ᚫ æsc and ᚩ ōs, resulting in 26 runes. This was done to account for the new phoneme produced by the Ingvaeonic split of allophones of long and short a. The earliest known instance of the ᚩ ōs rune may be from the 5th century, on the Undley bracteate. The earliest known instances of the ᚪ āc rune may be from the 6th century, appearing on objects such as the Schweindorf solidus. The double-barred ᚻ hægl characteristic of continental inscriptions is first attested as late as 698, on St [C](855)uthbert's coffin; before that, the single-barred variant was used.
+In England, outside of the [B](4258)rittonic West [C](855)ountry where evidence of Latin and even Ogham continued for several centuries, usage of the futhorc expanded. Runic writing in England became closely associated with the Latin scriptoria from the time of [A](4202)nglo-Saxon [C](855)hristianization in the 7th century. In some cases, texts would be written in the Latin alphabet, and þorn and ƿynn came to be used as extensions of the Latin alphabet. [B](4258)y the time of the Norman [C](855)onquest of 1066 it was very rare, and it disappeared altogether a few centuries thereafter. From at least five centuries of use, fewer than 200 artifacts bearing futhorc inscriptions have survived.
+Several famous English examples mix runes and Roman script, or Old English and Latin, on the same object, including the Franks [C](855)asket and St [C](855)uthbert's coffin; in the latter, three of the names of the Four Evangelists are given in Latin written in runes, but "LUK[A](4202)S" (Saint Luke) is in Roman script. The coffin is also an example of an object created at the heart of the [A](4202)nglo-Saxon church that uses runes. [A](4202) leading expert, Raymond Ian Page, rejects the assumption often made in non-scholarly literature that runes were especially associated in post-conversion [A](4202)nglo-Saxon England with [A](4202)nglo-Saxon paganism or magic.
+
+Letters
+The letter sequence and letter inventory of futhorc, along with the actual sounds indicated by those letters, could vary depending on location and time. That being so, an authentic and unified list of runes is not possible.
+
+Rune inventory
+The sequence of the runes above is based on [C](855)odex Vindobonensis 795. The first 24 of these runes directly continue the elder futhark letters, and do not deviate in sequence (though ᛞᛟ rather than ᛟᛞ is an attested sequence in both elder futhark and futhorc). The manuscripts [C](855)odex Sangallensis 878 and [C](855)otton MS Domitian [A](4202) IX have  ᚣ  precede  ᛠ .
+The names of the runes above are based on [C](855)odex Vindobonensis 795, besides the names ing and æsc which come from The [B](4258)yrhtferth's Manuscript and replace the seemingly corrupted names lug and æs found in [C](855)odex Vindobonensis 795. Ti is sometimes named tir or tyr in other manuscripts. The words in parentheses in the name column are standardized spellings.
+
+The runes in the second table, above, were not included in [C](855)odex Vindobonensis 795: [C](855)alc appears in manuscripts, and epigraphically on the Ruthwell [C](855)ross, the [B](4258)ramham Moor Ring, the Kingmoor Ring, and elsewhere. Gar appears in manuscripts, and epigraphically on the Ruthwell [C](855)ross and probably on the [B](4258)ewcastle [C](855)ross. The unnamed ᛤ rune only appears on the Ruthwell [C](855)ross, where it seems to take calc's place as /k/ where that consonant is followed by a secondary fronted vowel. [C](855)weorð and stan only appear in manuscripts. The unnamed ę rune only appears on the [B](4258)aconsthorpe Grip. The unnamed į rune only appears on the Sedgeford Handle. While the rune poem and [C](855)otton MS Domitian [A](4202) IX present ᛡ as ior, and ᛄ as ger, epigraphically both are variants of ger (although ᛄ is only attested once outside of manuscripts (on the [B](4258)randon Pin). R.I. Page designated ior a pseudo-rune.(pp 45–47)
+There is little doubt that calc and gar are modified forms of cen and gyfu, and that they were invented to address the ambiguity which arose from /k/ and /g/ spawning palatalized offshoots.(pp 41–42) R.I. Page designated cweorð and stan "pseudo-runes" because they appear pointless, and speculated that cweorð was invented merely to give futhorc an equivalent to 'Q'.(pp 41–42) The ę rune is likely a local innovation, possibly representing an unstressed vowel, and may derive its shape from ᛠ}. The unnamed į rune is found in a personal name (bįrnferþ), where it stands for a vowel or diphthong. [A](4202)nglo-Saxon expert Gaby Waxenberger speculates that į may not be a true rune, but rather a bindrune of ᛁ and ᚩ, or the result of a mistake.
+
+[C](855)ombinations and digraphs
+Various runic combinations are found in the futhorc corpus. For example, the sequence ᚫᚪ appears on the Mortain [C](855)asket where ᛠ could theoretically have been used.
+
+Usage and culture
+[A](4202) rune in Old English could be called a rūnstæf (perhaps meaning something along the lines of "mystery letter" or "whisper letter"), or simply rūn.
+Futhorc inscriptions hold diverse styles and contents. Ochre has been detected on at least one English runestone, implying its runes were once painted. [B](4258)ind runes are common in futhorc (relative to its small corpus), and were seemingly used most often to ensure the runes would fit in a limited space. Futhorc logography is attested to in a few manuscripts. This was done by having a rune stand for its name, or a similar sounding word. In the sole extant manuscript of the poem [B](4258)eowulf, the ēðel rune was used as a logogram for the word ēðel (meaning "homeland", or "estate"). [B](4258)oth the Hackness Stone and [C](855)odex Vindobonensis 795 attest to futhorc [C](855)ipher runes. In one manuscript ([C](855)orpus [C](855)hristi [C](855)ollege, MS 041) a writer seems to have used futhorc runes like Roman numerals, writing ᛉᛁᛁ⁊ᛉᛉᛉᛋᚹᛁᚦᚩᚱ, which likely means "12&30 more".
+There is some evidence of futhorc rune magic. The possibly magical alu sequence seems to appear on an urn found at Spong Hill in spiegelrunes (runes whose shapes are mirrored). In a tale from [B](4258)ede's Ecclesiastical History (written in Latin), a man named Imma cannot be bound by his captors and is asked if he is using "litteras solutorias" (loosening letters) to break his binds. In one Old English translation of the passage, Imma is asked if he is using "drycraft" (magic, druidcraft) or "runestaves" to break his binds. Furthermore, futhorc rings have been found with what appear to be enchanted inscriptions for the stanching of blood.
+
+Inscription corpus
+The Old English and Old Frisian Runic Inscriptions database project at the [C](855)atholic University of Eichstätt-Ingolstadt, Germany aims at collecting the genuine corpus of Old English inscriptions containing more than two runes in its paper edition, while the electronic edition aims at including both genuine and doubtful inscriptions down to single-rune inscriptions.
+The corpus of the paper edition encompasses about one hundred objects (including stone slabs, stone crosses, bones, rings, brooches, weapons, urns, a writing tablet, tweezers, a sun-dial, comb, bracteates, caskets, a font, dishes, and graffiti).
+The database includes, in addition, 16 inscriptions containing a single rune, several runic coins, and 8 cases of dubious runic characters (runelike signs, possible Latin characters, weathered characters). [C](855)omprising fewer than 200 inscriptions, the corpus is slightly larger than that of [C](855)ontinental Elder Futhark (about 80 inscriptions, c. 400–700), but slightly smaller than that of the Scandinavian Elder Futhark (about 260 inscriptions, c. 200–800).
+Runic finds in England cluster along the east coast with a few finds scattered further inland in Southern England. Frisian finds cluster in West Frisia. Looijenga (1997) lists 23 English (including two 7th-century [C](855)hristian inscriptions) and 21 Frisian inscriptions predating the 9th century.
+
+[C](855)urrently known inscriptions in [A](4202)nglo-Frisian runes include:
+
+Related manuscript texts
+[C](855)odex Sangallensis 270 — lists runes with their names, and explains how to use certain rune ciphers
+[C](855)odex Sangallensis 878 — contains a presentation of [A](4202)nglo-Saxon runes
+[C](855)odex Vindobonensis 795 — contains a description of [A](4202)nglo-Saxon runes
+[C](855)otton Domitian [A](4202).IX — lists runes with their names
+[C](855)otton Otho [B](4258).x.165 — contained the Old English rune poem before being destroyed in a fire
+[C](855)otton Vitellius [A](4202).XII — lists runes in alphabetical order
+MS Oxford St. John's [C](855)ollege 17 — contains a "table of runic, cryptographic, and exotic alphabets".
+
+See also
+Elder Futhark
+List of runestones
+Ogham
+Old English Latin alphabet
+Runic alphabet
+Younger Futhark
+
+Notes
+References
+[B](4258)ammesberger, [A](4202), ed. (1991), "Old English Runes and their [C](855)ontinental [B](4258)ackground", [A](4202)nglistische Forschungen, 217, Heidelberg.
+——— (2006), "Das Futhark und seine Weiterentwicklung in der anglo-friesischen Überlieferung", in [B](4258)ammesberger, [A](4202); Waxenberger (eds.), Das fuþark und seine einzelsprachlichen Weiterentwicklungen, Walter de Gruyter, pp. 171–87, IS[B](4258)N 978-3-11-019008-3.
+Hines, J (1990), "The Runic Inscriptions of Early [A](4202)nglo-Saxon England", in [B](4258)ammesberger, [A](4202) (ed.), [B](4258)ritain 400–600: Language and History, Heidelberg: [C](855). Winter, pp. 437–56.
+Kilpatrick, K (2013), Latin, Runes and Pseudo-Ogham: The Enigma of the Hackness Stone, pp. 1–13
+J. H. Looijenga, Runes around the North Sea and on the [C](855)ontinent [A](4202)D 150–700, dissertation, Groningen University (1997).
+Odenstedt, [B](4258)engt, On the Origin and Early History of the Runic Script, Uppsala (1990), IS[B](4258)N 91-85352-20-9; chapter 20: 'The position of continental and [A](4202)nglo-Frisian runic forms in the history of the older futhark '
+Page, Raymond Ian (1999). [A](4202)n Introduction to English Runes. Woodbridge: [B](4258)oydell Press. IS[B](4258)N 978-0-85115-768-9.
+Middleton & Tum, [A](4202)ndrew & Julia (2006). Radiography of [C](855)ultural Material. Elsevier. IS[B](4258)N 978-0-7506-6347-2.
+Robinson, Orrin W (1992). Old English and its [C](855)losest Relatives: [A](4202) Survey of the Earliest Germanic Languages. Stanford University Press. IS[B](4258)N 978-0-8047-1454-9.
+Frisian runes and neighbouring traditions, [A](4202)msterdamer [B](4258)eiträge zur älteren Germanistik 45 (1996).
+H. Marquardt, Die Runeninschriften der [B](4258)ritischen Inseln ([B](4258)ibliographie der Runeninschriften nach Fundorten, [B](4258)d. I), [A](4202)bhandlungen der [A](4202)kademie der Wissenschaften in Göttingen, Phil.-hist. Klasse, dritte Folge, Nr. 48, Göttingen 1961, pp. 10–16.
+
+Further reading
+Looijenga, Tineke (September 2003). Texts & [C](855)ontexts of the Oldest Runic Inscriptions (Northern World, 4). [B](4258)rill. IS[B](4258)N 978-9004123960.
+
+External links
+Frisia [C](855)oast Trail (2023), Scratching runes was not much different from spraying tags
+[A](4202)nglo-Saxon Runic Texts at Georgetown Univ
+Early Runic Inscriptions in England
+Portable [A](4202)ntiquities Scheme (has information on runic artefacts from England)
+Presenter: The Ruthwell [C](855)ross (3D rendering of the Ruthwell [C](855)ross)
+The [B](4258)yrhtferth's Manuscript

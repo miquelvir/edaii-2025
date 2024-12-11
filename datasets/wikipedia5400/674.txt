@@ -1,0 +1,69 @@
+674
+Computational social science
+Computational social science is an interdisciplinary academic sub-field concerned with computational approaches to the social sciences.
+This means that computers are used to model, simulate, and analyze social phenomena. 
+It has been applied in areas such as computational economics, computational sociology, computational media analysis, cliodynamics, culturomics, nonprofit studies.
+It focuses on investigating social and behavioral relationships and interactions using data science approaches (such as machine learning or rule-based analysis), network analysis, social simulation and studies using interactive systems.
+
+Definitions
+There are two terminologies that relate to each other: social science computing (SSC) and computational social science (CSS).
+In literature, CSS is referred to the field of social science that uses the computational approaches in studying the social phenomena.
+On the other hand, SSC is the field in which computational methodologies are created to assist in explanations of social phenomena.
+Computational social science revolutionizes both fundamental legs of the scientific method: empirical research, especially through big data, by analyzing the digital footprint left behind through social online activities; and scientific theory, especially through computer simulation model building through social simulation. It is a multi-disciplinary and integrated approach to social survey focusing on information processing by means of advanced information technology. The computational tasks include the analysis of social networks, social geographic systems, social media content and traditional media content.
+Computational social science work increasingly relies on the greater availability of large databases, currently constructed and maintained by a number of interdisciplinary projects, including: 
+
+The Seshat: Global History Databank, which systematically collects state-of-the-art accounts of the political and social organization of human groups and how societies have evolved through time into an authoritative databank. Seshat is affiliated also with the Evolution Institute, a non-profit think-tank that "uses evolutionary science to solve real-world problems."
+D-PLACE: the Database of Places, Languages, Culture and Environment, which provides data on over 1,400 human social formations
+The Atlas of Cultural Evolution, an archaeological database created by Peter N. Peregrine
+CHIA: The Collaborative Information for Historical Analysis, a multidisciplinary collaborative endeavor hosted by the University of Pittsburgh with the goal of archiving historical information and linking data as well as academic/research institutions around the globe
+International Institute of Social History, which collects data on the global social history of labour relations, workers, and labour
+Human Relations Area Files eHRAF Archaeology
+Human Relations Area Files eHRAF World Cultures
+Clio-Infra a database of measures of economic performance and other aspects of societal well-being on a global sample of societies from 1800 CE to the present
+The Google Ngram Viewer, an online search engine that charts frequencies of sets of comma-delimited search strings using a yearly count of n-grams as found in the largest online body of human knowledge, the Google Books corpus.
+The Linguistic Data Consortium, an open consortium of universities, companies and government research laboratories hosted by the University of Pennsylvania. It creates, collects and distributes speech and text databases, lexicons, and other resources for linguistics research and development purposes.
+The analysis of vast quantities of historical newspaper and book content have been pioneered in 2017, while other studies on similar data showed how periodic structures can be automatically discovered in historical newspapers. A similar analysis was performed on social media, again revealing strongly periodic structures.
+
+Approaches
+As an interdisciplinary area, scholars come from many different established fields.
+However, there seems to be a shared ethos among them that the field ought to integrate knowledge across traditional scholarly boundaries. However, Nelimarkka proposes that five distinct archetypal approaches to computational social science:
+
+Data-driven approach perceives computational social science through access to new types of data sources, including data from social media or smart phones
+Method-driven approach emphasises novel methods and methodological rigorous as the core area of computational social science.
+Model-driven approach focuses on model building and finding universal laws which govern human behavior in societies, for example social simulations or social physics.
+Digital society-focused approach, where computational social scientists seek to address problems emerging in algorithmic society, such as algorithmic bias.
+Social theory perspective, where the aim of computational methods is to further social theory, i.e., help to find evidence to current theories or propose alternative conceptualizations to unpack our society.
+Overall, computational social science is a diverse academic enterprise.
+There are some scholarly works, particularly from computer science which seem to hold the discipline together, but beyond that there are more diverse communities.
+
+Academic publication avenues
+Computational social science articles are published across several journals, such as New Media & Society, Social Science Computer Review, PNAS, Political Communication, EPJ Data Science, PLOS One, Sociological Methods & Research and Science.
+However, there are some venues focused only in computational social sciences:
+
+International Conference on Computational Social Science IC2S2
+Journal of Computational Social Science
+Springer book series on Computational Social Science
+
+See also
+Cliodynamics
+Computational cognition
+Computational politics
+Computational sociology
+Digital humanities
+Digital sociology
+Online content analysis
+Predictive analytics
+Seshat (project)
+Social informatics
+Social web
+Social network analysis
+
+References
+External links
+ESSA: European Social Simulation Association portal
+PAAA: Pan-Asian Association for Agent-based Approach in Social Systems Sciences
+CSSSA: Computational Social Science Society of the Americas
+2022 International Conference on Computational Social Science
+"Life in the network: the coming age of computational social science". Retrieved June 10, 2015.
+Seshat
+1

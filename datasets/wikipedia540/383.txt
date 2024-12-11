@@ -1,0 +1,56 @@
+383
+A History of Greek Mathematics
+A History of Greek Mathematics is a book by English historian of mathematics Thomas Heath about history of Greek mathematics. It was published in Oxford in 1921, in two volumes titled Volume I, From Thales to Euclid and Volume II, From Aristarchus to Diophantus. It got positive reviews and is still used today. Ten years later, in 1931, Heath published A Manual of Greek Mathematics, a concise version of the two-volume History.
+
+Background
+Thomas Heath was a British civil servant, whose hobby was Greek mathematics (he called it a "hobby" himself). He published a number of translations of major works of Euclid, Archimedes, Apollonius of Perga and others; most are still used today.
+Heath wrote in the preface to the book:
+
+The work was begun in 1913, but the bulk of it was written, as a distraction, during the first three years of the war, the hideous course of which seemed day by day to enforce the profound truth conveyed in the answer of Plato to the Delians. When they consulted him on the problem set them by the Oracle, namely, that of duplicating the cube, he replied, 'It must be supposed, not that the god specially wished this problem solved, but that he would have the Greeks desist from war and wickedness and cultivate the Muses, so that, their passion being assuaged by philosophy and mathematics, they might live in innocent and mutually helpful intercourse with one another.' 
+
+Ten years later, in 1931, Heath published A Manual of Greek Mathematics, a concise version of the two-volume History. In a preface Heath wrote that the Manual is for "the general reader who has not lost interest in the studies of his youth", while History was written for scholars. The Manual contains some discoveries made in ten years after the publication of History, for example the new edition of Rhind Papyrus (published in 1923), some parts of then unpublished Moscow Papyrus, and decipherment of Babylonian tablets and "the newest studies" of Babylonian astronomy.
+
+Contents
+I. Introductory
+II. Greek numerical notation and arithmetical operations (logistiké)
+III. Pythagorean arithmetic (arithmetiké)
+IV. The earliest Greek geometry (Thales)
+V. Pythagorean geometry (Pythagoras)
+VI. Progress in the Elements down to Plato's time ("the formative stage in which proofs were discovered and the logical bases of the science were beginning to be sought")
+VII. Special problems ("three famous problems" of antiquity)
+VIII. Zeno of Elea
+IX. Plato
+X. From Plato to Euclid (Eudoxus and Aristotle)
+XI. Euclid
+XII. Aristarchus of Samos
+XIII. Archimedes
+XIV. Conic Sections: Apollonius of Perga
+XV. The successors of the great geometers (Nicomedes, Diocles, Perseus, Zenodorus, Hypsicles, Dionysodorus, Posidonius, Geminus)
+XVI. Some handbooks (Cleomedes, Nicomachus, and Theon of Smyrna)
+XVII. Trigonometry: Hipparchus, Menelaus, Ptolemy
+XVIII. Mensuration: Heron of Alexandria
+XIX. Pappus of Alexandria
+XX. Algebra: Diophantus of Alexandria
+XXI. Commentators and Byzantines (Serenus, Theon of Alexandria, Proclus, [Hypatia](381), Porphyry, Iamblichus, Marinus of Neapolis, Domninus of Larissa, Simplicius, Eutocius, Anthemius of Tralles, Hero the Younger, Michael Psellus, Georgius Pachymeres, Maximus Planudes, Manuel Moschopoulos, Nicholas Rhabdas, John Pediasimos, Barlaam of Seminara, Isaac Argyrus)
+
+Reception
+The book got positive reviews. Mathematician David Eugene Smith praised the book, writing in 1923 that "no man now living is more capable than he of interpreting the Greek mathematical mind to the scholar of today; indeed, there is no one who ranks even in the same class with Sir Thomas Heath in this particular". He also noted that Heath wrote in length about "five of the greatest names in the field of ancient mathematical research" (Euclid, Archimedes, Apollonius, Pappus, and Diophantus), given "each approximately a hundred pages". He called the book "destined to be the standard work".
+Philosopher John Alexander Smith wrote in 1923 that the book "has the eminent merit of being readable", and that "for most scholars the work is full and detailed enough to form almost a library of reference".
+Another reviewer from 1923 wrote that "covering as it does so much ground, it is not surprising that the book shows signs of ruthless compression". The author was praised for the book, with one reviewer writing "In Sir Thomas Heath we have, as Erasmus said of Tunstall, a scholar who is dictus ad unguem".
+Historian of science George Sarton also praised the book in his 1922 review, writing that "it seems hardly necessary to speak at great length of a book of which
+most scholars knew long before it appeared, for few books have been awaited with greater impatience". He also noted careful explanation of solutions written in modern language, and "perfect clearness of the exposition, its excellent order, its thoroughness".
+The Manual, concise version of History, also received positive reviews. It was called a "fascinating little book", "a mine of information, a delight to read". Sarton criticized the book because of the absence of chapters devoted to Egyptian and Mesopotamian mathematics. Herbert Turnbull praised the book, especially its treatment of new discoveries of Egyptian and Babylonian mathematics.
+Mathematician Howard Eves praised the book in his 1984 review, writing that "the English-speaking population is particularly fortunate in having available the extraordinary treatise ... one finds one of the most scholarly, most complete, and most charmingly written treatments of the subject, a treatment certain to kindle a deep appreciation of that early period of mathematical development and a genuine admiration of those who played leading roles in it."
+Fernando Q. Gouvêa, writing in 2006, criticizes Heath's books as outdated and old-fashioned.
+Benjamin Wardhaugh, writing in 2016, finds that Heath's approach to Greek mathematics is to "made them look like works of classic literature", and that "what Heath
+constructed might be characterized today as a history of the contents of Greek theoretical mathematics." Reviel Netz in his 2022 book calls Heath's History "a reliable guide to many generations of scholars and curious readers". He writes that "Historiographies went in and out of fashion, but Heath still stands, providing a clear and readable survey of the contents of most of the works of pure mathematics attested from Greek antiquity." He has also noted that there was no other book on the subject written in a hundred years.
+
+Publication history
+A History of Greek Mathematics, Oxford, Clarendon Press. 1921. Volume I, From Thales to Euclid, Volume II, From Aristarchus to Diophantus
+A History of Greek Mathematics. New York: Dover Publications. 1981. ISBN 978-0-486-24073-2. Volume I, From Thales to Euclid, Volume II, From Aristarchus to Diophantus
+A History of Greek Mathematics. Cambridge University Press. 2013. ISBN 978-1-108-06306-7.
+A Manual of Greek Mathematics, Oxford, Clarendon Press. 1931.
+A Manual of Greek Mathematics. Mineola, NY: Dover Publications. 2003. ISBN 978-0486432311.
+
+
+== References ==

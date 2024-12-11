@@ -1,0 +1,158 @@
+4387
+Catalan dialects
+The Catalan dialects (and restrictively also, Valencian dialects) feature a relative uniformity, especially when compared to other Romance languages; both in terms of vocabulary, semantics, syntax, morphology, and phonology. Mutual intelligibility between its dialects is very high, estimates ranging from 90% to 95%. The only exception is the isolated idiosyncratic Alguerese dialect.
+
+Geographic classifications
+Overview of main varieties and areas
+Western vs. Eastern
+In 1861, linguist Manuel Milà i Fontanals split Catalan into two main dialectal blocks: Western and Eastern. The most obvious phonetic difference lies in the treatment of unstressed a and e, which have merged to /ə/ in Eastern dialects, but remain distinct as /a/ and /e/ in Western dialects. There are a few other differences in pronunciation, verbal morphology, and vocabulary.
+Western Catalan comprises the two varieties of North-Western Catalan and Valencian; the Eastern block comprises three to four varieties (depending on their classification): [Central Catalan](4393), Roussillonese (Northern Catalan), and Insular (Balearic and Alguerese). Each variety can be further subdivided into several subdialects.
+There are two spoken standards for the language based on the Eastern and Western dialects respectively:
+
+In [Catalonia](2549), the Institut d'Estudis Catalans (IEC) regulates the spoken standard based on [Central Catalan](4393), which has the highest number of speakers and is spoken in the densely populated regions of the Barcelona province, the eastern half of the province of Tarragona, and most of the province of Girona.
+In the Valencian Community (a.k.a. Valencian Country), the [Acadèmia Valenciana de la Llengua](4204) (AVL) adapts the Fabran guidelines to the Valencian variety, and regulates an alternative spoken standard based on the Southern Valencian dialect (especially Upper Southern Valencian). Despite having fewer speakers than the Central Valencian dialect, Southern Valencian (except the southernmost subdialects) has been less influenced by Spanish. It is spoken in the South and North of the Valencia and Alicante provinces respectively, in cities such as Alcoi, Dénia, Gandia and Xàtiva.
+Valencians are only surpassed in number of Catalan-speakers by Catalans themselves, representing approximately a third of the whole Catalan-speaking population. Therefore, in the context of linguistic conflict, recognition and respect towards the dual standard, as well as the dual Catalan–Valencian denomination, pacifies the tense central–periphery relations between [Catalonia](2549) and the Valencian Community.
+
+Continental vs. Insular
+The Continental varieties of Catalan and Valencian may refer to:
+
+Northern, Central and North-Western Catalan, all spoken in mainland [Catalonia](2549) (and Roussillon), and Valencian, spoken in the Valencian Community. Exceptions may include the Majorcan spoken by certain communities in the Valencian towns of Tàrbena and La Vall de Gallinera in the region of la Marina.
+Insular Catalan may refer to:
+
+the Balearic subdialects, mainly spoken on the islands of Ibiza, Majorca and Minorca (wide definition).
+Alguerese, the Catalan variety spoken in the Sardinian city of [Alghero](4217).
+
+Valencian dialects
+Classifications of the different varieties of Valencian:
+
+Comarcal extension of the dialects of Model C (within the Valencian Community only):
+Northern: els Ports, l'Alt and el Baix Maestrat.
+
+Subdivisions:
+Northern Zone or Tortosan: the bordering towns with [Catalonia](2549) from Herbers (els Ports) to Vinaròs (el Baix Maestrat).
+Southern Zone: els Ports, l'Alt Maestrat and most el Baix Maestrat.
+[Castell](2534)onenc: l'Alcalatén, el Pla de l'Arc, la Plana Alta and Baixa.
+
+Subdivisions:
+Northern Zone: l'Alcalatén, el Pla de l'Arc and la Plana Alta (except Almassora).
+Southern Zone: la Plana Baixa with the inclusion of Almassora (la Plana Alta).
+Central: South of la Plana Baixa (Almenara and la Llosa), el Camp de Morvedre, l'Horta de València, el Camp de Túria, most of la Ribera Alta and the Western zone of la Ribera Baixa.
+
+Subdivisions:
+Northern Zone: el Camp de Morvedre, l'Horta Nord.
+Southern Zone: l'Horta Sud, apitxat area of la Ribera Alta and Baixa.
+Upper Southern: non-apitxat zones of la Ribera Alta and Baixa, la Safor, Costera, la Vall d'Albaida, l'Alcoià, la Marina Alta and Baixa, Northern zone of l'Alacantí.
+
+Subdivisions:
+Inland Zone: non-apitxat area of la Ribera Alta, la Costera, la Vall d'Albaida and l'Alcoià.
+Coastal Zone: non-apitxat area of la Ribera Baixa, la Safor, la Marina Alta and Baixa.
+Lower Southern: the towns on the South of the line that connects the localities of Biar and Busot.
+
+Subdivisions:
+Inland Zone: les Valls del Vinalopó.
+Coastal Zone: el Baix Vinalopó and l'Alacantí.
+
+Pronunciation
+Vowels
+Catalan has inherited the typical vowel system of Vulgar Latin, with seven stressed phonemes: /a, ɛ, e, i, ɔ, o, u/, a common feature in Western Romance, except Spanish, Asturian, and [Aragon](2509)ese. Balearic has also instances of stressed /ə/. Dialects differ in the different degrees of vowel reduction, and the incidence of the pair /ɛ, e/.
+In Eastern Catalan (except most of Majorcan), unstressed vowels reduce to three: /a, e, ɛ/ → ə; /o, ɔ, u/ → u; /i/ remains distinct. There are a few instances of unreduced e, o in some words. Alguerese has lowered ə to a, similar to Eastern dialects spoken in the Barcelona metropolitan area (however, in the latter dialects the vowels are distinct as ɐ vs. a).
+In Majorcan (except in some parts of in the northern of the island), unstressed vowels reduce to four: /a, e, ɛ/ follow the Eastern Catalan reduction pattern; however /o, ɔ/ reduce to o, with /u/ remaining distinct, as in Western Catalan.
+In Western Catalan, unstressed vowels reduce to five: /e, ɛ/ → e; /o, ɔ/ → o; /a, u, i/ remain distinct. This reduction pattern, inherited from Proto-Romance, is also found in Italian and Portuguese. Some Western dialects present further reduction or vowel harmony in some cases.
+Central, Western, and Balearic differ in the lexical incidence of stressed /e/ and /ɛ/. Usually, words with /ɛ/ in central Catalan correspond to /ə/ in Balearic and /e/ in Western Catalan. Words with /e/ in Balearic almost always have /e/ in central and western Catalan as well. As a result, Western Catalan has a much higher incidence of /e/.
+
+Note, the quality of vowels also varies across dialects, and they may present a wide range of contextual allophones. For further information see Catalan phonology#Vowels.
+
+Vowel mergers (between dialects) include:
+au ('bird') vs. ou ('egg') - Southern Valencian (as /a/).
+ma ('my') vs. mà ('hand') - General Valencian, North-Western, Alguerese (as /a/).
+be ('sheep') vs. bé ('good') - General Valencian, North-Western, Northern Catalan, Alguerese (as /e/).
+que ('that') vs. què ('what') - General Valencian (as /e/).
+sec ('dry, I sit') vs. sec ('fold') - General Valencian, North-Western, Northern Catalan, Alguerese (as /e/).
+set ('thirst') vs. set ('seven') - General Catalan, [Central Catalan](4393) (as /ɛ/). Northern Catalan, Alguerese (as /e/)
+son ('sleep') vs. són ('they are') - Alguerese (as /o/).
+son ('his') vs. són ('they are') - Northern Catalan (as /u/).
+sol ('sun, alone') vs. sòl ('floor, ground') - Northern Catalan, Alguerese (as /o/).
+sou ('salary') vs. sou ('you are') - Northern Catalan, Alguerese, Northern Valencian (as /o/).
+espècia ('spice') vs. espècie ('type') - [Central Catalan](4393), Northern Catalan, Balearic; incl. General Catalan (as /ə/). Alguerese (as /a/).
+gener ('January') vs. Giner ('Giner' surname) - colloquial Western Catalan, especially Valencian (as /i/).
+però ('but') vs. pro ('pro') - some Eastern Catalan speakers (as ∅).
+fullet ('brochure') vs. follet ('goblin') - [Central Catalan](4393), Northern Catalan, Balearic (except most of Majorcan), Alguerese; incl. General Catalan (as /u/).
+
+Consonants
+Catalan and Valencian dialects are characterised by final-obstruent devoicing, lenition and voicing assimilation. Additionally, many dialects contrast two rhotics (/r, ɾ/) and two laterals (/l, ʎ/).
+Most Catalan and Valencian dialects are also renowned by the usage of dark l (i.e. velarisation of /l/ → ɫ), which is especially noticeable in syllable final position, in comparison to neighbouring languages, such as Spanish, Italian and French (that lack this pronunciation). 
+There is dialectal variation in regard to:
+
+The pronunciation and distribution of sibilants (with different results according to voicing and affrication vs. deaffrication).
+While, arguably there are seven to eight sibilants in Standard Catalan and Standard Valencian, dialects like Central Valencian and Ribagorçan only have three or four.
+The usage of the voiced labiodental fricative phoneme /v/.
+The pronunciation or not of yod (/j/) in the digraph ⟨ix⟩.
+The elision and pronunciation of final rhotics (either /ɾ/ or /r/).
+The delateralisation of the palatal lateral approximant (/ʎ/).
+The alternation of lenition vs. fortition (such as /b/ in poble 'village, people' → β vs. b vs. bː vs. p vs. pː).
+Consonant mergers (between dialects) include:
+
+General consonant mergers in both General Catalan and Valencian:
+cub ('cube') vs. cup ('winepress') - as /p/.
+tord ('thrush') vs. tort ('crooked') - as /t/.
+mag ('magician') vs. mac ('pebble') - as /k/.
+General consonant mergers in General Catalan and dialectally in Valencian:
+tom ('tome') vs. tomb ('turn') - as /m/.
+rom ('rum') vs. romp ('he or she breaks') - as /m/.
+glans ('acorns') vs. glands ('glands') - as /n/.
+quan ('when') vs. quant ('how much') - as /n/.
+Other consonant mergers include:
+bola ('ball') vs. vola ('he or she flies') - General Catalan, North-Western Catalan, Northern Catalan, [Central Catalan](4393), Central Valencian and partly in Northern Valencian (as /b/).
+vida ('life') vs. vira ('to turn, to tack') - Alguerese (both as /ɾ/).
+vila ('town') vs. vira ('to turn, to tack') - Alguerese (both as /ɾ/).
+vals ('costs') vs. valls ('valleys') - Alguerese and parts of Eastern [Aragon](2509) (as /l/).
+bans ('bands') vs. banys ('baths') - Alguerese and parts of Eastern [Aragon](2509) (as /n/).
+caça ('hunting') and cassa ('ladle') vs. casa ('house') - Central Valencian (as /s/) and parts of Eastern [Aragon](2509) (as /s/ and /θ/).
+boja ('crazy') vs. botja ('shrub') - General Valencian (as /d͡ʒ/). Northern Valencian (as /(j)ʒ/).
+boja ('crazy') vs. botja ('shrub') vs. botxa ('bocce') - Central Valencian (as /t͡ʃ/).
+setge ('siege') vs. setze ('sixteen') - Northern Valencian (as /d͡ʒ/).
+xoc ('shock') vs. joc ('game') - Central Valencian (as /t͡ʃ/).
+xec ('check') vs. txec ('Czech') - General Valencian (as /t͡ʃ/).
+all ('garlic') vs. ai ('ouch' interj.) - Majorcan, young speakers of Catalan and Valencian (as /j/).
+raig ('ray') vs. rai ('raft, interj.') - some Catalan and Valencian speakers (as /j/).
+raig ('ray') vs. raigs ('rays') - General Catalan and Valencian (as /t͡ʃ/). Some Catalan and Valencian speakers (as /j/ and /js/, respectively).
+goig ('joy') vs. gots ('glass' drinking glass) - Northern Valencian (as /t͡ʃ/). Partially in Central Valencian (as /t͡s/).
+reis ('kings') vs. reix ('resh') - partially in Northern Valencian (as /js/).
+guis ('stew') vs. guix ('gypsum') - partially in Northern Valencian (as /s/).
+test ('test') vs. text ('text') - some Catalan and Valencian speakers (as /s/).
+bruns ('dark browns') vs. brunz ('he or she buzzes') - General Catalan and Valencian (as /s/).
+isard ('chamois, wild') vs. -itzar ('-ize/-ise' suffix) - General Valencian and partly in Balearic and Alguerese (as /z/).
+isard ('chamois, wild') vs. -itzar ('-ize/-ise' suffix) vs. hissar ('to hoist') - Central Valencian (as /s/).
+tsarina ('tsarina') vs. Sarina ('Sarina' given name) - most Catalan and Valencian dialects (as /s/).
+zinc ('zinc') vs. cinc ('five') - Central Valencian (as /s/) and Eastern [Aragon](2509) (as /s/ or /θ/).
+erts ('stiffs') vs. hertz ('hertz') - General Catalan and Valencian (as /t͡s/).
+
+Morphology
+In Western Catalan, the 1st person present indicative ending for verbs is -e (∅ in verbs of the 2nd and 3rd conjugation), or -o. For example, parle, tem, sent (Valencian); parlo, temo, sento (North-Western). In Eastern Catalan, the 1st person present indicative ending for verbs is -o, -i or ∅ in all conjugations. For example, parlo (Central), parl (Balearic), parli (Northern); all meaning "I speak".
+
+In Western Catalan, the inchoative desinences for verbs are -isc/-ixo, -ix, -ixen, -isca. In Eastern Catalan, the inchoative desinences for verbs are -eixo, -eix, -eixen, -eixi.
+In Western Catalan, the /n/ of medieval plurals in proparoxytone nouns and adjectives is maintained. For example, hòmens 'men', jóvens 'youth'. In Eastern Catalan, the /n/ of medieval plurals in proparoxytone nouns and adjectives is lost. For example, homes 'men', joves 'youth'.
+
+Vocabulary
+Despite its relative lexical unity, the two dialectal blocks of Catalan (Eastern and Western) show some differences in word choices. Any lexical divergence within any of the two groups can be explained as an archaism. Also, usually [Central Catalan](4393) acts as an innovative element.
+
+References
+Bibliography
+Books
+Carbonell, Joan F.; Llisterri, Joaquim (1999). "Catalan". Handbook of the International Phonetic Association: A Guide to the Usage of the International Phonetic Alphabet. Cambridge: Cambridge University Press. pp. 54–55. ISBN 978-0-521-63751-0.
+Costa Carreras, Joan; Yates, Alan (2009). The Architect of Modern Catalan: Selected Writings/Pompeu Fabra (1868–1948). Instutut d'Estudis Catalans & Universitat Pompeu Fabra & Jonh Benjamins B.V. ISBN 978-90-272-3264-9.
+Feldhausen, Ingo (2010). Sentential Form and Prosodic Structure of Catalan. John Benjamins B.V. ISBN 978-90-272-5551-8.
+Ferrater; et al. (1973). "Català". Enciclopèdia Catalana (in Catalan). Vol. 4 (1977, corrected ed.). Barcelona: Enciclopèdia Catalana. pp. 628–639. ISBN 84-85-194-04-7.
+Melchor, Vicent de; Branchadell, Albert (2002). El catalán: una lengua de Europa para compartir (in Spanish). Bellaterra: Universitat Autònoma de Barcelona. ISBN 84-490-2299-1.
+Moll, Francesc de B. (2006) 1958. Gramàtica Històrica Catalana (in Catalan) (Catalan ed.). Universitat de València. ISBN 978-84-370-6412-3.
+Pons i Griera, Lídia. Iodització i apitxament al Vallès (in Catalan).
+Recasens i Vives, Daniel (1996). Fonètica descriptiva del català: assaig de caracterització de la pronúncia del vocalisme i el consonantisme català al segle XX (2nd ed.). Barcelona: Institut d'Estudis Catalans. ISBN 9788472833128.
+Saborit i Vilar, Josep (2009). Millorem la pronúncia. [Acadèmia Valenciana de la Llengua](4204).
+Veny i Clar, Joan (1983). Els parlars catalans (in Catalan). Palma: Moll. ISBN 9788427304222.
+Wheeler, Max (2005). The Phonology of Catalan. Oxford: Oxford University Press. ISBN 978-0-19-925814-7.
+Web sites
+"Acord de l'[Acadèmia Valenciana de la Llengua](4204) (AVL), adoptat en la reunió plenària del 9 de febrer del 2005, pel qual s'aprova el dictamen sobre els principis i criteris per a la defensa de la denominació i l'entitat del valencià" (PDF). Archived from the original (PDF) on 23 September 2015. Retrieved 28 September 2014 – via avl.gva.es.
+"[Catalan language](4201). Ethnologue".
+"El català continental distingeix els fonemes vocàlics accentuats è oberta de mots com "mel", i é tancada de mots com "vent"" (in Catalan). Diccionari català-valencià-balear (DCVB).
+"Rodamots. «Català peninsular» o millor «català continental»?" (in Catalan).
+"Xarxa CRUSCAT" (in Catalan). Institut d'Estudis Catalans (IEC).

@@ -1,0 +1,26 @@
+499
+Bicosoecida
+Bicosoecida (ICZN) or Bicosoecales/Bicoecea (ICBN) is an order of Bikosea, a small group of unicellular flagellates, included among the stramenopiles. Informally known as bicosoecids, they are free-living cells, with no chloroplasts, and in some genera are encased in a lorica.
+The name of the type genus Bicosoeca described by James-Clark in 1866 is derived from Greek roots (bikos, vase, bowl, plus oekein, inhabit). The philologically preferable compound would be Bicoeca, as "corrected" by Stein in 1878 and followed by most subsequent authors. However, according to the ICBN and ICZN, the original spelling of the name cannot be considered incorrect and it must be used in its original form.
+The group was formerly considered to be related to the Chrysophyceae.
+Some authors use the vernacular term "bicosoecid" (or "bicoecid") in a narrower sense, only for Bicosoeca, applying "bicoeceans" to Bicosoeca and related groups like Cafeteria.
+With the advent of using molecular phylogenies to resolve relationships of many eukaryotes the original circumscription of bicosoecids has been greatly expanded upon to include other orders and the rank has changed from an order to a class.
+
+Morphology
+Classification
+Family Labromonadidae Cavalier-Smith 2006
+Labromonas Cavalier-Smith 2006
+Family Bicosoecaceae Ritter von Stein 1878
+Poteriodendron Stein 1878
+Bicosoeca Clark 1866
+Hedraeophysa Kent 1880
+Symbiomonas Guillou & Chrétiennot-Dinet 1999
+Family Cafeteriaceae Moestrup 1995
+Cafeteria Fenchel & Patterson 1988
+
+References
+Bibliography
+Hibberd, D. J. (1986). Ultrastructure of the Chrysophyceae. Colorless forms. p. 29-30 In: Chrysophytes: Aspects and Problems. Kristiansen, J. and R.A. Andersen Eds.. Cambridge University Press, Cambridge.
+
+External links
+ Data related to Bicosoecida at Wikispecies

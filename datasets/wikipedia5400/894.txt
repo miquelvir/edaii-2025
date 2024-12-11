@@ -1,0 +1,11 @@
+894
+Codelobster
+Codelobster is a portable integrated development environment (IDE) primarily for PHP, which also supports HTML, CSS, and JavaScript development. Plug-ins are available for Drupal, WordPress, Smarty, Joomla, JQuery, Facebook, Codeigniter, Yii, and CakePHP. 
+Free registration by email is required after 30 days of use of the program, and there are paid versions also ("Lite" and "Professional") for additional features. The program is missing a help system as of its latest version. There is also special "PHP edition" distro only for Windows, that was not updated since 2019.
+The program features syntax highlighting and auto-completion for SQL, PHP, HTML, CSS, JavaScript, and XML, as well as automatic syntax checking. There is an HTML and CSS inspector like Firebug. It also includes Drupal support. All plugins are paid, but they offer trial periods of varying length.
+
+References
+External links
+Codelobster Official Website
+WordPress Event Calendar Plugins
+A functional overview of Codelobster

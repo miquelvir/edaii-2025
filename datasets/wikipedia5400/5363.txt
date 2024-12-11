@@ -1,0 +1,114 @@
+5363
+Astronomical basis of the Hindu calendar
+The Hindu calendar is based on a geocentric model of the Solar System. A geocentric model describes the Solar System as seen by an observer on the surface of the Earth. 
+The Hindu calendar defines nine measures of time (Sanskrit: मान IAST:māna):
+
+brāhma māna
+divya māna
+pitraya māna
+prājāpatya māna
+guror māna
+saura māna
+sāvana māna
+candra māna
+nākṣatra māna
+Of these, only the last four are in active use and are explained here.
+
+Candra māna
+The candra māna (Sanskrit: चन्द्र मान) of the Hindu calendar is defined based on the movement of the Moon around the Earth. The new moon (Sanskrit: अमावास्य, romanized: amāvāsya) and full moon (Sanskrit: पूर्णिमा, romanized: pūrṇimā) are important markers in this calendar.
+The candra māna of the Hindu calendar defines the following synodic calendar elements:
+
+Pakṣa
+A pakṣa (Sanskrit: पक्ष) is the time taken by the Moon to move from a new moon to a full moon and vice versa. The waxing phase of the moon is known as the bright side (Sanskrit: शुक्ल पक्ष, romanized: śukla pakṣa) and the waning phase is known as the dark side (Sanskrit: कृष्ण पक्ष, romanized: kṛṣṇa pakṣa). During a pakṣa, the Moon advances 180° with respect to the Earth-Sun axis.
+
+Candramāsa
+A cāndramāsa (Sanskrit: चन्द्रमास) is the time taken by the moon to move from a new moon to the next new moon (as per the amānta Sanskrit: अमान्त tradition) or a full moon to the next full moon (as per the pūrṇimānta Sanskrit: पूर्णिमान्त tradition). In other words a cāndramāsa is the synodic period of the Moon, or two pakṣas. During a cāndramāsa, the Moon advances 360° with respect to the Earth-Sun axis.
+
+Candra māna varṣa
+A candra māna varṣa or lunar year is made up of 12 consecutive candramāsa. These twelve candramāsa are designated by unique names caitra, vaiśākha, etc.
+In some instances an additional candramāsa, known as an adhikamāsa, is added to synchronise the candra māna varṣa with the solar year or saura māna varṣa.
+
+Tithi
+A tithi (Sanskrit: तिथि) is the time taken by the Moon to advance 12° with respect to the Earth-Sun axis. In other words a tithi is the time taken for the Moon's elongation (on the ecliptic plane) to increase by 12°. A tithi is one fifteenth of a pakṣa and one thirtieth of a cāndramāsa. A tithi corresponds to the concept of a lunar day.
+Tithi have Sanskrit numbers according by their position in the pakṣa, i.e. prathama (first), dvitīya (second) etc. The fifteenth, that is, the last tithi of a kṛṣṇa pakṣa is called amāvāsya (new moon) and the fifteenth tithi of a śukla pakṣa is called pūrṇimā (full moon).
+
+Saura māna
+The saura māna (Sanskrit: सौर मान) of the Hindu calendar is defined by the movement of the Earth around the Sun. It contains sidereal (Sanskrit: निरयन; nirayana) and tropical (Sanskrit: सायन; sāyana) elements.
+
+Sidereal elements
+A saura māna varṣa or sidereal year is the time taken by the Sun to orbit the Earth once and return to the starting point with respect to the fixed stars. The starting point is taken to be the position of the Sun when it is in opposition to Spica (Sanskrit: चित्रा, romanized: citrā)..
+A rāśi (Sanskrit: राशि) is a 30° arc of the orbit of the Sun around the Earth (i.e an arc of the ecliptic). Starting in the vicinity of Zeta Piscium (IAST: revatī), the twelve (i.e. 360° divided by 30°) rāśi are designated meṣa (Sanskrit: मेष), vṛṣabha (Sanskrit: वृषभ) etc.  A sauramāsa (Sanskrit: सौरमास) is the time taken by the Sun to traverse a rāśi. Sauramāsa get their names from the corresponding rāśi. sauramāsa corresponds to the concept of a month.  The moment in time when the Sun enters a rāśi is known as a saṅkramaṇa (Sanskrit: सङ्क्रमण) or saṅkrānti (Sanskrit: सङ्क्रान्ति).
+
+Tropical elements
+These time periods are defined based on the solstices (Sanskrit: अयन; IAST: ayana) and equinoxes (Sanskrit: विषुवत्; IAST: viṣuvat).
+The time taken by the Sun to move from the winter solstice to the summer solstice is known as northward movement (Sanskrit: उत्तरायण, romanized: uttarāyaṇa) and time taken by the Sun to move from the summer solstice to the winter solstice is called southward movement Sanskrit: दक्षिणायन, romanized: dakṣiṇāyana. Due to the axial tilt of the Earth, the Sun appears to move towards the north from the Tropic of Capricorn to the Tropic of Cancer during uttarāyaṇa, and towards the south from the tropic of Cancer to the tropic of Capricorn during dakṣiṇāyana.
+The time taken by the Sun to move from the spring equinox (ecliptic longitude 0°) to the autumnal equinox (ecliptic longitude 180°) is known as devayāna (Sanskrit: देवयान). The time taken by the Sun to move from the autumnal equinox to the spring equinox is designated as pitṛyāṇa (Sanskrit: पितृयाण). Due to the axial tilt of the Earth, the Sun appears to be in the north celestial sphere during devayāna and the south celestial sphere during pitṛyāṇa. In Hindu tradition, the north celestial sphere is consecrated to the gods (deva) and the south celestial sphere is consecrated to the ancestors (pitṛ). Devayāna and pitṛyāṇa are not in active calendric use any longer but do form the basis for pitṛpakṣa.
+
+A ṛtu (Sanskrit: ऋतु) is the time taken by the Sun to move sixty degrees on its orbit around the Earth. Ṛtu corresponds to the concept of a season.
+The six ṛtu of the year are known as
+
+Śiśira ṛtu (winter)
+Vasanta ṛtu (spring)
+Grīṣma ṛtu (summer)
+Varṣā ṛtu the monsoon season, beginning at summer solstice
+Śarada ṛtu (autumn)
+Hemanta ṛtu (pre-winter)
+
+Nākṣatra māna
+Nākṣatra māna (Sanskrit: नाक्षत्र मान) is defined with respect to the fixed stars, so all elements are sidereal in nature. 
+
+A dina (Sanskrit: दिन) is the time taken by the celestial sphere to complete one sidereal rotation around the Earth. In reality, this movement is caused by the diurnal rotation of the Earth on its axis. This definition is not used in practice but is required for defining the following smaller units of time. Ā dina is ~4 minutes short of 24 hours.
+A ghaṭikā (Sanskrit: घटिका) or nāḍī (Sanskrit: नाडी) is one sixtieth of a nakṣatra dina, or just under 24 minutes.
+A vighaṭikā (Sanskrit: विघटिका) or vināḍī (Sanskrit: विनाडी) is one sixtieth of a ghaṭikā, or just under 24 seconds.
+A prāṇa (Sanskrit: प्राण) or asu (Sanskrit: असु) is one sixth of a vighaṭikā, or just under four seconds.
+
+Sāvana māna
+Sāvana māna (Sanskrit: सावन मान) of the Hindu calendar defines civil time.
+
+A dina (Sanskrit: दिन) is the time between two succeeding sunrises. dina corresponds to the concept of a solar day. The length of a dina varies with daytime length.
+
+Nakṣatra
+Apart from the four māna explained above, the concept of nakṣatra is an important characteristic of the Hindu calendar. This term has multiple meanings:
+
+A nakṣatra (Sanskrit: नक्षत्र) is a star.
+A nakṣatra is an asterism. One of the stars in the asterism is designated as its principal star (Sanskrit: योगतारा; IAST:yogatārā). There are twenty eight such nakṣatra and they are individually named. The name of a nakṣatra and its yogatārā are identical. For example, revatī is an asterism whose principal star is revatī (Zeta Piscium).
+A nakṣatra is a 13° 20' arc of the ecliptic. There are twenty seven such nakṣatra (i.e. 360° divided by 13° 20'). Starting in the vicinity of revatī (Zeta Piscium), they are named aśvinī, bharaṇī etc. These names are identical to the names of the asterisms that are located within the respective arc segments. For example, revatī refers to both an asterism and the arc segment within which the asterism is located.
+In calendric terms, a nakṣatra is the time taken by the Moon to traverse a nakṣatra (as defined in point 3). Hence, nakṣatra is a sidereal element (unlike the tithi which it is similar to) and corresponds to the concept of a day.
+
+Combining the different measures of time
+The four māna explained above are used in combination in the Hindu calendar.
+
+adhikamāsa
+
+As seen above, both the cāndra māna and saura māna of the calendar define a varṣa comprising twelve māsa, but the duration of the varṣa differ; the cāndra māna varṣa is shorter than the saura māna varṣa by about eleven sāvana dina. As a result, unless explicitly synchronised, these two parts of the calendar will diverge over time, as the cāndra māna varṣa will keep "falling behind" the saura māna varṣa.
+In order to synchronise these two parts of the calendar, an additional cāndramāsa is introduced into some cāndra māna varṣa. Such a cāndramāsa is referred to as adhikamāsa (Sanskrit: अधिकमास). A adhikamāsa takes its name from the name of the cāndramāsa which follows, viz. adhika āśvina precedes āśvina.
+Most times every cāndramāsa witnesses a saṅkramaṇa. If a cāndramāsa does not witness a saṅkramaṇa, that cāndramāsa is designated as a adhikamāsa thus resulting in the cāndra māna varṣa "catching up" with the saura māna varṣa. This happens approximately once every two and a half (solar) years.
+dina and tithi
+As seen above, both the cāndra  māna and sāvana māna of the calendar define the concept of a day as tithi and dina respectively. dina are not named and are not used for calendric purposes. The tithi takes precedence instead.
+Human life is regulated by the rising of the Sun and not by the movement of the Moon through a 12° arc. Hence, the position of the Moon at sunrise is used to determine the tithi prevailing at sunrise. This tithi is then associated with the entire sāvana dina.
+To illustrate: consider the Gregorian date 18th Sep 2021. Instead of referring to it as "2nd dina of  kanyā  masa" Hindus will refer to it as " bhādrapada māsa, śukla pakṣa, dvitiyā tithi", which is the tithi prevailing at sunrise on that sāvana dina. Even though the Moon moves into the trayodaśī arc soon after sunrise (at 6:54AM), that entire sāvana dina is considered to be dvādaśī tithi.
+
+adhika tithi and kṣaya tithi
+It is possible that two consecutive sunrises may have the same tithi, i.e. the Moon continues to remain within the same 12° arc across two consecutive sunrises. In such a case, two consecutive sāvana dina will be associated with the same tithi. The tithi associated with the second sāvana dina is referred to as a adhika (Sanskrit: अधिक) (additional) tithi.
+It is also possible that an entire tithi elapses between two sunrises, i.e. the Moon traverses a 12° arc in between two sunrises (it enters the arc after one sunrise and exits the arc before the next sunrise). In this such a case, neither sāvana dina will be associated with this tithi, i.e. this tithi will be skipped over in the calendar. Such a tithi is referred to as a kṣaya (Sanskrit: क्षय) (lost) tithi.
+Subdivisions of a sāvana dina
+Above that a nakṣatra dina is divided into ghaṭikā (of 24 modern minutes each) and vighaṭikā (of 24 modern seconds each). These same units are used to subdivide a savana dina using sunrise as the starting point, i.e. the first 24 minutes after sunrise constitute the first ghaṭikā, the next 24 minutes the second ghaṭikā and so on.
+pitṛpakṣa
+pitṛpakṣa (Sanskrit: पितृपक्ष) is a pakṣa during which the Sun crosses the equator and transitions overhead the southern hemisphere, i.e. the autumnal equinox occurs within pitṛpakṣa.
+bhādrapada māsa kṛṣṇa pakṣa is identified with pitṛpakṣa. This identification is not always correct. For instance, in the Gregorian year 2020, bhādrapada māsa kṛṣṇa pakṣa ended with the new moon on  17 September while autumnal equinox occurred five days later, on 22 September.
+
+See also
+Nirayana system
+
+Notes
+References
+Bibliography
+Burgess, Ebenezer (1935). Gangooly, Phanidarlal (ed.). Translation of the Surya Siddhanta – a text-book of Hindu astronomy (PDF). University of Calcutta.
+Ketkar, Venkatesh Bapuji (1923). "Indian and Foreign Chronology". Journal of the Asiatic Society of Bombay (75, Part 1). British Indian Press.
+Mercier, Raymond (2018). Astronomical Computations for the History of Indian Astronomy. New Delhi: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 978-81-215-1177-3.
+Tilak, Bal Gangadhar (1955). The Orion or Researches into the Antiquity of the Vedas (PDF). Tilak Bros.
+
+External links
+Ahargana - The Astronomy of the Hindu Calendar Explains the various calendric elements of the Hindu calendar by means of astronomical simulations created using Stellarium.
+drikPanchang, an online Hindu almanac (IAST: pañcāṅga).
+Stellarium, the astronomy software that was used to create the animations featured in this article.

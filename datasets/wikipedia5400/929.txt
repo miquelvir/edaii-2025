@@ -1,0 +1,15 @@
+929
+Cache-only memory architecture
+Cache only memory architecture (COMA) is a computer memory organization for use in multiprocessors in which the local memories (typically DRAM) at each node are used as cache.  This is in contrast to using the local memories as actual main memory, as in NUMA organizations.
+In NUMA, each address in the global address space is typically assigned a fixed home node.  When processors access some data, a copy is made in their local cache, but space remains allocated in the home node.  Instead, with COMA, there is no home.  An access from a remote node may cause that data to migrate.  Compared to NUMA, this reduces the number of redundant copies and may allow more efficient use of the memory resources.  On the other hand, it raises problems of how to find a particular data (there is no longer a home node) and what to do if a local memory fills up (migrating some data into the local memory then needs to evict some other data, which doesn't have a home to go to).  Hardware memory coherence mechanisms are typically used to implement the migration.
+A huge body of research has explored these issues.  Various forms of directories, policies for maintaining free space in the local memories, migration policies, and policies for read-only copies have been developed.  Hybrid NUMA-COMA organizations have also been proposed, such as Reactive NUMA, which allows pages to start in NUMA mode and switch to COMA mode if appropriate and is implemented in the Sun Microsystems's WildFire. A software-based Hybrid NUMA-COMA implementation was proposed and implemented by ScaleMP, allowing for the creation of a shared-memory multiprocessor system out of a cluster of commodity nodes.
+
+See also
+Non-uniform memory access
+Uniform memory access
+
+References
+
+Dahlgren, F.; Torrellas, J. (June 1999). "Cache-only memory architectures". Computer. 32 (6): 72–79. CiteSeerX 10.1.1.34.7679. doi:10.1109/2.769448.
+Hagersten, E.; Landin, A.; Haridi, S. (September 1992). "DDM-a cache-only memory architecture". Computer. 25 (9): 44–54. doi:10.1109/2.156381.
+Falsafi, Babak; Wood, David A. (June 1997). "Reactive NUMA: a design for unifying S-COMA and CC-NUMA". Proceedings of the 24th Annual International Symposium on Computer Architecture (ISCA). pp. 229–40.

@@ -1,0 +1,157 @@
+928
+CUDA
+In computing, CUDA (originally Compute Unified Device Architecture) is a proprietary parallel computing platform and application programming interface ([API](708)) that allows software to use certain types of graphics processing units (GPUs) for accelerated general-purpose processing, an approach called general-purpose computing on GPUs (GPGPU). CUDA [API](708) and its runtime: The CUDA [API](708) is an extension of the [C programming language](875) that adds the ability to specify thread-level parallelism in C and also to specify GPU device specific operations (like moving data between the CPU and the GPU). CUDA is a software layer that gives direct access to the GPU's virtual instruction set and parallel computational elements for the execution of compute kernels. In addition to drivers and runtime kernels, the CUDA platform includes compilers, libraries and developer tools to help programmers accelerate their applications.
+CUDA is designed to work with programming languages such as C, [C++](640), Fortran and Python. This accessibility makes it easier for specialists in parallel programming to use GPU resources, in contrast to prior [API](708)s like Direct3D and OpenGL, which require advanced skills in graphics programming. CUDA-powered GPUs also support programming frameworks such as OpenMP, OpenACC and OpenCL.
+CUDA was created by Nvidia in 2006. When it was first introduced, the name was an acronym for Compute Unified Device Architecture, but Nvidia later dropped the common use of the acronym and now rarely expands it.
+
+Background
+The graphics processing unit (GPU), as a specialized computer processor, addresses the demands of real-time high-resolution 3D graphics compute-intensive tasks. By 2012, GPUs had evolved into highly parallel multi-core systems allowing efficient manipulation of large blocks of data. This design is more effective than general-purpose central processing unit (CPUs) for algorithms in situations where processing large blocks of data is done in parallel, such as:
+
+cryptographic hash functions
+machine learning
+molecular dynamics simulations
+physics engines
+Ian Buck, while at Stanford in 2000, created an 8K gaming rig using 32 GeForce cards, then obtained a DARPA grant to perform general purpose parallel programming on GPUs. He then joined Nvidia, where since 2004 he has been overseeing CUDA development. In pushing for CUDA, Jensen Huang aimed for the Nvidia GPUs to become a general hardware for scientific computing. CUDA was released in 2006. Around 2015, the focus of CUDA changed to neural networks.
+
+Ontology
+The following table offers a non-exact description for the ontology of CUDA framework.
+
+Programming abilities
+The CUDA platform is accessible to software developers through CUDA-accelerated libraries, compiler directives such as OpenACC, and extensions to industry-standard programming languages including C, [C++](640), Fortran and Python. C/[C++](640) programmers can use 'CUDA C/[C++](640)', compiled to PTX with nvcc, Nvidia's LLVM-based C/[C++](640) compiler, or by clang itself. Fortran programmers can use 'CUDA Fortran', compiled with the PGI CUDA Fortran compiler from The Portland Group. Python programmers can use the cuNumeric library to accelerate applications on Nvidia GPUs.
+In addition to libraries, compiler directives, CUDA C/[C++](640) and CUDA Fortran, the CUDA platform supports other computational interfaces, including the Khronos Group's OpenCL, Microsoft's DirectCompute, OpenGL Compute Shader and [C++](640) AMP. Third party wrappers are also available for Python, Perl, Fortran, Java, Ruby, Lua, Common Lisp, Haskell, R, MATLAB, IDL, Julia, and native support in Mathematica.
+In the computer game industry, GPUs are used for graphics rendering, and for game physics calculations (physical effects such as debris, smoke, fire, fluids); examples include PhysX and Bullet. CUDA has also been used to accelerate non-graphical applications in computational biology, cryptography and other fields by an order of magnitude or more.
+CUDA provides both a low level [API](708) (CUDA Driver [API](708), non single-source) and a higher level [API](708) (CUDA Runtime [API](708), single-source). The initial CUDA SDK was made public on 15 February 2007, for Microsoft Windows and Linux. Mac OS X support was later added in version 2.0, which supersedes the beta released February 14, 2008. CUDA works with all Nvidia GPUs from the G8x series onwards, including GeForce, Quadro and the Tesla line. CUDA is compatible with most standard operating systems.
+CUDA 8.0 comes with the following libraries (for compilation & runtime, in alphabetical order):
+
+cuBLAS – CUDA Basic Linear Algebra Subroutines library
+CUDART – CUDA Runtime library
+cuFFT – CUDA Fast Fourier Transform library
+cuRAND – CUDA Random Number Generation library
+cuSOLVER – CUDA based collection of dense and sparse direct solvers
+cuSPARSE – CUDA Sparse Matrix library
+NPP – NVIDIA Performance Primitives library
+nvGRAPH – NVIDIA Graph Analytics library
+NVML – NVIDIA Management Library
+NVRTC – NVIDIA Runtime Compilation library for CUDA [C++](640)
+CUDA 8.0 comes with these other software components:
+
+nView – NVIDIA nView Desktop Management Software
+NVWMI – NVIDIA Enterprise Management Toolkit
+GameWorks PhysX – is a multi-platform game physics engine
+CUDA 9.0–9.2 comes with these other components:
+
+CUTLASS 1.0 – custom linear algebra algorithms,
+NVIDIA Video Decoder was deprecated in CUDA 9.2; it is now available in NVIDIA Video Codec SDK
+CUDA 10 comes with these other components:
+
+nvJPEG – Hybrid (CPU and GPU) JPEG processing
+CUDA 11.0–11.8 comes with these other components:
+
+CUB is new one of more supported [C++](640) libraries
+MIG multi instance GPU support
+nvJPEG2000 – JPEG 2000 encoder and decoder
+
+Advantages
+CUDA has several advantages over traditional general-purpose computation on GPUs (GPGPU) using graphics [API](708)s:
+
+Scattered reads – code can read from arbitrary addresses in memory.
+Unified virtual memory (CUDA 4.0 and above)
+Unified memory (CUDA 6.0 and above)
+Shared memory – CUDA exposes a fast shared memory region that can be shared among threads. This can be used as a user-managed cache, enabling higher bandwidth than is possible using texture lookups.
+Faster downloads and readbacks to and from the GPU
+Full support for integer and bitwise operations, including integer texture lookups
+
+Limitations
+Whether for the host computer or the GPU device, all CUDA source code is now processed according to [C++](640) syntax rules. This was not always the case. Earlier versions of CUDA were based on C syntax rules. As with the more general case of compiling C code with a [C++](640) compiler, it is therefore possible that old C-style CUDA source code will either fail to compile or will not behave as originally intended.
+Interoperability with rendering languages such as OpenGL is one-way, with OpenGL having access to registered CUDA memory but CUDA not having access to OpenGL memory.
+Copying between host and device memory may incur a performance hit due to system bus bandwidth and latency (this can be partly alleviated with asynchronous memory transfers, handled by the GPU's DMA engine).
+Threads should be running in groups of at least 32 for best performance, with total number of threads numbering in the thousands. Branches in the program code do not affect performance significantly, provided that each of 32 threads takes the same execution path; the SIMD execution model becomes a significant limitation for any inherently divergent task (e.g. traversing a space partitioning data structure during ray tracing).
+No emulation or fallback functionality is available for modern revisions.
+Valid [C++](640) may sometimes be flagged and prevent compilation due to the way the compiler approaches optimization for target GPU device limitations.
+[C++](640) run-time type information (RTTI) and [C++](640)-style exception handling are only supported in host code, not in device code.
+In single-precision on first generation CUDA compute capability 1.x devices, denormal numbers are unsupported and are instead flushed to zero, and the precision of both the division and square root operations are slightly lower than IEEE 754-compliant single precision math. Devices that support compute capability 2.0 and above support denormal numbers, and the division and square root operations are IEEE 754 compliant by default. However, users can obtain the prior faster gaming-grade math of compute capability 1.x devices if desired by setting compiler flags to disable accurate divisions and accurate square roots, and enable flushing denormal numbers to zero.
+Unlike OpenCL, CUDA-enabled GPUs are only available from Nvidia as it is proprietary. Attempts to implement CUDA on other GPUs include:
+Project Coriander: Converts CUDA [C++](640)11 source to OpenCL 1.2 C. A fork of CUDA-on-CL intended to run TensorFlow.
+CU2CL: Convert CUDA 3.2 [C++](640) to OpenCL C.
+[GPUOpen](998) HIP: A thin abstraction layer on top of CUDA and ROCm intended for AMD and Nvidia GPUs. Has a conversion tool for importing CUDA [C++](640) source. Supports CUDA 4.0 plus [C++](640)11 and float16.
+ZLUDA is a drop-in replacement for CUDA on AMD GPUs and formerly Intel GPUs with near-native performance. The developer, Andrzej Janik, was separately contracted by both Intel and AMD to develop the software in 2021 and 2022, respectively. However, neither company decided to release it officially due to the lack of a business use case. AMD's contract included a clause that allowed Janik to release his code for AMD independently, allowing him to release the new version that only supports AMD GPUs.
+chipStar can compile and run CUDA/HIP programs on advanced OpenCL 3.0 or Level Zero platforms.
+
+Example
+This example code in [C++](640) loads a texture from an image into an array on the GPU:
+
+Below is an example given in Python that computes the product of two arrays on the GPU. The unofficial Python language bindings can be obtained from PyCUDA.
+
+Additional Python bindings to simplify matrix multiplication operations can be found in the program pycublas.
+
+while CuPy directly replaces NumPy:
+
+GPUs supported
+Supported CUDA Compute Capability versions for CUDA SDK version and Microarchitecture (by code name):
+
+Note: CUDA SDK 10.2 is the last official release for macOS, as support will not be available for macOS in newer releases.
+CUDA Compute Capability by version with associated GPU semiconductors and GPU card models (separated by their various application areas):
+
+'*' – OEM-only products
+
+Version features and specifications
+Data types
+Note: Any missing lines or empty entries do reflect some lack of information on that exact item.
+
+Tensor cores
+Note: Any missing lines or empty entries do reflect some lack of information on that exact item.
+
+Technical specification
+Multiprocessor architecture
+For more information read the Nvidia CUDA programming guide.
+
+Current and future usages of CUDA architecture
+Accelerated rendering of 3D graphics
+Accelerated interconversion of video file formats
+Accelerated encryption, decryption and compression
+Bioinformatics, e.g. NGS DNA sequencing BarraCUDA
+Distributed calculations, such as predicting the native conformation of proteins
+Medical analysis simulations, for example virtual reality based on CT and MRI scan images
+Physical simulations, in particular in fluid dynamics
+Neural network training in machine learning problems
+Large Language Model inference
+Face recognition
+Volunteer computing projects, such as SETI@home and other projects using BOINC software
+Molecular dynamics
+Mining cryptocurrencies
+Structure from motion (SfM) software
+
+Comparison with competitors
+CUDA competes with other GPU computing stacks: Intel One[API](708) and AMD ROCm.
+Whereas Nvidia's CUDA is closed-source, Intel's One[API](708) and AMD's ROCm are open source.
+
+Intel One[API](708)
+one[API](708) is an initiative based in open standards, created to support software development for multiple hardware architectures. The one[API](708) libraries must implement open specifications that are discussed publicly by the Special Interest Groups, offering the possibility for any developer or organization to implement their own versions of one[API](708) libraries.
+Originally made by Intel, other hardware adopters include Fujitsu and Huawei.
+
+Unified Acceleration Foundation (UXL)
+Unified Acceleration Foundation (UXL) is a new technology consortium working on the continuation of the One[API](708) initiative, with the goal to create a new open standard accelerator software ecosystem,  related open standards and specification projects through Working Groups and Special Interest Groups (SIGs). The goal is to offer open alternatives to Nvidia's CUDA. The main companies behind it are Intel, Google, ARM, Qualcomm, Samsung, Imagination, and VMware.
+
+AMD ROCm
+ROCm is an open source software stack for graphics processing unit (GPU) programming from Advanced Micro Devices (AMD).
+
+See also
+SYCL – an open standard from Khronos Group for programming a variety of platforms, including GPUs, with single-source modern [C++](640), similar to higher-level CUDA Runtime [API](708) (single-source)
+BrookGPU – the Stanford University graphics group's compiler
+Array programming
+Parallel computing
+Stream processing
+rCUDA – an [API](708) for computing on remote computers
+Molecular modeling on GPUs
+Vulkan – low-level, high-performance 3D graphics and computing [API](708)
+OptiX – ray tracing [API](708) by NVIDIA
+CUDA binary (cubin) – a type of fat binary
+Numerical Library Collection – by NEC for their vector processor
+
+References
+Further reading
+Buck, Ian; Foley, Tim; Horn, Daniel; Sugerman, Jeremy; Fatahalian, Kayvon; Houston, Mike; Hanrahan, Pat (2004-08-01). "Brook for GPUs: stream computing on graphics hardware". ACM Transactions on Graphics. 23 (3): 777–786. doi:10.1145/1015706.1015800. ISSN 0730-0301.
+Nickolls, John; Buck, Ian; Garland, Michael; Skadron, Kevin (2008-03-01). "Scalable Parallel Programming with CUDA: Is CUDA the parallel programming model that application developers have been waiting for?". Queue. 6 (2): 40–53. doi:10.1145/1365490.1365500. ISSN 1542-7730.
+
+External links
+Official website

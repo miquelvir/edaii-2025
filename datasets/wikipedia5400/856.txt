@@ -1,0 +1,18 @@
+856
+C*
+C* (or C-star) is a data-parallel superset of [ANSI C](803) with synchronous semantics.
+
+History
+It was developed in 1987 as an alternative language to *Lisp and CM-Fortran for the Connection Machine CM-2 and above. The language C* adds to C a "domain" data type and a selection statement for parallel execution in domains.
+For the CM-2 models the C* compiler translated the code into serial C, calling PARIS (Parallel Instruction Set) functions, and passed the resulting code to the front end computer's native compiler. The resulting executables were executed on the front end computer with PARIS calls being executed on the Connection Machine.
+On the CM-5 and CM-5E parallel C* Code was executed in a SIMD style fashion on processing elements, whereas serial code was executed on the PM (Partition Manager) Node, with the PM acting as a "front end" if directly compared to a CM-2.
+The latest version of C* as of 27 August 1993 is 6.x.
+An unimplemented language dubbed "Parallel C" (not to be confused with Unified Parallel C) influenced the design of C*. Dataparallel-C was based on C*.
+
+References
+General
+C*: An Extended C Language for Data Parallel Programming, John R. Rose and Guy L. Steele, Jr., in Proceedings of the Second International Conference on Supercomputing, vol. II, L. P. Kartashev et al. eds, May 1987, pp 2–16.
+C* User Guide, Thinking Machines Corporation, 1991
+C* Programming Manual, Thinking Machines Corporation, 1993.
+The Art of Parallel Programming (2nd Ed.), B. P. Lester, 1st World Publishing, 2006.  (A downloadable version of the "C* Compiler and Parallel Computer Simulation System" is available at the publisher's Web site.)
+C*, Guy L. Steele, Jr., in Encyclopedia of Parallel Computing, D. Padua, ed., Springer, 2011, pp 207–212.

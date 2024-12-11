@@ -1,0 +1,35 @@
+724
+Anaconda (installer)
+Anaconda is a free and open-source system installer for Linux distributions.
+Anaconda is used by Red Hat Enterprise Linux, Oracle Linux, Scientific Linux, Rocky Linux, AlmaLinux, CentOS, MIRACLE LINUX, Qubes OS, Fedora, Sabayon Linux and BLAG Linux and GNU, also in some less known and discontinued distros like Progeny Componentized Linux, Asianux, Foresight Linux, Rpath Linux and VidaLinux.
+
+Functionality
+Anaconda offers a text-mode and GUI mode, so users can install on a wide range of systems. It is designed to be easily portable and supports a wide range of hardware platforms (IA-32, Itanium, DEC Alpha, IBM ESA/390, PowerPC, ARMv8). It supports installing from local storage devices like CD-ROM drives and harddisks as well as from network resources via FTP, HTTP, or NFS. Installations can be automated with the use of a kickstart file, that automatically configures the installation, allowing users to run it with minimal supervision. Before starting the OS installation process, the installer checks the system hardware and resource requirements. Only if the requirements are satisfied does it start the installation process.
+
+Technology
+It is mainly written in Python with some modules written in C. It has a graphical frontend that is based on GTK+ 3/PyGObject and designed with the Glade Interface Designer. Anaconda also has a custom text frontend with support for computers with line printer like terminals, such as the IBM ESA/390 mainframes. A future update will introduce a Firefox based Web UI, replacing the currect GTK+ 3 based GUI.
+
+Under the hood
+The Anaconda installer provides various useful tools and commands for both users with specific installation needs as well as for debugging issues with the installer itself or OS installation in general.
+Anaconda supports a rich set of options  that can be passed to the boot command line to influence installation behaviour. There is also a root shell running on TTY2 available for the user to inspect the installation environment during the installation run.
+There are also various useful files in the installation environment:
+
+/tmp/anaconda.log - contains Anaconda related log messages (Anaconda also logs to journal)
+/root/lorax-packages.log - contains a list of names and versions of all packages that have been used to create the installation image
+/mnt/install/ks.cfg contains the kickstart used for the installation run (if any)
+After a successful installation, Anaconda stores various important files from the installation run on the system itself. This makes it possible to check how the system was installed even at a later time.
+
+installation logs are stored in /var/log/anaconda
+a kickstart file describing option selected during the installation run is stored in /root/anaconda-ks.cfg
+The anaconda-ks.cfg file found on a system can be used (possibly with small changes) to install a very similar system again.
+
+See also
+Calamares
+YaST
+Debian-Installer
+Ubiquity
+
+References
+External links
+
+Official website

@@ -1,0 +1,78 @@
+750
+Berkeley Software Distribution
+The Berkeley Software Distribution or Berkeley Standard Distribution ([BSD](750)) is a discontinued operating system based on Research Unix, developed and distributed by the Computer Systems Research Group (CSRG) at the University of California, Berkeley. Since the original has become obsolete, the term "[BSD](750)" is commonly used for its open-source descendants, including Free[BSD](750), Open[BSD](750), Net[BSD](750), and DragonFly [BSD](750).
+[BSD](750) was initially called Berkeley Unix because it was based on the source code of the original Unix developed at Bell Labs. In the 1980s, [BSD](750) was widely adopted by workstation vendors in the form of proprietary Unix variants such as DEC Ultrix and Sun Microsystems SunOS due to its permissive licensing and familiarity to many technology company founders and engineers. These proprietary [BSD](750) derivatives were largely superseded in the 1990s by UNIX SVR4 and OSF/1.
+Later releases of [BSD](750) provided the basis for several open-source operating systems including Free[BSD](750), Open[BSD](750), Net[BSD](750), DragonFly [BSD](750), Darwin and TrueOS. These, in turn, have been used by proprietary operating systems, including Apple's macOS and iOS, which derived from them and Microsoft Windows (since at least 2000 and XP), which used (at least) part of its TCP/IP code, which was legal. Code from Free[BSD](750) was also used to create the operating systems for the PlayStation 5, PlayStation 4, PlayStation 3, PlayStation Vita, and Nintendo Switch.
+
+History
+The earliest distributions of Unix from Bell Labs in the 1970s included the source code to the operating system, allowing researchers at universities to modify and extend Unix. The operating system arrived at Berkeley in 1974, at the request of computer science professor Bob Fabry who had been on the program committee for the Symposium on Operating Systems Principles where Unix was first presented. A PDP-11/45 was bought to run the system, but for budgetary reasons, this machine was shared with the mathematics and statistics groups at Berkeley, who used RSTS, so that Unix only ran on the machine eight hours per day (sometimes during the day, sometimes during the night). A larger PDP-11/70 was installed at Berkeley the following year, using money from the Ingres database project.
+[BSD](750) began life as a variant of Unix that programmers at the University of California at Berkeley, initially led by Bill Joy, began developing in the late 1970s.
+It included extra features, which were intertwined with code owned by AT&T.
+In 1975, Ken Thompson took a sabbatical from Bell Labs and came to Berkeley as a visiting professor. He helped to install Version 6 Unix and started working on a Pascal implementation for the system. Graduate students Chuck Haley and Bill Joy improved Thompson's Pascal and implemented an improved text editor, ex. Other universities became interested in the software at Berkeley, and so in 1977 Joy started compiling the first Berkeley Software Distribution (1[BSD](750)), which was released on March 9, 1978. 1[BSD](750) was an add-on to Version 6 Unix rather than a complete operating system in its own right. Some thirty copies were sent out.
+The second Berkeley Software Distribution (2[BSD](750)), released in May 1979, included updated versions of the 1[BSD](750) software as well as two new programs by Joy that persist on Unix systems to this day: the vi text editor (a visual version of ex) and the C shell. Some 75 copies of 2[BSD](750) were sent out by Bill Joy.
+
+A VAX computer was installed at Berkeley in 1978, but the port of Unix to the VAX architecture, UNIX/32V, did not take advantage of the VAX's virtual memory capabilities. The kernel of 32V was largely rewritten to include Berkeley graduate student Özalp Babaoğlu's virtual memory implementation, and a complete operating system including the new kernel, ports of the 2[BSD](750) utilities to the VAX, and the utilities from 32V was released as 3[BSD](750) at the end of 1979. 3[BSD](750) was also alternatively called Virtual VAX/UNIX or VMUNIX (for Virtual Memory Unix), and [BSD](750) kernel images were normally called /vmunix until 4.4[BSD](750).
+
+After 4.3[BSD](750) was released in June 1986, it was determined that [BSD](750) would move away from the aging VAX platform. The Power 6/32 platform (codenamed "Tahoe") developed by Computer Consoles Inc. seemed promising at the time, but was abandoned by its developers shortly thereafter. Nonetheless, the 4.3[BSD](750)-Tahoe port (June 1988) proved valuable, as it led to a separation of machine-dependent and machine-independent code in [BSD](750) which would improve the system's future portability.
+In addition to portability, the CSRG worked on an implementation of the OSI network protocol stack, improvements to the kernel virtual memory system and (with Van Jacobson of LBL) new TCP/IP algorithms to accommodate the growth of the Internet.
+Until then, all versions of [BSD](750) used proprietary AT&T Unix code, and were therefore subject to an AT&T software license. Source code licenses had become very expensive and several outside parties had expressed interest in a separate release of the networking code, which had been developed entirely outside AT&T and would not be subject to the licensing requirement. This led to Networking Release 1 (Net/1), which was made available to non-licensees of AT&T code and was freely redistributable under the terms of the [BSD](750) license. It was released in June 1989.
+After Net/1, [BSD](750) developer Keith Bostic proposed that more non-AT&T sections of the [BSD](750) system be released under the same license as Net/1. To this end, he started a project to reimplement most of the standard Unix utilities without using the AT&T code. Within eighteen months, all of the AT&T utilities had been replaced, and it was determined that only a few AT&T files remained in the kernel. These files were removed, and the result was the June 1991 release of Networking Release 2 (Net/2), a nearly complete operating system that was freely distributable.
+Net/2 was the basis for two separate ports of [BSD](750) to the Intel 80386 architecture: the free 386[BSD](750) by William and Lynne Jolitz, and the proprietary [BSD](750)/386 (later renamed [BSD](750)/OS) by Berkeley Software Design ([BSD](750)i). 386[BSD](750) itself was short-lived, but became the initial code base of the Net[BSD](750) and Free[BSD](750) projects that were started shortly thereafter.
+[BSD](750)i soon found itself in legal trouble with AT&T's Unix System Laboratories (USL) subsidiary, then the owners of the System V copyright and the Unix trademark. The USL v. [BSD](750)i lawsuit was filed in 1992 and led to an injunction on the distribution of Net/2 until the validity of USL's copyright claims on the source could be determined. The lawsuit slowed development of the free-software descendants of [BSD](750) for nearly two years while their legal status was in question, and as a result systems based on the Linux kernel, which did not have such legal ambiguity, gained greater support. The lawsuit was settled in January 1994, largely in Berkeley's favor. Of the 18,000 files in the Berkeley distribution, only three had to be removed and 70 modified to show USL copyright notices. A further condition of the settlement was that USL would not file further lawsuits against users and distributors of the Berkeley-owned code in the upcoming 4.4[BSD](750) release.
+The final release from Berkeley was 1995's 4.4[BSD](750)-Lite Release 2, after which the CSRG was dissolved and development of [BSD](750) at Berkeley ceased. Since then, several variants based directly or indirectly on 4.4[BSD](750)-Lite (such as Free[BSD](750), Net[BSD](750), Open[BSD](750) and DragonFly [BSD](750)) have been maintained.
+The permissive nature of the [BSD](750) license has allowed many other operating systems, both open-source and proprietary, to incorporate [BSD](750) source code. For example, Microsoft Windows used [BSD](750) code in its implementation of TCP/IP and bundles recompiled versions of [BSD](750)'s command-line networking tools since Windows 2000. Darwin, the basis for Apple's macOS and iOS, is based on 4.4[BSD](750)-Lite2 and Free[BSD](750). Various commercial Unix operating systems, such as Solaris, also incorporate [BSD](750) code.
+
+Relationship to Research Unix
+Starting with the 8th Edition, versions of Research Unix at Bell Labs had a close relationship to [BSD](750). This began when 4.1c[BSD](750) for the VAX was used as the basis for Research Unix 8th Edition. This continued in subsequent versions, such as the 9th Edition, which incorporated source code and improvements from 4.3[BSD](750). The result was that these later versions of Research Unix were closer to [BSD](750) than they were to System V. In a Usenet posting from 2000, Dennis Ritchie described this relationship between [BSD](750) and Research Unix:
+
+Research Unix 8th Edition started from (I think) [BSD](750) 4.1c, but with enormous amounts scooped out and replaced by our own stuff. This continued with 9th and 10th. The ordinary user command-set was, I guess, a bit more [BSD](750)-flavored than SysVish, but it was pretty eclectic.
+
+Relationship to System V
+Eric S. Raymond summarizes the longstanding relationship between System V and [BSD](750), stating, "The divide was roughly between longhairs and shorthairs; programmers and technical people tended to line up with Berkeley and [BSD](750), more business-oriented types with AT&T and System V."
+In 1989, David A. Curry wrote about the differences between [BSD](750) and System V. He characterized System V as being often regarded as the "standard Unix." However, he described [BSD](750) as more popular among university and government computer centers, due to its advanced features and performance:
+
+Most university and government computer centers that use UNIX use Berkeley UNIX, rather than System V. There are several reasons for this, but perhaps the two most significant are that Berkeley UNIX provides networking capabilities that until recently (Release 3.0) were completely unavailable in System V, and that Berkeley UNIX is much more suited to a research environment, which requires a faster file system, better virtual memory handling, and a larger variety of programming languages.
+
+Technology
+Berkeley sockets
+Berkeley's Unix was the first Unix to include libraries supporting the Internet Protocol stacks: Berkeley sockets. A Unix implementation of IP's predecessor, the ARPAnet's NCP, with FTP and Telnet clients, had been produced at the University of Illinois in 1975, and was available at Berkeley. However, the memory scarcity on the PDP-11 forced a complicated design and performance problems.
+By integrating sockets with the Unix operating system's file descriptors, it became almost as easy to read and write data across a network as it was to access a disk. The AT&T laboratory eventually released their own STREAMS library, which incorporated much of the same functionality in a software stack with a different architecture, but the wide distribution of the existing sockets library reduced the impact of the new [API](708). Early versions of [BSD](750) were used to form Sun Microsystems' SunOS, founding the first wave of popular Unix workstations.
+
+Binary compatibility
+Some [BSD](750) operating systems can run native software of several other operating systems on the same architecture, using a binary compatibility layer. This is much simpler and faster than emulation; for example, it allows applications intended for Linux to be run at effectively full speed. This makes [BSD](750)s not only suitable for server environments, but also for workstation ones, given the increasing availability of commercial or closed-source software for Linux only. This also allows administrators to migrate legacy commercial applications, which may have only supported commercial Unix variants, to a more modern operating system, retaining the functionality of such applications until they can be replaced by a better alternative.
+
+Standards
+Current [BSD](750) operating system variants support many of the common IEEE, ANSI, ISO, and POSIX standards, while retaining most of the traditional [BSD](750) behavior. Like AT&T Unix, the [BSD](750) kernel is monolithic, meaning that device drivers in the kernel run in privileged mode, as part of the core of the operating system.
+
+[BSD](750) descendants
+Several operating systems are based on [BSD](750), including Free[BSD](750), Open[BSD](750), Net[BSD](750), Midnight[BSD](750), MirOS [BSD](750), Ghost[BSD](750), Darwin and DragonFly [BSD](750). Both Net[BSD](750) and Free[BSD](750) were created in 1993. They were initially derived from 386[BSD](750) (also known as "Jolix"), and merged the 4.4[BSD](750)-Lite source code in 1994. Open[BSD](750) was forked from Net[BSD](750) in 1995, and DragonFly [BSD](750) was forked from Free[BSD](750) in 2003.
+[BSD](750) was also used as the basis for several proprietary versions of Unix, such as Sun's SunOS, Sequent's DYNIX, NeXT's NeXTSTEP, DEC's Ultrix and OSF/1 AXP (now Tru64 UNIX). NeXTSTEP later became the foundation for Apple Inc.'s macOS.
+
+See also
+[BSD](750) Daemon
+[BSD](750) licenses
+Comparison of [BSD](750) operating systems
+List of [BSD](750) operating systems
+Lumina (desktop environment)
+Unix wars
+
+References
+Bibliography
+Marshall K. McKusick, Keith Bostic, Michael J. Karels, John S. Quartermain, The Design and Implementation of the 4.4[BSD](750) Operating System (Addison Wesley, 1996; ISBN 978-0-201-54979-9)
+Marshall K. McKusick, George V. Neville-Neil, The Design and Implementation of the Free[BSD](750) Operating System (Addison Wesley, August 2, 2004; ISBN 978-0-201-70245-3)
+Samuel J. Leffler, Marshall K. McKusick, Michael J. Karels, John S. Quarterman, The Design and Implementation of the 4.3[BSD](750) UNIX Operating System (Addison Wesley, November 1989; ISBN 978-0-201-06196-3)
+McKusick, Marshall Kirk (January 1999). "Twenty Years of Berkeley Unix – From AT&T-Owned to Freely Redistributable". In DiBona, Chris; Ockman, Sam; Stone, Mark (eds.). Open Sources: Voices from the Revolution (first ed.). O'Reilly. ISBN 978-1-56592-582-3.
+Peter H. Salus, The Daemon, the GNU & The Penguin (Reed Media Services, September 1, 2008; ISBN 978-0-9790342-3-7)
+Peter H. Salus, A Quarter Century of UNIX (Addison Wesley, June 1, 1994; ISBN 978-0-201-54777-1)
+Peter H. Salus, Casting the Net (Addison-Wesley, March 1995; ISBN 978-0-201-87674-1)
+
+External links
+A timeline of [BSD](750) and Research UNIX
+UNIX History – History of UNIX and [BSD](750) using diagrams
+The Design and Implementation of the 4.4[BSD](750) Operating System
+The Unix Tree:  Source code and manuals for old versions of Unix
+Euro[BSD](750)Con, an annual event in Europe in September, October or November, founded Archived June 20, 2020, at the Wayback Machine in 2001
+[BSD](750)Can, a conference in Ottawa, Ontario, Canada, held annually in May since 2004, in June since 2015
+Asia[BSD](750)Con, a conference in Tokyo, held annually in March of each year, since 2007
+mdoc.su – short manual page URLs for Free[BSD](750), Open[BSD](750), Net[BSD](750) and DragonFly [BSD](750), a web-service written in nginx
+BXR.SU – Super User's [BSD](750) Cross Reference, a userland and kernel source code search engine based on OpenGrok and nginx

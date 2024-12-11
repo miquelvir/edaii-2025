@@ -1,0 +1,19 @@
+2759
+Ecocrop
+Ecocrop was a database used to determine the suitability of a crop for a specified environment. Developed by the Food and Agriculture Organization of the United Nations (FAO) it provided information predicting crop viability in different locations and climatic conditions. It also served as a catalog of plants and plant growth characteristics.
+
+History
+Ecocrop first emerged in 1991 after planning and initial expert consultancies were completed concerning the development of a database. This system was developed by the Land and Water Development Division of FAO (AGLL) and was launched in 1992. The goal was to create a tool that can identify plant species for given environments and uses, and as an information system contributing to a Land Use Planning concept. In 1994, the Ecocrop database already permitted the identification of more than 1,700 crops and 12-20 environment requirements covering all of the agro-ecological settings of the world. Succeeding iterations of the database from 1998 to 1999 mainly involved improvements to the user interface. By 2000, the database included 2,000 species and 10 additional descriptors. This number was later expanded with the addition of 300 crop species.
+
+The Ecocrop model
+The Ecocrop model determines a crop's suitability to a location by evaluating different variables. Specifically, the plant descriptors include category, life form, growth habit, and life span while environmental descriptors include temperature, precipitation, light intensity, Köppen climate classification, photoperiodism, latitude, altitude, and other soil characteristics. The crop database is particularly useful if there is no alternative but to use environmental ranges. Once these inputs are determined, the system produces a suitability index as a percentage. The suitability index score is generated from 0 to 1 with the former indicating totally unsuitable while the latter indicates optimal or excellent suitability. The output also include separated suitability values for temperature and precipitation.
+As a prediction model, the Ecocrop algorithm yields data that are more generic than those produced by other models such as DOMAIN and BIOCLIM. The information is generic with respect to the nature of the requirements and is attributed to the lack of information concerning specific crops. Another limitation is that the results depend solely on bioclimatic factors and discounts other variables such as soil requirements, pests, and diseases.
+Ecocrop evaluates whether climatic conditions are adequate within a growing season for temperature and precipitation every month. It involves the calculation of climatic suitability based on rainfall and temperature marginal and optimal ranges.
+
+Other uses
+Aside from serving as a plant identifier, Ecocrop is also used for other purposes. For instance, it can assess the influence of future climate change on crop suitability. It can also be used to project crop yields using the database's information on optimal and absolute crop growing conditions (minimum temperature, maximum temperature, precipitation values, values that define temperature and precipitation extremes).
+
+References
+External links
+
+Official website

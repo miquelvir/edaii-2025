@@ -1,0 +1,29 @@
+2762
+Encyclopedia of Life
+The Encyclopedia of Life (EOL) is a free, online encyclopedia intended to document all of the 1.9 million living species known to science. It aggregates content to form "pages" for every known species. Content is compiled from existing trusted databases which are curated by experts and it calls on the assistance of non-experts throughout the world. It includes video, sound, images, graphics, information on characteristics, as well as text. In addition, the Encyclopedia incorporates species-related content from the Biodiversity Heritage Library, which digitizes millions of pages of printed literature from the world's major natural history libraries. The BHL digital content is indexed with the names of organisms using taxonomic indexing software developed by the Global Names project.  The EOL project was initially backed by a US$50 million funding commitment, led by the MacArthur Foundation and the Sloan Foundation, who provided US$20 million and US$5 million, respectively. The additional US$25 million came from five cornerstone institutions—the Field Museum, Harvard University, the Marine Biological Laboratory, the Missouri Botanical Garden, and the Smithsonian Institution. The project was initially led by Jim Edwards and the development team by David Patterson. Today, participating institutions and individual donors continue to support EOL through financial contributions.
+
+Overview
+EOL went live on 26 February 2008 with 30,000 entries. The site immediately proved to be extremely popular, and temporarily had to revert to demonstration pages for two days when over 11 million views of it were requested.
+The site relaunched on 5 September 2011 with a redesigned interface and tools. The new version – referred to as EOLv2 – was developed in response to requests from the general public, citizen scientists, educators and professional biologists for a site that was more engaging, accessible and personal. EOLv2 is redesigned to enhance usability and encourage contributions and interactions among users. It is also internationalized with interfaces provided for English, German, Spanish, French, Galician, Serbian, Macedonian, Arabic, Chinese, Korean and Ukrainian language speakers. On 16 January 2014, EOL launched TraitBank, a searchable, open digital repository for organism traits, measurements, interactions and other facts for all taxa.
+The initiative's executive committee includes senior officers from the Atlas of Living Australia, the Biodiversity Heritage Library consortium, the Chinese Academy of Sciences, CONABIO, Field Museum, Harvard University, the Bibliotheca Alexandrina (Library of Alexandria), MacArthur Foundation, Marine Biological Laboratory, Missouri Botanical Garden, Sloan Foundation, and the Smithsonian Institution.
+
+Intention
+Information about many species is already available from a variety of sources, in particular about the megafauna. Gathering currently available data on all 1.9 million species will take about 10 years. As of September 2011, EOL had information on more than 700,000 species available, along with more than 600,000 photos and millions of pages of scanned literature. The initiative relies on indexing information compiled by other efforts, including the Species 2000 and ITIS, [Catalogue of Life](2727), Fishbase and the Assembling Tree of Life project of NSF, AmphibiaWeb, Mushroom explorer, micro*scope, etc. The initial focus has been on living species but will later include extinct species. As the discovery of new species is expected to continue (currently at about 20,000 per year), the encyclopedia will continue to grow. As taxonomy finds new ways to include species discovered by molecular techniques, the rate of new additions will increase, particularly in respect to the microbial work of (eu)bacteria, archaebacteria and viruses. EOL's goal is to serve as a resource for the general public, enthusiastic amateurs, educators, students and professional scientists from around the world.
+
+Resources and collaborations
+The Encyclopedia of Life is an aggregative environment, that collects data from other on-line data sources. It provides full provenance for information through citations from its trusted databases. Professional researchers publishing academic research should cite directly to the underlying data.  Users may not currently edit EOL's entries directly but may register for the site to join specialist expert communities to discuss relevant information, questions, possible corrections, sources, and potential updates, contribute images and sound, or volunteer for technical support services. Its interface is translated at translatewiki.net.
+EoL was made distinctive by its incorporation of 'taxonomic intelligence', a growing array of algorithms that sought to emulate the practices of taxonomists.  These tools included names resolution so that data entered into different databases using different names for organisms could be combined. Components of hierarchical classifications systems could be used to drill-down or to expand data searches. Common components of different classification schemes were used to allow users to navigate using multiple classifications and to meander among schemes.  This initiative overcame a major problem of many biological data bases, that of having rigid and singular classification structures that were unable to reflect the diversity of views, or evolving concepts of how names of species and other taxa should be interpreted.  The names management systems continue to be developed by the Global Names project.
+
+See also
+All Species Foundation
+Biodiversity Heritage Library
+List of online encyclopedias
+Encyclopedia of Earth
+Wikispecies
+
+References
+External links
+
+Official website 
+The Encyclopedia of Life – Introductory video on YouTube from May 2007.
+Encyclopedia of Life at the National Museum of Natural History

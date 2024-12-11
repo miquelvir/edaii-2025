@@ -1,0 +1,28 @@
+844
+Boehm garbage collector
+The Boehm–Demers–Weiser garbage collector, often simply known as the Boehm GC or Boehm collector, is a conservative garbage collector for C and [C++](640) developed by Hans Boehm, Alan Demers, and Mark Weiser.
+Boehm GC is free software distributed under a permissive free software licence similar to the X11 license. The first paper introducing this collector appeared in 1992.
+
+Design
+Hans Boehm describes the operation of the collector as follows:
+
+The collector uses a mark-sweep algorithm. It provides incremental and generational collection under operating systems which provide the right kind of virtual memory support. (Currently this includes SunOS45, IRIX, OSF/1, Linux, and Windows, with varying restrictions.) It allows finalization code to be invoked when an object is collected. It can take advantage of type information to locate pointers if such information is provided, but it is usually used without such information.
+Boehm GC can also run in leak detection mode in which memory management is still done manually, but the Boehm GC can check if it is done properly. In this way a programmer can find memory leaks and double deallocations.
+Boehm GC is also distributed with a [C string handling](878) library called cords. This is similar to ropes in [C++](640) (trees of constant small arrays), but instead of using reference counting for proper deallocation, it relies on garbage collection to free objects. Cords are good at handling very large texts, modifications to them in the middle, slicing, concatenating, and keeping history of changes (undo/redo functionality).
+
+Operation
+The garbage collector works with most unmodified C programs, simply by replacing malloc() with GC_MALLOC() calls, replacing realloc() with GC_REALLOC() calls, and removing free() calls. The code piece below shows how one can use Boehm instead of traditional malloc and free in C.
+
+For completeness, Boehm supports explicit deallocation via GC_FREE(). All the substitution can be done using preprocessor macros.
+
+Uses and ports
+The Boehm GC is used by many projects that are implemented in C or [C++](640) like Inkscape, as well as by runtime environments for a number of other languages, including Crystal, the Codon high performance python compiler, the GNU Compiler for Java runtime environment, the Portable.NET project, Embeddable Common Lisp, GNU Guile,  the Mono implementation of the Microsoft .NET platform (also using precise compacting GC since version 2.8), GNUstep optionally, and libgc-d (a binding to libgc for the D programming language, used primarily in the MCI). It supports numerous operating systems, including many Unix variants (such as macOS) and Microsoft Windows, and provides a number of advanced features including incremental collection, parallel collection and a variety of finalizer semantics.
+
+References
+External links
+
+Official website 
+Boehm garbage collector on SourceForge
+Git repo for BoehmGC development on GitHub
+Transparent Programmer-Directed Garbage Collection for [C++](640), Hans-J. Boehm and Michael Spertus
+Dr. Dobbs The Boehm Collector for C and [C++](640), Gene Michael Stover, March 01, 2003

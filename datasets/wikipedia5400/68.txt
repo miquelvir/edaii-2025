@@ -1,0 +1,75 @@
+68
+Cat intelligence
+[Cat](54) intelligence is the capacity of the domesticated cat to solve problems and adapt to its environment. Research has shown that feline intelligence includes the ability to acquire new behavior that applies knowledge to new situations, communicating needs and desires within a social group and responding to training.
+
+Properties of the feline brain
+Brain size
+The brain of the domesticated cat is about five centimetres (2.0 in) long and weighs 25–30 g (0.88–1.06 oz). If a typical cat is taken to be 60 cm (24 in) long with a weight of 3.3 kg (7.3 lb), then the brain would be at 0.91% of its total body mass, compared to 2.33% of total body mass in the average human. Within the encephalization quotient proposed by Jerison in 1973, values above 1 are classified big-brained, while values lower than one are small-brained. The domestic cat is attributed a value of between 1 and 1.71 (for comparison: human values range between 7.44 and 7.8).
+The largest brains in the family Felidae are those of the tigers in Java and Bali. It is debated whether there exists a causal relationship between brain size and intelligence in vertebrates. Most experiments involving the relevance of brain size to intelligence hinge on the assumption that complex behavior requires a complex (and therefore intelligent) brain; however, this connection has not been consistently demonstrated.
+The surface area of a cat's cerebral cortex is approximately 83 cm2 (13 in2); furthermore, a theoretical cat weighing 2.5 kg (5.5 lb) has a cerebellum weighing 5.3 g (0.19 oz), 0.17% of the total weight.
+
+Brain structures
+According to researchers at Tufts University School of Veterinary Medicine, the physical structure of the brains of humans and cats is very similar. The human brain and the cat brain both have cerebral cortices with similar lobes.
+The number of cortical neurons contained in the brain of the cat is reported to be 203 million. Area 17 of the visual cortex was found to contain about 51,400 neurons per mm3. Area 17 is the primary visual cortex.
+Feline brains are gyrencephalic, i.e. they have a surface folding as human brains do.
+Analyses of cat brains have shown they are divided into many areas with specialized tasks that are vastly interconnected and share sensory information in a kind of hub-and-spoke network, with a large number of specialized hubs and many alternative paths between them. This exchange of sensory information allows the brain to construct a complex perception of the real world and to react to and manipulate its environment.
+The thalamus of the cat includes a hypothalamus, an epithalamus, a lateral geniculate nucleus, and additional secondary nuclear structures.
+
+Secondary brain structures
+The domestic cat brain also contains the hippocampus, amygdala, frontal lobes (which comprise 3 to 3.5% of the total brain in cats, compared to about 25% in humans), corpus callosum, anterior commissure, pineal gland, caudate nucleus, septal nuclei and midbrain.
+
+Neuroplasticity
+Grouse et al. (1979) ascertained the neuroplasticity of kittens' brains, with respect to control of visual stimulus correlated with changes in RNA structures. In a later study, it was found that cats possess visual-recognition memory, and have flexibility of cerebral encoding from visual information.
+
+Brain and diet
+A cognitive support diet for felines is a food that is formulated with the aim of improving mental processes like attention, short and long-term memory, learning, and problem solving. There is currently no strong evidence that such diets are effective in improving cognitive function. Claims for cognitive support appear on a number of kitten formulations to help with brain development, as well as diets aimed at seniors to help prevent cognitive disorders. These diets typically focus on supplying Omega-3 fatty acids, omega-6 fatty acids, taurine, vitamins, and other supporting supplements that are considered to have positive effects on cognition.
+The omega-3 fatty acids are a key nutrient in cognition for felines. They are essential for felines as they cannot be synthesized naturally and must be obtained from the diet. Omega-3 fatty acids that support brain development and function are alpha-linolenic acid, docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA). Fish oils, fish and other marine sources provide a very rich source of DHA and EPA. Alpha-linolenic acid can be acquired from oils and seeds.
+Omega-6 fatty acids are also often included in feline cognition diets. The important omega-6 fatty acid that plays a role in brain support and cognition is arachidonic acid. Arachidonic acid, or AA, is found in animal sources such as meat and eggs. AA is required in cat diets, as felines convert insignificant amounts of it from linoleic acid due to the limited enzyme delta-6 desaturase. Like DHA, arachidonic acid is often found in the brain tissues of cats and seems to have a supporting role in brain function. In a 2000 study completed by Contreras et al., it was found that DHA and AA made up 20% of the fatty acids in the mammalian brain. Arachidonic acid makes up high amounts in the membrane of most cells and has many pro-inflammatory actions.
+Taurine is an amino acid, which is essential in cat diets due to their low capacity to synthesize it. Taurine has the ability to cross the blood–brain barrier in the brain, it plays a role in many neurological functions, especially in the visual development. Without taurine, felines can have an abnormal morphology in the cerebellum and visual cortex. When cats were fed a diet deficient in taurine, this led to a decrease in the concentration of taurine in the retina of the eye. This resulted in deterioration of the photoreceptors, followed by complete blindness.
+Choline is a water-soluble nutrient that prevents and improves epilepsy and cognitive disorders. Supplementation is part of therapy for cats with seizures and feline cognitive dysfunction, despite this treatment being mostly based on anecdotal evidence and research done on dogs. It is the precursor to nerve chemicals like dopamine and acetylcholine, making it important for proper functioning of the nervous system.
+
+Intelligence
+In controlled experiments, cats showed that they had fully developed concepts of object permanence, meaning that sensorimotor intelligence is completely developed in cats. For human infants, tests involving multiple invisible displacements of an object are used to assess the beginning of mental representation in the sixth and last stage of sensorimotor intelligence. The cats' searches on these tasks were consistent with representation of an unsensed object and fully developed sensorimotor intelligence.
+In 2009, an experiment was conducted where cats could pull on a string to retrieve a treat under a plastic screen. When presented with one string, cats had no trouble getting the treats, but when presented with multiple strings, some of which were not connected to treats, the cats were unable to consistently choose the correct strings, leading to the conclusion that cats do not understand cause and effect in the same way that humans do.
+
+Memory
+In wild cats, such as lions, selective pressures have demonstrated that these animals exhibit extensive long-term memory in relation to problem-solving for at least seven months after solution. However, relationships with humans, individual differences in intelligence, and age may all affect memory.  [Cat](54)s possess impressive long-term memory capabilities, retaining recollections of events and locations for a decade or longer. These memories are often intertwined with emotions, allowing cats to recall both positive and negative experiences associated with specific places. This ability to adapt their memories of past environments throughout their life enables cats to easily adjust to their current surroundings.
+
+In kittens
+The period during which the cat is a kitten is the time when the cat learns and memorizes survival skills, which are acquired through observation of their mothers and playing with other cats. Playing, in fact, constitutes more than fun for a kitten, for it is essential for ranking social order, building hunting skills, and for generally exercising for the adult roles.
+
+In older cats
+The older the cat, the more these changes can affect its memory. There have been no studies done on the memories of aging cats, but there is some speculation that, just like people, short-term memory is more affected by aging. In one test of where to find food, cats' short-term memory lasted about 16 hours.
+
+Learning capacities
+Edward Thorndike conducted some key experiments on cats' learning capacity. In one of Thorndike's experiments, cats were placed in various boxes approximately 20 in × 15 in × 12 in (51 cm × 38 cm × 30 cm) with a door opened by pulling a weight attached to it. The cats were observed to free themselves from the boxes by "trial and error with accidental success". Though cats did perform worse on occasion, Thorndike generally found that as cats continued the trials, the time taken to escape the boxes decreased in most cases.
+Thorndike considered the cat to follow the law of effect, which states that responses followed by satisfaction (i.e. a reward) become more likely responses to the same stimulus in the future. Thorndike was generally skeptical of the presence of intelligence in cats, criticising sources of the contemporary writing of the sentience of animals as "partiality in deductions from facts and more especially in the choice of facts for investigation".
+An experiment was done to identify possible observational learning in kittens. Kittens that were able to observe their mothers performing an experimentally organised act were able to perform the same act sooner than kittens that had observed a non-related adult cat, and sooner than the ones who, being placed in trial and error conditions, observed no other cat performing the act.
+An experiment was done to study detour problem solving skills in companion cats and dogs using a transparent fence. If cats recognize both sides of the obstacle represent as an equally solvable task, they freely change their spatial approach to solve the task.
+According to several feline behaviorists and child psychologists, an adult cat's IQ is comparable to that of a two- to three-year-old child, since both species learn through imitating, observing, and experimenting. Simply by watching their owners, and mirroring their actions, cats are capable of learning human-like behaviors like opening doors and turning off lights.
+
+Domestication effects
+[Cat](54) intelligence study is mostly from consideration of the domesticated cat. The process of domestication has allowed for closer observation of cat behaviour and in the increased incidence of interspecies communication, and the inherent plasticity of the cat's brain has become apparent as the number of studies in this have increased scientific insight.
+Changes in the genetic structure of a number of cats have been identified. This is as a consequence of both domestication practises and the activity of breeding, so that the species has undergone genetic evolutionary change due to human selection. This human selection has been coupled with an initial, naturally occurring selective set of cats, possessing characteristics desirable for the sharing of human habitation and living in Neolithic urban environments.
+[Cat](54)s' intelligence may have increased during their semi-domestication: urban living may have provided an enriched and stimulating environment requiring novel adaptive behaviours. This scavenging behaviour would only have produced slow changes in evolutionary terms, but such changes would have been comparable to the changes to the brain of early primitive hominids who co-existed with primitive cats (like, for example, Machairodontinae, Megantereon and Homotherium) and adapted to savannah conditions.
+
+See also
+Dog intelligence
+Animal intelligence
+Animals taking public transportation
+Pig intelligence
+
+References
+Further reading
+Bergler, Reinhold "Man and [Cat](54): The Benefits of [Cat](54) Ownership" Blackwell Scientific Publications (1989)
+Bradshaw, John W S "The Behaviour of the Domestic [Cat](54)" C A B International (1992)
+Chesler, P. (1969). "Maternal Influence in Learning by Observation in Kittens". Science. 166 (3907): 901–3. Bibcode:1969Sci...166..901C. doi:10.1126/science.166.3907.901. PMID 5345208. S2CID 683297.
+Hobhouse, L T Mind in Evolution MacMillan, London (1915)
+Turner, Dennis C, and Patrick Bateson. "The Domestic [Cat](54): The Biology of Its Behaviour" Cambridge University Press (1988)
+Miles, R. C. (1958). "Learning in kittens with manipulatory, exploratory, and food incentives". Journal of Comparative and Physiological Psychology. 51 (1): 39–42. doi:10.1037/h0049255. PMID 13513843.
+Neville, Peter "Claws and Purrs" Sidgwick & Jackson (1992)
+Neville, Peter "Do [Cat](54)s Need Shrinks" Sidgwick & Jackson (1990)
+Voith, VL (1981). "You, too, can teach a cat tricks (examples of shaping, second-order reinforcement, and constraints on learning)". Modern Veterinary Practice. 62 (8): 639–42. PMID 7290076.
+
+External links
+D.M.Fankhauser biology.clc.uc.edu Removal and study of the cat brain and Cranial nerves of the cat biology.clc.uc.edu Retrieved 2011-12-22 (images and instruction) for an anatomy and physiology class for the dissecting of the brain of a cat

@@ -1,0 +1,455 @@
+3420
+Age of the universe
+In physical cosmology, the age of the universe is the time elapsed  since the Big Bang. Astronomers have derived two different measurements of the age of the universe: a measurement based on direct observations of an early state of the universe, which indicate an age of 13.787±0.020 billion years as interpreted with the Lambda-CDM concordance model as of 2021; and a measurement based on the observations of the local, modern universe, which suggest a younger age. The uncertainty of the first kind of measurement has been narrowed down to 20 million years, based on a number of studies that all show similar figures for the age. These studies include researches of the microwave background radiation by the Planck spacecraft, the Wilkinson Microwave Anisotropy Probe and other space probes. Measurements of the cosmic background radiation give the cooling time of the universe since the Big Bang, and measurements of the expansion rate of the universe can be used to calculate its approximate age by extrapolating backwards in time. The range of the estimate is also within the range of the estimate for the oldest observed star in the universe.
+
+History
+In the 18th century, the concept that the age of Earth was millions, if not billions, of years began to appear. Nonetheless, most scientists throughout the 19th century and into the first decades of the 20th century presumed that the universe itself was steady state and eternal, possibly with stars coming and going but no changes occurring at the largest scale known at the time.
+The first scientific theories indicating that the age of the universe might be finite were the studies of thermodynamics, formalized in the mid-19th century. The concept of entropy dictates that if the universe (or any other closed system) were infinitely old, then everything inside would be at the same temperature, and thus there would be no stars and no life. No scientific explanation for this contradiction was put forth at the time.
+In 1915 [Albert Einstein](3401) published the theory of general relativity and in 1917 constructed the first cosmological model based on his theory. In order to remain consistent with a steady-state universe, Einstein added what was later called a cosmological constant to his equations. Einstein's model of a static universe was proved unstable by [Arthur Eddington](3473).
+The first direct observational hint that the universe was not static but expanding came from the observations of 'recession velocities', mostly by Vesto M. Slipher, combined with distances to the 'nebulae' (galaxies) by Edwin Hubble in a work published in 1929. Earlier in the 20th century, Hubble and others resolved individual stars within certain nebulae, thus determining that they were galaxies, similar to, but external to, the Milky Way Galaxy. In addition, these galaxies were very large and very far away. Spectra taken of these distant galaxies showed a red shift in their spectral lines presumably caused by the Doppler effect, thus indicating that these galaxies were moving away from the Earth. In addition, the farther away these galaxies seemed to be (the dimmer they appeared) the greater was their redshift, and thus the faster they seemed to be moving away. This was the first direct evidence that the universe is not static but expanding. The first estimate of the age of the universe came from the calculation of when all of the objects must have started speeding out from the same point. Hubble's initial value for the universe's age was very low, as the galaxies were assumed to be much closer than later observations found them to be.
+
+The first reasonably accurate measurement of the rate of expansion of the universe, a numerical value now known as the Hubble constant, was made in 1958 by astronomer Allan Sandage. His measured value for the Hubble constant came very close to the value range generally accepted today.
+Sandage, like Einstein, did not believe his own results at the time of discovery.  Sandage proposed new theories of cosmogony to explain this discrepancy. This issue was more or less resolved by improvements in the theoretical models used for estimating the ages of stars. As of 2024, using the latest models for stellar evolution, the estimated age of the oldest known star is 13.8±4 billion years.
+The discovery of cosmic microwave background radiation announced in 1965 finally brought an effective end to the remaining scientific uncertainty over the expanding universe. It was a chance result from work by two teams less than 60 miles apart. In 1964, Arno Penzias and Robert Woodrow Wilson were trying to detect radio wave echoes with a supersensitive antenna. The antenna persistently detected a low, steady, mysterious noise in the microwave region that was evenly spread over the sky, and was present day and night. After testing, they became certain that the signal did not come from the Earth, the Sun, or the Milky Way galaxy, but from outside the Milky Way, but could not explain it. At the same time another team, Robert H. Dicke, Jim Peebles, and David Wilkinson, were attempting to detect low level noise that might be left over from the Big Bang and could prove whether the Big Bang theory was correct. The two teams realized that the detected noise was in fact radiation left over from the Big Bang, and that this was strong evidence that the theory was correct. Since then, a great deal of other evidence has strengthened and confirmed this conclusion, and refined the estimated age of the universe to its current figure.
+The space probes WMAP, launched in 2001, and Planck, launched in 2009, produced data that determines the Hubble constant and the age of the universe independent of galaxy distances, removing the largest source of error.
+
+Explanation
+The Lambda-CDM concordance model describes the evolution of the universe from a very uniform, hot, dense primordial state to its present state over a span of about 13.77 billion years of cosmological time. This model is well understood theoretically and strongly supported by recent high-precision astronomical observations such as WMAP. In contrast,  theories of the origin of the primordial state remain very speculative.
+If one extrapolates the Lambda-CDM model backward from the earliest well-understood state, it quickly (within a small fraction of a second) reaches a singularity. This is known as the "initial singularity" or the "Big Bang singularity". This singularity is not understood as having a physical significance in the usual sense, but it is convenient to quote times measured "since the Big Bang" even though they do not correspond to a time that can actually be physically measured.
+Though the universe might in theory have a longer history, the International Astronomical Union presently uses the term "age of the universe" to mean the duration of the Lambda-CDM expansion, or equivalently, the time elapsed within the currently observable universe since the Big Bang.
+In July 2023, a study published in the Monthly Notices of the Royal Astronomical Society journal put the age of the Universe as 26.7 billion years. The author Rajendra Gupta shows a new  model that stretches the galaxy formation time by several billion years, leading to the conclusion that the age of the universe is roughly twice as long as thought. Using  Zwicky's tired light theory and "coupling constants" as described by  Paul Dirac, Gupta writes that the recent James Webb Space Telescope observations are in strong tension with existing cosmological models. Gupta says about his new theory: "It thus resolves the 'impossible early galaxy' problem without requiring the existence of primordial black hole seeds or modified power spectrum."
+
+Observational limits
+Since the universe must be at least as old as the oldest things in it, there are a number of observations that put a lower limit on the age of the universe; these include
+
+the temperature of the coolest white dwarfs, which gradually cool as they age, and
+the dimmest turnoff point of main sequence stars in clusters (lower-mass stars spend a greater amount of time on the main sequence, so the lowest-mass stars that have evolved away from the main sequence set a minimum age).
+
+Cosmological parameters
+The problem of determining the age of the universe is closely tied to the problem of determining the values of the cosmological parameters. Today this is largely carried out in the context of the ΛCDM model, where the universe is assumed to contain normal (baryonic) matter, cold dark matter, radiation (including both photons and neutrinos), and a cosmological constant.
+The fractional contribution of each to the current energy density of the universe is given by the density parameters 
+  
+    
+      
+         
+        
+          Ω
+          
+            m
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle ~\Omega _{\text{m}}~,}
+  
+ 
+  
+    
+      
+         
+        
+          Ω
+          
+            r
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle ~\Omega _{\text{r}}~,}
+  
+ and 
+  
+    
+      
+         
+        
+          Ω
+          
+            Λ
+          
+        
+         
+        .
+      
+    
+    {\displaystyle ~\Omega _{\Lambda }~.}
+  
+ The full ΛCDM model is described by a number of other parameters, but for the purpose of computing its age these three, along with the Hubble parameter 
+  
+    
+      
+         
+        
+          H
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle ~H_{0}~}
+  
+, are the most important.
+If one has accurate measurements of these parameters, then the age of the universe can be determined by using the Friedmann equation. This equation relates the rate of change in the scale factor 
+  
+    
+      
+         
+        a
+        (
+        t
+        )
+         
+      
+    
+    {\displaystyle ~a(t)~}
+  
+ to the matter content of the universe. Turning this relation around, we can calculate the change in time per change in scale factor and thus calculate the total age of the universe by integrating this formula. The age 
+  
+    
+      
+         
+        
+          t
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle ~t_{0}~}
+  
+ is then given by an expression of the form
+
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              H
+              
+                0
+              
+            
+          
+        
+        
+        F
+        (
+        
+        
+          Ω
+          
+            r
+          
+        
+        ,
+        
+        
+          Ω
+          
+            m
+          
+        
+        ,
+        
+        
+          Ω
+          
+            Λ
+          
+        
+        ,
+        
+        …
+        
+        )
+         
+      
+    
+    {\displaystyle t_{0}={\frac {1}{H_{0}}}\,F(\,\Omega _{\text{r}},\,\Omega _{\text{m}},\,\Omega _{\Lambda },\,\dots \,)~}
+  
+
+where 
+  
+    
+      
+         
+        
+          H
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle ~H_{0}~}
+  
+ is the Hubble parameter and the function 
+  
+    
+      
+         
+        F
+         
+      
+    
+    {\displaystyle ~F~}
+  
+ depends only on the fractional contribution to the universe's energy content that comes from various components. The first observation that one can make from this formula is that it is the Hubble parameter that controls that age of the universe, with a correction arising from the matter and energy content. So a rough estimate of the age of the universe comes from the Hubble time, the inverse of the Hubble parameter. With a value for 
+  
+    
+      
+         
+        
+          H
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle ~H_{0}~}
+  
+ around 69 km/s/Mpc, the Hubble time evaluates to 
+  
+    
+      
+         
+        1
+        
+          /
+        
+        
+          H
+          
+            0
+          
+        
+        =
+         
+      
+    
+    {\displaystyle ~1/H_{0}=~}
+  
+14.5 billion years.
+To get a more accurate number, the correction function 
+  
+    
+      
+         
+        F
+         
+      
+    
+    {\displaystyle ~F~}
+  
+ must be computed. In general this must be done numerically, and the results for a range of cosmological parameter values are shown in the figure. For the Planck values 
+  
+    
+      
+         
+        (
+        
+          Ω
+          
+            m
+          
+        
+        ,
+        
+          Ω
+          
+            Λ
+          
+        
+        )
+        =
+         
+      
+    
+    {\displaystyle ~(\Omega _{\text{m}},\Omega _{\Lambda })=~}
+  
+(0.3086, 0.6914), shown by the box in the upper left corner of the figure, this correction factor is about 
+  
+    
+      
+         
+        F
+        =
+        0.956
+         
+        .
+      
+    
+    {\displaystyle ~F=0.956~.}
+  
+ For a flat universe without any cosmological constant, shown by the star in the lower right corner, 
+  
+    
+      
+         
+        F
+        =
+        
+          2
+        
+        
+          /
+        
+        
+          3
+        
+         
+      
+    
+    {\displaystyle ~F={2}/{3}~}
+  
+ is much smaller and thus the universe is younger for a fixed value of the Hubble parameter. To make this figure, 
+  
+    
+      
+         
+        
+          Ω
+          
+            r
+          
+        
+         
+      
+    
+    {\displaystyle ~\Omega _{\text{r}}~}
+  
+ is held constant (roughly equivalent to holding the cosmic microwave background temperature constant) and the curvature density parameter is fixed by the value of the other three.
+Apart from the Planck satellite, the Wilkinson Microwave Anisotropy Probe (WMAP) was instrumental in establishing an accurate age of the universe, though other measurements must be folded in to gain an accurate number. CMB measurements are very good at constraining the matter content 
+  
+    
+      
+         
+        
+          Ω
+          
+            m
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle ~\Omega _{\text{m}}~,}
+  
+ and curvature parameter 
+  
+    
+      
+         
+        
+          Ω
+          
+            k
+          
+        
+         
+        .
+      
+    
+    {\displaystyle ~\Omega _{\text{k}}~.}
+  
+ It is not as sensitive to 
+  
+    
+      
+         
+        
+          Ω
+          
+            Λ
+          
+        
+         
+      
+    
+    {\displaystyle ~\Omega _{\Lambda }~}
+  
+ directly, partly because the cosmological constant becomes important only at low redshift. The most accurate determinations of the Hubble parameter 
+  
+    
+      
+         
+        
+          H
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle ~H_{0}~}
+  
+ are currently believed to come from measured brightnesses and redshifts of distant Type Ia supernovae. Combining these measurements leads to the generally accepted value for the age of the universe quoted above.
+The cosmological constant makes the universe "older" for fixed values of the other parameters. This is significant, since before the cosmological constant became generally accepted, the Big Bang model had difficulty explaining why globular clusters in the Milky Way appeared to be far older than the age of the universe as calculated from the Hubble parameter and a matter-only universe. Introducing the cosmological constant allows the universe to be older than these clusters, as well as explaining other features that the matter-only cosmological model could not.
+
+WMAP
+NASA's Wilkinson Microwave Anisotropy Probe (WMAP) project's nine-year data release in 2012 estimated the age of the universe to be (13.772±0.059)×109 years (13.772 billion years, with an uncertainty of plus or minus 59 million years).
+This age is based on the assumption that the project's underlying model is correct; other methods of estimating the age of the universe could give different ages. Assuming an extra background of relativistic particles, for example, can enlarge the error bars of the WMAP constraint by one order of magnitude.
+This measurement is made by using the location of the first acoustic peak in the microwave background power spectrum to determine the size of the decoupling surface (size of the universe at the time of recombination). The light travel time to this surface (depending on the geometry used) yields a reliable age for the universe. Assuming the validity of the models used to determine this age, the residual accuracy yields a margin of error near one per cent.
+
+Planck
+In 2015, the Planck Collaboration estimated the age of the universe to be 13.813±0.038 billion years, slightly higher but within the uncertainties of the earlier number derived from the WMAP data.
+
+In the table below, figures are within 68% confidence limits for the base ΛCDM model.
+
+Legend:
+
+TT, TE, EE: Planck Cosmic microwave background (CMB) power spectra
+lowP: Planck polarization data in the low-ℓ likelihood
+lensing: CMB lensing reconstruction
+ext: External data (BAO+JLA+H0). BAO: Baryon acoustic oscillations, JLA: Joint Light curve Analysis, H0: Hubble constant
+
+In 2018, the Planck Collaboration updated its estimate for the age of the universe to 13.787±0.020 billion years.
+
+Assumption of strong priors
+Calculating the age of the universe is accurate only if the assumptions built into the models being used to estimate it are also accurate. This is referred to as strong priors and essentially involves stripping the potential errors in other parts of the model to render the accuracy of actual observational data directly into the concluded result. The age given is thus accurate to the specified error, since this represents the error in the instrument used to gather the raw data input into the model.
+The age of the universe based on the best fit to Planck 2018 data alone is 13.787±0.020 billion years. This number represents an accurate "direct" measurement of the age of the universe, in contrast to other methods that typically involve Hubble's law and the age of the oldest stars in globular clusters. It is possible to use different methods for determining the same parameter (in this case, the age of the universe) and arrive at different answers with no overlap in the "errors". To best avoid the problem, it is common to show two sets of uncertainties; one related to the actual measurement and the other related to the systematic errors of the model being used.
+An important component to the analysis of data used to determine the age of the universe (e.g. from Planck) therefore is to use a Bayesian statistical analysis, which normalizes the results based upon the priors (i.e. the model). This quantifies any uncertainty in the accuracy of a measurement due to a particular model used.
+
+See also
+Age of Earth – Scientific dating of the age of Earth
+Anthropic principle – Hypothesis about sapient life and the universe
+Cosmic Calendar – Method to visualize the chronology of the universe (age of the universe scaled to a single year)
+Dark Ages Radio Explorer – Proposed concept lunar orbiter
+Expansion of the universe – Increase in distance between parts of the universe over time
+Hubble Deep Field – Multiple exposure image of deep space in the constellation Ursa Major
+Illustris project – Computer-simulated universes
+James Webb Space Telescope – NASA/ESA/CSA space telescope launched in 2021
+Multiverse – Hypothetical group of multiple universes
+Observable universe – All of space observable from the Earth at the present
+Observational cosmology – Study of the origin of the universe (structure and evolution)
+Redshift observations in astronomy – Change of wavelength in photons during travel
+Static universe – Cosmological model in which the universe does not expand
+The First Three Minutes – 1977 book by Steven Weinberg
+Timeline of the far future – Scientific projections regarding the far future
+
+References
+
+
+== External links ==

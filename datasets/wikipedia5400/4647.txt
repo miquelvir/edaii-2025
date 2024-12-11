@@ -1,0 +1,160 @@
+4647
+Nuxalk language
+Nuxalk (, NOO-holl'k), also known as Bella Coola , is a Salishan language spoken by the Nuxalk people. Today, it is an endangered language in the vicinity of the Canadian town of Bella Coola, British Columbia. While the language is still sometimes called Bella Coola by linguists, the native name Nuxalk is preferred by some, notably by the Nuxalk Nation's government.
+Though the number of truly fluent speakers has not increased, the language is now taught in both the provincial school system and the Nuxalk Nation's own school, Acwsalcta, which means "a place of learning". Nuxalk language classes, if taken to at least the Grade 11 level, are considered adequate second-language qualifications for entry to the major B.C. universities. CKNN-FM Nuxalk Radio is also working to promote the language.
+
+Name
+The name "Nuxalk" for the language comes from the native nuxalk (or nuχalk), referring to the "Bella Coola Valley". "Bella Coola" is a rendering of the Heiltsuk bḷ́xʷlá, meaning "stranger".
+
+Geographical distribution
+Nowadays, Nuxalk is spoken only in Bella Coola, British Columbia, surrounded by Wakashan- and Athabascan-speaking tribes. It was once spoken in over 100 settlements, with varying dialects, but in the present day most of these settlements have been abandoned and dialectal differences have largely disappeared.
+
+Classification
+Nuxalk forms its own subgroup of the Salish language family. Its lexicon is equidistant from Coast and Interior Salish, but it shares phonological and morphological features with Coast Salish (e.g., the absence of pharyngeals and the presence of marked gender). Nuxalk also borrows many words from contiguous North Wakashan languages (especially Heiltsuk), as well as some from neighbouring [Athabaskan languages](4639) and Tsimshian.
+
+Phonology
+Consonants
+Nuxalk has 29 consonants depicted below in IPA and the Americanist orthography of Davis & Saunders when it differs from the IPA.
+
+What are transcribed in the orthography as 'plain' velar consonants are actually palatals, and the sibilants s c c̓ palatalize to š č č̓ before x k k̓.
+
+Vowels
+Allophony
+/i/ may be pronounced:
+
+ɪ before postvelars
+ɪː, ɛː between postvelars
+e̞, e̞ː, before a sonorant followed by a consonant or word boundary
+i adjacent to palatovelars
+e elsewhere
+/a/ may be pronounced:
+
+ɑ (ɒ?) surrounded by postvelars
+ɐ before rounded velars followed by a consonant or word boundary
+a (ä?) before a sonorant followed by a consonant or word boundary
+æ elsewhere
+/o/ may be pronounced:
+
+o̞ surrounded by postvelars
+o̞, o̞ː, ɔ, ɔː before a sonorant followed by a consonant or word boundary
+u, ʊ before rounded velars followed by a consonant or word boundary
+o elsewhere
+
+Orthography
+In addition to the Americanist orthography of Davis & Saunders used in this article for clarity, Nuxalk also has a non-diacritical Bouchard-type practical orthography that originated in Hank Nater's The Bella Coola Language (1984), and was used in his 1990 Nuxalk-English Dictionary. It continues to be used today at Acwsalcta for Nuxalk language learning, as well as in Nuxalk documents and names. The orthographic variants are summarized below.
+
+Syllables
+The notion of syllable is challenged by the Nuxalk language, in that the language includes long strings of consonants without any intervening vowel or other sonorant. Salishan languages, and especially Nuxalk, are famous for this. For instance, the following word contains only obstruents:
+
+Other examples are:
+
+ps pʰs 'shape, mold'
+p’s pʼs 'bend'
+p’xwlht pʼχʷɬtʰ 'bunchberry'
+tsktskwts t͡sʰkʰtʰskʷʰt͡sʰ 'he arrived'
+tts tʰt͡sʰ 'little boy'
+skwp skʷʰpʰ 'saliva'
+sps spʰs 'northeast wind'
+tlh’p tɬʼpʰ 'cut with scissors'
+sts’q st͡sʼqʰ 'animal fat'
+sts’qtstc st͡sʼqʰt͡sʰtʰx 'that's my animal fat over there'
+scs sxs 'seal fat'
+tlh tʰɬ 'strong'
+q’t qʼtʰ 'go to shore'
+qwt qʷʰtʰ 'crooked'
+k’clhhtscwslhxwtlhhts kʼxɬːtʰsxʷ.sɬχʷtʰɬːt͡s 'you had seen that I had gone through a passage'
+There has been some dispute as to how to count the syllables in such words, what, if anything, constitutes the nuclei of those syllables, and if the concept of 'syllable' is even applicable to Nuxalk. However, when recordings are available, the syllable structure can be clearly audible, and speakers have clear conceptions as to how many syllables a word contains. In general, a syllable may be C̩, CF̩ (where F is a fricative), CV, or CVC. When C is a stop, CF syllables are always composed of a plain voiceless stop (pʰ, tʰ, t͡sʰ, kʰ, kʷ, qʰ, qʷ) plus a fricative (s, ɬ, x, xʷ, χ, χʷ). For example, płt 'thick' is two syllables, pʰɬ.t, with a syllabic fricative, while in tʼχtʰ 'stone', stʼs 'salt', qʷtʰ 'crooked', k̓ʰx 'to see' and ɬqʰ 'wet' each consonant is a separate syllable. Stop-fricative sequences can also be disyllabic, however, as in tɬ 'strong' (two syllables, at least in the cited recording) and kʷs 'rough' (one syllable or two). Syllabification of stop-fricative sequences may therefore be lexicalized or a prosodic tendency. Fricative-fricative sequences also have a tendency toward syllabicity, e.g. with sx 'bad' being one syllable or two, and sχs 'seal fat' being two syllables (sχ.s) or three. Speech rate plays a role, with e.g. ɬxʷtʰɬt͡sʰxʷ 'you spat on me' consisting of all syllabic consonants in citation form (ɬ.xʷ.tʰ.ɬ.t͡sʰ.xʷ) but condensed to stop-fricative syllables (ɬxʷ.tɬ.t͡sʰxʷ) at fast conversational speed.
+This syllabic structure may be compared with that of Miyako.
+The linguist Hank Nater has postulated the existence of a phonemic contrast between syllabic and non-syllabic sonorants: /m̩, n̩, l̩/, spelled ṃ, ṇ, ḷ. (The vowel phonemes /i, u/ would then be the syllabic counterparts of /j, w/.) Words claimed to have unpredictable syllables include sṃnṃnṃuuc 'mute', smṇmṇcaw '(the fact) that they are children'.
+
+Grammar
+Events
+The first element in a sentence expresses the event of the proposition. It inflects for the person and number of one (in the intransitive paradigm) or two (in the transitive paradigm) participants.
+
+E.g. ƛ̓ikm-Ø ti-wac̓-tx 'the dog is running'.
+Whether the parenthesized segments are included in the suffix depends on whether the stem ends in an underlying resonant (vowel, liquid, nasal) and whether it is non-syllabic. So qāχla 'drink' becomes qāχla-ł 'we drink', qāχla-nap 'you (pl.) drink', qāχla-naw 'they drink', but nuyamł 'sing' becomes nuyamł-ił 'we're singing', nuyamł-ap 'you (pl.) are singing', nuyamł-aw 'they're singing'.
+However, the choice of the 3ps marker -Ø or -s is conditioned by semantics rather than phonetics. For example, the sentences tix-s ti-ʔimlk-tx and tix-Ø ti-ʔimlk-tx could both be glossed 'it's the man', but the first is appropriate if the man is the one who is normally chosen, while the second is making an assertion that it is the man (as opposed to someone else, as might otherwise be thought) who is chosen.
+The following are the possible person markers for transitive verbs, with empty cells indications non-occurring combinations and '--' identifying semantic combinations which require the reflexive suffix -cut- followed by the appropriate intransitive suffix:
+
+E.g. sp̓-is ti-ʔimlk-tx ti-stn-tx 'the man struck the tree'.
+Whether a word can serve as an event isn't determined lexically, e.g. ʔimmllkī-Ø ti-nusʔūlχ-tx 'the thief is a boy', nusʔūlχ-Ø ti-q̓s-tx 'the one who is ill is a thief'.
+There is a further causative paradigm whose suffixes may be used instead:
+
+This has a passive counterpart:
+
+This may also have a benefactive gloss when used with events involving less activity of their participant (e.g. nuyamł-tus ti-ʔimlk-tx ti-ʔimmllkī-tx 'the man made/let the boy sing'/'the man sang for the boy'), while in events with more active participants only the causative gloss is possible. In the later group even more active verbs have a preference for the affix-lx- (implying passive experience) before the causative suffix.
+The executor in a transitive sentence always precedes the experiencer. However, when an event is proceeded by a lone participant, the semantic content of the event determines whether the participant is an executor or an experiencer. This can only be determined syntactically if the participant is marked by the preposition ʔuł-, which marks the experience.
+Some events are inherently transitive or intransitive, but some may accept multiple valencies (e.g. ʔanayk 'to be needy'/'to want something').
+Prepositions may mark experiencers, and must mark implements. Any participants which are not marked by prepositions are focussed. There are three voices, which allow either the executor, the experiencer, or both to have focus:
+
+[Active voice](4615) – neither is marked with prepositions.
+Passive voice – the event may have different suffixes, and the executor may be omitted or marked with a preposition
+Antipassive voice – the event is marked with the affix -a- before personal markers, and the experiencer is marked with a preposition
+The affix -amk- (-yamk- after the antipassive marker -a-) allows an implement to have its preposition removed and to be focused. For example:
+
+nuyamł-Ø ti-man-tx ʔuł-ti-mna-s-tx x-ti-syut-tx 'the father sang the song to his son'
+nuyamł-amk-is ti-man-tx ti-syut-tx ʔuł-ti-mna-s-tx 'the father sang the song to his son'
+
+Prepositions
+There are four prepositions which have broad usage in Nuxalk:
+
+Deixis
+Nuxalk has a set of deictic prefixes and suffixes which serve to identify items as instantiations of domains rather than domains themselves and to locate them in deictic space. Thus the sentences wac̓-Ø ti-ƛ̓ikm-tx and ti-wac̓-Ø ti-ƛ̓ikm-tx, both 'the one that's running is a dog', are slightly different – similar to the difference between the English sentences 'the visitor is Canadian' and 'the visitor is a Canadian' respectively.
+The deixis system has a proximal/medial/distal and a non-demonstrative/demonstrative distinction. Demonstratives may be used when finger pointing would be appropriate (or in distal space when something previously mentioned is being referred to).
+Proximal demonstrative space roughly corresponds to the area of conversation, and proximal non-demonstrative may be viewed as the area in which one could attract another's attention without raising one's voice. Visible space beyond this is middle demonstrative, space outside of this but within the invisible neighborhood is medial non-demonstrative. Everything else is distal, and non-demonstrative if not mentioned earlier.
+The deictic prefixes and suffixes are as follows:
+
+Female affixes are used only when the particular is singular and identified as female; if not, even if the particular is inanimate, masculine or plural is used.
+The deictic prefixes only have a proximal vs. non-proximal distinction, and no demonstrative distinction:
+
+tu- is used in earlier varieties and some types of narratives, except for middle non-demonstrative, and the variant ʔił- may be used "in the same collection of deictic space".
+While events are not explicitly marked for tense per se, deixis plays a strong role in determining when the proposition is being asserted to occur. So in a sentence like mus-is ti-ʔimmllkī-tx ta-q̓lsxʷ-t̓aχ 'the boy felt that rope', the sentence is perceived as having a near-past (same day) interpretation, as the boy cannot be touching the rope in middle space from proximal space. However this does not hold for some events, like k̓x 'to see'.
+A distal suffix on any participant lends the event a distant past interpretation (before the past day), a medial suffix and no distal suffix lends a near past time, and if the participants are marked as proximal the time is present.
+Not every distal participant occurs in past-tense sentences, and vice versa—rather, the deictic suffixes must either represent positions in space, time, or both.
+
+Pronouns
+Personal pronouns are reportedly nonexistent but the idea is expressed via verbs that translate as "to be me", etc.
+
+Particles
+See also
+Coast Salish languages
+Interior Salish
+
+References
+Bibliography
+Bagemihl, Bruce (1991a). "Syllable Structure in Bella Coola". Proceedings of the North East Linguistics Society. 21: 16–30. hdl:20.500.14394/36612.
+Bagemihl, Bruce (1991b). "Syllable Structure in Bella Coola". Linguistic Inquiry. 22 (4): 589–646. JSTOR 4178744.
+Bagemihl, Bruce (1998). "Maximality in Bella Coola (Nuxalk)". In Czaykowska-Higgins, E.; Kinkade, M. D. (eds.). Salish Languages and Linguistics: Theoretical and Descriptive Perspectives. Berlin: Mouton de Gruyter. pp. 71–98. doi:10.1515/9783110801255.71. ISBN 978-3-11-015492-4.
+Bauer, Laurie (2007). The Linguistics Student's Handbook. Edinburgh.{{cite book}}:  CS1 maint: location missing publisher (link)
+Bhat, D.N.S. (2004). Pronouns. Oxford: Oxford University Press.
+Davis, Philip W.; Saunders, Ross (1973). "Lexical Suffix Copying in Bella Coola". Glossa. 7: 231–252.
+Davis, Philip W.; Saunders, Ross (1975). "Bella Coola Nominal Deixis". Language. 51 (4): 845–858. doi:10.2307/412696. JSTOR 412696.
+Davis, Philip W.; Saunders, Ross (1976). "Bella Coola Deictic Roots". International Journal of American Linguistics. 42 (4): 319–330. doi:10.1086/465436. S2CID 145541460.
+Davis, Philip W.; Saunders, Ross (1978). "Bella Coola Syntax". In Cook, E.-D.; Kaye, J. (eds.). Linguistic Studies of Native [Canada](1956). Vancouver: University of British Columbia. pp. 37–66.
+Davis, Philip W.; Saunders, Ross (1980). Bella Coola Texts. British Columbia Provincial Museum Heritage Record. Vol. 10. Victoria: British Columbia Provincial Museum. ISBN 0-7718-8206-8.
+Davis, Philip W.; Saunders, Ross (1997). A Grammar of Bella Coola. University of Montana Occasional Papers in Linguistics. Vol. 13. Missoula, MT: University of Montana. ISBN 1-879763-13-3.
+Forrest, Linda (1994). "The de-transitive clauses in Bella Coola: Passive vs. inverse". In Givón, T. (ed.). Voice and Inversion. Amsterdam: Benjamins. pp. 147–168.
+Hoard, James (1978). "Syllabification in Northwest Indian Languages". In Bell; Bybee-Hooper (eds.). Syllables and Segments. pp. 67–68.
+Mithun, Marianne (1999). The Languages of Native North America. Cambridge: Cambridge University Press. ISBN 0-521-23228-7.
+Montler, Timothy. (2004–2005). (Handouts on Salishan Language Family).
+Nater, Hank F (1977). Stem List of the [Bella Coola language](4647). Lisse: Peter de Ridder.
+Nater, Hank F. (1979). "Bella Coola Phonology". Lingua. 49 (2–3): 169–187. doi:10.1016/0024-3841(79)90022-6.
+Nater, Hank F. (1984). The Bella Coola Language. Mercury Series, Canadian Ethnology Service. Vol. 92. Ottawa: National Museums of [Canada](1956).
+Nater, Hank F. (1990). A Concise Nuxalk–English Dictionary. Mercury Series, Canadian Ethnology Service. Vol. 115. Hull, QC: Canadian Museum of Civilization. ISBN 0-660-10798-8.
+Newman, Stanley (1947). "Bella Coola I: Phonology". International Journal of American Linguistics. 13 (3): 129–134. doi:10.1086/463942. S2CID 144523894.
+Newman, Stanley (1969). "Bella Coola Grammatical Processes and Form Classes". International Journal of American Linguistics. 35 (2): 175–179. doi:10.1086/465051. S2CID 144321836.
+Newman, Stanley (1969). "Bella Coola Paradigms". International Journal of American Linguistics. 37 (4): 299–306. doi:10.1086/465074. S2CID 143635971.
+Newman, Stanley (1971). "Bella Coola Reduplication". International Journal of American Linguistics. 37: 34–38. doi:10.1086/465133. S2CID 145174080.
+Newman, Stanley (1974). "Language Retention and Diffusion in Bella Coola". Language in Society. 3: 201–214. doi:10.1017/S0047404500004346. S2CID 146414559.
+Newman, Stanley (1976). "Salish and Bella Coola Prefixes". International Journal of American Linguistics. 42 (3): 228–242. doi:10.1086/465418. S2CID 144263124.
+Newman, Stanley (1989). "Lexical Morphemes in Bella Coola". In Key, M. R.; Hoenigswald, H. (eds.). General and Amerindian Ethnolinguistics: In Remembrance of Stanley Newman. Contributions to the Sociology of Language. Vol. 55. Berlin: Mouton de Gruyter. pp. 289–301. ISBN 0-89925-519-1.
+
+External links
+
+Nuxalk Nation Website
+First Nations Languages of British Columbia Nuxalk page
+Nuxalk bibliography
+
+Nuxalk information at LanguageGeek.
+UCLA Archive for Bella Coola
+Bella Coola (Intercontinental Dictionary Series)

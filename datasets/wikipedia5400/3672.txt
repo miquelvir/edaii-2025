@@ -1,0 +1,38 @@
+3672
+English Pronouncing Dictionary
+The English Pronouncing Dictionary (EPD) was created by the British phonetician Daniel Jones and was first published in 1917. It originally comprised over 50,000 headwords listed in their spelling form, each of which was given one or more pronunciations transcribed using a set of phonemic symbols based on a standard accent. The dictionary is now in its 18th edition. John C. Wells has written of it "EPD has set the standard against which other dictionaries must inevitably be judged".
+
+History
+The precursor to the English Pronouncing Dictionary was A Phonetic Dictionary of the English Language by Hermann Michaelis and Daniel Jones, published in Germany in 1913. In this work, the headwords of the dictionary were listed in phonemic transcription, followed by their spelling form, so the user needed to be aware of the phonemic composition of a word, in order to discover its spelling. A typical entry, given as an example in the preface, was eksplə'neiʃən 'explanation'. The user therefore had to have recognized the phoneme sequence /eksplə'neiʃən/, before they could discover the spelling form of the word. This format did not find favour and a German-British work was in any case not likely to do well at the time of the First World War.
+
+Editions 1—13: Jones published the EPD in 1917 with the publishing house Dent. Dent continued to produce the EPD until 1989. Some editions appeared under the title Everyman's English Pronouncing Dictionary.
+Edition 14: Jones died in 1967, and the work of editing the EPD was taken up by his pupil Alfred C. Gimson. Since the dictionary was produced by traditional typesetting until the 15th edition, any substantial revision involved considerable work and expense, but Gimson introduced a new style of phonemic transcription for the 14th edition, published in 1977. When the cost of producing a completely new edition was judged prohibitive, a revised version of the 14th with a supplementary annexe adding about 1000 words was published in 1988; Gimson's colleague Susan Ramsaran was his assistant editor for this work and completed it after Gimson's death in 1985. Subsequently, the rights to the EPD were acquired by [Cambridge University Press](645). According to his autobiography, John C. Wells was approached by Dent to succeed Gimson as the editor, only to decline the offer because Dent was "not prepared to make the major changes that Wells considered necessary" and compile an entirely new pronunciation dictionary to be published by Longman.
+Editions 15—18 (the Cambridge English Pronouncing Dictionary): Peter Roach became principal editor for the 15th edition. It was decided to add American pronunciations throughout, and James Hartman was appointed the American editor. The publishers moved to computer-based production, using optical scanning and character recognition of the preceding edition to compile a digital database ready for editing. The revision began in 1992, initially with Karen Stromberg as editorial assistant and subsequently with Jane Setter. More than 18,000 words were added and the new (15th) edition was published in 1997. The 16th edition was published in 2003, the 17th in 2006 and the 18th (current) edition in 2011. For the 17th and 18th editions, Jane Setter was one of the editors. For the 18th, John Esling replaced James Hartman as the American editor.
+In 2015 an electronic version of the 18th edition appeared: this is an app available for use on Apple's iPhone and iPad, sold through the Apple iStore. An Android version appeared in 2017.
+
+Model accent
+All editions have been based on a single accent (or a single American and a single British accent in the case of the 15th to 18th editions). The American accent is named GA (General American), but the British standard accent has been given different names at different times.
+
+SSE ('Standard Southern English', in Michaelis and Jones): "The pronunciation represented is that generally used by persons of culture in the South of England. This form of pronunciation is chosen not because it is intrinsically superior to any other, but because it is that generally found most useful by those studying the English language" (p vii)
+PSP ('Public School Pronunciation', EPD editions 1 and 2): the pronunciation is "that most usually heard in everyday speech in the families of Southern English persons whose menfolk have been educated at the great public boarding schools".
+RP ('Received Pronunciation', EPD editions 3 to 14)
+BBC ('BBC Pronunciation', EPD editions 15 to 18)
+
+Transcription conventions
+In all editions the transcription used is essentially phonemic, but the symbols and the conventions for their use have varied from time to time.
+
+Symbols in editions 1-13, edited by Jones: this form of transcription is characterized especially by the use of the length mark ("ː") as the sole differentiation between pairs of long and short vowels such as feet and fit, Luke and look (thus /fiːt, fit, luːk, luk/).
+The Gimson symbols (14th edition): in this system, there is some redundancy but a clearer demonstration of the phonetic quality of vowels as the long/short vowel pair are distinguished both by symbol shape and by the use of the length mark. Thus feet /fiːt/ and Luke /luːk/ are distinguished from fit /fɪt/ and look /lʊk/.
+Symbols used in 15th to 18th editions: these are essentially the same symbols as those devised by Gimson, but with the addition of the symbol /i/ for the "happY" vowel and the corresponding /u/ symbol for an unstressed close back rounded vowel (these symbols are not strictly phonemic). For the representation of American pronunciation the editors devised a transcription that retained a close similarity to the English symbols. However, the GOAT vowel is transcribed /oʊ/ for GA; "rhotic" symbols are used for the vowel in the first syllable of survive /sɚˈvaɪv/ and for the vowel in bird /bɝ:d/. For the benefit of non-American users, the convention of the diacritic ⟨ ̬⟩ is used to indicate probable 'tapping' or 'flapping' of /t/, thus 'better' /ˈbet̬ɚ/ (again, this is not a strictly phonemic transcription).
+
+Audio material
+At the time of the publication of the 16th edition, a CD-ROM disk (compatible with Windows but not with Apple computers) was produced which contains the full contents of the dictionary together with a recording of each headword, in British and American pronunciation. The recorded pronunciations can be played by clicking on a loudspeaker icon. A "sound search" facility is included to enable users to search for a particular phoneme or sequence of phonemes. Most of the recordings were made by actors or editorial staff. The recordings were completely revised for the 18th edition.
+
+See also
+A Pronouncing Dictionary of [American English](1173)
+CMU Pronouncing Dictionary
+
+References
+External links
+An English Pronouncing Dictionary, 6th ed. (1944) on Internet Archive
+A Phonetic Dictionary of the English Language (1913) on Internet Archive

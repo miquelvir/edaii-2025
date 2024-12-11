@@ -1,0 +1,4 @@
+4023
+Category:Use mdy dates from September 2023
+Wikipedia articles (tagged in this month) that use mm dd yyyy date formats, whether by application of the first main contributor rule or by virtue of close national ties to the subject belong in this category. Use {{Use mdy dates}} to add an article to this category. See MOS:DATE.
+This system of tagging or categorisation is used as a status monitor of all articles that use mm dd yyyy date formats, and not as a clean up.

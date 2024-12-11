@@ -1,0 +1,19 @@
+956
+Database-centric architecture
+[Database](955)-centric Architecture or data-centric architecture has several distinct meanings, generally relating to software architectures in which databases play a crucial role. Often this description is meant to contrast the design to an alternative approach. For example, the characterization of an architecture as "database-centric" may mean any combination of the following:
+
+using a standard, general-purpose relational database management system, as opposed to customized in-memory or file-based data structures and access methods. With the evolution of sophisticated DBMS software, much of which is either free or included with the operating system, application developers have become increasingly reliant on standard database tools, especially for the sake of rapid application development.
+using dynamic, table-driven logic, as opposed to logic embodied in previously compiled programs. The use of table-driven logic, i.e. behavior that is heavily dictated by the contents of a database, allows programs to be simpler and more flexible. This capability is a central feature of dynamic programming languages. See also control tables for tables that are normally coded and embedded within programs as data structures (i.e. not compiled statements) but could equally be read in from a flat file, database or even retrieved from a spreadsheet.
+using stored procedures that run on database servers, as opposed to greater reliance on logic running in middle-tier application servers in a multi-tier architecture. The extent to which business logic should be placed at the back-end versus another tier is a subject of ongoing debate. For example, Toon Koppelaars presents a detailed analysis of alternative Oracle-based architectures that vary in the placement of business logic, concluding that a database-centric approach has practical advantages from the standpoint of ease of development and maintainability and performance.
+using a shared database as the basis for communicating between parallel processes in distributed computing applications, as opposed to direct inter-process communication via message passing functions and message-oriented middleware. A potential benefit of database-centric architecture in distributed applications is that it simplifies the design by utilizing DBMS-provided transaction processing and indexing to achieve a high degree of reliability, performance, and capacity. For example, Base One describes a database-centric distributed computing architecture for grid and cluster computing, and explains how this design provides enhanced security, fault-tolerance, and scalability.
+an overall enterprise architecture that favors shared data models over allowing each application to have its own, idiosyncratic data model.
+Even an extreme database-centric architecture called RDBMS-only architecture has been proposed, in which the three classic layers of an application are kept within the RDBMS. This architecture heavily uses the DBPL ([Database](955) Programming Language) of the RDBMS. An example of software with this architecture is Oracle Application Express (APEX).
+
+See also
+Control tables
+Data-centric programming languages
+The data-driven programming paradigm, which makes the information used in a system the primary design driver.
+See the datacentricmanifesto.org
+
+
+== References ==

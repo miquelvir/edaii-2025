@@ -1,0 +1,86 @@
+4219
+Alsatian dialect
+[A](4202)lsatian ([A](4202)lsatian: Elsässisch or Elsässerditsch "[A](4202)lsatian German"; Lorraine Franconian: Elsässerdeitsch; French: [A](4202)lsacien; German: Elsässisch or Elsässerdeutsch) is the group of [A](4202)lemannic German dialects spoken in most of [A](4202)lsace, a formerly disputed region in eastern France that has passed between French and German control five times since 1681.
+
+Language family
+[A](4202)lsatian is closely related to other nearby [A](4202)lemannic dialects, such as Swiss German, Swabian, Markgräflerisch, Kaiserstühlerisch and the other [A](4202)lemannic dialects of [B](4258)aden. It is often confused with Lorraine Franconian, a more distantly related Franconian dialect spoken in the northwest corner of [A](4202)lsace and in neighbouring Lorraine. Like other dialects and languages, [A](4202)lsatian has also been influenced by outside sources. Words of Yiddish origin can be found in [A](4202)lsatian, and modern conversational [A](4202)lsatian includes adaptations of French words and English words, especially concerning new technologies.
+Many speakers of [A](4202)lsatian could, if necessary, write in reasonable standard German. For most this would be rare and confined to those who have learned German at school or through work. [A](4202)s with other dialects, various factors determine when, where, and with whom one might converse in [A](4202)lsatian. Some dialect speakers are unwilling to speak standard German, at times, to certain outsiders and prefer to use French. In contrast, many people living near the border with [B](4258)asel, Switzerland, will speak their dialect with a Swiss person from that area, as they are mutually intelligible for the most part; similar habits may apply to conversations with people of the nearby German Markgräflerland. Some street names in [A](4202)lsace may use [A](4202)lsatian spellings (they were formerly displayed only in French but are now bilingual in some places, especially Strasbourg and Mulhouse).
+
+Speakers
+Status of [A](4202)lsatian in France
+Since 1992, the constitution of the Fifth Republic states that French is the official language of the Republic. However, [A](4202)lsatian, along with other regional languages, is recognized by the French government in the official list of languages of France.  France is a signatory to the European [C](855)harter for Regional or Minority Languages but has never ratified the law and has not given regional languages the support that would be required by the charter.
+[A](4202)lsatian has gone from being the prevalent language of the region to one in decline.  [A](4202) 1999 INSEE survey counted 548,000 adult speakers of [A](4202)lsatian in France, making it the second-most-spoken regional language in the country (after Occitan). Like all regional languages in France, however, the transmission of [A](4202)lsatian is declining. While 43% of the adult population of [A](4202)lsace speaks [A](4202)lsatian, its use has been largely declining amongst the youngest generations.
+In 2023 local French public schools began offering [A](4202)lsatian immersion for the first time. The programs have proven popular with students and parents but after years of official state suppression of the language, struggle to find enough teachers.
+[A](4202) dialect of [A](4202)lsatian German is spoken in the United States by a group known as the Swiss [A](4202)mish, whose ancestors emigrated there in the middle of the 19th century. The approximately 7,000 speakers are located mainly in [A](4202)llen [C](855)ounty, Indiana, with "daughter settlements"Note 1 elsewhere.
+
+Orthography
+[C](855), Q, and X are only used in loanwords. Y is also used in native words, but is more common in loanwords.
+
+Orthal
+Orthal (Orthographe alsacienne) is a revised orthography meant for use by all dialects of [A](4202)lsatian promoted by the Office pour la Langue et les [C](855)ultures d'[A](4202)lsace et de Moselle (OL[C](855)[A](4202)).
+The latest version (2016) of Orthal is described below. Not all dialects are expected to use all letters & diacritics. For example, Owerlandisch from Southern [A](4202)lsace primarily uses the additional vowel letters, Ä À Ì Ü.
+Dialects from the north (Strasbourg region) make use of more letters including Ë, Ö, Ù and the diphthong ÈI.
+In general the principles of Orthal are to:
+
+Follow standard German orthography for the regular vowels [A](4202), E, I, O, U and their umlauted Standard German forms Ä, Ö, Ü
+For diphthongs & triphthongs that do not exist in Standard German Orthal combines standard German letters to create anew – e.g., ia, üe (or üa), öi, àui, äi (or èi)
+For vowel sounds not represented in the Standard German orthography, it uses the French acute & grave accent marks to create new graphemes that can represent sounds unique to the [A](4202)lsatian dialects
+It also follows standard German orthography for consonants as well.
+The vowels are pronounced short or long based on their position in the syllable besides the letter type.
+[A](4202) vowel at the end of a syllable, without a subsequent consonant, is a long vowel "V" = Long Vowel (LV). e.g., hà, sì
+[A](4202) vowel followed by a single consonant in a syllable is pronounced as a long vowel "V + [C](855)" = Long Vowel (LV). e.g., Ros
+Note – [A](4202) vowel followed by several consonants ("V + [C](855) + [C](855)") in a syllable is pronounced as a Short Vowel. e.g., Ross
+
+Monophthong – short vowels
+Monophthong – long vowels
+Phonology
+[C](855)onsonants
+[A](4202)lsatian has a set of 19 consonants:
+
+Three consonants are restricted in their distribution: /kʰ/ and /h/ only occur at the beginning of a word or morpheme, and then only if followed immediately by a vowel; /ŋ/ never occurs at the beginning of a word or morpheme.
+[A](4202)lsatian, like some German dialects, has lenited all obstruents but k. Its lenes are, however, voiceless as in all Southern German varieties. Therefore, they are here transcribed /b̥/, /d̥/, /ɡ̊/. Speakers of French tend to hear them as their /p, t, k/, which also are voiceless and unaspirated.
+The phoneme /ç/ has a velar allophone x after back vowels (/u/, /o/, /ɔ/, and /a/ in those speakers who do not pronounce this as æ), and palatal ç elsewhere. In southern dialects, there is a tendency to pronounce it /x/ in all positions, and in Strasbourg the palatal allophone tends to conflate with the phoneme /ʃ/. [A](4202) labiodental voiced fricative /v/ sound is also present as well as an approximant /ʋ/ sound. /ʁ/ may have phonetic realizations as ʁ, ʁ̞, and ʀ.
+
+Vowels
+Short vowels: /ʊ/, /o/, /ɒ/, /a/ (æ in Strasbourg), /ɛ/, /ɪ/, /i/, /y/.
+Long vowels: /ʊː/, /oː/, /ɒː/, /aː/, /ɛː/, /eː/, /iː/, /yː/
+
+Diphthongs
+Grammar
+[A](4202)lsatian nouns inflect by case, gender and number:
+
+Three cases: nominative, accusative, dative. Unlike Standard German, [A](4202)lsatian does not have a genitive case and instead utilises the dative or the preposition vu ("of", German "von") plus the dative to fulfill that role in certain cases.
+Three genders: masculine, feminine and neuter.
+Two numbers: singular and plural.
+
+[C](855)omparative vocabulary list
+See also
+[A](4202)dolphe Stoeber
+
+Notes
+^  When [A](4202)mish communities become too big, a number of families move away and form a new settlement, which is referred to as a daughter settlement. The settlement from which they leave is the mother settlement.
+
+References
+Sources
+Marthe Philipp and [A](4202)rlette [B](4258)othorel-Witz. 1990. Low [A](4202)lemannic. In [C](855)harles V. J. Russ (ed.), The Dialects of modern German: a linguistic survey, 313–336. Routledge.
+(in French) 1 François Héran, et al. (2002) "La Dynamique des langues en France au fil du XXe siècle". Population et sociétés 376, Ined.
+(in French) Le système ORTH[A](4202)L 2016 – Orthographe alsacienne - Quelques règles de base pour faciliter l’écriture et la lecture de l’alsacien dans toutes ses variantes », Jérôme Do [B](4258)entzinger, 2016
+(in French) "L'[A](4202)lsacien, deuxième langue régionale de France" (PDF). [C](855)hiffres pour l'[A](4202)lsace. INSEE. December 2002.
+(in French) [B](4258)runner, Jean-Jacques. L'[A](4202)lsacien sans peine. [A](4202)SSiMiL, 2001. IS[B](4258)N 2-7005-0222-1
+(in French) Jung, Edmond. Grammaire de L'[A](4202)lsacien. Dialecte de Strasbourg avec indications historiques. 1983. Straßburg: Ed. Oberlin.
+(in French) Laugel-Erny, Elsa. [C](855)ours d'alsacien. Les Editions du Quai, 1999.
+(in French) Matzen, Raymond, and Léon Daul. Wie Geht's ? Le Dialecte à la portée de tous La Nuée [B](4258)leue, 1999. IS[B](4258)N 2-7165-0464-4
+(in French) Matzen, Raymond, and Léon Daul. Wie Steht's ? Lexiques alsacien et français, Variantes dialectales, Grammaire La Nuée [B](4258)leue, 2000. IS[B](4258)N 2-7165-0525-X
+(in French) Steible, Lucie. Le contrôle temporel des consonnes occlusives de l’alsacien et du français parlé en [A](4202)lsace. Linguistique. Université de Strasbourg, 2014.
+(in French) Rünneburger, Henri. Dictionnaire alsacien-francais. 3 vols. Hamburg: [B](4258)aar 2021 (100.000 lemmata).
+(in French) Rünneburger, Henri. Grammaire de l'alsacien. Hamburg: [B](4258)aar 2023.
+
+External links
+
+Euromosaic: The status of Germanic languages in France (on website of Universitat Oberta de [C](855)atalunya).
+[A](4202)lsatian placenames
+Wörterbuch der elsässischen Mundarten (in German)
+[A](4202)lsatian artists
+Webschnuffler, article in the Frankfurter [A](4202)llgemeine Zeitung on new versions of Microsoft programs in [A](4202)lsatian (in German)
+Office pour la langue et les cultures d'[A](4202)lsace et de Moselle (in French and German)
+[A](4202)lsatian dictionary (in French) (in [A](4202)lsatian)

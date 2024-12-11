@@ -1,0 +1,30 @@
+832
+Basic-256
+Basic-256 is a project to learn the basics of computer programming. The project started in 2007 inspired by the article “Why Johnny can't code” by David Brin, which also inspired the creation of Microsoft Small Basic. Its main focus is to provide a simple and comprehensive environment for middle/high school students to learn the basics of computer programming.
+Basic-256 started as a simple version of [BASIC](748): the code editor, text output window and graphics display window are all visible in the same screen. However, successive versions have added new features, namely:
+
+Files (Eof, Size) – Version 9.4d
+Mouse events – Version 9.4d
+Sprites handling – Version 0.9.6n
+Database functions – Version 0.9.6y
+Network – Version 0.9.6.31
+Real Functions and Subroutines – Version 0.9.9.1
+Maps (Dictionaries) – Version 2.0.0.1
+Complete documentation is available in English, Russian, Dutch, Spanish and Portuguese.
+
+See also
+Microsoft Small Basic
+Thonny
+Toolbox
+Kojo
+JUDO
+
+References
+External links
+Home Page – user manuals and tutorials
+Basic Book – Learn to program Basic-256 with a free Creative Commons e-book.
+Basic bits Blog – Short programs in Basic 256.
+UglyMike's Web Lair Archived 2021-03-03 at the Wayback Machine – Demos and Widgets.
+Basic 256 in Rosetta Code – Language chrestomathy (comparison) site.
+Basic256 at Escuela 31 – Class based Exercises in Spanish
+Basic256 German tutorial – German Tutorial (Public Domain)

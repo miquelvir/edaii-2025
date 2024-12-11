@@ -1,0 +1,44 @@
+865
+JetBrains
+JetBrains s.r.o. (formerly IntelliJ Software s.r.o.) is a  Czech software development private limited company which makes tools for software developers and project managers. The company has its headquarters in Prague, and has offices in China, Europe, and the United States.
+The company offers integrated development environments (IDEs) for a variety of programming languages. The company created the Kotlin programming language, which can run in a Java virtual machine (JVM), in 2011.
+InfoWorld magazine awarded the firm "Technology of the Year Award" in 2011 and 2015.
+
+History
+JetBrains, initially called IntelliJ Software, was founded in 2000 in Prague by three Russian software developers: Sergey Dmitriev, Valentin Kipyatkov and Eugene Belyaev. The company's first product was IntelliJ Renamer, a tool for code refactoring in Java.
+In 2012 CEO Sergey Dmitriev was replaced by Oleg Stepanov and Maxim Shafirov.
+In 2021 The New York Times stated that unknown parties might have embedded malware in JetBrains' TeamCity CI/CD software that led to the SolarWinds hack and other widespread security compromises. In a press release, JetBrains said they had not been contacted by any government or security agency and had not "taken part or been involved in this attack in any way". The CEO of one of the affected companies, SolarWinds, "asked about the possibility that software tools made by JetBrains, which speeds the development and testing of code, was the pathway, Mr. Ramakrishna said there was still no evidence".
+In response to the 2022 Russian invasion of Ukraine, the company suspended sales and R&D activities in Russia indefinitely as well as sales in Belarus. JetBrains' Russian legal entity was liquidated on 21 February 2023.
+Effective 1 February 2024, Kirill Skrygan replaced Max Shafirov as CEO.
+
+Products
+IDEs
+The following is a non-exhaustive list of integrated development environments (IDEs) distributed by JetBrains.
+
+Programming languages
+Kotlin is an open-source, statically typed programming language that runs on the Java Virtual Machine and also compiles to JavaScript or native code (via LLVM). The name comes from the Kotlin Island, near St. Petersburg. 
+JetBrains MPS is an open-source language workbench for domain-specific languages (DSLs). 
+Ktor is a Kotlin-based programming framework for developing "connected applications", using the same framework on both server (JVM) and client (JavaScript, Android, and iOS).
+
+Team tools
+TeamCity is a continuous integration and continuous delivery server developed by JetBrains. It is a server-based web application written in Java. The New York Times reported that TeamCity may have been used by Russian hackers of US governmental and private agencies, in potentially "the biggest breach of United States networks in history". 
+Upsource is a code review and repository browsing tool supporting Git, GitHub, Mercurial, Perforce and/or Subversion repositories from a central location. JetBrains released a new developer collaboration tool, Space, in 2019. It began sunsetting Upsource in 2022, officially ending support for the product in January 2023. In May 2024, a rebranding from Space to SpaceCode is initiated for the platform to focus on Git hosting and code reviews.
+YouTrack is a proprietary, commercial web-based bug tracker, issue tracking system, and project management software developed by JetBrains. As of April 2023, YouTrack has a ticket-based helpdesk solution for customer support and service desk processes.
+Qodana is a code quality analysis tool that uses static code analysis to help with users with code reviews, building quality gates, and the implementation of code quality guidelines. It was publicly launched in July 2023 and can be used with IDEs in JetBrains's ecosystem, has CI/CD pipeline integration, while supporting code analysis in over 60 programming languages.
+
+Others
+Datalore is a web application for data analysis and visualization, which is focused specifically on the machine learning environment in Python. JetBrains Academy is an online platform to learn programming, including such programming languages as Python, Java, and Kotlin. The Academy was introduced by JetBrains in 2019, and reached 200,000 users by July 2020. Certifications were added in November 2021 after community feedback prioritized verifiability of the work done on projects. JetBrains have also developed EduTools plugin for student, this plugin is compatible with IntelliJ IDEA (Ultimate, Community, Educational), [Android Studio](812), CLion, GoLand, PhpStorm, PyCharm (Professional, Community, Educational), WebStorm.
+
+Open source projects
+In 2009, JetBrains open-sourced the core functionality of IntelliJ IDEA by offering the free Community Edition. It is built on the IntelliJ Platform and includes its sources. JetBrains released both under [Apache License](729) 2.0. In 2010, Android support became a part of the Community Edition, and two years later Google announced its [Android Studio](812), the IDE for mobile development on Android platform built on the Community Edition of IntelliJ IDEA and an official alternative to Eclipse Android Developer Tool. In June 2015, it was announced that the support of Eclipse ADT would be discontinued making [Android Studio](812) the official tool for Android App development.
+
+JetBrains Mono
+In January 2020, JetBrains released a geometric monospaced font called JetBrains Mono, made the default font for their IDEs, under the [Apache License](729) 2.0. The font is designed for reading source code by being optimized for reading vertically with support for programming ligatures.
+
+See also
+GitHub Copilot
+Visual Assist
+
+References
+External links
+Official website

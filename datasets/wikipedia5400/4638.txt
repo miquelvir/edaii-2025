@@ -1,0 +1,184 @@
+4638
+Assiniboine language
+The Assiniboine language (; also known as Assiniboin, Hohe, or Nakota, Nakoda, Nakon or Nakona, or Stoney) is a Nakotan Siouan language of the Northern Plains. The name Assiniboine comes from the term Asiniibwaan, from Ojibwe, meaning 'Stone Siouans'. The reason they were called this was that Assiniboine people used heated stone to boil their food. In [Canada](1956), Assiniboine people are known as Stoney Indians, while they called themselves Nakota or Nakoda, meaning 'allies'.
+
+Classification
+The Dakotan group of the Siouan family has five main divisions: Dakota (Santee-Sisseton), Dakota (Yankton-Yanktonai), Lakota (Teton), Nakoda (Assiniboine) and Nakoda (Stoney). Along with the closely related Stoney, Assiniboine is an n variety of the Dakotan languages, meaning its autonym is pronounced with an initial n (thus: Nakʰóta as opposed to Dakʰóta or Lakʰóta, and Nakʰóda or Nakʰóna as opposed to Dakʰód or Lakʰól). The Assiniboine language is also closely related to the Sioux language and to the Stoney language (likewise called Nakoda or Nakota), although they are hardly mutually intelligible.
+
+Official status
+The Assiniboine language is not a government-recognized official language of any state or region where Assiniboine people live. There are two reservations located in Montana, but the official language of the state is English. An estimate of native speakers ranges from less than 50, to about 100, to about 150 Assiniboine people, most of them elderly. A 2021 study of Indigenous languages in [Canada](1956) put Assiniboine at 350 speakers.
+
+Phonology
+The phonemic inventory has 27 consonants, which includes aspirated, plain, and ejective stops. In addition to this, it has five oral vowels and three nasal vowels. It is a structure-preserving language. Assiniboine has no definite or indefinite articles, no nominal case system, and no verbal tense marking. Clauses unmarked are "realized," while clauses marked as "potential" by means of verbal enclitic, which is successful in producing a future/non-future distinction. The verbal system is split into active and stative (split-intransitive). The active object pronominal affixes coincide with the stative verbs of the subject pronominal affixes.
+
+The affricates and stops of Assiniboine are often described as voiced rather than voiceless, due to intervocalic voicing rules which result in surface voiced forms.
+
+Oral vowels
+Nasal vowels
+There are five oral vowels in Assiniboine, /i u e o a/, and three nasal vowels, /ĩ ũ ã/.
+Words that follow the above rules:
+
+/bahá/ 'hill'
+/pahá/ 'hair'
+/čupó/ 'fog'
+/ptą/ 'otter'
+/pka/ 'heavy'
+/psi/ 'rice'
+/pša/ 'to sneeze'
+
+Syllable structure
+Syllables are primarily of CV structure. While codas are possible, they are restricted and uncommon, often becoming restructured as the onset of the following syllable. Onsets may include up to two consonants but codas must be simplex. Possible onset clusters are given in the following table:
+
+Grammar
+Morphology
+Morphological processes for Assiniboine language are primarily agglutinating. In addition, the character of morpheme alternation in Assiniboine may be classified in terms of phoneme loss, phoneme shift, contraction, nasalization loss, syllable loss, syntactic contraction, and syntactic alternation.
+
+Morphophonemics
+Examples from Levin (1964).
+Contraction->When two syllabics come into contact they contract as in:
+
+/a/+/i/ > /i/
+
+/i/+/i/ > /i/
+
+/a/+/u/ > /u/
+
+Phoneme loss: Syllabics
+when /a/ is in medial position between /k/ and /h/:
+
+/a/> /∅/
+
+when /o/ is in the medial position between /i/ and /k/:
+
+/o/>/∅/
+
+when /e/ is in medial position between /p/ and /k/:
+
+/e/>/Φ/
+
+Phoneme loss: semi-syllabics
+
+/y/ > /∅/ when
+
+/y/ follows /n/
+
+Phoneme loss: non-syllabics
+/k/ is in medial position between /u/ and /k/ or /u/ and /h/ or /u/ and /n/ or /u/ and /y/
+
+/k/ > /∅/
+
+Phoneme shift: syllabics
+
+/i/ > /a/ before /n/
+
+Phoneme shift: non-syllabics
+When /a/--/e/ is in medial position between /g/ and /š/
+
+/g/ > /x/
+
+When /a/--/e/ is in medial position between /g/ and /c/
+
+/g/ > /x/
+
+When /g/ is in medial position between /a/ and /y/
+
+/g/ > /x/
+
+Nasalization loss exists as follows:
+
+/ą/ > /a/
+
+Syllable loss occurs as follows:
+
+/ye/ > /Φ/ Ex) iyópe... ye 'to pay' so, iyópe + wa + ye > iyópewa 'I pay'
+Syntactic contraction: personal inflectional morphemes
+
+wa 'I' + ni 'you' > ci 'I...you';
+
+Syntactic contraction with verbal themes occurs as follows:
+
+/i/ + /k/ – /kk/ > c;
+
+Syntactic alternation
+
+/a/ > /e/ in verbal theme
+
+/a/>/e/ in nomial theme
+
+/a/>/e/ with the future suffix;
+
+Syntax
+Assiniboine has SOV word order. The order of elements may differ from canonical SOV; this is not free nor scrambling word order, but instead, the result of topicalization or other movements. Out-of-context sentences are always interpreted as SOV order even if it sounds odd. For example, 'the man bit the dog', unless an element is moved into a focus position. Focused element sentences are highly marked, and practically, a strange semantic reading is preferred over an interpretation of OSV. For example, the following sentence was interpreted as 'A banana ate the boy' by a native speaker, and to get the OSV reading out of it the object must be stressed, for example if the sentence was given as a reply to the question 'What did the boy eat?'.
+
+Vocabulary
+wąži – one
+nųba – two
+yamni – three
+tópa – four
+záptą – five
+šákpe – six
+iyušna – seven
+šaknoğą – eight
+napcuwąga – nine
+wikcémna – ten
+saba – black
+ska – white
+ša – red
+to – blue
+More words can be found in the Dakota-English Dictionary.
+
+Writing system
+Class 1
+
+wa- 1st person+singular
+ya- 2nd person
+Class 2
+
+ma- 1st person+singular
+ni- 2nd person
+For both class 1 and 2
+
+ũ- 1st person-singular
+o- 3rd person
+wica- 3rd person
+ci- 1st person + singular subject/ 2nd person object
+
+Related languages
+Sioux, Assiniboine, and Stoney are closely related languages of the Dakota family. Many linguists consider Assiniboine and Stoney to be dialects. However, they are mutually unintelligible. Parks and DeMallie report that they are not variant forms of a single dialect, but that Assiniboine is closer to the Sioux dialects than it is to Stoney. The exact number of interrelationships among the subdialects and dialects comprising this continuum is unknown.
+
+Geographic distribution
+The languages of the Dakotan group are spoken in the following regions:
+
+[Canada](1956)
+[Alberta](3213)
+Manitoba
+Saskatchewan
+[United States](1100)
+Minnesota
+Montana
+Nebraska
+North Dakota
+South Dakota
+
+D-N-L classification system
+The Assiniboine language (Nakota), the Dakota language and the Lakota language are usually classified into a group with D-N-L subgroup classification. As suggested by the name of the system, the variation in pronunciations of certain words follows the D-N-L rule. A typical example is given below:
+
+Santee-Sisseton and Yankton-Yanktonai are languages that belong to the Dakotan group and Teton is a language in the Lakotan group. The table above illustrates a typical variation amongst these three languages. Just as the name of these three tribes suggest, the Dakota language, the Lakota language and the Nakota (Assiniboine) language have respective inclinations towards /d/, /l/, and /n/ in some substitutable consonants.
+
+Arguments against the classification system
+Some scholars argue that the D-N-L classification system may not be totally accurate due to the non-rigidness of the substitution form. Siouan Indians live on an expansive continuum such that the distinction between different languages does not manifest in a rigid, clear-cutting criterion. Historically, linguists have debated on Yankton-Yanktonai languages and their proper positions into the D-N-L classification system, but the coexistence of /d/ and /n/ phonemes made such classification doubtful. This example of lexical difference between the languages of the Siouan group illustrates another possible distinction besides the D-N-L variations.
+
+Notes
+References
+Bibliography
+Cumberland, Linda (2005). A grammar of Assiniboine: a Siouan language of the Northern Plains (Ph.D. Thesis). Indiana University.
+Parks, Douglas R.; DeMallie, Raymond J. (1992). "Sioux, Assiniboine, and Stoney Dialects: A Classification". Anthropological Linguistics. 34 (1/4): 233–255. JSTOR 30028376.
+West, Shannon L. (2003). Subjects and Objects in Assiniboine Nakoda (Doctoral dissertation). University of Victoria. hdl:1828/371.
+
+External links
+
+A video of Fred Spyglass (Mosquito First Nation) counting
+Video on Assiniboine history
+Language Geek:Assiniboine
+Native Languages: Assiniboine
+Online dictionary of Assniboine, American Indian Studies Research Institute

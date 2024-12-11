@@ -1,0 +1,38 @@
+3892
+Carneades
+Carneades (; Greek: Καρνεάδης, Karneadēs, "of Carnea"; 214/3–129/8 BC) was a Greek philosopher, perhaps the most prominent head of the Skeptical Academy in ancient Greece. He was born in Cyrene. By the year 159 BC, he had begun to attack many previous dogmatic doctrines, especially Stoicism and even the Epicureans, whom previous skeptics had spared.
+As scholarch (leader) of the Academy, he was one of three philosophers sent to Rome in 155 BC where his lectures on the uncertainty of justice caused consternation among leading politicians. He left no writings. Many of his opinions are known only via his successor Clitomachus.  He seems to have doubted the ability not just of the senses but of reason too in acquiring truth. His skepticism was, however, moderated by the belief that we can, nevertheless, ascertain probabilities (not in the sense of statistical probability, but in the sense of persuasiveness) of truth, to enable us to act.
+
+Biography
+Carneades, the son of Epicomus or Philokomus, was born at Cyrene, North Africa in 214/213 BC. He migrated early to [Athens](599). There he attended the lectures of the Stoics, learning their logic from Diogenes of Babylon and studying the works of Chrysippus. He subsequently focused his efforts on refuting the Stoics, attaching himself to the Platonic Academy, which had suffered from the attacks of the Stoics. On the death of Hegesinus of Pergamon, he was chosen scholarch (head) of the Academy. His great eloquence and skill in argument revived the glories of the Academic Skeptics. He asserted nothing (not even that nothing can be asserted), and carried on a vigorous argument against every dogma maintained by other sects.
+In the year 155 BC, when he was fifty-eight years old, he was chosen with the Stoic Diogenes of Babylon and the Peripatetic Critolaus to go as ambassadors to Rome to deprecate the fine of 500 talents which had been imposed on the Athenians for the destruction of Oropus. During his stay at Rome, he attracted great notice from his eloquent speeches on philosophical subjects. It was here that, in the presence of Cato the Elder, he delivered his several orations on justice. The first oration was in commendation of the virtue of Roman justice. The next day he delivered the second oration, in which he refuted all the arguments he had made the day before. He persuasively attempted to prove that justice was inevitably problematic, and not a given when it came to virtue, but merely a compact device deemed necessary for the maintenance of a well-ordered society. This oration shocked Cato. Recognizing the potential danger of Carneades' arguments, Cato moved the Roman Senate to send Carneades back to [Athens](599) to prevent Roman youth from being exposed to a re-examining of Roman doctrines. Carneades lived twenty-seven years after this at [Athens](599).
+Due to Carneades' ill health, he was succeeded as scholarch by Polemarchus of Nicomedia (137/136 BC), who died 131/130 BC and was succeeded by Crates of Tarsus. Crates died in 127/126 BC and was succeeded by Clitomachus.  Carneades died in 129/128 BC, at the advanced age of 85 (although [Cicero](2074) says 90).
+Carneades is described as a man of unwearied industry. He was so engrossed in his studies, that he let his hair and nails grow to an immoderate length, and was so absent at his own table (for he would never dine out), that his servant and concubine, Melissa, was constantly obliged to feed him. Latin writer and author Valerius Maximus, to whom we owe the last anecdote, tells us that Carneades, before discussing with Chrysippus, was wont to purge himself with hellebore, to have a sharper mind. In his old age, he suffered from cataract in his eyes, which he bore with great impatience, and was so little resigned to the decay of nature, that he used to ask angrily, if this was the way in which nature undid what she had done, and sometimes expressed a wish to poison himself.
+
+Philosophy
+Carneades is known as an Academic Skeptic.  Academic Skeptics (so called because this was the type of skepticism taught in Plato's Academy in [Athens](599)) hold that all knowledge is impossible, except for the knowledge that all other knowledge is impossible.
+Carneades left no writings, and all that is known of his lectures is derived from his intimate friend and pupil, Clitomachus; but so true was he to his own principles of withholding assent, that Clitomachus confesses he never could ascertain what his master really thought on any subject. In ethics, which more particularly were the subject of his long and laborious study, he seems to have denied the conformity of the moral ideas with nature. This he particularly insisted on in the second oration on Justice, in which he manifestly wished to convey his own notions on the subject; and he there maintains that ideas of justice are not derived from nature, but that they are purely artificial for purposes of expediency.
+All this, however, was nothing but the special application of his general theory, that people did not possess, and never could possess, any criterion of truth.
+Carneades argued that, if there were a criterion, it must exist either in reason (logos), or sensation (aisthêsis), or conception (phantasia). But then reason itself depends on conception, and this again on sensation; and we have no means of judging whether our sensations are true or false, whether they correspond to the objects that produce them, or carry wrong impressions to the mind, producing false conceptions and ideas, and leading reason also into error. Therefore, sensation, conception, and reason, are alike disqualified for being the criterion of truth.
+But after all, people must live and act, and must have some rule of practical life; therefore, although it is impossible to pronounce anything as absolutely true, we may yet establish probabilities of various degrees. For, although we cannot say that any given conception or sensation is in itself true, yet some sensations appear to us more true than others, and we must be guided by that which seems the most true. Again, sensations are not single, but generally combined with others, which either confirm or contradict them; and the greater this combination the greater is the probability of that being true which the rest combine to confirm; and the case in which the greatest number of conceptions, each in themselves apparently most true, should combine to affirm that which also in itself appears most true, would present to Carneades the highest probability, and his nearest approach to truth.
+
+See also
+Academica ([Cicero](2074))
+Anti-realism
+Moral relativism
+Philosophical skepticism
+Pyrrhonism
+Subjectivism
+
+Notes
+Sources
+Dorandi, Tiziano (1999). "Chapter 2: Chronology". In Algra, Keimpe; et al. (eds.). The Cambridge History of Hellenistic Philosophy. Cambridge: Cambridge University Press. pp. 33, 48. ISBN 9780521250283.
+ This article incorporates text from a publication now in the public domain: Grenfell, Algernon (1870). "Carneades". In Smith, William (ed.). Dictionary of Greek and Roman Biography and Mythology. Vol. 1. p. 614.
+
+External links
+
+Allen, James. "Carneades". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+"Carneades". Internet Encyclopedia of Philosophy.
+ "The Academics: Carneades" . Lives of the Eminent Philosophers. Vol. 1:4. 1925.
+"Carneades" . Encyclopedia Americana. 1920.
+"Carneades" . Encyclopædia Britannica (11th ed.). 1911.

@@ -1,0 +1,236 @@
+761
+Blender (software)
+Blender is a free and open-source 3D computer graphics software tool set that runs on Windows, MacOS, [BSD](750), Haiku, IRIX and Linux. It is used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.
+
+History
+Blender was initially developed as an in-house application by the Dutch animation studio NeoGeo (no relation to the video game brand), and was officially launched on January 2, 1994. Version 1.00 was released in January 1995, with the primary author being the company co-owner and software developer Ton Roosendaal. The name Blender was inspired by a song by the Swiss electronic band Yello, from the album Baby, which NeoGeo used in its showreel. Some design choices and experiences for Blender were carried over from an earlier software application, called Traces, that Roosendaal developed for NeoGeo on the Commodore Amiga platform during the 1987–1991 period.
+On January 1, 1998, Blender was released publicly online as SGI freeware. NeoGeo was later dissolved, and its client contracts were taken over by another company. After NeoGeo's dissolution, Ton Roosendaal founded Not a Number Technologies (NaN) in June 1998 to further develop Blender, initially distributing it as shareware until NaN went bankrupt in 2002. This also resulted in the discontinuation of Blender's development.
+In May 2002, Roosendaal started the non-profit Blender Foundation, with the first goal to find a way to continue developing and promoting Blender as a community-based open-source project. On July 18, 2002, Roosendaal started the "Free Blender" campaign, a crowdfunding precursor. The campaign aimed at open-sourcing Blender for a one-time payment of €100,000 (USD 100,670 at the time), with the money being collected from the community. On September 7, 2002, it was announced that they had collected enough funds and would release the Blender source code. Today, Blender is free and open-source software, largely developed by its community as well as 26 full-time employees and 12 freelancers employed by the Blender Institute.
+The Blender Foundation initially reserved the right to use dual licensing so that, in addition to GPL 2.0-or-later, Blender would have been available also under the "Blender License", which did not require disclosing source code but required payments to the Blender Foundation. However, this option was never exercised and was suspended indefinitely in 2005. Blender is solely available under "GNU GPLv2 or any later" and was not updated to the GPLv3, as "no evident benefits" were seen. The binary releases of Blender are under GNU GPLv3 or later because of the incorporated Apache libraries.
+In 2019, with the release of version 2.80, the integrated game engine for making and prototyping video games was removed; Blender's developers recommended that users migrate to more powerful open source game engines such as Godot instead.
+
+Suzanne
+In February 2002, the fate of the Blender software company, NaN, became evident as it faced imminent closure in March. Nevertheless, one more release was pushed out, Blender 2.25. As a sort of Easter egg and last personal tag, the artists and developers decided to add a 3D model of a chimpanzee head (called a "monkey" in the software). It was created by Willem-Paul van Overbruggen (SLiD3), who named it Suzanne, after the orangutan in the Kevin Smith film Jay and Silent Bob Strike Back.
+Suzanne is Blender's alternative to more common test models such as the Utah Teapot and the Stanford Bunny. A low-polygon model with only 500 faces, Suzanne is included in Blender and often used as a quick and easy way to test materials, animations, rigs, textures, and lighting setups. It is as easily added to a scene as primitives such as a cube or plane.
+The largest Blender contest gives out an award called the Suzanne Award, underscoring the significance of this unique 3D model in the Blender community.
+
+Features
+Modeling
+Blender has support for a variety of geometric primitives, including polygon meshes, Bézier curves, NURBS surfaces, metaballs, icospheres, text, and an n-gon modeling system called B-mesh. There is also an advanced polygonal modelling system which can be accessed through an edit mode. It supports features such as extrusion, bevelling, and subdividing.
+
+Modifiers
+Modifiers apply non-destructive effects which can be applied upon rendering or exporting, such as subdivision surfaces.
+
+Sculpting
+Blender has multi-resolution digital sculpting, which includes dynamic topology, "baking", remeshing, re-symmetrization, and decimation. The latter is used to simplify models for exporting purposes (an example being game assets).
+
+Geometry nodes
+Blender has a node graph system for procedurally and non-destructively creating and manipulating geometry. It was first added to Blender 2.92, which focuses on object scattering and instancing. It takes the form of a modifier, so it can be stacked over other different modifiers. The system uses object attributes, which can be modified and overridden with string inputs. Attributes can include positions, normals and UV maps. All attributes can be viewed in an attribute spreadsheet editor. The Geometry Nodes utility also has the capability of creating primitive meshes. In Blender 3.0, support for creating and modifying curves objects was added to Geometry Nodes; in the same release, the Geometry Nodes workflow was completely redesigned with fields, in order to make the system more intuitive and work like shader nodes.
+
+Simulation
+Blender can be used to simulate smoke, rain, dust, cloth, fluids, hair, and rigid bodies.
+
+Fluid simulation
+The fluid simulator can be used for simulating liquids, like water being poured into a cup. It uses Lattice Boltzmann methods (LBM) to simulate fluids and allows for plenty of adjustment of particles and resolution. The particle physics fluid simulation creates particles that follow the smoothed-particle hydrodynamics method.
+Blender has simulation tools for soft-body dynamics, including mesh collision detection, LBM fluid dynamics, smoke simulation, Bullet rigid-body dynamics, an ocean generator with waves, a particle system that includes support for particle-based hair, and real-time control during physics simulation and rendering.
+In Blender 2.82, a new fluid simulation system called Mantaflow was added, replacing the old FLIP system. In Blender 2.92, another fluid simulation system called APIC, which builds on Mantaflow, was added. Vortices and more stable calculations are improved from the FLIP system.
+
+Cloth Simulation
+Cloth simulation is done by simulating vertices with a rigid body simulation. If done on a 3D mesh, it will produce similar effects as the soft body simulation.
+
+Animation
+Blender's keyframed animation capabilities include inverse kinematics, armatures, hooks, curve- and lattice-based deformations, shape keys, non-linear animation, constraints, and vertex weighting. In addition, its Grease Pencil tools allow for 2D animation within a full 3D pipeline.
+
+Rendering
+Blender includes three render engines since version 2.80: EEVEE, Workbench and Cycles.
+Cycles is a path tracing render engine. It supports rendering through both the CPU and the GPU. Cycles supports the Open Shading Language since Blender 2.65.
+Cycles Hybrid Rendering is possible in Version 2.92 with Optix. Tiles are calculated with GPU in combination with CPU.
+EEVEE is a new physically based real-time renderer. While it is capable of driving Blender's real-time viewport for creating assets thanks to its speed, it can also work as a renderer for final frames.
+Workbench is a real-time render engine designed for fast rendering during modelling and animation preview. It is not intended for final rendering. Workbench supports assigning colors to objects for visual distinction.
+
+Cycles
+Cycles is a path-tracing render engine that is designed to be interactive and easy to use, while still supporting many features. It has been included with Blender since 2011, with the release of Blender 2.61. Cycles supports with AVX, AVX2 and AVX-512 extensions, as well as CPU acceleration in modern hardware.
+
+GPU rendering
+Cycles supports GPU rendering, which is used to speed up rendering times. There are three GPU rendering modes: CUDA, which is the preferred method for older Nvidia graphics cards; OptiX, which utilizes the hardware ray-tracing capabilities of Nvidia's Turing architecture & Ampere architecture; HIP, which supports rendering on AMD Radeon graphics cards; and oneAPI for Intel Arc GPUs. The toolkit software associated with these rendering modes does not come within Blender and needs to be separately installed and configured as per their respective source instructions.
+Multiple GPUs are also supported (with the notable exception of the EEVEE render engine) which can be used to create a render farm to speed up rendering by processing frames or tiles in parallel—having multiple GPUs, however, does not increase the available memory since each GPU can only access its own memory. Since Version 2.90, this limitation of SLI cards is broken with Nvidia's NVLink.
+Apple's Metal API got initial implementation in Blender 3.1 for Apple computers with M1 chips and AMD graphics cards.
+
+Integrator
+The integrator is the core rendering algorithm used for lighting computations. Cycles currently supports a path tracing integrator with direct light sampling. It works well for a variety of lighting setups, but it is not as suitable for caustics and certain other complex lighting situations. Rays are traced from the camera into the scene, bouncing around until they find a light source (a lamp, an object material emitting light, or the world background), or until they are simply terminated based on the number of maximum bounces determined in the light path settings for the renderer. To find lamps and surfaces emitting light, both indirect light sampling (letting the ray follow the surface bidirectional scattering distribution function, or [BSD](750)F) and direct light sampling (picking a light source and tracing a ray towards it) are used.
+The default path tracing integrator is a "pure" path tracer. This integrator works by sending several light rays that act as photons from the camera out into the scene. These rays will eventually hit either: a light source, an object, or the world background. If these rays hit an object, they will bounce based on the angle of impact, and continue bouncing until a light source has been reached or until a maximum number of bounces, as determined by the user, which will cause it to terminate and result in a black, unlit pixel. Multiple rays are calculated and averaged out for each pixel, a process known as "sampling". This sampling number is set by the user and greatly affects the final image. Lower sampling often results in more noise and has the potential to create "fireflies" (which are uncharacteristically bright pixels), while higher sampling greatly reduces noise, but also increases render times.
+The alternative is a branched path tracing integrator, which works mostly the same way. Branched path tracing splits the light rays at each intersection with an object according to different surface components, and takes all lights into account for shading instead of just one. This added complexity makes computing each ray slower but reduces noise in the render, especially in scenes dominated by direct (one-bounce) lighting. This was removed in Blender 3.0 with the advent of Cycles X, as improvements to the pure path tracing integrator made the branched path tracing integrator redundant
+
+Open Shading Language
+Blender users can create their own nodes using the Open Shading Language (OSL); this allows users to create stunning materials that are entirely procedural, which allows them to be used on any objects without stretching the texture as opposed to image-based textures which need to be made to fit a certain object. (Note that the shader nodes editor is shown in the image, although mostly correct, has undergone a slight change, changing how the UI is structured and looks.
+
+Materials
+Materials define the look of meshes, NURBS curves, and other geometric objects. They consist of three shaders to define the mesh's surface appearance, volume inside, and surface displacement.
+The surface shader defines the light interaction at the surface of the mesh. One or more bidirectional scattering distribution functions, or [BSD](750)Fs, can specify if incoming light is reflected, refracted into the mesh, or absorbed. The alpha value is one measure of translucency.
+When the surface shader does not reflect or absorb light, it enters the volume (light transmission). If no volume shader is specified, it will pass straight through (or be refracted, see refractive index or IOR) to another side of the mesh.
+If one is defined, a volume shader describes the light interaction as it passes through the volume of the mesh. Light may be scattered, absorbed, or even emitted at any point in the volume.
+The shape of the surface may be altered by displacement shaders. In this way, textures can be used to make the mesh surface more detailed.
+Depending on the settings, the displacement may be virtual-only modifying the surface normals to give the impression of displacement (also known as bump mapping) – real, or a combination of real displacement with bump mapping.
+
+EEVEE
+EEVEE (or Eevee) is a real-time PBR renderer included in Blender from version 2.8. This render engine was given the nickname EEVEE, after the Pokémon. The name was later made into the backronym "Extra Easy Virtual Environment Engine" or EEVEE.
+With the release of Blender 4.2 LTS in July 2024, EEVEE received an overhaul by its lead developer, Clément Foucault, called EEVEE Next. EEVEE Next boasts a variety of new features for Blender's real-time and rasterised renderer, including screen-space global illumination (SSGI), virtual shadowmapping, sunlight extraction from HDRIs, and a rewritten system for reflections and indirect lighting via light probe volumes and cubemaps. EEVEE Next also brings improved volumetric rendering, along with support for displacement shaders and an improved depth of field system similar to Cycles.
+Plans for future releases of EEVEE include support for hardware-accelerated ray-tracing and continued improvements to performance and shader compilation.
+
+Workbench
+Using the default 3D viewport drawing system for modeling, texturing, etc.
+
+External renderers
+Free and open-source:
+
+Mitsuba Renderer
+YafaRay (previously Yafray)
+LuxCoreRender (previously LuxRender)
+Appleseed Renderer
+POV-Ray
+NOX Renderer
+Armory3D – a free and open source game engine for Blender written in Haxe
+Radeon ProRender – Radeon ProRender for Blender
+Malt Render – a non-photorealistic renderer with GLSL shading capabilities
+Proprietary:
+
+Pixar RenderMan – Blender render addon for RenderMan
+Octane Render – OctaneRender plugin for Blender
+Indigo Renderer – Indigo for Blender
+V-Ray – V-Ray for Blender, V-Ray Standalone is needed for rendering
+Maxwell Render – B-Maxwell addon for Blender
+Thea Render – Thea for Blender
+Corona Renderer – Blender To Corona exporter, Corona Standalone is needed for rendering
+
+Texturing and shading
+Blender allows procedural and node-based textures, as well as texture painting, projective painting, vertex painting, weight painting and dynamic painting.
+
+Post-production
+Blender has a node-based compositor within the rendering pipeline, which is accelerated with OpenCL, and in 4.0 it supports GPU. It also includes a non-linear video editor called the Video Sequence Editor (VSE), with support for effects like Gaussian blur, color grading, fade and wipe transitions, and other video transformations. However, there is no built-in multi-core support for rendering video with the VSE.
+
+Plugins/addons and scripts
+Blender supports Python scripting for the creation of custom tools, prototyping, importing/exporting from other formats, and task automation. This allows for integration with several external render engines through plugins/addons.  Blender itself can also be compiled & imported as a python library for further automation and development.
+
+File format
+Blender features an internal file system that can pack multiple scenes into a single ".blend" file.
+
+Most of Blender's ".blend" files are forward, backward, and cross-platform compatible with other versions of Blender, with the following exceptions:
+Loading animations stored in post-2.5 files in Blender pre-2.5. This is due to the reworked animation subsystem introduced in Blender 2.5 being inherently incompatible with older versions.
+Loading meshes stored in post 2.63. This is due to the introduction of BMesh, a more versatile mesh format.
+Blender 2.8 ".blend" files are no longer fully backward compatible, causing errors when opened in previous versions.
+Many 3.x ".blend" files are not completely backwards-compatible as well, and may cause errors with previous versions.
+All scenes, objects, materials, textures, sounds, images, and post-production effects for an entire animation can be packaged and stored in a single ".blend" file. Data loaded from external sources, such as images and sounds, can also be stored externally and referenced through either an absolute or relative file path. Likewise, ".blend" files themselves can also be used as libraries of Blender assets.
+Interface configurations are retained in ".blend" files.
+A wide variety of import/export scripts that extend Blender capabilities (accessing the object data via an internal API) make it possible to interoperate with other 3D tools.
+Blender organizes data as various kinds of "data blocks" (akin to glTF), such as Objects, Meshes, Lamps, Scenes, Materials, Images, and so on. An object in Blender consists of multiple data blocks – for example, what the user would describe as a polygon mesh consists of at least an Object and a Mesh data block, and usually also a Material and many more, linked together. This allows various data blocks to refer to each other. There may be, for example, multiple Objects that refer to the same Mesh, and making subsequent editing of the shared mesh results in shape changes in all Objects using this Mesh. Objects, meshes, materials, textures, etc. can also be linked to other .blend files, which is what allows the use of .blend files as reusable resource libraries.
+
+Import and export
+The software supports a variety of 3D file formats for import and export, among them Alembic, 3D Studio (3DS), FBX, DXF, SVG, STL (for 3D printing), UDIM, USD, VRML, WebM, X3D and OBJ.
+
+Deprecated features
+Blender Game Engine
+The Blender Game Engine was a built-in real-time graphics and logic engine with features such as collision detection, a dynamics engine, and programmable logic. It also allowed the creation of stand-alone, real-time applications ranging from architectural visualization to video games. In April 2018, the engine was removed from the upcoming Blender 2.8 release series, due to updates and revisions to the engine lagging behind other game engines such as Unity and the open-source Godot. In the 2.8 announcements, the Blender team specifically mentioned the Godot engine as a suitable replacement for migrating Blender Game Engine users.
+
+Blender Internal
+Blender Internal, a biased rasterization engine and scanline renderer used in previous versions of Blender, was also removed for the 2.80 release in favor of the new "EEVEE" renderer, a realtime physically based renderer.
+
+User interface
+Commands
+Most of the commands are accessible via hotkeys. There are also comprehensive graphical menus. Numeric buttons can be "dragged" to change their value directly without the need to aim at a particular widget, as well as being set using the keyboard. Both sliders and number buttons can be constrained to various step sizes with modifiers like the Ctrl and Shift keys. Python expressions can also be typed directly into number entry fields, allowing mathematical expressions to specify values.
+
+Modes
+Blender includes many modes for interacting with objects, the two primary ones being Object Mode and Edit Mode, which are toggled with the Tab key. Object mode is used to manipulate individual objects as a unit, while Edit mode is used to manipulate the actual object data. For example, an Object Mode can be used to move, scale, and rotate entire polygon meshes, and Edit Mode can be used to manipulate the individual vertices of a single mesh. There are also several other modes, such as Vertex Paint, Weight Paint, and Sculpt Mode.
+
+Workspaces
+The Blender GUI builds its tiled windowing system on top of one or multiple windows provided by the underlying platform. One platform window (often sized to fill the screen) is divided into sections and subsections that can be of any type of Blender's views or window types. The user can define multiple layouts of such Blender windows, called screens, and switch quickly between them by selecting from a menu or with keyboard shortcuts. Each window type's own GUI elements can be controlled with the same tools that manipulate the 3D view. For example, one can zoom in and out of GUI-buttons using similar controls, one zooms in and out in the 3D viewport. The GUI viewport and screen layout are fully user-customizable. It is possible to set up the interface for specific tasks such as video editing or UV mapping or texturing by hiding features not used for the task.
+
+Development
+Since the opening of the source code, Blender has experienced significant refactoring of the initial codebase and major additions to its feature set.
+Improvements include an animation system refresh; a stack-based modifier system; an updated particle system (which can also be used to simulate hair and fur); fluid dynamics; soft-body dynamics; GLSL shaders support in the game engine; advanced UV unwrapping; a fully recoded render pipeline, allowing separate render passes and "render to texture"; node-based material editing and compositing; and projection painting.
+Part of these developments was fostered by Google's Summer of Code program, in which the Blender Foundation has participated since 2005.
+Historically, Blender has used Phabricator to manage its development but due to the announcement in 2021 that Phabricator would be discontinued, the Blender Institute began work on migrating to another software in early 2022. After extensive debate on what software it should choose it was finally decided to migrate to Gitea. The migration from Phabricator to Gitea is currently a work in progress.
+
+Blender 2.8
+Official planning for the next major revision of Blender after the 2.7 series began in the latter half of 2015, with potential targets including a more configurable UI (dubbed "Blender 101"), support for physically based rendering (PBR) (dubbed EEVEE for "Extra Easy Virtual Environment Engine") to bring improved realtime 3D graphics to the viewport, allowing the use of [C++](640)11 and C99 in the codebase, moving to a newer version of OpenGL and dropping support for versions before 3.2, and a possible overhaul of the particle and constraint systems. Blender Internal renderer has been removed from 2.8. Code Quest was a project started in April 2018 set in Amsterdam, at the Blender Institute. The goal of the project was to get a large development team working in one place, in order to speed up the development of Blender 2.8. By June 29, 2018, the Code Quest project ended, and on July 2, the alpha version was completed. Beta testing commenced on November 29, 2018, and was anticipated to take until July 2019. Blender 2.80 was released on July 30, 2019.
+
+Cycles X
+On April 23, 2021, the Blender Foundation announced the Cycles X project, where they improved the Cycles architecture for future development. Key changes included a new kernel, removal of default tiled rendering (replaced by progressive refine), removal of branched path tracing, and the removal of OpenCL support. Volumetric rendering was also replaced with better algorithms. Cycles X had only been accessible in an experimental branch until September 21, 2021, when it was merged into the Blender 3.0 alpha.
+
+Support
+Blender is extensively documented on its website. There are also a number of online communities dedicated to support, such as the Blender Stack Exchange.
+
+Modified versions
+Due to Blender's open-source nature, other programs have tried to take advantage of its success by repackaging and selling cosmetically modified versions of it. Examples include IllusionMage, 3DMofun, 3DMagix, and Fluid Designer, the latter being recognized as Blender-based.
+
+Use in industry
+Blender started as an in-house tool for NeoGeo, a Dutch commercial animation company. The first large professional project that used Blender was Spider-Man 2, where it was primarily used to create animatics and pre-visualizations for the storyboard department.
+The French-language film Friday or Another Day (Vendredi ou un autre jour) was the first 35 mm feature film to use Blender for all the special effects, made on Linux workstations. It won a prize at the Locarno International Film Festival. The special effects were by Digital Graphics of Belgium.
+Tomm Moore's The Secret of Kells, which was partly produced in Blender by the Belgian studio Digital Graphics, has been nominated for an Oscar in the category "Best Animated Feature Film". Blender has also been used for shows on the History Channel, alongside many other professional 3D graphics programs.
+Plumíferos, a commercial animated feature film created entirely in Blender, had premiered in February 2010 in Argentina. Its main characters are anthropomorphic talking animals. 
+Special effects for episode 6 of Red Dwarf season X, screened in 2012, were created using Blender as confirmed by Ben Simonds of Gecko Animation. 
+Blender was used for previsualization in Captain America: The Winter Soldier.
+Some promotional artwork for Super Smash Bros. for Nintendo 3DS and Wii U was partially created using Blender. 
+The alternative hip-hop group Death Grips has used Blender to produce music videos. A screenshot from the program is briefly visible in the music video for Inanimate Sensation.
+The visual effects for the TV series The Man in the High Castle were done in Blender, with some of the particle simulations relegated to Houdini. 
+NASA used 
+Blender to develop an interactive web application Experience Curiosity to celebrate the 3rd anniversary of the Curiosity rover landing on Mars. This app makes it possible to operate the rover, control its cameras and the robotic arm and reproduces some of the prominent events of the Mars Science Laboratory mission. The application was presented at the beginning of the WebGL section on SIGGRAPH 2015. Blender is also used by NASA for many publicly available 3D models. Many 3D models on NASA's 3D resources page are in a native .blend format. 
+Blender was used for both CGI and compositing for the movie Hardcore Henry. The visual effects in the feature film Sabogal were done in Blender. VFX supervisor Bill Westenhofer used Blender to create the character "Murloc" in the 2016 film Warcraft.
+Director David F. Sandberg used Blender for multiple shots in Lights Out, and Annabelle: Creation. 
+Blender was used for parts of the credit sequences in Wonder Woman 
+Blender was used for doing the animation in the film Cinderella the Cat.
+VFX Artist Ian Hubert used Blender for the science fiction film Prospect. The 2018 film Next Gen was fully created in Blender by Tangent Animation. A team of developers worked on improving Blender for internal use, but it is planned to eventually add those improvements to the official Blender build.
+The 2019 film I Lost My Body was largely animated using Blender's Grease Pencil tool by drawing over CGI animation allowing for a real sense of camera movement that is harder to achieve in purely traditionally drawn animation. 
+Ubisoft Animation Studio will use Blender to replace its internal content creation software starting in 2020.
+Khara and its child company Project Studio Q are trying to replace their main tool, 3ds Max, with Blender. They started "field verification" of Blender during their ongoing production of Evangelion: 3.0+1.0. They also signed up as Corporate Silver and Bronze members of Development Fund.
+The 2020 film Wolfwalkers was partially created using Blender. 
+The 2021 Netflix production Maya and the Three was created using Blender.
+In 2021 SPA Studios started hiring Blender artists and as of 2022, contributes to Blender Development.  Warner Bros. Animation started hiring Blender artists in 2022. 
+VFX company Makuta VFX used Blender for the VFX for Indian blockbuster RRR.
+Blender was used in several cases for the 2023 film Spider-Man: Across the Spider-Verse. Sony Pictures Imageworks, the primary studio behind the film's animation, used Blender's Grease Pencil for adding line-work and 2D FX animation alongside 3D models.  At 14 years old, Canadian animator Preston Mutanga used Blender to create the Lego-style sequence in the film. Mutanga was recruited after his fan-made Lego-style recreation of the film's teaser caught the attention of the filmmakers.
+The 2024 Lativan film Flow was made entirely in Blender and was rendered in EEVEE.
+
+Open projects
+Since 2005, every one to two years the Blender Foundation has announced a new creative project to help drive innovation in Blender. In response to the success of the first open movie project, Elephants Dream, in 2006, the Blender Foundation founded the Blender Institute to be in charge of additional projects, such as films: Big Buck Bunny, Sintel, Tears of Steel; and Yo Frankie!, or Project Apricot, an open game utilizing the Crystal Space game engine that reused some of the assets created for Big Buck Bunny.
+
+Online services
+Blender Foundation
+Blender Studio
+The Blender Studio platform, launched in March 2014 as Blender Cloud, is a subscription-based cloud computing platform where members can access Blender add-ons, courses and to keep track of the production of Blender Studio's open movies. It is currently operated by the Blender Studio, formerly a part of the Blender Institute. It was launched to promote and fundraiser for Project: Gooseberry, and is intended to replace the selling of DVDs by the Blender Foundation with a subscription-based model for file hosting, asset sharing and collaboration. Blender Add-ons included in Blender Studio are CloudRig, Blender Kitsu, Contact sheet Add-on, Blender Purge and Shot Builder. It was rebranded from Blender Cloud to Blender Studio on 22 October 2021.
+
+The Blender Development Fund
+The Blender Development Fund is a subscription where individuals and companies can fund Blender's development. Corporate members include Epic Games, Nvidia, Microsoft, Apple, Unity, Intel, Decentraland, Amazon Web Services, Meta, AMD, Adobe and many more. Individual users can also provide one-time donations to Blender via payment card, PayPal, wire transfer, and some cryptocurrencies.
+
+Blender ID
+The Blender ID is a unified login for Blender software and service users, providing a login for Blender Studio, the Blender Store, the Blender Conference, Blender Network, Blender Development Fund, and the Blender Foundation Certified Trainer Program.
+
+Blender Open Data
+The Blender Open Data is a platform to collect, display, and query benchmark data produced by the Blender community with related Blender Benchmark software.
+
+Blender Network
+The Blender Network was an online platform to enable online professionals to conduct business with Blender and provide online support. It was terminated on 31 March 2021.
+
+Blender Store
+A store to buy Blender merchandise, such as shirts, socks, beanies, etc.
+
+Blender Extensions
+Blender Extensions acts as the main repo for extensions, introduced in Blender 4.2, which include both addons and themes. Users can then install and update extensions right in Blender itself.
+
+Release history
+The following table lists notable developments during Blender's release history: green indicates the current version, yellow indicates currently supported versions, and red indicates versions that are no longer supported (though many later versions can still be used on modern systems).
+
+As of 2021, official releases of Blender for Microsoft Windows, macOS and Linux, as well as a port for Free[BSD](750), are available in 64-bit versions. Blender is available for Windows 8.1 and above, and Mac OS X 10.13 and above.
+Blender 2.76b was the last supported release for Windows XP and version 2.63 was the last supported release for PowerPC. Blender 2.83 LTS and 2.92 were the last supported versions for Windows 7. In 2013, Blender was released on Android as a demo, but has not been updated since.
+
+See also
+CAD library
+MB-Lab, a Blender add-on for the parametric 3D modeling of photorealistic humanoid characters
+MakeHuman
+List of free and open-source software packages
+List of video editing software
+List of 3D printing software
+
+References
+Further reading
+External links
+
+Official website

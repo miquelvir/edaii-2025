@@ -1,0 +1,77 @@
+3150
+Appointments Clause
+The Appointments Clause of the United States Constitution empowers the President of the United States to nominate and, with the advice and consent (confirmation) of the United States Senate, appoint public officials. Although the Senate must confirm certain principal officers (including ambassadors, Cabinet secretaries, and federal judges), Congress may by law invest the appointment of "inferior" officers to the President alone, or to courts of law or heads of departments.
+
+Text
+The Appointments Clause appears at Article II, Section 2, Clause 2 and provides:... and the President shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
+
+Appointments Clause aspects
+Nomination
+The President has plenary power to nominate: ¶5  political appointees, and the Senate's role is only advisory to the nomination, because the President is not bound to appoint his own nominee even with their advice. As Gouverneur Morris stated in the Constitutional Convention, "As the President was to nominate, there would be responsibility, and as the Senate was to concur, there would be security".
+
+Advice and consent
+The Appointments Clause confers plenary power to the President to nominate, and confers plenary power to the Senate to reject or confirm a nominee, through its advice and consent provision. As with other separation of powers provisions in the Constitution, the wording here seeks to ensure accountability and preempt tyranny. [Alexander Hamilton](1152) defended the use of a public confirmation of officers in Federalist No. 77, where he commented "a conclave in which cabal and intrigue will have their full scope. ... The desire of mutual gratification will beget a scandalous bartering of votes and bargaining for places.": ¶12  This separation of powers between the President and Senate is also present in the (immediately preceding) Treaty Clause of the Constitution, which gives international treaty-making power to the President, but attaches to it the proviso of the Senate's advice and consent.
+Several framers of the U.S. Constitution explained that the required role of the Senate is to advise the President after the nomination has been made by the President. Roger Sherman believed that advice before nomination could still be helpful.  Likewise, President [George Washington](3100) took the position that pre-nomination advice was allowable but not mandatory. The notion that pre-nomination advice is optional has developed into the unification of the "advice" portion of the power with the "consent" portion, although several Presidents have consulted informally with Senators over nominations and treaties.
+The actual motion adopted by the Senate when exercising the power is "to advise and consent", which shows how initial advice on nominations and treaties is not a formal power exercised by the Senate. On November 21, 2013, the Senate changed its rules regarding the number of votes needed to end debate on a presidential nomination and bring it to a vote. Before that date, a minority of senators could engage in a filibuster and block a vote on a nomination unless three-fifths of senators voted to end debate. Under the new rules, a simple majority is all that is needed to end debate. The only exception was for nominations to the Supreme Court of the United States, which could still be blocked from going to a vote by a filibuster, until the Senate rules were again changed on April 6, 2017 during Senate debate on the nomination of Neil Gorsuch to the Supreme Court.
+Congress itself may not exercise the appointment power; its functions are limited to the Senate's role in advice and consent, and to deciding whether to vest a direct appointment power over a given office in the President, a head of department, or the courts of law. The framers of the U.S. Constitution were particularly concerned that Congress might seek to exercise the appointment power and fill offices with their supporters, to the derogation of the President's control over the executive branch. The Appointments Clause thus functions as a restraint on Congress and as an important structural element in the separation of powers. Attempts by Congress to circumvent the Appointments Clause, either by making appointments directly, or through devices such as "unilaterally appointing an incumbent to a new and distinct office" under the guise of legislating new duties for an existing office", have been rebuffed by the courts.
+
+Appointment of inferior officers
+The Appointments Clause distinguishes between officers of the United States who must be appointed with the advice and consent of the Senate; and those who may be specified by acts of Congress, some of whom may be appointed with the advice and consent of the Senate, but whose appointment Congress may place instead in the President alone, in the courts of law, or in the heads of departments. This last group are commonly referred to as "inferior officers".
+An earlier proposed draft of the Appointments Clause would have given the President a broader power to "appoint officers in all cases not otherwise provided for by this Constitution", but some delegates of the Philadelphia Constitutional Convention worried that this language would permit the President to create offices as well as to fill them, a classic case of institutional corruption. The requirement that the President can appoint inferior officers only when Congress has "by Law vested" that power in the President sought to preclude that possibility.
+One chief question recurs under the "by Law" language: Who are "inferior Officers", not subject to the requirement of advice and consent; and (2) what constitutes a "Department", when Congress seeks to place the appointment power away from the President? As an initial matter, most government employees are not officers and thus are not subject to the Appointments Clause. In Buckley v. Valeo, the Supreme Court held that only those appointees "exercising significant authority pursuant to the laws of the United States" are "Officers of the United States", and hence it is only those who exercise such "significant authority" who must be appointed by a mechanism set forth in the Appointments Clause. The Framers did not define the line between principal officers and inferior officers, and the Supreme Court has been content to approach the analysis on a case-by-case basis rather than through a definitive test.
+The Court listed in Morrison v. Olson (1988) certain factors as hallmarks of "inferior Officer" status, such as removability by a higher executive branch official other than the President, and limitations on the officer's duties, jurisdiction, and tenure. In Edmond v. United States (1997) the Court stated that "'inferior Officers' are officers whose work is directed and supervised at some level by others who were appointed by Presidential nomination with the advice and consent of the Senate." Among those officers recognized as "inferior" are district court clerks, federal supervisors of elections, the Watergate Special Prosecutor, and an Independent Counsel appointed under the Ethics in Government Act of 1978. In Lucia v. SEC, 585 U.S. 237 (2018), the Court held that 
+administrative law judges are inferior officers within the meaning of the Appointments Clause of the United States Constitution.
+
+Appointments by heads of departments
+Another chief question is, what constitutes a "Department", when Congress seeks to place the appointment power away from the President? The phrase "Heads of Departments" has not been precisely defined by the Supreme Court. On the one hand, judicial interpretations of the phrase refer to the heads of departments that are within the executive branch, or according to Buckley v. Valeo "at least have some connection with that branch". Under this view, the heads of all agencies and departments exercising executive power under the President would seem to qualify as "Heads of Departments". The Court interpreted in Freytag v. Commissioner of Internal Revenue (1991) "Heads of Departments" to refer "to executive divisions like the Cabinet-level departments". The use of the phrase "like the Cabinet-level departments" could mean that, in addition to the Cabinet departments, other entities within the executive branch that are sufficiently analogous to the Cabinet departments may qualify as "Departments" for purposes of the Appointments Clause.
+On the other hand, the Freytag decision itself seemed unclear what it meant by the phrase "like the Cabinet-level departments", and certainly stepped back from any bright-line test. The Freytag decision sought to harmonize its analysis with the interpretation given the different term "executive Departments" in the Opinion Clause (which has been interpreted to refer only to Cabinet departments) and with earlier cases that suggested that only the Cabinet Secretaries qualified as "Heads of Departments". Ultimately, the Freytag decision seems to have reserved the question whether the heads of non-Cabinet executive-branch agencies could be deemed to be "Heads of Departments" for purposes of the Appointments Clause. Perhaps the phrase "like the Cabinet-level departments" was included in Freytag as an indication that the Court would not necessarily be inflexible about requiring Cabinet status in future cases. If that is so, then "Heads of Departments" would appear to include (as Justice Antonin Scalia reasons in his concurrence in Freytag) the heads of the Cabinet Departments and also the heads of "all independent executive establishments".
+From 1999 to 2008, a change in the statute governing the United States Patent and Trademark Office (USPTO) permitted a number of judges of the Board of Patent Appeals and Interferences and the Trademark Trial and Appeal Board to be appointed by the USPTO Director. This arrangement was challenged as unconstitutional under the Appointments Clause because the appointing party was not the head of the department. In order to avoid the crisis that would result from new challenges to many BPAI and TTAB decisions made in that period, Congress passed a 2008 amendment to the statute which specifies that the Secretary of Commerce is responsible for such appointments, and permitting the Secretary to retroactively appoint those persons named by the USPTO Director.
+
+Relevant federal court cases
+Appointment
+United States v. Hartwell, 73 U.S. (6 Wall.) 385 (1868)
+United States v. Germaine, 99 U.S. 508 (1878)
+Ex parte Siebold, 100 U.S. 371 (1879)
+Shoemaker v. United States, 147 U.S. 282 (1893)
+Springer v. Government of the Philippine Islands, 277 U.S. 189 (1928)
+Buckley v. Valeo, 424 U.S. 1 (1976)
+Metropolitan Washington Airports Authority v. Citizens for Abatement of Aircraft Noise, Inc., 501 U.S. 252 (1991)
+Freytag v. Commissioner of Internal Revenue, 501 U.S. 868 (1991)
+Weiss v. United States, 510 U.S. 163 (1994)
+FEC v. NRA Political Victory Fund, 513 U.S. 88 (1994)
+Ryder v. United States, 515 U.S. 177 (1995)
+Edmond v. United States, 520 U.S. 651 (1997)
+NLRB v. Noel Canning, 573 U.S. 513 (2014)
+NLRB v. SW General, Inc., No. 15-1251, 580 U.S. ___ (2017)
+Lucia v. SEC, No. 17-130, 585 U.S. ___ (2018)
+Ortiz v. United States, No. 16-1423, 585 U.S. ___ (2018)
+Financial Oversight and Management Board for Puerto Rico v. Aurelius Investment, LLC, No. 18-1334, 590 U.S. ___ (2020)
+Carr v. Saul, No. 19-1442, 593 U.S. ___ (2021)
+United States v. Arthrex, Inc., No. 19-1434, 594 U.S. ___ (2021)
+
+Removal
+Shurtleff v. United States, 189 U.S. 311 (1903)
+Myers v. United States, 272 U.S. 52 (1926)
+Humphrey's Executor v. United States, 295 U.S. 602 (1935)
+Wiener v. United States, 357 U.S. 349 (1958)
+Bowsher v. Synar, 478 U.S. 714 (1986)
+Morrison v. Olson, 487 U.S. 654 (1988)
+Free Enterprise Fund v. Public Company Accounting Oversight Board, 561 U.S. 477 (2010)
+Seila Law LLC v. Consumer Financial Protection Bureau, No. 19-7, 590 U.S. ___ (2020)
+Collins v. Yellen, No. 19-422, 594 U.S. ___ (2021)
+
+Jurisdiction stripping
+Thunder Basin Coal Co. v. Reich, 510 U.S. 200 (1994)
+Free Enterprise Fund v. Public Company Accounting Oversight Board, 561 U.S. 477 (2010)
+Elgin v. Department of Treasury, 567 U.S. 1 (2012)
+Axon Enterprise, Inc. v. Federal Trade Commission (pending)
+
+See also
+List of clauses of the United States Constitution
+List of positions filled by presidential appointment with Senate confirmation
+The Tenure of Office Acts of 1820 and 1867
+Recess appointment, the authority granted the president by Article II, Section 2, Clause 3, to make appointments which would otherwise require Senate confirmation during a recess of the Senate
+
+References
+External links
+Officers of the United States Within the Meaning of the Appointments Clause, a 2007 Memorandum Opinion for the General Councils of the Executive Branch

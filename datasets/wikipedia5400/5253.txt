@@ -1,0 +1,48 @@
+5253
+Aruch HaShulchan
+Arukh HaShulchan (Hebrew: עָרוּךְ הַשֻּׁלְחָן  or, arguably, עָרֹךְ הַשֻּׁלְחָן; see § Title below) is a work of halacha written by Yechiel Michel Epstein (1829–1908). The work attempts to be a clear, organized summary of the sources for each chapter of the Shulchan Arukh and its commentaries, with special emphasis on the positions of the Jerusalem Talmud and Maimonides.
+
+Title
+The title "Arukh HaShulchan" ("the table is set") is a clear allusion to the Shulchan Arukh ("the set table") on which it draws, and to Arokh ha-Shulchan from Isaiah 21:5. Samuel Kalman Mirsky argued that the title should be pronounced Arokh as in Isaiah, but Eitam Henkin argued that it should be pronounced Arukh to clarify the allusion to the Shulchan Arukh, and pointed to its original title page, which includes the Russian transliteration Арух-Гашулхонъ.
+
+Structure
+In Arukh HaShulchan, Epstein cites the source of each law as found in the Talmud and Maimonides, and states the legal decision as found in the Shulchan Arukh with the glosses of Isserles. When he deems it necessary, Epstein also mentions the views of other Rishonim (early, pre-1550 authorities), and especially [Acharonim](5215) (later authorities), occasionally disagreeing with the latter.
+The work follows the structure of the Tur and the Shulchan Arukh: A division into four large parts, subdivided into parallel chapters (simanim) that match in all three works. These are further subdivided into paragraphs (se'ifim), but the latter does not match in the three works (the Tur has no official se'ifim at all, and the se'ifim of the Shulchan Arukh do not match that of the Arukh HaShulchan).
+
+Method
+Epstein tends to take a lenient view (le-kula) but decidedly without compromising in any form on the power and rule of Jewish law. When the established custom conflicts with theoretical halacha, Epstein tends to side with local custom, to a greater extent than is the case in works such as the Mishnah Berurah.
+Moshe Feinstein once said that the decisions of the Arukh HaShulchan — who was a full-time rabbi — take precedence over many poseks who were not active rabbis. A rabbi takes into consideration more than just the abstract and black-and-white concepts of the law when rendering a legal opinion.
+
+Similar works
+The Arukh HaShulchan is often quoted alongside the Mishnah Berurah, a work partially composed earlier by Yisrael Meir Kagan. The Arukh Hashulchan was composed and printed serially starting with Choshen Mishpat (prior to the printing of the Mishna Berurah) and the section on Orach Chayim published afterwards. Indeed, the Arukh HaShulchan refers in a number of places to the Mishnah Berurah. Due to the latter's popularity in the Haredi world, the Mishnah Berurah is often considered authoritative over Arukh HaShulchan by Haredi Jews. However, many people (including Yosef Eliyahu Henkin and Yehuda Pearl) have famously held that the Arukh HaShulchan is more authoritative, since its author was the rabbi of a community, and since it was printed after the Mishnah Berurah. Also, Arukh HaShulchan has a much wider scope than the Mishnah Berurah.
+
+Editions
+The work was originally published during the author's lifetime in numerous small volumes that appeared from 5644-5653 (1884–1893), beginning with Choshen Mishpat, at the beginning of which the author's introduction is found.  Many volumes were reprinted posthumously by his daughter.
+Images of the first edition have been reprinted dozens of times to this day. These reprints usually appear in eight volumes, which mostly reflect the division of volumes in the Vilna edition of the Shulchan Arukh (with the exception of Yoreh Deah). The page numbering in the reprints still reflects the smaller volumes of the original printing.
+A ninth volume was published in 1992 by Simcha Fishbane of Chicago, Illinois, who was given permission by the Israeli Bar-Ilan family, descendants of the author, to print 36 previously unpublished chapters on the laws of oaths (Hilkhot Nedarim, Yoreh Deah 203-239). These chapters were found in manuscripts by the author's own hand, along with various sermons that were published together in the same volume.
+Another, longer section of Yoreh Deah, which consists of 60 sections on laws connected to idolatry (123-182), is still lost.
+The first completely new edition of Arukh HaShulchan appeared in 5766 (2006), by "Oz Vehadar" publishers in New Square, New York. This edition adds comparisons to rulings by the Mishnah Berurah in Orach Chaim. It originally did not contain the laws of oaths (Yoreh Deah 203-239) previously published by Fishbane, but they were subsequently added.
+
+Arukh HaShulchan He'Atid
+Epstein also wrote a similar work entitled Arukh HaShulchan He'Atid (Laying the Table of the Future), a parallel work to Arukh HaShulchan summarizing and analyzing the laws that will apply in Messianic times.  Some of the laws discussed, such as those relating to agriculture and farming, apply today for those living in the Land of Israel.
+
+Commentaries on Arukh Hashulchan
+Zafo ha-Zafit (צפה הצפית) by Mordecai Rabinovitch. An in-depth commentary on the laws of Hanukkah and Megillah. The commentary's title is based on the continuation of the verse from which the title Arukh ha-Shulchan is taken (Isaiah 21:5).
+Be'ur Halakhah (ביאור הלכה), by the Aleksander Rebbe from Cleveland, Shneur Zalmen Dancyger.
+
+See also
+Kaf hachaim by Yaakov Chaim Sofer -  a contemporaneous work discussing Orach Chayim and some of Yoreh De'ah in light of the Rishonim and [Acharonim](5215).
+Mishnah Berurah by Yisrael Meir Kagan -  a gloss summarizing the opinions of the [Acharonim](5215) on Orach Chayim.
+Kitzur Shulchan Arukh by Shlomo Ganzfried
+
+References
+Further reading
+Fishbane, Simcha (2008). The Boldness of a Halakhist: An Analysis of the Writings of Rabbi Yechiel Mechel Halevi Epstein (The "Arukh Hashulhan"). Academic Studies Press. ISBN 9781934843031.
+Broyde, Michael J. & Pill, Shlomo C. (2020). Setting the Table: An Introduction to the Jurisprudence of Rabbi Yechiel Mikhel Epstein's Arukh HaShulhan. Academic Studies Press. ISBN 9781644690703.
+
+External links
+Arukh HaShulhan at Hebrew Wikitext (Hebrew text)
+Arukh ha-Shulchan translation (incomplete English translation in progress)
+A Collection of Studies on the Arukh HaShulchan, its author, and the history of its publication
+Arukh HaShulhan Yomi - Daily study cycle at AishDas
+The Interaction of Kabbalah and Halachah in the Arukh HaShulchan (PDF)

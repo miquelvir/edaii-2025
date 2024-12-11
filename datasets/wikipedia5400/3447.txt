@@ -1,0 +1,17 @@
+3447
+Alfred Robb
+Alfred Arthur Robb FRS (18 January 1873 in Belfast – 14 December 1936 in Castlereagh) was a Northern Irish physicist.
+
+Biography
+Robb studied at Queen's College, Belfast (BA 1894) and at St John's College, Cambridge (Tripos 1897, MA 1901). He then proceeded to University of Göttingen, where, guided by Woldemar Voigt, he wrote his dissertation on the Zeeman effect. He also worked under J. J. Thomson at the Cavendish Laboratory. The Croix de Guerre was awarded to him for WWI service in the Red Cross, and in 1921 he became a fellow of the Royal Society.
+He is known for his four books on special relativity (1911, 1914, 1921, 1936) where he gave a spacetime derivation of the theory in an axiomatic-geometric way. Robb therefore was sometimes called the "Euclid of relativity". In the first of these works he used a hyperbolic angle ω to introduce the concept of rapidity: 9  and showed that the kinematic space of velocities is hyperbolic, so that "instead of a Euclidean triangle of velocities, we get a Lobachevski triangle of rapidities".: 29  
+However, contrary to the scientific mainstream, he believed that the works of Joseph Larmor and Hendrik Lorentz were more important for relativity than the works of [Albert Einstein](3401) and Hermann Minkowski.
+
+Books
+Robb, Alfred (1911). Optical geometry of motion, a new view of the theory of relativity. Cambridge: Heffer & Sons.
+Robb, Alfred (1914). A theory of time and space. Cambridge: University Press.
+Robb, Alfred (1921). The absolute relations of time and space. Cambridge: University Press.
+Robb, Alfred (1936). Geometry of Time And Space. Cambridge: University Press.
+
+
+== References ==

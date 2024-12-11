@@ -1,0 +1,140 @@
+75
+ADMB
+ADMB or AD Model Builder is a free and open source software suite for non-linear statistical modeling. It was created by David Fournier and now being developed by the ADMB Project, a creation of the non-profit ADMB Foundation. The "AD" in AD Model Builder refers to the automatic differentiation capabilities that come from the AUTODIF Library, a C++ language extension also created by David Fournier, which implements reverse mode automatic differentiation. A related software package, ADMB-RE, provides additional support for modeling random effects.
+
+Features and use
+Markov chain Monte Carlo methods are integrated into the ADMB software, making it useful for Bayesian modeling. In addition to Bayesian hierarchical models, ADMB provides support for modeling random effects in a frequentist framework using Laplace approximation and importance sampling.
+ADMB is widely used by scientists in academic institutions, government agencies, and international commissions, most commonly for ecological modeling. In particular, many fisheries stock assessment models have been built using this software. ADMB is freely available under the New BSD License,
+with versions available for Windows, Linux, Mac OS X, and OpenSolaris operating systems. Source code for ADMB was made publicly available in March 2009.
+
+History and background
+Implementation
+Work by David Fournier in the 1970s on development of highly parameterized 
+integrated statistical models in fisheries motivated the
+development of the AUTODIF Library, and ultimately ADMB.
+The likelihood equations
+in these models are typically non-linear and estimates of the 
+parameters are
+obtained by numerical methods.
+Early in Fournier's work, it became clear that general numerical
+solutions to these likelihood problems could only be reliably
+achieved using function minimization algorithms that
+incorporate accurate information about the gradients of the likelihood
+surface. Computing the gradients (i.e. partial derivatives
+of the likelihood with respect to all model variables) must also be done with
+the same accuracy as the likelihood computation itself.
+Fournier developed a protocol for writing code to compute the required
+derivatives based on the chain rule of differential calculus. This
+protocol is very similar to the suite of methods that came to be known
+as ``reverse mode automatic differentiation 
+.
+The statistical models using these methods
+
+typically included eight constituent code segments:
+
+the objective function;
+adjoint code to compute the partial derivatives of the objective function with respect to the parameters to be estimated;
+dedicated memory to contain intermediate data for derivative computations, known as the "gradient stack", and the software to manage it;
+a function minimizer;
+an algorithm to check that the derivatives are correct with respect to finite difference approximations;
+an algorithm to insert model parameters into a vector that can be manipulated by the function minimizer and the corresponding derivative code;
+an algorithm to return the parameter values to the likelihood computation and the corresponding derivative code; and
+an algorithm to compute the second partial derivatives of the objective function with respect to the parameters to be estimated, the Hessian matrix.
+Model developers are usually only interested in the first of these
+constituents. Any programming tools that can reduce the overhead of
+developing and maintaining the other seven will greatly increase their
+productivity.
+Bjarne Stroustrup began development of C++ in the 1970s at Bell Labs as an 
+enhancement to the C programming language. C++ spread widely, and by
+1989, C++ compilers were available for personal computers.
+The polymorphism of C++ makes it possible to envisage a programming
+system in which all mathematical operators and functions can be
+overloaded to automatically compute the derivative contributions of
+every differentiable numerical operation in any computer program.
+
+Otter Research
+Fournier formed Otter Research Ltd. in 1989, and
+by 1990 the AUTODIF Library included special classes for derivative computation and
+the requisite overloaded functions for all C++ operators and
+all functions in the standard C++ math library.
+The AUTODIF Library automatically computes the derivatives of the objective function
+with the same accuracy as the objective function itself and thereby
+frees the developer from the onerous task of writing
+and maintaining derivative code for statistical models.
+Equally important from the standpoint of model development,
+the AUTODIF Library includes a "gradient stack", 
+a quasi-Newton function minimizer, a derivative checker, and
+container classes for vectors and matrices. 
+The first application of the AUTODIF Library was published in 1992
+
+The AUTODIF Library does not, however, completely liberate the developer from
+writing all of the model constituents listed above. In 1993, Fournier further
+abstracted the writing of statistical models by creating ADMB, a special
+"template" language to simplify model specification by
+creating the tools to
+transform models written using the templates into the AUTODIF Library
+applications. ADMB produces code to manage the exchange of model
+parameters between the model and the function minimizer,
+automatically computes the Hessian matrix and inverts it to provide
+an estimate the covariance of the estimated parameters. ADMB thus
+completes the liberation of the model developer from all of the tedious
+overhead of managing non-linear optimization, thereby freeing him or her to
+focus on the more interesting aspects of the statistical model.
+By the mid-1990s, ADMB had earned acceptance by researchers working on
+all aspects of resource management. Population models based on the
+ADMB are used to monitor a range of both endangered
+species and commercially valuable fish populations including
+whales, dolphins,
+sea lions, penguins, albatross, abalone, lobsters, tunas, marlins,
+sharks, rays, anchovy, and pollock. ADMB has also been
+used to reconstruct movements of many species of animals tracked with
+electronic tags.
+In 2002, Fournier teamed up with Hans Skaug to introduce random
+effects into ADMB. This
+development included automatic computation of second and third
+derivatives and the use of forward mode automatic differentiation followed by
+two sweeps of reverse model AD in certain cases.
+
+ADMB Project
+In 2007, a group of ADMB users that included John Sibert, Mark
+Maunder and Anders Nielsen became concerned about ADMB's long-term 
+development and maintenance. An agreement was reached with
+Otter Research to sell the copyright to ADMB for the purpose of
+making ADMB an open-source project and distributing it without
+charge. The non-profit ADMB Foundation was created
+to coordinate development and promote use of ADMB.
+The ADMB Foundation drafted a proposal to the Gordon and Betty Moore
+Foundation for the funds to purchase ADMB from Otter Research. 
+The Moore Foundation provided a grant to 
+the National Center of Ecological Analysis and Synthesis 
+at the University of California at Santa Barbara 
+in late 2007 so that the Regents of the University of California could
+purchase the rights to ADMB. 
+The purchase was completed in mid-2008, and the complete ADMB libraries were posted
+on the ADMB Project website in December 2008. By May 2009, more
+than 3000 downloads of the libraries had occurred. The
+source code was made available in December 2009. In mid-2010,
+ADMB was supported on all common operating systems (Windows,
+Linux, MacOS and Sun/SPARC), for all common C++ compilers
+(GCC, Visual Studio, Borland), and for both 32 and 64 bit
+architectures.
+ADMB Foundation efforts during the first two years of the ADMB 
+Project have focused on
+automating the building of ADMB for different platforms,
+streamlining installation, and creation of
+a user-friendly working environments. Planned technical
+developments 
+include parallelization of internal computations,
+implementation of hybrid MCMC, and improvement of the large sparse matrix
+for use in random effects models.
+
+See also
+List of statistical packages
+List of numerical analysis software
+Comparison of numerical analysis software
+
+References
+External links
+For downloads of installers, manuals and source code: The ADMB Project Archived 2008-12-12 at the Wayback Machine
+To support the ADMB Project: The ADMB Foundation
+Original developer of ADMB: Otter Research Ltd

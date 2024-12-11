@@ -1,0 +1,61 @@
+3454
+Andrea M. Ghez
+Andrea Mia Ghez (born June 16, 1965) is an American astrophysicist, Nobel laureate, and professor in the Department of Physics and Astronomy and the Lauren B. Leichtman & Arthur E. Levine chair in [Astrophysics](3481), at the University of California, Los Angeles. Her research focuses on the center of the Milky Way galaxy.
+In 2020, she became the fourth woman to be awarded the Nobel Prize in Physics, sharing one half of the prize with Reinhard Genzel (the other half being awarded to Roger Penrose). The Nobel Prize was awarded to Ghez and Genzel for their discovery of a supermassive compact object, now generally recognized to be a black hole, in the Milky Way's Galactic Center.
+
+Early life
+Ghez was born in New York City. She is the daughter of Susanne (née Gayton) and Gilbert Ghez. Her father, of Jewish heritage, was born in Rome, Italy, to a family originally from Tunisia and [Frankfurt](1300), Germany. Her mother was from an Irish Catholic family from North Attleborough, Massachusetts.
+In 1969, her father completed his Ph.D. at Columbia University and accepted a position at the University of Chicago, where as the child of a faculty member Ghez was able to attend the Laboratory School. The Apollo program Moon landings inspired Ghez to aspire to be the first female astronaut, and her mother encouraged that goal by purchasing a telescope. Her most influential female role model was her high school chemistry teacher.
+She began college by majoring in mathematics, then changed to physics. She received a BS in physics from the Massachusetts Institute of Technology in 1987. While there, she was a member of the fraternity of St. Anthony Hall. She received a PhD under the direction of Gerry Neugebauer at the California Institute of Technology in 1992.
+
+Career
+Ghez's research employs high spatial resolution imaging techniques, such as the adaptive optics system at the Keck telescopes, to study star-forming regions and the supermassive black hole at the center of the Milky Way known as Sagittarius A*. She uses the kinematics of stars near the center of the Milky Way as a probe to investigate this region. The high resolution of the Keck telescopes gave a significant improvement over the first major study of galactic center kinematics by Reinhard Genzel's group.
+In 2004, Ghez was elected to the National Academy of Sciences, and in 2012, she was elected to the [American Philosophical Society](3133). In 2019, she was elected as a Fellow of the [American Physical Society](3451) (APS).
+Ghez has appeared in many television documentaries produced by networks such as the [BBC](2927), Discovery Channel, and The History Channel. In 2006 she was in an episode of the PBS series Nova. She was identified as a Science Hero by The My Hero Project. In 2000, Discover magazine listed Ghez as one of 20 promising young American scientists in their respective fields.
+
+Black hole at the Galactic Center (Sgr A*)
+By imaging the Galactic Center at infrared wavelengths, Ghez and her colleagues have been able to peer through heavy dust that blocks visible light, to reveal images of the center of the Milky Way. Thanks to the 10-meter aperture of the W.M. Keck Telescope and the use of adaptive optics to correct for the turbulence of the atmosphere, these images of the Galactic Center are at very high spatial resolution and have made it possible to follow the orbits of stars around the black hole Sagittarius A* (Sgr A*). The partial orbits of many stars orbiting the black hole at the Galactic Center have been observed.  One of the stars, S2, has made a complete elliptical orbit since detailed observations began in 1995.  Several decades more will be required to completely document the orbits of some of these stars. These measurements may provide a test of the theory of general relativity. In October 2012, a second star, S0-102, was identified by her team at UCLA, orbiting the Galactic Center.  Using Kepler's third law, Ghez's team used the orbital motion to show that the mass of Sgr A* is 4.1±0.6 million solar masses.  Because the Galactic Center where Sgr A* is located, is one hundred times closer than M31 where the next nearest supermassive black hole (M31*) is, it is one of the best demonstrated cases for a supermassive black hole.
+In 2020, Ghez shared the Nobel Prize in Physics with Roger Penrose and Reinhard Genzel, for their discoveries relating to black holes. Ghez and Genzel were awarded one half of the prize for their discovery that a supermassive black hole most likely governs the orbits of stars at the center of the Milky Way. Ghez was the fourth woman to win the physics Nobel since its inception, being preceded by Marie Curie (1903), Maria Goeppert Mayer (1963), and Donna Strickland (2018).
+
+Awards
+Annie J. Cannon Award in Astronomy (1994)
+Packard Fellowship award (1996)
+Sloan Research Fellowship Award
+Newton Lacy Pierce Prize in Astronomy of the American Astronomical Society (1998)
+Maria Goeppert-Mayer Award of the [American Physical Society](3451) (1999)
+Sackler Prize (2004)
+Gold Shield Faculty Prize for Academic Excellence (2004)
+Marc Aaronson Memorial Lectureship (2007)
+MacArthur Fellowship (2008)
+Crafoord Prize in Astronomy (2012)
+Royal Swedish Academy of Sciences (2012)
+Royal Society Bakerian Medal (2015)
+Honorary Doctorate of Science, University of Oxford (2019)
+Fellow of the [American Physical Society](3451) (2019)
+Elected a Legacy Fellow of the American Astronomical Society (2020)
+Nobel Prize in Physics (2020)
+
+Selected publications
+Articles
+Ghez, Andrea M.; Neugebauer, Gerry; Matthews, K. (1993). "The Multiplicity of T Tauri Stars in the Taurus-Auriga & Ophiuchus-Scorpius Star Forming Regions: A 2.2 micron Imaging Survey" (PDF). Astronomical Journal. 106: 2005–2023. Bibcode:1993AJ....106.2005G. doi:10.1086/116782. S2CID 122568990.
+Ghez, Andrea M.; White, Russel J.; Simon, M. (1997). "High Spatial Resolution Imaging of Pre-Main Sequence Binary Stars: Resolving the Relationship Between Disks and Close Companions". Astrophysical Journal. 490 (1): 353–367. Bibcode:1997ApJ...490..353G. doi:10.1086/304856.
+Ghez, Andrea M.; Klein, B. L.; Morris, M.; Becklin, E.E. (1998). "High Proper Motions in the Vicinity of Sgr A*: Evidence for a Massive Central Black Hole". Astrophysical Journal. 509 (2): 678–686. arXiv:astro-ph/9807210. Bibcode:1998ApJ...509..678G. doi:10.1086/306528. S2CID 18243528.
+Ghez, A. M.; Morris, M.; Becklin, E. E.; Tanner, A.; Kremenek, T. (2000). "The Accelerations of Stars Orbiting the Milky Way's Central Black Hole". Nature. 407 (6802): 349–351. arXiv:astro-ph/0009339. Bibcode:2000Natur.407..349G. doi:10.1038/35030032. PMID 11014184. S2CID 312384.
+Ghez, A. M.; Duchêne, G.; Matthews, K.; Hornstein, S. D.; Tanner, A.; Larkin, J.; Morris, M.; Becklin, E. E.; S. Salim (January 1, 2003). "The First Measurement of Spectral Lines in a Short-Period Star Bound to the Galaxy's Central Black Hole: A Paradox of Youth". Astrophysical Journal Letters. 586 (2): L127. arXiv:astro-ph/0302299. Bibcode:2003ApJ...586L.127G. doi:10.1086/374804. S2CID 11388341.
+Ghez, A. M.; Salim, S.; Weinberg, N. N.; Lu, J. R.; Do, T.; Dunn, J. K.; Matthews, K.; Morris, M. R.; Yelda, S. (December 20, 2008). "Measuring Distance and Properties of the Milky Way's Central Supermassive Black Hole with Stellar Orbits". Astrophysical Journal. 689 (2): 1044–1062. arXiv:0808.2870. Bibcode:2008ApJ...689.1044G. doi:10.1086/592738. S2CID 18335611.
+
+Books
+Ghez, Andrea Mia; Cohen, Judith Love (2006). You Can Be a Woman Astronomer. Cascade Pass. ISBN 978-1-880599-78-5.
+
+Personal life
+Ghez has two sons. Ghez is an active swimmer in the UCLA Masters Swim Club.
+
+See also
+List of Nobel laureates in Physics
+
+References
+External links
+
+UCLA Faculty Research Lecture: Unveiling a Black Hole at the Center of the Milky Way
+Finkbeiner, Ann (March 20, 2013), "As an early adopter of astronomical technology, Andrea Ghez is revealing secrets about the giant black hole at the Galaxy's centre", Nature, 495 (7441): 296–298, Bibcode:2013Natur.495..296F, doi:10.1038/495296a, PMID 23518544
+Andrea Ghez at TED

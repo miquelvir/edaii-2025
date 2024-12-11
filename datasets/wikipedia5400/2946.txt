@@ -1,0 +1,42 @@
+2946
+Banana equivalent dose
+[Banana](2900) equivalent dose (BED) is an informal unit of measurement of ionizing radiation exposure, intended as a general educational example to compare a dose of radioactivity to the dose one is exposed to by eating one average-sized banana. [Banana](2900)s contain naturally occurring radioactive isotopes, particularly potassium-40 (40K), one of several naturally occurring isotopes of potassium. One BED is often correlated to 10−7 sievert (0.1 μSv); however, in practice, this dose is not cumulative, as the potassium in foods is excreted in urine to maintain homeostasis. The BED is only meant as an educational exercise and is not a formally adopted dose measurement.
+
+History
+The origins of the concept are uncertain, but one early mention can be found on the RadSafe nuclear safety mailing list in 1995, where Gary Mansfield of the Lawrence Livermore National Laboratory mentions that he has found the "banana equivalent dose" to be "very useful in attempting to explain  infinitesimal doses (and corresponding infinitesimal risks) to members of the public". A value of 9.82×10−8 sieverts or about 0.1 microsieverts (10 μrem) was suggested for consuming a 150-gram (5.3 oz) banana.
+
+Usage
+The banana equivalent dose is an informal measurement, so any equivalences are necessarily approximate, but it has been found useful by some as a way to inform the public about relative radiation risks.
+
+The radiation exposure from consuming a banana is approximately 1% of the average daily exposure to radiation, which is 100 banana equivalent doses (BED). The maximum permitted radiation leakage for a nuclear power plant is equivalent to 2,500 BED (250 μSv) per year, while a chest CT scan delivers 70,000 BED (7 mSv). An acute lethal dose of radiation is approximately 35,000,000 BED (3.5 Sv, 350 rem). A person living 16 kilometres (10 mi) from the Three Mile Island nuclear reactor received an average of 800 BED of exposure to radiation during the 1979 Three Mile Island accident.
+
+Dose calculation
+Source of radioactivity
+The major natural source of radioactivity in plant tissue is potassium: 0.0117% of the naturally occurring potassium is the unstable isotope potassium-40. This isotope decays with a half-life of about 1.25 billion years (4×1016 seconds), and therefore the radioactivity of natural potassium is about 31 becquerel/gram (Bq/g), meaning that, in one gram of the element, about 31 atoms will decay every second. Plants naturally contain radioactive carbon-14 (14C), but in a banana containing 15 grams of carbon this would give off only about 3 to 5 low-energy beta rays per second. Since a typical banana contains about half a gram of potassium, it will have an activity of roughly 15 Bq. Although the amount in a single banana is small in environmental and medical terms, the radioactivity from a truckload of bananas is capable of causing a false alarm when passed through a Radiation Portal Monitor used to detect possible smuggling of nuclear material at U.S. ports.
+The dose uptake from ingested material is defined as committed dose, and in the case of the overall effect on the human body of the radioactive content of a banana, it will be the "committed effective dose". This is typically given as the net dose over a period of 50 years resulting from the intake of radioactive material.
+According to the US Environmental Protection Agency (EPA), isotopically pure potassium-40 will give a committed dose equivalent of 5.02 nSv over 50 years per becquerel ingested by an average adult. Using this factor, one banana equivalent dose comes out as about 5.02 nSv/Bq × 31 Bq/g × 0.5 g ≈ 78 nSv = 0.078 μSv. In informal publications, one often sees this estimate rounded up to 0.1 μSv. The International Commission on Radiological Protection estimates a coefficient of 6.2 nSv/Bq for the ingestion of potassium-40, with this datum the calculated BED would be 0.096 μSv, closer to the standard value of 0.1 μSv.
+
+Criticism
+Several sources point out that the banana equivalent dose is a flawed concept because consuming a banana does not increase one's exposure to radioactive potassium.
+The committed dose in the human body due to bananas is not cumulative because the amount of potassium (and therefore of 40K) in the human body is fairly constant due to homeostasis, so that any excess absorbed from food is quickly compensated by the elimination of an equal amount.
+It follows that the additional radiation exposure due to eating a banana lasts only for a few hours after ingestion, i.e. the time it takes for the normal potassium content of the body to be restored by the kidneys. The EPA conversion factor, on the other hand, is based on the mean time needed for the isotopic mix of potassium isotopes in the body to return to the natural ratio after being disturbed by the ingestion of pure 40K, which was assumed by EPA to be 30 days. If the assumed time of residence in the body is reduced by a factor of ten, for example, the estimated equivalent absorbed dose due to the banana will be reduced in the same proportion.
+These amounts may be compared to the exposure due to the normal potassium content of the human body of 2.5 grams per kilogram,  or 175 grams in a 70 kg adult.  This potassium will naturally generate 175 g × 31 Bq/g ≈ 5400 Bq of radioactive decays, constantly through the person's adult lifetime.
+
+Radiation from other household consumables
+Other foods rich in potassium (and therefore in 40K) include potatoes, kidney beans, sunflower seeds, and nuts. 
+Brazil nuts in particular (in addition to being rich in 40K) may also contain significant amounts of radium, which have been measured at up to 444 Bq/kg (12 nCi/kg). 
+Tobacco contains traces of thorium, polonium and uranium. The process of drying and then smoking the solid matter concentrates those radionuclides further, creating in essence technologically enhanced naturally occurring radioactive material.
+
+See also
+Background radiation
+Background radiation equivalent time
+Flight-time equivalent dose
+List of humorous units of measurement
+List of unusual units of measurement
+Naturally occurring radioactive material (NORM)
+
+Notes
+References
+External links
+"Radioactivity in food: your questions answered", Food Standards Agency
+"Radiation Dose", Radiological Society of North America, Inc. (RSNA) Radiation doses for various common procedures.

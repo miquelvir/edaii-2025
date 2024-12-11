@@ -1,0 +1,84 @@
+5362
+Āstika and nāstika
+Āstika (Sanskrit: आस्तिक; IAST: Āstika) and Nāstika (Sanskrit: नास्तिक; IAST: Nāstika) are concepts that have been used to classify the schools of Indian philosophy by modern scholars, as well as some Hindu, Buddhist and Jain texts. The various definitions for āstika and nāstika philosophies have been disputed since ancient times, and there is no consensus. One standard distinction, as within ancient- and medieval-era Sanskrit philosophical literature, is that āstika schools accept the Vedas, the ancient texts of India, as fundamentally authoritative, while the nāstika schools do not. However, a separate way of distinguishing the two terms has evolved in current Indian languages like Telugu, Hindi and Bengali, wherein āstika and its derivatives usually mean 'theist', and nāstika and its derivatives denote 'atheism'. Still, philosophical tradition maintains the earlier distinction, for example, in identifying the school of Sāṃkhya, which is non-theistic (as it does not explicitly affirm the existence of God in its classical formulation), as āstika (Veda-affirming) philosophy, though "God" is often used as an epithet for consciousness (purusha) within its doctrine. Similarly, though [Buddhism](5001) is considered to be nāstika, Gautama Buddha is considered an avatar of the god Vishnu in some Hindu denominations. Due to its acceptance of the Vedas, āstika philosophy, in the original sense, is often equivalent to Hindu philosophy: philosophy that developed alongside the Hindu religion.
+Āstika (Sanskrit: आस्तिक; from Sanskrit: asti, 'there is, there exists') means one who believes in the existence of a Self or Brahman, etc. It has been defined in one of three ways:
+
+as those who accept the epistemic authority of the Vedas;
+as those who accept the existence of ātman;
+as those who accept the existence of Ishvara.
+Nāstika (Sanskrit: नास्तिक; from Sanskrit: na, 'not' + āstika), by contrast, are those who deny all the respective definitions of āstika; they do not believe in the existence of Self.
+The six most studied Āstika schools of Indian philosophies, sometimes referred to as orthodox schools, are Nyāyá, Vaiśeṣika, Sāṃkhya, Yoga, Mīmāṃsā, and Vedānta. The five most studied Nāstika schools of Indian philosophies, sometimes referred to as heterodox schools, are [Buddhism](5001), Jainism, Chārvāka, Ājīvika, and [Ajñana](4923). However, this orthodox-heterodox terminology is a construct of Western languages, and lacks scholarly roots in Sanskrit. Recent scholarly studies state that there have been various heresiological translations of Āstika and Nāstika in 20th century literature on Indian philosophies, but many are unsophisticated and flawed.
+
+Etymology
+Āstika is a Sanskrit adjective and noun that derives from asti ('there is or exists'), meaning 'knowing that which exists' or 'pious.' The word Nāstika (na, not, + āstika) is its negative.
+One of the traditional etymologies of the term āstika—based on Pāṇini's Aṣṭādhyāyī 4.4.60 ("astināstidiṣṭam matiḥ")—defines the concept as 'he whose opinion is that Īśvara exists' (asti īśvara iti matir yasya). According to Sanskrit grammarian Hemachandra, āstika is a synonym for 'he who believes'. Other definitions include:
+
+'opposite of nāstika' (nāstika bhinna);
+'he whose idea is that Īśvara exists' (īśvara asti iti vādī); and
+'he who considers the Vedas as authorities' (vedaprāmāṇyavādī).
+As used in Hindu philosophy, the differentiation between āstika and nāstika does not refer to theism or atheism. The terms often, but not always, relate to accepting Vedic literature as an authority, particularly on their teachings on Self. The Veda and [Hinduism](5301) do not subscribe to or include the concept of an almighty that is separate from oneself i.e. there is no concept of God in the Christian or [Islam](5101)ic sense. N. N. Bhattacharya writes:
+
+The followers of Tantra were often branded as Nāstika by the political proponents of the Vedic tradition.  The term Nāstika does not denote an atheist since the Veda presents a godless system with no singular almighty being or multiple almighty beings.  It is applied only to those who do not believe in the Vedas.  The Sāṃkhyas and Mīmāṃsakas do not believe in God, but they believe in the Vedas and hence they are not Nāstikas. The Buddhists, Jains, and Cārvākas do not believe in the Vedas; hence they are Nāstikas.
+Āstika is also a name, such as that of a Vedic scholar born to the goddess Mānasā ('Mind') and the sage Jaratkaru.
+
+Classification of schools
+The terms Āstika and Nāstika have been used to classify various Indian intellectual traditions.
+
+Āstika
+The āstika schools are six systems or ṣaḍdarśana that consider the Vedas a reliable and authoritative source of knowledge. These are often coupled into three groups for both historical and conceptual reasons.
+
+Nyāyá-Vaiśeṣika
+Nyaya, the school of logic
+Vaisheshika, the atomist school
+Sāṃkhya-Yoga
+Samkhya, the enumeration school
+Yoga, the school of Patañjali (which assumes the metaphysics of Sāṃkhya)
+Mimāṃsā-Vedanta
+Mīmāṃsā, the tradition of Vedic exegesis
+Vedanta or Uttara Mimāṃsā, the Upaniṣadic tradition.
+
+Nāstika
+The main schools of Indian philosophy that reject the Vedas were regarded as heterodox in the tradition:
+
+[Buddhism](5001)
+Jainism
+Charvaka
+Ājīvika
+[Ajñana](4923)
+The use of the term nāstika to describe [Buddhism](5001) and Jainism in India is explained by Gavin Flood as follows:
+
+At an early period, during the formation of the Upaniṣads and the rise of [Buddhism](5001) and Jainism, we must envisage a common heritage of meditation and mental discipline practiced by renouncers with varying affiliations to non-orthodox (Veda-rejecting) and orthodox (Veda-accepting) traditions.... These schools such as [Buddhism](5001) and Jainism are understandably regarded as heterodox (nāstika) by orthodox (āstika) Brahmanism.
+Tantric traditions in [Hinduism](5301) have both āstika and nāstika lines; as Banerji writes in Tantra in Bengal:
+
+Tantras are ... also divided as āstika or Vedic and nāstika or non-Vedic.  In accordance with the predominance of the deity the āstika works are again divided as Śākta, Śaiva, Saura, Gāṇapatya and Vaiṣṇava.
+
+Usage in religion
+[Hinduism](5301)
+Manusmriti, in verse 2.11, defines Nāstika as those who do not accept "Vedic literature in entirety based on two roots of science of reasoning (Śruti and Smriti)". The 9th century Indian scholar Medhatithi analyzed this definition and stated that Nāstika does not mean someone who says "Vedic literature are untrue", but rather one who says "Vedic literature are immoral". Medhatithi further noted verse 8.309 of Manusmriti, to provide another aspect of the definition of Nāstika as one who believes, "there is no other world, there is no purpose in giving charity, there is no purpose in rituals and the teachings in the Vedic literature."
+Manusmriti does not define, or imply a definition for [Astika](5362). It is also silent or contradictory on specific rituals such as animal sacrifices, asserting [Ahimsa](5011) (non-violence, non-injury) is dharma in its verses such as verse 10.63 based on Upanishadic layer of Vedic literature, even though the older layer of Vedic literature mention such sacrifices unlike the later layer of Vedic literature. Indian scholars, such as those from Samkhya, Yoga, Nyaya and Vedanta schools, accepted [Astika](5362) to be those that include Śabda (शब्द; or Aptavacana, testimony of Vedic literature and reliable experts) as a reliable means of epistemology, but they accepted the later ancient layer of the Vedic literature to be superseding the earlier ancient layer.
+
+Without reference to Vedas
+In contrast to Manusmriti, the 6th century CE Jain scholar and doxographer Haribhadra, provided a different perspective in his writings on [Astika](5362) and Nāstika. Haribhadra did not consider "reverence for Vedas" as a marker for an [Astika](5362). He and other 1st millennium CE Jaina scholars defined [Astika](5362) as one who "affirms there exists another world, transmigration exists, virtue (punya) exists, vice (paapa) exists."
+The 7th century scholars Jayaditya and Vamana, in Kasikavrtti of Pāṇini tradition, were silent on the role of or authority of Vedic literature in defining [Astika](5362) and Nāstika. They state, "[Astika](5362) is the one who believes there exists another world. The opposite of him is the Nāstika."
+Similarly the widely studied 2nd–3rd century CE Buddhist philosopher Nagarjuna, in Chapter 1 verses 60–61 of Ratnāvalī, wrote Vaiśeṣika and Sāṃkhya schools of [Hinduism](5301) were Nāstika, along with Jainism, his own school of [Buddhism](5001) and Pudgalavadins (Vātsīputrīya) school of [Buddhism](5001).
+
+Based on belief in Atman
+[Astika](5362), in some texts, is defined as those who believe in the existence of Atman (Self), while Nastika being those who deny there is any "Self" in human beings and other living beings. All six schools of [Hinduism](5301) classified as [Astika](5362) philosophies hold the premise, "Atman exists". [Buddhism](5001), in contrast, holds the premise, "Atman does not exist." [Asanga](5050) Tilakaratna translates [Astika](5362) as 'positivism' and Nastika as 'negativism', with [Astika](5362) illustrated by Brahmanic traditions who accepted "Self and God exists", while Nastika as those traditions, such as [Buddhism](5001), who denied "Self and God exists."
+
+Jainism
+According to G. S. Ghurye, the Jain texts define na+astika as one "denying what exists" or any school of philosophy that denies the existence of the Self. The Vedanta sub-traditions of [Hinduism](5301) are "astika" because they accept the existence of Self, while Buddhist traditions denying this are referred to as "nastika".
+One of the earliest mentions of astika concept in Jain texts is by Manibhadra, who states that an astika is one who "accepts there exist another world (paraloka), transmigration of Self, virtue and vice that affect how a Self journeys through time".
+The 5th–6th century Jainism scholar Haribhadra, states Andrew Nicholson, does not mention anything about accepting or rejecting the Vedas or god as a criterion for being an astika or nastika. Instead, Haribhadra explains nastika in the manner of the more ancient Jain scholar Manibhadra, by stating a nastika to be one "who says there is no other worlds, there is no purpose in charity, there is no purpose in offerings". An astika, to Haribhadra, is one who believes that there is a purpose and merit in an ethical life such as ahimsa (non-violence) and ritual actions. This exposition of the word astika and nastika by Haribhadra is similar to one by the Sanskrit grammarian and Hindu scholar Pāṇini in section 4.4.60 of the Astadhyayi.
+The 12th century Jaina scholar Hemachandra similarly states, in his text Abithana Chintamani, that a nastika is any philosophy that presumes or argues there is "no virtue and vice."
+
+[Buddhism](5001)
+Nagarjuna, according to Chandradhar Sharma, equates Nastikya to "nihilism".
+The 4th century Buddhist scholar [Asanga](5050), in [Bodhisattva](5098) Bhumi, refers to nastika Buddhists as sarvaiva nastika, describing them as who are complete deniers. To [Asanga](5050), nastika are those who say "nothing whatsoever exists", and the worst kind of nastika are those who deny all designation and reality. [Astika](5362) are those who accept merit in and practice a religious life. According to Andrew Nicholson, later Buddhists understood [Asanga](5050) to be targeting Madhyamaka [Buddhism](5001) as nastika, while considering his own Yogachara Buddhist tradition to be astika. Initial interpretations of the Buddhist texts with the term astika and nastika, such as those composed by Nagarjuna and [Aśvaghoṣa](5061), were interpreted as being directed at the Hindu traditions. However, states John Kelly, most later scholarship considers this as incorrect, and that the astika and nastika terms were directed towards the competing Buddhist traditions and the intended audience of the texts were Buddhist monks debating an array of ideas across various Buddhist traditions.
+The charges of being a nastika were serious threat to the social standing of a Buddhist, and could lead to expulsion from Buddhist monastic community. Thus, states Nicholson, the colonial era Indologist definition of astika and nastika schools of Indian philosophy, was based on a narrow study of literature such as a version of Manusmriti, while in truth these terms are more complex and contextually apply within the diverse schools of Indian philosophies.
+The most common meaning of astika and nastika, in [Buddhism](5001), [Hinduism](5301) and Jainism was the acceptance and adherence to ethical premises, and not textual validity or doctrinal premises, states Nicholson. It is likely that astika was translated as orthodox, and nastika as heterodox, because the early European Indologists carried the baggage of Christian theological traditions and extrapolated their own concepts to Asia, thereby distorting the complexity of Indian traditions and thought.
+
+See also
+Notes
+
+
+== References ==

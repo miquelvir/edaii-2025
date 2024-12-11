@@ -1,0 +1,643 @@
+292
+APG III system
+The APG III system of flowering plant classification is the third version of a modern, mostly molecular-based, system of plant taxonomy being developed by the Angiosperm Phylogeny Group (APG). Published in 2009, it was superseded in 2016 by a further revision, the APG IV system. 
+Along with the publication outlining the new system, there were two accompanying publications in the same issue of the Botanical Journal of the Linnean Society:
+
+The first, by Chase & Reveal, was a formal phylogenetic classification of all land plants (embryophytes), compatible with the APG III classification. As the APG have chosen to eschew ranks above order, this paper was meant to fit the system into the existing Linnaean hierarchy for those that prefer such a classification. The result was that all land plants were placed in the class Equisetopsida, which was then divided into 16 subclasses and a multitude of superorders.
+The second, by Haston et al., was a linear sequence of families following the APG III system (LAPG III). This provided a numbered list to the 413 families of APG III. A linear sequence is of particular use to herbarium curators and those working on floristic works wishing to arrange their taxa according to APG III.
+
+Organization
+The APG III system recognized all of the 45 orders of the previous system, as well as 14 new ones. The order Ceratophyllales was erroneously marked as a new order, as it had been recognized in both of the previous APG systems. The newly recognized orders were:
+
+Amborellales, Nymphaeales, Chloranthales, Petrosaviales, Trochodendrales, Buxales, Vitales, Zygophyllales, Picramniales, Huerteales, Berberidopsidales, Escalloniales, Bruniales, and Paracryphiales.
+The designation of alternative "bracketed families" was abandoned in APG III, because its inclusion in the previous system had been unpopular. APG III recognized 413 families, 43 fewer than in the previous system. Forty-four of the 55 "bracketed families" were discontinued, and 20 other families were discontinued as well.
+The discontinued bracketed families were: 
+
+Illiciaceae, Alliaceae, Agapanthaceae, Agavaceae, Aphyllanthaceae, Hesperocallidaceae, Hyacinthaceae, Laxmanniaceae, Ruscaceae, Themidaceae, Asphodelaceae, Hemerocallidaceae, Kingdoniaceae, Fumariaceae, Pteridophyllaceae, Didymelaceae, Tetracentraceae, Pterostemonaceae, Hypseocharitaceae, Francoaceae, Memecylaceae, Lepuropetalaceae, Rhoipteleaceae, Medusagynaceae, Quiinaceae, Malesherbiaceae, Turneraceae, Bretschneideraceae, Diegodendraceae, Cochlospermaceae, Peganaceae, Tetradiclidaceae, Nyssaceae, Ternstroemiaceae, Pellicieraceae, Aucubaceae, Donatiaceae, Lobeliaceae, Desfontainiaceae, Diervillaceae, Dipsacaceae, Linnaeaceae, Morinaceae, and Valerianaceae.
+The other discontinued families were: 
+
+Limnocharitaceae, Luzuriagaceae, Sparganiaceae, Ixerbaceae, Ledocarpaceae, Heteropyxidaceae, Psiloxylaceae, Oliniaceae, Rhynchocalycaceae, Parnassiaceae, Maesaceae, Myrsinaceae, Theophrastaceae, Eremosynaceae, Polyosmaceae, Tribelaceae, Sphenostemonaceae, Aralidiaceae, Mackinlayaceae, and Melanophyllaceae.
+21 families were accepted in the APG III system which had not been in the previous system, and a few families were moved to a different position. The newly recognized families are:
+
+Cynomoriaceae, Haptanthaceae, Petermanniaceae, Schoepfiaceae, Limeaceae, Lophiocarpaceae, Montiaceae, Talinaceae, Anacampserotaceae, Centroplacaceae, Calophyllaceae, Guamatelaceae, Gerrardinaceae, Dipentodontaceae, Capparidaceae, Cleomaceae, Cytinaceae, Mitrastemonaceae, Metteniusaceae, Linderniaceae, and Thomandersiaceae.
+The number of families not placed in any order was reduced from 39 to 10. Apodanthaceae and Cynomoriaceae were placed among the angiosperms, incertae sedis, that is, not in any group within the angiosperms. Eight other families were placed incertae sedis in various supra-ordinal groups within the angiosperms. The families not placed in any order were: 
+
+Apodanthaceae, Cynomoriaceae, Dasypogonaceae, Sabiaceae, Dilleniaceae, Icacinaceae, Metteniusaceae, Oncothecaceae, Vahliaceae, and Boraginaceae.
+The paragraph below shows the number of families in each order and the placement of those families that were not included in any order. These figures were produced by simply counting the families in the text of the paper that established APG III.
+ORDERS: Amborellales (1), Nymphaeales (3), Austrobaileyales (3), Chloranthales (1), Canellales (2), Piperales (5), 
+Magnoliales (6), Laurales (7), Acorales (1), Alismatales (13), Petrosaviales (1), Dioscoreales (3), Pandanales (5), Liliales (10), Asparagales (14), Arecales (1), Poales (16), Commelinales (5), Zingiberales (8), Ceratophyllales (1), Ranunculales (7), 
+Proteales (3), Trochodendrales (1), Buxales (2), Gunnerales (2), Saxifragales (14), Vitales (1), Zygophyllales (2), 
+Celastrales (2), Oxalidales (7), Malpighiales (35), Fabales (4), Rosales (9), Fagales (7), Cucurbitales (7), Geraniales (3), Myrtales (9), Crossosomatales (7), Picramniales (1), Sapindales (9), Huerteales (3), Brassicales (17), Malvales (10), Berberidopsidales (2), Santalales (7), Caryophyllales (34), Cornales (6), Ericales (22), Garryales (2), Gentianales (5), 
+Solanales (5), Lamiales (23), Aquifoliales (5), Asterales (11), Escalloniales (1), Bruniales (2), Apiales (7), Paracryphiales (1), Dipsacales (2).
+SUPRA-ORDINAL GROUPS: commelinids (1), basal eudicots (1), Pentapetalae (1), lamiids incertae sedis (3), core lamiids (2), angiosperms incertae sedis (2).
+The circumscription of the family Icacinaceae remains especially doubtful. Apodytes and its close relative, Rhaphiostylis, as well as Emmotum, Cassinopsis, and a few other genera were provisionally retained within it until further studies can determine whether they properly belong there.
+Three genera (Gumillea, Nicobariodendron, and Petenaea) were placed within the angiosperms incertae sedis. Gumillea had been unplaced in APG II. Nicobariodendron and Petenaea were newly added to the list. The latter was later placed into its own family Petenaeaceae in the order Huerteales
+The classification is shown below in two versions. The short version goes to the level of orders and of families unplaced in an order. The detailed version shows all the families. Orders at the same level in the classification are arranged alphabetically. Note that orders may not contain the same families as in earlier versions of the APG system (APG system, APG II system). Further detail on relationships can be seen in the phylogenetic tree below.
+
+Short version
+clade angiosperms
+order Amborellales
+order Nymphaeales
+order Austrobaileyales
+order Chloranthales
+clade magnoliids
+order Canellales
+order Laurales
+order Magnoliales
+order Piperales
+clade monocots
+order Acorales
+order Alismatales
+order Asparagales
+order Dioscoreales
+order Liliales
+order Pandanales
+order Petrosaviales
+clade commelinids
+family Dasypogonaceae—unplaced in an order
+order Arecales
+order Commelinales
+order Poales
+order Zingiberales
+probable sister of eudicots
+order Ceratophyllales
+clade eudicots
+family Sabiaceae—unplaced in an order
+order Buxales
+order Proteales
+order Ranunculales
+order Trochodendrales
+clade core eudicots
+family Dilleniaceae—unplaced in an order
+order Gunnerales
+order Saxifragales
+clade rosids
+order Vitales
+clade fabids (eurosids I)
+order Celastrales
+order Cucurbitales
+order Fabales
+order Fagales
+order Malpighiales
+order Oxalidales
+order Rosales
+order Zygophyllales
+clade malvids (eurosids II)
+order Brassicales
+order Crossosomatales
+order Geraniales
+order Huerteales
+order Malvales
+order Myrtales
+order Picramniales
+order Sapindales
+(back to core eudicots)
+order Berberidopsidales
+order Caryophyllales
+order Santalales
+clade asterids
+order Cornales
+order Ericales
+clade lamiids (euasterids I)
+family Boraginaceae—unplaced in an order
+family Vahliaceae—unplaced in an order
+family Icacinaceae—unplaced in an order
+family Metteniusaceae—unplaced in an order
+family Oncothecaceae—unplaced in an order
+order Garryales
+order Gentianales
+order Lamiales
+order Solanales
+clade campanulids (euasterids II)
+order Apiales
+order Aquifoliales
+order Asterales
+order Bruniales
+order Dipsacales
+order Escalloniales
+order Paracryphiales
+
+Detailed version
+Legend:
+* = new family placement;
+† = newly recognized order for the APG system;
+§ = new family circumscription described in the text;
+$ = families that represent the broader circumscription of options available in APG II and favoured here;
+$$ = families that were in square brackets in APG II, the narrower circumscriptions favoured here.
+
+Angiosperms
+†Amborellales Melikyan, A.V.Bobrov & Zaytzeva
+Amborellaceae Pichon
+†Nymphaeales Salisb. ex Bercht. & J.Presl
+$$Cabombaceae Rich. ex A.Rich.
+*Hydatellaceae U.Hamann
+$$Nymphaeaceae Salisb.
+Austrobaileyales Takht. ex Reveal
+Austrobaileyaceae Croizat
+$Schisandraceae Blume (including Illiciaceae A.C.Sm.)
+Trimeniaceae L.S.Gibbs
+†Chloranthales R.Br.
+Chloranthaceae R.Br. ex Sims
+
+Magnoliids
+Canellales Cronquist
+Canellaceae Mart.
+Winteraceae R.Br. ex Lindl.
+Piperales Bercht. & J.Presl
+Aristolochiaceae Juss.
+Hydnoraceae C.Agardh
+Lactoridaceae Engl.
+Piperaceae Giseke
+Saururaceae F.Voigt
+Laurales Juss. ex Bercht. & J.Presl
+Atherospermataceae R.Br.
+Calycanthaceae Lindl.
+Gomortegaceae Reiche
+Hernandiaceae Blume
+Lauraceae Juss.
+Monimiaceae Juss.
+Siparunaceae Schodde
+Magnoliales Juss. ex Bercht. & J.Presl
+Annonaceae Juss.
+Degeneriaceae I.W.Bailey & A.C.Sm.
+Eupomatiaceae Orb.
+Himantandraceae Diels
+Magnoliaceae Juss.
+Myristicaceae R.Br.
+
+Monocots
+Acorales Link
+Acoraceae Martinov
+Alismatales R.Br. ex Bercht. & J.Presl
+§Alismataceae Vent. (including Limnocharitaceae Takht. ex Cronquist)
+Aponogetonaceae Planch.
+Araceae Juss.
+Butomaceae Mirb.
+Cymodoceaceae Vines
+Hydrocharitaceae Juss.
+Juncaginaceae Rich.
+Posidoniaceae Vines
+Potamogetonaceae Bercht. & J.Presl
+Ruppiaceae Horan.
+Scheuchzeriaceae F.Rudolphi
+Tofieldiaceae Takht.
+Zosteraceae Dumort.
+†Petrosaviales Takht.
+Petrosaviaceae Hutch.
+Dioscoreales R.Br.
+Burmanniaceae Blume
+Dioscoreaceae R.Br.
+Nartheciaceae Fr. ex Bjurzon
+Pandanales R.Br. ex Bercht. & J.Presl
+Cyclanthaceae Poit. ex A.Rich.
+Pandanaceae R.Br.
+Stemonaceae Caruel
+Triuridaceae Gardner
+Velloziaceae J.Agardh
+Liliales Perleb
+§Alstroemeriaceae Dumort. (including Luzuriagaceae Lotsy)
+Campynemataceae Dumort.
+Colchicaceae DC.
+Corsiaceae Becc.
+Liliaceae Juss.
+Melanthiaceae Batsch ex Borkh.
+*Petermanniaceae Hutch.
+Philesiaceae Dumort.
+Ripogonaceae Conran & Clifford
+Smilacaceae Vent.
+Asparagales Link
+$Amaryllidaceae J.St.-Hil. (including Agapanthaceae F.Voigt, Alliaceae Borkh.)
+$Asparagaceae Juss. (including Agavaceae Dumort., Aphyllanthaceae Burnett, Hesperocallidaceae Traub, Hyacinthaceae Batsch ex Borkh., Laxmanniaceae Bubani, Ruscaceae M.Roem., Themidaceae Salisb.)
+Asteliaceae Dumort.
+Blandfordiaceae R.Dahlgren & Clifford
+Boryaceae M.W.Chase, Rudall & Conran
+Doryanthaceae R.Dahlgren & Clifford
+Hypoxidaceae R.Br.
+Iridaceae Juss.
+Ixioliriaceae Nakai
+Lanariaceae R.Dahlgren & A.E.van Wyk
+Orchidaceae Juss.
+Tecophilaeaceae Leyb.
+$Xanthorrhoeaceae Dumort. (including Asphodelaceae Juss. and Hemerocallidaceae R.Br.)
+Xeronemataceae M.W.Chase, Rudall & M.F.Fay
+
+Commelinids
+Dasypogonaceae Dumort.
+Arecales Bromhead
+Arecaceae Bercht. & J.Presl
+Commelinales Mirb. ex Bercht. & J.Presl
+Commelinaceae Mirb.
+Haemodoraceae R.Br.
+Hanguanaceae Airy Shaw
+Philydraceae Link
+Pontederiaceae Kunth
+Poales Small
+Anarthriaceae D.F.Cutler & Airy Shaw
+Bromeliaceae Juss.
+Centrolepidaceae Endl.
+Cyperaceae Juss.
+Ecdeiocoleaceae D.F.Cutler & Airy Shaw
+Eriocaulaceae Martinov
+Flagellariaceae Dumort.
+Joinvilleaceae Toml. & A.C.Sm.
+Juncaceae Juss.
+Mayacaceae Kunth
+Poaceae Barnhart
+Rapateaceae Dumort.
+Restionaceae R.Br.
+Thurniaceae Engl.
+§Typhaceae Juss. (including Sparganiaceae Hanin)
+Xyridaceae C.Agardh
+Zingiberales Griseb.
+Cannaceae Juss.
+Costaceae Nakai
+Heliconiaceae Vines
+Lowiaceae Ridl.
+Marantaceae R.Br.
+Musaceae Juss.
+Strelitziaceae Hutch.
+Zingiberaceae Martinov
+
+Probable sister of eudicots
+Ceratophyllales Link
+Ceratophyllaceae Gray
+
+Eudicots
+Ranunculales Juss. ex Bercht. & J.Presl
+Berberidaceae Juss.
+$Circaeasteraceae Hutch. (including Kingdoniaceae Airy Shaw)
+Eupteleaceae K.Wilh.
+Lardizabalaceae R.Br.
+Menispermaceae Juss.
+$Papaveraceae Juss. (including Fumariaceae Marquis, Pteridophyllaceae Nakai ex Reveal & Hoogland)
+Ranunculaceae Juss.
+Sabiaceae Blume
+Proteales Juss. ex Bercht. & J.Presl
+Nelumbonaceae A.Rich.
+$$Platanaceae T.Lestib.
+$$Proteaceae Juss.
+†Trochodendrales Takht. ex Cronquist
+$Trochodendraceae Eichler (including Tetracentraceae A.C.Sm.)
+†Buxales Takht. ex Reveal
+$Buxaceae Dumort. (including Didymelaceae Leandri)
+*Haptanthaceae C.Nelson
+
+Core eudicots
+Gunnerales Takht. ex Reveal
+$$Gunneraceae Meisn.
+$$Myrothamnaceae Nied.
+Dilleniaceae Salisb.
+Saxifragales Bercht. & J.Presl
+Altingiaceae Horan.
+Aphanopetalaceae Doweld
+Cercidiphyllaceae Engl.
+Crassulaceae J.St.-Hil.
+Daphniphyllaceae Müll.-Arg.
+Grossulariaceae DC.
+$$Haloragaceae R.Br.
+Hamamelidaceae R.Br.
+$Iteaceae J.Agardh (including Pterostemonaceae Small)
+Paeoniaceae Raf.
+$$Penthoraceae Rydb. ex Britt.
+*§Peridiscaceae Kuhlm. (including Medusandraceae Brenan, Soyauxia Oliver)
+Saxifragaceae Juss.
+$$Tetracarpaeaceae Nakai
+†Berberidopsidales Doweld
+Aextoxicaceae Engl. & Gilg
+Berberidopsidaceae Takht.
+Santalales R.Br. ex Bercht. & J.Presl
+*Balanophoraceae Rich.
+Loranthaceae Juss.
+Misodendraceae J.Agardh
+Santalaceae R.Br.
+Olacaceae R.Br.
+Opiliaceae Valeton
+*Schoepfiaceae Blume
+Caryophyllales Juss. ex Bercht. & J.Presl
+Achatocarpaceae Heimerl
+Aizoaceae Martinov
+Amaranthaceae Juss.
+*Anacampserotaceae Eggli & Nyffeler
+Ancistrocladaceae Planch. ex Walp.
+Asteropeiaceae Takht. ex Reveal & Hoogland
+Barbeuiaceae Nakai
+Basellaceae Raf.
+Cactaceae Juss.
+Caryophyllaceae Juss.
+§Didiereaceae Radlk.
+Dioncophyllaceae Airy Shaw
+Droseraceae Salisb.
+Drosophyllaceae Chrtek, Slavíková & Studnicka
+Frankeniaceae Desv.
+Gisekiaceae Nakai
+Halophytaceae A.Soriano
+*Limeaceae Shipunov ex Reveal
+*Lophiocarpaceae Doweld & Reveal
+§Molluginaceae Bartl.
+*Montiaceae Raf.
+Nepenthaceae Dumort.
+Nyctaginaceae Juss.
+Physenaceae Takht.
+Phytolaccaceae R.Br.
+Plumbaginaceae Juss.
+Polygonaceae Juss.
+§Portulacaceae Juss.
+Rhabdodendraceae Prance
+Sarcobataceae Behnke
+Simmondsiaceae Tiegh.
+Stegnospermataceae Nakai
+*Talinaceae Doweld
+Tamaricaceae Link
+
+Rosids
+†Vitales Juss. ex Bercht. & J.Presl
+Vitaceae Juss.
+
+Fabids (eurosids I)
+†Zygophyllales Link
+$$Krameriaceae Dumort.
+$$Zygophyllaceae R.Br.
+Celastrales Link
+$Celastraceae R.Br. (including Lepuropetalaceae Nakai, Parnassiaceae Martinov, Pottingeriaceae Takht.)
+Lepidobotryaceae J.Léonard
+Oxalidales Bercht. & J.Presl
+Brunelliaceae Engl.
+Cephalotaceae Dumort.
+Connaraceae R.Br.
+Cunoniaceae R.Br.
+Elaeocarpaceae Juss. ex DC.
+*Huaceae A.Chev.
+Oxalidaceae R.Br.
+Malpighiales Juss. ex Bercht. & J.Presl
+Achariaceae Harms
+Balanopaceae Benth. & Hook.f.
+Bonnetiaceae L.Beauvis. ex Nakai
+*Calophyllaceae J.Agardh
+Caryocaraceae Voigt
+*Centroplacaceae Doweld & Reveal
+$$Chrysobalanaceae R.Br.
+§Clusiaceae Lindl.
+Ctenolophonaceae Exell & Mendonça
+$$Dichapetalaceae Baill.
+Elatinaceae Dumort.
+$$§Erythroxylaceae Kunth (including Aneulophus Benth.)
+Euphorbiaceae Juss.
+$$Euphroniaceae Marc.-Berti
+Goupiaceae Miers
+Humiriaceae A.Juss.
+Hypericaceae Juss.
+Irvingiaceae Exell & Mendonça
+Ixonanthaceae Planch. ex Miq.
+Lacistemataceae Mart.
+Linaceae DC. ex Perleb
+Lophopyxidaceae H.Pfeiff.
+Malpighiaceae Juss.
+$Ochnaceae DC. (including Medusagynaceae Engl. & Gilg, Quiinaceae Choisy)
+Pandaceae Engl. & Gilg
+$Passifloraceae Juss. ex Roussel (including Malesherbiaceae D.Don, Turneraceae Kunth ex DC.)
+Phyllanthaceae Martinov
+Picrodendraceae Small
+Podostemaceae Rich. ex Kunth
+Putranjivaceae Meisn.
+*Rafflesiaceae Dumort.
+$$Rhizophoraceae Pers.
+Salicaceae Mirb.
+$$Trigoniaceae A.Juss.
+Violaceae Batsch
+Cucurbitales Juss. ex Bercht. & J.Presl
+Anisophylleaceae Ridl.
+Begoniaceae C.Agardh
+Coriariaceae DC.
+Corynocarpaceae Engl.
+Cucurbitaceae Juss.
+Datiscaceae Dumort.
+Tetramelaceae Airy Shaw
+Fabales Bromhead
+Fabaceae Lindl.
+Polygalaceae Hoffmanns. & Link
+Quillajaceae D.Don
+Surianaceae Arn.
+Fagales Engl.
+Betulaceae Gray
+Casuarinaceae R.Br.
+Fagaceae Dumort.
+§Juglandaceae DC. ex Perleb (including Rhoipteleaceae Hand.-Mazz.)
+Myricaceae A.Rich. ex Kunth
+Nothofagaceae Kuprian
+Ticodendraceae Gómez-Laur. & L.D.Gómez
+Rosales Bercht. & J.Presl
+Barbeyaceae Rendle
+Cannabaceae Martinov
+Dirachmaceae Hutch.
+Elaeagnaceae Juss.
+Moraceae Gaudich.
+Rhamnaceae Juss.
+Rosaceae Juss.
+Ulmaceae Mirb.
+Urticaceae Juss.
+
+malvids (eurosids II)
+Geraniales Juss. ex Bercht. & J.Presl
+$Geraniaceae Juss. (including Hypseocharitaceae Wedd.)
+$Melianthaceae Horan. (including Francoaceae A.Juss.)
+§Vivianiaceae Klotzsch (including Ledocarpaceae Meyen)
+Myrtales Juss. ex Bercht. & J.Presl
+Alzateaceae S.A.Graham
+Combretaceae R.Br.
+Crypteroniaceae A.DC.
+Lythraceae J.St.-Hil.
+$Melastomataceae Juss. (including Memecylaceae DC.)
+§Myrtaceae Juss. (including Heteropyxidaceae Engl. & Gilg, Psiloxylaceae Croizat)
+Onagraceae Juss.
+§Penaeaceae Sweet ex Guill. (including Oliniaceae Arn., Rhynchocalycaceae L.A.S.Johnson & B.G.Briggs)
+Vochysiaceae A.St.-Hil.
+Crossosomatales Takht. ex Reveal
+*Aphloiaceae Takht.
+Crossosomataceae Engl.
+*Geissolomataceae A.DC.
+*Guamatelaceae S.Oh & D.Potter
+Stachyuraceae J.Agardh
+Staphyleaceae Martinov
+*§Strasburgeriaceae Soler. (including Ixerbaceae Griseb. ex Doweld & Reveal)
+†Picramniales Doweld
+*Picramniaceae Fernando & Quinn
+†Huerteales Doweld
+*Dipentodontaceae Merr.
+*Gerrardinaceae Alford
+Tapisciaceae Takht.
+Brassicales Bromhead
+$Akaniaceae Stapf (including Bretschneideraceae Engl. & Gilg)
+Bataceae Mart. ex Perleb
+§Brassicaceae Burnett
+*Capparaceae Juss.
+Caricaceae Dumort.
+*Cleomaceae Bercht. & J.Presl
+Emblingiaceae J.Agardh
+Gyrostemonaceae A.Juss.
+Koeberliniaceae Engl.
+Limnanthaceae R.Br.
+Moringaceae Martinov
+Pentadiplandraceae Hutch. & Dalziel
+Resedaceae Martinov
+Salvadoraceae Lindl.
+Setchellanthaceae Iltis
+Tovariaceae Pax
+Tropaeolaceae Juss. ex DC.
+Malvales Juss. ex Bercht. & J.Presl
+$Bixaceae Kunth (including Cochlospermaceae Planch., Diegodendraceae Capuron)
+Cistaceae Juss.
+*Cytinaceae A.Rich.
+Dipterocarpaceae Blume
+Malvaceae Juss.
+Muntingiaceae C.Bayer, M.W.Chase & M.F.Fay
+Neuradaceae Kostel.
+Sarcolaenaceae Caruel
+Sphaerosepalaceae Tiegh. ex Bullock
+Thymelaeaceae Juss.
+Sapindales Juss. ex Bercht. & J.Presl
+Anacardiaceae R.Br.
+Biebersteiniaceae Schnizl.
+Burseraceae Kunth
+Kirkiaceae Takht.
+Meliaceae Juss.
+$Nitrariaceae Lindl. (including Peganaceae Tiegh. ex Takht., Tetradiclidaceae Takht.)
+Rutaceae Juss.
+Sapindaceae Juss.
+Simaroubaceae DC.
+
+Asterids
+Cornales Link.
+Cornaceae Bercht. & J.Presl (including Nyssaceae Juss. ex Dumort.)
+Curtisiaceae Takht.
+Grubbiaceae Endl. ex Meisn.
+Hydrangeaceae Dumort.
+Hydrostachyaceae Engl.
+Loasaceae Juss.
+Ericales Bercht. & J.Presl
+Actinidiaceae Engl. & Gilg.
+Balsaminaceae A.Rich.
+Clethraceae Klotzsch
+Cyrillaceae Lindl.
+Diapensiaceae Lindl.
+Ebenaceae Gürke
+Ericaceae Juss.
+Fouquieriaceae DC.
+Lecythidaceae A.Rich.
+Marcgraviaceae Bercht. & J.Presl
+*Mitrastemonaceae Makino
+$Pentaphylacaceae Engl. (including Ternstroemiaceae Mirb. ex DC.)
+Polemoniaceae Juss.
+§Primulaceae Batsch ex Borkh. (including Maesaceae Anderb., B.Ståhl & Källersjö, Myrsinaceae R.Br., Theophrastaceae G.Don)
+Roridulaceae Martinov
+Sapotaceae Juss.
+Sarraceniaceae Dumort.
+$$Sladeniaceae Airy Shaw
+Styracaceae DC. & Spreng.
+Symplocaceae Desf.
+$Tetrameristaceae Hutch. (including Pellicieraceae L.Beauvis.)
+Theaceae Mirb. ex Ker Gawl.
+
+lamiids (euasterids I)
+§*Boraginaceae Juss. (including Hoplestigmataceae Gilg)
+Vahliaceae Dandy
+Icacinaceae Miers
+Metteniusaceae H.Karst. ex Schnizl.
+Oncothecaceae Kobuski ex Airy Shaw
+Garryales Lindl.
+Eucommiaceae Engl.
+$Garryaceae Lindl. (including Aucubaceae Bercht. & J.Presl)
+Gentianales Juss. ex Bercht. & J.Presl
+Apocynaceae Juss.
+Gelsemiaceae Struwe & V.A.Albert
+Gentianaceae Juss.
+Loganiaceae R.Br. ex Mart.
+Rubiaceae Juss.
+Lamiales Bromhead
+§Acanthaceae Juss.
+Bignoniaceae Juss.
+Byblidaceae Domin
+Calceolariaceae Olmstead
+Carlemanniaceae Airy Shaw
+Gesneriaceae Rich. & Juss.
+Lamiaceae Martinov
+*Linderniaceae Borsch, K.Müll., & Eb.Fisch.
+Lentibulariaceae Rich.
+Martyniaceae Horan.
+Oleaceae Hoffmanns. & Link
+Orobanchaceae Vent.
+Paulowniaceae Nakai
+Pedaliaceae R.Br.
+Phrymaceae Schauer
+§Plantaginaceae Juss.
+Plocospermataceae Hutch.
+Schlegeliaceae Reveal
+Scrophulariaceae Juss.
+Stilbaceae Kunth
+Tetrachondraceae Wettst.
+*Thomandersiaceae Sreem.
+Verbenaceae J.St.-Hil.
+Solanales Juss. ex Bercht. & J.Presl
+Convolvulaceae Juss.
+Hydroleaceae R.Br. ex Edwards
+Montiniaceae Nakai
+Solanaceae Juss.
+Sphenocleaceae T.Baskerv.
+
+campanulids (euasterids II)
+Aquifoliales Senft
+Aquifoliaceae Bercht. & J.Presl
+§Cardiopteridaceae Blume (including Leptaulaceae Tiegh.)
+Helwingiaceae Decne.
+Phyllonomaceae Small
+Stemonuraceae Kårehed
+Asterales Link
+Alseuosmiaceae Airy Shaw
+Argophyllaceae Takht.
+Asteraceae Bercht. & J.Presl
+Calyceraceae R.Br. ex Rich.
+$Campanulaceae Juss. (including Lobeliaceae Juss.)
+Goodeniaceae R.Br.
+Menyanthaceae Dumort.
+Pentaphragmataceae J.Agardh
+Phellinaceae Takht.
+Rousseaceae DC.
+$Stylidiaceae R.Br. (including Donatiaceae B.Chandler)
+†Escalloniales R.Br.
+§Escalloniaceae R.Br. ex Dumort. (including Eremosynaceae Dandy, Polyosmaceae Blume, Tribelaceae Airy Shaw)
+†Bruniales Dumort.
+Bruniaceae R.Br. ex DC.
+§Columelliaceae D.Don (including Desfontainiaceae Endl.)
+†Paracryphiales Takht. ex Reveal
+§Paracryphiaceae Airy Shaw (including *Quintiniaceae Doweld, Sphenostemonaceae P.Royen & Airy Shaw)
+Dipsacales Juss. ex Bercht. & J.Presl
+Adoxaceae E.Mey.
+§Caprifoliaceae Juss. (including Diervillaceae Pyck, Dipsacaceae Juss., Linnaeaceae Backlund, Morinaceae Raf., Valerianaceae Batsch)
+Apiales Nakai
+Apiaceae Lindl. (including Mackinlayaceae)
+Araliaceae Juss.
+Griseliniaceae J.R.Forst. & G.Forst. ex A.Cunn.
+Myodocarpaceae Doweld
+Pennantiaceae J.Agardh
+Pittosporaceae R.Br.
+§Torricelliaceae Hu (including Aralidiaceae Philipson & B.C.Stone, Melanophyllaceae Takht. ex Airy Shaw)
+
+Taxa of uncertain position
+Apodanthaceae Takht. (three genera, now in Cucurbitales)
+Cynomoriaceae Endl. ex Lindl.
+Gumillea Ruiz & Pav.
+Petenaea Lundell (now in Huerteales)
+Nicobariodendron (see Simmons, 2004; probably in Celastraceae).
+
+Phylogeny
+The APG III system was based on a phylogenetic tree for the angiosperms which included all of the 59 orders and 4 of the unplaced families. The systematic positions of the other 6 unplaced families was so uncertain that they could not be placed in any of the polytomies in the tree. They are shown in the classification table entitled "Detailed version" above, 4 in Euasterids I and 2 in Taxa of uncertain position.
+The phylogenetic tree shown below was published with the APG III system, but without some of the labels that are added here.
+
+Subfamilies replacing discontinued families
+A number of subfamilies have been proposed to replace some of the families which were optional (i.e. bracketed) in APG II, but have been discontinued in APG III. These are shown in the table below.
+
+References
+External links
+The APG III paper: An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III
+The LAPG III paper: The Linear Angiosperm Phylogeny Group (LAPG) III: a linear sequence of the families in APG III
+The phylogenetic classification of land plants paper: A phylogenetic classification of the land plants to accompany APG III
+Angiosperm Phylogeny Website at the Missouri Botanical Garden website

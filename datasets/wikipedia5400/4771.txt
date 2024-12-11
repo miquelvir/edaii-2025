@@ -1,0 +1,38 @@
+4771
+Commodilla catacomb inscription
+The Commodilla catacomb inscription is found on the cornice of a fresco in the tomb of the Christian martyrs Felix and Adauctus, located in the catacombs of Commodilla in Rome. The graffito has an important place in the history of Italian, as it represents a form of language intermediate between Latin and Old Italian.
+
+Text
+The inscription is spread over six lines:
+
+NON // DICE // REIL // LESE // CRITA // ABBOCE
+This may be divided into words as non dicere ille secrita a bboce ('don't say the secrets aloud'), referring to Christian mysteria or secret prayers to be recited under one's breath.
+
+Date
+The inscription has to post-date the fresco on which it is written, which can itself be dated to the 6th or 7th century on stylistic grounds (thus establishing the terminus post quem). The terminus ante quem can be estimated on the following grounds:
+
+Palaeographic: the type of uncial script used may be dated between the 8th and 10th centuries, perhaps the 9th.
+Liturgical: the practice of pronouncing prayers quietly under one's breath was introduced in the beginning of the Carolingian era, between the 8th and 9th centuries
+Historical: in the early 9th century, due to continuous raids in the district of St. Paul outside the walls of Rome, the relics of Felix and Adauctus were moved out of the tomb, which was then left abandoned. Presumably the inscription pre-dates the abandonment.
+Altogether these point to a date around the beginning of the 9th century.
+
+Analysis
+The language used is a sort of late 'Vulgar Latin', more archaic than Old Italian and closer to Latin. The word ille, from Latin illae or illās ("those", feminine plural), does not conserve its original demonstrative meaning but is used as a feminine plural definite article instead.
+In the word secrita, ⟨i⟩ is used to represent e (and not i), as was common practice in the pre-Carolingian writing of Italy and elsewhere.
+The spelling bboce is of special interest. At first the word had been written boce, but afterwards, either the same writer or another felt that the spelling did not reflect his pronunciation closely enough, and so he inserted an additional ⟨b⟩ in superscript. This hints at the pronunciation of the Roman dialect at the time, characterized on the one hand by syntactic doubling (still typical in the area today) and on the other hand by betacism or the merger of Latin /b/ and /w/ (thus Latin ad vōcem resulted in a bboce).
+
+See also
+Veronese Riddle
+Placiti Cassinesi
+Saint Clement and Sisinnius Inscription
+
+References
+Bibliography
+Marazzini, Claudio (2002). La lingua italiana. Profilo storico. Bologna: Il Mulino.
+Serianni, Luca (1988). Lezioni di grammatica storica italiana. Rome: Bulzoni.
+Sabatini, Francesco (1966). Un'iscrizione volgare romana della prima metà del secolo IX. Studi linguistici italiani. VI: 49–80.
+Tiburzi, Alessandra; Cacchioli, Luna (2014). Lingua e forme dell’epigrafia in volgare (secc. IX-XV). Studi Romanzi. X: 311–352.
+
+External links
+Harsch, Ulrich. Iscrizione della catacomba di Commodilla, from the Bibliotheca Augustana. Page contains a photo of the inscription.
+Trifone, Pietro (1992). Le prime testimonianze romane, Roma e il Lazio, published by UTET Libreria, pp. 10–12.

@@ -1,0 +1,29 @@
+3678
+Carl Wieman
+Carl Edwin Wieman (born March 26, 1951) is an American physicist and educationist at Stanford University, and currently the A. D. White Professor at Large at [Cornell University](3291). In 1995, while at the University of Colorado Boulder, he and Eric Allin Cornell produced the first true Bose–Einstein condensate (BEC) and, in 2001, they and Wolfgang Ketterle (for further BEC studies) were awarded the Nobel Prize in Physics. Wieman currently holds a joint appointment as Professor of Physics and Professor in the Stanford Graduate School of Education, as well as the DRC Professor in the Stanford University School of Engineering. In 2020, Wieman was awarded the Yidan Prize in Education Research for "his contribution in developing new techniques and tools in STEM education".
+
+Biography
+Wieman was born in Corvallis, Oregon to N. Orr Wieman and Alison Marjorie Fry in the United States and graduated from Corvallis High School. His paternal grandfather Henry Nelson Wieman was a religious philosopher of German descent and his mother had white Anglo-Saxon Protestant family background. Wieman earned his B.S. in 1973 from MIT and his Ph.D. from Stanford University in 1977; he was also awarded a Doctor of Science, honoris causa from the University of Chicago in 1997. He was awarded the Lorentz Medal in 1998. In 2001, he won the Nobel Prize in Physics, along with Eric Allin Cornell and Wolfgang Ketterle, for fundamental studies of the Bose-Einstein condensate. In 2004, he was named United States Professor of the Year among all doctoral and research universities.
+In a 2020 interview given to Federal University of Pará in Brazil, Wieman recalls his youth and his journey as a physicist; the influence of other people, like teachers and his parents, on his trajectory; his path through science education and the foundation of the open educational resource PhET Interactive Simulations.
+Wieman joined the University of British Columbia on 1 January 2007 and headed a well-endowed science education initiative there; he retained a twenty percent appointment at the University of Colorado Boulder to head the science education project he founded in Colorado. On 1 September 2013, Wieman joined Stanford University with a joint appointment in the physics department and the Graduate School of Education.
+In the past several years, Wieman has been particularly involved with efforts at improving science education and has conducted educational research on science instruction. Wieman served as Chair of the Board on Science Education of the National Academy of Sciences from 2005 to 2009. He has used and promotes Eric Mazur's peer instruction, a pedagogical system where teachers repeatedly ask multiple-choice concept questions during class, and students reply on the spot with little wireless "clicker" devices. If a large proportion of the class chooses a wrong answer, students discuss among themselves and reply again. In 2007, Wieman was awarded the Oersted Medal, which recognizes notable contributions to the teaching of physics, by the American Association of Physics Teachers (AAPT).
+Wieman is the founder and chairman of PhET, a web-based directive of University of Colorado Boulder which provides an extensive suite of simulations to improve the way that physics, chemistry, biology, earth science and math are taught and learned.  Link
+Wieman is a member of the USA Science and Engineering Festival's Advisory Board. Wieman was nominated to be The White House's Office of Science and Technology Policy Associate Director of Science on March 24, 2010.  His hearing in front of the Commerce committee occurred on May 20, 2010, and he was passed by unanimous consent.  On September 16, 2010, Dr. Wieman was confirmed by unanimous consent. He left that post in June 2012 to battle multiple myeloma.
+
+Selected publications
+Donley, Elizabeth A.; Neil R. Claussen; Simon L. Cornish; Jacob L. Roberts; Eric A. Cornell; Carl E. Wieman (2001-07-19). "Dynamics of Collapsing and Exploding Bose−Einstein Condensates". Nature. 412 (6844): 295–299. arXiv:cond-mat/0105019. Bibcode:2001Natur.412..295D. doi:10.1038/35085500. PMID 11460153. S2CID 969048.
+Matthews, Michael R.; B.P. Anderson; P.C. Haljan; D.S. Hall; C.E. Wieman; E.A. Cornell (1999). "Vortices in a Bose-Einstein Condensate". Phys. Rev. Lett. 83 (13): 2498–2501. arXiv:cond-mat/9908209. Bibcode:1999PhRvL..83.2498M. doi:10.1103/PhysRevLett.83.2498. S2CID 535347.
+Walker, Thad; David Sesko; Carl Wieman (1990). "Collective Behavior of Optically Trapped Neutral Atoms". Phys. Rev. Lett. 64 (4): 408–411. Bibcode:1990PhRvL..64..408W. doi:10.1103/PhysRevLett.64.408. PMID 10041972.
+Tanner, Carol E.; Carl Wieman (1988). "Precision Measurement of the Hyperfine Structure of the 133Cs 6P3/2 State". Phys. Rev. A. 38 (3): 1616–1617. Bibcode:1988PhRvA..38.1616T. doi:10.1103/PhysRevA.38.1616. PMID 9900545.
+Wieman, Carl, (2014). "Stop Lecturing Me", Scientific American, July 15, 2014.
+
+See also
+Timeline of low-temperature technology
+
+References
+External links
+Carl Wieman's blog at ScientificBlogging.com
+Carl Wieman on Nobelprize.org  including the Nobel Lecture December 8, 2001 Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments
+Globe and Mail Article
+Carl E. Wieman patents at Patent Genius
+Group photograph taken at Lasers '95 including (right to left) Marlan Scully, Theodor W. Hänsch, Carl E. Wieman, and F. J. Duarte.

@@ -1,0 +1,21 @@
+809
+Alef (programming language)
+Alef is a discontinued concurrent programming language, designed as part of the Plan 9 operating system by Phil Winterbottom of [Bell Labs](834). It implemented the channel-based concurrency model of Newsqueak in a compiled, C-like language.
+
+History
+Alef appeared in the first and second editions of Plan 9, but was abandoned during development of the third edition. Rob Pike later explained Alef's demise by pointing to its lack of automatic memory management, despite Pike's and other people's urging Winterbottom to add garbage collection to the language;
+also, in a February 2000 slideshow, Pike noted: "…although Alef was a fruitful language, it proved too difficult to maintain a variant language across multiple architectures, so we took what we learned from it and built the thread library for C."
+Alef was superseded by two programming environments. The Limbo programming language can be considered a direct successor of Alef and is the most commonly used language in the Inferno operating system. The Alef concurrency model was replicated in the third edition of Plan 9 in the form of the libthread library, which makes some of Alef's functionality available to C programs and allowed existing Alef programs (such as Acme) to be translated.
+
+Example
+This example was taken from the Alef reference manual. The piece illustrates the use of tuple data type.
+
+See also
+Communicating sequential processes
+Plan 9 from [Bell Labs](834)
+Go (programming language)
+
+References
+
+Flandrena, Bob (1995). "Alef Users' Guide". Plan 9 Programmer's Manual: Volume Two. Murray Hill: [Bell Labs](834).
+Phil Winterbottom (1992-10-20). "Plan9 VM". Newsgroup: comp.os.research. Usenet: 1c1denINN441@darkstar.UCSC.EDU.

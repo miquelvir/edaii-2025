@@ -1,0 +1,136 @@
+874
+C preprocessor
+The C preprocessor is the macro preprocessor for several computer programming languages, such as C, Objective-C, [C++](640), and a variety of Fortran languages. The preprocessor provides inclusion of header files, macro expansions, conditional compilation, and line control.
+The language of preprocessor directives is only weakly related to the grammar of C, and so is sometimes used to process other kinds of text files.
+
+History
+The preprocessor was introduced to C around 1973 at the urging of Alan Snyder and also in recognition of the usefulness of the file inclusion mechanisms available in [BCPL](828) and PL/I. Its original version offered only file inclusion and simple string replacement using #include and #define for parameterless macros, respectively. It was extended shortly after, firstly by Mike Lesk and then by John Reiser, to incorporate macros with arguments and conditional compilation.
+The C preprocessor was part of a long macro-language tradition at Bell Labs, which was started by Douglas Eastwood and Douglas McIlroy in 1959.
+
+Phases
+Preprocessing is defined by the first four (of eight) phases of translation specified in the C Standard.
+
+Trigraph replacement: The preprocessor replaces trigraph sequences with the characters they represent. This phase will be removed in C23 following the steps of [C++](640)17.
+Line splicing: Physical source lines that are continued with escaped newline sequences are spliced to form logical lines.
+Tokenization: The preprocessor breaks the result into preprocessing tokens and whitespace. It replaces comments with whitespace.
+Macro expansion and directive handling: Preprocessing directive lines, including file inclusion and conditional compilation, are executed. The preprocessor simultaneously expands macros and, since the 1999 version of the C standard, handles _Pragma operators.
+
+Including files
+One of the most common uses of the preprocessor is to include another source file:
+
+The preprocessor replaces the line #include <stdio.h> with the textual content of the file 'stdio.h', which declares the printf() function among other things.
+This can also be written using double quotes, e.g. #include "stdio.h". If the filename is enclosed within angle brackets, the file is searched for in the standard compiler include paths. If the filename is enclosed within double quotes, the search path is expanded to include the current source file directory. C compilers and programming environments all have a facility that allows the programmer to define where include files can be found. This can be introduced through a command-line flag, which can be parameterized using a makefile, so that a different set of include files can be swapped in for different operating systems, for instance.
+By convention, include files are named with either a .h or .hpp extension. However, there is no requirement that this be observed. Files with a .def extension may denote files designed to be included multiple times, each time expanding the same repetitive content; #include "icon.xbm" is likely to refer to an XBM image file (which is at the same time a C source file).
+#include often compels the use of #include guards or #pragma once to prevent double inclusion.
+
+Conditional compilation
+The if–else directives #if, #ifdef, #ifndef, #else, #elif, and #endif can be used for conditional compilation. #ifdef and #ifndef are simple shorthands for #if defined(...) and #if !defined(...).
+
+Most compilers targeting Microsoft Windows implicitly define _WIN32. This allows code, including preprocessor commands, to compile only when targeting Windows systems. A few compilers define WIN32 instead. For such compilers that do not implicitly define the _WIN32 macro, it can be specified on the compiler's command line, using -D_WIN32.
+
+The example code tests if a macro __unix__ is defined. If it is, the file <unistd.h> is then included. Otherwise, it tests if a macro _WIN32 is defined instead. If it is, the file <windows.h> is then included.
+A more complex #if example can use operators; for example:
+
+Translation can also be caused to fail by using the #error directive:
+
+Macro definition and expansion
+There are two types of macros: object-like and function-like. Object-like macros do not take parameters; function-like macros do (although the list of parameters may be empty). The generic syntax for declaring an identifier as a macro of each type is, respectively:
+
+The function-like macro declaration must not have any whitespace between the identifier and the first, opening parenthesis.  If whitespace is present, the macro will be interpreted as object-like with everything starting from the first parenthesis added to the token list.
+A macro definition can be removed with #undef:
+
+Whenever the identifier appears in the source code it is replaced with the replacement token list, which can be empty. For an identifier declared to be a function-like macro, it is only replaced when the following token is also a left parenthesis that begins the argument list of the macro invocation. The exact procedure followed for expansion of function-like macros with arguments is subtle.
+Object-like macros were conventionally used as part of good programming practice to create symbolic names for constants; for example:
+
+instead of hard-coding numbers throughout the code. An alternative in both C and [C++](640), especially in situations in which a pointer to the number is required, is to apply the const qualifier to a global variable. This causes the value to be stored in memory, instead of being substituted by the preprocessor. However, in modern [C++](640) code, the constexpr keyword, introduced in [C++](640)11, is used instead:Usages of variables declared as constexpr, as object-like macros, may be replaced with their value at compile-time.
+An example of a function-like macro is:
+
+This defines a radians-to-degrees conversion which can be inserted in the code where required; for example, RADTODEG(34). This is expanded in-place, so that repeated multiplication by the constant is not shown throughout the code. The macro here is written as all uppercase to emphasize that it is a macro, not a compiled function.
+The second x is enclosed in its own pair of parentheses to avoid the possibility of incorrect order of operations when it is an expression instead of a single value. For example, the expression RADTODEG(r + 1) expands correctly as ((r + 1) * 57.29578); without parentheses, (r + 1 * 57.29578) gives precedence to the multiplication.
+Similarly, the outer pair of parentheses maintain correct order of operation. For example, 1 / RADTODEG(r) expands to 1 / ((r) * 57.29578); without parentheses, 1 / (r) * 57.29578 gives precedence to the division.
+
+Order of expansion
+Function-like macro expansion occurs in the following stages:
+
+Stringification operations are replaced with the textual representation of their argument's replacement list (without performing expansion).
+Parameters are replaced with their replacement list (without performing expansion).
+Concatenation operations are replaced with the concatenated result of the two operands (without expanding the resulting token).
+Tokens originating from parameters are expanded.
+The resulting tokens are expanded as normal.
+This may produce surprising results:
+
+Special macros and directives
+Certain symbols are required to be defined by an implementation during preprocessing. These include __FILE__ and __LINE__, predefined by the preprocessor itself, which expand into the current file and line number. For instance, the following:
+
+prints the value of x, preceded by the file and line number to the error stream, allowing quick access to which line the message was produced on. Note that the WHERESTR argument is concatenated with the string following it. The values of __FILE__ and __LINE__ can be manipulated with the #line directive. The #line directive determines the line number and the file name of the line below. For example:
+
+generates the printf function:
+
+Source code debuggers refer also to the source position defined with __FILE__ and __LINE__.
+This allows source code debugging when C is used as the target language of a compiler, for a totally different language. The first C Standard specified that the macro __STDC__ be defined to 1 if the implementation conforms to the ISO Standard and 0 otherwise, and the macro __STDC_VERSION__ defined as a numeric literal specifying the version of the Standard supported by the implementation. Standard [C++](640) compilers support the __cplusplus macro. Compilers running in non-standard mode must not set these macros or must define others to signal the differences.
+Other Standard macros include __DATE__, the current date, and __TIME__, the current time.
+The second edition of the C Standard, [C99](772), added support for __func__, which contains the name of the function definition within which it is contained, but because the preprocessor is agnostic to the grammar of C, this must be done in the compiler itself using a variable local to the function.
+Macros that can take a varying number of arguments (variadic macros) are not allowed in C89, but were introduced by a number of compilers and standardized in [C99](772). Variadic macros are particularly useful when writing wrappers to functions taking a variable number of parameters, such as printf, for example when logging warnings and errors.
+One little-known usage pattern of the C preprocessor is known as X-Macros. An X-Macro is a header file. Commonly, these use the extension .def instead of the traditional .h . This file contains a list of similar macro calls, which can be referred to as "component macros." The include file is then referenced repeatedly.
+Many compilers define additional, non-standard macros, although these are often poorly documented. A common reference for these macros is the Pre-defined C/[C++](640) Compiler Macros project, which lists "various pre-defined compiler macros that can be used to identify standards, compilers, operating systems, hardware architectures, and even basic run-time libraries at compile-time."
+
+Token stringification
+The # operator (known as the stringification operator or stringizing operator) converts a token into a C string literal, escaping any quotes or backslashes appropriately.
+Example:
+
+If stringification of the expansion of a macro argument is desired, two levels of macros must be used:
+
+A macro argument cannot be combined with additional text and then stringified. However, a series of adjacent string constants and stringified arguments can be written: the C compiler will then combine all the adjacent string constants into one long string.
+
+Token concatenation
+The ## operator (known as the "Token Pasting Operator") concatenates two tokens into one token.
+Example:
+
+User-defined compilation errors
+The #error directive outputs a message through the error stream.
+
+Binary resource inclusion
+C23 will introduce the #embed directive for binary resource inclusion. This allows binary files (like images) to be included into the program without them being valid C source files (like XBM), without requiring processing by external tools like xxd -i and without the use of string literals which have a length limit on MSVC. Similarly to xxd -i the directive is replaced by a comma separated list of integers corresponding to the data of the specified resource. More precisely, if an array of type unsigned char is initialized using an #embed directive, the result is the same as-if the resource was written to the array using fread (unless a parameter changes the embed element width to something other than CHAR_BIT). Apart from the convenience, #embed is also easier for compilers to handle, since they are allowed to skip expanding the directive to its full form due to the as-if rule.
+The file to be embedded can be specified in an identical fashion to #include, meaning, either between chevrons or between quotes. The directive also allows certain parameters to be passed to it to customise its behaviour, which follow the file name. The C standard defines the following parameters and implementations may define their own. The limit parameter is used to limit the width of the included data. It is mostly intended to be used with "infinite" files like urandom. The prefix and suffix parameters allow the programmer to specify a prefix and suffix to the embedded data, which is used if and only if the embedded resource is not empty. Finally, the if_empty parameter replaces the entire directive if the resource is empty (which happens if the file is empty or a limit of 0 is specified). All standard parameters can also be surrounded by double underscores, just like standard attributes on C23, for example __prefix__ is interchangeable with prefix . Implementation-defined parameters use a form similar to attribute syntax (e.g., vendor::attr) but without the square brackets. While all standard parameters require an argument to be passed to them (e.g., limit requires a width), this is generally optional and even the set of parentheses can be omitted if an argument is not required, which might be the case for some implementation-defined parameters.
+
+Implementations
+All C, [C++](640), and Objective-C implementations provide a preprocessor, as preprocessing is a required step for those languages, and its behavior is described by official standards for these languages, such as the ISO C standard.
+Implementations may provide their own extensions and deviations, and vary in their degree of compliance with written standards. Their exact behavior may depend on command-line flags supplied on invocation. For instance, the GNU C preprocessor can be made more standards compliant by supplying certain flags.
+
+Compiler-specific preprocessor features
+The #pragma directive is a compiler-specific directive, which compiler vendors may use for their own purposes. For instance, a #pragma is often used to allow suppression of specific error messages, manage heap and stack debugging and so on. A compiler with support for the OpenMP parallelization library can automatically parallelize a for loop with #pragma omp parallel for.
+[C99](772) introduced a few standard #pragma directives, taking the form #pragma STDC ..., which are used to control the floating-point implementation. The alternative, macro-like form _Pragma(...) was also added.
+
+Many implementations do not support trigraphs or do not replace them by default.
+Many implementations (such as the C compilers by GNU, Intel, Microsoft and IBM) provide a non-standard directive to print out a warning message in the output, but not stop the compilation process (C23 and [C++](640)23 will add #warning to the standard for this purpose). A typical use is to warn about the usage of some old code, which is now deprecated and only included for compatibility reasons; for example:
+Some Unix preprocessors traditionally provided "assertions," which have little similarity to assertions used in programming.
+GCC provides #include_next for chaining headers of the same name.
+
+Language-specific preprocessor features
+There are some preprocessor directives that have been added to the C preprocessor by the specifications of some languages and are specific to said languages.
+
+Objective-C preprocessors have #import, which is like #include but only includes the file once. A common vendor pragma with a similar functionality in C is #pragma once.
+[C++](640) as of [C++](640)20 has the import and module directives for modules. These directives are the only ones that do not start with a # character; instead, they start with import and module respectively, optionally preceded by export.
+
+Other uses
+As the C preprocessor can be invoked separately from the compiler with which it is supplied, it can be used separately, on different languages. Notable examples include its use in the now-deprecated imake system and for preprocessing Fortran.  However, such use as a general purpose preprocessor is limited: the input language must be sufficiently C-like. The GNU Fortran compiler automatically calls "traditional mode" (see below) cpp before compiling Fortran code if certain file extensions are used. Intel offers a Fortran preprocessor, fpp, for use with the ifort compiler, which has similar capabilities.
+CPP also works acceptably with most assembly languages and Algol-like languages. This requires that the language syntax not conflict with CPP syntax, which means no lines starting with # and that double quotes, which cpp interprets as string literals and thus ignores, don't have syntactical meaning other than that. The "traditional mode" (acting like a pre-ISO C preprocessor) is generally more permissive and better suited for such use.
+The C preprocessor is not Turing-complete, but it comes very close: recursive computations can be specified, but with a fixed upper bound on the amount of recursion performed. However, the C preprocessor is not designed to be, nor does it perform well as, a general-purpose programming language. As the C preprocessor does not have features of some other preprocessors, such as recursive macros, selective expansion according to quoting, and string evaluation in conditionals, it is very limited in comparison to a more general macro processor such as m4.
+
+See also
+[C syntax](879)
+Make
+m4 (computer language)
+PL/I preprocessor
+
+References
+Sources
+Ritchie, Dennis M. (March 1993). "The Development of the C Language". ACM SIGPLAN Notices. 28 (3). ACM: 201–208. doi:10.1145/155360.155580.
+Ritchie, Dennis M. (1993). "The Development of the C Language". The Second ACM SIGPLAN Conference on History of Programming Languages (HOPL-II). ACM. pp. 201–208. doi:10.1145/154766.155580. ISBN 0-89791-570-4. Retrieved 4 November 2014.
+
+External links
+
+ISO/IEC 9899. The latest publicly available version of the C11 standard is the final draft.
+GNU CPP online manual
+Visual Studio .NET preprocessor reference
+Pre-defined C/[C++](640) Compiler Macros project: lists "various pre-defined compiler macros that can be used to identify standards, compilers, operating systems, hardware architectures, and even basic run-time libraries at compile-time"

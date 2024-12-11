@@ -1,0 +1,52 @@
+3584
+Valnet
+Valnet, Inc. is a Canadian media company established in Montreal, Quebec, in 2012. It operates primarily in the entertainment media industry. It is the parent company of several internet media publications including TheGamer, Collider, [Comic Book Resources](3585), MovieWeb, Screen Rant, Game Rant, and XDA Developers.
+
+History
+The company started a YouTube channel in January 2016 called "Little Angel", which provides animated content aimed at toddlers. By April 6, 2016, the company acquired [Comic Book Resources](3585), with Valnet CEO Hassan Youssef retaining the editorial team and taking over their offices. On November 17, 2020, Valnet announced that it had acquired Collider. Valnet acquired XDA along with four other websites—Pocketnow, AppAdvice, BackyardBoss and Hook&Bullet—from Busy Pixel Media in February 2022. Also that month, the company sold Little Angel to Moonbug, the owner of Cocomelon. Terms of the deal were not disclosed.
+In May 2023, it was reported that Valnet had laid off several key figures at subsidiary [Comic Book Resources](3585) (CBR), including editor-in-chief Adam Swiderski, senior new editor Stephen Gerding, and senior features editor Christopher Baggett. In June, it was reported that CBR's employees had been finding difficulty in keeping up with Valnet's content demand. The company was reportedly "seemingly firing those who try and stand up for writers" in its bid to attempt to improve its work culture and performance. Many fired staff vocalized discontent for these firings on Twitter, due to what was allegedly the full shutdown of the website news section, which the company refuted.
+Valnet acquired OpenCritic by August 2024 in an attempt to integrate the aggregator into its other businesses in the gaming sector. It announced plans to turn the site into a social media platform.
+
+Subsidiaries
+Collider
+Collider is an online entertainment publication, with a focus on the film industry and television series. Collider focuses on entertainment news, analysis, and commentary, along with original features, complementary film and television reviews, editorials, and interviews. 
+Collider was founded in 2005 by editor-in-chief Steven Weintraub as a blog. In 2015, Weintraub sold Collider to Complex Media, who would manage the business and advertisements on the website and offer editing support. On November 17, 2020, Valnet announced that it had acquired Collider.
+
+CBR
+CBR, formerly [Comic Book Resources](3585), is a news website covering movies, television, anime, video games and comic book–related news and discussion. 
+[Comic Book Resources](3585) (CBR) was founded by Jonah Weiland in 1995 as a development of the Kingdom Come Message Board, a message forum that Weiland created to discuss DC Comics' then-new mini-series of the same name.
+CBR has featured columns by industry professionals such as Robert Kirkman, Gail Simone, and Mark Millar. Other columns were published by comic book historians and critics such as George Khoury and Timothy Callahan.
+By April 4, 2016, CBR was sold to Valnet, after which the site was relaunched as CBR.com on August 23, 2016, with the blogs integrated into the site. Popverse reported that following the acquisition by Valnet "comics were increasingly sidelined for coverage ..., as were both reviews and columns as focuses for publishing; instead, the site refocused on shorter news pieces and reactions to news stories". Valnet Inc. is a subsidiary of Valsef Group, which is also headquartered in Montreal.
+
+MovieWeb
+MovieWeb is an entertainment news website and video brand that reports on entertainment news through its website. The site also maintains a searchable database of films.
+MovieWeb first launched in 1995; by 1997 it was reported to be in operation supported by a 4-person team publishing movie information that, while not 'slick', had a 'certain charm'. In 2012, MovieWeb produced a video which was an '80s-themed parody mashup of The Walking Dead series accompanied by music from Growing Pains that went viral.
+Previously, MovieWeb was owned by WatchR Media, Inc., a privately held Las Vegas company. In 2021, it was estimated the MovieWeb website had 8 million unique visits for the month of July.  MovieWeb has been owned and operated by online publisher Valnet Inc. since September 2021 upon completion of the acquisition from WatchR.
+In August 2000, MovieWeb announced a collaboration with video rental chain Video Update and video retail software provider Unique Business Systems Inc.
+MovieWeb acts as a distribution partner of Hulu. MovieWeb also produces video content for IMDb.com.
+
+Screen Rant
+Screen Rant is an entertainment website that offers news in the fields of television, films, Video games, and film theories. It was launched by Vic Holtreman in 2003, and originally had its primary office in Ogden, Utah. Screen Rant has expanded its coverage with red-carpet events in Los Angeles, New York Film Festivals and San Diego Comic-Con panels. The associated YouTube channel was created on August 19, 2008, and has 8.62M subscribers and 5.4K videos as of June 21, 2023.
+In February 2015, Screen Rant was acquired by Valnet, and was reunited with its sister site, Game Rant, in 2019, when Valnet acquired the other publication. Screen Rant features a video series called Pitch Meetings by YouTube comedian Ryan George. By September 2020, the series included over 200 videos, garnering a combined 250 million views. In the series, George plays both a screenwriter and a film producer in a pitch for a film or television series, describing its plot in a way that highlights various inconsistencies.
+
+XDA
+XDA (formerly known as XDA Developers) is a mobile software development community launched on December 20, 2002. Although discussion primarily revolves around the Android operating system, members also talk about other operating systems and mobile software development topics.
+XDA-Developers.com was created by Dutch company NAH6 Crypto Products BV and launched on December 20, 2002. In January 2011, XDA Developers was bought by the US based company JB Online Media, LLC. and subsequently by Canada based Valnet Inc. in February 2022. The name XDA Developers is originally derived from the O2 XDA, which was marketed as a personal digital assistant (PDA) with extra features. 
+In 2013, XDA partnered with Swappa to become its official marketplace where users can buy or sell devices.
+Valnet acquired XDA along with four other websites—Pocketnow, AppAdvice, BackyardBoss and Hook&Bullet—from Busy Pixel Media in February 2022. In 2023, FeedSpot listed XDA (with 11 million members) as the largest mobile software development forum and among the top 70 technology forums to follow.
+
+XDA website layouts
+Many software and hardware hacks, Android rooting methods, Android custom ROMs and other phone- and tablet-specific tweaks originate from the members of the XDA Forum. XDA also hosts the XDA Portal, a source for tech news, products, guides, and features which launched in 2010. 
+Their forum site underwent major redesigns in 2010, 2013, late 2014 (named XDA 2015) and late 2020 (named XDA 2021). The 2013 layout distinctively indicated the number of active and total registered users at the top right, and the 2015 layout supported responsive web design and was available with a dark-on-light color scheme option.
+As of 2020, the website features 3 themes, namely XDA, XDA Dark and XDA Classic. The older layout options for XDA 2013 and XDA 2015 were removed in XDA 2021. The website transitioned from vBulletin to XenForo on December 1, 2020, along with a major layout redesign, named XDA 2021.
+
+XDA reception and controversies
+In February 2007, when the Microsoft Windows Mobile OS was widely used on mobile phones, Microsoft asked XDA Developers to remove all ROMs created by OEMs.
+In 2008, CNET Asia suggested that XDA Developers offers potential solutions to problems with many Android-based mobile devices. In other mobile phone reviews, testers at CNET preferred using XDA Developers' ROMs when carrying out detailed reviews.
+
+See also
+List of Internet forums
+
+References
+External links
+Official website

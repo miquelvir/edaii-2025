@@ -1,0 +1,48 @@
+4626
+Algonquin language
+Algonquin (also spelled Algonkin; in Algonquin: Anicinàbemowin or Anishinàbemiwin) is either a distinct Algonquian language closely related to the Ojibwe language or a particularly divergent Ojibwe dialect. It is spoken, alongside French and to some extent English, by the Algonquin First Nations of Quebec and Ontario.  As of 2006, there were 2,680 Algonquin speakers, less than 10% of whom were monolingual. Algonquin is the language for which the entire Algonquian language subgroup is named; the similarity among the names often causes considerable confusion.  Like many Native American languages, it is strongly verb-based, with most meaning being incorporated into verbs instead of using separate words for prepositions, tense, etc.
+
+Classification
+Omàmìwininìmowin (Algonquin) is an Algonquian language, of the Algic family of languages, and is descended from Proto-Algonquian.  It is considered a particularly divergent dialect of Ojibwe by many. But, although the speakers call themselves Omàmìwininì or Anicinàbe, the Ojibwe call them Odishkwaagamii ('those at the end of the lake').  Among Omàmìwininì (Algonquins), however, the Nipissing are called Otickwàgamì (the Algonquin orthography for the Ojibwe Odishkwaagamii) and their language as Otickwàgamìmowin.  The rest of the Omàmìwininìmowin (Algonquin) communities call themselves Omàmiwininiwak ('down-stream men'), and the language Omàmiwininìmowin ('speech of the down-stream men').
+Other than Omàmìwininìmowin (Algonquin), languages considered as particularly divergent dialects of the Anishinaabe language include Mississauga (often called "Eastern Ojibwe") and Odawa.  The Potawatomi language was considered a divergent dialect of Anishinaabemowin (the Anishinaabe language) but now is considered a separate language. Culturally, Omàmìwininì (Algonquin) and the Michi Saagiig (Mississaugas) were not part of the Ojibwe–Odawa–Potawatomi alliance known as the Council of Three Fires.  The Omàmìwininìwak (Algonquins) maintained stronger cultural ties with the Abenaki, Atikamekw and Cree.
+Among sister [Algonquian languages](4624) are Blackfoot, Cheyenne, Cree, Fox, Menominee, Potawatomi, and Shawnee. The Algic family contains the [Algonquian languages](4624) and the so-called "Ritwan" languages, Wiyot and Yurok. Ojibwe and its similar languages are frequently referred to as a "Central Algonquian" language; however, Central Algonquian is an areal grouping rather than a genetic one. Among [Algonquian languages](4624), only the Eastern [Algonquian languages](4624) constitute a true genetic subgroup.
+The northern Omàmìwininìmowin (Algonquin language) dialect of Anishinabemowin as spoken at Winneway, Quebec (Long Point), and Timiskaming First Nation, Quebec, is a similar dialect to the Oji-Cree dialect (Severn/Anishininimowin) of northwestern Ontario, despite being geographically separated by 800 kilometres (500 miles).
+
+Dialects
+There are several dialects of Omàmìwininìmowin (the Algonquin language), generally grouped broadly as Northern Algonquin and Western Algonquin. Speakers at Kitigan Zibi consider their language to be Southern Algonquin, though linguistically it is a dialect of Nipissing Ojibwa which, together with Mississauga Ojibwa and Odawa, form the Nishnaabemwin (Eastern Ojibwa) group of the Ojibwa dialect continuum.
+
+Phonology
+Consonants
+The consonant phonemes and major allophones of Algonquin in Cuoq spelling, one of several common orthographies, and its common variants are listed below (with IPA notation in brackets):
+
+In an older orthography still popular in some of the Algonquin communities, known as the Malhiot (mɛːjot) spelling, which the above Cuoq spelling was based upon, are listed below (with IPA notation in brackets):
+
+Aspiration and allophony
+The Algonquin consonants p, t and k are unaspirated when they are pronounced between two vowels or after an m or n; plain voiceless and voiceless aspirated stops in Algonquin are thus allophones. So kìjig ('day') is pronounced kʰiːʒɪɡ, but anokì kìjig ('working day') is pronounced ʌnokiː kiːʒɪɡ.
+
+Vowels
+Diphthongs
+Nasal vowels
+Algonquin does have nasal vowels, but they are allophonic variants (similar to how in English vowels are sometimes nasalized before m and n). In Algonquin, vowels automatically become nasal before nd, ndj, ng, nh, nhi, nj or nz.  For example, kìgònz ('fish') is pronounced kiːɡõːz, not kʰiːɡoːnz.
+
+Stress
+Word stress in Algonquin is complex but regular. Words are divided into iambic feet (an iambic foot being a sequence of one "weak" syllable plus one "strong" syllable), counting long vowels (à, è, ì, ò) as a full foot (a foot consisting of a single "strong" syllable). The primary stress is then normally on the strong syllable of the third foot from the end of the word—which, in words that are five syllables long or less, usually translates in practical terms to the first syllable (if it has a long vowel) or the second syllable (if not). The strong syllables of the remaining iambic feet each carry secondary stress, as do any final weak syllables. For example: /ni.ˈbi/, /ˈsiː.ˌbi/, /mi.ˈki.ˌzi/, /ˈnaː.no.ˌmi.da.ˌna/.
+
+See also
+Ojibwe dialects
+Algonquian Bible
+List of First Nations place names in [Canada](1956)
+[Algonquian–Basque pidgin](4625)
+
+References
+Further reading
+External links
+
+French - Algonquin dictionary from the Algonquin Nation Tribal Council
+Algonquins of Golden Lake word-list recordings
+Eagle Village First Nation Algonquin Language page
+Hail Mary in Algonquin
+Children Singing Peace Around the World in Algonquin
+Native Languages page for Algonquin
+Algonquin orthography and phonology
+OLAC resources in and about the Algonquin language

@@ -1,0 +1,71 @@
+619
+Application security
+Application security (short AppSec) includes all tasks that introduce a secure software development life cycle to development teams. Its final goal is to improve security practices and, through that, to find, fix and preferably prevent security issues within applications. It encompasses the whole application life cycle from requirements analysis, design, implementation, verification as well as maintenance.
+Web application security is a branch of information security that deals specifically with the security of websites, web applications, and web services. At a high level, web application security draws on the principles of application security but applies them specifically to the internet and web systems. The application security also concentrates on mobile apps and their security which includes iOS and Android Applications
+Web Application Security Tools are specialized tools for working with HTTP traffic, e.g., Web application firewalls.
+
+Approaches
+Different approaches will find different subsets of the security vulnerabilities lurking in an application and are most effective at different times in the software lifecycle. They each represent different tradeoffs of time, effort, cost and vulnerabilities found.
+
+Design review. Before code is written the application's architecture and design can be reviewed for security problems. A common technique in this phase is the creation of a threat model.
+Whitebox security review, or code review. This is a security engineer deeply understanding the application through manually reviewing the source code and noticing security flaws. Through comprehension of the application, vulnerabilities unique to the application can be found.
+Blackbox security audit. This is only through the use of an application testing it for security vulnerabilities, no source code is required.
+Automated Tooling. Many security tools can be automated through inclusion into the development or testing environment. Examples of those are automated DAST/SAST tools that are integrated into code editor or CI/CD platforms.
+Coordinated vulnerability platforms. These are hacker-powered application security solutions offered by many websites and software developers by which individuals can receive recognition and compensation for reporting bugs.
+
+Security threats
+The Open Worldwide Application Security Project (OWASP) provides free and open resources. It is led by a non-profit called The OWASP Foundation. The OWASP Top 10 - 2017 results from recent research based on comprehensive data compiled from over 40 partner organizations. This data revealed approximately 2.3 million vulnerabilities across over 50,000 applications. According to the OWASP Top 10 - 2021, the ten most critical web application security risks include:
+
+Broken access control
+Cryptographic failures
+Injection
+Insecure design
+Security misconfiguration
+Vulnerable and outdated components
+Identification and authentification failures
+Software and data integrity failures
+Security logging and monitoring failures*
+Server-side request forgery (SSRF)*
+
+Security controls
+The OWASP Top 10 Proactive Controls 2024 is a list of security techniques every software architect and developer should know and heed.
+The current list contains:
+
+Implement access control
+Use cryptography the proper way
+Validate all input & handle exceptions
+Address security from the start
+Secure by default configurations
+Keep your components secure
+Implement digital identity
+Use browser security features
+Implement security logging and monitoring
+Stop server-side request forgery
+
+Tooling for security testing
+Security testing techniques scour for vulnerabilities or security holes in applications. These vulnerabilities leave applications open to exploitation. Ideally, security testing is implemented throughout the entire software development life cycle (SDLC) so that vulnerabilities may be addressed in a timely and thorough manner.
+There are many kinds of automated tools for identifying vulnerabilities in applications. Common tool categories used for identifying application vulnerabilities include:
+
+Static application security testing (SAST) analyzes source code for security vulnerabilities during an application's development. Compared to DAST, SAST can be utilized even before the application is in an executable state. As SAST has access to the full source code it is a white-box approach. This can yield more detailed results but can result in many false positives that need to be manually verified.
+Dynamic application security testing (DAST, often called vulnerability scanners) automatically detects vulnerabilities by crawling and analyzing websites. This method is highly scalable, easily integrated and quick. DAST tools are well suited for dealing with low-level attacks such as injection flaws but are not well suited to detect high-level flaws, e.g., logic or business logic flaws. Fuzzing tools are commonly used for input testing.
+Interactive application security testing (IAST) assesses applications from within using software instrumentation. This combines the strengths of both SAST and DAST methods as well as providing access to code, HTTP traffic, library information, backend connections and configuration information. Some IAST products require the application to be attacked, while others can be used during normal quality assurance testing.
+Runtime application self-protection augments existing applications to provide intrusion detection and prevention from within an application runtime.
+Dependency scanners (also called software composition analysis) try to detect the usage of software components with known vulnerabilities. These tools can either work on-demand, e.g., during the source code build process, or periodically.
+
+Security standards and regulations
+CERT Secure Coding standard
+ISO/IEC 27034-1:2011 Information technology — Security techniques — Application security -- Part 1: Overview and concepts
+ISO/IEC TR 24772:2013 Information technology — Programming languages — Guidance to avoiding vulnerabilities in programming languages through language selection and use
+NIST Special Publication 800-53
+OWASP ASVS: Web Application Security Verification Standard
+
+See also
+Common Weakness Enumeration
+Data security
+Mobile security
+OWASP
+Microsoft Security Development Lifecycle
+Usable security
+
+
+== References ==

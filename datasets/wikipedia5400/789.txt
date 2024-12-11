@@ -1,0 +1,55 @@
+789
+Cinema 4D
+Cinema 4D is a 3D software suite developed by the German company Maxon.
+
+Overview
+As of R21, only a single version of Cinema 4D is available. It replaces all previous variants, including BodyPaint 3D, and includes all features of the past 'Studio' variant. With R21, all binaries were unified. There is no technical difference between commercial, educational, or demo versions. The difference is now only in licensing.
+2014 saw the release of Cinema 4D Lite, which came packaged with Adobe After Effects Creative Cloud 2014. "Lite" acts as an introductory version, with many features withheld. This is part of a partnership between the two companies, where a Maxon-produced plug-in, called Cineware, allows any variant to create a seamless workflow with After Effects. The "Lite" variant is dependent on After Effects CC, needing the latter application running to launch, and is only sold as a package component included with After Effects CC through Adobe.
+Initially, Cinema 4D was developed for Amiga computers in the early 1990s, and the first three versions of the program were available exclusively for that platform. With v4, however, Maxon began to develop the application for Windows and Macintosh computers as well, citing the wish to reach a wider audience and the growing instability of the Amiga market following Commodore's bankruptcy. It was also released for BeOS.
+On Linux, Cinema 4D is available as a commandline rendering version.
+
+Modules and older variants
+From R12 to R20, Cinema 4D was available in four variants. A core Cinema 4D 'Prime' application, a 'Broadcast' version with additional motion-graphics features, 'Visualize,' which adds functions for architectural design and 'Studio,' which includes all modules.
+From Release 8 until Release 11.5, Cinema 4D had a modular approach to the application, with the ability to expand upon the core application with various modules.  This ended with Release 12, though the functionality of these modules remains in the different flavors of Cinema 4D (Prime, Broadcast, Visualize, Studio)
+The old modules were:
+
+Advanced Render (global illumination/HDRI, caustics, ambient occlusion and sky simulation)
+BodyPaint 3D (direct painting on UVW meshes; now included in the core.  In essence Cinema 4D Core/Prime and the BodyPaint 3D products are identical.  The only difference between the two is the splash screen that is shown at startup and the default user interface.)
+Dynamics (for simulating soft body and rigid body dynamics)
+Hair (simulates hair, fur, grass, etc.)
+MOCCA (character animation and cloth simulation)
+MoGraph (Motion Graphics procedural modelling and animation toolset)
+NET Render (to render animations over a TCP/IP network in render farms)
+PyroCluster (simulation of smoke and fire effects)
+Prime (the core application)
+Broadcast (adds MoGraph2)
+Visualize (adds Virtual Walkthrough, Advanced Render, Sky, Sketch and Toon, data exchange, camera matching)
+Studio (the complete package)
+
+Version history
+Use in industry
+A number of films and related works have been modeled and rendered in Cinema 4D, including:
+
+Cinebench
+Cinebench is a cross-platform test suite which tests a computer's hardware capabilities. It can be used as a test for Cinema 4D's 3D modeling, animation, motion graphic and rendering performance on multiple CPU cores. The program "targets a certain niche and is better suited for high-end desktop and workstation platforms".
+Cinebench is commonly used to demonstrate hardware capabilities at tech shows to show a CPU performance, especially by Tech YouTubers and review sites.
+
+See also
+COFFEE, scripting language in Cinema 4D
+LightWave 3D
+Electric Image Animation System
+Modo
+Autodesk Maya
+Autodesk 3ds Max
+ZBrush
+Blender
+Aladdin4D
+Softimage 3D
+Houdini (software)
+Octane Render
+
+References
+External links
+Official website 
+International community
+Cinebench

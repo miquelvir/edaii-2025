@@ -1,0 +1,659 @@
+2740
+Cube
+In geometry, a cube or regular hexahedron is a three-dimensional solid object bounded by six congruent square faces, a type of polyhedron. It has twelve congruent edges and eight vertices. It is a type of parallelepiped, with pairs of parallel opposite faces, and more specifically a rhombohedron, with congruent edges, and a rectangular cuboid, with right angles between pairs of intersecting faces and pairs of intersecting edges. It is an example of many classes of polyhedra: Platonic solid, regular polyhedron, parallelohedron, zonohedron, and plesiohedron. The dual polyhedron of a cube is the regular octahedron.
+The cube is the three-dimensional hypercube, a family of polytopes also including the two-dimensional square and four-dimensional tesseract. A cube with unit side length is the canonical unit of volume in three-dimensional space, relative to which other solid objects are measured.
+The cube can be represented in many ways, one of which is the graph known as the cubical graph. It can be constructed by using the Cartesian product of graphs. The cube was discovered in antiquity. It was associated with the nature of earth by Plato, the founder of Platonic solid. It was used as the part of the Solar System, proposed by Johannes Kepler. It can be derived differently to create more polyhedrons, and it has applications to construct a new polyhedron by attaching others.
+
+Properties
+A cube is a special case of rectangular cuboid in which the edges are equal in length. Like other cuboids, every face of a cube has four vertices, each of which connects with three congruent lines. These edges form square faces, making the dihedral angle of a cube between every two adjacent squares being the interior angle of a square, 90°. Hence, the cube has six faces, twelve edges, and eight vertices.  Because of such properties, it is categorized as one of the five Platonic solids, a polyhedron in which all the regular polygons are congruent and the same number of faces meet at each vertex.
+
+Measurement and other metric properties
+Given a cube with edge length 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+. The face diagonal of a cube is the diagonal of a square 
+  
+    
+      
+        a
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a{\sqrt {2}}}
+  
+, and the space diagonal of a cube is a line connecting two vertices that is not in the same face, formulated as 
+  
+    
+      
+        a
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a{\sqrt {3}}}
+  
+. Both formulas can be determined by using Pythagorean theorem. The surface area of a cube 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is six times the area of a square: 
+  
+    
+      
+        A
+        =
+        6
+        
+          a
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle A=6a^{2}.}
+  
+
+The volume of a cuboid is the product of its length, width, and height. Because all the edges of a cube are equal in length, it is: 
+  
+    
+      
+        V
+        =
+        
+          a
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle V=a^{3}.}
+  
+
+One special case is the unit cube, so-named for measuring a single unit of length along each edge. It follows that each face is a unit square and that the entire figure has a volume of 1 cubic unit. Prince Rupert's cube, named after Prince Rupert of the Rhine, is the largest cube that can pass through a hole cut into the unit cube, despite having sides approximately 6% longer. A polyhedron that can pass through a copy of itself of the same size or smaller is said to have the Rupert property.
+
+A geometric problem of doubling the cube—alternatively known as the Delian problem—requires the construction of a cube with a volume twice the original by using a compass and straightedge solely. Ancient mathematicians could not solve this old problem until French mathematician Pierre Wantzel in 1837 proved it was impossible.
+
+Relation to the spheres
+With edge length 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+, the inscribed sphere of a cube is the sphere tangent to the faces of a cube at their centroids, with radius 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        a
+      
+    
+    {\textstyle {\frac {1}{2}}a}
+  
+. The midsphere of a cube is the sphere tangent to the edges of a cube, with radius 
+  
+    
+      
+        
+          
+            1
+            
+              2
+            
+          
+        
+        a
+      
+    
+    {\textstyle {\frac {1}{\sqrt {2}}}a}
+  
+. The circumscribed sphere of a cube is the sphere tangent to the vertices of a cube, with radius 
+  
+    
+      
+        
+          
+            
+              3
+            
+            2
+          
+        
+        a
+      
+    
+    {\textstyle {\frac {\sqrt {3}}{2}}a}
+  
+.
+For a cube whose circumscribed sphere has radius 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, and for a given point in its three-dimensional space with distances 
+  
+    
+      
+        
+          d
+          
+            i
+          
+        
+      
+    
+    {\displaystyle d_{i}}
+  
+ from the cube's eight vertices, it is:
+
+  
+    
+      
+        
+          
+            1
+            8
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            8
+          
+        
+        
+          d
+          
+            i
+          
+          
+            4
+          
+        
+        +
+        
+          
+            
+              16
+              
+                R
+                
+                  4
+                
+              
+            
+            9
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  1
+                  8
+                
+              
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  8
+                
+              
+              
+                d
+                
+                  i
+                
+                
+                  2
+                
+              
+              +
+              
+                
+                  
+                    2
+                    
+                      R
+                      
+                        2
+                      
+                    
+                  
+                  3
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {1}{8}}\sum _{i=1}^{8}d_{i}^{4}+{\frac {16R^{4}}{9}}=\left({\frac {1}{8}}\sum _{i=1}^{8}d_{i}^{2}+{\frac {2R^{2}}{3}}\right)^{2}.}
+
+Symmetry
+The cube has octahedral symmetry 
+  
+    
+      
+        
+          
+            O
+          
+          
+            
+              h
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {O} _{\mathrm {h} }}
+  
+. It is composed of reflection symmetry, a symmetry by cutting into two halves by a plane. There are nine reflection symmetries: the five are cut the cube from the midpoints of its edges, and the four are cut diagonally. It is also composed of rotational symmetry, a symmetry by rotating it around the axis, from which the appearance is interchangeable. It has octahedral rotation symmetry 
+  
+    
+      
+        
+          O
+        
+      
+    
+    {\displaystyle \mathrm {O} }
+  
+: three axes pass through the cube's opposite faces centroid, six through the cube's opposite edges midpoints, and four through the cube's opposite vertices; each of these axes is respectively four-fold rotational symmetry (0°, 90°, 180°, and 270°), two-fold rotational symmetry (0° and 180°), and three-fold rotational symmetry (0°, 120°, and 240°).
+
+The dual polyhedron can be obtained from each of the polyhedron's vertices tangent to a plane by the process known as polar reciprocation. One property of dual polyhedrons generally is that the polyhedron and its dual share their three-dimensional symmetry point group. In this case, the dual polyhedron of a cube is the regular octahedron, and both of these polyhedron has the same symmetry, the octahedral symmetry.
+The cube is face-transitive, meaning its two squares are alike and can be mapped by rotation and reflection. It is vertex-transitive, meaning all of its vertices are equivalent and can be mapped isometrically under its symmetry. It is also edge-transitive, meaning the same kind of faces surround each of its vertices in the same or reverse order, all two adjacent faces have the same dihedral angle. Therefore, the cube is regular polyhedron because it requires those properties.
+
+Classifications
+The cube is a special case among every cuboids. As mentioned above, the cube can be represented as the rectangular cuboid with edges equal in length and all of its faces are all squares. The cube may be considered as the parallelepiped in which all of its edges are equal edges.
+The cube is a plesiohedron, a special kind of space-filling polyhedron that can be defined as the Voronoi cell of a symmetric Delone set. The plesiohedra include the parallelohedrons, which can be translated without rotating to fill a space—called honeycomb—in which each face of any of its copies is attached to a like face of another copy. There are five kinds of parallelohedra, one of which is the cuboid. Every three-dimensional parallelohedron is zonohedron, a centrally symmetric polyhedron whose faces are centrally symmetric polygons,
+
+Construction
+An elementary way to construct a cube is using its net, an arrangement of edge-joining polygons constructing a polyhedron by connecting along the edges of those polygons. Eleven nets for the cube are shown here.
+In analytic geometry, a cube may be constructed using the Cartesian coordinate systems. For a cube centered at the origin, with edges parallel to the axes and with an edge length of 2, the Cartesian coordinates of the vertices are 
+  
+    
+      
+        (
+        ±
+        1
+        ,
+        ±
+        1
+        ,
+        ±
+        1
+        )
+      
+    
+    {\displaystyle (\pm 1,\pm 1,\pm 1)}
+  
+. Its interior consists of all points 
+  
+    
+      
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{0},x_{1},x_{2})}
+  
+ with 
+  
+    
+      
+        −
+        1
+        <
+        
+          x
+          
+            i
+          
+        
+        <
+        1
+      
+    
+    {\displaystyle -1<x_{i}<1}
+  
+ for all 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+. A cube's surface with center 
+  
+    
+      
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            0
+          
+        
+        ,
+        
+          z
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{0},y_{0},z_{0})}
+  
+ and edge length of 
+  
+    
+      
+        2
+        a
+      
+    
+    {\displaystyle 2a}
+  
+ is the locus of all points 
+  
+    
+      
+        (
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle (x,y,z)}
+  
+ such that
+
+  
+    
+      
+        max
+        {
+        
+          |
+        
+        x
+        −
+        
+          x
+          
+            0
+          
+        
+        
+          |
+        
+        ,
+        
+          |
+        
+        y
+        −
+        
+          y
+          
+            0
+          
+        
+        
+          |
+        
+        ,
+        
+          |
+        
+        z
+        −
+        
+          z
+          
+            0
+          
+        
+        
+          |
+        
+        }
+        =
+        a
+        .
+      
+    
+    {\displaystyle \max\{|x-x_{0}|,|y-y_{0}|,|z-z_{0}|\}=a.}
+  
+
+The cube is Hanner polytope, because it can be constructed by using Cartesian product of three line segments. Its dual polyhedron, the regular octahedron, is constructed by direct sum of three line segments.
+
+Representation
+As a graph
+According to Steinitz's theorem, the graph can be represented as the skeleton of a polyhedron; roughly speaking, a framework of a polyhedron. Such a graph has two properties. It is planar, meaning the edges of a graph are connected to every vertex without crossing other edges. It is also a 3-connected graph, meaning that, whenever a graph with more than three vertices, and two of the vertices are removed, the edges remain connected. The skeleton of a cube can be represented as the graph, and it is called the cubical graph, a Platonic graph. It has the same number of vertices and edges as the cube, twelve vertices and eight edges.
+The cubical graph is a special case of hypercube graph or 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-cube—denoted as 
+  
+    
+      
+        
+          Q
+          
+            n
+          
+        
+      
+    
+    {\displaystyle Q_{n}}
+  
+—because it can be constructed by using the operation known as the Cartesian product of graphs. To put it in a plain, its construction involves two graphs connecting the pair of vertices with an edge to form a new graph. In the case of the cubical graph, it is the product of two 
+  
+    
+      
+        
+          Q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle Q_{2}}
+  
+; roughly speaking, it is a graph resembling a square. In other words, the cubical graph is constructed by connecting each vertex of two squares with an edge. Notationally, the cubical graph can be denoted as 
+  
+    
+      
+        
+          Q
+          
+            3
+          
+        
+      
+    
+    {\displaystyle Q_{3}}
+  
+. As a part of the hypercube graph, it is also an example of a unit distance graph.
+Like other graphs of cuboids, the cubical graph is also classified as a prism graph.
+
+In orthogonal projection
+An object illuminated by parallel rays of light casts a shadow on a plane perpendicular to those rays, called an orthogonal projection. A polyhedron is considered equiprojective if, for some position of the light, its orthogonal projection is a regular polygon. The cube is equiprojective because, if the light is parallel to one of the four lines joining a vertex to the opposite vertex, its projection is a regular hexagon. Conventionally, the cube is 6-equiprojective.
+
+As a configuration matrix
+The cube can be represented as configuration matrix. A configuration matrix is a matrix in which the rows and columns correspond to the elements of a polyhedron as in the vertices, edges, and faces. The diagonal of a matrix denotes the number of each element that appears in a polyhedron, whereas the non-diagonal of a matrix denotes the number of the column's elements that occur in or at the row's element. As mentioned above, the cube has eight vertices, twelve edges, and six faces; each element in a matrix's diagonal is denoted as 8, 12, and 6. The first column of the middle row indicates that there are two vertices in (i.e., at the extremes of) each edge, denoted as 2; the middle column of the first row indicates that three edges meet at each vertex, denoted as 3. The following matrix is:
+
+  
+    
+      
+        
+          
+            
+            
+              
+                
+                  
+                    
+                      
+                        
+                          8
+                        
+                        
+                          3
+                        
+                        
+                          3
+                        
+                      
+                      
+                        
+                          2
+                        
+                        
+                          12
+                        
+                        
+                          2
+                        
+                      
+                      
+                        
+                          4
+                        
+                        
+                          4
+                        
+                        
+                          6
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}{\begin{matrix}8&3&3\\2&12&2\\4&4&6\end{matrix}}\end{bmatrix}}}
+
+Appearances
+In antiquity
+The Platonic solid is a set of polyhedrons known since antiquity. It was named after Plato in his Timaeus dialogue, who attributed these solids with nature. One of them, the cube, represented the classical element of earth because of its stability. Euclid's Elements defined the Platonic solids, including the cube, and using these solids with the problem involving to find the ratio of the circumscribed sphere's diameter to the edge length.
+Following its attribution with nature by Plato, Johannes Kepler in his Harmonices Mundi sketched each of the Platonic solids, one of them is a cube in which Kepler decorated a tree on it. In his Mysterium Cosmographicum, Kepler also proposed the Solar System by using the Platonic solids setting into another one and separating them with six spheres resembling the six planets. The ordered solids started from the innermost to the outermost: regular octahedron, regular icosahedron, regular dodecahedron, regular tetrahedron, and cube.
+
+Polyhedron, honeycombs, and polytopes
+The cube can appear in the construction of a polyhedron, and some of its types can be derived differently in the following:
+
+When faceting a cube, meaning removing part of the polygonal faces without creating new vertices of a cube, the resulting polyhedron is the stellated octahedron.
+The cube is non-composite polyhedron, meaning it is a convex polyhedron that cannot be separated into two or more regular polyhedrons. The cube can be applied to construct a new convex polyhedron by attaching another. Attaching a square pyramid to each square face of a cube produces its Kleetope, a polyhedron known as the tetrakis hexahedron. Suppose one and two equilateral square pyramids are attached to their square faces. In that case, they are the construction of an elongated square pyramid and elongated square bipyramid respectively, the Johnson solid's examples.
+Each of the cube's vertices can be truncated, and the resulting polyhedron is the Archimedean solid, the truncated cube. When its edges are truncated, it is a rhombicuboctahedron. Relatedly, the rhombicuboctahedron can also be constructed by separating the cube's faces and then spreading away, after which adding other triangular and square faces between them; this is known as the "expanded cube". It also can be constructed similarly by the cube's dual, the regular octahedron.
+The corner region of a cube can also be truncated by a plane (e.g., spanned by the three neighboring vertices), resulting in a trirectangular tetrahedron.
+The snub cube is an Archimedean solid that can be constructed by separating away the cube square's face, and filling their gaps with twisted angle equilateral triangles;a process known as snub.
+The honeycomb is the space-filling or tessellation in three-dimensional space, meaning it is an object in which the construction begins by attaching any polyhedrons onto their faces without leaving a gap. The cube can be represented as the cell, and examples of a honeycomb are cubic honeycomb, order-5 cubic honeycomb, order-6 cubic honeycomb, and order-7 cubic honeycomb. The cube can be constructed with six square pyramids, tiling space by attaching their apices.
+Polycube is a polyhedron in which the faces of many cubes are attached. Analogously, it can be interpreted as the polyominoes in three-dimensional space. When four cubes are stacked vertically, and the other four are attached to the second-from-top cube of the stack, the resulting polycube is Dali cross, after Salvador Dali. The Dali cross is a tile space polyhedron, which can be represented as the net of a tesseract. A tesseract is a cube analogous' four-dimensional space bounded by twenty-four squares, and it is bounded by the eight cubes known as its cells.
+
+References
+External links
+Weisstein, Eric W. "Cube". MathWorld.
+Cube: Interactive Polyhedron Model*
+Volume of a cube, with interactive animation
+Cube (Robert Webb's site)

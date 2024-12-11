@@ -1,0 +1,21 @@
+294
+Abiotic component
+In biology and ecology, abiotic components or abiotic factors are non-living chemical and physical parts of the environment that affect living organisms and the functioning of ecosystems. Abiotic factors and the phenomena associated with them underpin biology as a whole. They affect a plethora of species, in all forms of environmental conditions, such as marine or terrestrial animals. Humans can make or change abiotic factors in a species' environment. For instance, fertilizers can affect a snail's habitat, or the greenhouse gases which humans utilize can change marine pH levels.
+Abiotic components include physical conditions and non-living resources that affect living organisms in terms of growth, maintenance, and reproduction. Resources are distinguished as substances or objects in the environment required by one organism and consumed or otherwise made unavailable for use by other organisms. Component degradation of a substance occurs by chemical or physical processes, e.g. hydrolysis.  All non-living components of an ecosystem, such as atmospheric conditions and water resources, are called abiotic components.
+
+Factors
+In biology, abiotic factors can include water, light, radiation, temperature, humidity, atmosphere, acidity, salinity, precipitation, altitude, minerals, tides, rain, dissolved oxygen nutrients, and soil. The macroscopic climate often influences each of the above. Pressure and sound waves may also be considered in the context of marine or sub-terrestrial environments. Abiotic factors in ocean environments also include aerial exposure, substrate, water clarity, solar energy and tides.
+Consider the differences in the mechanics of C3, C4, and CAM plants in regulating the influx of carbon dioxide to the Calvin-Benson Cycle in relation to their abiotic stressors. C3 plants have no mechanisms to manage photorespiration, whereas C4 and CAM plants utilize a separate PEP carboxylase enzyme to prevent photorespiration, thus increasing the yield of photosynthesis processes in certain high energy environments.
+
+Examples
+Many Archea require very high temperatures, pressures, or unusual concentrations of chemical substances such as sulfur; this is due to their specialization into extreme conditions. In addition, fungi have also evolved to survive at the temperature, the humidity, and stability of their environment.
+For example, there is a significant difference in access to both water and humidity between temperate rain forests and deserts. This difference in water availability causes a diversity in the organisms that survive in these areas. These differences in abiotic components alter the species present by creating boundaries of what species can survive within the environment and influencing competition between two species. Abiotic factors such as salinity can give one species a competitive advantage over another, creating pressures that lead to speciation and alteration of a species to and from generalist and specialist competitors.
+
+See also
+Biotic component, a living part of an ecosystem that affects and shapes it.
+[Abiogenesis](42), the gradual process of increasing complexity of non-living into living matter.
+Nitrogen cycle
+Phosphorus cycle
+
+
+== References ==

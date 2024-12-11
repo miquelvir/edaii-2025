@@ -1,0 +1,69 @@
+948
+Computational problem
+In theoretical computer science, a computational problem is one that asks for a solution in terms of an algorithm. For example, the problem of factoring
+
+"Given a positive integer n, find a nontrivial prime factor of n."
+is a computational problem that has a solution, as there are many known integer factorization algorithms. A computational problem can be viewed as a set of instances or cases together with a, possibly empty, set of solutions for every instance/case. The question then is, whether there exists an algorithm that maps instances to solutions. For example, in the factoring problem, the instances are the integers n, and solutions are prime numbers p that are the nontrivial prime factors of n. An example of a computational problem without a solution is the Halting problem. Computational problems are one of the main objects of study in theoretical computer science. 
+One is often interested not only in mere existence of an algorithm, but also how efficient the algorithm can be. The field of computational complexity theory addresses such questions by determining the amount of resources (computational complexity) solving a given problem will require, and explain why some problems are intractable or undecidable. Solvable computational problems belong to complexity classes that define broadly the resources (e.g. time, space/memory, energy, circuit depth) it takes to compute (solve) them with various abstract machines. For example, the complexity classes
+
+P, problems that consume polynomial time for deterministic classical machines
+BPP, problems that consume polynomial time for probabilistic classical machines (e.g. computers with random number generators)
+BQP, problems that consume polynomial time for probabilistic quantum machines.
+Both instances and solutions are represented by binary strings, namely elements of {0, 1}*. For example, natural numbers are usually represented as binary strings using binary encoding. This is important since the complexity is expressed as a function of the length of the input representation.
+
+Types
+Decision problem
+A decision problem is a computational problem where the answer for every instance is either yes or no. An example of a decision problem is primality testing:
+
+"Given a positive integer n, determine if n is prime."
+A decision problem is typically represented as the set of all instances for which the answer is yes. For example, primality testing can be represented as the infinite set
+
+L = {2, 3, 5, 7, 11, ...}
+
+Search problem
+In a search problem, the answers can be arbitrary strings. For example, factoring is a search problem where the instances are (string representations of) positive integers and the solutions are (string representations of) collections of primes.
+A search problem is represented as a relation consisting of all the instance-solution pairs, called a search relation. For example, factoring can be represented as the relation
+
+R = {(4, 2), (6, 2), (6, 3), (8, 2), (9, 3), (10, 2), (10, 5)...}
+which consist of all pairs of numbers (n, p), where p is a prime factor of n.
+
+Counting problem
+A counting problem asks for the number of solutions to a given search problem. For example, a counting problem associated with factoring is
+
+"Given a positive integer n, count the number of nontrivial prime factors of n."
+A counting problem can be represented by a function f from {0, 1}* to the nonnegative integers. For a search relation R, the counting problem associated to R is the function
+
+fR(x) = |{y: R(x, y) }|.
+
+Optimization problem
+An optimization problem asks for finding a "best possible" solution among the set of all possible solutions to a search problem. One example is the maximum independent set problem:
+
+"Given a graph G, find an independent set of G of maximum size."
+Optimization problems are represented by their objective function and their constraints.
+
+Function problem
+In a function problem a single output (of a total function) is expected for every input, but the output is more complex than that of a decision problem, that is, it isn't just "yes" or "no". One of the most famous examples is the  traveling salesman problem:
+
+"Given a list of cities and the distances between each pair of cities, find the shortest possible route that visits each city exactly once and returns to the origin city."
+It is an NP-hard problem in combinatorial optimization, important in operations research and theoretical computer science.
+
+Promise problem
+In computational complexity theory, it is usually implicitly assumed that any string in {0, 1}* represents an instance of the computational problem in question. However, sometimes not all strings {0, 1}* represent valid instances, and one specifies a proper subset of {0, 1}* as the set of "valid instances".  Computational problems of this type are called promise problems.
+The following is an example of a (decision) promise problem:
+
+"Given a graph G, determine if every independent set in G has size at most 5, or G has an independent set of size at least 10."
+Here, the valid instances are those graphs whose maximum independent set size is either at most 5 or at least 10.
+Decision promise problems are usually represented as pairs of disjoint subsets (Lyes, Lno) of {0, 1}*. The valid instances are those in Lyes ∪ Lno.
+Lyes and Lno represent the instances whose answer is yes and no, respectively.  
+Promise problems play an important role in several areas of computational complexity, including hardness of approximation, property testing, and interactive proof systems.
+
+See also
+Lateral computing, alternative approaches to solving problems computationally
+Model of computation
+Transcomputational problem
+
+Notes
+References
+Even, Shimon; Selman, Alan L.; Yacobi, Yacov (1984), "The complexity of promise problems with applications to public-key cryptography", Information and Control, 61 (2): 159–173, doi:10.1016/S0019-9958(84)80056-X.
+Goldreich, Oded (2008), Computational Complexity: A Conceptual Perspective, [Cambridge University Press](645), ISBN 978-0-521-88473-0.
+Goldreich, Oded; Wigderson, Avi (2008), "IV.20 Computational Complexity", in Gowers, Timothy; Barrow-Green, June; Leader, Imre (eds.), The Princeton Companion to Mathematics, Princeton University Press, pp. 575–604, ISBN 978-0-691-11880-2.

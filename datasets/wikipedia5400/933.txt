@@ -1,0 +1,45 @@
+933
+Charles E. Leiserson
+Charles Eric Leiserson (born 1953) is a computer scientist and professor at Massachusetts Institute of Technology (M.I.T.). He specializes in the theory of parallel computing and distributed computing.
+
+Education
+Leiserson received a Bachelor of Science degree in computer science and mathematics from Yale University in 1975 and a PhD degree in computer science from Carnegie Mellon University in 1981, where his advisors were Jon Bentley and H. T. Kung. Leiserson's dissertation, Area-Efficient VLSI Computation, won the first ACM Doctoral Dissertation Award in 1982.
+
+Work career
+He joined the faculty of the Massachusetts Institute of Technology in 1981, where he eventually became the Edwin Sibley Webster professor Electrical Engineering and Computer Science Department.  Preceding this, he was associate director and Chief Operating Officer of  the  MIT Computer Science and Artificial Intelligence Laboratory and principal of the Theory of Computation research group. He lists himself as Faculty Director of the MIT-Air Force AI Accelerator, which is designed to make fundamental advances in artificial intelligence to improve Department of the Air Force operations while also addressing broader societal needs.
+
+Thinking Machines
+During the 1980s, Leierson was on leave from M.I.T. at Thinking Machines Corporation, where he  invented the fat-tree interconnection network, a hardware-universal interconnection network used in many supercomputers, including the Connection Machine CM5, for which he was network architect.
+
+VLSI and caching methods
+He helped pioneer the development of VLSI theory, including the retiming method of digital optimization with James B. Saxe and systolic arrays with H. T. Kung.  He conceived of the notion of cache-oblivious algorithms, which are algorithms that have no tuning parameters for cache size or cache-line length, but nevertheless use cache near-optimally.
+
+[Cilk](887) programming language
+He developed the [Cilk](887) language for multithreaded programming, which uses a provably good work-stealing algorithm for scheduling. His bio lists two internationally recognized chess playing programs based on [Cilk](887), the StarSocrates and the [Cilk](887)chess.
+
+See [Cilk](887) for details on the programming language
+Following this, he  was founder and  chief technology officer of the [Cilk](887) Arts, Inc. startup, developing [Cilk](887)-based technology for multicore computing applications.  The company was acquired by Intel in 2009, upon which Leierson initiated the open source Open[Cilk](887) movement.
+Leierson received multiple research awards in 2013 and 2014 for the [Cilk](887) work (see below).
+
+Akamai
+He was formerly director of research and director of system architecture for Akamai Technologies in Boston, a company that developed content distribution networks in the late 1990s.  The company grew out of the research made at M.I.T., and where his Ph.D. student Robert Blumofe was Executive Vice President.
+
+Textbooks
+Leiserson coauthored the standard algorithms textbook Introduction to Algorithms together with Thomas H. Cormen, Ronald L. Rivest, and Clifford Stein.  Leierson mentions this was elected the "Best 1990 Professional and Scholarly Book in Computer Science and Data Processing" by the Association of American Publishers.
+
+Awards and honors
+1981 Fannie and John Hertz Foundation’s Doctoral Thesis Award.
+1982 ACM Doctoral Dissertation Award for his Ph.D. thesis, Area-Efficient VLSI Computation
+1985  National Science Foundation awarded him Presidential Young Investigator Award.
+2007 elected Margaret MacVicar Faculty Fellow at MIT, the highest recognition at MIT for undergraduate teaching.
+2013 Paris Kanellakis Award from ACM, with his PhD student Robert D. Blumofe, for "contributions to robust parallel and distributed computing", in particular the work-stealing scheduling and the [Cilk](887) research.
+2014 Taylor L. Booth Education Award from the IEEE Computer Society "for worldwide computer science education impact through writing a best-selling algorithms textbook, and developing courses on algorithms and parallel programming."
+2014 Ken Kennedy Award from ACM-IEEE Computer Society for his "enduring influence on parallel computing systems and their adoption into mainstream use through scholarly research and development."  He was also cited for "distinguished mentoring of computer science leaders and students."
+Elected as Fellow of the [Association for Computing Machinery](823) (ACM), the American Association for the Advancement of Science (AAAS), the Institute of Electrical and Electronics Engineers (IEEE), and the Society for Industrial and Applied Mathematics (SIAM).
+
+Personal life
+His father was Mark Leiserson, a professor of economics at Yale University.
+
+References
+External links
+Home page

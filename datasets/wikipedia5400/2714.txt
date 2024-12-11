@@ -1,0 +1,91 @@
+2714
+Β-Carotene
+β-Carotene (beta-carotene) is an organic, strongly colored red-orange pigment abundant in fungi, plants, and fruits. It is a member of the carotenes, which are terpenoids (isoprenoids), synthesized biochemically from eight isoprene units and thus having 40 carbons.
+Dietary β-carotene is a provitamin A compound, converting in the body to retinol (vitamin A). In foods, it has rich content in carrots, pumpkin, spinach, and sweet potato. It is used as a dietary supplement and may be prescribed to treat erythropoietic protoporphyria, an inherited condition of sunlight sensitivity.
+β-carotene is the most common carotenoid in plants. When used as a food coloring, it has the E number E160a.: 119  The structure was deduced in 1930.
+Isolation of β-carotene from fruits abundant in carotenoids is commonly done using column chromatography. It is industrially extracted from richer sources such as the algae Dunaliella salina. The separation of β-carotene from the mixture of other carotenoids is based on the polarity of a compound. β-Carotene is a non-polar compound, so it is separated with a non-polar solvent such as hexane. Being highly conjugated, it is deeply colored, and as a hydrocarbon lacking functional groups, it is lipophilic.
+
+Provitamin A activity
+Plant carotenoids are the primary dietary source of provitamin A worldwide, with β-carotene as the best-known provitamin A carotenoid. Others include α-carotene and β-cryptoxanthin. Carotenoid absorption is restricted to the duodenum of the small intestine. One molecule of β-carotene can be cleaved by the intestinal enzyme β,β-carotene 15,15'-monooxygenase into two molecules of vitamin A.
+
+Absorption, metabolism and excretion
+As part of the digestive process, food-sourced carotenoids must be separated from plant cells and incorporated into lipid-containing micelles to be bioaccessible to intestinal enterocytes. If already extracted (or synthetic) and then presented in an oil-filled dietary supplement capsule, there is greater bioavailability compared to that from foods.
+At the enterocyte cell wall, β-carotene is taken up by the membrane transporter protein scavenger receptor class B, type 1 (SCARB1). Absorbed β-carotene is then either incorporated as such into chylomicrons or first converted to retinal and then retinol, bound to retinol binding protein 2, before being incorporated into chylomicrons. The conversion process consists of one molecule of β-carotene cleaved by the enzyme beta-carotene 15,15'-dioxygenase, which is encoded by the BCO1 gene, into two molecules of retinal. When plasma retinol is in the normal range the gene expression for SCARB1 and BCO1 are suppressed, creating a feedback loop that suppresses β-carotene absorption and conversion.
+The majority of chylomicrons are taken up by the liver, then secreted into the blood repackaged into low density lipoproteins (LDLs). From these circulating lipoproteins and the chylomicrons that bypassed the liver, β-carotene is taken into cells via receptor SCARB1. Human tissues differ in expression of SCARB1, and hence β-carotene content. Examples expressed as ng/g, wet weight: liver=479, lung=226, prostate=163 and skin=26.
+Once taken up by peripheral tissue cells, the major usage of absorbed β-carotene is as a precursor to retinal via symmetric cleavage by the enzyme beta-carotene 15,15'-dioxygenase, which is encoded by the BCO1 gene. A lesser amount is metabolized by the mitochondrial enzyme beta-carotene 9',10'-dioxygenase, which is encoded by the BCO2 gene. The products of this asymmetric cleavage are two beta-ionone molecules and rosafluene. BCO2 appears to be involved in preventing excessive accumulation of carotenoids; a BCO2 defect in chickens results in yellow skin color due to accumulation in subcutaneous fat.
+
+Conversion factors
+For counting dietary vitamin A intake, β-carotene may be converted either using the newer retinol activity equivalents (RAE) or the older international unit (IU).
+
+Retinol activity equivalents (RAEs)
+Since 2001, the US Institute of Medicine uses retinol activity equivalents (RAE) for their Dietary Reference Intakes, defined as follows:
+
+1 μg RAE = 1 μg retinol from food or supplements
+1 μg RAE = 2 μg all-trans-β-carotene from supplements
+1 μg RAE = 12 μg of all-trans-β-carotene from food
+1 μg RAE = 24 μg α-carotene or β-cryptoxanthin from food
+RAE takes into account carotenoids' variable absorption and conversion to vitamin A by humans better than and replaces the older retinol equivalent (RE) (1 μg RE = 1 μg retinol, 6 μg β-carotene, or 12 μg α-carotene or β-cryptoxanthin). RE was developed 1967 by the United Nations/World Health Organization Food and Agriculture Organization (FAO/WHO).
+
+International Units
+Another older unit of vitamin A activity is the international unit (IU). Like retinol equivalent, the international unit does not take into account carotenoid variable absorption and conversion to vitamin A by humans, as well as the more modern retinol activity equivalent. Unfortunately, food and supplement labels still generally use IU, but IU can be converted to the more useful retinol activity equivalent as follows:
+
+1 μg RAE = 3.33 IU retinol
+1 IU retinol = 0.3 μg RAE
+1 IU β-carotene from supplements = 0.3 μg RAE
+1 IU β-carotene from food = 0.05 μg RAE
+1 IU α-carotene or β-cryptoxanthin from food = 0.025 μg RAE1
+
+Dietary sources
+The average daily intake of β-carotene is in the range 2–7 mg, as estimated from a pooled analysis of 500,000 women living in the US, Canada, and some European countries. Beta-carotene is found in many foods and is sold as a dietary supplement. β-Carotene contributes to the orange color of many different fruits and vegetables. Vietnamese gac (Momordica cochinchinensis Spreng.) and crude palm oil are particularly rich sources, as are yellow and orange fruits, such as cantaloupe, mangoes, pumpkin, and papayas, and orange root vegetables such as carrots and sweet potatoes.
+The color of β-carotene is masked by chlorophyll in green leaf vegetables such as spinach, kale, sweet potato leaves, and sweet gourd leaves.
+The U.S. Department of Agriculture lists foods high in β-carotene content:
+
+No dietary requirement
+Government and non-government organizations have not set a dietary requirement for β-carotene.
+
+Side effects
+Excess β-carotene is predominantly stored in the fat tissues of the body. The most common side effect of excessive β-carotene consumption is carotenodermia, a physically harmless condition that presents as a conspicuous orange skin tint arising from deposition of the carotenoid in the outermost layer of the epidermis.
+
+Carotenosis
+Carotenoderma, also referred to as carotenemia, is a benign and reversible medical condition where an excess of dietary carotenoids results in orange discoloration of the outermost skin layer. It is associated with a high blood β-carotene value. This can occur after a month or two of consumption of beta-carotene rich foods, such as carrots, carrot juice, tangerine juice, mangos, or in Africa, red palm oil. β-carotene dietary supplements can have the same effect. The discoloration extends to palms and soles of feet, but not to the white of the eye, which helps distinguish the condition from jaundice. Carotenodermia is reversible upon cessation of excessive intake. Consumption of greater than 30 mg/day for a prolonged period has been confirmed as leading to carotenemia.
+
+No risk for hypervitaminosis A
+At the enterocyte cell wall, β-carotene is taken up by the membrane transporter protein scavenger receptor class B, type 1 (SCARB1). Absorbed β-carotene is then either incorporated as such into chylomicrons or first converted to retinal and then retinol, bound to retinol binding protein 2, before being incorporated into chylomicrons. The conversion process consists of one molecule of β-carotene cleaved by the enzyme beta-carotene 15,15'-dioxygenase, which is encoded by the BCO1 gene, into two molecules of retinal. When plasma retinol is in the normal range the gene expression for SCARB1 and BCO1 are suppressed, creating a feedback loop that suppresses absorption and conversion. Because of these two mechanisms, high intake will not lead to hypervitaminosis A.
+
+Drug interactions
+β-Carotene can interact with medication used for lowering cholesterol. Taking them together can lower the effectiveness of these medications and is considered only a moderate interaction. Bile acid sequestrants and proton-pump inhibitors can decrease absorption of β-carotene. Consuming alcohol with β-carotene can decrease its ability to convert to retinol and could possibly result in hepatotoxicity.
+
+β-Carotene and lung cancer in smokers
+Chronic high doses of β-carotene supplementation increases the probability of lung cancer in smokers while its natural vitamer, retinol, increases lung cancer in smokers and nonsmokers. The effect is specific to supplementation dose as no lung damage has been detected in those who are exposed to cigarette smoke and who ingest a physiological dose of β-carotene (6 mg), in contrast to high pharmacological dose (30 mg).. 
+Increases in lung cancer have been attributed to the tendency of β-carotene to oxidize, yet based on the pharmacokinetics of β-carotene absorption and transport through the intestine and the lack of specific β-carotene transporters, it is unlikely that β-carotene reaches the lung of smokers in sufficient quantities. Additional research is required to understand the link between the increased risk of cancer and all-cause mortality following β-carotene supplementation.   
+Additionally, supplemental, high-dose β-carotene may increase the risk of prostate cancer, intracerebral hemorrhage, and cardiovascular and total mortality irrespective of smoking status.
+
+Industrial sources
+β-carotene is industrially made either by total synthesis (see Retinol § Industrial synthesis) or by extraction from biological sources such as vegetables, microalgae (especially Dunaliella salina), and genetically-engineered microbes. The synthetic path is low-cost and high-yield.
+
+Research
+Medical authorities generally recommend obtaining beta-carotene from food rather than dietary supplements. A 2013 meta-analysis of randomized controlled trials concluded that high-dosage (≥9.6 mg/day) beta-carotene supplementation is associated with a 6% increase in the risk of all-cause mortality, while low-dosage (<9.6 mg/day) supplementation does not have a significant effect on mortality. Research is insufficient to determine whether a minimum level of beta-carotene consumption is necessary for human health and to identify what problems might arise from insufficient beta-carotene intake. However, a 2018 meta-analysis mostly of prospective cohort studies found that both dietary and circulating beta-carotene are associated with a lower risk of all-cause mortality. The highest circulating beta-carotene category, compared to the lowest, correlated with a 37% reduction in the risk of all-cause mortality, while the highest dietary beta-carotene intake category, compared to the lowest, was linked to an 18% decrease in the risk of all-cause mortality.
+
+Macular degeneration
+Age-related macular degeneration (AMD) represents the leading cause of irreversible blindness in elderly people. AMD is an oxidative stress, retinal disease that affects the macula, causing progressive loss of central vision. β-carotene content is confirmed in human retinal pigment epithelium. Reviews reported mixed results for observational studies, with some reporting that diets higher in β-carotene correlated with a decreased risk of AMD whereas other studies reporting no benefits. Reviews reported that for intervention trials using only β-carotene, there was no change to risk of developing AMD.
+
+Cancer
+A meta-analysis concluded that supplementation with β-carotene does not appear to decrease the risk of cancer overall, nor specific cancers including: pancreatic, colorectal, prostate, breast, melanoma, or skin cancer generally. High levels of β-carotene may increase the risk of lung cancer in current and former smokers. Results are not clear for thyroid cancer.
+
+Cataract
+A Cochrane review looked at supplementation of β-carotene, vitamin C, and vitamin E, independently and combined, on people to examine differences in risk of cataract, cataract extraction, progression of cataract, and slowing the loss of visual acuity. These studies found no evidence of any protective effects afforded by β-carotene supplementation on preventing and slowing age-related cataract. A second meta-analysis compiled data from studies that measured diet-derived serum beta-carotene and reported a not statistically significant 10% decrease in cataract risk.
+
+Erythropoietic protoporphyria
+High doses of β-carotene (up to 180 mg per day) may be used as a treatment for erythropoietic protoporphyria, a rare inherited disorder of sunlight sensitivity, without toxic effects.
+
+Food drying
+Foods rich in carotenoid dyes show discoloration upon drying. This is due to thermal degradation of carotenoids, possibly via isomerization and oxidation reactions.
+
+See also
+Sunless tanning with beta-carotene
+Vitamin A
+Retinol
+[Carotenoids](2726)
+
+
+== References ==

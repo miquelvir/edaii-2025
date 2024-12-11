@@ -1,0 +1,81 @@
+744
+Astropy
+Astropy is a collection of software packages written in the Python programming language and designed for use in astronomy. The software is a single, free, core package for astronomical utilities due to the increasingly widespread usage of Python by astronomers, and to foster interoperability between various extant Python astronomy packages. Astropy is included in several large Python distributions; it is part of package managers for Linux and macOS, the Anaconda Python Distribution, Enthought Canopy and Ureka.
+
+Development
+Around the turn of the millennium the Space Telescope Science Institute (STScI) started development of Python-based utilities to extend or substitute existing astronomical data analysis tools on a modern, object-oriented platform. Among the first projects were a replacement of the command language for the Image Reduction and Analysis Facility (IRAF) with a Python frontend,
+and the PyFITS interface to the Flexible Image Transport System.
+Since the existing Numeric module for handling vectors and arrays in Python turned out to be inadequate for large astronomical datasets, a new library better tuned for large array sizes was subsequently developed at STScI. Both libraries were merged into a new array package by Travis Oliphant in 2005–2006, creating NumPy, now the de facto standard for numerical data handling in Python. In the following years the existing software packages maintained by STScI as part of their stsci_python suite were ported to NumPy as well. This, together with the more extensive SciPy computing environment, provided a platform to develop customized scripts and applications for a variety of astronomical tasks.
+By 2011, the use of Python in astronomy had reached significant levels. At the 2012 Astronomy meeting, 42% of attendees preferred Python according to an informal survey. Many astronomy-related Python packages have been developed over the years, albeit without cooperation or coordination, which led to duplication and difficult interoperability between packages. There was also no easy way to install all the required packages needed in an astronomer’s toolkit. A number of smaller packages are sometimes no longer maintained or unavailable. The Astropy project started in 2011, motivated by these difficulties, and a desire to unite developers in astronomy to coordinate the development of a unified set of Python modules for astronomers, and reduce the confusion of available packages.
+The Space Telescope Science Institute, operators of the Hubble Space Telescope, are merging the work on Astropy into stsci_python releases. PyFITS and PyWCS will be maintained solely within Astropy, with separate releases of these packages stopping, after the next release. PyFITS has been included as part of the Astropy project, and as a result, the next release of STScI_Python will depend on Astropy for the PyFITS library instead of using this standalone release.
+
+Use
+The National Virtual Observatory Python integration includes support for the Astropy VOTable class
+The Subaru Telescope Hyper Suprime-Cam, a 900-megapixel ultra-wide-field camera
+A data mining toolkit for exploring large data cubes in radioastronomy from facilities like ALMA or CARMA.
+pcigale, the port to Python of CIGALE (Code Investigating Galaxy Emission)
+Analyzing the optical afterglow of gamma-ray bursts
+The High Energy Astrophysics Science Archive Research Center (HEASARC) refers to Astropy as "A single core package for Astronomy in Python"
+Project PANOPTES "makes extensive use of the Astropy package"
+Astropy has been accepted to the Astrophysics Source Code Library – Starship Asterisk*
+
+Video sources
+There are several videos recorded in seminars and conferences. These are intended to help beginners learn how Astropy works. The .Astronomy 4 meeting (9–11 July 2012) held a session on Astropy.
+
+Core functionality
+Core data structures and operations
+
+Generalized container classes for representing gridded and tabular data as multidimensional arrays or tables
+Unit and physical quantity conversions
+Physical constants specific to astronomy
+Celestial coordinate and time transformations
+World coordinate system (WCS) support, implementing PyWCS, the Python wrapper to WCSLIB. WCSLIB is a C library which implements the WCS standard in the Flexible Image Transport System (FITS) standard.
+File I/O
+
+FITS files, implementing the former standalone PyFITS interface
+Virtual Observatory (VO) tables
+Common ASCII table formats, e.g. for online catalogues or data supplements of scientific publications
+Hierarchical Data Format (HDF5) files
+Computational utilities
+
+Framework for cosmological transformations and conversions
+Toolset for statistical analyses
+
+Affiliated packages
+A major part of the Astropy project is the concept of "affiliated packages”. An affiliated package is an astronomy-related Python package that is not part of the astropy core but has been suggested for inclusion as part of the project’s community. Such packages are intended to improve reuse, interoperability, and interface standards for Python astronomy and astrophysics packages.
+Current affiliated packages include:
+
+montage-wrapper
+ginga
+APLpy
+astroML: tools for machine learning and data mining in astronomy
+Astropysics: library of IDL astronomy routines converted to Python.
+astroplan: observation planning for astronomers
+A few additional affiliated packages are currently in development, including:
+
+photutils: photometry tools
+astroquery: online database querying
+specutils: spectroscopic analysis utilities
+kcorrect: Python bindings to kcorrect code of Blanton et al. 2007
+gammapy: A high level gamma-ray astronomy data analysis package
+
+See also
+List of numerical analysis software
+Planetarium software
+List of observatory software
+
+References
+External links
+Official website
+GitHub repository
+Scipy2013 presentation video
+ADASS Poster abstract
+MPIK Astropy workshop
+Topical software – scipy.org
+
+Publications
+Books and scientific publications citing Astropy
+
+Tollerud, E. J.; Greenfield, P. E.; Robitaille, T. P. (2013). "Astropy: A community Python package for astronomy". ASP Conference Series. 475: 241. Bibcode:2013ASPC..475..241T.
+Simpson, Robert A.; et al. (2013). "Unproceedings of the Fourth .Astronomy Conference, Heidelberg, Germany, July 9–11 2012". arXiv:1301.5193 astro-ph.IM.
+Allen, A.; et al. (2013). "Bring out your codes! Bring out your codes! (Increasing Software Visibility and Re-use)". ASP Conference Series. 475: 383. arXiv:1212.1915. Bibcode:2013ASPC..475..383A.

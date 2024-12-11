@@ -1,0 +1,41 @@
+47
+Actinomycetota
+The Actinomycetota (or Actinobacteria) are a diverse phylum of Gram-positive bacteria with high GC content. They can be terrestrial or aquatic. They are of great importance to land flora because of their contributions to soil systems. In soil they help to decompose the organic matter of dead organisms so the molecules can be taken up anew by plants. While this role is also played by fungi, Actinomycetota are much smaller and likely do not occupy the same ecological niche. In this role the colonies often grow extensive mycelia, as fungi do, and the name of an important order of the phylum, Actinomycetales (the actinomycetes), reflects that they were long believed to be fungi. Some soil actinomycetota (such as Frankia) live symbiotically with the plants whose roots pervade the soil, fixing nitrogen for the plants in exchange for access to some of the plant's saccharides. Other species, such as many members of the genus Mycobacterium, are important pathogens.
+Beyond the great interest in Actinomycetota for their soil role, much is yet to be learned about them. Although currently understood primarily as soil bacteria, they might be more abundant in fresh waters. Actinomycetota is one of the dominant bacterial phyla and contains one of the largest of bacterial genera, Streptomyces. Streptomyces and other actinomycetota are major contributors to biological buffering of soils. They are also the source of many antibiotics.
+The Actinomycetota genus Bifidobacterium is the most common bacteria in the microbiome of human infants. Although adults have fewer bifidobacteria, intestinal bifidobacteria help maintain the mucosal barrier and reduce lipopolysaccharide in the intestine.
+Although some of the largest and most complex bacterial cells belong to the Actinomycetota, the group of marine Actinomarinales has been described as possessing the smallest free-living prokaryotic cells.
+Some Siberian or Antarctic Actinomycetota are said to be the oldest living organism on Earth, frozen in permafrost at around half a million years ago. The symptoms of life were detected by CO2 release from permafrost samples 640 kya or younger.
+
+General
+Most Actinomycetota of medical or economic significance are in class Actinomycetia, and belong to the order Actinomycetales. While many of these cause disease in humans, Streptomyces is notable as a source of antibiotics.
+Of those Actinomycetota not in the Actinomycetales, Gardnerella is one of the most researched. Classification of Gardnerella is controversial, and MeSH catalogues it as both a Gram-positive and Gram-negative organism.
+Actinomycetota, especially Streptomyces spp., are recognized as the producers of many bioactive metabolites that are useful to humans in medicine, such as antibacterials, antifungals, antivirals, antithrombotics, immunomodifiers, antitumor drugs, and enzyme inhibitors; and in agriculture, including insecticides, herbicides, fungicides, and growth-promoting substances for plants and animals. Actinomycetota-derived antibiotics that are important in medicine include aminoglycosides, anthracyclines, chloramphenicol, macrolide, tetracyclines, etc.
+Actinomycetota have high guanine and cytosine content in their DNA. The G+C content of Actinomycetota can be as high as 70%, though some may have a low G+C content.
+Analysis of glutamine synthetase sequence has been suggested for phylogenetic analysis of the Actinomycetota.
+
+Phylogeny
+Taxonomy
+The currently accepted taxonomy is based on the List of Prokaryotic names with Standing in Nomenclature (LPSN) and National Center for Biotechnology Information (NCBI).
+
+Class ?"Syntrophaliphaticia" corrig. Liu et al. 2020
+Class "Aquicultoria" Jiao et al. 2021
+Class "Geothermincolia" Jiao et al. 2021
+Class "Humimicrobiia" Jiao et al. 2021
+Class Acidimicrobiia Norris 2013
+Class Actinomycetia (Stackebrandt et al. 1997) Salam et al. 2020 (Nitriliruptoria Ludwig et al. 2013)
+Subclass Actinobacteridae Stackebrandt, Rainey & Ward-Rainey 1997
+Subclass Nitriliruptoridae Kurahashi et al. 2010
+Class Coriobacteriia König 2013
+Class Rubrobacteria Suzuki 2013
+Class Thermoleophilia Suzuki and Whitman 2013
+
+See also
+List of bacteria genera
+List of bacterial orders
+List of bacterial vaginosis microbiota
+
+References
+Further reading
+External links
+
+Actinomycetes genome database

@@ -1,0 +1,75 @@
+833
+Basic4GL
+Basic4GL (B4GL; from Basic for openGL) is an interpreted, open source version of the [BASIC](748) programming language which features support for 3D computer graphics using OpenGL. While being interpreted, it is also able to compile programs on top of the virtual machine to produce standalone executable programs.
+It uses a syntax similar to traditional dialects of [BASIC](748) and features an IDE and a very thorough and comprehensive debugger.
+Basic4GL is not designed to compete with programming languages such as [C++](640); it was intended to replace older languages such as QBasic or GFA [BASIC](748).
+Basic4GL features the usual commands that you would expect to find in a version of [BASIC](748) such as...
+
+PRINT
+INPUT
+GOSUB
+It also includes a few features that C programmers will be familiar with, such as support for pointers, structures and most importantly the entire OpenGL v1.1 API.
+
+History
+Tom Mulgrew created Basic4GL from a desire to be able to run OpenGL functions easily and quickly, without all of the setup normally required in a language such as c++ and be more stable. He built a virtual machine similar to one used at his workplace. It started simply, with few OpenGL functions and minimal other functionality. The first version was relatively popular.
+The first version was named GLBasic, which also happens to be a commercial programming language. The issue was civilly resolved, and Mulgrew's project renamed Basic4GL.
+Mulgrew set himself the goal to expand Basic4GL to the point that it could load and display and MD2 model.
+
+Versions
+2.3.0 - Added networking capability
+2.3.5 - Support for code compilation at runtime
+2.4.2 - Changed sound system from OpenAL to Audiere
+2.4.3 - Support for Plugin DLLs added
+2.5.0 - Support for functions added
+2.5.8 - Support for hexadecimal numbers
+
+Versions
+Basic4GL was designed to run on the Windows operating system, but versions were being developed for Linux and Mac OS. Meanwhile, Gambas also features an OpenGL 2.1 component, with GL bindings also available for Free[BASIC](748) and QB64.
+
+Basic4GL for Linux
+Basic4GL was being ported over to Linux. The major difference between Basic4GL for Windows and the attempted Linux version is that it uses the SDL library rather than Windows specific libraries to initialize an OpenGL enabled window.
+
+Basic4GL for Mac
+A version for Mac OS was also under development. No working versions have been released.
+
+Basic4SDL
+Based on the Linux build, a project to create an extended version of Basic4GL that wraps more closely to the SDL library (not to be confused with SDLBasic).
+
+Basic4Games
+A successor to Basic4GL was also being developed dubbed "Basic4Games". Only one preview has been released.
+
+Basic4GLj
+A port of the language to the Java virtual machine.
+
+Example code
+When the above code is entered into Basic4GL and executed, the following is output to the monitor screen.
+
+Hello 0
+Hello 1
+Hello 2
+Hello 3
+Hello 4
+
+Features
+Support for sound and music
+When Basic4GL was first released it could only play sounds but in 2006 support for music was added using the Open Al sound engine but later replaced with Audiere.
+
+Functions and subroutines
+When Basic4GL was first released it had no support for functions. That changed however when version 2.5.0 was released in January 2008. Now Basic4GL has full support for local variables, parameters, forward declaration and recursion.
+
+Plugins
+In August 2006 support for Plugin DLLs was added to Basic4GL. This means that you can write your own commands and include them in the Basic4GL programming language, all you need is a [C++](640) [Compiler](662). Plugins expand the capabilities of Basic4GL and many
+exist, providing such things as physics engines, TrueType Fonts, collision detection etc.
+
+SourceForge
+Both Basic4GL for Windows and the new Linux version have been placed on SourceForge, this means that people are free to develop the languages and make improvements to them.
+
+See also
+References
+External links
+Official website
+"Basic4GL for Linux". Archived from the original on September 19, 2012. Retrieved January 3, 2007.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
+"Basic4GL wikispace". Archived from the original on September 14, 2008. Retrieved January 4, 2007.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
+Basic4Games on SourceForge
+Basic4SDL - Linux on SourceForge
+Audiere Audio System on SourceForge

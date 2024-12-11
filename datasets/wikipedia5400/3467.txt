@@ -1,0 +1,343 @@
+3467
+Archibald Hill
+Archibald Vivian Hill  (26 September 1886 – 3 June 1977), better known to friends and colleagues as A. V. Hill, was a British physiologist, one of the founders of the diverse disciplines of biophysics and operations research. He shared the 1922 Nobel Prize in Physiology or Medicine for his elucidation of the production of heat and mechanical work in muscles.
+
+Biography
+Born in [Bristol](1441), he was educated at Blundell's School and graduated from Trinity College, [Cambridge](2213) as third wrangler in the mathematics tripos before turning to physiology. While still an undergraduate at Trinity College, he derived in 1909 what came to be known as the Langmuir equation. 
+This is closely related to Michaelis–Menten kinetics. In this paper, Hill's first publication, he derived both the equilibrium form of the Langmuir equation, and also the exponential approach to equilibrium. The paper, written under the supervision of John Newport Langley, is a landmark in the history of receptor theory, because the context for the derivation was the binding of nicotine and curare to the "receptive substance" at the neuromuscular junction.
+While a student he had enrolled in the Officers Training Corps; he was a crack shot. In 1914, at the outbreak of the First World War, Hill became the musketry officer of the [Cambridge](2213)shire Regiment.
+At the end of 1915, while home on leave he was asked by Horace Darwin from the Ministry of Munitions to come for a day to advise them on how to train anti-aircraft gunners. On site, Hill immediately proposed a simple two mirror method to determine airplanes' heights. Transferred to Munitions, he realized that the mirrors could measure where smoke shells burst and if he fitted this data with the equations describing a shell's flight they could provide accurate range tables for anti-aircraft guns.  To measure and compute he assembled the Anti-Aircraft Experimental Section, a team of men too old for conscription, Ralph H. Fowler (a wounded officer), and lads too young for service including Douglas Hartree, Arthur Milne and James Crowther. Someone dubbed his motley group "Hill's Brigands", which they proudly adopted. Later in the war they also worked on locating enemy planes from their sound. He sped between their working sites on his beloved motorcycle. At the end of the war, Major Hill issued certificates to more than one hundred Brigands. He was appointed an Officer of the Order of the British Empire (OBE).
+In 1923, he succeeded Ernest Starling as professor of physiology at University College London, a few years later becoming a Royal Society Research professor there, where he remained until retirement in 1951. In 1933, he became with William Beveridge and Lord Rutherford a founder member and vice-president of the Academic Assistance Council (which in 1936 became the Society for the Protection of Science and Learning). By the start of the Second World War, the organisation had saved 900 academics (18 of whom went on to win Nobel Prizes) from Nazi persecution. He prominently displayed in his laboratory a toy figure of Adolf Hitler with saluting arm upraised, which he explained was in gratitude for all the scientists Germany had expelled, some of whom were now working with him. Hill believed that "Laughter is the best detergent for nonsense".
+In 1935, he served with Patrick Blackett and Sir Henry Tizard on the committee that gave birth to radar. He was also biological secretary of the Royal Society; William Henry Bragg was president. Both had been frustrated by the delay in putting scientists to work in the previous war. The Royal Society collated a list of scientists and Hill represented the Society at the Ministry of Labour. When the war came Hill led a campaign to liberate refugee scientists who had been interned. He served as an independent Member of Parliament (MP) for [Cambridge](2213) University from 1940 to 1945. In 1940, he was posted to the British Embassy in Washington to promote war research in the still neutral United States. He was authorized to swap secrets with the Americans, but this could not work: how do you place a value on another's secret? Hill saw the answer and persuaded the British to show the Americans everything they were working on (except for the atomic bomb). The mobilization of Allied scientists was one of the major successes in the war.
+He visited India between November 1943 and April 1944 to survey scientific and technological research. His suggestions influenced the establishment of the Indian Institutes of Technology (IITs) in the following decade.
+After the war he rebuilt his laboratory at University College and vigorously carried on research. In 1951, his advocacy was rewarded by the establishment of a Biophysics Department under his leadership. 
+In 1952, he became head of the British Association for the Advancement of Science and Secretary General of the International Council of Scientific Unions. He was President of the Marine Biological Association from 1955 to 1960. In 1967, he retired to [Cambridge](2213) where he gradually lost the use of his legs. He died "held in the greatest affection by more than a hundred scientific descendants all over the world".
+
+Cooperativity of protein binding and enzyme kinetics
+Although Hill's work in muscle physiology is probably the most important, and certainly responsible for his Nobel Prize, he is also very well known in biochemistry for the Hill equation, which is used to quantify binding of oxygen to haemoglobin, written here as a kinetic equation:
+
+  
+    
+      
+        v
+        =
+        V
+        
+          
+            
+              a
+              
+                h
+              
+            
+            
+              
+                K
+                
+                  0.5
+                
+                
+                  h
+                
+              
+              +
+              
+                a
+                
+                  h
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle v=V{\frac {a^{h}}{K_{0.5}^{h}+a^{h}}}}
+  
+
+Here 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is the rate of reaction at concentration 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ of substrate, 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ is the rate at saturation,  
+  
+    
+      
+        
+          
+            K
+            
+              0.5
+            
+          
+        
+      
+    
+    {\displaystyle {K_{0.5}}}
+  
+ is the value of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ that gives 
+  
+    
+      
+        v
+        =
+        0.5
+        V
+      
+    
+    {\displaystyle v=0.5V}
+  
+, and the exponent 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ is a parameter that expresses the degree of departure from Michaelis–Menten kinetics: positive cooperativity for 
+  
+    
+      
+        h
+        >
+        1
+      
+    
+    {\displaystyle h>1}
+  
+, no cooperativity for 
+  
+    
+      
+        h
+        =
+        1
+      
+    
+    {\displaystyle h=1}
+  
+, and negative cooperativity for 
+  
+    
+      
+        h
+        <
+        1
+      
+    
+    {\displaystyle h<1}
+  
+. Note that there is no implication that 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ is an integer, and in most experimental cases, apart from the trivial case of 
+  
+    
+      
+        h
+        =
+        1
+      
+    
+    {\displaystyle h=1}
+  
+, it is not. Although many authors use 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ or 
+  
+    
+      
+        
+          
+            n
+            
+              
+                H
+              
+            
+          
+        
+      
+    
+    {\displaystyle {n_{\mathrm {H} }}}
+  
+ rather than  
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ these symbols are misleading if taken to imply that it shows the number of binding sites on the protein. Hill himself avoided any such interpretation.
+The equation can be rearranged as follows:
+
+  
+    
+      
+        ln
+        ⁡
+        
+        v
+        
+          /
+        
+        (
+        V
+        −
+        v
+        )
+        
+        =
+        h
+        ln
+        ⁡
+        a
+        −
+        h
+        ln
+        ⁡
+        
+          K
+          
+            0.5
+          
+        
+      
+    
+    {\displaystyle \lnv/(V-v)=h\ln a-h\ln K_{0.5}}
+  
+
+This shows that when the Hill equation is accurately obeyed  a plot of 
+  
+    
+      
+        ln
+        ⁡
+        
+        v
+        
+          /
+        
+        (
+        V
+        −
+        v
+        )
+        
+      
+    
+    {\displaystyle \lnv/(V-v)}
+  
+ gives a straight line of slope 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+. This is called a Hill plot. In practice the line is uually not straght, and is curved at the extremes.
+
+Muscle physiology
+Hill made many exacting measurements of the heat released when skeletal muscles contract and relax. A key finding was that heat is produced during contraction, which requires investment of chemical energy, but not during relaxation, which is passive. His earliest measurements used equipment left behind by the Swedish physiologist Magnus Blix, Hill measured a temperature rise of only 0.003 °C. After publication he learned that German physiologists had already reported on heat and muscle contraction and he went to Germany to learn more about their work. He continually improved his apparatus to make it more sensitive and to reduce the time lag between the heat released by the preparation and its recording by his thermocouple. 
+Hill is regarded, along with Hermann Helmholtz, as one of the founders of biophysics.
+Hill returned briefly to [Cambridge](2213) in 1919 before taking the chair in physiology at the Victoria University of Manchester in 1920 in succession to William Stirling. Using himself as the subject — he ran every morning from 7:15 to 10:30 — he showed that running a dash relies on energy stores which afterwards are replenished by increased oxygen consumption. Paralleling the work of German Otto Fritz Meyerhof, Hill elucidated the processes whereby mechanical work is produced in muscles. The two shared the 1922 Nobel Prize in Physiology and Medicine for this work. Hill introduced the concepts of maximal oxygen uptake and oxygen debt in 1922.
+
+Personal life
+In 1913, he married Margaret Neville Keynes (1885-1974), daughter of the economist John Neville Keynes, and sister of the economist John Maynard Keynes and the surgeon Geoffrey Keynes. They had two sons and two daughters:
+
+Polly Hill (1914–2005), economist, married K.A.C. Humphreys, registrar of the West African Examinations Council.
+David Keynes Hill (1915–2002), physiologist, married Stella Mary Humphrey
+Maurice Hill (1919–1966), oceanographer, married Philippa Pass
+Janet Hill (1918–2000) child psychiatrist, married the immunologist John Herbert Humphrey.
+
+Honors and awards
+Officer of the Order of the British Empire (1918)
+Fellow of the Royal Society (1918)
+Nobel Prize in Physiology or Medicine (1922)
+In 1926, he was invited to deliver the Royal Institution Christmas Lecture on Nerves and Muscles: How We Feel and Move.
+International Honorary Member of the [American Academy of Arts and Sciences](3132) (1934)
+International Member of the [American Philosophical Society](3133) (1938)
+Associate Fellow in the National Academy of Kinesiology (1938)
+International Member of the United States National Academy of Sciences (1941)
+Member of the Order of the Companions of Honour (1946)
+Copley Medal of the Royal Society (1948)
+President of the British Association (1952)
+
+Blue plaque
+On 9 September 2015, an English Heritage Blue plaque was erected at Hill's former home, 16 Bishopswood Road, Highgate, where he had lived from 1923 to 1967. Since then the house had been divided into flats and owned by Highgate School, where Hill was a Governor from 1929 to 1960. It has now been sold, redeveloped and renamed as Hurstbourne. In Hill's time, according to his grandson Nicholas Humphrey, regular guests at the house included 18 exiled Nobel laureates, his brother-in-law, the economist John Maynard Keynes, and also friends as diverse and unexpected as Sigmund Freud and Stephen Hawking, he met during the course of his long and extraordinary life. After-dinner conversations in the drawing room would inevitably involve passionate debates about science or politics. "Every Sunday we would have to attend a tea party at grandpa’s house and apart from entertaining some extraordinary guests, he would devise some great games for us, such as frog racing in the garden or looking through the lens of a (dissected) sheep’s eye". Sir Ralph Kohn FRS who proposed the Blue plaque, said: "The Nobel Prize winner A. V. Hill contributed vastly to our understanding of muscle physiology. His work has resulted in wide-ranging application in sports medicine. As an outstanding Humanitarian and Parliamentarian, he was uncompromising in his condemnation of the Nazi regime for its persecution of scientists and others. A. V. Hill played a crucial role in assisting and rescuing many refugees to continue their work in this country".
+
+Publications by Hill
+Gray, C. H. (1947). "The significance of the van den Bergh reaction". The Quarterly Journal of Medicine. 16 (63): 135–142. PMID 20263725.
+Hill, A. V.; Long, C. N. H.; Lupton, H. (1924). "Muscular Exercise, Lactic Acid, and the Supply and Utilisation of Oxygen". Proceedings of the Royal Society B: Biological Sciences. 96 (679): 438–475. doi:10.1098/rspb.1924.0037.
+Hill, A.V. (1924–1925). Textbook of Anti-Aircraft Gunnery, 2 volumes.
+Hill, A. V. (April 1926). "The scientific study of athletics". Scientific American. 224 (4): 224–225. Bibcode:1926SciAm.134..224H. doi:10.1038/scientificamerican0426-224.
+Hill, A. V. (1926a). Muscular Activity. Philadelphia: University of Pennsylvania Press. ISBN 978-0-8493-5494-6.
+Hill, A. V. (1926b). Muscular Activity: Herter Lectures – Sixteenth Course. Baltimore: Williams & Wilkins Company.
+Hill, A.V. (1927a). Muscular Movement in Man.
+Hill, A.V. (1927b). Living Machinery.
+Hill, A. V. (1928). "Myothermic apparatus". Proceedings of the Royal Society B: Biological Sciences. 103 (723): 117–137. Bibcode:1928RSPSB.103..117H. doi:10.1098/rspb.1928.0029.
+Hill, A. V. (1931). Adventures in Biophysics. Philadelphia: University of Pennsylvania Press.
+Hill, A.V. (1932). Chemical Wave Transmission in Nerve.
+Hill, A. V. (1960). The Ethical Dilemma of Science, and Other Writings. New York: Rockefeller Institute Press.
+Hill, A. V. (1965). Trails and Trials in Physiology: A Bibliography, 1909–1964; with reviews of certain topics and methods and a reconnaissance for further research. London: Arnold.
+
+References
+Sources
+Lusk, G. (1925). Lectures on nutrition: 1924–1925. Philadelphia: W.B. Saunders Company.
+Medawar, Jean; Pyke, David (2012). Hitler's Gift: The True Story of the Scientists Expelled by the Nazi Regime (Paperback). New York: Arcade Publishing. ISBN 978-1-61145-709-4.
+Stevenson, L.G. (1953). Nobel Prize Winners in Medicine and Physiology: 1901–1950. New York: Henry Schuman.
+Archibald V. Hill on Nobelprize.org
+
+External links
+The Papers of A. V. Hill held at Churchill Archives Centre

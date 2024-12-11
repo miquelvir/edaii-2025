@@ -1,0 +1,92 @@
+880
+Callback (computer programming)
+In computer programming, a callback is a function that is stored as data (a reference) and designed to be called by another function – often back to the original abstraction layer.
+A function that accepts a callback parameter may be designed to call back before returning to its caller which is known as synchronous or blocking. The function that accepts a callback may be designed to store the callback so that it can be called back after returning which is known as asynchronous, non-blocking or deferred.
+Programming languages support callbacks in different ways such as function pointers, lambda expressions and blocks.
+
+Analogy
+To aid understanding the concept, the following is an analogy from real life.
+A customer visits a store to place an order. This is like the first call.
+The customer gives to a clerk a list of items, a check to cover their cost and delivery instructions. These are the parameters of the first call including the callback which is the delivery instructions. It is understood that the check will be cashed and that the instructions will be followed.
+When the staff are able, they deliver the items as instructed which is like calling the callback.
+Notably, the delivery need not be made by the clerk who took the order. A callback need not be called by the function that accepted the callback as a parameter. 
+Also, the delivery need not be made directly to the customer. A callback need not be to the calling function. In fact, a function would generally not pass itself as a callback.
+Some find the use of back to be misleading since the call is (generally) not back to the original caller as it is for a telephone call.
+
+Use
+A blocking callback runs in the execution context of the function that passes the callback. A deferred callback can run in a different context such as during interrupt or from a thread. As such, a deferred callback can be used for synchronization and delegating work to another thread.
+
+Event handling
+A callback can be used for event handling. Often, consuming code registers a callback for a particular type of event. When that event occurs, the callback is called.
+Callbacks are often used to program the graphical user interface (GUI) of a program that runs in a windowing system. The application supplies a reference to a custom callback function for the windowing system to call. The windowing system calls this function to notify the application of events like mouse clicks and key presses.
+
+Asynchronous action
+A callback can be used to implement asynchronous processing. A caller requests an action and provides a callback to be called when the action completes which might be long after the request is made.
+
+Polymorphism
+A callback can be used to implement polymorphism. In the following pseudocode, SayHi can take either WriteStatus or WriteError.
+
+Conditional action
+A callback can be used to implement conditional behavior. In the following pseudocode, if logging is enabled, Log calls the callback, getMessage, and writes the result. But, if logging is not enabled, then getMessage is not called; saving the runtime cost.
+
+Implementation
+The callback technology is implemented differently by programming language.
+In assembly, C, [C++](640), Pascal, Modula2 and other languages, a callback function is stored internally as a function pointer. Using the same storage allows different languages to directly share callbacks without a design-time or runtime interoperability layer. For example, the Windows API is accessible via multiple languages, compilers and assemblers.
+[C++](640) also allows objects to provide an implementation of the function call operation. The Standard Template Library accepts these objects (called functors) as parameters.
+Many dynamic languages, such as JavaScript, Lua, Python, Perl and PHP, allow a function object to be passed.
+CLI languages such as C# and VB.NET provide a type-safe encapsulating function reference known as delegate.
+Events and event handlers, as used in .NET languages, provide for callbacks.
+Functional languages generally support first-class functions, which can be passed as callbacks to other functions, stored as data or returned from functions.
+Many languages, including Perl, Python, Ruby, Smalltalk, [C++](640) (11+), C# and VB.NET (new versions) and most functional languages, support lambda expressions, unnamed functions with inline syntax, that generally acts as callbacks..
+In some languages, including Scheme, ML, JavaScript, Perl, Python, Smalltalk, PHP (since 5.3.0), [C++](640) (11+), Java (since 8), and many others, a lambda can be a closure, i.e. can access variables locally defined in the context in which the lambda is defined.
+In an object-oriented programming language such as Java versions before function-valued arguments, the behavior of a callback can be achieved by passing an object that implements an interface. The methods of this object are callbacks.
+In PL/I and ALGOL 60 a callback procedure may need to be able to access local variables in containing blocks, so it is called through an entry variable containing both the entry point and context information.
+
+Example code
+C
+Callbacks have a wide variety of uses, for example in error signaling: a Unix program might not want to terminate immediately when it receives SIGTERM, so to make sure that its termination is handled properly, it would register the cleanup function as a callback. Callbacks may also be used to control whether a function acts or not: Xlib allows custom predicates to be specified to determine whether a program wishes to handle an event.
+In the following C code, function PrintNumber uses parameter getNumber as a blocking callback. PrintNumber is called with GetAnswerToMostImportantQuestion which acts as a callback function. When run the output is: "Value: 42".
+
+[C++](640)
+In [C++](640), functor can be used in addition to function pointer.
+
+C#
+In the following C# code, 
+method Helper.Method uses parameter callback as a blocking callback. Helper.Method is called with Log which acts as a callback function. When run, the following is written to the console: "Callback was: Hello world".
+
+Kotlin
+In the following Kotlin code, function askAndAnswer uses parameter getAnswer as a blocking callback. askAndAnswer is called with getAnswerToMostImportantQuestion which acts as a callback function. Running this will tell the user that the answer to their question is "42".
+
+JavaScript
+In the following JavaScript code, function calculate uses parameter operate as a blocking callback. calculate is called with multiply and then with sum which act as callback functions.
+
+The collection method .each() of the jQuery library uses the function passed to it as a blocking callback. It calls the callback for each item of the collection. For example:
+
+Deferred callbacks are commonly used for handling events from the user, the client and timers. Examples can be found in addEventListener, Ajax and XMLHttpRequest.
+ 
+In addition to using callbacks in JavaScript source code, C functions that take a function are supported via js-ctypes.
+
+Red and REBOL
+The following REBOL/Red code demonstrates callback use.
+
+As alert requires a string, form produces a string from the result of calculate
+The get-word! values (i.e., :calc-product and :calc-sum) trigger the interpreter to return the code of the function rather than evaluate with the function.
+The datatype! references in a block! float! integer! restrict the type of values passed as arguments.
+
+Lua
+A color tweening example using the Roblox engine that takes an optional .done callback:
+
+Python
+In the following Python code, function calculate accepts a parameter operate that is used as a blocking callback. calculate is called with square which acts as a callback function.
+
+Julia
+In the following Julia code, function calculate accepts a parameter operate that is used as a blocking callback. calculate is called with square which acts as a callback function.
+
+See also
+References
+External links
+Basic Instincts: Implementing Callback Notifications Using Delegates - MSDN Magazine, December 2002
+Implement callback routines in Java
+Implement Script Callback Framework in ASP.NET 1.x - Code Project, 2 August 2004
+Interfacing [C++](640) member functions with C libraries (archived from the original on July 6, 2011)
+Style Case Study #2: Generic Callbacks

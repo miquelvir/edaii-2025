@@ -1,0 +1,67 @@
+652
+Duplicate code
+In computer programming, duplicate code is a sequence of source code that occurs more than once, either within a program or across different programs owned or maintained by the same entity. Duplicate code is generally considered undesirable for a number of reasons. A minimum requirement is usually applied to the quantity of code that must appear in a sequence for it to be considered duplicate rather than coincidentally similar. Sequences of duplicate code are sometimes known as code clones or just clones, the automated process of finding duplications in source code is called clone detection.
+Two code sequences may be duplicates of each other without being character-for-character identical, for example by being character-for-character identical only when white space characters and comments are ignored, or by being token-for-token identical, or token-for-token identical with occasional variation. Even code sequences that are only functionally identical may be considered duplicate code.
+
+Emergence
+Some of the ways in which duplicate code may be created are:
+
+copy and paste programming, which in academic settings may be done as part of plagiarism
+scrounging, in which a section of code is copied "because it works". In most cases this operation involves slight modifications in the cloned code, such as renaming variables or inserting/deleting code. The language nearly always allows one to call one copy of the code from different places, so that it can serve multiple purposes, but instead the programmer creates another copy, perhaps because they
+do not understand the language properly
+do not have the time to do it properly, or
+do not care about the increased active software rot.
+It may also happen that functionality is required that is very similar to that in another part of a program, and a developer independently writes code that is very similar to what exists elsewhere. Studies suggest that such independently rewritten code is typically not syntactically similar.
+Automatically generated code, where having duplicate code may be desired to increase speed or ease of development, is another reason for duplication. Note that the actual generator will not contain duplicates in its source code, only the output it produces.
+
+Fixing
+Duplicate code is most commonly fixed by moving the code into its own unit (function or module) and calling that unit from all of the places where it was originally used. Using a more open-source style of development, in which components are in centralized locations, may also help with duplication.
+
+Costs and benefits
+Code which includes duplicate functionality is more difficult to support because,
+
+it is simply longer, and
+if it needs updating, there is a danger that one copy of the code will be updated without further checking for the presence of other instances of the same code.
+On the other hand, if one copy of the code is being used for different purposes, and it is not properly documented, there is a danger that it will be updated for one purpose, but this update will not be required or appropriate to its other purposes.
+These considerations are not relevant for automatically generated code, if there is just one copy of the functionality in the source code.
+In the past, when memory space was more limited, duplicate code had the additional disadvantage of taking up more space, but nowadays this is unlikely to be an issue.
+When code with a software vulnerability is copied, the vulnerability may continue to exist in the copied code if the developer is not aware of such copies. 
+Refactoring duplicate code can improve many software metrics, such as lines of code, cyclomatic complexity, and coupling. This may lead to shorter compilation times, lower cognitive load, less human error, and fewer forgotten or overlooked pieces of code. However, not all code duplication can be refactored. 
+Clones may be the most effective solution if the programming language provides inadequate or overly complex abstractions, particularly if supported with user interface techniques such as simultaneous editing. Furthermore, the risks of breaking code when refactoring may outweigh any maintenance benefits.
+ 
+A study by Wagner, Abdulkhaleq, and Kaya concluded that while additional work must be done to keep duplicates in sync, if the programmers involved are aware of the duplicate code there weren't significantly more faults caused than in unduplicated code.
+
+Detecting duplicate code
+A number of different algorithms have been proposed to detect duplicate code. For example:
+
+Baker's algorithm.
+Rabin–Karp string search algorithm.
+Using abstract syntax trees.
+Visual clone detection.
+Count matrix clone detection.
+Locality-sensitive hashing
+Anti-unification
+
+Example of functionally duplicate code
+Consider the following code snippet for calculating the average of an array of integers
+
+The two loops can be rewritten as the single function:
+
+or, usually preferably, by parameterising the number of elements in the array.
+Using the above function will give source code that has no loop duplication:
+
+Note that in this trivial case, the compiler may choose to inline both calls to the function, such that the resulting machine code is identical for both the duplicated and non-duplicated examples above. If the function is not inlined, then the additional overhead of the function calls will probably take longer to run (on the order of 10 processor instructions for most high-performance languages). Theoretically, this additional time to run could matter.
+
+See also
+Abstraction principle (programming)
+Anti-pattern
+Data deduplication
+Don't repeat yourself (DRY)
+List of tools for static code analysis
+Redundant code
+Rule of three (computer programming)
+
+References
+External links
+The University of Alabama at Birmingham: Code Clones Literature
+Finding duplicate code in C#, VB.Net, ASPX, Ruby, Python, Java, C, C++, ActionScript, or XAML

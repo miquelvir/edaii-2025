@@ -1,0 +1,25 @@
+2848
+Flavonols
+Flavonols are a class of flavonoids that have the 3-hydroxyflavone backbone (IUPAC name: 3-hydroxy-2-phenylchromen-4-one). Their diversity stems from the different positions of the phenolic –OH groups. They are distinct from flavanols (with "a") such as catechin, another class of flavonoids, and an unrelated group of metabolically important molecules, the flavins (with "i"), derived from the yellow B vitamin riboflavin. 
+Flavonols are present in a wide variety of fruits and vegetables. In Western populations, estimated daily intake is in the range of 20–50 mg per day for flavonols. Individual intake varies depending on the type of diet consumed.
+The phenomenon of dual fluorescence (due to excited state intramolecular proton transfer or ESIPT) is induced by tautomerism of flavonols (and glucosides) and could contribute to plant UV protection and flower colour.
+Besides being a subclass of flavonoids, flavonols are suggested by a study of cranberry juice to play a role along with proanthocyanidins, in the juice's ability to block bacterial adhesion, demonstrated by the compressing the fimbria of E. coli bacteria in the urinary tract so as to greatly reduce the ability of those bacteria to stay put and initiate an infection. Flavonol aglycones in plants are potent antioxidants that serve to protect the plant from reactive oxygen species (ROS).
+
+Flavonols
+Flavonol glycosides
+Drug interactions
+[Flavonoid](2847)s have effects on CYP (P450) activity. Flavonols are inhibitor of CYP2C9 and CYP3A4, which are enzymes that metabolize most drugs in the body.
+
+Technological uses
+A 2013 study showed that it is possible by optical methods to quantify the flavonol accumulation in some fruit and thus to sort fruit according to fruit quality and storage durability.
+
+Effects on health
+A 2022 study indicated an association between consumption of flavonols (found in food) and a lower rate of decline of cognitive ability, including memory.
+
+See also
+Phenolic compounds in wine
+Algar–Flynn–Oyamada reaction
+
+References
+External links
+ Media related to Flavonols at Wikimedia Commons

@@ -1,0 +1,88 @@
+4478
+Bergish dialects
+Bergish (Bergisch or bergische Mundarten) is a collective name for a group of West Germanic dialects spoken in the Bergisches Land region east of the Rhine in western Germany.
+In a more narrow sense, Peter Wiesinger defined a Bergisch dialect group that includes the dialects North of Benrath line spoken to the east of the Rhine to about Essen, Mülheim and Wuppertal (except for the area around Düsseldorf). It excludes, however, Ripuarian dialects in the Bergisches Land and other varieties southeast of Wuppertal. 
+
+The name is commonly used among its speakers (who often call their local Bergisch variety simply "Platt", a common term in western and northern Germany for traditional local varieties of Low German, Low Franconian and Central German, as opposed to the standard language or regionalized varieties of the latter), but in its broadest sense, it is not of much linguistic relevance, because the varieties belong to several quite distinct groups inside the continental West Germanic dialect continuum.
+
+Classification
+Wiesinger (1975, 1983a) defined Bergisch as a dialect group spoken east of the Rhine river and being part of the "Ripuarian-Low Franconian transitional area" ("ripuarisch-niederfränkisches Übergangsgebiet", Wiesinger's term for South Low Franconian). It is set apart from neighboring dialect groups by characteristic features in the historical development of West Germanic vowels. To the south, Bergish is separated from Ripuarian (in the narrow sense) by the Benrath line. Unlike in earlier classifications, Wiesinger places the divide between Bergish (and South Low Franconian in general) and Kleverlandish/Westphalian not at the Uerdingen line, but further north. Several dialects in his Bergish area thus have ik 'I' instead of common South Low Franconian ich. In Wiesinger (1983b), the Bergish dialect group is called nordbergisch.
+Per Wiesinger, Bergish is characterized by the following features (among others):
+
+The High German split of Proto-West Germanic (PWGmc) closing diphthongs *ai – *au – *au (+ umlaut) (cf. Middle High German (MHG) ê – ô – ö̂ vs. ei – ou – öü, as in modern German Schnee 'snow' vs Stein 'stone'). This is shared with South Low Franconian dialects spoken along the Rhine and to the west of it, and with Ripuarian, but is not found in Kleverlandish and Westphalian. Most Bergish dialects retain MHG ei – ou – öü as diphthongs, in contrast to Ripuarian and South Low Franconian dialects immediately west of the Bergish area, while MHG ê – ô – ö̂ are raised to high vowels or high falling diphthongs (iː or iə/iɒ etc.) in the whole Bergish area except for a small pocket around Werden.
+Merger of PWGmc mid long vowels and diphthongs (*ê/*eo – *ô – *ô (+ umlaut) > MHG ie – uo – üe) with short high vowels that become lengthened in open syllables. Only shared with some western South Low Franconian dialects, but not with Kleverlandish, Westphalian and Ripuarian. (This merger is however found in many Central German dialects and also occurs in Standard German, e.g. tief (iː < *eo), sieben (iː < *i).) In much of the area, these sounds are realized as high falling diphthongs (iə etc.).
+Franconian tone accent. Shared with Ripuarian and western South Low Franconian. Lacking in Kleverlandish and Westphalian (except for a small area around Lüttringhausen)
+In Wiesinger (1975), he divides the Bergish area into eight groups:
+
+Central Bergish (Zentralbergisch)
+western Central Bergish (westliches Zentralbergisch; Breitscheid, Ratingen, Wülfrath, Mettmann, Erkrath)
+eastern Central Bergish (östliches Zentralbergisch; Velbert, Heiligenhaus, Nerviges, Vohwinkel)
+Oberhausen, Dümpten, Heißen, Mülheim
+Bredeney, Werden, Heisingen, Kupferdreh
+Mündelheim
+Haan, Hilden
+Gräfrath, Wald, Ohligs, Solingen, Höhscheid;
+Barmen, Elberfeld
+Ronsdorf, Cronenberg, Remscheid
+The latter seven groups are collectively termed Randbergisch ('Peripheral Bergish') by Wiesinger, without implying that they form a well-defined subgroup.
+Western Central Bergish is characterized by the merger of the MHG series ê – ô – ö̂ and ie – uo – üe to iə – uə – üə (still distinct in Eastern Central Bergish and the various Randbergisch varieties), and the retention of distinct verbal plural endings. Eastern Central Bergish shares with the Randbergisch groups Mülheim, Werden, Barmen/Elberfeld, and Remscheid the generalized plural ending -en, probably influenced by Westphalian, which has the general plural ending -t.
+The Randbergisch groups of Mülheim, Werden, and Barmen/Elberfeld are located to the northeast of the Uerdinger line. Apart from that, the Mülheim group shows no structural differences from Central Bergish, while the Werden and Barmen/Elberfeld groups differ from Central Bergish by having mid reflexes for the merged series ie – uo – üe / i – u – ü. The Remscheid group is characterized by a secondary re-merger of the split of PWGmc closing diphthongs. The Solingen and Mündelheim groups underwent influences from the south and west, respectively.
+Wiesinger further posits three transitional areas that are not included in Bergish, but display some Bergish influence:
+
+Langenberg: a Westphalian variety that largely agrees in its vocalism with the Randbergisch group of Werden, but lacks pitch accent.
+Lüttringhausen (including Lennep, Hückeswagen): a Westphalian variety that has pitch accent, but mostly agrees in its vowels with its Westphalian neighbors (e.g. closing diphthongs for PWGmc mid long vowels as in aɪ < *ê/*eo, against Bergish iː/iə/iɒ)
+Wermelskirchen:  a Ripuarian dialect that uniquely applies the High German consonant shift only to final and non-geminate medial *p/*t/*k after short vowels. For Wermelskirchen, a partially Solingen-type Bergish vowel system was documented around 1900, although it has been given up for an entirely Ripuarian vowel system in the course of the 20th century.
+The dialects of the Bergisches Land spoken to the southeast of the Bergish group (in the district Oberbergischer Kreis) are classified by Wiesinger as Ripuarian (southwest of the Benrath line, e.g. Lindlar, Waldbröl) or Westphalian (northeast of the Benrath line, e.g. Wipperfürth, Gummersbach, Bergneustadt).
+
+History of classification
+Already back in 1877, Wenker posited a Bergish dialect (bergischer Dialect) as part of the transitional dialect area (Mischmundarten) between the Uerdingen line and the Benrath line. He lists four Bergish sub-dialects:
+
+the Solinger Dialect
+the Remscheider Dialect
+the Mettmanner Dialect
+the Wülfrather Dialect
+He further notes that dialects across the Uerdingen line like Elberfeld and Lennep, have characteristics of both Bergish and Westphalian. He held the following views:
+
+"Niederrheinisch" (= Kleverlandish) including Mülheim
+Mischmundart (not Bergish) including Ratingen and Hilden
+Bergish including Wülfrath, Mettmann, Solingen and Remscheid
+Westphalian including Essen, Werden, Barmen, Elberfeld, Langenberg, Lennep, Wipperfürth, Gummersbach and Bergneustadt
+"Niederfränkisch" (= Ripuarian) including Lindlar, Waldbröl and Engelskirchen
+Mengel (1967) distinguished in a broader sense of Bergish:
+
+South Bergish dialects (südbergische Mundarten; south of the Benrath line (hence also classified as Ripuarian))
+West Bergish dialects (westbergische Mundarten; Hilden, Erkrath)
+dialect of Wermelskirchen (Mundart von Wermelskirchen; Wermelskirchen)
+Core Bergish dialects (kernbergische Mundarten; Cronenberg, Remscheid, Ronsdorf)
+Central or Middle Bergish dialects (mittelbergische Mundarten; Solingen with Höhscheid, Gräfrath, Wald and Ohligs as well as Haan)
+Low Bergish dialects (niederbergische Mundarten; Heiligenhaus, Mettmann, Gruiten, Wülfrath, Velbert, Neviges, Vohwinkel)
+northern North Bergish dialects (nördliche nordbergische Mundarten; Werden, Langenberg)
+southern North Bergish dialects (südliche nordbergische Mundarten; Elberfeld, Barmen)
+East Bergish dialects (ostbergische Mundarten; Lüttringhausen, Lennep, Hückeswagen, Wipperfürth)
+
+Classification by Cornelissen
+In a classification by Georg Cornelissen based on isoglosses, dialects of the Bergisches Land are assigned to three dialect areas: varieties between the Uerdingen line (northern ik vs. southern ich 'I') and the Benrath line (northern maken vs. southern machen 'make') are grouped as South Low Franconian (e.g. around Remscheid), varieties south of the Benrath line are classified as Ripuarian (e.g. [Bergisch Gladbach](1381)), while Ostbergisch ("East Bergish") designates a group of dialects in a long narrow stretch from Mülheim to Bergneustadt between the Uerdingen line (including its southeastern extension where it merges with the Benrath line east of Wermelskirchen) and the so-called Einheitsplurallinie (defined as the southwestern-most extension of the Westphalian generalized plural verb suffix -t).
+
+Notes
+References
+Literature
+Georg Wenker: Das rheinische Platt. 1877; 2nd ed., 1877
+Das rheinische Platt, (Sammlung deutsche Dialektgeographie Heft 8), Marburg, 1915.
+Georg Cornelissen, Peter Honnen, Fritz Langensiepen (editors): Das rheinische Platt. Eine Bestandsaufnahme. Handbuch der rheinischen Mundarten Teil 1: Texte. Rheinland-Verlag, Köln. 1989. ISBN 3-7927-0689-X
+Gustav Hermann Halbach: Bergischer Sprachschatz – Volkskundliches plattdeutsches Remscheider Wörterbuch. Remscheid 1951
+Werner Heinrichs: Bergisch Platt - Versuch einer Bestandsaufnahme, Selbstverlag, Burscheid, 1978
+Wiesinger, Peter. 1975 (2017). "Strukturgeographische und strukturhistorische Untersuchungen zur Stellung der bergischen Mundarten zwischen Ripuarisch, Niederfränkisch und Westfälisch", in: Peter Wiesinger, edited by Franz Patocka, Strukturelle historische Dialektologie des Deutschen: Strukturhistorische und strukturgeographische Studien zur Vokalentwicklung deutscher Dialekte, Georg Olms Verlag, Hildesheim / Zürich / New York, 2017, p. 341–437. Originally published in: Neuere Forschungen in Linguistik und Philologie. Aus dem Kreise seiner Schüler Ludwig Erich Schmitt zum 65. Geburtstag gewidmet, 1975, p. 17–82.
+Erich Leihener: „Cronenburger Wörterbuch“ (Deutsche Dialektgeographie, Band 2) Marburg 1908
+August Diesdrichs: Beitrag zu einem Wörterbuch der Remscheider Mundart. Remscheid, 1910.
+F. W. Oligschläger: Wörterbuch der Solinger Volkssprache
+Rudolf Picard: Solinger Sprachschatz, Wörterbuch und sprachwissenschaftliche Beiträge zur Solinger Mundart, Duisburg, 1974.
+Hermann Bredtmann: Die Velberter Mundart. Ein kurzer Abriß der Laut- und Formenlehre nebst einem Wörterverzeichnis. Wuppertal, 1938.
+Dr. Hermann Bredtmann: Die Velberter Mundart. Wuppertal-Elberfeld, 1938
+Bruno Buchrücker: Wörterbuch der Elberfelder Mundart nebst Abriß der Formenlehre und Sprachproben. Wuppertal- Elberfeld, 1910.
+Julius Leithäuser: Wörterbuch der Barmer Mundarten nebst dem Abriß der Sprachlehre. Wuppertal- Elberfeld, 1929.
+Nachträge zum Barmer Wörterbuch. Wuppertal-Elberfeld, 1936.
+Maria Loiuse Denst: Bergisches Mundart-Wörterbuch für Kürten-Olpe und Umgebung – Olper Platt. Schriftenreihe des Bergischen Geschichtsvereins Abt. Rhein-Berg e. V. Band 29. [Bergisch Gladbach](1381) 1999. ISBN 3-932326-29-6
+Theodor Branscheid (Hrsg): Oberbergische Sprachproben. Mundartliches aus Eckenhagen und Nachbarschaft. Band 1, Eckenhagen, 1927.
+
+External links
+an example of Bergish as spoken in Schöller: Wie men te Fut met der Iserbahn reist (with a typo, instead of eck it's ech again; from: Johannes Matthias Firmenich (ed.), Germaniens Völkerstimmen, vol. I, 1854, p. 438f.)

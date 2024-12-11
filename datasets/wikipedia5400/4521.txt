@@ -1,0 +1,9 @@
+4521
+Amazon Standard Identification Number
+An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization. They were designed in 1996 by Rebecca Allen, an Amazon software engineer, when it became clear that Amazon was going to sell products other than just books. The 10-character format of the ASIN was adopted so that Amazon databases and software, which were designed to expect a 10-character International Standard Book Number (ISBN) field, would not have to be changed to accommodate the new identification format.
+
+Usage and structure
+Each product on Amazon.com is given a unique ASIN. For books with a 10-digit International Standard Book Number (ISBN), the ASIN and the ISBN are the same. The Kindle edition of a book will not use its ISBN as the ASIN, although the electronic version of a book may have its own ISBN. The ASIN forms part of the URL of a product detail page on Amazon's website.
+
+
+== References ==

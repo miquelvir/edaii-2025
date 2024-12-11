@@ -1,0 +1,29 @@
+4794
+Cremunés dialect
+Cremonese (Cremunés) is a dialect of the Western Lombard dialect group spoken in the city and province of Cremona in Lombardy, Italy, with the exception of Crema and the area of Soresina, where an Eastern Lombard dialect is spoken, and the area of Casalmaggiore, where a form of Emilian closely related to Parmigiano is spoken.
+Being at the crossroad between the core areas of different Lombard varieties, Cremonese exhibits features from both Western Lombard and Eastern Lombard, and a few which are typical of dialects spoken in the nearby region of Emilia-Romagna. It is best classified within the Southwestern Lombard group of dialects.
+
+Phonology
+Vowels
+The Cremonese dialect of the Lombard language has 9 vowel qualities, which can be either phonemically long or short, without any difference in quality. 
+The following 18 phonemes occur in stressed environments: /i/ /iː/ /y/ /yː/ /e/ /eː/ /ø/ /øː/ /ɛ/ /ɛː/ /a/ /aː/ /ɔ/ /ɔː/ /o/ /oː/ /u/ /uː/. 
+Vowel length is contrastive in stressed syllables. For example, /'veːder/ glass with a long /eː/ differs from /'veder/ to see, with a short /e/. This is a reflex of the Proto-Romance rule of lengthening open syllables, which in Cremonese, has led to phonemic vowel length also being contrastive in penultimate-stressed words, as well as in monosyllabic words.
+In unstressed position, only the following 6 vowels occur: /i/ /e/ /ø/ /ɛ/ /a/ /u/.
+
+Orthography
+The publication of the Dizionario del dialetto cremonese in 1976 by the Comitato promotore di studi e ricerche di dialettologia, storia e folklore cremonese outlined an orthography for Cremonese. 
+The orthography is a follows: 
+
+a as in Italian (andàa: to go, Italian: andare)
+è for open /ɛ/ (pulèer: Italian: pollaio)
+é for closed /e/ (fradél: Italian: fratello)
+i as in Italian (finìi: Italian: finire)
+ò for open /ɔ/ (bòon: Italian: buono)
+ó for closed /o/ (fióol: Italian: ragazzo)
+u as in Italian (pùl: Italian: pollo)
+ö as in French "eu" and German "ö" (nisöön: Italian: nessuno)
+ü as in French "u" and German "ü" (paüüra: Italian: paura)
+Vowel length is represented by doubling the vowel letter, with the acute or grave diacritic removed for the second <e> and <o> letters. The umlaut diacritic however is retained across both letters, thus <öö> for /øː/ and <üü> for /yː/.
+
+
+== References ==

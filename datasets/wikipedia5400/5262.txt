@@ -1,0 +1,32 @@
+5262
+Babylonian vocalization
+The Babylonian vocalization, also known as Babylonian supralinear punctuation, or Babylonian pointing or Babylonian niqqud Hebrew: נִקּוּד בָּבְלִי‎) is a system of diacritics  (niqqud) and vowel symbols assigned above the text and devised by the Masoretes of Babylon to add to the consonantal text of the Hebrew Bible to indicate the proper pronunciation of words (vowel quality), reflecting the Hebrew of Babylon. The Babylonian notation is no longer in use in any Jewish community, having been supplanted by the sublinear Tiberian vocalization. However, the Babylonian pronunciation as reflected in that notation appears to be the ancestor of that used by Yemenite Jews.
+
+History
+The simple Babylonian vocalization system was created between the 6th and 7th centuries, while the complex system developed later. There is evidence that Babylonian Hebrew had emerged as a distinct dialect by the end of the 9th century. Babylonian Hebrew reached its peak in the 8th to 9th centuries, being used from Persia to Yemen. Under Muslim hegemony in the 10th century, the main academies disappeared and the Babylonian vocalization was replaced by the Tiberian vocalization. However, contemporary Yemenite Hebrew is thought to be the descendant of a variety of Babylonian Hebrew, as represented in the Babylonian system. The first example of the Babylonian vocalization to become known to modern scholars was a codex of the Prophets discovered in 1839 at Chufut-Kale.
+
+Description
+The Babylonian vocalization, along with the Palestinian vocalization, are known as the supralinear vocalizations because they place the vowel graphemes above the consonant letters, rather than both above and below as in the Tiberian system. As in the Palestinian vocalization, only the most important vowels are indicated.
+Two Babylonian systems developed: an earlier simple (or einfach, E) system, and a later complex (or kompliziert, K) system. The following vowel graphemes were used in the simple system:
+
+The simple system also has signs corresponding to Tiberian dagesh and rafe, though not used identically. Shva quiescens (shva nah) is unmarked.
+The complex system may be subdivided into perfect and imperfect systems. The former, unlike the latter, "has special signs for each kind of syllable and uses them consistently." It marks allophones of /a e i u/, consonant gemination, distinguishes vocalic and consonantal א and ה, and marks shva mobile and quiescens with a single grapheme. The perfect system is most notably employed by the Codex Babylonicus Petropolitanus.
+A number of manuscripts with features intermediate between Tiberian and Babylonian also exist. Later Yemenite manuscripts, using both simple and complex systems, show Yemenite features such as confusion between patah and shva and between tsere and holam.
+
+Cantillation
+The Babylonian system uses cantillation similarly to the Tiberian system. The oldest manuscripts (which use the simple system) mark only disjunctive accents (pauses), do not write the accent over the stressed syllable, and do not mark mappiq, while later manuscripts do. In the simple system there are only eight types of pause, and they are denoted by small Hebrew letters written after the word, in much the same way as the punctuation of the Quran.
+
+See also
+Tiberian vocalization
+Palestinian vocalization
+Niqqud
+Yemenite Hebrew
+
+References
+External links
+Jewish Encyclopedia, treats on subject of Babylonian punctuation, or vocalization
+
+Bibliography
+Blau, Joshua (2010). Phonology and Morphology of [Biblical Hebrew](5286). Winona Lake, Indiana: Eisenbrauns. ISBN 978-1-57506-129-0.
+Sáenz-Badillos, Angel (1993). A History of the Hebrew Language. Cambridge University Press. ISBN 0-521-55634-1.
+Kahle, Paul (1913). Masoreten des Ostens. J. C. Hinrichs'sche Buchhandlung. ISBN 3-487-01248-0.

@@ -1,0 +1,85 @@
+4394
+Central Italian
+Central Italian (Italian: dialetti mediani “central dialects”) refers to the indigenous varieties of Italo-Romance spoken in much of Central Italy.
+
+Background
+In the early Middle Ages, the Central Italian area extended north into Romagna and covered all of modern-day Lazio. Some peripheral varieties have since been assimilated into Gallo-Italic and Southern Italo-Romance respectively. In addition, the dialect of Rome has undergone considerable Tuscanization from the fifteenth century onwards, such that it has lost many of its Central Italian features. (The speech of the local Jewish community was less affected.)
+
+Subdivisions
+The Central Italian dialect area is bisected by isoglosses that roughly follow a line running from Rome to Ancona (see map). The zones to the south and north of this line are sometimes called the Area Mediana and Area Perimediana respectively. (Area Mediana may also be used in a broader sense to refer to both zones.)
+Pellegrini's Carta dei dialetti d’Italia features the following divisions:
+
+Central Marchigiano
+Anconitan
+Maceratese
+Umbrian
+Northern
+Northwestern and Viterbese
+Southeastern
+Laziale
+Central-southern
+Romanesco
+Cicolano-Reatino-Aquilano
+
+Phonological features
+Except for its southern fringe, the Area Mediana is characterized by a contrast between the final vowels /u/ and /o/, which distinguishes it from both the Area Perimediana (to the north) and from Southern Italo-Romance (to the south). Compare the words ˈkreːto and ˈtittu in the dialect of Spoleto (from Latin crēdō, tēctum ‘I believe’, ‘roof’).
+Most of the Area Mediana shows voicing of plosives after nasal consonants, as in manˈt̬ellu ‘cloak’, a feature shared with neighbouring Southern Italo-Romance.
+In the Area Mediana are found the following vocalic phenomena:
+
+In most areas, stressed mid-vowels are raised by one degree of aperture if the following syllable contains either /u/ or /i/ (a phenomenon sometimes called ‘Sabine metaphony’). Compare the following examples from the dialect of Ascrea:
+ˈmeːla, ˈmiːlu ‘apples’, ‘apple’
+ˈʃpoːsa, ˈʃpuːsu ‘wife’, ‘husband’
+ˈwɛcca, ˈweccu ‘old’ (F), ‘old’ (M)
+ˈnɔːwa, ˈnoːwu ‘new’ (F), ‘new’ (M)
+In a few areas, metaphony results in diphthongization for stressed low-mid vowels, while high-mids undergo normal raising to /i, u/. Compare the following examples from the dialect of Norcia:
+ˈmetto, ˈmitti ‘I put’, ‘you put’
+ˈsoːla, ˈsuːlu ‘alone’ (F), ‘alone’ (M)
+ˈbbɛlla, ˈbbjɛjju ‘beautiful’ (F), ‘beautiful’ (M)
+ˈmɔrte, ˈmwɔrti ‘death’, ‘dead’ (PL)
+Southeast of Rome, low-mid vowels undergo metaphonic diphthongization, while high-mids remain unaffected. This was also the case for Old Romanesco, which had alternations such as /ˈpɛde/, /ˈpjɛdi/ ‘foot’, ‘feet’.
+In some areas with Sabine metaphony, if a word has a stressed mid-vowel, then final /u/ lowers to /o/. Compare */ˈbɛllu/, */ˈfreddu/ > /ˈbeʎʎu/, /ˈfriddu/ (metaphony) > /ˈbeʎʎo/, /ˈfriddu/ ‘beautiful’, ‘cold’ in the dialect of Tornimparte.
+Sound-changes (or lack thereof) that distinguish most or all of Central Italian from Tuscan include the following. Many of them shared with Southern Italo-Romance.
+
+/nd/ > /nn/ as in Latin vēndere > ˈwenne ‘to sell’.
+/mb/, /nv/ > /mm/ as in Latin plumbum > ˈpjummu ‘lead’.
+/ld/ > /ll/ as in Latin cal(i)da > ˈkalla ‘hot’
+Retention of /j/ as in Latin Maium > ˈmaːju ‘May’.
+/mj/ > /ɲ(ɲ)/ as in Latin vindēmia > wenˈneɲɲa ‘grape harvest’.
+/rj/ > /r/ as in Latin caprārium > kraˈpaːru ‘goatherd’.
+Sound-changes with a limited distribution within the Area Mediana include:
+
+/ɡ-/ > /j/ or ∅ as in Latin cattum > ˈɡattu > ˈjjattu (Norcia), ˈattu (Rieti) ‘cat’.
+/ɡn/ > /(i̯)n/ as in Latin agnum, ligna > /ˈai̯nu/, /ˈlena/ (Tagliacozzo) ‘lamb’, ‘firewood’.
+/v/, /d/ > ∅ word-initially and intervocalically as in Latin dentem, vaccam, crudum, ovum > /ɛnte akka kruː ou/ (Rieti and L'Aquila)
+Around Terni, and to its immediate northeast, this deletion only applies in intervocalic position.
+In the north of the Area Perimediana, a number of Gallo-Italic features are found:
+
+/a/ > /ɛ/ in stressed open syllables, as in /ˈpa.ne/ > /ˈpɛ.ne/ ‘bread’, around Perugia and areas to its north.
+In the same area, habitual reduction or deletion of vowels in unstressed internal syllables, as in /ˈtrappole/ > /ˈtrapp(ə)le/ ‘traps’.
+Voicing of intervocalic /t/ to /d/ and consonant degemination around Ancona and to its west.
+In both of the aforementioned areas: lack, or reversal, of the sound-changes /nd/ > /nn/ and /mb/, /nv/ > /mm/ that are found in the rest of Central Italian.
+The following changes to final vowels are found in the Area Perimediana:
+
+/-u/ > /-o/, as in Latin musteum > ˈmoʃʃo (Montelago), everywhere except for a small area around Pitigliano.
+/-i/ > /-e/, as in /i ˈkani/ > /e ˈkane/ ‘the dogs’, in some of the dialects situated along an arc running from Montalto di Castro to Fabriano.
+
+Morphological features
+In part of the Area Mediana, below a line running northeast from Rome to Rieti and Norcia, the 3PL ending of non-first conjugation verbs is /-u/ (rather than /-o/) which acts as a trigger for metaphony. Cf. Latin vēndunt > ˈvinnu ‘they sell’ in the dialect of Leonessa.
+In the same area, a series of irregular first-conjugation verbs also show 3PL /-u/ (as opposed to the /-o/ or /-onno/ found elsewhere). Examples include au, dau, fau, vau ‘they have/give/do/go’.
+Latin fourth-declension nouns have been retained as such in many cases. Cf. Latin manum, manūs ‘hand’, ‘hands’ > ˈmaːno (invariant) in the dialect of Fabrica di Roma and Latin fīcum, fīcūs ‘fig’, ‘figs’ > ˈfiːko (invariant) in the dialect of Canepina.
+Latin neuters of the -um/-a type survive more extensively than in Tuscan. Cf. Latin olīvētum, olīvēta ‘olive-grove’, ‘olive-groves’ > liˈviːtu, leˈveːta in the dialect of Roiate. Even originally non-neuter nouns are sometimes drawn into this class, as in Latin hortum, hortī ‘garden’, ‘gardens’ > ˈᴐrto, ˈᴐrta in the dialect of Segni.
+The plurals, which are grammatically feminine, are replaced by the feminine ending /-e/ in some dialects, leading to outcomes such as ˈlabbru, ˈlabbre ‘lip’, ‘lips’ in the dialect of Spoleto. Both plural endings may alternate within a dialect, as in ˈᴐːa~ˈᴐːe ‘eggs’ in the dialect of Treia.
+The Latin neuter plural /-ora/, as in tempora ‘times’, was extended to several other words in medieval times, but today the phenomenon is limited to areas such as Serrone, e.g. ˈraːmo, ˈraːmora ‘branch’, ‘branches’. In Serviglianeo, the final vowel changes to /-e/, as in ˈfiːko, ˈfiːkore ‘fig’, ‘figs’.
+In several dialects, final syllables beginning with /n/, /l/, or /r/ may be deleted in masculine nouns. In some dialects, such as that of Matelica, this occurs only in the singular, not the plural, as in */paˈtrone/, */paˈtroni/ > paˈtro, paˈtruːni ‘lord’, ‘lords’. In Servigliano, this deletion occurs both in the singular and the plural, resulting in paˈtro, paˈtru.
+
+Syntactic features
+Direct objects are often marked by the preposition a if they are animate.
+
+See also
+Languages of Italy
+
+Notes
+References
+Bibliography
+Loporcaro, Michele; Paciaroni, Tania (2016). "The dialects of central Italy". In Ledgeway, Adam; Maiden, Martin (eds.). The Oxford guide to the Romance languages. Oxford University Press. pp. 228–245. doi:10.1093/acprof:oso/9780199677108.003.0015. ISBN 978-0-19-967710-8.
+Vignuzzi, Ugo (1997). "Lazio, Umbria, and the Marche". In Maiden, Martin; Parry, Mair (eds.). The dialects of Italy. London: Routledge. pp. 311–320.

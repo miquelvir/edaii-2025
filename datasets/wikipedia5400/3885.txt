@@ -1,0 +1,25 @@
+3885
+Bryson of Heraclea
+Bryson of Heraclea (Greek: Βρύσων Ἡρακλεώτης, gen.: Βρύσωνος; fl. late 5th-century BCE) was an ancient Greek mathematician and sophist who studied the solving the problems of squaring the circle and calculating pi.
+
+Life and work
+Little is known about the life of Bryson; he came from Heraclea Pontica, and he may have been a pupil of Socrates. He is mentioned in the 13th Platonic Epistle, and Theopompus even claimed in his Attack upon Plato that Plato stole many ideas for his dialogues from Bryson of Heraclea. He is known principally from [Aristotle](162), who criticizes his method of squaring the circle. He also upset [Aristotle](162) by asserting that obscene language does not exist. Diogenes Laërtius and the Suda refer several times to a Bryson as a teacher of various philosophers, but since some of the philosophers mentioned lived in the late 4th-century BCE, it is possible that Bryson became confused with Bryson of Achaea, who may have lived around that time.
+
+Pi and squaring the circle
+Bryson, along with his contemporary, Antiphon, was the first to inscribe a polygon inside a circle, find the polygon's area, double the number of sides of the polygon, and repeat the process, resulting in a lower bound approximation of the area of a circle. "Sooner or later (they figured), ...there would be so many sides that the polygon ...would be a circle." Bryson later followed the same procedure for polygons circumscribing a circle, resulting in an upper bound approximation of the area of a circle. With these calculations, Bryson was able to approximate π and further place lower and upper bounds on π's true value. [Aristotle](162) criticized this method, but [Archimedes](3851) would later use a method similar to that of Bryson and Antiphon to calculate π; however, [Archimedes](3851) calculated the perimeter of a polygon instead of the area.
+
+Robert Kilwardby on Bryson's syllogism
+The 13th-century English philosopher Robert Kilwardby described Bryson's attempt of proving the quadrature of the circle as a sophistical syllogism—one which "deceives in virtue of the fact that it promises to yield a conclusion producing knowledge on the basis of specific considerations and concludes on the basis of common considerations that can produce only belief." His account of the syllogism is as follows:
+
+Bryson's syllogism on the squaring of the circle was of this sort, it is said: In any genus in which one can find a greater and a lesser than something, one can find what is equal; but in the genus of squares one can find a greater and a lesser than a circle; therefore, one can also find a square equal to a circle. This syllogism is sophistical not because the consequence is false, and not because it produces a syllogism on the basis of apparently readily believable things-for it concludes necessarily and on the basis of what is readily believable. Instead, it is called sophistical and contentious litigiosus because it is based on common considerations and is dialectical when it should be based on specific considerations and be demonstrative.
+
+Notes
+References
+Blatner, David. The Joy of Pi. Walker Publishing Company, Inc. New York, 1997.
+Kilwardby, Robert. De ortu scientiarum. Auctores Britannici Medii Aevi IV ed. A.G. Judy. Toronto: PIMS, 1976. Published for the British Academy by the Oxford University Press. (The translation of this quote is found in: N. Kretzmann & E. Stump (eds. & trns.), The Cambridge Translations of Medieval Philosophical Texts: Volume 1, Logic and the Philosophy of Language. Cambridge: Cambridge UP, 1989.)
+Philosophy Dictionary definition of Bryson of Heraclea. The Oxford Dictionary of Philosophy. Copyright © 1994, 1996, 2005 by Oxford University Press.
+Heath, Thomas (1981). [A History of Greek Mathematics](3803), Volume I: From Thales to Euclid. Dover Publications, Inc. ISBN 0-486-24073-8.
+
+External links
+The History of Pi
+O'Connor, John J.; Robertson, Edmund F., "Bryson of Heraclea", MacTutor History of Mathematics Archive, University of St Andrews

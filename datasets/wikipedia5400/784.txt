@@ -1,0 +1,61 @@
+784
+Centrum Wiskunde & Informatica
+The Centrum Wiskunde & Informatica (abbr. CWI; English: "National Research Institute for Mathematics and Computer Science") is a research centre in the field of mathematics and  theoretical computer science. It is part of the institutes organization of the Dutch Research Council (NWO) and is located at the Amsterdam Science Park. This institute is famous as the creation site of the programming language Python. It was a founding member of the European Research Consortium for Informatics and Mathematics (ERCIM).
+
+Early history
+The institute was founded in 1946 by Johannes van der Corput, David van Dantzig, Jurjen Koksma, Hendrik Anthony Kramers, Marcel Minnaert and Jan Arnoldus Schouten. It was originally called Mathematical Centre (in Dutch: Mathematisch Centrum). One early mission was to develop mathematical prediction models to assist large Dutch engineering projects, such as the  Delta Works. During this early period, the Mathematics Institute also helped with designing the wings of the Fokker F27 Friendship airplane, voted in 2006 as the most beautiful Dutch design of the 20th century.
+The computer science component developed soon after. Adriaan van Wijngaarden, considered the founder of computer science (or informatica) in the Netherlands, was the director of the institute for almost 20 years. Edsger Dijkstra did most of his early influential work on algorithms and formal methods at CWI. The first Dutch computers, the Electrologica X1 and Electrologica X8, were both designed at the centre, and Electrologica was created as a spinoff to manufacture the machines.
+In 1983, the name of the institute was changed to Centrum Wiskunde & Informatica (CWI) to reflect a governmental push for emphasizing computer science research in the Netherlands.
+
+Recent research
+The institute is known for its work in fields such as operations research, software engineering, information processing, and mathematical applications in life sciences and logistics.
+More recent examples of research results from CWI include the development of scheduling algorithms for the Dutch railway system (the Nederlandse Spoorwegen, one of the busiest rail networks in the world) and the development of the Python programming language by Guido van Rossum. Python has played an important role in the development of the Google search platform from the beginning, and it continues to do so as the system grows and evolves. 
+Many information retrieval techniques used by packages such as SPSS were initially developed by Data Distilleries, a CWI spinoff.
+Work at the institute was recognized by national or international research awards, such as the Lanchester Prize (awarded yearly by INFORMS), the Gödel Prize (awarded by ACM SIGACT) and the Spinoza Prize. Most of its senior researchers hold part-time professorships at other Dutch universities, with the institute producing over 170 full professors during the course of its history. Several CWI researchers have been recognized as members of the Royal Netherlands Academy of Arts and Sciences, the Academia Europaea, or as knights in the Order of the Netherlands Lion.
+In February 2017, CWI in association with Google announced a successful collision attack on SHA 1 encryption algorithm.
+
+European Internet
+CWI was an early user of the Internet in Europe, in the form of a TCP/IP connection to NSFNET. Piet Beertema at CWI established one of the first two connections outside the United States to the NSFNET (shortly after France's INRIA) for EUnet on 17 November 1988. The first Dutch country code top-level domain issued was cwi.nl. When this domain cwi.nl was registered, on 1 May 1986, .nl effectively became the first active ccTLD outside the United States. For the first ten years CWI, or rather Beertema, managed the .nl administration, until in 1996 this task was transferred to its spin-off SIDN.
+The Amsterdam Internet Exchange (one of the largest Internet Exchanges in the world, in terms of both members and throughput traffic) is located at the neighbouring SARA (an early CWI spin-off) and Nikhef institutes. The World Wide Web Consortium (W3C) office for the Benelux countries is located at CWI.
+
+Spin-off companies
+CWI has demonstrated a continuing effort to put the work of its researchers at the disposal of society, mainly by collaborating with commercial companies and creating spin-off businesses. In 2000 CWI established "CWI Incubator BV", a dedicated company with the aim to generate high tech spin-off companies. Some of the CWI spinoffs include:
+
+1956: Electrologica, a pioneering Dutch computer manufacturer.
+1971: SARA (now called SURF), founded as a center for data processing activities for Vrije Universiteit Amsterdam, Universiteit van Amsterdam, and the CWI.
+1990: DigiCash, an electronic money corporation founded by David Chaum.
+1994: NLnet, an Internet Service Provider.
+1994: General Design / Satama Amsterdam, a design company, acquired by LBi (then Lost Boys international).
+1995: Data Distilleries, developer of analytical database software aimed at information retrieval, eventually becoming part of SPSS and acquired by IBM.
+1996: Stichting Internet Domeinregistratie Nederland (SIDN), the .nl top-level domain registrar.
+2000: Software Improvement Group (SIG), a software improvement and legacy code analysis company.
+2008: MonetDB, a high-tech database technology company, developer of the MonetDB column-store.
+2008: Vectorwise, an analytical database technology company, founded in cooperation with the  Ingres Corporation (now Actian) and eventually acquired by it.
+2010: Spinque, a company providing search technology for information retrieval specialists.
+2013: MonetDB Solutions, a database services company.
+2016: Seita, a technology company providing demand response services for the energy sector.
+2021: DuckDB Labs,  a data processing company offering support and consulting services for DuckDB (a column-oriented RDBMS, designed for high performance on complex queries against large databases in embedded configurations).
+
+Software and languages
+ABC programming language
+Algol 60
+Algol 68
+Alma-0, a multi-paradigm computer programming language
+ASF+SDF Meta Environment, programming language specification and prototyping system, IDE generator
+Cascading Style Sheets
+DuckDB
+MonetDB
+NetHack
+Python programming language
+RascalMPL, general purpose meta programming language
+RDFa
+SMIL
+van Wijngaarden grammar
+XForms
+XHTML
+XML Events
+
+Notable people
+References
+External links
+Official website

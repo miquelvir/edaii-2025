@@ -1,0 +1,21 @@
+725
+Analyse-it
+Analyse-it is a statistical analysis add-in for Microsoft Excel. Analyse-it is the successor to Astute, developed in 1992 for Excel 4 and the first statistical analysis add-in for Microsoft Excel. Analyse-it provides a range of standard parametric and non-parametric procedures, including Descriptive statistics, ANOVA, ANCOVA, Mann–Whitney, Wilcoxon, chi-square, correlation, linear regression, logistic regression, polynomial regression and advanced model fitting, principal component analysis, and factor analysis.
+Analyse-it Method Validation edition provides the standard Analyse-it statistical analyses above, plus procedures for method evaluation, validation and demonstration, including Bland–Altman bias plots, Linear regression, Weighted Linear regression, Deming regression, Weighted Deming regression and Passing Bablok for method comparison, Precision, Linearity, Detection limits, Reference intervals and Receiver operating characteristic analysis supporting Delong, Delong Clarke-Pearson comparisons.(see references below). Version 4.00 added support for CLSI guidelines EP5-A3, EP6-A, EP9-A3, EP10-A3, EP12-A2, EP15-A3, EP17-A2, EP21-A, EP24-A2 (formerly GP10-A), and EP28-A3C (formerly C28-A3C).
+Analyse-it Quality Control & Improvement edition provides the standard Analyse-it statistical analyses above, plus procedures for statistical process control, including Shewhart, Levey-Jennings, CUSUM, and EWMA control charts, process capability analysis, and pareto analysis.
+Analyse-it is compatible with Microsoft Excel 2007, 2010, 2013 and 2016 (Office 365) (both 32- and 64-bit versions).
+
+Screenshots from Analyse-it
+See also
+List of statistical packages
+Comparison of statistical packages
+
+References
+Stephan, Carsten; Wesseling, Sebastian; Schink, Tania; and Jung, Klaus (2003); Comparison of Eight Computer Programs for Receiver-Operating Characteristic Analysis, Clinical Chemistry, 49:433–439 (abstract)(pdf)
+Smith, Simon; and Trinder, John (2001); Detecting insomnia: comparison of four self-report measures of sleep in a young adult population, Journal of Sleep Research 10 (3), 229–235 (abstract)(pdf)
+Nadershahil, Afshin; Fahrenkrug, Scott C.; and Ellis, Lynda B. M. (2004); Comparison of computational methods for identifying translation initiation sites in EST data, BMC Bioinformatics 5:14 (link)(pdf)
+Hawkins, Tan (1999); Comparison of the Diagnostic Utility of CK, CK-MB (Activity and Mass), Troponin T and Troponin I in Patients with Suspected Acute Myocardial Infarction, Singapore Medical Journal, 40(11) (text)
+Hatherill, Mark; Tibby, Shane M.; Sykes, Kim; Turner, Charles; and Murdoch, Ian A. (1999); Diagnostic markers of infection: comparison of procalcitonin with C reactive protein and leucocyte count, Archives of Disease in Childhood, November; 81: 417–421 (text)(pdf)
+
+External links
+Analyse-it Home page

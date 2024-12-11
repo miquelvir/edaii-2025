@@ -1,0 +1,89 @@
+1397
+Bird Global
+Bird Global, Inc. is a micromobility company based in Miami, Florida.: 43  Founded in September 2017, Bird has distributed electric scooters designed for short-term rental to over 400 cities.: 9  In April 2024, it was acquired by Third Lane Mobility to avoid bankruptcy.
+
+History
+Bird was founded in September 2017 by Travis VanderZanden, formerly an executive at Lyft and at Uber. It had its Series A round of funding in February 2018, raising $15 million led by Craft Ventures; this was followed by a Series B round in March for $100 million, led by Index Ventures and Valor Equity Partners, and a venture round in May for $150 million from Sequoia Capital, becoming the fastest company to ever reach the $1 billion "unicorn" valuation. In June 2018, Bird raised an additional $300 million, valuing the company at $2 billion.
+In September 2018, Bird claimed 10 million rides.
+In October 2018, Bird announced its Bird Zero vehicle. The Bird Zero was designed for ride sharing with "more battery life for longer range, better lighting for increased visibility, and enhanced durability for a longer life-span."
+In November 2018, Bird released the Bird Platform, a program based on the company's mobile app and Bird Zero vehicles that allowed independent operators to use Bird's infrastructure to run their own fleet of shared, branded electric scooters.
+In January 2019 Axios reported that Bird was raising $300 million in new funding led by Fidelity as an extension of its C funding round. Bird did not confirm this report.
+On June 12, 2019, Scoot Networks was acquired for an undisclosed value as a wholly owned subsidiary of Bird. The deal was expected to be valued at around $25 million in a combination of cash and stock. The acquisition was to allow Bird to operate shared electric scooters in San Francisco.
+In July 2019, Bird was said to be valued at $2.5 billion. In July 2019, the company was raising Series D funding, led by venture capital firm Sequoia Capital and CDPQ. This funding was intended to help the company become profitable and also continue to do further research and development of the vehicle. In October 2019, the firm successfully closed Series D funding, raising $275 million and reaching 2.8 billion valuation. This new funding was expected to help the company to upgrade its fleet with a focus on a more sustainable Bird Two model.
+In November 2019, Bird launched the "Helmet Selfie" safety feature to incentivize riders into wearing helmets when using Bird vehicles. Users can submit a self-portrait photo of themselves wearing a helmet through the app, and receive future ride credits.
+In January 2020, Bird acquired rival Berlin-based scooter company, Circ.
+For March 2020, Bird had planned to launch in Austin, Texas after the Austin City Council approved a "dockless" bike-share pilot program in February 2018.
+Bird initially responded to the 2020 coronavirus pandemic by increasing cleaning and sanitizing efforts in March 2020. Later that month, Bird scaled down operations (reportedly even suspending them within all markets), and terminated around 40% of its then about 1060 employees in a group Zoom meeting. The company halted operations in six US cities (San Francisco, San Jose, Sacramento, Portland, Miami, and Coral Gables), as well as European markets, including Annecy, Antwerp, Barcelona, Berlin, Bordeaux, Cologne, Frankfurt, Hamburg, Krakow, Lisbon, Lyon, Madrid, Marseille, Munich, Paris, Rimini, Sevilla, Stockholm, Torino, Verona, and Vienna.
+In May 2021, Bird announced its intention to go public by merging with a special-purpose acquisition company Switchback II with an implied valuation of $2.3 billion. In November 2021, the SPAC deal closed and the merged company Bird Global, Inc. started trading on the New York Stock Exchange.
+In September 2023, Bird acquired San Francisco-based competitor Spin from Tier Mobility for $19 million. Bird was also forced to delist from the New York Stock Exchange during this month due to its low stock price, having a total market capitalization of only $7 million.
+In December 2023, Bird filed for Chapter 11 bankruptcy in the US. Its Canadian and European activities are not part of the bankruptcy. The company has plans to restructure and sell some of its assets to some of its existing lenders.
+In 2024, Bird avoided the bankruptcy and restructured under a new parent company, Third Lane Mobility. The company is adopting a more sustainable approach by focusing on regulator-friendly operations and limiting its fleet size to avoid past expansion issues.
+
+Usage
+The user installs the Bird app, on which are displayed all the scooters available (tracked by GPS) nearby. Before starting a trip, the user supplies payment information. The user then scans the QR code on the scooter, beginning the trip. To end the trip, the user must take a photo of the parked scooter to end the ride. The price of the trip is immediately withdrawn from the user's credit card. If any problems were encountered with the trip (like a malfunctioning vehicle) the user can report it through the app.
+
+Operating area and hours
+On the Bird app, the user can see the operating area of the service and also view a tutorial 
+on how to use the scooter. Riding outside of the operating area is tolerated, but if the user leaves the scooter outside the operating area, they will be charged a fee. The fee changes based on the location. On the map, there are various red zones, in which users are prohibited to park. If the rider misbehaves, they will incur a fine. Bird has worked with various cities to launch a 100-city tour to work closely with local officials on policies.
+While Bird does not have set operating hours, the availability of scooters during nighttime is severely reduced because the scooters need to be recharged every night. Nevertheless, if a user finds a scooter outside at night, they can still unlock it. Bird operates every day of the week.
+Bird's revenue is lower during winter, and at the beginning of the warmer months, many scooters are taken out of hibernation, an operation internally known as the "Spring Push".
+
+Locations
+Bird operates its electric scooters in cities across the globe.
+
+Vehicles
+Bird uses electric scooters for its rental service. Bird developed its own scooter, the Bird Zero, launched in October 2018. The Bird Zero was specifically made for the scooter rental industry, with a longer lifespan. The Zero has been designed to be optimal for the ride-sharing industry to minimize maintenance needs. As of July 2019, Bird Zero scooters made up more than 75% of the company's fleets.
+In May 2019, Bird stopped purchasing and distributing both Segway models, and launched Bird One, the first Bird scooter made available for purchase as well as shared use. Improvements incorporated into this model include longer battery life (up to 30 miles on a single charge), a more responsive brake system, and better lighting and stability features. According to the company, Bird Zero scooters have a lifespan of roughly ten months, and Bird One scooters are designed to last over a year in the sharing environment.
+In June 2019, Bird unveiled the Bird Cruiser, an electric vehicle that is a blend between a bicycle and a moped. It seats up to two people and is designed to be part of Bird's shared-vehicles fleet.
+In August 2019, Bird launched Bird Two. This model includes improvements to battery life (50% more capacity than Bird One), self-reporting damage sensors, higher traction and puncture-proof tires, as well as anti-tipping kickstands on both sides.
+In June 2021, Bird announced the deployment of shared Bird Bikes in North America and Europe.
+
+Prices
+Generally, in countries where the Euro or the Dollar is used, the price is €/$1 to unlock the scooter, then €/$0.15 per minute. The monthly fee for renting a scooter is $25. However, prices for sharing and monthly rentals differ according to country, currency and local laws.
+
+Competition
+Bird's main competitor is American Lime. Nevertheless, many other smaller dockless electric scooter sharing companies have been funded before and after Bird's arrival, including Scoot Networks, which has since been acquired by Bird, and Skip Scooters. In addition, in 2018 Uber released a line of rentable scooters that have presented competition to mainstream companies like Bird and Lime.
+
+User collaborations
+Chargers
+Bird scooters are charged by gig workers, private contractors who sign up to become Chargers. The company sends approved Chargers charging equipment and pays them to charge scooters overnight then place them at designated "nests" throughout the company's service area in the morning. Charging can become competitive, with Chargers in some markets using vans and other creative means to pick up scooters all over the city.
+The amount of money Bird pays the independent contractors for charging a particular scooter depends on how long the scooter has been sitting out on the street after being flagged for needing a charge and before the Charger reflags the scooter in an app to claim the reward.
+
+Parking
+Since Bird is a dockless electric scooter sharing system, it does not provide parking stations. As a result, scooters can be found throughout cities to help people connect to transit offerings and central locations.  
+In November 2018, Bird added a crowdsourced parking feature called "Community Mode" to its app. The feature enables users to report improperly parked scooters to Bird, which then sends staff to move them to better parking locations.
+In June 2019, Bird added a new feature for cities that agree to reclaim parking spaces for micro mobility. First rolled out in Paris, the app directs riders to close by approved parking spots and awards them a discount on their next ride if they park there.
+
+Recognition
+In 2018, Time magazine named Bird as one of its "50 Genius Companies", commending its contribution to the "'first mile, last mile' problem in transportation. Because public transit stops are often a little too far from the places where people begin and end their journeys, they choose to drive, clogging up the roads and polluting the air. Bird is pioneering a new way to get those people to leave their cars at home." In both 2018 and 2019, LinkedIn named Bird one of the most sought-after startups in the United States.
+
+Controversies
+Putting franchisees into debt
+When Bird began marketing its franchise opportunities to operations staff and fleet managers, it ended up putting some workers $40,000 in debt. The franchisees do not own the scooters they obtain from Bird and are liable for repayments even when scooters are lost or stolen.
+
+Mass layoffs during the COVID-19 pandemic
+In March 2020, due to the COVID-19 pandemic and national shutdown, Bird laid off 400+ employees via Zoom during a call that lasted approximately two minutes. The company immediately locked out all affected employees from accessing company systems.
+
+Milwaukee, Wisconsin
+Scooters were initially banned in Milwaukee when Bird Rides Inc. started their scooter business without government permission. Wisconsin's Governor Tony Evers signed a bill on July 11, 2019, regulating scooters. The Milwaukee Common Council and Mayor Tom Barrett banned Bird Scooters from operating in the city and passed an ordinance giving law enforcement permission to impound scooters. They also sued the scooter company.
+In May 2019 Bird reached a settlement with the city of Milwaukee regarding the lawsuit. The following August, Milwaukee's Department of Public Works announced it would allow Bird to operate in the city again.
+
+San Francisco, California
+In August 2018, Bird, Lime and several other micro-mobility companies were banned by the City of  San Francisco, California citing safety concerns. The Municipal Transportation Agency then launched a pilot scooter sharing program allowing only Skip and Scoot to operate in the city. Lime tried and failed to appeal the decision and Bird began offering its scooters as a monthly rental as a way around their prohibition.
+In September 2019, the city of San Francisco announced the four permit holders that would be able to operate. Operators were able to submit an application and the city down-selected based on several criteria, including safety. Bird, was one of the selected operators through its subsidiary Scoot.
+
+Seattle, Washington
+Seattle, Washington, has banned scooter shares, and city law currently bars the use of motorized foot scooters on sidewalks and bicycle lanes. Mayor Jenny Durkan announced in May 2019 that her administration would soon begin crafting a pilot program for scooter sharing.
+
+Accidents and deaths
+Bird electric scooters have been involved in some accidents and deaths.
+
+Overstating revenue
+In November 2022, the company admitted to overstating the revenue it received from its shared electric scooters for more than two years. In an audit of financial statements, Bird found that it was recognizing unpaid customer rides from their preloaded "wallet" balances as revenue. The company pledged to correct its financial reports "as soon as practicable", and agreed that a broader review of its disclosure practices would be required.
+
+See also
+Bolt
+Lime
+
+
+== References ==

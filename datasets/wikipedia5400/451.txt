@@ -1,0 +1,72 @@
+451
+Apusomonadidae
+The apusomonads (family [Apusomonadida](450)e) are a group of protozoan zooflagellates that glide on surfaces, and mostly consume prokaryotes.  They are of particular evolutionary interest because they appear to be the sister group to the Opisthokonts, the clade that includes both animals and fungi. Together with the Breviatea, these form the Obazoa clade.
+
+Characteristics
+Apusomonads are small gliding heterotrophic biflagellates (i.e. with two flagella) that possess a proboscis, formed partly or entirely by the anterior flagellum surrounded by a membranous sleeve. There is a pellicle under the dorsal cell membrane that extends into the proboscis sleeve and into a skirt that covers the sides of the cell. Apusomonads present two different cell plans:
+
+Derived cell plan, represented by Apusomonas, with a round cell body and a mastigophore, a projection of the cell containing both basal bodies at its end.
+"Amastigomonas-like" cell plan, with an oval or oblong cell that generally forms pseudopodia from the ventral surface, with no mastigophore, and the proboscis comprising solely the flagellum and the sleeve. These characteristics are considered 'primitive' or 'ancestral' in comparison with Apusomonas. Organisms with this body plan, although historically assigned to the same genus Amastigomonas, are a paraphyletic group from which Apusomonas has evolved.
+
+Evolution
+External relationships
+The apusomonads are the sister group to Opisthokonta, the lineage that includes animals, fungi and an array of related protists. Because of this, apusomonads occupy an important phylogenetic position to understand eukaryotic evolution. They retain ancestral characteristics, such as the biflagellate body plan, which in opisthokonts evolves into a uniflagellate plan.
+Apusomonads are vital to understanding multicellularity. Genes involved in multicellularity have been found in the apusomonad Thecamonas, such as adhesion proteins, calcium-signaling genes and types of sodium channels characteristic of animals. The genome of the strain "Amastigomonas sp." presents the integrin-mediated adhesion machinery, the primary cell-matrix adhesion mechanism seen in Metazoa (animals).
+
+Internal relationships
+Apusomonads are a poorly and narrowly studied group. Currently, the diversity of described apusomonads consists of the round Apusomonas and a wide array of "Amastigomonas-type" organisms that have been reclassified into the genera Thecamonas, Manchomonas, Podomonas, Multimonas, Chelonemonas and, most recently, Catacumbia, Cavaliersmithia, Karpovia, Mylnikovia and Singekia. The relationships between these genera are depicted by the cladogram below.
+
+Taxonomy
+History
+Apusomonads were first described in 1989 as one family [Apusomonadida](450)e inside the monotypic order [Apusomonadida](450), as a group of flagellates containing the genera Apusomonas and Amastigomonas. Later, British protozoologist Thomas Cavalier-Smith classified them within the monotypic class Thecomonadea as part of the paraphyletic phylum Apusozoa. Modern cladistic approaches to eukaryotic classification refer to apusomonads by their order-level name alone.
+
+Classification
+There are 10 recognized genera, as well as the "Amastigomonas-like" archetype that includes primitive forms not yet transferred to new genera.
+
+Amastigomonas de Saedeleer 1931
+A. caudata Mylnikov 1989 Amastigomonas borokensis Hamar 1979
+A. debruynei de Saedeleer 1931
+A. marisrubri Mylnikov & Mylnikov 2012
+Catacumbia Torruella, Galindo et al. 2022
+C. lutetiensis Torruella, Galindo et al. 2022
+Cavaliersmithia Torruella, Galindo et al. 2022
+C. chaoae Torruella, Galindo et al. 2022
+Multimonas Cavalier-Smith 2010
+M. koreensis Heiss, Lee, Ishida & Simpson, 2015
+M. marina (Mylnikov 1989) Cavalier-Smith 2010 Cercomonas marina Mylnikov 1989; Amastigomonas marina (Mylnikov 1989) Mylnikov 1999
+M. media Cavalier-Smith 2010
+Mylnikovia Torruella, Galindo et al. 2022
+M. oxoniensis (Cavalier-Smith 2010) Torruella, Galindo et al. 2022 Thecamonas oxoniensis Cavalier-Smith 2010
+Podomonas Cavalier-Smith 2010
+P. capensis Cavalier-Smith 2010
+P. gigantea (Mylnikov 1999) Amastigomonas gigantea Mylnikov 1999
+P. griebenis (Mylnikov 1999) Amastigomonas griebenis Mylnikov 1999
+P. kaiyoae Yabuki in Yabuki, Tame & Mizuno 2022
+P. klosteris (Arndt & Mylnikov 1999) Cavalier-Smith 2010 Amastigomonas klosteris Arndt & Mylnikov 1999
+P. magna Cavalier-Smith 2010
+Apusomonadinae Cavalier-Smith 2010
+Apusomonas Alexeieff 1924 Rostromonas Karpoff & Zhukov 1980
+A. australiensis Ekelund & Patterson 1997
+A. proboscidea Alexeieff 1924 Rostromonas applanata Karpoff & Zhukov 1980
+Manchomonas Cavalier-Smith 2010
+M. bermudensis (Molina & Nerad 1991) Cavalier-Smith 2010 Amastigomonas bermudensis Molina & Nerad 1991
+Thecamonadinae Larsen & Patterson 1990 Thecamonas/Chelomonas clade
+Chelonemonas Heiss, Lee, Ishida & Simpson, 2015
+C. dolani Torruella, Galindo et al. 2022
+C. geobuk Heiss, Lee, Ishida & Simpson, 2015
+C. masanensis Heiss, Lee, Ishida & Simpson, 2015
+Karpovia Torruella, Galindo et al. 2022
+K. croatica Torruella, Galindo et al. 2022
+Singekia Torruella, Galindo et al. 2022
+S. franciliensis Torruella, Galindo et al. 2022
+S. montserratensis Torruella, Galindo et al. 2022
+Thecamonas Larsen & Patterson 1990
+T. filosa Larsen & Patterson 1990 Amastigomonas filosa (Larsen & Patterson 1990) Molina & Nerad 1991
+T. muscula (Mylnikov 1999) Cavalier-Smith 2010 Amastigomonas muscula Mylnikov 1999
+T. mutabilis (Griessmann 1913) Larsen & Patterson 1990 Rhynchomonas mutabilis Griessmann 1913; Amastigomonas mutabilis (Griessmann 1913) Patterson & Zölffel 1993
+T. trahens Larsen & Patterson 1990 Amastigomonas trahens (Larsen & Patterson 1990) Molina & Nerad 1991
+
+References
+
+
+== External links ==

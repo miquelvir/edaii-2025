@@ -1,0 +1,139 @@
+1931
+Baseball5
+[Baseball](1930)5 (B5 or BB5) is a simplified variation of baseball and softball which is governed at the international level alongside those sports by the World [Baseball](1930) Softball Confederation (WBSC).
+The game revolves around two teams of five players taking turns playing offense and defense, with each of the offensive team's players taking turns hitting a small rubber ball with their bare hands into the field of play (which is a 21 m (68.90 ft)-square), and then running counterclockwise around four bases (13 m (42.65 ft) apart) laid out in a square shape to score a run, while the defensive team tries to eliminate ("get out") offensive players before they complete their trip around the bases to prevent them from scoring. Outs (eliminations) occur either when a hit ball is caught before it touches the ground by a defender, or (in specific situations) when a defender with the ball either touches the base a runner is supposed to reach, or touches the runner themselves. Offensive players can also get themselves out by illegally hitting the ball or for breaking the rules while running the bases.
+The teams switch roles after three outs are made, with an "inning" being completed when both teams have played offense once. The game is played to five innings, with any ties being broken by playing extra innings as necessary, and games generally lasting 15 to 20 minutes. Oftentimes, a best-of-three (or even best-of-five) series is played to determine the result of a matchup between two teams. Unlike baseball/softball, there is no pitcher, with the batter (offensive player who hits the ball) starting each play with the ball, which is the only equipment used in the game.
+The WBSC proposed the game in 2017 with the intention of growing baseball/softball on a global level, claiming that the game's low cost, fast pace, and small field make it a more accessible and appealing entry point to those sports. It organizes a mixed-gender B5 World Cup for senior and youth players in alternating years, with teams required to field at least two active players per gender. The game is also scheduled to be played in a mixed-gender format at the 2026 Summer Youth Olympics, and has started to find adoption in schools, national championships, and other international events around the world.
+
+History
+Inspiration
+B5 was inspired by similar games that have been played on the streets in Latin America and elsewhere for decades, such as cuatro esquinas (four corners) in Cuba and pelotica de goma (little rubber ball) in Venezuela. In some cases, B5 significantly diverges from the rules of these games; for example, it does not feature a pitcher, as is done in one street variation in Colombia, and players are allowed to run the bases, as opposed to only walking, as is required in "cuatro esquinas".
+
+Before B5, the WBSC had tried promoting several other baseball variants at a youth level, such as tee-ball, without significant success. B5 was invented in part to increase the odds that a sport similar to baseball and softball will be played in the Olympics, with B5 meant to contribute to an ultimate goal of having a billion fans in the baseball-softball community by 2030 and helping to demonstrate the global reach of the games. It also intended to create a game that would be more accessible and cheap, as the only equipment used in B5 is the rubber ball, and the field is much smaller than a baseball diamond or softball field, with the game being playable indoors. In this respect, as well as the fact that there are fewer players required to play a game, B5 is meant to imitate smaller, more urban variants of other major sports, such as [3x3 basketball](1903), futsal, and rugby sevens. 
+Inclusiveness is meant to be another goal of B5, with the game being scheduled to be the first mixed-gender team sport in an Olympic event to not have a separate competition for male-only or female-only teams. In addition, the game is meant to be simpler to learn, have more youth appeal, and be more exciting, with players participating more frequently throughout the game. Another claimed benefit is that with B5 being introduced across the entire world at the same time, no one country is likely to dominate the game; the lack of the pitcher role, which is highly specialized, contributes to this.
+
+Post-2017
+The first [Baseball](1930)5 international competition took place at Foro Italico, Italy in 2018. The game was demonstrated and played in various places across the world, such as in the [United States](1100) during the MLB All-Star Week, in the 2021 Bulgarian Olympic Festival, and on the sidelines of the 2018 Summer Youth Olympics in Argentina and the [2020 Summer Paralympics](1075) in Japan. The WBSC has tried to promote B5 for socially beneficial purposes as well, by taking it to places such as Jordan's Azraq refugee camp. It is being implemented in many schools in some countries, like Australia and France, and is now played in 83 countries.
+Before the 2022 [Baseball](1930)5 World Cup, a new B5 rulebook was published that increased clarity on some of the rules, as well as changing some of the field dimensions. For example, the bases were moved from the inner edge of the infield to the outer edge, increasing the distance between them by 0.5 metres (1 ft 8 in).
+
+Rules and gameplay
+Field
+The infield is a 13 m (42.65 ft)-square, with a base in every corner. The fair territory is a 18 m (59.06 ft)-square, with one of the corners coinciding with the home plate (the final base). The batter's box is a 3 m (9.84 ft)-square. It is placed outside of the fair territory and is built on the extension of the two foul lines (which distinguish fair and foul territory, and sit in fair territory) crossing each other at the home plate corner; the lines are included as part of the batter's box area. There is also a "no-hit zone", which is the area between home plate and a line drawn between two points that are each 4.5 metres (14.76 ft) (or 3 metres (9.84 ft) for the U-15 age category) down the two foul lines from the home plate corner; this area is not part of fair territory, though the line is.
+
+Bases
+All bases are marked on the ground (i.e. they are not physical cushions like in baseball/softball). Ideal shape and size of the first three bases is a 60 cm (23.62 in)-square, and they are placed in the outfield (the part of fair territory outside of the infield). In order to avoid collisions, the first base is "doubled" in foul territory, with the foul territory-half referred to as the "safety base". Home plate sits in the no-hit zone and is shaped like a 43.2 cm (17.0 in)-square, except that two of its corners are removed such that the edges of home plate touching the foul lines are 30.5 cm (12.0 in), the two adjacent sides are 21.6 cm (8.5 in), and the remaining side (facing 2nd base) is still 43.2 cm (17.0 in).
+
+Fences
+The ideal height of the fences bounding the field is 1 m (3.28 ft). However, every league or tournament organisation may decide on other ways of limiting the field of play, such as using existing walls or marking the ground with lines.
+
+Ball
+The only piece of equipment used is a hollow rubber ball with a circumference of 208.4 mm (8.20 in).
+
+Offense
+The Visitor team starts the game in offense, with the Home team on defense. The goal of the offensive team is to have each of its players hit the ball and then run counterclockwise around all four bases in order without being eliminated by the defense, thus scoring one run for their team. The act of hitting takes place while a hitter is entirely in the batter's box; the hitter must not step out of the lines until the hit ball reaches fair territory. The ball has to be hit hard either with a palm or a fist, and then its first bounce has to be at a minimum distance of 3 metres (9.8 ft) from home plate (i.e. not in the "no-hit zone"), and in fair ground, with the ball then required to eventually be either touched by a defender or reach the outfield fence. If these requirements are not met, or if the ball goes into foul territory before passing first or third base, then the batter is out.
+The batter in the action of running towards first base, after putting the ball in play, has to touch the base in foul territory (the "safety base") except in circumstances where a collision could be avoided by going towards the base in fair territory. In order to stay safe, the batter has to remain in the area included within the safety base and the 1.5 m (4.92 ft)-safe area extension attached to it in foul territory, though if they advance towards second base, then they can only return afterwards to first base by touching the fair territory-base.
+
+Scoring runs
+A runner (offensive player) who touches first base, second base, third base and home plate in that order scores one run for their team, and then leaves the field until their next turn as a hitter. 
+When scoring, a runner may step on the batter's box instead of home plate in order to avoid collisions. However, a run can not be scored by a runner touching home plate during a play where the third out in the inning is made by:
+
+the batter-runner before reaching first base
+a runner who is forced out (i.e. the runner was required to reach the next base but failed to)
+a preceding (further-advanced) runner is declared out for failing to touch one of the bases.
+
+Offensive self-elimination
+How the offensive players eliminate themselves due to illegal behaviors/actions:
+
+The batter is eliminated if they fail to legally hit the ball by:
+stepping outside of the batter's box lines before the hit ball enters fair territory (i.e. passes the no-hit zone)
+hitting the ball on its first bounce into foul territory or in the “no-hit” zone
+hitting the ball in such a way that it goes into foul territory before passing first or third base
+completely missing the ball in the attempt of hitting
+intentionally faking to hit the ball
+not making a hit ball touch the fair ground before touching the fences or going above the fences
+not giving the hit ball enough momentum to reach the outfield fence (i.e. the boundary of fair territory which is beyond the infield) after its first bounce(s), unless it is touched by a defender
+not respecting the batting order and hitting in place of a teammate
+A baserunner is eliminated by:
+being hit by a legally hit ball
+leaving their base before the batter hits the ball
+passing a teammate while in the action of running the bases
+being tagged while they and other runner(s) are on the same base in a non-force situation. The one who batted most recently shall be called "out"
+diving or sliding in the attempt to safely reach a base or in the attempt to avoid a tag
+Note: If a play occurs where the batter failed to legally hit the ball, then the play is canceled (i.e. any runners who got out or advanced around the bases during the play return to their bases as if the play never happened) and the batter is eliminated.
+
+Special batting order situation
+In a situation with bases loaded and two outs (two offensive players having been eliminated), if the runner at third base has to be the next hitter in the batting order, the runners at first and second bases each advance one base, the runner on third base goes to hit, and a pinch runner is placed on first base. In teams with only five players, the first player "called out" (eliminated) in that inning becomes pinch runner on the base of the runner who is required to hit. The batting order and the gender balance (in mixed-gender competitions) shall always be respected.
+
+Defense
+The five players (1st Base, 2nd Base, Midfielder, Shortstop, and 3rd Base, from right to left) of the defensive team shall all be in fair territory when the batter hits the ball.
+
+Elimination methods
+How the defense makes "outs" (eliminates offensive players) using the ball:
+
+By touching the base (while in possession of the ball) to which a runner is "forced" to run
+(The batter is always forced to run to first base, and any runner must run to the next base if they are on a base to which a teammate is forced to run.)
+By catching a hit ball before it touches the ground (this eliminates the batter).
+If a catch occurs that gets the batter out, all runners must return to or remain on the bases they were on before the catch, and only then can they continue advancing around the bases; otherwise, a defender holding the ball can touch the base the runner started from to get them out.
+By tagging a runner when he/she is not on a base (touching the ball, held in the defensive player's hand, to the runner)
+
+Ball leaving the field
+The ball remains live if a defender with the ball leaves the field, so long as they secured possession of the ball in fair territory.
+If the ball leaves the court due to a defensive error (missed throw or missed catch of a thrown ball), each runner is awarded an extra base (i.e. the batter goes to 2nd base, and all other runners advance 2 bases as well). Any runner who clearly advanced 2 bases before the defensive error may be granted an extra base as well (i.e. a runner on 1st who advanced to 3rd before the error can be awarded home plate). However, no extra base is awarded for a ball leaving the field for any other reason (i.e. the batter only goes to 1st base if the hit ball rebounds out of play off a defender.)
+
+End of the game
+The game ends at the end of the fifth inning if one team has scored more runs than the opponent. Should the Home Team be ahead on the score after the Guest Team has completed its fifth offensive inning, the game is over and the Home Team wins. 
+Many B5 tournaments feature best-of-three series known as "matches" or "games", with each individual game in the series called a "game" or "set", and the team winning two sets being the winner of the overall match.
+
+Tiebreaker
+In case of a tie game, the teams shall play and complete extra inning(s) until one team scores more runs than the opponent. In the sixth inning, the player scheduled to hit fifth (i.e. the player who batted last in the fifth inning, and whose name precedes the first batter of the sixth inning) is placed on first base as a runner to start the inning. In the seventh inning, the players scheduled to hit fifth and fourth are placed on first and second base respectively, and so on with three runners to start the following innings until the game ends.
+By WBSC regulations, the game ends if there is still a tie after 7 extra innings.
+
+Run-ahead rule
+A game is over if a team leads by 15 runs at the end of the third inning or by 10 at the end of the fourth.
+
+Differences from baseball and softball
+There are only five players on each team, and the game lasts only five innings.
+There is no pitcher, catcher, or outfielders. (A "midfielder" fields in the position where the pitcher would normally be.)
+Defensive players do not have gloves to catch the ball, which is hollow and made of rubber.
+In contrast to the varying outfield dimensions in baseball and softball, a B5 field has a standardized size and square shape with a length of 21 m (68.90 ft) on each side. The bases are only 13 m (43 ft) apart, rather than 60 feet (18 m) or 90 feet (27 m) apart as in softball and baseball respectively. In addition, the bases are only marked on the ground, rather than being physical cushions.
+The batter starts each play off with the ball, and only gets one chance to legally hit it into fair territory; otherwise they are out. Notably, this includes a requirement that the hit ball must travel at least 3 metres (9.8 ft) before it first bounces, so that it does not go into the "no-hit zone" in front of home plate.
+The first bounce of the hit ball must be in the field and in fair territory (i.e. out-of-the-park home runs are not allowed), and it must have enough momentum to reach the fence if no fielder touches it. For youth players, the hit ball need only reach the outfield i.e. pass the line connecting the bases.
+
+Governance
+At the international level, B5 is administered by the World [Baseball](1930) Softball Confederation (WBSC). Within each country, it is administered by the national baseball and/or softball governing body. Exceptions apply for certain countries, such as Japan, where a specific governing body has been set up to run B5.
+
+Competitions
+International tournaments
+The [Baseball](1930)5 World Cup (B5WC) and Youth [Baseball](1930)5 World Cup (YB5WC) are administered by the WBSC, with both tournaments alternating and happening every two years, and following the general format of having 50 games played between 12 national teams over 7 days. Continental qualifiers for each tournament will be played during their off-year. The 2025 YB5WC will act as a qualifier for the mixed-gender [Baseball](1930)5 event to be held in the Dakar 2026 Youth Olympic Games (YOG).
+WBSC's premier events:
+
+[Baseball](1930)5 World Cup (Since 2022)
+[Baseball](1930)5 European Championship (Since 2020) - France and Lithuania qualified for 2022 B5WC
+[Baseball](1930)5 African Championship (Since 2022)
+[Baseball](1930)5 Asia Cup (Since 2022) 
+[Baseball](1930)5 Pan American Championship (Since 2024)
+Youth [Baseball](1930)5 World Cup (Since 2023) - For players 14 to 18 years old
+[Baseball](1930)5 Youth Asia Cup - Chinese Taipei (Taiwan), China, and South Korea qualified for 2023 YB5WC.
+European Under-17 [Baseball](1930)5 Championship (Since 2022) - France and Turkiye qualified for 2023 YB5WC
+Youth Olympic Games (Beginning 2026)
+WBSC Qualifier events:
+European Under-15 [Baseball](1930)5 Championship (Since 2023)
+Multi-sport events:
+
+Asian Indoor and Martial Arts Games (Since 2023)
+African Beach Games (Since 2023)
+Bolivarian Youth Games (Since 2024)
+Southeast Asian Games (Beginning 2025)
+
+See also
+Little League [Baseball](1930), an American nonprofit baseball organisation holding six-inning baseball and softball games for youth leagues
+Variations of baseball
+Punchball/slapball, a very similar game historically played in New York
+Kickball, a variation of baseball where a large hollow ball is kicked by the batter
+American handball, also involving hitting a ball with the hands
+Basque pelota#Hand-pelota
+
+References
+External links
+[Baseball](1930)5 Documents
+[Baseball](1930)5 Competition Management and Scoring System

@@ -1,0 +1,146 @@
+2774
+Flowering plant
+Flowering plants are plants that bear flowers and fruits, and form the clade Angiospermae (). The term 'angiosperm' is derived from the Greek words ἀγγεῖον / angeion ('container, vessel') and σπέρμα / sperma ('seed'), meaning that the seeds are enclosed within a fruit. The group was formerly called Magnoliophyta.
+Angiosperms are by far the most diverse group of land plants with 64 orders, 416 families, approximately 13,000 known genera and 300,000 known species. They include all forbs (flowering plants without a woody stem), grasses and grass-like plants, a vast majority of broad-leaved trees, shrubs and vines, and most aquatic plants. Angiosperms are distinguished from the other major seed plant clade, the gymnosperms, by having flowers, xylem consisting of vessel elements instead of tracheids, endosperm within their seeds, and fruits that completely envelop the seeds. The ancestors of flowering plants diverged from the common ancestor of all living gymnosperms before the end of the Carboniferous, over 300 million years ago. In the Cretaceous, angiosperms diversified explosively, becoming the dominant group of plants across the planet.
+[Agriculture](519) is almost entirely dependent on angiosperms, and a small number of flowering plant families supply nearly all plant-based food and livestock feed. Rice, maize and wheat provide half of the world's staple calorie intake, and all three plants are cereals from the Poaceae family (colloquially known as grasses). Other families provide important industrial plant products such as wood, paper and cotton, and supply numerous ingredients for beverages, sugar production, traditional medicine and modern pharmaceuticals. Flowering plants are also commonly grown for decorative purposes, with certain flowers playing significant cultural roles in many societies.
+Out of the "Big Five" extinction events in Earth's history, only the Cretaceous–Paleogene extinction event had occurred while angiosperms dominated plant life on the planet. Today, the Holocene extinction affects all kingdoms of complex life on Earth, and conservation measures are necessary to protect plants in their habitats in the wild (in situ), or failing that, ex situ in seed banks or artificial habitats like botanic gardens. Otherwise, around 40% of plant species may become extinct due to human actions such as habitat destruction, introduction of invasive species, unsustainable logging, land clearing and overharvesting of medicinal or ornamental plants. Further, climate change is starting to impact plants and is likely to cause many species to become extinct by 2100.
+
+Distinguishing features
+Angiosperms are terrestrial vascular plants; like the gymnosperms, they have roots, stems, leaves, and seeds. They differ from other seed plants in several ways.
+
+Diversity
+Ecological diversity
+Largest and smallest
+		
+			
+			
+		
+		
+			
+			
+		
+
+The largest angiosperms are Eucalyptus gum trees of Australia, and Shorea faguetiana, dipterocarp rainforest trees of Southeast Asia, both of which can reach almost 100 metres (330 ft) in height. The smallest are Wolffia duckweeds which float on freshwater, each plant less than 2 millimetres (0.08 in) across.
+
+	Photosynthetic and parasitic
+		
+			
+			
+		
+		
+			
+			
+		
+
+Considering their method of obtaining energy, some 99% of flowering plants are photosynthetic autotrophs, deriving their energy from sunlight and using it to create molecules such as sugars. The remainder are parasitic, whether on fungi like the orchids for part or all of their life-cycle, or on other plants, either wholly like the broomrapes, Orobanche, or partially like the witchweeds, Striga.
+
+	Hot, cold, wet, dry, fresh, salt
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+In terms of their environment, flowering plants are cosmopolitan, occupying a wide range of habitats on land, in fresh water and in the sea. On land, they are the dominant plant group in every habitat except for frigid moss-lichen tundra and coniferous forest. The seagrasses in the Alismatales grow in marine environments, spreading with rhizomes that grow through the mud in sheltered coastal waters.
+
+	Acid, alkaline
+		
+			
+			
+		
+		
+			
+			
+		
+
+Some specialised angiosperms are able to flourish in extremely acid or alkaline habitats. The sundews, many of which live in nutrient-poor acid bogs, are carnivorous plants, able to derive nutrients such as nitrate from the bodies of trapped insects. Other flowers such as Gentiana verna, the spring gentian, are adapted to the alkaline conditions found on calcium-rich chalk and limestone, which give rise to often dry topographies such as limestone pavement.
+
+	Herbaceous, woody, climbing
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+As for their growth habit, the flowering plants range from small, soft herbaceous plants, often living as annuals or biennials that set seed and die after one growing season, to large perennial woody trees that may live for many centuries and grow to many metres in height. Some species grow tall without being self-supporting like trees by climbing on other plants in the manner of vines or lianas.
+
+Taxonomic diversity
+The number of species of flowering plants is estimated to be in the range of 250,000 to 400,000. This compares to around 12,000 species of moss and 11,000 species of pteridophytes.  The APG system seeks to determine the number of families, mostly by molecular phylogenetics. In the 2009 APG III there were 415 families. The 2016 APG IV added five new orders (Boraginales, Dilleniales, Icacinales, Metteniusales and Vahliales), along with some new families, for a total of 64 angiosperm orders and 416 families.
+The diversity of flowering plants is not evenly distributed. Nearly all species belong to the eudicot (75%), monocot (23%), and magnoliid (2%) clades. The remaining five clades contain a little over 250 species in total; i.e. less than 0.1% of flowering plant diversity, divided among nine families. The 25 most species-rich of 443 families,  containing over 166,000 species between them in their APG circumscriptions, are:
+
+Evolution
+History of classification
+The botanical term "angiosperm", from Greek words angeíon (ἀγγεῖον 'bottle, vessel') and spérma (σπέρμα 'seed'), was coined in the form "Angiospermae" by Paul Hermann in 1690, including only flowering plants whose seeds were enclosed in capsules. The term angiosperm fundamentally changed in meaning in 1827 with Robert Brown, when angiosperm came to mean a seed plant with enclosed ovules. In 1851, with Wilhelm Hofmeister's work on embryo-sacs, Angiosperm came to have its modern meaning of all the flowering plants including Dicotyledons and Monocotyledons. The APG system treats the flowering plants as an unranked clade without a formal Latin name (angiosperms). A formal classification was published alongside the 2009 revision in which the flowering plants rank as the subclass Magnoliidae. From 1998, the Angiosperm Phylogeny Group (APG) has reclassified the angiosperms, with updates in the APG II system in 2003, the APG III system in 2009, and the APG IV system in 2016.
+
+Phylogeny
+External
+In 2019, a molecular phylogeny of plants placed the flowering plants in their evolutionary context:
+
+Internal
+The main groups of living angiosperms are:
+
+In 2024, Alexandre R. Zuntini and colleagues constructed a tree of some 6,000 flowering plant genera, representing some 60% of the existing genera, on the basis of analysis of 353 nuclear genes in each specimen. Much of the existing phylogeny is confirmed; the rosid phylogeny is revised.
+
+Fossil history
+Fossilised spores suggest that land plants (embryophytes) have existed for at least 475 million years. However, angiosperms appear suddenly and in great diversity in the fossil record in the Early Cretaceous (~130 mya). Claimed records of flowering plants prior to this are not widely accepted. Molecular evidence suggests that the ancestors of angiosperms diverged from the gymnosperms during the late Devonian, about 365 million years ago. The origin time of the crown group of flowering plants remains contentious. By the Late Cretaceous, angiosperms appear to have dominated environments formerly occupied by ferns and gymnosperms. Large canopy-forming trees replaced conifers as the dominant trees close to the end of the Cretaceous, 66 million years ago. The radiation of herbaceous angiosperms occurred much later.
+
+Reproduction
+Flowers
+The characteristic feature of angiosperms is the flower. Its function is to ensure fertilization of the ovule and development of fruit containing seeds. It may arise terminally on a shoot or from the axil of a leaf. The flower-bearing part of the plant is usually sharply distinguished from the leaf-bearing part, and forms a branch-system called an inflorescence.
+Flowers produce two kinds of reproductive cells. Microspores, which divide to become pollen grains, are the male cells; they are borne in the stamens. The female cells, megaspores, divide to become the egg cell. They are contained in the ovule and enclosed in the carpel; one or more carpels form the pistil.
+The flower may consist only of these parts, as in wind-pollinated plants like the willow, where each flower comprises only a few stamens or two carpels. In insect- or bird-pollinated plants, other structures protect the sporophylls and attract pollinators. The individual members of these surrounding structures are known as sepals and petals (or tepals in flowers such as Magnolia where sepals and petals are not distinguishable from each other). The outer series (calyx of sepals) is usually green and leaf-like, and functions to protect the rest of the flower, especially the bud. The inner series (corolla of petals) is, in general, white or brightly colored, is more delicate in structure, and attracts pollinators by colour, scent, and nectar.
+Most flowers are hermaphroditic, producing both pollen and ovules in the same flower, but some use other devices to reduce self-fertilization. Heteromorphic flowers have carpels and stamens of differing lengths, so animal pollinators cannot easily transfer pollen between them. Homomorphic flowers may use a biochemical self-incompatibility to discriminate between self and non-self pollen grains. Dioecious plants such as holly have male and female flowers on separate plants. Monoecious plants have separate male and female flowers on the same plant; these are often wind-pollinated, as in maize, but include some insect-pollinated plants such as Cucurbita squashes.
+
+Fertilisation and embryogenesis
+Double fertilization requires two sperm cells to fertilise cells in the ovule. A pollen grain sticks to the stigma at the top of the pistil, germinates, and grows a long pollen tube. A haploid generative cell travels down the tube behind the tube nucleus. The generative cell divides by mitosis to produce two haploid (n) sperm cells. The pollen tube grows from the stigma, down the style and into the ovary. When it reaches the micropyle of the ovule, it digests its way into one of the synergids, releasing its contents including the sperm cells. The synergid that the cells were released into degenerates; one sperm makes its way to fertilise the egg cell, producing a diploid (2n) zygote. The second sperm cell fuses with both central cell nuclei, producing a triploid (3n) cell. The zygote develops into an embryo; the triploid cell develops into the endosperm, the embryo's food supply. The ovary develops into a fruit. and each ovule into a seed.
+
+[Fruit](2777) and seed
+As the embryo and endosperm develop, the wall of the embryo sac enlarges and combines with the nucellus and integument to form the seed coat. The ovary wall develops to form the fruit or pericarp, whose form is closely associated with type of seed dispersal system.
+Other parts of the flower often contribute to forming the fruit. For example, in the apple, the hypanthium forms the edible flesh, surrounding the ovaries which form the tough cases around the seeds.
+Apomixis, setting seed without fertilization, is found naturally in about 2.2% of angiosperm genera. Some angiosperms, including many citrus varieties, are able to produce fruits through a type of apomixis called nucellar embryony.
+
+Sexual selection
+Adaptive function of flowers
+Charles Darwin in his 1878 book The Effects of Cross and Self-Fertilization in the Vegetable Kingdom in the initial paragraph of chapter XII noted "The first and most important of the conclusions which may be drawn from the observations given in this volume, is that generally cross-fertilisation is beneficial and self-fertilisation often injurious, at least with the plants on which I experimented."  Flowers emerged in plant evolution as an adaptation for the promotion of cross-fertilisation (outcrossing), a process that allows the masking of deleterious mutations in the genome of progeny.  The masking effect is known as genetic complementation.  This beneficial effect of cross-fertilisation on progeny is also referred to as hybrid vigor or heterosis.  Once flowers became established in a lineage as an evolutionary adaptation to promote cross-fertilization, subsequent switching to inbreeding usually becomes disadvantageous, in large part because it allows expression of the previously masked deleterious recessive mutations, i.e. inbreeding depression.
+Also, Meiosis in flowering plants provides a direct mechanism for repairing DNA through genetic recombination in reproductive tissues.  Sexual reproduction appears to be required for maintaining long-term genomic integrity and only infrequent combinations of extrinsic and intrinsic factors permit shifts to asexuality.  Thus the two fundamental aspects of sexual reproduction in flowering plants, cross-fertilization (outcrossing) and meiosis  appear to be maintained respectively by the advantages of genetic complementation and recombinational repair.
+
+Practical uses
+[Agriculture](519) is almost entirely dependent on angiosperms, which provide virtually all plant-based food and livestock feed. Much of this food derives from a small number of flowering plant families. For instance, half of the world's calorie intake is supplied by just three plants – wheat, rice and maize.
+
+Flowering plants provide a diverse range of materials in the form of wood, paper, fibers such as cotton, flax, and hemp, medicines such as digoxin and opioids, and decorative and landscaping plants. Coffee and hot chocolate are beverages from flowering plants.
+
+Cultural uses
+Both real and fictitious plants play a wide variety of roles in literature and film. Flowers are the subjects of many poems by poets such as William Blake, Robert Frost, and Rabindranath Tagore. Bird-and-flower painting (Huaniaohua) is a kind of Chinese painting that celebrates the beauty of flowering plants. Flowers have been used in literature to convey meaning by authors including William Shakespeare. 
+Flowers are used in a variety of art forms which arrange cut or living plants, such as bonsai, ikebana, and flower arranging. Ornamental plants have sometimes changed the course of history, as in tulipomania. Many countries and regions have floral emblems; a survey of 70 of these found that the most popular flowering plant family for such emblems is Orchidaceae at 15.7% (11 emblems), followed by Fabaceae at 10% (7 emblems), and Asparagaceae, Asteraceae, and Rosaceae all at 5.7% (4 emblems each).
+
+Conservation
+Human impact on the environment has driven a range of species extinct and is threatening even more today. Multiple organizations such as IUCN and Royal Botanic Gardens, Kew suggest that around 40% of plant species are threatened with extinction. The majority are threatened by habitat loss, but activities such as logging of wild timber trees and collection of medicinal plants, or the introduction of non-native invasive species, also play a role.
+
+Relatively few plant diversity assessments currently consider climate change, yet it is starting to impact plants as well. About 3% of flowering plants are very likely to be driven extinct within a century at 2 °C (3.6 °F) of global warming, and 10% at 3.2 °C (5.8 °F). In worst-case scenarios, half of all tree species may be driven extinct by climate change over that timeframe.
+
+Conservation in this context is the attempt to prevent extinction, whether in situ by protecting plants and their habitats in the wild, or ex situ in seed banks or as living plants. Some 3000 botanic gardens around the world maintain living plants, including over 40% of the species known to be threatened, as an "insurance policy against extinction in the wild." The United Nations' Global Strategy for Plant Conservation asserts that "without plants, there is no life". It aims to "halt the continuing loss of plant diversity" throughout the world.
+
+References
+Bibliography
+Articles, books and chapters
+
+
+=== Websites ===

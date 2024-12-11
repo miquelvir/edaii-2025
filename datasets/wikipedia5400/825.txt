@@ -1,0 +1,72 @@
+825
+Augmented assignment
+Augmented assignment (or compound assignment) is the name given to certain 
+assignment operators in certain programming languages (especially those derived from C). An augmented assignment is generally used to replace a statement where an operator takes a variable as one of its arguments and then assigns the result back to the same variable. A simple example is x += 1 which is expanded to x = x + 1. Similar constructions are often available for various binary operators.
+In general, in languages offering this feature, most operators that can take a variable as one of their arguments and return a result of the same type have an augmented assignment equivalent that assigns the result back to the variable in place, including arithmetic operators, bitshift operators, and bitwise operators.
+
+Discussion
+For example, the following statement or some variation of it can be found in many programs:
+
+x = x + 1
+
+This means "find the number stored in the variable x, add 1 to it, and store the result of the addition in the variable x."  As simple as this seems, it may have an inefficiency, in that the location of variable x has to be looked up twice if the compiler does not recognize that two parts of the expression are identical: x might be a reference to some array element or other complexity. In comparison, here is the augmented assignment version:
+
+x += 1
+
+With this version, there is no excuse for a compiler failing to generate code that looks up the location of variable x just once, and modifies it in place, if of course the machine code supports such a sequence. For instance, if x is a simple variable, the machine code sequence might be something like
+
+ Load  x
+ Add   1
+ Store x
+
+and the same code would be generated for both forms. But if there is a special op code, it might be
+
+ MDM   x,1
+
+meaning "Modify Memory" by adding 1 to x, and an optimizing compiler would generate the same code for both forms. Some machine codes offer INC and DEC operations (to add or subtract one), others might allow constants other than one.
+More generally, the form is
+
+x ?= expression
+
+where the ? stands for some operator (not always +), and there may be no special op codes to help. There is still the possibility that if x is a complicated entity the compiler will be encouraged to avoid duplication in accessing x, and of course, if x is a lengthy name, there will be less typing required. This last was the basis of the similar feature in the [ALGOL](706) compilers offered via the Burroughs B6700 systems, using the tilde symbol to stand for the variable being assigned to, so that
+
+LongName:=x + sqrt(LongName)*7;
+
+would become
+
+LongName:=x + sqrt(~)*7;
+
+and so forth. This is more general than just x:=~ + 1; Producing optimum code would remain the province of the compiler.
+
+Semantics
+In expression-oriented programming languages such as C, assignment and augmented assignment are expressions, which have a value. This allows their use in complex expressions. However, this can produce sequences of symbols that are difficult to read or understand, and worse, a mistype can easily produce a different sequence of gibberish that although accepted by the compiler does not produce desired results. In other languages, such as Python, assignment and augmented assignment are statements, not expressions, and thus cannot be used in complex expressions. For example, the following is valid C, but not valid Python:
+
+As with assignment, in these languages augmented assignment is a form of right-associative assignment.
+Unlike in C, the compound assignment expressions of [C++](640) evaluate to an lvalue.
+Being an lvalue allows it to be written on the left-hand-side of some other assignment statement:
+
+Computed assignment locations
+In languages such as C, [C++](640) and Python, an augmented assignment where the assignment location includes function calls, is mandated to only call the functions once. I.e in the statement:
+
+The function f1 is mandated to only be called once. 
+If a language implements augmented assignment by macro expansion to:
+
+Then f1 is called twice.
+
+By language
+C descendants
+In C, [C++](640), and C#, the assignment operator is =, which is augmented as follows:
+
+Each of these is called a compound assignment operator in said languages.
+
+Supporting languages
+The following list, though not complete or all-inclusive, lists some of the major programming languages that support augmented assignment operators.
+
+See also
+Compound operator
+Fused operation
+Increment and decrement operators—special case of augmented assignment, by 1
+IEEE 754 augmented arithmetic operation
+
+
+== References ==

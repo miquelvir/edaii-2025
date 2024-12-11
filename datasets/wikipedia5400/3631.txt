@@ -1,0 +1,29 @@
+3631
+Alfred Werner
+Alfred Werner (12 December 1866 – 15 November 1919) was a Swiss chemist who was a student at ETH Zurich and a professor at the University of Zurich. He won the Nobel Prize in [Chemist](3695)ry in 1913 for proposing the octahedral configuration of transition metal complexes. Werner developed the basis for modern coordination chemistry. He was the first inorganic chemist to win the Nobel Prize, and the only one prior to 1973.
+
+Biography
+Werner was born in 1866 in Mulhouse, Alsace (which was then part of France, but which was annexed by Germany in 1871). He was raised as Roman Catholic. He was the fourth and last child of Jean-Adam Werner, a foundry worker, and his second wife, Salomé Jeannette Werner, who originated from a wealthy family. He went to Switzerland to study chemistry at the Swiss Federal Institute (polytechnikum) in Zurich. Still, since this institute was not empowered to grant doctorates until 1909, Werner received a doctorate formally from the University of Zürich in 1890. After postdoctoral study in [Paris](2293), he returned to the Swiss Federal Institute to teach (1892). In 1893 he moved to the University of Zurich, where he became a professor in 1895. In 1894 he became a Swiss citizen.
+In his last year, he suffered from a general, progressive, degenerative arteriosclerosis, especially of the brain, aggravated by years of excessive drinking and overwork. He died in a psychiatric hospital in Zürich.
+Werner died on 15 November 1919 of arteriosclerosis in Zürich at the age of 52.
+
+Research
+Coordination chemistry
+In 1893, Werner was the first to propose correct structures for coordination compounds containing complex ions, in which a central transition metal atom is surrounded by neutral or anionic ligands.
+For example, it was known that cobalt forms a "complex" hexamine cobalt (III) chloride, with formula CoCl3•6NH3, but the nature of the association indicated by the dot was mysterious. Werner proposed the structure Co(NH3)6Cl3, with the Co3+ ion surrounded by six NH3 at the vertices of an octahedron. The three Cl− are dissociated as free ions, which Werner confirmed by measuring the conductivity of the compound in an aqueous solution, and also by chloride anion analysis using precipitation with silver nitrate. Later, magnetic susceptibility analysis was also used to confirm Werner's proposal for the chemical nature of CoCl3•6NH3.
+
+For complexes with more than one type of ligand, Werner succeeded in explaining the number of isomers observed. For example, he explained the existence of two tetramine isomers, "Co(NH3)4Cl3", one green and one purple. Werner proposed that these are two geometric isomers of formula Co(NH3)4Cl2Cl, with one Cl− ion dissociated as confirmed by conductivity measurements. The Co atom is surrounded by four NH3 and two Cl ligands at the vertices of an octahedron. The green isomer is "trans" with the two Cl ligands at opposite vertices, and the purple is "cis" with the two Cl at adjacent vertices.
+Werner also prepared complexes with optical isomers, and in 1914 he reported the first synthetic chiral compound lacking carbon, known as hexol with formula Co(Co(NH3)4(OH)2)3Br6.
+
+Nature of valence
+Before Werner, chemists defined the valence of an element as the number of its bonds without distinguishing different types of bonds. However, in complexes such as Co(NH3)6Cl3 for example, Werner considered that the Co-Cl bonds correspond to a "primary" valence of 3 at long distance, while the Co-NH3 bonds which correspond to a "secondary" or weaker valence of 6 at shorter length. This secondary valence of 6 he referred to as the coordination number which he defined as the number of molecules (here of NH3) directly linked to the central metal atom. In other complexes, he found coordination numbers of 4 or 8.
+On these views, and other similar views, in 1904 Richard Abegg formulated what is now known as Abegg's rule which states that the difference between the maximum positive and negative valence of an element is frequently eight. This rule was used later in 1916 when Gilbert N. Lewis formulated the "octet rule" in his cubical atom theory.
+In modern terminology, Werner's primary valence corresponds to the oxidation state, and his secondary valence is called coordination number. The Co-Cl bonds (in the above example) are now classed as ionic, and each Co-N bond is a coordinate covalent bond between the Lewis acid Co3+ and the Lewis base NH3.
+
+Works
+Lehrbuch der Stereochemie  . Fischer, Jena 1904 Digital edition by the University and State Library Düsseldorf
+
+References
+External links
+Alfred Werner on Nobelprize.org  including the Nobel Lecture, 11 December 1913 On the Constitution and Configuration of Higher-Order Compounds
+The Nobel Prize in [Chemist](3695)ry 1913 - short article about his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research, especially in inorganic chemistry.

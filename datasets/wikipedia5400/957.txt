@@ -1,0 +1,46 @@
+957
+Dataflow architecture
+Dataflow architecture is a dataflow-based computer architecture that directly contrasts the traditional von Neumann architecture or control flow architecture. Dataflow architectures have no program counter, in concept: the executability and execution of instructions is solely determined based on the availability of input arguments to the instructions, so that the order of instruction execution may be hard to predict.  
+Although no commercially successful general-purpose computer hardware has used a dataflow architecture, it has been successfully implemented in specialized hardware such as in digital signal processing, network routing, graphics processing, telemetry, and more recently in data warehousing, and artificial intelligence (as: polymorphic dataflow Convolution Engine, structure-driven, dataflow scheduling). It is also very relevant in many software architectures today including database engine designs and parallel computing frameworks.
+Synchronous dataflow architectures tune to match the workload presented by real-time data path applications such as wire speed packet forwarding. Dataflow architectures that are deterministic in nature enable programmers to manage complex tasks such as processor load balancing, synchronization and accesses to common resources. 
+Meanwhile, there is a clash of terminology, since the term dataflow is used for a subarea of parallel programming: for dataflow programming.
+
+History
+Hardware architectures for dataflow was a major topic in computer architecture research in the 1970s and early 1980s. Jack Dennis of MIT pioneered the field of static dataflow architectures while the Manchester Dataflow Machine and MIT Tagged Token architecture were major projects in dynamic dataflow.
+The research, however, never overcame the problems related to:
+
+Efficiently broadcasting data tokens in a massively parallel system.
+Efficiently dispatching instruction tokens in a massively parallel system.
+Building content-addressable memory (CAM) large enough to hold all of the dependencies of a real program.
+Instructions and their data dependencies proved to be too fine-grained to be effectively distributed in a large network. That is, the time for the instructions and tagged results to travel through a large connection network was longer than the time to do many computations.  
+Nonetheless, out-of-order execution (OOE) has become the dominant computing paradigm since the 1990s. It is a form of restricted dataflow. This paradigm introduced the idea of an execution window. The execution window follows the sequential order of the von Neumann architecture, however within the window, instructions are allowed to be completed in data dependency order. This is accomplished in CPUs that dynamically tag the data dependencies of the code in the execution window. The logical complexity of dynamically keeping track of the data dependencies, restricts OOE CPUs to a small number of execution units (2-6) and limits the execution window sizes to the range of 32 to 200 instructions, much smaller than envisioned for full dataflow machines.
+
+Dataflow architecture topics
+Static and dynamic dataflow machines
+Designs that use conventional memory addresses as data dependency tags are called static dataflow machines. These machines did not allow multiple instances of the same routines to be executed simultaneously because the simple tags could not differentiate between them. 
+Designs that use content-addressable memory (CAM) are called dynamic dataflow machines. They use tags in memory to facilitate parallelism.
+
+[Compiler](662)
+Normally, in the control flow architecture, compilers analyze program source code for data dependencies between instructions in order to better organize the instruction sequences in the binary output files.  The instructions are organized sequentially but the dependency information itself is not recorded in the binaries. Binaries compiled for a dataflow machine contain this dependency information. 
+A dataflow compiler records these dependencies by creating unique tags for each dependency instead of using variable names. By giving each dependency a unique tag, it allows the non-dependent code segments in the binary to be executed out of order and in parallel. [Compiler](662) detects the loops, break statements and various programming control syntax for data flow.
+
+Programs
+Programs are loaded into the CAM of a dynamic dataflow computer. When all of the tagged operands of an instruction become available (that is, output from previous instructions and/or user input), the instruction is marked as ready for execution by an execution unit. 
+This is known as activating or firing the instruction. Once an instruction is completed by an execution unit, its output data is sent (with its tag) to the CAM. Any instructions that are dependent upon this particular datum (identified by its tag value) are then marked as ready for execution. In this way, subsequent instructions are executed in proper order, avoiding race conditions. This order may differ from the sequential order envisioned by the human programmer, the programmed order.
+
+Instructions
+An instruction, along with its required data operands, is transmitted to an execution unit as a packet, also called an instruction token. Similarly, output data is transmitted back to the CAM as a data token. The packetization of instructions and results allows for parallel execution of ready instructions on a large scale. 
+Dataflow networks deliver the instruction tokens to the execution units and return the data tokens to the CAM. In contrast to the conventional von Neumann architecture, data tokens are not permanently stored in memory, rather they are transient messages that only exist when in transit to the instruction storage.
+
+See also
+Parallel computing
+SISAL
+Binary Modular Dataflow Machine (BMDFM)
+Systolic array
+Transport triggered architecture
+Network on a chip (NoC)
+System on a chip (SoC)
+In-memory computing
+
+
+== References ==

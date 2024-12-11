@@ -1,0 +1,86 @@
+2850
+Fragaria
+Fragaria () is a genus of flowering plants in the rose family, Rosaceae, commonly known as strawberries for their edible fruits. There are more than 20 described species and many hybrids and cultivars. The most common strawberries grown commercially are cultivars of the garden strawberry, a hybrid known as Fragaria × ananassa. Strawberries have a taste that varies by cultivar, and ranges from quite sweet to rather tart. Strawberries are an important commercial fruit crop, widely grown in all temperate regions of the world.
+
+Description
+Strawberries are not berries in the botanical sense. The fleshy and edible part of the "fruit" is a receptacle, and the parts that are sometimes mistakenly called "seeds" are achenes and therefore the true botanical fruits.
+
+Etymology
+The genus name Fragaria derives from fragum ("strawberry") and -aria, a suffix used to create feminine nouns and plant names. The Latin name is thought in turn to derive from a Proto-Indo-European language root meaning "berry", either *dʰreh₂ǵ- or *sróh₂gs. The genus name is sometimes mistakenly derived from fragro ("to be fragrant, to reek").
+The English word is found in Old English as streawberige. It is commonly thought that strawberries get their name from straw being used as a mulch in cultivating the plants, though it has been suggested that the word is possibly derived from "strewn berry" in reference to the runners that "strew" or "stray away" from the base of the plants. Streaw in Old English means 'straw', but also streawian means 'to strew', from the same root. David Mikkelson argues that "the word 'strawberry' has been part of the English language for at least a thousand years, well before strawberries were cultivated as garden or farm edibles."
+
+Classification
+There are more than 20 different Fragaria species worldwide. A number of other species have been proposed, some of which are now recognized as subspecies. One key to the classification of strawberry species is that they vary in the number of chromosomes. They all have seven basic types of chromosomes,  but exhibit different polyploidy. Some species are diploid, having two sets of the seven chromosomes (14 chromosomes total), but others are tetraploid (four sets, 28 chromosomes total), hexaploid (six sets, 42 chromosomes total), octoploid (eight sets, 56 chromosomes total), or decaploid (ten sets, 70 chromosomes total).
+As a rough rule (with exceptions), strawberry species with more chromosomes tend to be more robust and produce larger plants with larger berries.
+The oldest fossils confidently classifiable as Fragaria are from the Miocene of Poland. Fossilised Fragaria achenes are also known from the Pliocene of China.
+
+Diploid species
+Fragaria × bifera Duchesne - F. vesca × F. viridis (Europe)
+Fragaria bucharica  Losinsk. (China)
+Fragaria chinensis Losinsk (China)
+[Fragaria daltoniana](2853) J.Gay (Himalayas)
+Fragaria emeiensis Jia J. Lei (China)
+Fragaria gracilis Losinsk. (China)
+Fragaria hayatae Makino (Taiwan)
+[Fragaria iinumae](2854) Makino (East Russia, Japan)
+Fragaria mandshurica Staudt (China)
+[Fragaria nilgerrensis](2858) Schlecht. ex J.Gay (South and Southeast Asia)
+[Fragaria nipponica](2859) Makino (Korea, Japan)
+[Fragaria nubicola](2860) Lindl. ex Lacaita (Himalayas)
+[Fragaria pentaphylla](2862)  Losinsk. (China)
+[Fragaria vesca](2863) L. - woodland strawberry (Northern Hemisphere)
+[Fragaria viridis](2865) Duchesne (Europe, Central Asia)
+
+Tetraploid species
+Fragaria corymbosa Losinsk. (northern China)
+Fragaria × intermedia (Bach) Beck (Europe)
+[Fragaria moupinensis](2857) Cardot (China)
+[Fragaria orientalis](2861) Losinsk. (Eastern Asia, Eastern Siberia)
+Fragaria tibetica Staudt & Dickoré (China)
+
+Pentaploid hybrids
+[Fragaria × bringhurstii](2868) Staudt (coast of California)
+
+Hexaploid species
+[Fragaria moschata](2856) Duchesne - musk strawberry (Europe)
+
+Octoploid species and hybrids
+Fragaria × ananassa Duchesne ex Rozier - garden strawberry, pineapple strawberry
+[Fragaria chiloensis](2852) (L.) Mill. - beach strawberry (Western Americas)
+[Fragaria chiloensis](2852) subsp. chiloensis forma chiloensis
+[Fragaria chiloensis](2852) subsp. chiloensis forma patagonica ([Argentina](1862), Chile)
+[Fragaria chiloensis](2852) subsp. lucida (E. Vilm. ex Gay) Staudt (coast of British Columbia, Washington, Oregon, California)
+[Fragaria chiloensis](2852) subsp. pacifica Staudt (coast of [Alaska](523), British Columbia, Washington, Oregon, California)
+[Fragaria chiloensis](2852) subsp. sandwicensis (Decne.) Staudt - ʻōhelo papa (Hawaiʻi)
+[Fragaria virginiana](2864) Mill. - Virginia strawberry (North America)
+
+Decaploid species and hybrids
+[Fragaria cascadensis](2851) K.E. Hummer (Cascade Mountains in Oregon)
+[Fragaria iturupensis](2855) Staudt - Iturup strawberry (Iturup, Kuril Islands)
+[Fragaria × Comarum hybrids](2867)
+[Fragaria × vescana](2869)
+
+Polyploidy unknown
+Fragaria tayulinensis S.S.Ying (Taiwan)
+
+Uncategorized hybrids
+'Lipstick' (Fragaria × Comarum hybrid), red-flowered runnering ornamental, sparse small globular fruits.
+[Fragaria vesca](2863) and certain other diploid species can be hybridized and produce fertile offspring (although [Fragaria nilgerrensis](2858) appears less compatible).
+[Fragaria moschata](2856) can hybridize with diploid species such as [Fragaria viridis](2865) and [Fragaria nubicola](2860) but producing a lower proportion of viable seeds.
+[Fragaria moschata](2856) can hybridize with Fragaria × ananassa.
+
+Ecology
+A number of species of butterflies and moths feed on strawberry plants.
+
+See also
+[Accessory fruit](2801)
+Mock strawberry (Duchesnea/Potentilla indica) and barren strawberry (Potentilla sterilis, Waldsteinia fragarioides) are closely related species in other genera which resemble Fragaria.
+[Strawberry](2800) tree (disambiguation) is a name for several trees that are unrelated to strawberry.
+The breeding of strawberries
+
+References
+Further reading
+Hogan, Sean (chief consultant) (2003), Flora: A Gardener's Encyclopedia, Portland, Oregon: Timber Press. ISBN 0-88192-538-1.
+
+External links
+Species records in the database (for the query: genus = Fragaria) from the U.S. National Plant Germplasm System website

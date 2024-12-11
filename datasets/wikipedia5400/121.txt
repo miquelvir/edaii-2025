@@ -1,0 +1,69 @@
+121
+Ailuridae
+Ailuridae is a family in the mammal order Carnivora. The family consists of the red panda (the sole living representative) and its extinct relatives.
+Georges Cuvier first described Ailurus as belonging to the raccoon family in 1825; this classification has been controversial ever since. It was classified in the raccoon family because of morphological similarities of the head, colored ringed tail, and other morphological and ecological characteristics. Somewhat later, it was assigned to the bear family.
+Molecular phylogenetic studies had shown that, as an ancient species in the order Carnivora, the red panda is relatively close to the American raccoon and may be either a monotypic family or a subfamily within the procyonid family. An in-depth mitochondrial DNA population analysis study stated: "According to the fossil record, the Red Panda diverged from its common ancestor with bears about 40 million years ago." With this divergence, by comparing the sequence difference between the red panda and the raccoon, the observed mutation rate for the red panda was calculated to be on the order of 109, which is apparently an underestimate compared with the average rate in mammals. This underestimation is probably due to multiple recurrent mutations as the divergence between the red panda and the raccoon is extremely deep.
+The most recent molecular-systematic DNA research places the red panda into its own independent family, Ailuridae. Ailuridae are, in turn, part of a trichotomy within the broad superfamily Musteloidea that also includes the Procyonidae (raccoons) and a group that further subdivides into the Mephitidae (skunks) and Mustelidae (weasels); but it is not a bear (Ursidae).
+Ailurids appear to have originated during the Late Oligocene to Early Miocene in Europe. The earliest known member, Amphictis, was likely an unspecialised carnivore, based on its dentition. Ailurids subsequently dispersed into Asia and North America. The puma-sized Simocyon found in Middle Miocene-Early Pliocene of Europe, North America and China was likely a hypercarnivore. Like modern red panda it had a "false thumb" to aid in climbing. Members of the subfamily Ailurinae, which includes the modern red panda as well as the extinct genera Pristinailurus and Parailurus, developed a specialised dental morphology with blunted cusps, creating an effective grinding surface to process plant material.
+
+Classification
+The relationship of the Ailuridae with other carnivorans is shown in the following phylogenetic tree, which is based on the molecular phylogenetic analysis of six genes in Flynn (2005), with the musteloids updated following the multigene analysis of Law et al. (2018).
+
+In addition to Ailurus, the family Ailuridae includes seven extinct genera, most of which are assigned to three subfamilies: Amphictinae, Simocyoninae, and Ailurinae.
+
+Family Ailuridae J.E. Gray, 1843
+Subfamily †Amphictinae ?Winge, 1896
+†Amphictis ?Pomel, 1853
+†Amphictis borbonica Viret, 1929
+†Amphictis ambigua (Gervais, 1872)
+†Amphictis milloquensis (Helbing, 1936)
+†Amphictis antiqua (de Blainville, 1842)
+†Amphictis schlosseri Heizmann & Morlo, 1994
+†Amphictis prolongata Morlo, 1996
+†Amphictis wintershofensis Roth, 1994
+†Amphictis cuspida Nagel, 2003
+†Amphictis timucua J.A. Baskin, 2017
+Subfamily †Simocyoninae Dawkins, 1868
+†Actiocyon Stock, 1947
+†Actiocyon parverratis Smith et al., 2016
+†Actiocyon leardi Stock, 1947
+†Alopecocyon Camp & Vanderhoof, 1940
+†Alopecocyon getti Mein, 1958
+†Alopecocyon goeriachensis (Toula, 1884)
+†Protursus Crusafont & Kurtén, 1976
+†Protursus simpsoni Crusafont & Kurtén, 1976
+†Simocyon Wagner, 1858
+†Simocyon primigenius (Roth & Wagner, 1854)
+†Simocyon diaphorus (Kaup, 1832)
+†Simocyon batalleri Viret, 1929
+†Simocyon hungaricus Kadic & Kretzoi, 1927
+Subfamily Ailurinae J.E. Gray, 1843
+†Magerictis Ginsburg et al., 1997
+†Magerictis imperialensis Ginsburg et al., 1997
+Tribe Pristinailurini Wallace & Lyon, 2022
+†Pristinailurus Wallace & Wang, 2004
+†Pristinailurus bristoli Wallace & Wang, 2004
+†Parailurus Schlosser, 1899
+†Parailurus anglicus (Dawkins, 1888) Parailurus hungaricus Kormos, 1935
+†Parailurus tedfordi Wallace & Lyon, 2022
+†Parailurus baikalicus Sotnikova, 2008
+Tribe Ailurini
+Ailurus F. Cuvier, 1825
+Ailurus fulgens - Red panda
+Ailurus fulgens styani Thomas, 1902 – Eastern red panda
+Ailurus fulgens fulgens F. Cuvier, 1825 – Western red panda
+An additional, unnamed taxon called only "Ailurinae indet." was described in 2001 based on an upper molar from Four, a Middle Miocene-age locality near Isère, France.
+
+References
+Further reading
+Davis D. Dwight (1964). "The Giant Panda: A Morphological Study of Evolutionary Mechanisms". Zoology Memoirs. 3: 1–339.
+Decker D.M., Wozencraft W.C. (1991). "Phylogenetic Analysis of Recent Procyonid Genera". Journal of Mammalogy. 72 (1): 42–55. doi:10.2307/1381979. JSTOR 1381979.
+Flynn, J.J. and G.D. Wesley Hunt. (2005a). "Carnivora." in The Rise of Placental Mammals: Origin, Timing and Relationships of the Major Extant Clades, by D. Archibold and K. Rose. Baltimore. ISBN 0-8018-8022-X
+Flynn John J; et al. (2005b). "Molecular phylogeny of the Carnivora (Mammalia): ASS-ASS the impact of increased sampling to on resolving enigmatic relationships". Systematic Biology. 54 (2): 1–21. doi:10.1080/10635150590923326. PMID 16012099.
+Flynn, John J. Flynn, Michael A. Nedbal, J.W. Dragoo, and R.L. Honeycutt. (1998) "Whence the Red Panda?" Molecular Phylogenetics and Evolution. Vol. 17, No. 2, November 2000, pp. 190–199. 1
+Glatston, A.R. (1989). Talk Panda Biology. The Hague. ISBN 90-5103-026-6
+Glatston, A.R. (compiler) (1994). "The Red Panda, Olingos, Coatis, Raccoons, and their Relatives: Status survey and conservation action plan for Procyonids and Ailurids."
+IUCN/SSC Mustelid, Viverrid, and Procyonid Specialist Group. IUCN/SSC, Gland, Switzerland.
+Gregory W.K. (1936). "On the Phylogenetic Relationships of the Giant Panda ([Ailuropoda](122)) to other Arctoid Carnivores". American Museum Novitates (878): 1–29.
+Hu, J.C. (1990). "Proceedings of studies of the red panda." Chinese Scientific Publishing, Beijing, China in Chinese.
+Wilson, Don E. and DeeAnn M. Reeder. (2005). Mammal of Species of the World. Johns Hopkins University press. ISBN 0-8018-8221-4.

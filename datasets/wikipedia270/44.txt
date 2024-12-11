@@ -1,0 +1,59 @@
+44
+AMPL
+AMPL (A Mathematical Programming Language) is an algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (e.g. large-scale optimization and scheduling-type problems).
+It was developed by Robert Fourer, David Gay, and Brian Kernighan at Bell Laboratories.
+AMPL supports dozens of solvers, both open source and commercial software, including CBC, CPLEX, FortMP, MOSEK, MINOS, IPOPT, SNOPT, KNITRO, and LGO. Problems are passed to solvers as nl files.
+AMPL is used by more than 100 corporate clients, and by government agencies and academic institutions.
+One advantage of AMPL is the similarity of its syntax to the mathematical notation of optimization problems. This allows for a very concise and readable definition of problems in the domain of optimization. Many modern solvers available on the NEOS Server (formerly hosted at the Argonne National Laboratory, currently hosted at the University of Wisconsin, Madison) accept AMPL input. According to the NEOS statistics AMPL is the most popular format for representing mathematical programming problems.
+
+Features
+AMPL features a mix of declarative and imperative programming styles. Formulating optimization models occurs via declarative language elements such as sets, scalar and multidimensional parameters, decision variables, objectives and constraints, which allow for concise description of most problems in the domain of mathematical optimization.
+Procedures and control flow statements are available in AMPL for
+
+the exchange of data with external data sources such as spreadsheets, databases, XML and text files
+data pre- and post-processing tasks around optimization models
+the construction of hybrid algorithms for problem types for which no direct efficient solvers are available.
+To support re-use and simplify construction of large-scale optimization problems, AMPL allows separation of model and data.
+AMPL supports a wide range of problem types, among them:
+
+Linear programming
+Quadratic programming
+Nonlinear programming
+Mixed-integer programming
+Mixed-integer quadratic programming with or without convex quadratic constraints
+Mixed-integer nonlinear programming
+Second-order cone programming
+Global optimization
+Semidefinite programming problems with bilinear matrix inequalities
+Complementarity theory problems (MPECs) in discrete or continuous variables
+Constraint programming
+AMPL invokes a solver in a separate process which has these advantages:
+
+User can interrupt the solution process at any time
+Solver errors do not affect the interpreter
+32-bit version of AMPL can be used with a 64-bit solver and vice versa
+Interaction with the solver is done through a well-defined nl interface.
+
+Availability
+AMPL is available for many popular 32 & 64-bit operating systems including Linux, macOS, Solaris, AIX, and Windows.
+The translator is proprietary software maintained by AMPL Optimization LLC. However, several online services exist, providing free modeling and solving facilities using AMPL. A free student version with limited functionality and a free full-featured version for academic courses are also available.
+AMPL can be used from within Microsoft Excel via the SolverStudio Excel add-in.
+The AMPL Solver Library (ASL), which allows reading nl files and provides the automatic differentiation, is open-source. It is used in many solvers to implement AMPL connection.
+
+Status history
+This table present significant steps in AMPL history.
+
+A sample model
+A transportation problem from George Dantzig is used to provide a sample AMPL model. This problem finds the least cost shipping schedule that meets requirements at markets and supplies at factories.
+
+Solvers
+Here is a partial list of solvers supported by AMPL:
+
+See also
+sol (format)
+GNU MathProg (previously known as GMPL) is a subset of AMPL supported by the GNU Linear Programming Kit
+
+References
+External links
+Official website
+Prof. Fourer's home page at Northwestern University

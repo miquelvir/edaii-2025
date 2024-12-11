@@ -1,0 +1,500 @@
+667
+Computational chemistry
+Computational chemistry is a branch of chemistry that uses computer simulations to assist in solving chemical problems. It uses methods of theoretical chemistry incorporated into computer programs to calculate the structures and properties of molecules, groups of molecules, and solids.  The importance of this subject stems from the fact that, with the exception of some relatively recent findings related to the hydrogen molecular ion (dihydrogen cation), achieving an accurate quantum mechanical depiction of chemical systems analytically, or in a closed form, is not feasible. The complexity inherent in the many-body problem exacerbates the challenge of providing detailed descriptions of quantum mechanical systems. While computational results normally complement information obtained by chemical experiments, it can occasionally predict unobserved chemical phenomena.
+
+Overview
+Computational chemistry differs from theoretical chemistry, which involves a mathematical description of chemistry. However, computational chemistry involves the usage of computer programs and additional mathematical skills in order to accurately model various chemical problems. In theoretical chemistry, chemists, physicists, and mathematicians develop algorithms and computer programs to predict atomic and molecular properties and reaction paths for chemical reactions. Computational chemists, in contrast, may simply apply existing computer programs and methodologies to specific chemical questions.
+Historically, computational chemistry has had two different aspects:
+
+Computational studies, used to find a starting point for a laboratory synthesis or to assist in understanding experimental data, such as the position and source of spectroscopic peaks.
+Computational studies, used to predict the possibility of so far entirely unknown molecules or to explore reaction mechanisms not readily studied via experiments.
+These aspects, along with computational chemistry's purpose, have resulted in a whole host of algorithms.
+
+History
+Building on the founding discoveries and theories in the history of quantum mechanics, the first theoretical calculations in chemistry were those of Walter Heitler and Fritz London in 1927, using valence bond theory. The books that were influential in the early development of computational quantum chemistry include Linus Pauling and E. Bright Wilson's 1935 Introduction to Quantum Mechanics – with Applications to Chemistry, Eyring, Walter and Kimball's 1944 Quantum Chemistry, Heitler's 1945 Elementary Wave Mechanics – with Applications to Quantum Chemistry, and later Coulson's 1952 textbook Valence, each of which served as primary references for chemists in the decades to follow.
+With the development of efficient computer technology in the 1940s, the solutions of elaborate wave equations for complex atomic systems began to be a realizable objective.  In the early 1950s, the first semi-empirical atomic orbital calculations were performed. Theoretical chemists became extensive users of the early digital computers. One significant advancement was marked by Clemens C. J. Roothaan's 1951 paper in the Reviews of Modern Physics. This paper focused largely on the "LCAO MO" approach (Linear Combination of Atomic Orbitals Molecular Orbitals). For many years, it was the second-most cited paper in that journal.   A very detailed account of such use in the United Kingdom is given by Smith and Sutcliffe. The first ab initio Hartree–Fock method calculations on diatomic molecules were performed in 1956 at MIT, using a basis set of Slater orbitals. For diatomic molecules, a systematic study using a minimum basis set and the first calculation with a larger basis set were published by Ransil and Nesbet respectively in 1960. The first polyatomic calculations using Gaussian orbitals were performed in the late 1950s. The first configuration interaction calculations were performed in Cambridge on the EDSAC computer in the 1950s using Gaussian orbitals by Boys and coworkers. By 1971, when a bibliography of ab initio calculations was published, the largest molecules included were naphthalene and azulene. Abstracts of many earlier developments in ab initio theory have been published by Schaefer.
+In 1964, Hückel method calculations (using a simple linear combination of atomic orbitals (LCAO) method to determine electron energies of molecular orbitals of π electrons in conjugated hydrocarbon systems) of molecules, ranging in complexity from butadiene and benzene to ovalene, were generated on computers at Berkeley and Oxford. These empirical methods were replaced in the 1960s by semi-empirical methods such as CNDO.
+In the early 1970s, efficient ab initio computer programs such as ATMOL, Gaussian, IBMOL, and POLYAYTOM, began to be used to speed ab initio calculations of molecular orbitals. Of these four programs, only Gaussian, now vastly expanded, is still in use, but many other programs are now in use.  At the same time, the methods of molecular mechanics, such as MM2 force field, were developed, primarily by Norman Allinger.
+One of the first mentions of the term computational chemistry can be found in the 1970 book Computers and Their Role in the Physical Sciences by Sidney Fernbach and Abraham Haskell Taub, where they state "It seems, therefore, that 'computational chemistry' can finally be more and more of a reality." During the 1970s, widely different methods began to be seen as part of a new emerging discipline of computational chemistry. The Journal of Computational Chemistry was first published in 1980.
+Computational chemistry has featured in several Nobel Prize awards, most notably in 1998 and 2013. Walter Kohn, "for his development of the density-functional theory", and John Pople, "for his development of computational methods in quantum chemistry", received the 1998 Nobel Prize in Chemistry. Martin Karplus, Michael Levitt and Arieh Warshel received the 2013 Nobel Prize in Chemistry for "the development of multiscale models for complex chemical systems".
+
+Applications
+There are several fields within computational chemistry.
+
+The prediction of the molecular structure of molecules by the use of the simulation of forces, or more accurate quantum chemical methods, to find stationary points on the energy surface as the position of the nuclei is varied.
+Storing and searching for data on chemical entities (see chemical databases).
+Identifying correlations between chemical structures and properties (see quantitative structure–property relationship (QSPR) and quantitative structure–activity relationship (QSAR)).
+Computational approaches to help in the efficient synthesis of compounds.
+Computational approaches to design molecules that interact in specific ways with other molecules (e.g. drug design and catalysis).
+These fields can give rise to several applications as shown below.
+
+Catalysis
+Computational chemistry is a tool for analyzing catalytic systems without doing experiments. Modern electronic structure theory and density functional theory has allowed researchers to discover and understand catalysts. Computational studies apply theoretical chemistry to catalysis research. Density functional theory methods calculate the energies and orbitals of molecules to give models of those structures. Using these methods, researchers can predict values like activation energy, site reactivity and other thermodynamic properties.
+Data that is difficult to obtain experimentally can be found using computational methods to model the mechanisms of catalytic cycles. Skilled computational chemists provide predictions that are close to experimental data with proper considerations of methods and basis sets. With good computational data, researchers can predict how catalysts can be improved to lower the cost and increase the efficiency of these reactions.
+
+Drug development
+Computational chemistry is used in drug development to model potentially useful drug molecules and help companies save time and cost in drug development. The drug discovery process involves analyzing data, finding ways to improve current molecules, finding synthetic routes, and testing those molecules. Computational chemistry helps with this process by giving predictions of which experiments would be best to do without conducting other experiments. Computational methods can also find values that are difficult to find experimentally like pKa's of compounds. Methods like density functional theory can be used to model drug molecules and find their properties, like their HOMO and LUMO energies and molecular orbitals.  Computational chemists also help companies with developing informatics, infrastructure and designs of drugs.
+Aside from drug synthesis, drug carriers are also researched by computational chemists for nanomaterials. It allows researchers to simulate environments to test the effectiveness and stability of drug carriers. Understanding how water interacts with these nanomaterials ensures stability of the material in human bodies. These computational simulations help researchers optimize the material find the best way to structure these nanomaterials before making them.
+
+Computational chemistry databases
+Databases are useful for both computational and non computational chemists in research and verifying the validity of computational methods. Empirical data is used to analyze the error of computational methods against experimental data. Empirical data helps researchers with their methods and basis sets to have greater confidence in the researchers results. Computational chemistry databases are also used in testing software or hardware for computational chemistry.
+Databases can also use purely calculated data. Purely calculated data uses calculated values over experimental values for databases. Purely calculated data avoids dealing with these adjusting for different experimental conditions like zero-point energy. These calculations can also avoid experimental errors for difficult to test molecules. Though purely calculated data is often not perfect, identifying issues is often easier for calculated data than experimental.
+Databases also give public access to information for researchers to use. They contain data that other researchers have found and uploaded to these databases so that anyone can search for them. Researchers use these databases to find information on molecules of interest and learn what can be done with those molecules. Some publicly available chemistry databases include the following.
+
+BindingDB: Contains experimental information about protein-small molecule interactions.
+RCSB: Stores publicly available 3D models of macromolecules (proteins, nucleic acids) and small molecules (drugs, inhibitors)
+ChEMBL: Contains data from research on drug development such as assay results.
+DrugBank: Data about mechanisms of drugs can be found here.
+
+Methods
+Ab initio method
+The programs used in computational chemistry are based on many different quantum-chemical methods that solve the molecular Schrödinger equation associated with the molecular Hamiltonian. Methods that do not include any empirical or semi-empirical parameters in their equations – being derived directly from theory, with no inclusion of experimental data – are called ab initio methods. A theoretical approximation is rigorously defined on first principles and then solved within an error margin that is qualitatively known beforehand. If numerical iterative methods must be used, the aim is to iterate until full machine accuracy is obtained (the best that is possible with a finite word length on the computer, and within the mathematical and/or physical approximations made).
+Ab initio methods need to define a level of theory (the method) and a basis set. A basis set consists of functions centered on the molecule's atoms. These sets are then used to describe molecular orbitals via the linear combination of atomic orbitals (LCAO) molecular orbital method ansatz.
+
+A common type of ab initio electronic structure calculation is the Hartree–Fock method (HF), an extension of molecular orbital theory, where electron-electron repulsions in the molecule are not specifically taken into account; only the electrons' average effect is included in the calculation. As the basis set size increases, the energy and wave function tend towards a limit called the Hartree–Fock limit.
+Many types of calculations begin with a Hartree–Fock calculation and subsequently correct for electron-electron repulsion, referred to also as electronic correlation. These types of calculations are termed post-Hartree–Fock methods. By continually improving these methods, scientists can get increasingly closer to perfectly predicting the behavior of atomic and molecular systems under the framework of quantum mechanics, as defined by the Schrödinger equation. To obtain exact agreement with the experiment, it is necessary to include specific terms, some of which are far more important for heavy atoms than lighter ones.
+In most cases, the Hartree–Fock wave function occupies a single configuration or determinant. In some cases, particularly for bond-breaking processes, this is inadequate, and several configurations must be used.
+The total molecular energy can be evaluated as a function of the molecular geometry; in other words, the potential energy surface. Such a surface can be used for reaction dynamics. The stationary points of the surface lead to predictions of different isomers and the transition structures for conversion between isomers, but these can be determined without full knowledge of the complete surface.
+
+Computational thermochemistry
+A particularly important objective, called computational thermochemistry, is to calculate thermochemical quantities such as the enthalpy of formation to chemical accuracy. Chemical accuracy is the accuracy required to make realistic chemical predictions and is generally considered to be 1 kcal/mol or 4 kJ/mol. To reach that accuracy in an economic way, it is necessary to use a series of post-Hartree–Fock methods and combine the results. These methods are called quantum chemistry composite methods.
+
+Chemical dynamics
+After the electronic and nuclear variables are separated within the Born–Oppenheimer representation), the wave packet corresponding to the nuclear degrees of freedom is propagated via the time evolution operator (physics) associated to the time-dependent Schrödinger equation (for the full molecular Hamiltonian).  In the complementary energy-dependent approach, the time-independent Schrödinger equation is solved using the scattering theory formalism. The potential representing the interatomic interaction is given by the potential energy surfaces. In general, the potential energy surfaces are coupled via the vibronic coupling terms.
+The most popular methods for propagating the wave packet associated to the molecular geometry are:
+
+the Chebyshev (real) polynomial,
+the multi-configuration time-dependent Hartree method (MCTDH),
+the semiclassical method
+and the split operator technique explained below.
+
+Split operator technique
+How a computational method solves quantum equations impacts the accuracy and efficiency of the method. The split operator technique is one of these methods for solving differential equations. In computational chemistry, split operator technique reduces computational costs of simulating chemical systems. Computational costs are about how much time it takes for computers to calculate these chemical systems, as it can take days for more complex systems. Quantum systems are difficult and time-consuming to solve for humans. Split operator methods help computers calculate these systems quickly by solving the sub problems in a quantum differential equation. The method does this by separating the differential equation into two different equations, like when there are more than two operators. Once solved, the split equations are combined into one equation again to give an easily calculable solution.
+This method is used in many fields that require solving differential equations, such as biology. However, the technique comes with a splitting error. For example, with the following solution for a differential equation.
+
+  
+    
+      
+        
+          e
+          
+            h
+            (
+            A
+            +
+            B
+            )
+          
+        
+      
+    
+    {\textstyle e^{h(A+B)}}
+  
+
+The equation can be split, but the solutions will not be exact, only similar. This is an example of first order splitting.
+
+  
+    
+      
+        
+          e
+          
+            h
+            (
+            A
+            +
+            B
+            )
+          
+        
+        ≈
+        
+          e
+          
+            h
+            A
+          
+        
+        
+          e
+          
+            h
+            B
+          
+        
+      
+    
+    {\textstyle e^{h(A+B)}\approx e^{hA}e^{hB}}
+  
+
+There are ways to reduce this error, which include taking an average of two split equations.
+Another way to increase accuracy is to use higher order splitting. Usually, second order splitting is the most that is done because higher order splitting requires much more time to calculate and is not worth the cost. Higher order methods become too difficult to implement, and are not useful for solving differential equations despite the higher accuracy.
+Computational chemists spend much time making systems calculated with split operator technique more accurate while minimizing the computational cost. Calculating methods  is a massive challenge for many chemists trying to simulate molecules or chemical environments.
+
+Density functional methods
+Density functional theory (DFT) methods are often considered to be ab initio methods for determining the molecular electronic structure, even though many of the most common functionals use parameters derived from empirical data, or from more complex calculations. In DFT, the total energy is expressed in terms of the total one-electron density rather than the wave function. In this type of calculation, there is an approximate Hamiltonian and an approximate expression for the total electron density. DFT methods can be very accurate for little computational cost. Some methods combine the density functional exchange functional with the Hartree–Fock exchange term and are termed hybrid functional methods.
+
+Semi-empirical methods
+Semi-empirical quantum chemistry methods are based on the Hartree–Fock method formalism, but make many approximations and obtain some parameters from empirical data. They were very important in computational chemistry from the 60s to the 90s, especially for treating large molecules where the full Hartree–Fock method without the approximations were too costly. The use of empirical parameters appears to allow some inclusion of correlation effects into the methods.
+Primitive semi-empirical methods were designed even before, where the two-electron part of the Hamiltonian is not explicitly included. For π-electron systems, this was the Hückel method proposed by Erich Hückel, and for all valence electron systems, the extended Hückel method proposed by Roald Hoffmann. Sometimes, Hückel methods are referred to as "completely empirical" because they do not derive from a Hamiltonian. Yet, the term "empirical methods", or "empirical force fields" is usually used to describe molecular mechanics.
+
+Molecular mechanics
+In many cases, large molecular systems can be modeled successfully while avoiding quantum mechanical calculations entirely. Molecular mechanics simulations, for example, use one classical expression for the energy of a compound, for instance, the harmonic oscillator. All constants appearing in the equations must be obtained beforehand from experimental data or ab initio calculations.
+
+The database of compounds used for parameterization, i.e. the resulting set of parameters and functions is called the force field, is crucial to the success of molecular mechanics calculations. A force field parameterized against a specific class of molecules, for instance, proteins, would be expected to only have any relevance when describing other molecules of the same class. These methods can be applied to proteins and other large biological molecules, and allow studies of the approach and interaction (docking) of potential drug molecules.
+
+Molecular dynamics
+Molecular dynamics (MD) use either quantum mechanics, molecular mechanics or a mixture of both to calculate forces which are then used to solve Newton's laws of motion to examine the time-dependent behavior of systems. The result of a molecular dynamics simulation is a trajectory that describes how the position and velocity of particles varies with time. The phase point of a system described by the positions and momenta of all its particles on a previous time point will determine the next phase point in time by integrating over Newton's laws of motion.
+
+Monte Carlo
+Monte Carlo (MC) generates configurations of a system by making random changes to the positions of its particles, together with their orientations and conformations where appropriate. It is a random sampling method, which makes use of the so-called importance sampling. Importance sampling methods are able to generate low energy states, as this enables properties to be calculated accurately. The potential energy of each configuration of the system can be calculated, together with the values of other properties, from the positions of the atoms.
+
+Quantum mechanics/molecular mechanics (QM/MM)
+QM/MM is a hybrid method that attempts to combine the accuracy of quantum mechanics with the speed of molecular mechanics. It is useful for simulating very large molecules such as enzymes.
+
+Quantum Computational Chemistry
+Quantum computational chemistry aims to exploit quantum computing to simulate chemical systems, distinguishing itself from the QM/MM (Quantum Mechanics/Molecular Mechanics) approach. While QM/MM uses a hybrid approach, combining quantum mechanics for a portion of the system with classical mechanics for the remainder, quantum computational chemistry exclusively uses quantum computing methods to represent and process information, such as Hamiltonian operators.
+Conventional computational chemistry methods often struggle with the complex quantum mechanical equations, particularly due to the exponential growth of a quantum system's wave function. Quantum computational chemistry addresses these challenges using quantum computing methods, such as qubitization and quantum phase estimation, which are believed to offer scalable solutions.
+Qubitization involves adapting the Hamiltonian operator for more efficient processing on quantum computers, enhancing the simulation's efficiency. Quantum phase estimation, on the other hand, assists in accurately determining energy eigenstates, which are critical for understanding the quantum system's behavior.
+While these techniques have advanced the field of computational chemistry, especially in the simulation of chemical systems, their practical application is currently limited mainly to smaller systems due to technological constraints. Nevertheless, these developments may lead to significant progress towards achieving more precise and resource-efficient quantum chemistry simulations.
+
+Computational costs in chemistry algorithms
+The computational cost and algorithmic complexity in chemistry are used to help understand and predict chemical phenomena. They help determine which algorithms/computational methods to use when solving chemical problems. This section focuses on the scaling of computational complexity with molecule size and details the algorithms commonly used in both domains.
+In quantum chemistry, particularly, the complexity can grow exponentially with the number of electrons involved in the system. This exponential growth is a significant barrier to simulating large or complex systems accurately.
+Advanced algorithms in both fields strive to balance accuracy with computational efficiency. For instance, in MD, methods like Verlet integration or Beeman's algorithm are employed for their computational efficiency. In quantum chemistry, hybrid methods combining different computational approaches (like QM/MM) are increasingly used to tackle large biomolecular systems.
+
+[Algorithm](612)ic complexity examples
+The following list illustrates the impact of computational complexity on algorithms used in chemical computations. It is important to note that while this list provides key examples, it is not comprehensive and serves as a guide to understanding how computational demands influence the selection of specific computational methods in chemistry.
+
+Molecular dynamics
+[Algorithm](612)
+Solves Newton's equations of motion for atoms and molecules.
+
+Complexity
+The standard pairwise interaction calculation in MD leads to an 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          N
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(N^{2})}
+  
+complexity for 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ particles. This is because each particle interacts with every other particle, resulting in 
+  
+    
+      
+        
+          
+            
+              N
+              (
+              N
+              −
+              1
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle {\frac {N(N-1)}{2}}}
+  
+ interactions. Advanced algorithms, such as the Ewald summation or Fast Multipole Method, reduce this to 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        N
+        log
+        ⁡
+        N
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(N\log N)}
+  
+ or even 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(N)}
+  
+ by grouping distant particles and treating them as a single entity or using clever mathematical approximations.
+
+Quantum mechanics/molecular mechanics (QM/MM)
+[Algorithm](612)
+Combines quantum mechanical calculations for a small region with molecular mechanics for the larger environment.
+
+Complexity
+The complexity of QM/MM methods depends on both the size of the quantum region and the method used for quantum calculations. For example, if a Hartree-Fock method is used for the quantum part, the complexity can be approximated as 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          M
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(M^{2})}
+  
+, where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ is the number of basis functions in the quantum region. This complexity arises from the need to solve a set of coupled equations iteratively until self-consistency is achieved.
+
+Hartree-Fock method
+[Algorithm](612)
+Finds a single Fock state that minimizes the energy.
+
+Complexity
+NP-hard or NP-complete as demonstrated by embedding instances of the Ising model into Hartree-Fock calculations. The Hartree-Fock method involves solving the Roothaan-Hall equations, which scales as 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          N
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(N^{3})}
+  
+ to 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        N
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(N)}
+  
+ depending on implementation, with 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ being the number of basis functions. The computational cost mainly comes from evaluating and transforming the two-electron integrals. This proof of NP-hardness or NP-completeness comes from embedding problems like the Ising model into the Hartree-Fock formalism.
+
+Density functional theory
+[Algorithm](612)
+Investigates the electronic structure or nuclear structure of many-body systems such as atoms, molecules, and the condensed phases.
+
+Complexity
+Traditional implementations of DFT typically scale as 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          N
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(N^{3})}
+  
+, mainly due to the need to diagonalize the Kohn-Sham matrix. The diagonalization step, which finds the eigenvalues and eigenvectors of the matrix, contributes most to this scaling. Recent advances in DFT aim to reduce this complexity through various approximations and algorithmic improvements.
+
+Standard CCSD and CCSD(T) method
+[Algorithm](612)
+CCSD and CCSD(T) methods are advanced electronic structure techniques involving single, double, and in the case of CCSD(T), perturbative triple excitations for calculating electronic correlation effects.
+
+Complexity
+CCSD
+Scales as 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          M
+          
+            6
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(M^{6})}
+  
+ where 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ is the number of basis functions. This intense computational demand arises from the inclusion of single and double excitations in the electron correlation calculation.
+
+CCSD(T)
+With the addition of perturbative triples, the complexity increases to 
+  
+    
+      
+        
+          
+            O
+          
+        
+        (
+        
+          M
+          
+            7
+          
+        
+        )
+      
+    
+    {\displaystyle {\mathcal {O}}(M^{7})}
+  
+.  This elevated complexity restricts practical usage to smaller systems, typically up to 20-25 atoms in conventional implementations.
+
+Linear-scaling CCSD(T) method
+[Algorithm](612)
+An adaptation of the standard CCSD(T) method using local natural orbitals (NOs) to significantly reduce the computational burden and enable application to larger systems.
+
+Complexity
+Achieves linear scaling with the system size, a major improvement over the traditional fifth-power scaling of CCSD. This advancement allows for practical applications to molecules of up to 100 atoms with reasonable basis sets, marking a significant step forward in computational chemistry's capability to handle larger systems with high accuracy.
+Proving the complexity classes for algorithms involves a combination of mathematical proof and computational experiments. For example, in the case of the Hartree-Fock method, the proof of NP-hardness is a theoretical result derived from complexity theory, specifically through reductions from known NP-hard problems.
+For other methods like MD or DFT, the computational complexity is often empirically observed and supported by algorithm analysis. In these cases, the proof of correctness is less about formal mathematical proofs and more about consistently observing the computational behaviour across various systems and implementations.
+
+Accuracy
+Computational chemistry is not an exact description of real-life chemistry, as the mathematical and physical models of nature can only provide an approximation. However, the majority of chemical phenomena can be described to a certain degree in a qualitative or approximate quantitative computational scheme.
+Molecules consist of nuclei and electrons, so the methods of quantum mechanics apply. Computational chemists often attempt to solve the non-relativistic Schrödinger equation, with relativistic corrections added, although some progress has been made in solving the fully relativistic Dirac equation. In principle, it is possible to solve the Schrödinger equation in either its time-dependent or time-independent form, as appropriate for the problem in hand; in practice, this is not possible except for very small systems. Therefore, a great number of approximate methods strive to achieve the best trade-off between accuracy and computational cost.
+Accuracy can always be improved with greater computational cost. Significant errors can present themselves in ab initio models comprising many electrons, due to the computational cost of full relativistic-inclusive methods. This complicates the study of molecules interacting with high atomic mass unit atoms, such as transitional metals and their catalytic properties. Present algorithms in computational chemistry can routinely calculate the properties of small molecules that contain up to about 40 electrons with errors for energies less than a few kJ/mol. For geometries, bond lengths can be predicted within a few picometers and bond angles within 0.5 degrees. The treatment of larger molecules that contain a few dozen atoms is computationally tractable by more approximate methods such as density functional theory (DFT).
+There is some dispute within the field whether or not the latter methods are sufficient to describe complex chemical reactions, such as those in biochemistry. Large molecules can be studied by semi-empirical approximate methods. Even larger molecules are treated by classical mechanics methods that use what are called molecular mechanics (MM).In QM-MM methods, small parts of large complexes are treated quantum mechanically (QM), and the remainder is treated approximately (MM).
+
+Software packages
+Many self-sufficient computational chemistry software packages exist. Some include many methods covering a wide range, while others concentrate on a very specific range or even on one method. Details of most of them can be found in:
+
+Biomolecular modelling programs: proteins, nucleic acid.
+Molecular mechanics programs.
+Quantum chemistry and solid state-physics software supporting several methods.
+Molecular design software
+Semi-empirical programs.
+Valence bond programs.
+
+Specialized journals on computational chemistry
+Annual Reports in Computational Chemistry
+Computational and Theoretical Chemistry
+Computational and Theoretical Polymer Science
+Computers & Chemical Engineering
+Journal of Chemical Information and Modeling
+Journal of Chemical Software
+Journal of Chemical Theory and Computation
+Journal of Cheminformatics
+Journal of Computational Chemistry
+Journal of Computer Aided Chemistry
+Journal of Computer Chemistry Japan
+Journal of Computer-aided Molecular Design
+Journal of Theoretical and Computational Chemistry
+Molecular Informatics
+Theoretical Chemistry Accounts
+
+External links
+NIST Computational Chemistry Comparison and Benchmark DataBase – Contains a database of thousands of computational and experimental results for hundreds of systems
+American Chemical Society Division of Computers in Chemistry – American Chemical Society Computers in Chemistry Division, resources for grants, awards, contacts and meetings.
+CSTB report Mathematical Research in Materials Science: Opportunities and Perspectives – CSTB Report
+3.320 Atomistic Computer Modeling of Materials (SMA 5107) Free MIT Course
+Chem 4021/8021 Computational Chemistry Free University of Minnesota Course
+Technology Roadmap for Computational Chemistry
+Applications of molecular and materials modelling.
+Impact of Advances in [Computing](693) and Communications Technologies on Chemical Science and Technology CSTB Report
+MD and Computational Chemistry applications on GPUs
+Susi Lehtola, Antti J. Karttunen:"Free and open source software for computational chemistry education", First published: 23 March 2022, https://doi.org/10.1002/wcms.1610 (Open Access) Archived 9 August 2022 at the Wayback Machine
+CCL.NET: Computational Chemistry List, Ltd.
+
+See also
+
+
+== References ==

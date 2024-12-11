@@ -1,0 +1,27 @@
+925
+Burst buffer
+In the high-performance computing environment, burst buffer is a fast intermediate storage layer positioned between the front-end computing processes and the back-end storage systems. It  bridges the performance gap between the processing speed of the compute nodes and the Input/output (I/O) bandwidth of the storage systems. Burst buffers are often built from arrays of high-performance storage devices, such as NVRAM and SSD. It typically offers from one to two orders of magnitude higher I/O bandwidth than the back-end storage systems.
+
+Use cases
+Burst buffers  accelerate scientific data movement on supercomputers. For example, scientific applications' life cycles typically alternate between 
+computation phases and I/O phases. Namely, after each round of computation (i.e., computation phase), all the computing processes concurrently write their intermediate data 
+to the back-end storage systems (i.e., I/O phase), followed by another round of computation and data movement operations. With the deployment of burst buffers, processes can quickly write their data to a burst buffer after one round of computation, instead of writing to the slow hard disk based storage system, and immediately proceed to the next round of computation without waiting for the data to be moved to the back-end storage system; the data are then asynchronously flushed from the burst buffer to the storage system during the next round of computation. In this way, the long I/O time spent in moving data to the storage system is hidden behind the computation time. In addition, buffering data in a burst buffer gives applications plenty of opportunities to reshape the data traffic to the back-end storage systems for efficient bandwidth utilization of the storage systems. In another common use case, scientific applications can stage their intermediate 
+data in and out of burst buffer without interacting with the slower storage systems. Bypassing the storage systems allows applications to realize most of the 
+performance benefit from burst buffer.
+
+Representative burst buffer architectures
+There are two representative burst buffer architectures in the high-performance computing environment: node-local burst buffer and remote shared burst buffer. In the node-local burst buffer architecture, burst buffer storage is located on 
+the individual compute node, so the aggregate burst buffer bandwidth grows linearly with the compute node count. This scalability benefit has been well-documented in recent literature. It also comes with the demand for a scalable metadata management strategy to maintain a global namespace for data distributed across all the burst buffers. In the remote shared burst buffer architecture, burst buffer storage resides on a fewer number of I/O nodes positioned between the compute nodes and the back-end storage systems. Data movement between the compute nodes and burst buffer needs to go through the network. Placing burst buffer on the I/O nodes facilitates the independent development, deployment and maintenance of the burst buffer service. Hence, several well-known commercialized software products have been developed to manage this type of burst buffer, such as DataWarp and Infinite Memory Engine. As supercomputers are  deployed with multiple heterogeneous burst buffer layers, such as NVRAM on the compute nodes, and SSDs on the dedicated I/O nodes, there is a need to transparently move data across multiple storage layers.
+
+Supercomputers deployed with burst buffer
+Due to its importance, burst buffer has been widely deployed on the leadership-scale supercomputers. For example, node-local burst buffer has been installed on DASH supercomputer at the San Diego Supercomputer Center, Tsubame supercomputers at Tokyo Institute of Technology, Theta and Aurora supercomputers at the Argonne National Laboratory, Summit supercomputer at the Oak Ridge National Laboratory, and Sierra supercomputer at the Lawrence Livermore National Laboratory, etc. Remote shared burst buffer has been adopted by Tianhe-2 supercomputer at the National Supercomputer Center in Guangzhou, Trinity supercomputer at the Los Alamos National Laboratory, Cori supercomputer at the Lawrence Berkeley National Laboratory and ARCHER2 supercomputer at Edinburgh Parallel Computing Centre.
+
+References
+External links
+Cray DataWarp Archived 2017-05-13 at the Wayback Machine, a production burst buffer system developed by Cray.
+Infinite Memory Engine Archived 2017-02-16 at the Wayback Machine, a production burst buffer system developed by Data Direct Network.
+Theta supercomputer, a supercomputer hosted in the Argonne National Laboratory.
+Summit supercomputer, a supercomputer hosted in the Oak Ridge National Laboratory.
+Sierra supercomputer, a supercomputer hosted in the Lawrence National National Laboratory.
+Trinity supercomputer, a supercomputer hosted in the Los Alamos National Laboratory.
+Cori supercomputer Archived 2017-05-26 at the Wayback Machine, a supercomputer hosted in the Lawrence Berkeley National Laboratory.

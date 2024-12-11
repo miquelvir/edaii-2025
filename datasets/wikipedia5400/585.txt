@@ -1,0 +1,23 @@
+585
+Archaeornithura
+Archaeornithura is an extinct genus of ornithuromorphs from the early Cretaceous period. It is known from two fossil specimens of a single species, Archaeornithura meemannae. The specimens have been dated to the Hauterivian age, 130.7 million years ago, making A. meemannae the oldest known ornithuromorph, the lineage that gave rise to modern birds, and contains all living birds as well as many of their extinct relatives.
+
+Discovery and naming
+Both specimens of A. meemannae, the holotype STM7-145 and the paratype STM7-163, were discovered in the interbedded shale rocks of the Huajiying Formation in Hebei Province, China. They were named and described by an international team of paleontologists led by Wang and Zhou Zhonge of the Institute of Vertebrate Paleontology and Paleoanthropology, Beijing. Archaeornithura is the first ornithuromorph found in the Huajiying Formation, which represents the earliest diversification period of the Jehol Biota, "the most important and diverse fossil avifauna known to science". Previously, the only birds known from the Huajiying Formation were Enantiornithes.
+The genus name means "ancient ornithuromorph"; the specific name was chosen in honor of Chinese paleontologist Meemann Chang. The discovery was announced in Nature Communications in May 2015. Paleontologist Stephen Brusatte, who was not affiliated with the study, called the discovery of A. meemannae "one of the most important bird fossils found over the last decade".
+
+Description
+Archaeornithura had a moderately advanced plumage, fan-shaped tail feathers, a U-shaped furcula, highly fused wing apexes, and a well-developed alula – a feathered first finger projecting on the front edge of the wing that is typically used to boost manoeuvrability during flight. Collectively, these traits mean that it shares many morphological features with a modern bird – more than found in any other bird of equivalent age. This suggests that the Ornithuromorpha diverged from other bird-related dinosaurs earlier than previously thought. "The new bird is quite derived and has many advanced features of modern birds," said discoverer Wang Min. Before its discovery, the oldest known ornithuromorphs had been species living about 125 million years ago.
+It also suggests that key evolutionary advantages of birds – skilled flight and rapid growth in development – arose rapidly, and that habitat specialization happened early in bird history. The species had long legs and feet similar to modern plovers, suggesting that it was a shore bird that waded into shallow water to feed. The species appears to have been adept at flying. Both known specimens of A. meemannae are excellently preserved, including substantial feathers. Some Archaeornithura feathers feature a central groove, a trait thought to arise from derived flight feathers. This feature was not previously known in the Ornithuromorpha, suggesting that modern feather morphology, in which it is lacking, evolved separately from the [Archaeopteryx](582) lineage in a later subset of the ornithuromorphs.
+Archaeornithura is distinguished from its closest relatives by a combination of the following traits, each in itself not a unique autapomorphy. The front edge of the sternum is strongly vaulted. The xiphoid process at the rear of the sternum is well-developed and has a rectangular outline. The first finger projects further than the second metacarpal. The second phalanx of the second finger is longer than the first phalanx. The thighbone is short relative to the tarsometatarsus.
+
+Classification
+Archaeornithura was placed in the Hongshanornithidae. Phylogenetic analysis showed that Archaeornithura is closely related to more recent and derived hongshanornithids, and confirmed that the species earlier thought to have been hongshanornithids indeed together form a separate clade. Archaeornithura was shown to be the sister taxon of Tianyuornis, with partially fused metatarsals II–IV and the expanded shape of the outermost trabecula of the sternum in common. The specialized wading features of Archaeornithura suggest that the hongshanornithids originated in a semi-aquatic environment.
+The position of Archaeornithura in the evolutionary tree is shown by the following cladogram:
+
+See also
+Evolution of birds
+Origin of birds
+
+
+== References ==

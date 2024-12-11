@@ -1,0 +1,76 @@
+4490
+Boston accent
+A Boston accent is a local accent of Eastern New England English, native specifically to the city of Boston and its suburbs. Northeastern New England English is classified as traditionally including New Hampshire, Maine, and all of eastern Massachusetts, while some uniquely local vocabulary appears only around Boston. A 2006 study co-authored by William Labov claims that the accent remains relatively stable, though a 2018 study suggests the accent's traditional features may be retreating, particularly among the city's younger residents, and becoming increasingly confined to the historically Irish-American neighborhood of South Boston.
+
+Phonological characteristics
+Boston accents typically have the cot-caught merger but not the father-bother merger. This means that instead of merging the historical "short o" sound (as in LOT) with the "broad a" (as in PALM) like most other American accents, the Boston accent merges it with the "aw" vowel (as in THOUGHT). Thus, lot, paw, caught, cot, law, wand, rock, talk, doll, wall, etc. all are pronounced with the same open back (often) rounded vowel ɒ , while keeping the broad a sound distinct: a , as in father, spa, and dark. So, even though the word dark has no /r/ in many Boston accents, it remains pronounced differently from dock because it belongs to Boston's START–PALM class of words versus the LOT–THOUGHT one: dark /dak/ versus dock /dɒk/. Thus, while New York accents have /ɔ/ for paw and /ɑ/ for lot, and Standard British accents have a similar distinction (/ɔː/ versus /ɒ/), Boston accents only have one merged phoneme for both: /ɒ/.
+In general, Eastern New England accents have a "short a" vowel /æ/, as in TRAP, that is extremely tensed towards eə when it precedes a nasal consonant; thus, man is meən and planet is ˈpʰleənɪʔ. Boston shares this system with some of the American Midwest and most of the West, though the raising in Boston tends to be more extreme. This type of modern General American /æ/-raising system is simpler than the systems of British or New York City accents. However, elements of a more complex pattern exist for some Boston speakers; in addition to raising before nasals, Bostonians (unlike nearby New Hampshirites, for example) may also "raise" or "break" the "short a" sound before other types of consonants too: primarily the most strongly before voiceless fricatives, followed by voiced stops, laterals, voiceless stops, and voiced fricatives, so that words like half, bath, and glass become hɛəf, bɛəθ and ɡlɛəs, respectively. This trend began around the early-mid to mid-twentieth century, replacing the older Boston accent's London-like "broad a" system, in which those same words are transferred over to the PALM class /a/ (see § Declining features, below). The raised ɛə may overlap with the non-rhotic realization of SQUARE as ɛə.
+Boston accents make a greater variety of distinctions between short and long vowels before medial /r/ than many other modern American accents do: hurry /ˈhʌri/ and furry /ˈfəri/; and mirror /ˈmɪrə/ and nearer /ˈnɪərə/, though some of these distinctions are somewhat endangered as people under 40 in neighboring New Hampshire and Maine have lost them. In this case, Boston shares these distinctions with both New York and British accents, whereas other American accents, like in the Midwest, have lost them entirely.
+The nuclei of the diphthongs /aɪ/ and /aʊ/ (PRICE and MOUTH. respectively) may be raised to something like ɐ before voiceless consonants: thus write has a higher vowel than ride and lout has a higher vowel than loud. This phenomenon, more famously associated with Canadian accents, is known by linguists as Canadian raising.
+The nuclei of /oʊ/ and /u/ (in GOAT and GOOSE) are significantly less fronted than in many other American accents. The latter may be diphthongized to ʊu or ɵu.
+The weak vowel merger is traditionally absent. This makes Lenin /ˈlɛnɪn/ distinct from Lennon /ˈlɛnən/.
+Speakers of the more deeply urban varieties of the Boston accent may realize the English dental fricatives /θ, ð/ as the dental stops t̪, d̪, giving rise to a phonemic distinction between dental and alveolar stops; thus, those may sound closer to doze.
+
+Non-rhoticity
+The traditional Boston accent is widely known for being non-rhotic (or "r-dropping"), particularly before the mid-20th century. Recent studies have shown that younger speakers use more of a rhotic (or r-ful) accent than older speakers. This goes for black Bostonians as well. Non-rhoticity means that the phoneme /r/ does not appear in coda position (for where in English phonotactics /r/ precedes other consonants, see English phonology § Coda), as in most dialects of English in England and Australia; card therefore becomes /kad/ "cahd" and color /ˈkʌlə/ "culluh". Words such as weird /wɪəd/ and square /skwɛə/ feature centering diphthongs, which correspond to the sequences of close and mid vowels + /r/ in rhotic AmE. The phonemicity of the centering diphthongs /ɪə, ʊə, ɛə, oə/ depends on a speaker's rhoticity. Also, the stressed sequence /ɜr/ inside a closed syllable, as in NURSE, is most likely to take on a rhotic ɝ pronunciation among Bostonians.
+A famous example of non-rhoticity (plus a fronted START vowel) is "Park your car in Harvard Yard", pronounced pʰak jə ˈkʰaɹ‿ɪn ˌhavəd ˈjad, or as if spelled "pahk yah cah(r) in Hahvud Yahd". The r in car would usually be pronounced in this case, because the Boston accent possesses both linking R and intrusive R: an /r/ will not be lost at the end of a word if the next word begins with a vowel, and an /r/ will be inserted after a word ending with a central or low vowel if the next word begins with a vowel: the tuner is and the tuna is are both /ðə ˈtunər‿ɪz/. This example has been used since at least 1946, to the point where some locals find requests to say the phrase annoying. Actual parking in Harvard Yard is prohibited, except by permission in rare cases for loading and unloading, contractors, or people needing accessible transport directly to Harvard Memorial Church.
+
+Declining features
+Many characteristics of the Boston accent may be retreating, particularly among younger residents. In the most old-fashioned of Boston accents, there may be a lingering resistance to the horse–hoarse merger, so that horse has the pure vowel /ɒ/, while hoarse has the centering diphthong /oə/; this can potentially cause the NORTH–LOT–THOUGHT merger, so that tort, tot and taught are phonemically all /tɒt/. The result is that, for an older Boston accent, the NORTH–LOT–THOUGHT vowel is distinct from the FORCE vowel. Another two example words that would traditionally be distinguished, thus, are for /fɒ/ versus four /foə/. This distinction was rapidly fading out of currency in the second half of the 20th century with the words belonging to the NORTH class being transferred over to the FORCE class, undoing the merger of NORTH with LOT–THOUGHT, as it is in almost all regions of North America that still make it. For non-rhotic speakers, the modern-day situation in Boston is that both horse and hoarse, as well as both for and four, take the centering diphthong /oə/.
+A feature that Boston speakers once shared with Britain's Received Pronunciation, though now uncommon in Boston, is the "broad a" of the BATH lexical set of words, making a distinction from the TRAP set (see Trap–bath split). In particular words that in other American accents have the "short a" pronounced as /æ/, that vowel was replaced in the nineteenth century (if not earlier and often sporadically by speakers as far back as the late eighteenth century) with /a/: thus, half as /haf/ and bath as /baθ/. Fewer words have the broad a in Boston English than in the London accents, and fewer and fewer Boston speakers maintain the broad a system as time goes on, with its transition into a decline first occurring in speakers born from about 1930 to 1950 (and first documented as a decline in 1977). Boston speakers born before about 1930 used this broad a in after, ask, aunt, bath, calf, can't, glass, half, laugh, pasture, path, and other words, while those born from about 1930 to 1950 normally use it only in aunt, calf, half, laugh, and pass. Speakers born since 1950 typically have no broad a whatsoever and, instead, slight /æ/ raising (i.e. ɛə in craft, bad, math, etc.) with this same set of words and, variably, other instances of short a too. Only aunt maintains the broad a sound in even the youngest speakers, though this one word is a common exception throughout all of the Northeastern U.S.  Broad a in aunt is also heard by occasional speakers throughout Anglophone North America; it is quite commonly heard in African American speech as well.
+
+In popular culture
+Although not all Boston-area speakers are non-rhotic, non-rhoticity remains the feature most widely associated with the region. As a result, it is frequently the subject of humor about Boston, as in comedian Jon Stewart joking in his book America that, although John Adams drafted the 1780 Massachusetts Constitution, "delegates from his state refused to ratify the letter 'R'".
+Being conspicuous and easily identifiable as regional, Boston accents are routinely featured by actors in films set in Boston, particularly for working-class white characters, such as in Good Will Hunting, Mystic River, The Departed, Manchester by the Sea, The Town, Ted, The Fighter, and Black Mass. Television series based within a Boston setting such as Boston Public and Cheers have featured the accent. Simpsons character Mayor Quimby talks with an exaggerated Boston accent as a reference to the former US Senator Ted Kennedy. Television comedy sketches have featured the accent, including "The Boston Teens" and "Dunkin Donuts" on Saturday Night Live, as well as "Boston Accent Trailer" on Late Night with Seth Meyers.
+In The Heat, the family members of Shannon Mullins all speak with the Boston accent, and confusion arises from the pronunciation of the word narc as nahk /nak/. In the video game Team Fortress 2, the character Scout, who is himself a Boston native, talks with a distinct Boston accent, although it sometimes lapses into a Brooklyn accent.
+
+Notable lifelong native speakers
+William J. Bratton – "thick Boston accent"
+Bill Burr – "the comic's wicked Boston accent"
+Lenny Clarke – "a Cambridge-raised verbal machine gun with a raspy Boston accent"
+Chick Corea – "his speech still carries more than a trace of a Boston accent"
+Sue Costello – "Between her thick Boston accent and fearless, stand-up style, Sue Costello is a true embodiment of the city's comedy scene."
+Joseph Curtatone – "whose own accent leaves no room for doubt that he's from Massachusetts"
+Nick Di Paolo – "thick Boston accent"
+Annissa Essaibi George – "speaks with the accent of working-class Boston"
+Jack Haley – "from Boston (as anyone who heard the Tin Man's accent would know)"
+Don Kent – "With his inimitable Boston accent"
+Mel King – "he has the soft R's of a deep Boston accent"
+Lyndon LaRouche – "a cultivated New England accent"
+Tom and Ray Magliozzi – "like drunk raccoons with Boston accents"
+Rocky Marciano – "He spoke with distinct traces of a Boston accent"
+Gina McCarthy – "Obama's nominee to head the EPA has that spectacular South Boston accent"
+Joey McIntyre – "his authentic Boston accent"
+Thomas Menino – "strong traces of the Boston dialect"
+Christy Mihos – "speaks unpretentiously in a variation of a Boston accent, and drops the 'g' in words like talking or running."
+Brian and Jim Moran – "The Moran brothers share... an unmistakable Massachusetts accent"
+Alex Rocco – "grew up in blue-collar Cambridge"
+Tom Silva – "New England accent"
+Marty Walsh – "he demonstrates what many believe to be the strongest Boston dialect in the city's mayoral history."
+Jermaine Wiggins – "skin as thick as his East Boston accent"
+
+See also
+Boston slang
+Eastern New England English
+New England English
+North [American English](1173) regional phonology
+
+References
+Bibliography
+Further reading
+McCarthy, John (1993). "John McCarthy".
+Metcalf, Allan. How We Talk: American Regional English Today. Boston: Houghton Mifflin.
+
+External links
+
+Guide to Boston English
+Glossary of Boston English
+Article on Boston accent
+"So don't I" - a unique grammatical construct
+Boston Slang Dictionary
+Recordings of the Boston accent
+37-year-old female
+18-year-old female
+73-year-old male
+Medford City Councilor
+'Hover & Hear' a Boston accent, and compare with other accents from the US and around the World.

@@ -1,0 +1,39 @@
+977
+Parallel rendering
+Parallel rendering (or distributed rendering) is the application of parallel programming to the computational domain of computer graphics. Rendering graphics can require massive computational resources for complex scenes that arise in scientific visualization, medical visualization, CAD applications, and virtual reality. Recent research has also suggested that parallel rendering can be applied to mobile gaming to decrease power consumption and increase graphical fidelity. Rendering is an embarrassingly parallel workload in multiple domains (e.g., pixels, objects, frames) and thus has been the subject of much research.
+
+Workload distribution
+There are two, often competing, reasons for using parallel rendering. Performance scaling allows frames to be rendered more quickly while data scaling allows larger data sets to be visualized. Different methods of distributing the workload tend to favor one type of scaling over the other. There can also be other advantages and disadvantages such as latency and load balancing issues. The three main options for primitives to distribute are entire frames, pixels, or objects (e.g. triangle meshes).
+
+Frame distribution
+Each processing unit can render an entire frame from a different point of view or moment in time. The frames rendered from different points of view can improve image quality with anti-aliasing or add effects like depth-of-field and three-dimensional display output. This approach allows for good performance scaling but no data scaling. 
+When rendering sequential frames in parallel there will be a lag for interactive sessions. The lag between user input and the action being displayed is proportional to the number of sequential frames being rendered in parallel.
+
+Pixel distribution
+Sets of pixels in the screen space can be distributed among processing units in what is often referred to as sort first rendering. 
+Distributing interlaced lines of pixels gives good load balancing but makes data scaling impossible. Distributing contiguous 2D tiles of pixels allows for data scaling by culling data with the view frustum. However, there is a data overhead from objects on frustum boundaries being replicated and data has to be loaded dynamically as the view point changes. Dynamic load balancing is also needed to maintain performance scaling.
+
+Object distribution
+Distributing objects among processing units is often referred to as sort last rendering. It provides good data scaling and can provide good performance scaling, but it requires the intermediate images from processing nodes to be alpha composited to create the final image. As the image resolution grows, the alpha compositing overhead also grows.
+A load balancing scheme is also needed to maintain performance regardless of the viewing conditions. This can be achieved by over partitioning the object space and assigning multiple pieces to each processing unit in a random fashion, however this increases the number of alpha compositing stages required to create the final image. Another option is to assign a contiguous block to each processing unit and update it dynamically, but this requires dynamic data loading.
+
+Hybrid distribution
+The different types of distributions can be combined in a number of fashions. A couple of sequential frames can be rendered in parallel while also rendering each of those individual frames in parallel using a pixel or object distribution. Object distributions can try to minimize their overlap in screen space in order to reduce alpha compositing costs, or even use a pixel distribution to render portions of the object space.
+
+Open source applications
+The open source software package Chromium provides a parallel rendering mechanism for existing applications. It intercepts the OpenGL calls and processes them, typically to send them to multiple rendering units driving a display wall.
+Equalizer is an open source rendering framework and resource management system for multipipe applications. Equalizer provides an API to write parallel, scalable visualization applications which are configured at run-time by a resource server.
+OpenSG is an open source scenegraph system that provides parallel rendering capabilities, especially on clusters. It hides the complexity of parallel multi-threaded and clustered applications and supports sort-first as well as sort-last rendering.
+Golem is an open source decentralized application used for parallel computing that currently works with rendering in Blender and has plans to incorporate more uses.
+
+See also
+Concepts
+Server farm
+Render farm
+Implementations
+Big and Ugly Rendering Project (BURP)
+Electric Sheep
+
+References
+External links
+Cluster Rendering at Princeton University

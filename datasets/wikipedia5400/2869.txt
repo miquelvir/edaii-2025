@@ -1,0 +1,21 @@
+2869
+Fragaria × vescana
+[Fragaria](2850) × vescana is a hybrid strawberry cultivar that was created in an effort to combine the best traits of the garden strawberry ([Fragaria](2850) × ananassa), which has large berries and vigorous plants, with the woodland strawberry ([Fragaria](2850) vesca), which has an exquisite flavour, but small berries. Plants of the World Online considers it an unplaced taxon – "names that cannot be accepted, nor can they be put into synonymy."
+This cross cannot take place naturally. [Fragaria](2850) × ananassa has eight sets of chromosomes whereas [Fragaria](2850) vesca has only two sets. Repeated attempts to cross these resulted in sterile offspring.
+Researchers treated tissue from a [Fragaria](2850) vesca plant with colchicine to create a mutant plant with four sets of chromosomes. This mutant was then crossed with a [Fragaria](2850) × ananassa plant, and vigorous fertile offspring were obtained. The offspring were found to be decaploid, (having ten sets of chromosomes).
+[Fragaria](2850) × vescana is not yet commercially important, but remains under development. While the plants are vigorous like their F. × ananassa parents, and the berries have the excellent flavour of the F. vesca parents, the berries are still quite small.
+
+[Fragaria](2850) × vescana cultivars
+The following decaploid strawberries were released by the Swedish breeding program at Balsgård:
+
+ 'Annelie'  (1977)
+ 'Sara'  (1988) — 'Annelie' × ('Sparkle' × F. vesca 4×) open pollinated
+ 'Rebecka'  (1998) — ('Fern' × F. vesca 4×) × F. × ananassa F861502
+German F. × vescana cultivars:
+
+ 'Spadeka'  (1977)
+ 'Florika'  (1989) — ('Sparkle' × F. vesca 'Semperflorens' 4x) × 'Klettererdbeere Hummi'
+
+References
+
+Bauer, A. 1993. Progress in breeding decaploid [Fragaria](2850) × vescana. Acta Hort. (ISHS) 348: 60-64 Archived 2012-07-17 at the Wayback Machine

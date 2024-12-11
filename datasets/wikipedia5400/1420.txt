@@ -1,0 +1,59 @@
+1420
+Applied Materials
+Applied Materials, Inc. is an American corporation that supplies equipment, services and software for the manufacture of semiconductor (integrated circuit) chips for electronics, flat panel displays for computers, smartphones, televisions, and solar products. The company also supplies equipment to produce coatings for flexible electronics, packaging and other applications. The company is headquartered in Santa Clara, California, and is the second largest supplier of semiconductor equipment in the world based on revenue behind Dutch company ASML.
+
+History
+Founded in 1967 by Michael A. McNeilly and others, Applied Materials went public in 1972. In subsequent years, the company diversified, until James C. Morgan became CEO in 1976 and returned the company's focus to its core business of semiconductor manufacturing equipment. By 1978, sales increased by 17%.
+In 1984, Applied Materials became the first U.S. semiconductor equipment manufacturer to open its own technology center in Japan and the first semiconductor equipment company to operate a service center in China. In 1987, Applied introduced a chemical vapor deposition (CVD) machine called the Precision 5000, which differed from existing machines by incorporating diverse processes into a single machine that had multiple process chambers.
+In 1992, the corporation settled a lawsuit with three former employees for an estimated $600,000. The suit complained that the employees were driven out of the company after complaining about the courses Applied Scholastics had been hired to teach there.
+In 1993, the Applied Materials' Precision 5000 was inducted into the Smithsonian Institution's permanent collection of Information Age technology.
+In November 1996, Applied Materials acquired two Israeli companies for an aggregate amount of $285 million: Opal Technologies and Orbot Instruments for $175 million and $110 million in cash, respectively. Orbot produces systems for inspecting patterned silicon wafers for yield enhancement during the semiconductor manufacturing process, as well as systems for inspecting masks used during the patterning process. Opal develops and manufactures high-speed metrology systems used by semiconductor manufacturers to verify critical dimensions during the production of integrated circuits.
+In 2000, Etec Systems, Inc. was purchased. The following year, on June 27, 2001, Applied Materials acquired Israeli company Oramir Semiconductor Equipment Ltd., a supplier of laser cleaning technologies for semiconductor wafers, in a purchase business combination for $21 million in cash.
+In January 2008, Applied Materials purchased Baccini, an Italian company and designer of tools used in manufacturing solar cells.
+In 2009, Applied Materials opened its Solar Technology Center, the world's largest commercial solar energy research and development facility, in Xi'an, China.
+Applied Materials acquired Semitool Inc. in December 2009, and announced its acquisition of Varian Semiconductor in May 2011. Applied Materials then announced a planned merger with Tokyo Electron on September 24, 2013. If approved by government regulators, the combined company, to be called Eteris, would be the world's largest supplier of semiconductor processing equipment, with a total market value of $29 billion. However, on April 27, 2015, Applied Materials announced that its merger with Tokyo Electron has been scrapped due to antitrust concerns and fears of dominating the semiconductor equipment industry.
+In 2015, Applied Materials left the solar wafer sawing and the solar ion implantation businesses.
+Applied Materials was named among FORTUNE World's Most Admired Companies in 2018.
+In 2019, Applied Materials announced its intention to buy semiconductor equipment manufacturer (and former Hitachi group member) Kokusai Electric Corporation from private equity firm KKR for $2.2 billion, but terminated the deal in March 2021 citing delays in getting approval from China's regulator.
+In November 2023, Applied Materials was reported to be under criminal investigation by the [United States](1100) Department of Justice for routing equipment to Semiconductor Manufacturing International Corporation via South Korea in violation of US sanctions.
+
+Finances
+For the fiscal year 2021, Applied Materials reported earnings of US$5.888 billion, with an annual revenue of US$23.063 billion, a 34% increase over the previous fiscal. Applied Materials market capitalization was valued at over US$36.6 billion in November 2018.
+
+Organization
+Applied is organized into three major business sectors: Semiconductor Products, Applied Global Services, and Display and Adjacent Markets. Applied Materials also operates a venture investing arm called Applied Ventures.
+
+Semiconductor Products
+The company develops and manufactures equipment used in the wafer fabrication steps of creating a semiconductor device, including atomic layer deposition (ALD), chemical vapor deposition (CVD), physical vapor deposition (PVD), rapid thermal processing (RTP), chemical mechanical polishing (CMP), etch, ion implantation and wafer inspection. The company acquired Semitool for this group in late 2009. In 2019, Applied Materials agreed to buy semiconductor manufacturer Kokusai for $2.2 Billion.
+
+Applied Global Services
+The Applied Global Services (AGS) group offers equipment installation support and warranty extended support, as well as maintenance support. AGS also offers new and refurbished equipment, as well as upgrades and enhancements for installed base equipment. This sector also includes automation software for manufacturing environments.
+
+Display and Adjacent Markets
+AGS combined an existing business unit with the display business of Applied Films Corporation, acquired in mid-2006.
+The manufacturing process for TFT LCDs (thin film transistor liquid crystal displays), commonly employed in computer monitors and televisions, is similar to that employed for integrated circuits. In cleanroom environments both TFT-LCD and integrated circuit production use photolithography, chemical and physical vapor deposition, and testing.
+
+Energy and Environmental Solutions (former sector)
+In 2006, the company acquired Applied Films, a glass coating and web coating business. Also in 2006, Applied announced it was entering the solar manufacturing equipment business. The solar, glass and web businesses were organized into the company's Energy and Environmental Solutions (EES) sector.
+In 2007, Applied Materials announced the Applied SunFab thin film photovoltaic module production line, with single or tandem junction capability. SunFab applies silicon thin film layers to glass substrate that then produce electricity when exposed to sunlight. In 2009, the company's SunFab line was certified by the International Electrotechnical Commission (IEC). In 2010, Applied announced that it was abandoning the thin film market and closing down their SunFab division. Also in 2007, the company acquired privately held, Switzerland-based HCT Shaping Systems SA, a specialist in wafer sawing tools for both solar and semiconductor wafer manufacture, paying approximately $475 million.
+In 2008, Applied acquired privately held, Italy-based Baccini SpA for $330M, company that worked in the metallization steps of solar cell manufacturing. The company was listed at the top of VLSI Research's list of supplier of photovoltaic manufacturing equipment for 2008, with sales of $797M.
+Since July 2016 the Energy and Environmental Solutions sector is no longer reported separately. Remaining solar business activities have been included in "Corporate and Others".
+
+Locations
+Applied moved into its Bowers Avenue headquarters in Santa Clara, CA, in 1974 and operates in Europe, Japan, Canada, the [United States](1100), Israel, China, Italy, India, Korea, Southeast Asia, Singapore and Taiwan.
+
+Management
+Chairman of the Board of Directors: Thomas J. Iannotti
+President and chief executive officer: Gary E. Dickerson
+Chief Financial Officer: Brice Hill
+Chief Technology Officer: Omkaram Nalamasu
+
+See also
+Lam Research
+ San Francisco Bay Area portal
+ Companies portal
+
+References
+External links
+Official website 
+Business data for Applied Materials, Inc.:

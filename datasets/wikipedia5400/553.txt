@@ -1,0 +1,44 @@
+553
+Anchiornithidae
+Anchiornithidae is a family of small paravian dinosaurs. Anchiornithids have been classified at varying positions in the paravian tree, with some scientists classifying them as a distinct family, a basal subfamily of Troodontidae, members of [Archaeopterygidae](581), or an assemblage of dinosaurs that are an evolutionary grade within Avialae or Paraves.
+
+Description
+Anchiornithids share many general features with other paravians, including early avialans. They were small and lightly-built feathered carnivores, similar in biology to [Archaeopteryx](582), early dromaeosaurids like Microraptor, and particularly troodontids. They are almost exclusively known from Late Jurassic Chinese deposits, although Ostromia was discovered in Germany and Yixianosaurus (a putative member of the group only known from forelimbs) is believed to hail from the early Cretaceous. Most had long legs, arms, and hands, although some (Eosinopteryx) had slightly reduced forelimbs.
+
+Feathering
+Although it is practically certain that every anchiornithid possessed advanced pennaceous feathers, there is still much variety in feathering between genera (or between individuals in the case of numerous genera such as [Anchiornis](551)). Most had vaned tail feathers forming a frond-shaped tail, with the tails feathers of Caihong being particularly long and in some cases asymmetrical. However, Eosinopteryx, Serikornis, and Aurornis were preserved with short and downy tail feathering. Some studies on the body feathering of anchiornithids indicate that the feathers were pennaceous, but seemingly lacked barbules, making them "shaggy" or "silky" in life.
+Long pennaceous feathers were present on the arms of most anchiornithids. However, these feathers were slender, symmetrical, and unspecialized, probably useless for flight. They formed rows which were attached directly to a large fleshy propatagium connecting the upper and lower arm.
+Most anchiornithids also had dense feathering extending down their legs. A few had short leg feathering, but most ([Anchiornis](551) and Pedopenna, for example) had very long pennaceous feathers on their legs, giving them the moniker of "four-winged dinosaurs", a trait also shared by microraptorians. Eosinopteryx seemingly lacked any sort of feathers on the lower part of its legs, but its close relative Serikornis possessed both plumaceous (downy) feathers extending onto its toes as well as pennaceous feathers further up the leg.
+
+Distinguishing features
+Foth and Rauhut (2017) established several diagnostic features present in anchiornithids:
+
+Nutrient foramina on the dentary are placed in a deep groove (also in most troodontids and some other coelurosaurs);
+Anterior dentary teeth which are smaller, more numerous, and more closely spaced than those in the middle of the tooth row (also in most troodontids);
+The front edge of the acromion margin of the scapula is bent or hooked outwards (also in several oviraptorosaurs and more derived avialans);
+The inside surface of proximal part of the fibula is flat (also in alvarezsaurids, therizinosauroids and derived avialans);
+Fan-shaped posterior dorsal neural spines (also in compsognathids and some derived avialans);
+Extensive large pennaceous feathers on the foot and ankle (also in Microraptor and Sapeornis).
+
+Systematic history
+In 2015 Chatterjee created Tetrapterygidae in the second edition of his book The Rise of [Bird](500)s: 225 Million Years of Evolution, where he included Xiaotingia, Aurornis, [Anchiornis](551), and even Microraptor; together they were proposed to be the sister group of the Avialae. However this family is invalid as must include the genus Tetrapteryx, which is the junior synonym of Grus – therefore Tetrapterygidae is a junior synonym of Gruidae.
+In their description of Wiehenvenator Rauhut and colleagues had informally called the group as "Anchiornithosaurs" which they placed outside of Avialae.
+The clade was originally named as "Anchiornithinae" by Xu et al. (2016) and defined as for "the most inclusive clade including [Anchiornis](551) but not [Archaeopteryx](582), Gallus, Troodon, Dromaeosaurus, Unenlagia, or Epidexipteryx".
+In 2017 Foth and Rauhut in their re-evaluation of the Haarlem [Archaeopteryx](582) specimen (which they classified it in its own distinct genus Ostromia) found that the anchiornithids are a distinct family closer to the ancestry of birds. They provided their own definition of Anchiornithidae as "all maniraptoran theropods that are more closely related to [Anchiornis](551) huxleyi than to Passer domesticus, [Archaeopteryx](582) lithographica, Dromaeosaurus albertensis, Troodon formosus, or Oviraptor philoceratops."
+During the description of Halszkaraptor, Cau et al. (2017) incorporated many putative anchiornithids into two different large-scale phylogenetic analyses. The first analysis was a comprehensive study of theropod dinosaurs originally designed by Lee et al. for a 2014 paper on miniaturization in theropods leading up to the evolution of birds. Cau et al.'s usage of this first analysis found support for Anchiornithidae being a distinctive family of avialans. The strict consensus tree of the first analysis is given below:
+
+The second analysis was first used in a different paper on theropod size published by Brusatte et al. in 2014. This analysis (which was updated by Cau et al. during a 2015 study on the affinities of Balaur bondoc) focused specifically on coelurosaurs and found that anchiornithids (represented only by [Anchiornis](551), Xiaotingia, Aurornis, and Eosinopteryx in the analysis) were troodontids rather than avialans, in contrast to the first analysis.
+The description of Caihong by Hu et al. (2018) also implemented the Brusatte analysis and found the same result. However, this study also implemented an analysis performed by Xu et al. (2015) during the description of Yi qi. This analysis placed anchiornithids (or as the study calls them, members of "Anchiorninae") either as troodontids or unresolved paravians, depending on whether parsimony or bootstrap analyses are used.
+An analysis used in the description of the Jurassic bird [Alcmonavis](528) by Rauhut et al. (2019) recovered anchiornithids (represented in the analysis by Eosinopteryx, [Anchiornis](551), and Ostromia) as the most basal avialans. Xiaotingia and Pedopenna were placed as more advanced avialans closer to [Archaeopteryx](582).
+In 2019 with the description of the Late Jurassic genus Hesperornithoides, Hartman et al., using every named Mesozoic maniraptoromorph (with the addition of 28 unnamed specimens), which they scored 700 characters and 501 operational taxonomic units, found that most of the anchiornithids are members of [Archaeopterygidae](581), with only Xiaotingia and Yixianosaurus being classified as a troodontid and a dromaeosaurid respectively, Pedopenna found in many possible positions within the Paraves phylogeny, and Ostromia described too late to include in the analysis. Below is their phylogeny:
+
+The cladogram below shows the results of the phylogenetic analysis by Cau (2020).
+
+Cau (2024) found support for the inclusion of Scansoriopterygidae in Anchiornithidae.
+
+Palaeoecology
+A good majority of the known anchiornithid fossils have been recovered from the Tiaojishan Formation in Liaoning, China dating back to 160 million years. The climate during this period of time would have been subtropical to temperate, warm and humid based on the plant life present in the Tiaojishan Formation. This environment was dominated plant by gymnosperm trees. There were ginkgopsids like Ginkoites, Ginkgo, Baiera, Czekanowskia, and Phoenicopsis. There were also conifers like Pityophyllum, Rhipidiocladus, Elatocladus, Schizolepis, and Podozamites. Also, Lycopsids like Lycopodites and Sellaginellities, horsetails (Sphenopsida) like Equisetum, cycads like Anomozamites, and ferns (Filicopsida) like Todites and Coniopteris. 
+Chinese anchiornithids discovered outside of the Tiaojishan Formation includeYixianosaurus longimanus, which was found in the 125 million-year-old Early Cretaceous Yixian Formation. Fujianvenator prodigiosus was discovered in the 148 to 150 million-year-old Zhenghe Biota of southeastern China, which was dominated by aquatic and semi-aquatic fossils such as fish and turtles indicative of a lacustrine swamp environment. Only one genus of anchiornithid has been found outside of China: Ostromia, which is found in the Painten Formation from Riedenburg, Bavaria, Germany.
+
+
+== References ==

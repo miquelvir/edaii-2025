@@ -1,0 +1,62 @@
+716
+Advanced Simulation Library
+Advanced Simulation Library (ASL) is a free and open-source hardware-accelerated multiphysics simulation platform. It enables users to write customized numerical solvers in [C++](640) and deploy them on a variety of massively parallel architectures, ranging from inexpensive FPGAs, DSPs and GPUs up to heterogeneous clusters and supercomputers. Its internal computational engine is written in OpenCL and utilizes matrix-free solution techniques. ASL implements variety of modern numerical methods, i.a. level-set method, lattice Boltzmann, immersed boundary. The mesh-free, immersed boundary approach allows users to move from CAD directly to simulation, reducing pre-processing efforts and number of potential errors. ASL can be used to model various coupled physical and chemical phenomena, especially in the field of computational fluid dynamics.
+It is distributed under the free GNU Affero General Public License with an optional commercial license (which is based on the permissive MIT License).
+
+History
+Advanced Simulation Library is being developed by Avtech Scientific, an Israeli company. Its source code was released to the community on 14 May 2015, whose members packaged it for scientific sections of all major Linux distributions shortly thereafter. Subsequently, Khronos Group acknowledged the significance of ASL and listed it on its website among OpenCL-based resources.
+
+Application areas
+Computational fluid dynamics
+Computer-assisted surgery
+Virtual sensing
+Industrial process data validation and reconciliation
+Multidisciplinary design optimization
+Design space exploration
+Computer-aided engineering
+Crystallography
+Microfluidics
+
+Advantages and disadvantages
+Advantages
+[C++](640) API (no OpenCL knowledge required)
+Mesh-free, immersed boundary approach allows users to move from CAD directly to computations reducing pre-processing effort
+Dynamic compilation enables an additional layer of optimization at run-time (i.e. for a specific parameters set the application was provided with)
+Automatic hardware acceleration and parallelization of applications
+Deployment of same program on a variety of parallel architectures - GPU, APU, FPGA, DSP, multicore CPUs
+Ability to deal with complex boundaries
+Ability to incorporate microscopic interactions
+Availability of the source code
+
+Disadvantages
+Absence of detailed documentation (besides the Developer Guide generated from the source code comments)
+Not all OpenCL drivers are mature enough for the library
+
+Features
+ASL provides a range of features to solve number of problems - from complex fluid flows involving chemical reactions, turbulence and heat transfer, to solid mechanics and elasticity.
+
+Interfacing: VTK/ParaView, MATLAB (export).
+import file formats: .stl .vtp .vtk .vti .mnc .dcm
+export file formats: .vti .mat
+Geometry:
+flexible and complex geometry using simple rectangular grid
+mesh-free, immersed boundary approach
+generation and manipulation of geometric primitives
+Implemented phenomena:
+Transport processes
+multicomponent transport processes
+compressible and incompressible fluid flow
+Chemical reactions
+electrode reactions
+Elasticity
+homogeneous isotropic elasticity
+homogeneous isotropic poroelasticity
+Interface tracking
+evolution of an interface
+evolution of an interface with crystallographic kinetics
+
+Uses
+ACTIVE - Active Constraints Technologies for Ill-defined or Volatile Environments (European FP7 Project)
+
+
+== References ==

@@ -1,0 +1,349 @@
+5206
+39 Melakhot
+The 39 Melakhot (Hebrew: ל״ט אבות מלאכה, lamed-tet avot melakhah, "39 categories of work") are thirty-nine categories of activity which Jewish law identifies as prohibited by biblical law on Shabbat. These activities are also prohibited on the Jewish holidays listed in the Torah ("Yom Tov"), but there are significant exceptions that permit carrying and preparing food under specific circumstances on holidays (except Yom Kippur).
+In addition to the 39 melakhot, certain other activities are forbidden on Shabbat due to rabbinic law.
+It is of note that the (strict) observance of Shabbat is often seen as a benchmark for orthodoxy and indeed has legal bearing on the way a Jew is seen by an Orthodox religious court regarding their affiliation to [Judaism](5201).
+
+The commandment
+The commandment to keep Shabbat as a day of rest is repeated many times in the Hebrew Bible. Its importance is also stressed in Exodus 31:12–17:
+
+12 And יהוה said to Moses: 13 Speak to the Israelite people and say: Nevertheless, you must keep My sabbaths, for this is a sign between Me and you throughout the ages, that you may know that I יהוה have consecrated you. 14 You shall keep the sabbath, for it is holy for you. One who profanes it shall be put to death: whoever does work on it, that person shall be cut off from among kin. 15 Six days may work be done, but on the seventh day there shall be a sabbath of complete rest, holy to יהוה; whoever does work on the sabbath day shall be put to death. 16 The Israelite people shall keep the sabbath, observing the sabbath throughout the ages as a covenant for all time: 17 it shall be a sign for all time between Me and the people of Israel. For in six days יהוה made heaven and earth, and on the seventh day God ceased from work and was refreshed.
+
+Meaning of "work"
+Though melakha is usually translated as "work" in English, the term does not correspond to the ordinary definition of the term, as explained below.
+The traditional analysis and explanation of the term, as well as the logic for identifying the activities prohibited to be done on the Sabbath, is recorded in tractate Shabbat (70a; 49b). 
+The rabbis there noted the symmetry between Genesis 2:1–3 and Exodus 31:1–11 and derive the rule on this basis based on the Thirteen Rules of Rabbi Ishmael. The same term melakha "work" is used in both places:
+
+Genesis 2:1–3 uses the term melakha in reference to the Creation:
+Heaven and earth, and all their components, were completed. With the seventh day, God finished all the work melakha that He had done. He ceased on the seventh day from all the work melakha that he had been doing. God blessed the seventh day, and he declared it to be holy, for it was on this day that God ceased from all the work melakha that he had been creating to function.
+Exodus 31:1–11 provides detailed instructions for the construction of the Tabernacle, again using the term melakha. The word is usually translated as "workmanship", which has a strong element of "creation" or "creativity". This section immediately precedes the section concerning Sabbath rest quoted above.
+From the common wording (in the Hebrew original), and the juxtaposition of subject matter, the rabbis of the Mishnah derive a basis, as well as a listing, as to which activities are prohibited on the Sabbath. 
+In the first passage, there is a "ceasing from" "creation" or "creating", thus melakha in the latter paragraph is also taken to refer to creative, and mindful, activity. As regards the listing: similarly, the activities required for the construction of the Tabernacle and preparing the showbread form the thirty-nine categories of activity listed below.
+
+Definition
+All the categories of work prohibited on the Sabbath are derived from activities which were required in the setting up, and maintenance of, the Tabernacle known as the "Mishkan". The first group of eleven activities are involved in the making of the showbreads that were always present in the Mishkan. Or, according to another opinion, the exact same eleven activities were required for the procurement and manufacture of dyes required for the making of the tapestries that were used as part of the roofing of the Tabernacle. The next grouping was for the manufacture of the tapestries, starting with the manufacture of wool right from the shearing process. The next group were for the manufacture of the leather hides also used in the Tabernacle's covering starting right from the trapping of animals. The last group of activities are grouped together for things that were required in the construction, disassembly and running of the Tabernacle itself.
+The thirty-nine melakhot are not so much activities as categories of activity. For example, "threshing" usually refers exclusively to the loosening of the edible part of grain attached to its chaff. From this heading the Talmudic legal discussion applies this to any separation of intermixed materials where a desirable inner portion is extracted from an undesirable exterior element. So, "threshing" was the heading of the topic that was used to describe this process as it was familiar to all in Talmudic times.
+Many rabbinical scholars have, as above, pointed out that these regulations of labor have something in common – they prohibit any activity that is externally creative, or that exercises control or dominion over one's environment.
+The extension of the definition is consistent with the common etymology -melakha for "work" and malach for messenger / agent  or "angel": just as the malach is the agent used to bring about the realization and execution of a certain idea, so does melakha take a thought or idea and carry through to turn it into a reality.
+The definitions presented in this article are only 'headings' for in-depth topics and without study of the relevant laws it would be very difficult, perhaps impossible, to properly keep the Sabbath according to Halacha/Jewish Law.
+
+The thirty-nine creative activities
+The 39 melakhot are discussed in the Talmud in tractate Shabbat. As listed in the Mishna  (Shabbat 7:2), they are as follows:
+Transferring between domains (see below) and preparing food are permitted on Jewish holidays. These are the only exceptions to the rule that activities prohibited on the Sabbath are likewise prohibited on holidays.
+Note: The thirty-nine prohibited activities are bolded.
+
+The Order of Bread
+Ploughing
+Hebrew: חוֹרֵשׁ‎ (Ḥoresh)
+Definition: Promotion of substrate in readiness for plant growth.
+Included in this prohibition is any preparation or improvement of any material for agricultural use, be it soil, water for hydroponics, etc.. This activity is standalone; irrespective of whether seeding takes place in the substrate subsequently. 
+This includes dragging chair legs in soft soil thereby unintentionally making furrows, or pouring water on arable land that is not saturated. Making a hole in the soil would also provide protection for a seed placed there from rain and runoff; even if no seed is ever placed there, the soil is now enhanced for the process of planting.
+The Mishna (Shabbat 7:2) lists ploughing after planting, although one must plow a field before planting. The Gemara asks why this order occurs and answers that the author of this Mishna was a Tanna living in the Land of Israel, where the ground is hard. Since the ground is so hard in Israel, it needed to be ploughed both before planting and after planting. The Mishna lists ploughing second, teaching that the second ploughing (after planting) is also prohibited. (The ploughing before the planting is also prohibited, if not biblically, certainly rabbinically). The Rambam lists ploughing first and planting second.
+See further: Mishneh Torah Shabbat 7:3, 8:1, 21:2–4; Ḥayei Adam Shabbat 10
+
+Planting
+Hebrew: זוֹרֵעַ‎ (Zore'a)
+Definition: Promotion of plant growth.
+Not only planting is included in this category; other activities that promote plant growth are also prohibited. This includes watering, fertilizing, planting seeds, or planting grown plants.
+See further: Mishneh Torah Shabbat 8:2, 21:5; Shulḥan Arukh Oraḥ Ḥayim 336; Ḥayei Adam Shabbat 11
+
+Reaping
+Hebrew: קוֹצֵר‎ (Kotzer)
+Definition: Severing a plant from its source of growth.
+Removing all or part of a plant from its source of growth is reaping. Climbing a tree is rabbinically forbidden, for fear this may lead to one tearing off a branch. Riding an animal is also rabbinically forbidden, as one may unthinkingly detach a stick with which to hit the animal.
+See further: Mishneh Torah Shabbat 8:3–5, 21:6–10; Ḥayei Adam Shabbat 12
+
+Gathering
+Hebrew: מְעַמֵּר‎ (Me'amer)
+Definition: Initial gathering of earth-borne/organic material in its original place.
+E.g. After picking strawberries, forming a pile or collecting them into one's pockets, or a basket. Collecting rock salt or any mineral (from a mine or from the Earth) and making a pile of the produce. This can only occur in the place where the gathering should take place. So, a bowl of apples that falls in a house can be gathered as 1) they do not grow in that environment and 2) they were already initially gathered in the orchard.
+However, subsequent gathering, which improves the object(s) affected is included in this law. For example, stringing diamonds together to form a necklace is a significant improvement of their gathered status. This may well extend to pearls as well.
+See further: Mishneh Torah Shabbat 8:5, 21:11; Ḥayei Adam Shabbat 13
+
+Threshing/extraction
+Hebrew: דָּשׁ‎ (Dosh)
+Definition: Extraction of a desirable inner from an undesirable outer.
+This is derived from the cracking of the husks that encase the kernels of wheat. These undesirable husks have to be cracked open in order to extract the desirable inner kernels in order to process them further.
+This is a large topic of study. It refers to any productive extraction and includes juicing fruits and vegetables and wringing (desirable fluids) out of cloths, as the juice or water inside the fruit is considered 'desirable' for these purposes, while the pulp of the fruit would be the 'undesirable.' 
+As such, squeezing (S'ḥita) to extract a desirable inner is generally forbidden unless certain rules are applicable dependant upon the case. The wringing of undesirable water out of cloths may also come under scouring/laundering. This activity should be viewed more accurately as extraction, while sorting (see below) is more akin to purification.
+See further: Mishneh Torah Shabbat 8:7–10, 21:12–16; Shulḥan Arukh Oraḥ Ḥayim 319–321; Ḥayei Adam Shabbat 14
+
+Winnowing
+Hebrew: זוֹרֶה‎ (Zoreh)
+Definition: Sorting undesirable from desirable via the force of air (Babylonian Talmud), or dispersal via the force of air like an aerosol can for example(Jerusalem Talmud).
+In the Babylonian Talmud this refers exclusively to an act of separation, for example, chaff from grain – i.e. to any separation of intermixed materials. Example: If one has a handful of peanuts, in their paper-thin brown skins, and one blows on the mixture of peanuts and skins, dispersing the unwanted skins from the peanuts, this would be an act of winnowing according to both the Babylonian and Jerusalem Talmud.
+The Jerusalem Talmud has a more inclusive and general definition of Zoreh. By this definition, use of the Venturi tube spray system and spray painting, would come under this prohibition, while butane or propane propelled sprays (common in deodorants and air fresheners, etc.) are permissible to operate as the dispersal force generated is not from air, rather from the propellant within the can. According to the Babylonian Talmud's definition, neither of the above spraying methods is involved in sorting undesirable from desirable and therefore not part of this heading.
+Rabbi Moses Isserles (the Rema) holds that, unusually, the Jerusalem Talmud's definition should also be taken into account. As there's no argument between the Rema and the Beit Yosef on this point, Ashkenazi and Sephardic Jews do not disagree with the Rema's extended inclusion of the Jerusalem Talmud's definition in this case.
+See further: Shulḥan Arukh Oraḥ Ḥayim 219:7; Ḥayei Adam Shabbat 15.
+
+Sorting/purification
+Hebrew: בּוֹרֵר‎ (Borer)
+Definition: Removal of undesirable from desirable from a mixture of types.
+In the Talmudic sense usually refers exclusively to the separation of debris from grain – i.e. to any separation of intermixed materials which renders edible that which was inedible. Thus, picking small bones from fish in order to eat the meat would be borer. This prohibition has led to the popularity of gefilte fish as a culinary dish on the Sabbath, since it is deboned prior to being cooked or sold.
+Sorting/purification differs from threshing/extraction as here there is a mixture of types, and sorting a mixture via the removal of undesirable elements leaves a purified, refined component. In contrast, threshing/extraction does not entail sorting or purification, just extraction of the inner from the unwanted housing or outer component, such as squeezing a grape for its juice. The juice and the pulp have not undergone sorting, the juice has been extracted from the pulp.
+For example, suppose that one has a bowl of mixed raisins and peanuts, and desires to eat only the raisins. Removing (effectively sorting) the peanuts from the bowl, leaving a 'purified' pile of raisins free from unwanted peanuts, would be sorting/purification as the peanuts are removed. However, removing the desirable raisins from the peanuts does not purify the mixture, as one is left with undesirable peanuts (hence unrefined) not a refined component as before, and is thus permissible. Note that in this case there has not been any extraction of material from either the peanuts or raisins (threshing/extraction), just the sorting of undesirable from desirable (sorting/purification).
+General Introduction:
+
+After threshing, a mixed collection of waste matter remained on the threshing floor together with the grain kernels. Included in this combination would be small pebbles and similar debris.
+These pebbles could not be separated by winnowing because they were too heavy to be carried by the wind. The pebbles and debris were therefore sorted and removed by hand. This process is sorting/purification.
+Any form of selecting from (or sorting of) an assorted mixture or combination can be borer. This includes removing undesired objects, or matter from a mixture or combination.
+Borer with mixed foods:
+
+Even though the classic form of borer as performed in the Mishkan involved the removal of pebbles and similar waste matter from the grain produce, sorting/purification is by no means limited to the removal of "useless" matter from food. In fact, any selective removal from a mixture can, indeed, be sorting/purification, even if the mixture contains an assortment of foods. The criteria are types and desire, not intrinsic value. Therefore, removing any food or item from a mix of different types of foods simply because he does not desire the item at that time is considered sorting/purification.
+The three conditions of sorting/purification:
+
+Sorting/purification is permitted when three conditions are fulfilled simultaneously. It is absolutely imperative that all three conditions be present while sorting/purifying
+B'yad (By hand): The selection must be done by hand and not a utensil that aids in the selection.
+Oḥel Mitoḥ Psolet (desired from undesired): The desired objects must be selected from the undesired, and not the reverse; that is, unless it is impossible to remove desired from undesirable.
+Miyad (Immediate use): The selection must be done immediately before the time of use and not for later use. There is no precise amount of time indicated by the concept of "immediate use" (miyad). The criteria used to define "immediate use" relate to the circumstances. For instance if a particular individual prepares food for a meal rather slowly, that individual may allow a more liberal amount of time in which to do so without having transgressed "borer."
+Examples of Permissible and Prohibited Types of sorting/purification:
+
+Peeling fruits: Peeling fruits is permissible with the understanding that the fruit will be eaten right away.
+Sorting silverware: Sorting silverware is permitted when the sorter intends to eat the Sabbath meal immediately. Alternatively, if the sorter intends to set up the meal for a later point, it is prohibited.
+Removing items from a mixture: If the desired item is being removed from the mix then this is permissible. If the non-desired item is being removed, the person removing is committing a serious transgression according to the laws of the Sabbath.
+See further: Mishneh Torah Shabbat 8:11–13, 21:17; Shulḥan Arukh Oraḥ Ḥayim 319; Ḥayei Adam Shabbat 16
+
+Grinding
+Hebrew: טוֹחֵן‎ (Ṭoḥen)
+Definition: Reducing an earth-borne thing's size for a productive purpose.
+Dissection can arise in simply cutting into pieces fruits or vegetables for a salad. Very small pieces would involve dissection, therefore cutting into slightly larger than usual pieces would be permitted, thus avoiding cutting the pieces into their final, most usable, state.
+All laws relating to the use of medicine on the Sabbath are a toldah, or sub-category, of this order, as most medicines require pulverization at some point and thus are dissected. The laws of medicine use on the Sabbath are complex; they are based around the kind of illness the patient is suffering from and the type of medication or procedure that is required. Generally, the more severe the illness (from a halakhic perspective) the further into the list the patient's situation is classed. As a patient is classed as more ill there are fewer restrictions and greater leniencies available for treating the illness on the Sabbath. The list of definitions, from least to most severe, is as follows:
+
+מיחוש בעלמא‎ / Mayḥush beAl'ma / Minor Indisposition
+מקצת חולי‎ / Mikṣat Ḥoli / Semi-illness
+צער גדול‎ / Ṣa'ar Gadol / Severe Pain (Can in some cases be practically regarded as level 4)
+חולה כל גופו‎ / Ḥoleh Kol Gufo / Debilitating Illness
+סכנת אבר‎ / Sakanat Ever / Threat to a Limb or Organ (Can in some cases be practically regarded as level 6)
+ספק פיקוח נפש‎ / Sofek Pikuaḥ Nefesh / Possibly Life-Threatening (Practically treated as level 7)
+פיקוח נפש‎ / Pikuaḥ Nefesh / Certainly Life-Threatening
+For most practical applications the use of medicines on the Sabbath, there are primarily two categories of non-life-threatening (Pikuaḥ Nefesh) illnesses and maladies. They are either Meiḥush b'Al'ma or Ḥoleh Kol Gufo. In many or most practical applications for non-trained personnel, there are practically only three category levels (1, 4, & 7) as the line of distinction between them can often be difficult to ascertain for the untrained and it may prove dangerous to underestimate the condition.
+See further: Mishneh Torah Shabbat 8:15, 21:18–31; Shulḥan Arukh Oraḥ Ḥayim 321; Ḥayei Adam Shabbat 17
+
+Sifting
+Hebrew: מְרַקֵּד‎ (Merakaied)
+Definition: Sorting desirable from undesirable by means of a specifically designed utensil.
+This is essentially the same as sorting/purification (see above) but performed with a utensil specifically designed for the purpose of sorting, such as a sieve, strainer, or the like. As such, sorting/purifying with such a device, such as the netting of a tea bag, would be classed as an act of sifting. 
+For instance, using a cafetière coffee maker would involve Meraked. As one pushes the plunger down, to sift out the unwanted coffee grinds, a purification of the coffee solution is taking place. The undesirable grinds are removed leaving clear coffee solution that can be decanted to another vessel, e.g., a cup or mug. This act is identical to that the act of Borer but done with a tool or utensil specifically designed for purpose. This classes this act as one of Meraked, not Borer.
+See further: Mishneh Torah Shabbat 8:14, 21:32; Shulḥan Arukh Oraḥ Ḥayim 321, 324; Ḥayei Adam Shabbat 18
+
+Kneading/amalgamation
+Hebrew: לָשׁ‎ (Losh)
+Definition: Combining particles into a semi-solid or solid mass via liquid.
+The accepted description of this category, translated to "kneading", is inaccurate. More precisely, the prohibited activity is amalgamation or combining solid and liquid together to form a paste or dough-like substance.
+There are four categories of produced substances:
+
+Belilah Avah (a thick, dense mixture)
+Belilah Rakha (a thinner, pourable mixture)
+Mashkeh/Davar Nozel (a pourable liquid with a similar viscosity to water)
+Ḥatikhot Gedolot (large pieces mixed with a liquid)
+Only producing a Belilah Avah is biblically forbidden.  A Blilah Raḥa mixture is rabbinically forbidden but may be produced by using a shinui (unusual mode), such as the reversing the adding of the ingredients or mixing in crisscross rather than circular motions. As Mashkim and Ḥatikhot Gedolot are not really mixtures, even after adding the liquid to the solid, making them is permitted even without a shinui.
+See further: Mishneh Torah Shabbat 8:16, 21:33–36; Shulḥan Arukh Oraḥ Ḥayim 321,324; Ḥayei Adam Shabbat 19
+
+Cooking/baking
+Hebrew: אוֹפֶה/בִּשׁוּל‎ (Bishul/Ofeh)
+Definition for solids: Desirably changing the properties of something via heat.
+Definition for liquids: Bringing a liquid's temperature to the heat threshold. This threshold is known as yad soledet (lit. "A hand reflexively recoils due to such heat"). According to Igrot Moshe (Rabbi Moshe Feinstein) this temperature is 43 °C (110 °F).
+(Note, however, that cooking/baking is permitted on Jewish holidays.  It is an exception to the rule that activities prohibited on the Sabbath are likewise prohibited on holidays.)
+Any method of cooking food to prepare it for eating is included in this prohibition. For example, vegetables may not be cooked to soften them for eating. Baking was performed in the Mishkan as showbreads were continually required. Some opine immersion cooking is listed regarding the preparation of the dyes used for the tapestries.
+This law is not restricted to foods. Firing a brick in a kiln or tempering a piece of metal in a furnace would also be included in desirably changing the properties of an item via heat. However, destroying an item, for no constructive purpose, via heat would not be scripturally prohibited.
+See further: Mishneh Torah Shabbat 22:1–10; Shulḥan Arukh Oraḥ Ḥayim 318; Ḥayei Adam Shabbat 22
+
+The Order of Garments
+Shearing
+Hebrew: גּוֹזֵז‎ (Gozeiz)
+Definition: Severing/uprooting any body-part of a creature.
+Shearing a sheep, having a haircut, plucking one's eyebrows or paring one's nails would fall into this category. 
+This law is analogous to Kotzer. Kotzer is the same activity but performed on a vegetative item still attached to its source of growth.  
+See further: Mishneh Torah Shabbat 9:179, 22:13–14; Ḥayei Adam Shabbat 21
+
+Scouring/laundering
+Hebrew: מְלַבֵּן‎ (Melabain)
+Definition: Cleansing absorbent materials of absorbed/ingrained impurities.
+See further: Mishneh Torah Shabbat 9:10–11 22:15–20; Shulḥan Arukh Oraḥ Ḥayim 301–302; Ḥayei Adam Shabbat 22
+
+Carding/combing wool
+Hebrew: מְנַפֵּץ‎ (Menapeitṣ)
+Definition: Separating/disentangling fibers.
+See further: Mishneh Torah Shabbat 9:12; Ḥayei Adam Shabbat 23
+
+Dyeing
+Hebrew: צוֹבֵעַ‎ (Tzove'ah)
+Definition: Coloring/enriching the color of any material or substance.
+Merely enriching a color already present, such as applying clear gloss to wood or a fingernail, thus enriching its colour/appearance, would transgress the scriptural law. (This may also present issues of fine-tuning/perfecting, as well).
+There may be an exemption for foods as they are not considered permanent. However, aesthetically coloring foods for decoration, such as in a sugar sculpture, is included.
+See further: Mishneh Torah Shabbat 9:13–14, 22:23; Shulḥan Arukh Oraḥ Ḥayim 320; Ḥayei Adam Shabbat 24
+
+Spinning
+Hebrew: טוֹוֶה‎ (Toveh)
+Definition: Twisting fibers into a thread or twining strands into a yarn.
+See further: Mishneh Torah Shabbat 9; Ḥayei Adam Shabbat 25
+
+Warping
+Hebrew: מֵיסַךְ‎ (Meisach)
+Definition: Creating the first form for the purpose of weaving.
+See further: Ḥayei Adam Shabbat 25
+
+Making two loops/threading heddles
+Hebrew: עוֹשֶׂה שְׁתֵּי בָּתֵּי נִירִין‎ (Oseh Sh'tei Botei Nirin)
+Definition: Forming loops for the purpose of weaving. This also applies to the threading of two heddles on a loom to allow a shed for the shuttle to pass through. 
+According to the Rambam, however, this activity is described as the making of net-like materials.
+See further: Ḥayei Adam Shabbat 25
+
+Weaving
+Hebrew: אוֹרֵג‎ (Oreg)
+Definition: Forming fabric (or a fabric item) by interlacing long threads passing in one direction with others at a right angle to them.
+See further: Ḥayei Adam Shabbats 25
+
+Separating two threads
+Hebrew: פּוֹצֵעַ‎ (Potze'ah) lit. unravelling. Or, according to the Rambam בּוֹצֵעַ‎ (Botze'ah) unweaving
+Definition: Removing, cutting or tearing fibres from their frame, loom or place. This would include tearing cotton wool apart.
+According to the Rambam it's removing/unpicking threads from woven material, which only applies to material that's undergone the weaving process. 
+See further: Ḥayei Adam Shabbat 25
+
+Tying
+Hebrew: קוֹשֵׁר‎ (Koshair)
+Definition: Binding two pliant objects skillfully or permanently via twisting.
+See further: Mishneh Torah Shabbat 10:1–6; Ḥayei Adam Shabbat 26
+
+Untying
+Hebrew: מַתִּיר‎ (Matir)
+Definition: The undoing of any tied (see Tying) or joined (see Tofer) binding.
+See further: Mishneh Torah Shabbat 10:1–6; Ḥayei Adam Shabbat 27
+
+Sewing
+Hebrew: תּוֹפֵר‎ (Tofer)
+Definition: Combining separate objects into a single entity, whether through sewing, gluing, stapling, welding, dry mounting, etc..
+See further: Mishneh Torah Shabbat 10:9, 11; Shulḥan Arukh Oraḥ Ḥayim 340; Ḥayei Adam Shabbat 28
+
+Tearing
+Hebrew: קוֹרֵעַ‎ (Kore'ah)
+Definition: Ripping an object in two or undoing any sewn (see Sewing) connection.
+See further: Mishneh Torah Shabbat 10:10; Shulḥan Arukh Oraḥ Ḥayim 340; Ḥayei Adam Shabbat 29, Shabbat 7
+
+The Order of Hides
+Trapping
+Hebrew: צָד‎ (Tzod)
+Definition: Forcible confinement of a living creature.
+The Mishna does not just write "trapping"; rather, the Mishna says "trapping deer". According to at least one interpretation,  this teaches that to violate the Torah's prohibition of Trapping, two conditions must be met:
+
+The trapped animal must be non-domesticated.
+The animal must not be legally confined. For example, closing one's front door, thereby confining insects in one's house is not considered trapping as no difference to the insect's 'trappable' status has occurred. I.e. it was as easy or difficult to trap it now as when the door was open.
+This creates practical questions such as: "May a fly be trapped under a cup on Shabbat?" The Meno Netziv says that an animal that is not normally trapped (e.g. a fly, or a lizard) is not covered under the Torah prohibition of trapping, but it's a rabbinic prohibition to do so, therefore one is not allowed to trap the animal. However, if one is afraid of the animal because of its venomous nature or that it might have rabies, one may trap it. If life or limb is threatened, it may be trapped and even killed if absolutely necessary.
+Animals which are considered too slow-moving to be 'free' are not included in this category, as trapping them does not change their legal status of being able to grab them in 'one hand swoop' (a term used by the Rambam to define this law). A snail, tortoise, etc. may therefore be confined as they can be grabbed just as easily whether they are in an enclosure or unhindered in the wild. For these purposes trapping them serves no change to their legal status regarding their 'ease of capture,' and they are termed legally pre-trapped due to their nature. Trapping is therefore seen not as a 'removal of liberty,' which caging even such a slow-moving creature would be, but rather the confining of a creature to make it easier to capture in one's hand.
+Laying traps violates a rabbinic prohibition regardless of what the trap is, as this is a normal method of trapping a creature.
+See further: Mishneh Torah Shabbat 10:15; Shulḥan Arukh Oraḥ Ḥayim 317; Ḥayei Adam Shabbat 30
+
+Killing
+Hebrew: שׁוֹחֵט‎ (Shoḥeit)
+Definition: Ending a creature's life, whether through slaughter or any other method.
+See further: Mishneh Torah Shabbat 11:1–4; Shulḥan Arukh Oraḥ Ḥayim 316; Ḥayei Adam Shabbat 31
+
+Flaying/skinning
+Hebrew: מַפְשִׁיט‎ (Mafshit)
+Definition: Removing the hide from the body of a dead animal.
+(Removing skin from a live creature would fall under shearing.)
+See further: Mishneh Torah Shabbat 11:5–6, 22:1–10; Shulḥan Arukh Oraḥ Ḥayim 321, 327; Ḥayei Adam Shabbat 32
+
+Curing/preservation
+Hebrew: מְעַבֵּד‎ (Me'abaid); sometimes referred to as "Salting" מְוֹלֵחַ‎ (Mole'aḥ)
+Definition: Preserving any item to prevent spoiling for a long period of time.
+The list of activities in the Mishna includes salting hides and curing as separate categories of activity; the Gemara (Tractate Shabbat 75b) amends this to consider them the same activity and to include "tracing lines", also involved in the production of leather, as the thirty-ninth category of activity.
+This activity extends rabbinically to salting/pickling foods for non-immediate use on the Sabbath.
+See further: Ḥayei Adam Shabbat 32–33, Shulḥan Arukh Oraḥ Ḥayim 321, 327.
+
+Smoothing
+Hebrew: מְמַחֵק‎ (Memaḥeik)
+Definition: Scraping/sanding a surface to achieve smoothness. The Jerusalem Talmud (Shabbat 7:2) describes the forbidden labor as being learnt from the act of rubbing animal skins against the surface of a stone pillar or column in order to render the hide soft and pliable.   
+This law contains a sub-law (known as a Tolda) called מְמַרֵחַ‎ Memarei'aḥ which prohibits the smearing or smoothing of an already pliable substance.
+See further: Ḥayei Adam Shabbat 34–35
+
+Scoring
+Hebrew: מְשַׂרְטֵט‎ (Mesartait)
+Definition: Scoring/drawing a cutting guideline.
+See further: Jerusalem Talmud, Tractate Shabbat, Chapter "Kelal Gadol", p. 52.
+
+Measured cutting
+Hebrew: מְחַתֵּךְ‎ (Meḥataiḥ)
+Definition: Cutting any object to a specific size.
+See further: Mishneh Torah Shabbat 11:7; Ḥayei Adam Shabbat 36
+
+The Order of Construction
+Writing
+Hebrew: כּוֹתֵב‎ (Kotev)
+Definition: Writing/forming a meaningful character or design.
+Rabbinically, even writing with one's weaker hand is forbidden. The rabbis also forbade any commercial activities, which often lead to writing.
+This melakha is notable due to the early non-biblical records of its observance. In one of the Arad ostraca (c. 600 BCE) a military commander is told to deliver goods on the first of the month, but only to record this delivery in writing on the second of the month (seemingly because writing was considered a forbidden melakha, and at the time melakha was avoided on Rosh Chodesh as well as Shabbat). Similarly, in the Al-Yahudu Tablets (c. 500 BCE), dates were not signed on Shabbat.
+See further: Mishneh Torah Shabbat 11:9–17, 23:12–19; Shulḥan Arukh Oraḥ Ḥayim 340; Ḥayei Adam Shabbat 36
+
+Erasing
+Hebrew: מוֹחֵק‎ (Moḥaik)
+Definition: Cleaning/preparing a surface to render it suitable for writing.
+Erasing in order to write two or more letters is an example of erasing.
+See further: Mishneh Torah Shabbat 11:17; Ḥayei Adam Shabbat 38
+
+Construction
+Hebrew: בּוֹנֶה‎ (Boneh)
+Definition: Contributing to the forming of any permanent structure.
+See further: Mishneh Torah Shabbat 10:12–14 22:25–33; Ḥayei Adam Shabbat 39–44
+Construction can take two forms. First, there was the action of joining the different pieces together, just like in the making of the make the Mishkan. E.g., inserting the handle of an axe into the socket is a derived form of this activity. Another type is to add to an already existing structure called Mosif Al HaBinyan. As such, putting a nail into a wall in order to serve a useful purpose such as hanging a picture, would be adding the nail to the already existing wall structure.
+Making a protective covering (or a tent) is forbidden, as is setting up a fixed partition. 
+Opening and closing a door is perfectly permitted due to the presence of a hinge. This shows that this is the intended use and falls under a heading of "Derech Tashmisho"/Mode of Use. Opening and closing a collapsible stroller is permitted due to this concept. However, placing a plank or board into a doorway, or gap in a wall to serve as a door is forbidden. This would be an act of construction of plugging the gap in the wall.
+
+Demolition
+Hebrew: סוֹתֵר‎ (Soter)
+Definition: Demolishing for any constructive purpose.
+For example, knocking down a wall in order to extend or repair the wall would be demolition for a constructive purpose. Combing a wig to set it correctly and pulling out hairs during the procedure with a metal toothed brush or comb would be constructive 'demolition', as each hair that is removed in the process of the wig (a utensil) is progressing its state towards a desired completion. Each hair's removal partially demolishes the wig (for these legal purposes) and is considered constructive when viewed in context of the desired goal.
+See further: Mishneh Torah Shabbat 10:15; Ḥayei Adam Shabbat 39, 43
+
+Final Completion/Fine-tuning/Perfecting
+Hebrew: מַכֶּה בְּפַּטִּישׁ‎ (Makeh bePatish), literally, strike with of the hammer.
+Definition: Any initial act of completion.
+This complex, and possibly most abstract section of Sabbath law, refers to activities completing an object and/or bringing it into its final useful form.
+For example, if the pages of a newspaper were poorly separated, slicing them open would constitute the final act of completion of the pages.
+Using a stapler involves transgressing final completion/fine-tuning/perfection in regard to the staple itself, (in addition to sewing affecting the papers being joined), which is brought into its final useful form by the base of the stapler forming the open staple into a curled clasp around the papers.
+Adding hot water to a pre-made 'noodle-soup-pot' type cup (a dehydrated mixture of freeze-dried seasoning and noodles) would be the final act of completion for such a food as the manufacturer desired to make the product incomplete, awaiting the consumer to finish the cooking process at their convenience. This particular example would also violate Cooking/Baking as well if hot water from a kettle/urn was directly applied.
+Musical instruments are Muktza, set aside for non-Sabbath use, as they are delicate and regularly require fixing and/or tuning as part of their regular use. Due to this, a Rabbinic restriction on handling musical instruments was enacted specifically because of Makeh bePatish. For example, if a guitar string is slightly out of tune, even though the whole instrument is not considered broken, the string requires tuning to bring the entire instrument to its desired state. As such, the corrective tuning renders an act of Makeh BePatish on the whole instrument. The guitar's said to be 'in tune', ready for usual use. This is considered a significant enough improvement to be an act of Makeh BePatish.
+See further: Mishneh Torah Shabbat 10:16–18, 23:4–9; Ḥayei Adam Shabbat 44
+
+Ignition
+Hebrew: מַבְעִיר‎ (Mav'ir)
+Definition: Igniting, fueling or spreading a fire/flame.
+This includes making, transferring or adding fuel to a fire. (Note, however, that transferring fire is permitted on Jewish holidays.  It is an exception to the rule that activities prohibited on the Sabbath are likewise prohibited on holidays.) This is one of the few Sabbath prohibitions mentioned explicitly in the Torah (Exodus 35:3).
+[Judaism](5201) requires Sabbath candles to be lit before the Sabbath; it is forbidden to light them on the Sabbath.
+Ignition is one of the Sabbath laws that has been cited to prohibit electricity on Shabbat.
+See further: Mishneh Torah Shabbat 12:1; Ḥayei Adam Shabbat 46
+
+Extinguishing a fire
+Hebrew: מְכַבֶּה‎ (Mechabeh)
+Definition: Extinguishing a fire/flame, or diminishing its intensity.
+While extinguishing a fire is forbidden even when great property damage will result, in the event of any life-threatening fire, the flames must be extinguished, by the principle of pikuaḥ nefesh.
+See further: Shulḥan Arukh Oraḥ Ḥayim 334; Ḥayei Adam Shabbat 45
+
+Transferring between domains
+Hebrew: הוֹצָאָה‎ (Hotza'ah)
+Definition: Transferring something from one domain type to another domain type or transferring within a public thoroughfare.
+(Note, however, that Transferring between domain types is permitted on Jewish holidays.  It is an exception to the rule that activities prohibited on the Sabbath are likewise prohibited on holidays.)
+All areas are divided into four categories: a private domain (Reshut haYocḥid), a public thoroughfare (Reshut haRabim), an open, inhabited area (Karmelit) and areas not designated for human habitation, such as meadows, forests, etc. (Karpef). There are also special 'exempt areas' (Makom Potur) that only exist in public thoroughfares (and tend to be very small) with specific rules. 
+Transferring an object from a private domain to a public thoroughfare, and vice versa, is biblically forbidden. Transferring an object between an open area to a private domain or public thoroughfare is rabbinically prohibited. Transferring an object between an exempt area and any other domain is permissible. In addition, transferring an object for a distance of four cubits (or more) in a public thoroughfare or open area is forbidden.
+For these purposes "transferring" means both "removing from one domain type and depositing in another domain type". As such, carrying an article out of one domain type and returning to the same domain type, without setting it down in the interim in a different domain type, does not violate this activity. However, it is rabbinically prohibited.
+The definition of an area as public thoroughfare or private domain is related to its degree of enclosure, not solely based on ownership.
+This law is often referred to as carrying. This is a misnomer: carrying within a private domain is permitted; and carrying within an open area is biblically permitted (though rabbinically forbidden).
+See further: Ḥayei Adam Shabbat 47–56.
+
+Exception: Saving of human life
+When human life is endangered, a Jew is not only allowed, but required, to violate any Sabbath law that stands in the way of saving that person. The concept of life being in danger is interpreted broadly; for example, it is mandated that one violate the Sabbath to take a woman in active labor to a hospital.
+
+See also
+Biblical mile
+Driving during Shabbat
+Electricity on Shabbat
+Muktzeh
+Shabbos goy
+
+Notes
+References
+Ribiat, Rabbi Dovid (1999). ספר ל״ט מלאכות The 39 Melochos. Jerusalem: Feldheim Publishers. ISBN 1-58330-368-5.
+
+External links
+Detailed descriptions of the 39 melakhot
+The Principles of the Melakhot in Peninei Halakha by Rabbi Eliezer Melamed

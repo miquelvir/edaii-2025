@@ -1,0 +1,42 @@
+888
+Clang
+Clang () is a compiler front end for the programming languages C, [C++](640), Objective-C, Objective-[C++](640), and the software frameworks OpenMP, OpenCL, RenderScript, CUDA, SYCL, and HIP. It acts as a drop-in replacement for the GNU Compiler Collection (GCC), supporting most of its compiling flags and unofficial language extensions. It includes a static analyzer, and several code analysis tools.
+Clang operates in tandem with the LLVM compiler back end and has been a subproject of LLVM 2.6 and later. As with LLVM, it is free and open-source software under the Apache 2.0 software license. Its contributors include Apple, Microsoft, Google, ARM, Sony, Intel, and AMD.
+Clang 17, the latest major version of Clang as of October 2023, has full support for all published [C++](640) standards up to [C++](640)17, implements most features of [C++](640)20, and has initial support for the upcoming [C++](640)23 standard. Since v16.0.0, Clang compiles [C++](640) using the GNU++17 dialect by default, which includes features from the [C++](640)17 standard and conforming GNU extensions.
+
+Background
+In 2005, Apple Inc. made extensive use of LLVM in several commercial products, including the iOS SDK and Xcode 3.1. An OpenGL code compiler for OS X that converts OpenGL calls into more fundamental calls for graphics processing units (GPU) that do not support certain features, was one of the first uses of LLVM. This enabled Apple to support OpenGL on computers using Intel GMA chipsets, increasing performance on those machines.
+The LLVM project originally intended to use GCC's front end. The GCC source code, however, is large and somewhat cumbersome; as one long-time GCC developer put it referring to LLVM, "Trying to make the hippo dance is not really a lot of fun". Besides, Apple software uses Objective-C, which is a low priority for GCC developers. As such, GCC does not integrate smoothly into Apple's integrated development environment (IDE). Finally, GCC's license agreement, the GNU General Public License (GPL) version 3, requires developers who distribute extensions or modified versions of GCC to make their source code available, but LLVM's permissive software license doesn't require this.
+For these reasons, Apple developed Clang, a new compiler front end which supports C, Objective-C and [C++](640). In July 2007, the project received the approval for becoming open-source.
+
+Design
+Clang works in tandem with LLVM. The combination of Clang and LLVM provides most of the toolchain for replacing the GCC stack. One of Clang's main goals is to provide a library-based architecture, so that the compiler could interoperate with other tools that interact with source code, such as integrated development environments (IDE). In contrast, GCC works in a compile-link-debug workflow; integrating it with other tools is not always easy. For instance, GCC uses a step called fold that is key to the overall compile process, which has the side effect of translating the code tree into a form that looks unlike the original source code. If an error is found during or after the fold step, it can be difficult to translate that back into one location in the original source. Besides, vendors using the GCC stack within IDEs must use separate tools to index the code, to provide features like syntax highlighting and intelligent code completion.
+Clang retains more information during the compiling process than GCC, and preserves the overall form of the original code, making it easier to map errors back into the original source. Clang's error reports are more detailed, specific, and machine-readable, so IDEs can index the compiler's output. Modular design of the compiler can offer source code indexing, syntax checking, and other features normally associated with rapid application development systems. The parse tree is also more suitable for supporting automated code refactoring, as it directly represents the original source code.
+Clang compiles only C-like languages, such as C, [C++](640), Objective-C, and Objective-[C++](640). In many cases, Clang can replace GCC as needed, with no other effects on the toolchain as a whole. It supports most of the commonly used GCC options. A Fortran project, Flang was in-progress in 2022. However, for other languages, such as Ada, LLVM remains dependent on GCC or another compiler front end.
+
+Flang - Fortran
+The Flang project by Nvidia and The Portland Group adds Fortran support.  Flang is LLVM's Fortran frontend. It is often referred to as "LLVM Flang" to differentiate itself from "Classic Flang" – these are two separate and independent Fortran compilers. "LLVM Flang" is under active development. Development versions of Flang were in progress as of October 2023 and could be downloaded from the LLVM Project.
+
+Performance and GCC compatibility
+Clang is compatible with GCC. Its command-line interface shares many of GCC's flags and options. Clang implements many GNU language extensions and compiler intrinsics, some of which are purely for compatibility. For example, even though Clang implements atomic intrinsics which correspond exactly with C11 atomics, it also implements GCC's __sync_* intrinsics for compatibility with GCC and the [C++](640) Standard Library (libstdc++). Clang also maintains application binary interface (ABI) compatibility with GCC-generated object code. In practice, Clang is a drop-in replacement for GCC.
+Clang's developers aim to reduce memory footprint and increase compiling speed compared to other compilers, such as GCC. In October 2007, they report that Clang compiled the Carbon libraries more than twice as fast as GCC, while using about one-sixth GCC's memory and disk space. By 2011, Clang seemed to retain this advantage in compiler performance. As of mid-2014, Clang still consistently compiles faster than GCC in a mixed compile time and program performance benchmark. However, by 2019, Clang is significantly slower at compiling the Linux Kernel than GCC while remaining slightly faster at compiling LLVM.
+While Clang has historically been faster than GCC at compiling, the output quality has lagged behind. As of 2014, performance of Clang-compiled programs lagged behind performance of the GCC-compiled program, sometimes by large factors (up to 5.5x), replicating earlier reports of slower performance. Both compilers have evolved to increase their performance since then, with the gap narrowing:
+
+Comparisons in November 2016 between GCC 4.8.2 versus clang 3.4, on a large harness of test files shows that GCC outperforms clang by approximately 17% on well-optimized source code. Test results are code-specific, and unoptimized C source code can reverse such differences. The two compilers thus seem broadly comparable.
+Comparisons in 2019 on Intel Ice Lake has shown that programs generated by Clang 10 has achieved 96% of the performance of GCC 10 over 41 different benchmarks (while winning 22 and losing 19 out of them).
+In 2023, another comparison conducted four years later revealed that programs compiled using Clang now match the performance of those compiled with GCC. On average, Clang 16 surpasses GCC 13 by 6%.
+
+Interface
+libclang provides a C interface, providing a relatively small API. Exposed functionality includes: parsing source code into an AST, loading ASTs, traversing the AST, associating source locations with elements within the AST.
+
+Status history
+This table presents only significant steps and releases in Clang history.
+
+See also
+AMD Optimizing C/[C++](640) Compiler
+LLDB (debugger)
+Portable C Compiler
+
+References
+External links
+Official website

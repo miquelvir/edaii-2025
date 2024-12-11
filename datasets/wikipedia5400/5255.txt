@@ -1,0 +1,60 @@
+5255
+Ashkenazi Hebrew
+Ashkenazi Hebrew (Hebrew: הֲגִיָּה אַשְׁכְּנַזִּית, romanized: hagiyoh ashkenazis, Yiddish: אַשכּנזישע הבֿרה, romanized: ashkenazishe havore) is the pronunciation system for Biblical and Mishnaic Hebrew favored for Jewish liturgical use and Torah study by Ashkenazi Jewish practice.
+
+Features
+As it is used parallel with Modern Hebrew, its phonological differences are clearly recognized:
+
+א‎ aleph and ע‎ ayin are completely silent at all times in most forms of Ashkenazi Hebrew. In other dialects of Hebrew, they can be pronounced as a glottal stop. Compare Yisroeil (Lithuanian) or Yisruayl (Polish-Galician) vs. Yisra'el (Israeli). An earlier pronunciation of ayin as a velar nasal (ŋ) is attested most prominently in Dutch Hebrew (and historically also the Hebrew of Frankfurt am Main). Vestiges of this earlier pronunciation are still found throughout the Yiddish-speaking world in names like Yankev (יעקבֿ) and words like manse (מעשׂה, more commonly pronounced mayse), but are otherwise marginal.
+ת‎ ungeminated ṯāw is pronounced s in Ashkenazi Hebrew. It is always pronounced t in Modern and Sephardi Hebrew. Compare Shabbos vs. Shabbat.
+אֵ‎ tzere /e/ is pronounced ej or aj in Ashkenazi Hebrew, where it would be pronounced e in Sephardi Hebrew; Modern Hebrew varies between the two pronunciations. Compare Omein (Lithuanian) or Umayn (Polish-Galician) vs. Amen (Israeli Hebrew).
+אָ‎ kamatz gadol /a/ is generally pronounced {{IPAblink|ɔ}, as in Yemenite and Tiberian Hebrew. In southern dialects it is u  in open syllables and ɔ in closed syllables, whilst in Lithuanian pronunciation it may be ʌ.The Israeli Hebrew pronunciation is invariably a. Compare Dovid (Lithuanian) or Duvid (Polish-Galician) vs. David (Israeli Hebrew)
+אֹ‎ cholam /o/ is, depending on the subdialect, pronounced au, ou, oi, øi, or ei in Ashkenazi Hebrew, as against o in Sephardic and Modern Hebrew. However, in many regions in Germany it was pronounced o), and it is pronounced that way by many non-Hassidic Ashkenazim in America. Compare Moishe vs. Moshe.
+Unstressed אֻ‎ kubutz or וּ‎ shuruk /u/ occasionally becomes ʊ in Ashkenazi Hebrew, when in all other forms they are pronounced u. This is more prevalent in the South-Eastern dialects. In the Hungarian and Oberlander dialects, the pronunciation is invariably y.
+
+Variants
+There are considerable differences between the Lithuanian, Polish (also known as Galician), Hungarian, and German pronunciations.
+
+These are most obvious in the treatment of cholam: the northern German pronunciation is au, the southern German pronunciation is o, the Galician/Polish pronunciation is oi, the Hungarian is øi, and the Lithuanian pronunciation is ei. Other variants exist: for example in the United Kingdom, the original tradition was to use the northern German pronunciation, but over the years the sound of ḥolam has tended to merge with the local pronunciation of long "o" as in "toe" (more similar to the southern German pronunciation), and some communities have abandoned Ashkenazi Hebrew altogether in favour of the Israeli pronunciation. (Many Haredi communities in England use the Galician/Polish oi, although some - such as Golders Green Beth Hamedrash - have preserved one of the German pronunciations.)
+Tzere is pronounced ej in the majority of Ashkenazic traditions. In Polish usage, however, it was not infrequently aj.
+Segol is pronounced e in the majority of Ashkenazic traditions, but ej in Southeastern pronunciations in a stressed syllable (Polish, Galician, etc.).
+Another feature that distinguishes the Lithuanian pronunciation, traditionally used in an area encompassing modern day's Baltic States, Belarus and parts of Ukraine and Russia, is an occasional merger of sin and shin, both of which are pronounced as s. This is similar to the pronunciation of the Ephraimites recorded in Judges 12, which is the source of the term Shibboleth. This has been referred to as Sabesdiker losn or 'Shabbos speech'.
+The pronunciation of resh varies between an alveolar flap or trill (as in Spanish) and a voiced uvular fricative or trill (as in French, see Guttural R), depending on variations in the local dialects of German and Yiddish.
+In addition to geographical differences, there are differences in register between the "natural" pronunciation in general use and the more prescriptive rules advocated by some rabbis and grammarians, particularly for use in reading the Torah. For example:
+
+In earlier centuries the stress in Ashkenazi Hebrew usually fell on the penultimate, instead of the last syllable as in most other dialects. In the 17th and 18th centuries there was a campaign by Ashkenazi rabbis such as Jacob Emden and the Vilna Gaon to encourage final stress in accordance with the stress marks printed in the Bible. This was successful in concerned liturgical use such as reading from the Torah. However, the older stress pattern persists in the colloquial pronunciation of Hebrew words. It is also prevalent in early modern poetry by poets such as Hayim Nahman Bialik and Shaul Tchernichovsky. The use of penultimate stress has led to the weakening of the final syllables of many words, often to schwa, such as in the words shabbos, kiddush and sukkah.
+Many authorities, from the Talmudic period on (b. Megillah 24b, y. Berakhot 2:4, b. Berakhot 32a) and into the modern era (such as the Mishnah Berurah and Magen Avraham) advocate using the pharyngeal articulation of ח‎ and ע‎ when representing the community in religious service such as prayer and Torah reading though this is seldom observed in practice. Similarly, strict usage requires the articulation of initial א‎ as a glottal stop.
+In general use, the mobile sheva is often omitted (for example the word for "time" is pronounced zman rather than zĕman). However, in liturgical use strict conformity to the grammatical rules is encouraged.
+
+History
+In brief, Ashkenazi Hebrew appears to be a descendant of the Babylonian tradition, partially adapted to accommodate Tiberian notation, and further influenced by the pronunciation of Middle German and its sound changes as it evolved into Yiddish.
+The origins of the different Hebrew reading traditions reflect older differences between the pronunciations of Hebrew and Middle Aramaic current in different parts of the Fertile Crescent: Judea, the Galilee, Greater Syria, Upper Mesopotamia, and Lower Mesopotamia ("Babylonia"). In the time of the Masoretes (8th-10th centuries), there were three distinct notations for denoting vowels and other details of pronunciation in biblical and liturgical texts. One was the Babylonian; another was the Palestinian Hebrew; still another was Tiberian Hebrew, which eventually superseded the other two and is still in use today. By the time of Saadia Gaon and Jacob Qirqisani, Palestinian Hebrew had come to be regarded as standard, even in Babylonia. That development roughly coincided with the popularisation of the Tiberian notation.
+The 14th century work Sefer Asufot is one of the only non-liturgical and non-Biblical medieval Ashkenazi texts to use nequddot. Owing to its more day-to-day vocabulary, linguists have been able to conclude that medieval Ashkenazi Hebrew was akin to contemporary Sephardi Hebrew.
+In other respects, Ashkenazi Hebrew resembles Yemenite Hebrew, which appears to be related to the Babylonian notation. Shared features include the pronunciation of qamaṣ gadol as o and, in the case of Litvaks and some but not all Yemenites, of ḥolam as eː. These features are not found in the Hebrew pronunciation of North Mesopotamian Jews, which has been overlaid by Sephardi Hebrew practices, but are found in some of the Judeo-Aramaic languages of Upper Mesopotamia and in some dialects of Syriac.
+According to Judah Loew ben Bezalel and many other scholars, including Jacob Emden, one of the leading Hebrew grammarians of all time, Ashkenazi Hebrew is the most accurate pronunciation of Hebrew preserved. The reason given is that it preserves distinctions, such as between pataḥ and qamaṣ, which are not reflected in the Sephardic and other dialects. Only in the Ashkenazi pronunciation are all seven "nequdot" (the Hebrew vowels of the ancient Tiberian tradition) distinguished: Yemenite, which comes close, does not distinguish pataḥ from segol.
+
+Influence on Modern Hebrew
+Although Modern Hebrew was intended to be based on Mishnaic spelling and Sephardi Hebrew pronunciation, the language as spoken in Israel has adapted to the popular (as opposed to the strict liturgical) Ashkenazi Hebrew phonology in the following respects:
+
+the pronunciation of tzere as eɪ in some contexts, (sifrey and teysha instead of Sephardic sifré and tésha' ) for some speakers.
+the elimination of vocal sheva (zman instead of Sephardic zĕman)
+some of the letter names (yud and kuf instead of Sephardic yod and qof/kof)
+in popular speech, penultimate stress in some proper names (Dvóra instead of Dĕvorá; Yehúda instead of Yehudá) for some speakers.
+similarly, penultimate stress in nouns or verbs with a second- or third-person plural suffix (katávtem you wrote instead of kĕtavtém; shalom aléykhem greeting instead of shalom alekhém).
+The use of Guttural R instead of the intended/biblical alveolar trill
+
+Endnotes
+See also
+Sephardi Hebrew
+Yemenite Hebrew
+Phonology of Modern Hebrew
+
+Literature
+Ilan Eldar, Masoret ha-qeri'ah ha-kedem-Ashkenazit (The Hebrew Language Tradition in Medieval Ashkenaz), Edah ve-Lashon series vols. 4 and 5, Jerusalem (Hebrew)
+A. Z. Idelsohn, Die gegenwärtige Aussprache des Hebräischen bei Juden und Samaritanern, in: Monatsschrift für Geschichte und Wissenschaft des Judentums 57 (N.F.: 21), 1913, p. 527–645 and 698–721.
+Dovid Katz, The Phonology of Ashkenazic, in: Lewis Glinert (ed.), Hebrew in Ashkenaz. A Language in Exile, Oxford-New York 1993, p. 46–87. ISBN 0-19-506222-1.
+S. Morag, Pronunciations of Hebrew, Encyclopaedia Judaica XIII, p. 1120–1145.
+Sáenz-Badillos, Angel (1996). A History of the Hebrew Language. trans. John Elwolde. Cambridge, England: Cambridge University Press. ISBN 0-521-55634-1.
+Miryam Segal, "Representing a Nation in Sound. Organic, Hybrid, and Synthetic Hebrew," in: A New Sound in Hebrew Poetry. Poetics, Politics, Accent," Bloomington, 2010. ISBN 0253352436.
+Werner Weinberg, Lexikon zum religiösen Wortschatz und Brauchtum der deutschen Juden, ed. by Walter Röll, Stuttgart–Bad Cannstatt 1994. ISBN 3-7728-1621-5.
+Zimmels, Ashkenazim and Sephardim: their Relations, Differences, and Problems As Reflected in the Rabbinical Responsa : London 1958 (since reprinted). ISBN 0-88125-491-6.

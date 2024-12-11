@@ -1,0 +1,113 @@
+1298
+Body of European Regulators for Electronic Communications
+The Body of European Regulators for Electronic Communications (BEREC) is the body in which the regulators of the telecommunications markets in the [European Union](1200) work together. Other participants include representatives of the European Commission, as well as telecommunication regulators from the member states of the EEA and of states that are in the process of joining the EU.
+
+History
+In 2002, the EC set up the European Regulators Group (ERG) pursuant to Commission Decision 2002/627/EC of 29 July 2002 establishing the ERG for Electronic Communications Networks and Services to ensure the consistent development and application of the EU regulatory framework. The ERG was to advise and assist the EC in developing the internal market and, more generally, to provide an interface between NRAs and the EC.
+After making positive contributions to consistent regulatory practices by fostering cooperation among NRAs, and between the NRAs and the EC, additional coordination was necessary to develop the internal market for electronic communication networks and services.
+Following from this, and steered by Viviane Reding (former EU Commissioner for Telecommunications), the EU Telecoms Reform package was adopted and enforced. Along with several directives, the reform package also included the BEREC founding regulation, Regulation (EC) No 1211/2009 establishing the Body of European Regulators for Electronic Communications (BEREC). In this way, the ERG was replaced by a new regulatory body (BEREC) that would prioritise efficiency and transparency and ensure fair competition and greater consistency in regulating the telecom markets.
+BEREC commenced its activities in January 2010. Its mission is to contribute to the development of the European internal market for electronic communications networks and services to ensure that it functions well for the benefit of consumers and businesses alike. To achieve this, BEREC has two principal roles, the first is to ensure that the [European Union](1200) (EU) regulatory framework is applied consistently across the Union and the second is to promote an effective internal market for the telecom sector.
+Additionally, as an expert body, BEREC assists the European Commission (EC) and the national regulatory authorities (NRAs) in implementing the EU regulatory framework and it provides advice to the European (legislative) institutions as well as support, at European level, for regulatory tasks performed by the NRAs at national level.
+In 2018, the Telecoms Reform package was replaced by Directive (EU) 2018/1972 of the EP and of the Council of 11 December 2018, establishing the European Electronic Communications Code (‘the EECC’). Similarly, the BEREC founding regulation was replaced by Regulation (EU) 2018/1971 of the EP and of the Council of 11 December 2018. Both changes resulted in a significant number of new tasks for BEREC. Furthermore, Regulation (EU) 2018/1971 led to the creation of the Agency for Support for BEREC (BEREC Office) to support BEREC in its new tasks, replacing the previous Regulation (EC) No 1211/2009. The BEREC Office is established as a body of the Union.
+
+Members and participants
+BEREC consists of national regulators with and without voting rights and the representative of the European Commission.
+Only regulators from EU member states have voting rights – BEREC Members. Those are currently:
+
+BEREC is also open to the participation of regulatory authorities of third countries with primary responsibility in the field of electronic communications, where those third countries have entered into agreements with the [European Union](1200) to that effect – Participants. Currently, those countries are:
+
+*This designation is without prejudice to positions on status, and is in line with the UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence
+
+Tasks
+As an expert body, BEREC's overall tasks are to assist and advise the EU institutions and NRAs, on request or on its own initiative, in the electronic communications sector. Furthermore, BEREC must assist and advise the EC on request, when legislative proposals are being prepared in the electronic communications field, or when proposing to amend the BEREC Regulation or the EECC.
+BEREC issues opinions on various topics and guidelines on implementing the EU regulatory framework for electronic communications, to ensure consistency in overall implementation and in decisions of the NRAs. Issuing guidelines may be initiated by BEREC itself or on the request of the NRAs, the EP, the Council or the EC. This happens mainly in the case of regulatory issues affecting several Member States or issues with a cross-border element. In addition, BEREC delivers recommendations, common position papers and disseminates regulatory best practices to NRAs to foster consistency and optimal implementation of the regulatory framework.
+In accordance with the EECC, BEREC is responsible for establishing and maintaining a database of the notifications transmitted to the relevant authorities. Subject to general authorisation, this involves monitoring the numbering resources with a right of extraterritorial use within the Union and, where relevant, E.164 numbers of member state emergency services.
+BEREC evaluates the needs for regulatory innovation and coordinates actions between NRAs in the development of new innovative electronic communications. It also promotes the modernisation, coordination and standardisation of data collection by NRAs. The aim of this is to provide the data to the public in an open, reusable and machine-readable format without prejudice to intellectual property rights, rules on the protection of personal data and required levels of confidentiality.
+Where relevant, and following Article 35 of the EECC, BEREC participates in the Peer Review Forum for draft measures on selection procedures and, in accordance with Article 4 of the EECC, participates on issues concerning its competence relating to market regulation and competition related to radio spectrum. BEREC conducts analyses of potential transnational markets (Article 65 of the EECC ) and transnational end-user demand (Article 66 of the EECC ), and it monitors, collects, and makes publicly available information on the Roaming Regulation, and reports on technical matters within its competence.
+In all its tasks, BEREC's work is guided by independence, impartiality and transparency and compliance with its founding regulation, the EECC (Directive (EU) 2018/1972), the Roaming Regulation (Regulation (EU) 2022/612 ) and the Telecoms Single Market Regulation (Regulation (EU) 2015/2120 ).
+Other important documents that form the legal framework for the work of BEREC include the Recommendation on Relevant Markets (Recommendation (EU) 2020/2245), the Delegated Regulation (EU) 2021/654 on setting a single maximum Union-wide mobile voice termination rate and a single maximum Union-wide fixed voice termination rate, the NGA Recommendation (Recommendation 2010/572/EU), the Recommendation on consistent non-discrimination obligations and costing methodologies (Recommendation 2013/466/EU), among others.
+
+Work base
+The work of the BEREC is guided mainly by two documents – the BEREC Strategy and the BEREC Work Programme.
+
+BEREC Work Programme
+The BEREC Work Programme is an annual document that is developed by the Chair of BEREC, who may be assisted by the BEREC Office and the Working Groups. It takes into account the mandatory tasks under the EECC, but it is mainly based on the BEREC Strategy 2021-2025 and the strategic priorities set out in that Strategy. The Work Programme is sent for further consultation to the EP, the Council and the EC, and it is open for public consultation by interested stakeholders and the public. The Board of Regulators adopts the final Work Programme by 31 December of the preceding year and transmits it to the aforementioned EU institutions in accordance with the regulatory procedure.
+
+Governance / organisation
+The institutional organisation of BEREC is composed of several layers, each with specific tasks and duties of its own. The highest level of governance of BEREC is the Board of Regulators (BoR) in which the national telecommunication regulators participate. BEREC comprises a Contact Network (CN) and Working Groups (WGs), and is supported by the BEREC Office based in Riga, Latvia.
+
+Board of Regulators (BoR)
+Being the highest level of governance, the BoR is the decision-maker in BEREC. It consists of the heads or nominated representatives of the NRAs with the primary responsibility for overseeing the day-to-day operation of the markets for electronic communications networks and services, and a high-representative of the EC. The NRAs of the EU Member States are eligible to vote, whereas the EC representative only has observer status.
+Usually, the BoR adopts documents such as reports, opinions or recommendations during one of the four ordinary plenary meetings held each year. However, in urgent matters, documents may be adopted via the electronic voting procedure. According to the Rules of Procedure (RoP), the BoR shall act on a simple majority of all its members unless otherwise provided for in the BEREC Regulation, or another legal act of the Union. A majority of two-thirds is required, under specific circumstances mentioned in the BEREC Regulation, when voting on the RoP or opinions and guidelines. Each member, eligible to vote, has one vote. When the voting procedure is finished and a document has received a majority of votes in favour, the document is considered to be officially adopted by BEREC.
+Furthermore, the BoR appoints its Chair from among its members for the year subsequent to the following year and Vice-Chairs for the following year. The term of the chairmanship is one year, with only one possibility for renewal. Before being elected as BEREC Chair, a member must serve as Vice-Chair for one year. To ensure continuity in BEREC's work, the Chair has to serve one additional year as Vice-Chair during the year following their chairmanship. In accordance with the RoP, a candidate must obtain two-thirds of the votes of the BoR to be elected.
+Moreover, the BoR is open to the participation of regulatory authorities of third countries with primary responsibility in the field of electronic communications, where those third countries have entered into agreements with the Union to that effect (See: Member countries).
+
+Chair and Vice-Chairs
+The BEREC Chair is responsible for external relations on behalf of the body, and provides information on the Chair’s external activities to the members of the BoR, and reports to the EP and the Council on the performance of BEREC's tasks when invited to do so.
+In 2024, the BEREC Chair is Tonko Obuljen, President of the Council of Croatian Regulatory Authority for Network Industries (HAKOM).
+The Vice-Chairs are:
+
+Mr Konstantinos Masselos (EETT, Greece);
+Mr Robert Mourik (ComReg, Ireland);
+Ms Patrícia Silva Gonçalves (ANACOM, Portugal);
+Ms Laure de La Raudière (Arcep, France).
+The BEREC Chair and Vice-Chairs, together with the representative of participants without voting rights - Mr Hrafnkell V. Gíslason (ECOI, Iceland), compose the Mini Board. The primary duty of the Mini Board is to assist the Chair in the performance of the Chair’s duties.
+
+Contact Network (CN)
+According to the RoP, the BoR is assisted by the CN, composed of senior representatives of the BEREC NRAs. It is also open to the participation of regulatory authorities of third countries with primary responsibility in the field of electronic communications, for those who have entered into agreements with the Union to that effect. Primarily, the CN ensures the coordination of the proposals to be considered by the BoR and the BEREC Office Management Board. It may also be delegated some of the duties of the BoR. Furthermore, the CN acts as an informal network where members can exchange information on regulatory issues and resolve outstanding differences of opinion between the members.
+In 2024, the CN Chair is Mr Domagoj Maričić (HAKOM, Croatia).
+
+Working Groups (WGs)
+Article 6(b) of the BEREC Regulation  allows BEREC to organise its work into WGs.  In addition, the BEREC Chair may set up ad hoc groups to deal with time-specific tasks not foreseen in the annual Work Programme and which do not fall under the remit of any existing WG.  Each WG is led by two Co-Chairs from different NRAs and their respective experts  who are elected for a two-year term. The term of ad-hoc Co-Chairs ends when their task is completed.
+The WGs work on specific topics included in the BEREC Work Programme or arise, as mentioned above, on an ad hoc basis following requests for advice or opinions from the EU institutions.  According to the WG-RoP, WGs can work in different formats and may include drafters, sub-groups of experts working on specific projects, or a full WG to work on draft documents. Once a document is drafted, the draft proposal is circulated within the group for comments. After all comments are considered, the Co-Chairs submit the draft proposal to CN/Plenary meetings, where it is further discussed and voted on.
+
+The EU Agency for Support for BEREC (BEREC Office)
+The mission of the BEREC Office is to ensure the consistent implementation of the European regulatory framework for electronic communications. To achieve this, the BEREC Office provides all the necessary professional and administrative support for the work of BEREC, including financial, organisational and ICT services. It contributes to BEREC's regulatory work for the benefit of European citizens.
+The BEREC Office as an Agency of the EU is part of the EU Agencies Network – created by the Heads of Agencies to provide a forum for coordination, information exchange and agreement of common positions on issues of common interest – and its partner Directorate General (DG) at the European Commission is DG CNECT.
+
+History
+Under the Telecoms Reform Package in 2009, a supranational Office with expert staff was set up to provide BEREC with professional and administrative support. This Office was established as a body of the Union and had its own legal personality and legal, administrative and financial autonomy.
+Following the EECC  and the new Regulation (EU) 2018/1971  coming into force in 2018, several changes occurred. First and foremost, the name changed from the Office to the Agency for the Support for BEREC (BEREC Office). The BEREC Office, as a decentralised EU agency, maintained its legal, administrative and financial autonomy and the legal personality to exercise the powers conferred on it. Furthermore, the Administrative Manager was replaced by a Director and the Management Committee changed its name to the Management Board (MB).
+
+Location of the BEREC Office
+On 31 May 2010, Representatives of the Governments of the Member States agreed on the decision that the BEREC Office shall have its seat in Riga, Latvia.  In October the following year, BEREC Office has been inaugurated in full operational capacity in its permanent location in Riga. On 21 December 2020, in accordance with the provisions of Article 47 of the Regulation (EU) 2018/1971, the BEREC Office and the Government of the Republic of Latvia signed a new Headquarters Agreement. With the entry into force, the Seat Agreement, signed on 24 February 2011, and the Memorandum of Understanding, signed on 30 September 2011, are terminated.
+The Headquarters Agreement governs all arrangements concerning the accommodation to be provided for the BEREC Office in the Republic of Latvia and the facilities to be made available by that Member State to the Director, members of the Management Board, the BEREC Office staff and members of their families. Based on the provision of the Headquarters Agreement, the Liaison Office was established to ensure the smooth and efficient functioning of the BEREC Office.
+Additionally, multiple activities and events are held regularly and on an annual basis to inform citizens on the presence of the BEREC Office in the host country, its work, career opportunities and to share and promote the values of the [European Union](1200).
+
+Governance/Organisation
+According to the BEREC Regulation, the BEREC Office shall consist of a MB and a Director.
+
+The Management Board (MB)
+The MB consists of persons appointed as members of the BoR and one high representative of the EC. Usually, the MB is chaired by the same chairing team as the BoR.
+Each MB member and the high representative of the EC have the right to cast a vote. Typically, the MB acts by a simple majority of its members, unless otherwise provided for in the BEREC Regulation. A two-thirds majority may be necessary for adopting the Single Programming Document (SPD), the annual budget, electing a deputy or chair of the MB different to the BoR Chair and Vice-Chairs, and decisions regarding the appointment, extension or removal of the Director.
+The MB performs several tasks listed in Article 16 of the BEREC Regulation. It provides general guidance on activities, taking into account the opinion of the EC, and it must ensure the adoption of the SPD. It publishes the Consolidated Annual Activity Report on the BEREC Office activities and performs an assessment of it. Both documents are forwarded to the EP, the Council, the EC and the Court of Auditors. Furthermore, the MB adopts the BEREC Office's annual budget and financial rules applicable to it. Essential tasks of the MB also include the appointment of the BEREC Office Director and the Accounting Officer.
+
+Director
+The Director of the BEREC Office is the head of the Agency and is in charge of its administrative management. The Director is appointed by the MB and serves a term of five years, with the possibility of extending it once for another five years.
+In addition to responsibility for the administrative management, the Director is in charge of the implementation of the BEREC Office tasks and ensures that it is functioning in accordance with the establishing regulation. The Director assists the Chair of the BoR and the Chair of the MB in preparing the meetings of their respective bodies and reports to the EP and the Council on the performance of tasks when invited to do so.
+The current Director of the BEREC Office is Dr Verena Weber.
+
+Staffing and procurement procedures at the BEREC Office
+The working and contractual conditions of BEREC Office staff are based on the Staff Regulations (SR) and the Conditions of Employment of Other Servants of the [European Union](1200) (CEOS). The Agency is staffed mainly by Temporary Agents and Contract Agents, recruited through open selection procedures. In addition, the Agency also makes use of Seconded National Experts (SNEs), Interim workers, and also has a Traineeship Programme.
+Procurement in the context of the activity of the BEREC Office means the acquisition by means of a contract of works, supplies or services and the acquisition or rental of land, buildings or other immovable property on its own account. The rules applicable to public procurement at the BEREC Office are defined in the General Financial Regulation.
+
+See also
+BEREC website
+European Commission roaming regulations
+Agency for the Cooperation of Energy Regulators (ACER)
+
+References
+External links
+Official website
+Regulation (EU) No 2018/1971 as amended on EUR-Lex
+Procedure file on ŒIL
+Regulation (EC) No 1211/2009 (repealed) on EUR-Lex
+Commission Decision 2002/627/EC (repealed) on EUR-Lex
+European Commission
+European Commission, Communications Networks, Content and Technology
+European Commission, Competition Policy
+European Parliament
+European Parliament, Committee on Industry, Research and Energy
+European Parliament, Committee on the Internal Market and Consumer Protection
+European Council
+Council of the [European Union](1200), Transport, Telecommunications and Energy Council configuration (TTE)

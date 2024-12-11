@@ -1,0 +1,21 @@
+980
+Dryad (programming)
+Dryad was a research project at Microsoft Research for a general purpose runtime for execution of data parallel applications. 
+The research prototypes of the Dryad and DryadLINQ data-parallel processing frameworks are available in source form at GitHub.
+
+Overview
+Microsoft made several preview releases of this technology available as add-ons to Windows HPC Server 2008 R2.
+An application written for Dryad is modeled as a directed acyclic graph (DAG). The DAG defines the dataflow of the application, and the vertices of the graph defines the operations that are to be performed on the data. The "computational vertices" are written using sequential constructs, devoid of any concurrency or mutual exclusion semantics. The Dryad runtime parallelizes the dataflow graph by distributing the computational vertices across various execution engines (which can be multiple processor cores on the same computer or different physical computers connected by a network, as in a cluster). Scheduling of the computational vertices on the available hardware is handled by the Dryad runtime, without any explicit intervention by the developer of the application or administrator of the network. The flow of data between one computational vertex to another is implemented by using communication "channels" between the vertices, which in physical implementation is realized by TCP/IP streams, shared memory or temporary files. A stream is used at runtime to transport a finite number of structured Items.
+Dryad defines a domain-specific language, which is implemented via a [C++](640) library, that is used to create and model a Dryad execution graph. Computational vertices are written using standard [C++](640) constructs. To make them accessible to the Dryad runtime, they must be encapsulated in a class that inherits from the GraphNode base class. The graph is defined by adding edges; edges are added by using a composition operator (defined by Dryad) that connects two graphs (or two nodes of a graph) with an edge. Managed code wrappers for the Dryad [API](708) can also be written.
+There exist several high-level language compilers which use Dryad as a runtime; examples include Scope (Structured Computations Optimized for Parallel Execution) and DryadLINQ.
+In October 2011, Microsoft discontinued active development on Dryad, shifting focus to the Apache Hadoop framework.
+
+References
+Further reading
+"Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks" (PDF). Microsoft Research. Retrieved 2007-12-04.
+"SCOPE: Easy and Efficient Parallel Processing of Massive Data Sets" (PDF). Microsoft Research. Retrieved 2009-01-21.
+
+External links
+Dryad: Programming the Data Center Archived 2007-09-12 at the Wayback Machine
+Dryad Home
+Video of Michael Isard explaining Dryad at Google

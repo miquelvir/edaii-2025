@@ -1,0 +1,700 @@
+3855
+Aristarchus's inequality
+Aristarchus's inequality (after the Greek astronomer and mathematician [Aristarchus of Samos](3856); c. 310 – c. 230 BCE) is a law of trigonometry which states that if α and β are acute angles (i.e. between 0 and a right angle) and β < α then
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              α
+            
+            
+              sin
+              ⁡
+              β
+            
+          
+        
+        <
+        
+          
+            α
+            β
+          
+        
+        <
+        
+          
+            
+              tan
+              ⁡
+              α
+            
+            
+              tan
+              ⁡
+              β
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\sin \alpha }{\sin \beta }}<{\frac {\alpha }{\beta }}<{\frac {\tan \alpha }{\tan \beta }}.}
+  
+
+Ptolemy used the first of these inequalities while constructing his table of chords.
+
+Proof
+The proof is a consequence of the more widely known inequalities
+
+  
+    
+      
+        0
+        <
+        sin
+        ⁡
+        (
+        α
+        )
+        <
+        α
+        <
+        tan
+        ⁡
+        (
+        α
+        )
+      
+    
+    {\displaystyle 0<\sin(\alpha )<\alpha <\tan(\alpha )}
+  
+,
+
+  
+    
+      
+        0
+        <
+        sin
+        ⁡
+        (
+        β
+        )
+        <
+        sin
+        ⁡
+        (
+        α
+        )
+        <
+        1
+      
+    
+    {\displaystyle 0<\sin(\beta )<\sin(\alpha )<1}
+  
+ and
+
+  
+    
+      
+        1
+        >
+        cos
+        ⁡
+        (
+        β
+        )
+        >
+        cos
+        ⁡
+        (
+        α
+        )
+        >
+        0
+      
+    
+    {\displaystyle 1>\cos(\beta )>\cos(\alpha )>0}
+  
+.
+
+Proof of the first inequality
+Using these inequalities we can first prove that
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              (
+              α
+              )
+            
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+          
+        
+        <
+        
+          
+            α
+            β
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\sin(\alpha )}{\sin(\beta )}}<{\frac {\alpha }{\beta }}.}
+  
+
+We first note that the inequality is equivalent to
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              (
+              α
+              )
+            
+            α
+          
+        
+        <
+        
+          
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            β
+          
+        
+      
+    
+    {\displaystyle {\frac {\sin(\alpha )}{\alpha }}<{\frac {\sin(\beta )}{\beta }}}
+  
+
+which itself can be rewritten as
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              (
+              α
+              )
+              −
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            
+              α
+              −
+              β
+            
+          
+        
+        <
+        
+          
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            β
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\sin(\alpha )-\sin(\beta )}{\alpha -\beta }}<{\frac {\sin(\beta )}{\beta }}.}
+  
+
+We now want show that
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              (
+              α
+              )
+              −
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            
+              α
+              −
+              β
+            
+          
+        
+        <
+        cos
+        ⁡
+        (
+        β
+        )
+        <
+        
+          
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            β
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\sin(\alpha )-\sin(\beta )}{\alpha -\beta }}<\cos(\beta )<{\frac {\sin(\beta )}{\beta }}.}
+  
+
+The second inequality is simply 
+  
+    
+      
+        β
+        <
+        tan
+        ⁡
+        β
+      
+    
+    {\displaystyle \beta <\tan \beta }
+  
+. The first one is true because
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              (
+              α
+              )
+              −
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            
+              α
+              −
+              β
+            
+          
+        
+        =
+        
+          
+            
+              2
+              ⋅
+              sin
+              ⁡
+              
+                (
+                
+                  
+                    
+                      α
+                      −
+                      β
+                    
+                    2
+                  
+                
+                )
+              
+              cos
+              ⁡
+              
+                (
+                
+                  
+                    
+                      α
+                      +
+                      β
+                    
+                    2
+                  
+                
+                )
+              
+            
+            
+              α
+              −
+              β
+            
+          
+        
+        <
+        
+          
+            
+              2
+              ⋅
+              
+                (
+                
+                  
+                    
+                      α
+                      −
+                      β
+                    
+                    2
+                  
+                
+                )
+              
+              ⋅
+              cos
+              ⁡
+              (
+              β
+              )
+            
+            
+              α
+              −
+              β
+            
+          
+        
+        =
+        cos
+        ⁡
+        (
+        β
+        )
+        .
+      
+    
+    {\displaystyle {\frac {\sin(\alpha )-\sin(\beta )}{\alpha -\beta }}={\frac {2\cdot \sin \left({\frac {\alpha -\beta }{2}}\right)\cos \left({\frac {\alpha +\beta }{2}}\right)}{\alpha -\beta }}<{\frac {2\cdot \left({\frac {\alpha -\beta }{2}}\right)\cdot \cos(\beta )}{\alpha -\beta }}=\cos(\beta ).}
+
+Proof of the second inequality
+Now we want to show the second inequality, i.e. that:
+
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+        <
+        
+          
+            
+              tan
+              ⁡
+              (
+              α
+              )
+            
+            
+              tan
+              ⁡
+              (
+              β
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}<{\frac {\tan(\alpha )}{\tan(\beta )}}.}
+  
+
+We first note that due to the initial inequalities we have that:
+
+  
+    
+      
+        β
+        <
+        tan
+        ⁡
+        (
+        β
+        )
+        =
+        
+          
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            
+              cos
+              ⁡
+              (
+              β
+              )
+            
+          
+        
+        <
+        
+          
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            
+              cos
+              ⁡
+              (
+              α
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \beta <\tan(\beta )={\frac {\sin(\beta )}{\cos(\beta )}}<{\frac {\sin(\beta )}{\cos(\alpha )}}}
+  
+
+Consequently, using that 
+  
+    
+      
+        0
+        <
+        α
+        −
+        β
+        <
+        α
+      
+    
+    {\displaystyle 0<\alpha -\beta <\alpha }
+  
+ in the previous equation (replacing 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  
+ by 
+  
+    
+      
+        α
+        −
+        β
+        <
+        α
+      
+    
+    {\displaystyle \alpha -\beta <\alpha }
+  
+) we obtain:
+
+  
+    
+      
+        
+          α
+          −
+          β
+        
+        <
+        
+          
+            
+              sin
+              ⁡
+              (
+              α
+              −
+              β
+              )
+            
+            
+              cos
+              ⁡
+              (
+              α
+              )
+            
+          
+        
+        =
+        tan
+        ⁡
+        (
+        α
+        )
+        cos
+        ⁡
+        (
+        β
+        )
+        −
+        sin
+        ⁡
+        (
+        β
+        )
+        .
+      
+    
+    {\displaystyle {\alpha -\beta }<{\frac {\sin(\alpha -\beta )}{\cos(\alpha )}}=\tan(\alpha )\cos(\beta )-\sin(\beta ).}
+  
+
+We conclude that
+
+  
+    
+      
+        
+          
+            α
+            β
+          
+        
+        =
+        
+          
+            
+              α
+              −
+              β
+            
+            β
+          
+        
+        +
+        1
+        <
+        
+          
+            
+              tan
+              ⁡
+              (
+              α
+              )
+              cos
+              ⁡
+              (
+              β
+              )
+              −
+              sin
+              ⁡
+              (
+              β
+              )
+            
+            
+              sin
+              ⁡
+              (
+              β
+              )
+            
+          
+        
+        +
+        1
+        =
+        
+          
+            
+              tan
+              ⁡
+              (
+              α
+              )
+            
+            
+              tan
+              ⁡
+              (
+              β
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\alpha }{\beta }}={\frac {\alpha -\beta }{\beta }}+1<{\frac {\tan(\alpha )\cos(\beta )-\sin(\beta )}{\sin(\beta )}}+1={\frac {\tan(\alpha )}{\tan(\beta )}}.}
+
+See also
+[Aristarchus of Samos](3856)
+Eratosthenes
+Posidonius
+
+Notes and references
+External links
+Leibowitz, Gerald M. "Hellenistic Astronomers and the Origins of Trigonometry" (PDF). Archived from the original (PDF) on 2011-09-27. Retrieved 2019-06-24.
+Proof of the First Inequality
+Proof of the Second Inequality

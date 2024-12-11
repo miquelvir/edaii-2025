@@ -1,0 +1,161 @@
+817
+Application software
+Application software is any computer program that is intended for end-user use – not operating, administering or programming the computer. An application (app, application program, software application) is any program that can be categorized as application software. Common types of applications include word processor, media player and accounting software. 
+The term application software refers to all applications collectively and can be used to differentiate from system and utility software.
+Applications may be bundled with the computer and its system software or published separately. Applications may be proprietary or open-source.
+The short term app (coined in 1981 or earlier) became popular with the 2008 introduction of the iOS App Store, to refer to applications for mobile devices such as smartphones and tablets. Later, with introduction of the Mac App Store (in 2010) and Windows Store (in 2011), the term was extended in popular use to include desktop applications.
+
+Terminology
+The delineation between system software such as operating systems and application software is not exact, however, and is occasionally the object of controversy. For example, one of the key questions in the United States v. Microsoft Corp. antitrust trial was whether Microsoft's Internet Explorer web browser was part of its Windows operating system or a separate piece of application software.  As another example, the GNU/Linux naming controversy is, in part, due to disagreement about the relationship between the Linux kernel and the operating systems built over this kernel. In some types of embedded systems, the application software and the operating system software may be indistinguishable from the user, as in the case of software used to control a VCR, DVD player, or microwave oven. The above definitions may exclude some applications that may exist on some computers in large organizations. For an alternative definition of an app:  see Application Portfolio Management.
+When used as an adjective, application is not restricted to mean: of or on application software. For example, concepts such as application programming interface (API), application server, application virtualization, application lifecycle management and portable application apply to all computer programs alike, not just application software.
+
+Killer app
+Sometimes a new and popular application arises that only runs on one platform that results in increasing the desirability of that platform. This is called a killer application or killer app, coined in the late 1980s. For example, VisiCalc was the first modern spreadsheet software for the Apple II and helped sell the then-new personal computers into offices. For the BlackBerry, it was its email software.
+
+Platform specific naming
+Some applications are available for multiple platforms while others only work on one and are thus called, for example, a geography application for Microsoft Windows, or an Android application for education, or a Linux game.
+
+Classification
+There are many different and alternative ways to classify application software.
+From the legal point of view, application software is mainly classified with a black-box approach, about the rights of its end-users or subscribers (with eventual intermediate and tiered subscription levels).
+Software applications are also classified with respect to the programming language in which the source code is written or executed, and concerning their purpose and outputs.
+
+By property and use rights
+Application software is usually distinguished into two main classes: closed source vs open source software applications, and free or proprietary software applications.
+Proprietary software is placed under the exclusive copyright, and a software license grants limited usage rights. The open-closed principle states that software may be "open only for extension, but not for modification". Such applications can only get add-ons from third parties.
+Free and open-source software (FOSS) shall be run, distributed, sold, or extended for any purpose, and -being open- shall be modified or reversed in the same way.
+FOSS software applications released under a free license may be perpetual and also royalty-free. Perhaps, the owner, the holder or third-party enforcer of any right (copyright, trademark, patent, or ius in re aliena) are entitled to add exceptions, limitations, time decays or expiring dates to the license terms of use.
+Public-domain software is a type of FOSS which is royalty-free and - openly or reservedly- can be run, distributed, modified, reversed, republished, or created in derivative works without any copyright attribution and therefore revocation. It can even be sold, but without transferring the public domain property to other single subjects. Public-domain SW can be released under a (un)licensing legal statement, which enforces those terms and conditions for an indefinite duration (for a lifetime, or forever).
+
+By coding language
+Since the development and near-universal adoption of the web, an important distinction that has emerged, has been between web applications — written with HTML, JavaScript and other web-native technologies and typically requiring one to be online and running a web browser — and the more traditional native applications written in whatever languages are available for one's particular type of computer. There has been a contentious debate in the computing community regarding web applications replacing native applications for many purposes, especially on mobile devices such as smartphones and tablets. Web apps have indeed greatly increased in popularity for some uses, but the advantages of applications make them unlikely to disappear soon, if ever. Furthermore, the two can be complementary, and even integrated.
+
+By purpose and output
+Application software can also be seen as being either horizontal or vertical.  Horizontal applications are more popular and widespread, because they are general purpose, for example word processors or databases. Vertical applications are niche products, designed for a particular type of industry or business, or department within an organization. Integrated suites of software will try to handle every specific aspect possible of, for example, manufacturing or banking worker, accounting, or customer service.
+There are many types of application software:
+
+An application suite consists of multiple applications bundled together. They usually have related functions, features, and user interfaces, and may be able to interact with each other, e.g. open each other's files. Business applications often come in suites, e.g. Microsoft Office, LibreOffice and iWork, which bundle together a word processor, a spreadsheet, etc.; but suites exist for other purposes, e.g. graphics or music.
+Enterprise software addresses the needs of an entire organization's processes and data flows, across several departments, often in a large distributed environment.  Examples include enterprise resource planning systems, customer relationship management (CRM) systems, data replication engines, and supply chain management software. Departmental Software is a sub-type of enterprise software with a focus on smaller organizations or groups within a large organization. (Examples include travel expense management and IT Helpdesk.)
+Enterprise infrastructure software provides common capabilities needed to support enterprise software systems.  (Examples include databases, email servers, and systems for managing networks and security.)
+Application platform as a service (aPaaS) is a cloud computing service that offers development and deployment environments for application services.
+Information worker software lets users create and manage information, often for individual projects within a department, in contrast to enterprise management. Examples include time management, resource management, analytical, collaborative and documentation tools. Word processors, spreadsheets, email and blog clients, personal information systems, and individual media editors may aid in multiple information worker tasks.
+Content access software is used primarily to access content without editing, but may include software that allows for content editing. Such software addresses the needs of individuals and groups to consume digital entertainment and published digital content. (Examples include media players, web browsers, and help browsers.)
+Educational software is related to content access software, but has the content or features adapted for use by educators or students. For example, it may deliver evaluations (tests), track progress through material, or include collaborative capabilities.
+Simulation software simulates physical or abstract systems for either research, training, or entertainment purposes.
+Media development software generates print and electronic media for others to consume, most often in a commercial or educational setting. This includes graphic-art software, desktop publishing software, multimedia development software, HTML editors, digital-animation editors, digital audio and video composition, and many others.
+Product engineering software is used in developing hardware and software products. This includes computer-aided design (CAD), computer-aided engineering (CAE), computer language editing and compiling tools, integrated development environments, and application programmer interfaces.
+Entertainment Software can refer to video games, screen savers, programs to display motion pictures or play recorded music, and other forms of entertainment which can be experienced through the use of a computing device.
+
+By platform
+Applications can also be classified by computing platforms such as a desktop application for a particular operating system, delivery network such as in cloud computing and Web 2.0 applications, or delivery devices such as mobile apps for mobile devices.
+The operating system itself can be considered application software when performing simple calculating, measuring, rendering, and word processing tasks not used to control hardware via a command-line interface or graphical user interface. This does not include application software bundled within operating systems such as a software calculator or text editor.
+
+Information worker software
+Accounting software
+Data management
+Contact manager
+Spreadsheet
+Database software
+Documentation
+Document automation
+Word processor
+Desktop publishing software
+Diagramming software
+Presentation software
+Email
+Blog software
+Enterprise resource planning
+Financial software
+Banking software
+Clearing systems
+Financial accounting software
+Financial software
+Field service management
+Workforce management software
+Project management software
+Calendaring software
+Employee scheduling software
+Workflow software
+Reservation systems
+
+Entertainment software
+Screen savers
+Video games
+Arcade games
+Console games
+Mobile games
+Personal computer games
+Software art
+Demo
+64K intro
+
+Educational software
+Classroom management
+Reference software
+Sales readiness software
+Survey management
+Encyclopedia software
+
+Enterprise infrastructure software
+Artificial Intelligence for IT Operations (AIOps)
+Business workflow software
+Database management system (DBMS)
+Digital asset management (DAM) software
+Document management software
+Geographic information system (GIS)
+
+Simulation software
+[Computer](675) simulators
+Scientific simulators
+Social simulators
+Battlefield simulators
+Emergency simulators
+Vehicle simulators
+Flight simulators
+Driving simulators
+Simulation games
+Vehicle simulation games
+
+Media development software
+3D computer graphics software
+Animation software
+Graphic art software
+Raster graphics editor
+Vector graphics editor
+Image organizer
+Video editing software
+Audio editing software
+Digital audio workstation
+Music sequencer
+Scorewriter
+HTML editor
+Game development tool
+
+Product engineering software
+Hardware engineering
+[Computer](675)-aided engineering
+[Computer](675)-aided design (CAD)
+[Computer](675)-aided manufacturing (CAM)
+Finite element analysis
+
+Software engineering
+[Compiler](662) software
+Integrated development environment
+[Compiler](662)
+Linker
+Debugger
+Version control
+Game development tool
+License manager
+
+See also
+Software development – Creation and maintenance of software
+Mobile app – Software application designed to run on mobile devices
+Web application – Application that uses a web browser as a client
+Server application – [Computer](675) to access a central resource or service on a networkPages displaying short descriptions of redirect targets
+Super-app – Mobile application that provides multiple services that include financial transactions
+
+References
+External links
+
+ Learning materials related to Application software at Wikiversity

@@ -1,0 +1,29 @@
+931
+Cache invalidation
+Cache invalidation is a process in a computer system whereby entries in a cache are replaced or removed. 
+It can be done explicitly, as part of a cache coherence protocol. In such a case, a processor changes a memory location and then invalidates the cached values of that memory location across the rest of the computer system.
+
+Explicit invalidation
+Cache invalidation can be used to push new content to a client. This method functions as an alternative to other methods of displaying new content to connected clients. Invalidation is carried out by changing the application data, which in turn marks the information received by the client as out-of-date. After the cache is invalidated, if the client requests the cache, they are delivered a new version.
+
+Methods
+There are three specific methods to invalidate a cache, but not all caching proxies support these methods.
+
+Purge
+Removes content from caching proxy immediately. When the client requests the data again, it is fetched from the application and stored in the caching proxy. This method removes all variants of the cached content.
+
+Refresh
+Fetches requested content from the application, even if cached content is available. The content previously stored in the cache is replaced with a new version from the application. This method affects only one variant of the cached content.
+
+Ban
+A reference to the cached content is added to a blacklist (or ban list). Client requests are then checked against this blacklist, and if a request matches, new content is fetched from the application, returned to the client, and added to the cache.
+This method, unlike purge, does not immediately remove cached content from the caching proxy. Instead, the cached content is updated after a client requests that specific information.
+
+Alternatives
+There are a few alternatives to cache invalidation that still deliver updated content to the client. One alternative is to expire the cached content quickly by reducing the time-to-live (TTL) to a very low value. Another alternative is to validate the cached content at each request. A third option is to not cache volatile content requested by the client. These alternatives can cause issues, as they create high load on the application due to more frequent requests for information.
+
+Disadvantages
+Using invalidation to transfer new content can be difficult when invalidating multiple objects. Invalidating multiple representations adds a level of complexity to the application. Cache invalidation must be carried out through a caching proxy; these requests can impact performance of the caching proxy, causing information to be transferred at a slower rate to clients.
+
+
+== References ==

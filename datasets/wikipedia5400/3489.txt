@@ -1,0 +1,14 @@
+3489
+Baer–Babinet law
+In geography, the Baer–Babinet law, sometimes called [Baer's law](3489), identifies a way in which the process of formation of rivers is influenced by the rotation of the Earth. According to the hypothesis, because of the rotation of the Earth, erosion occurs mostly on the right banks of rivers in the Northern Hemisphere, and in the Southern Hemisphere on the left banks.
+The concept was originally introduced by a French physicist Jacques Babinet in 1859 using mathematical deduction and Coriolis force. A more definitive explanation was given by Baltic German scientist Karl Ernst von Baer in 1860.
+Although it is possible that an aggregate measurement of all rivers would lead to a correlation with the Baer–Babinet law, the Coriolis force is orders of magnitude weaker than the local forces on the river channel from its flow. Therefore, this is unlikely to be important in any given river. [Albert Einstein](3401) wrote a paper in 1926 explaining the true causes of the phenomenon (see tea leaf paradox).
+
+See also
+Secondary flow
+
+References
+Further reading
+Baer, K. E. v., "Über ein allgemeines Gesetz in der Gestaltung der Flußbetten", Kaspische Studien, 1860, VIII, pp. 1–6.
+Einstein, A., "Die Ursache der Mäanderbildung der Flußläufe und des sogenannten Baerschen Gesetzes", Die Naturwissenschaften, 1926, 11, pp. 223–224.
+Einstein, A., "The Causes of the Formation of Meanders in the Courses of Rivers and of the so-called Baer's Law", translation in Ideas and Opinions, Bonanza Books, 1954.

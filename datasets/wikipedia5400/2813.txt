@@ -1,0 +1,93 @@
+2813
+Anthocyanin
+Anthocyanins (from Ancient Greek  ἄνθος (ánthos) 'flower' and  κυάνεος/κυανοῦς (kuáneos/kuanoûs) 'dark blue'), also called anthocyans, are water-soluble vacuolar pigments that, depending on their pH, may appear red, purple, blue, or black. In 1835, the German pharmacist Ludwig Clamor Marquart named a chemical compound that gives flowers a blue color, Anthokyan, in his treatise "Die Farben der Blüthen" (English: The Colors of Flowers). Food plants rich in anthocyanins include the blueberry, raspberry, black rice, and black soybean, among many others that are red, blue, purple, or black. Some of the colors of autumn leaves are derived from anthocyanins.
+Anthocyanins belong to a parent class of molecules called flavonoids synthesized via the phenylpropanoid pathway. They can occur in all tissues of higher plants, including leaves, stems, roots, flowers, and fruits. Anthocyanins are derived from anthocyanidins by adding sugars. They are odorless and moderately astringent.
+Although approved as food and beverage colorant in the European Union, anthocyanins are not approved for use as a food additive because they have not been verified as safe when used as food or supplement ingredients. There is no conclusive evidence that anthocyanins have any effect on human biology or diseases.
+
+Anthocyanin-rich plants
+Coloration
+In flowers, the coloration that is provided by anthocyanin accumulation may attract a wide variety of animal pollinators, while in fruits, the same coloration may aid in seed dispersal by attracting herbivorous animals to the potentially-edible fruits bearing these red, blue, or purple colors.
+
+Plant physiology
+Anthocyanins may have a protective role in plants against extreme temperatures. Tomato plants protect against cold stress with anthocyanins countering reactive oxygen species, leading to a lower rate of cell death in leaves.
+
+Light absorbance
+The absorbance pattern responsible for the red color of anthocyanins may be complementary to that of green chlorophyll in photosynthetically active tissues such as young Quercus coccifera leaves. It may protect the leaves from attacks by herbivores that may be attracted by green color.
+
+Occurrence
+Anthocyanins are found in the cell vacuole, mostly in flowers and fruits, but also in leaves, stems, and roots. In these parts, they are found predominantly in outer cell layers such as the epidermis and peripheral mesophyll cells.
+Most frequently occurring in nature are the glycosides of cyanidin, delphinidin, malvidin, pelargonidin, peonidin, and petunidin. Roughly 2% of all hydrocarbons fixed in photosynthesis are converted into flavonoids and their derivatives, such as the anthocyanins. Not all land plants contain anthocyanin; in the Caryophyllales (including cactus, beets, and amaranth), they are replaced by betalains. Anthocyanins and betalains have never been found in the same plant.
+Sometimes bred purposely for high anthocyanin content, ornamental plants such as sweet peppers may have unusual culinary and aesthetic appeal.
+
+In flowers
+Anthocyanins occur in the flowers of many plants, such as the blue poppies of some Meconopsis species and cultivars. Anthocyanins have also been found in various tulip flowers, such as Tulipa gesneriana, Tulipa fosteriana and Tulipa eichleri.
+
+In food
+Plants rich in anthocyanins are Vaccinium species, such as blueberry, cranberry, and bilberry; Rubus berries, including black raspberry, red raspberry, and blackberry; blackcurrant, cherry, eggplant (aubergine) peel, black rice, ube, Okinawan sweet potato, Concord grape, muscadine grape, red cabbage, and violet petals. Red-fleshed peaches and apples contain anthocyanins. Anthocyanins are less abundant in banana, asparagus, pea, fennel, pear, and potato, and may be totally absent in certain cultivars of green gooseberries.
+The highest recorded amount appears to be specifically in the seed coat of black soybean (Glycine max L. Merr.) containing approximately 2 g per 100 g, in purple corn kernels and husks, and in the skins and pulp of black chokeberry (Aronia melanocarpa L.) (see table). Due to critical differences in sample origin, preparation, and extraction methods determining anthocyanin content, the values presented in the adjoining table are not directly comparable.
+Nature, traditional agriculture methods, and plant breeding have produced various uncommon crops containing anthocyanins, including blue- or red-flesh potatoes and purple or red broccoli, cabbage, cauliflower, carrots, and corn. Garden tomatoes have been subjected to a breeding program using introgression lines of genetically modified organisms (but not incorporating them in the final purple tomato) to define the genetic basis of purple coloration in wild species that originally were from Chile and the Galapagos Islands. The variety known as "Indigo Rose" became available commercially to the agricultural industry and home gardeners in 2012. Investing tomatoes with high anthocyanin content doubles their shelf-life and inhibits growth of a post-harvest mold pathogen, [Botrytis cinerea](2820).
+Some tomatoes also have been modified genetically with transcription factors from snapdragons to produce high levels of anthocyanins in the fruits. Anthocyanins also may be found in naturally ripened olives, and are partly responsible for the red and purple colors of some olives.
+
+In leaves of plant foods
+Content of anthocyanins in the leaves of colorful plant foods such as purple corn, blueberries, or lingonberries, is about ten times higher than in the edible kernels or fruit.
+The color spectrum of grape berry leaves may be analysed to evaluate the amount of anthocyanins. [Fruit](2777) maturity, quality, and harvest time may be evaluated on the basis of the spectrum analysis.
+
+Autumn leaf color
+The reds, purples, and their blended combinations responsible for autumn foliage are derived from anthocyanins. Unlike carotenoids, anthocyanins are not present in the leaf throughout the growing season, but are produced actively, toward the end of summer. They develop in late summer in the sap of leaf cells, resulting from complex interactions of factors inside and outside the plant. Their formation depends on the breakdown of sugars in the presence of light as the level of phosphate in the leaf is reduced. Orange leaves in autumn result from a combination of anthocyanins and carotenoids.
+Anthocyanins are present in approximately 10% of tree species in temperate regions, although in certain areas such as New England, up to 70% of tree species may produce anthocyanins.
+
+Colorant safety
+Anthocyanins are approved for use as food colorants in the European Union, Australia, and New Zealand, having colorant code E163. In 2013, a panel of scientific experts for the European Food Safety Authority concluded that anthocyanins from various fruits and vegetables have been insufficiently characterized by safety and toxicology studies to approve their use as food additives. Extending from a safe history of using red grape skin extract and blackcurrant extracts to color foods produced in Europe, the panel concluded that these extract sources were exceptions to the ruling and were sufficiently shown to be safe.
+Anthocyanin extracts are not specifically listed among approved color additives for foods in the United States; however, grape juice, red grape skin and many fruit and vegetable juices, which are approved for use as colorants, are rich in naturally occurring anthocyanins. No anthocyanin sources are included among approved colorants for drugs or cosmetics. When esterified with fatty acids, anthocyanins can be used as a lipophilic colorant for foods.
+
+In human consumption
+Although anthocyanins have been shown to have antioxidant properties in vitro, there is no evidence for antioxidant effects in humans after consuming foods rich in anthocyanins. Unlike controlled test-tube conditions, the fate of anthocyanins in vivo shows they are poorly conserved (less than 5%), with most of what is absorbed existing as chemically modified metabolites that are excreted rapidly. The increase in antioxidant capacity of blood seen after the consumption of anthocyanin-rich foods may not be caused directly by the anthocyanins in the food, but instead by increased uric acid levels derived from metabolizing flavonoids (anthocyanin parent compounds) in the food. It is possible that metabolites of ingested anthocyanins are reabsorbed in the gastrointestinal tract from where they may enter the blood for systemic distribution and have effects as smaller molecules.
+In a 2010 review of scientific evidence concerning the possible health benefits of eating foods claimed to have "antioxidant properties" due to anthocyanins, the European Food Safety Authority concluded that 1) there was no basis for a beneficial antioxidant effect from dietary anthocyanins in humans, 2) there was no evidence of a cause-and-effect relationship between the consumption of anthocyanin-rich foods and protection of DNA, proteins, and lipids from oxidative damage, and 3) there was no evidence generally for consumption of anthocyanin-rich foods having any "antioxidant", "anti-cancer", "anti-aging", or "healthy aging" effects.
+
+Chemical properties
+Flavylium cation derivatives
+[Glycoside](2881)s of anthocyanidins
+The anthocyanins, anthocyanidins with sugar group(s), are mostly 3-glucosides of the anthocyanidins. The anthocyanins are subdivided into the sugar-free anthocyanidin aglycones and the anthocyanin glycosides. As of 2003, more than 400 anthocyanins had been reported, while later literature in early 2006, puts the number at more than 550 different anthocyanins. The difference in chemical structure that occurs in response to changes in pH, is the reason why anthocyanins often are used as pH indicators, as they change from red in acids to blue in bases through a process called halochromism.
+
+Stability
+Anthocyanins are thought to be subject to physiochemical degradation in vivo and in vitro. Structure, pH, temperature, light, oxygen, metal ions, intramolecular association, and intermolecular association with other compounds (copigments, sugars, proteins, degradation products, etc.) generally are known to affect the color and stability of anthocyanins. B-ring hydroxylation status and pH have been shown to mediate the degradation of anthocyanins to their phenolic acid and aldehyde constituents. Indeed, significant portions of ingested anthocyanins are likely to degrade to phenolic acids and aldehyde in vivo, following consumption. This characteristic confounds scientific isolation of specific anthocyanin mechanisms in vivo.
+
+pH
+Anthocyanins generally are degraded at higher pH. However, some anthocyanins, such as petanin (petunidin 3-6-O-(4-O-(E)-p-coumaroyl-O-α-l-rhamnopyranosyl)-β-d-glucopyranoside-5-O-β-d-glucopyranoside), are resistant to degradation at pH 8 and may be used effectively as a food colorant.
+
+Use as environmental pH indicator
+Anthocyanins may be used as pH indicators because their color changes with pH; they are red or pink in acidic solutions (pH < 7), purple in neutral solutions (pH ≈ 7), greenish-yellow in alkaline solutions (pH > 7), and colorless in very alkaline solutions, where the pigment is completely reduced.
+
+Biosynthesis
+Anthocyanin pigments are assembled like all other flavonoids from two different streams of chemical raw materials in the cell:
+One stream involves the shikimate pathway to produce the amino acid phenylalanine, (see phenylpropanoids)
+The other stream produces three molecules of malonyl-CoA, a C3 unit from a C2 unit (acetyl-CoA),
+These streams meet and are coupled together by the enzyme chalcone synthase, which forms an intermediate chalcone-like compound via a polyketide folding mechanism that is commonly found in plants,
+The chalcone is subsequently isomerized by the enzyme chalcone isomerase to the prototype pigment naringenin,
+Naringenin is subsequently oxidized by enzymes such as flavanone hydroxylase, flavonoid 3'-hydroxylase, and flavonoid 3',5'-hydroxylase,
+These oxidation products are further reduced by the enzyme dihydroflavonol 4-reductase to the corresponding colorless leucoanthocyanidins,
+Leucoanthocyanidins once were believed to be the immediate precursors of the next enzyme, a dioxygenase referred to as anthocyanidin synthase, or, leucoanthocyanidin dioxygenase. Flavan-3-ols, the products of leucoanthocyanidin reductase (LAR), recently have been shown to be their true substrates,
+The resulting unstable anthocyanidins are further coupled to sugar molecules by enzymes such as UDP-3-O-glucosyltransferase, to yield the final relatively-stable anthocyanins.
+Thus, more than five enzymes are required to synthesize these pigments, each working in concert. Even a minor disruption in any of the mechanisms of these enzymes by either genetic or environmental factors, would halt anthocyanin production. While the biological burden of producing anthocyanins is relatively high, plants benefit significantly from the environmental adaptation, disease tolerance, and pest tolerance provided by anthocyanins.
+In anthocyanin biosynthetic pathway, L-phenylalanine is converted to naringenin by phenylalanine ammonialyase, cinnamate 4-hydroxylase, 4-coumarate CoA ligase, chalcone synthase, and chalcone isomerase. Then, the next pathway is catalyzed, resulting in the formation of complex aglycone and anthocyanin through composition by flavanone 3-hydroxylase, flavonoid 3'-hydroxylase, dihydroflavonol 4-reductase, anthocyanidin synthase, UDP-glucoside: flavonoid glucosyltransferase, and methyl transferase.
+
+Genetic analysis
+The phenolic metabolic pathways and enzymes may be studied by mean of transgenesis of genes. The Arabidopsis regulatory gene in the production of anthocyanin pigment 1 (AtPAP1) may be expressed in other plant species.
+
+Dye-sensitized solar cells
+Anthocyanins have been used in organic solar cells because of their ability to convert light energy into electrical energy. The many benefits to using dye-sensitized solar cells instead of traditional p-n junction silicon cells, include lower purity requirements and abundance of component materials, as well as the fact that they may be produced on flexible substrates, making them amenable to roll-to-roll printing processes.
+
+Visual markers
+Anthocyanins fluoresce, enabling a tool for plant cell research to allow live cell imaging without a requirement for other fluorophores. Anthocyanin production may be engineered into genetically modified materials to enable their identification visually.
+
+See also
+Phenolic compounds in wine
+p-Coumaroylated anthocyanin
+
+References
+Further reading
+Andersen, O.M. (2006). [Flavonoid](2847)s: Chemistry, Biochemistry and Applications. Boca Raton FL: CRC Press. ISBN 978-0-8493-2021-7.
+Gould, K.; Davies, K.; Winefield, C., eds. (2008). Anthocyanins: Biosynthesis, Functions, and Applications. Springer. ISBN 978-0-387-77334-6.
+
+External links
+Anthocyanins FAQ MadSci Network

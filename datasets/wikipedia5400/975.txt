@@ -1,0 +1,35 @@
+975
+Distributed networking
+Distributed networking is a distributed computing network system where components of the program and data depend on multiple sources.
+
+Overview
+Distributed networking, used in distributed computing, is the network system over which computer programming, software, and its data are spread out across more than one computer, but communicate complex messages through their nodes (computers), and are dependent upon each other. The goal of a distributed network is to share resources, typically to accomplish a single or similar goal.  Usually, this takes place over a computer network, however, internet-based computing is rising in popularity. Typically, a distributed networking system is composed of processes, threads, agents, and distributed objects.   Merely distributed physical components is not enough to suffice as a distributed network; typically distributed networking uses concurrent program execution.
+
+Client/server
+Client/server computing is a type of distributed computing where one computer, a client, requests data from the server, a primary computing center, which responds to the client directly with the requested data, sometimes through an agent. Client/server distributed networking is also popular in web-based computing. Client/Server is the principle that a client computer can provide certain capabilities for a user and request others from other computers that provide services for the clients. The Web's Hypertext Transfer Protocol is basically all client/server.
+
+Agent-based
+A distributed network can also be agent-based, where what controls the agent or component is loosely defined, and the components can have either pre-configured or dynamic settings.
+
+Decentralized
+Decentralization is where each computer on the network can be used for the computing task at hand, which is the opposite of the client/server model. Typically, only idle computers are used, and in this way, it is thought that networks are more efficient.  Peer-to-peer (P2P) computation is based on a decentralized, distributed network, including the distributed ledger technology such as blockchain.
+
+Mesh
+Mesh networking is a local network composed of devices (nodes) that was originally designed to communicate through radio waves, allowing for different types of devices. Each node is able to communicate with every other node on the network.
+
+Advantages of distributed networking
+Prior to the 1980s, computing was typically centralized on a single low-cost desktop computer. But today, computing resources (computers or servers) are typically  physically distributed in many places, which distributed networking excels at. Some types of computing doesn't scale well past a certain level of parallelism and the gains of superior hardware components, and thus is bottle-necked, such as by Very Large Scale Instruction Words. By increasing the number of computers rather than the power of their components, these bottlenecks are overcome. Situations where resource sharing becomes an issue, or where higher fault tolerance is needed also find aid in distributed networking.  Distributed networking is also very supportive of higher levels of anonymity.
+
+[Cloud computing](938)
+Enterprises with rapid growth and scaling needs may find it challenging to maintain their own distributed network under the traditional client/server computing model. Cloud Computing is the utility of distributed computing over Internet-based applications, storage, and computing services. A cloud is a cluster of computers or servers that are closely connected to provide scalable, high-capacity computing or related tasks.
+
+See also
+[Cloud computing](938)
+Data center
+Distributed data store
+[Distributed file system](973)
+[Distributed computing](900)
+Peer-to-peer
+
+
+== References ==

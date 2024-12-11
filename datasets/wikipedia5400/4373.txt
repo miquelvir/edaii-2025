@@ -1,0 +1,73 @@
+4373
+Cantabrian language
+[Cantabria](3351)n (cántabru, in [Cantabria](3351)n) is a vernacular Romance linguistic variety, most often classified as part of the Asturleonese linguistic group. It is indigenous to the territories in and surrounding the Autonomous Community of [Cantabria](3351), in Northern Spain. The language is currently relegated to the rural dialects, while most of the population speaks a more or less standard version of Spanish.
+Traditionally, some dialects of this group have been further grouped by the name Montañés ('from the Mountain'), La Montaña ('the Mountain') being a traditional name for [Cantabria](3351) due to its mountainous topography. Currently, this name is reserved for the western dialect, grouping under the name of Pasiegu the variety of the eastern valleys.
+
+Distribution
+These dialects belong to the Northwestern Iberian dialect continuum and have been classified as belonging to the Astur-Leonese domain by successive research works carried out through the 20th century, the first of them, the famous work El dialecto Leonés, by Ramón Menéndez Pidal.
+This dialect group spans the whole territory of [Cantabria](3351). In addition, there is historical evidence of traits (such as toponyms, or certain constructions) linking the speech of some nearby areas to the [Cantabria](3351)n Astur-Leonese group:
+
+The western part of Las Encartaciones, in Biscay.
+Bordering areas with Burgos: especially the upper valleys of Espinosa de los Monteros, where Pasiegu dialect was spoken.
+Bordering areas with Palencia
+Valleys of Peñamellera Baja, Peñamellera Alta, eastern Llanes and Ribadedeva, in the easternmost part of [Asturias](3902).
+Some of this areas had historically been linked to [Cantabria](3351) before the 1833 territorial division of Spain, and the creation of the Province of Santander (with the same territory as the modern-day Autonomous Community).
+
+Dialects
+Based on the location where dialects are spoken, we find a traditional dialectal division of [Cantabria](3351), which normally corresponds to the different valleys or territories:
+
+However, based on linguistic evidence, R. Molleda proposed what is today the usual division of dialectal areas in [Cantabria](3351). Molleda proposed to take the isogloss of the masculine plural gender morphology, which seems to surround a large portion of Eastern [Cantabria](3351), running from the mouth of the Besaya River in the North, and along the Pas-Besaya watershed. He then proceeded to name the resulting areas Western and Eastern, depending on the location to the West or East of the isogloss. This division has gained support due to the fact that, although masculine morphology by itself is not a very important difference, many other isoglosses draw the same line.
+
+Linguistic description
+The [Cantabria](3351)n set of consonants is nearly identical to those of its neighbouring languages of the dialectal continuum, the Asturian and the Northern Peninsular Spanish. An important difference is the preservation of the voiceless glottal fricative (/h/) as an evolution of Latin's word initial f- as well as the x-h mergers; both features are also found in Eastern Asturian as well as some Spanish dialects, especially those from Southern Spain and parts of Latin America. The preservation of the voiceless glottal fricative was usual in Middle Spanish, before the /h/ in words like /humo/, from Latin fumus, resulted in Modern Spanish /umo/. Every [Cantabria](3351)n dialect keeps /f/ before consonants such as in /'fɾi.u/ (cold), just as Astur-Leonese and Spanish do.
+
+The x - h merger is typical in most Western and Eastern Coastal dialects, where x merges into h. However, the Eastern dialects from the Inner Valleys have merged h into x; moreover, there are older speakers that lack any kind of merger, fully distinguishing the minimal pair /huegu/ - /xuegu/ (fire - game).
+
+Other features of the [Cantabria](3351)n consonant set, particular to the eastern and western varieties are:
+
+In the Eastern dialect in Valles Pasiegos, /s/ becomes ɾ before voiced consonants. This has also occurred in the names of the rivers Arlanza and Arlanzón in Burgos. Also in Pasiegu, syllable-final word-internal /s/ and /θ/ are frequently confused.
+In the Western dialect of Tudanca and neighboring zones, /s/ can be aspirated, that is, pronounced as h, when before consonants, or at the end of a word and before another word which begins with a vowel, as in lahoˈɾehas las orejas 'the ears'. However, /s/ cannot be aspirated before a pause in this zone. Similar patterns of /s/-aspiration have been found in some other Astur-leonese zones as well.
+Other features are common to most Astur-Leonese dialects; some of these are:
+
+Use of /u/ as masculine singular gender morpheme: most dialects use a closed central rounded vowel ʉ, as masculine morpheme, although only eastern dialects have shown  ʉ - u contrast.
+Opposition between singular and plural masculine gender morphemes. The dialectal boundaries of this feature are usually used to represent the western and eastern dialects:
+Western Dialects oppose /u/ masculine singular marker to /os/ masculine plural marker. E.g. perru (dog) but perros (dogs).
+Eastern Dialects used to oppose /ʉ/+metaphony (masc. sing.) to /us/ (masc. plural). E.g. pirru 'pɨ.rʉ (dog) but perrus (dogs). This opposition is nearly lost and only few speakers of the Pasiegu dialect still use it. Nowadays, the most common situation is the no-opposition, using /u/ as a masculine morpheme both in singular and plural.
+Mass neuter: this feature marks uncountableness in nouns, pronouns, articles, adjectives and quantifiers. As in general Astur-Leonese, the neuter morpheme is /o/, rendering an opposition between pelo (the hair) and pelu (one strand of hair),  however the actual development of this feature changes from dialect to dialect:
+Most western dialects have recently lost this distinction in nominal and adjectival morphology, merging masculine and neuter morphology (pelu for both previous examples), although keeping this distinction in pronouns, quantifiers and articles, so lo (it, neuter) would refer to pelu (the hair, uncountable), but lu (it, masculine) would refer to 'pelu (hair strand, countable).
+Eastern dialects show a more complex behaviour, with metaphony as the main mechanism for neuter distinction. Due to this, word-final morphology was not so important, and the mutations in stressed and previous syllables play a more important role. Thus, these would have 'pɨ.lʉ (strand of hair, countable) and 'pe.lu (the hair, uncountable), the same applied for adjectives. Likewise, eastern dialects modified their pronoun systems in order to avoid misunderstandings, replacing lu with li (originally dative pronoun) as third person singular accusative pronoun, and using lu for mass neuter. However, this distinction has been gradually lost and is now only retained in some older speakers of Pasiegu dialect. A unique feature of these dialects is the use of feminine agreeing quantifiers with neuter nouns, such as: mucha pelu (much hair).
+Dropping of the -r from verb infinitives when clitic pronouns are appended. This results in cantar (to sing) +la (it, feminine) = cantala.
+Preference of simple verbal tenses over complex (compound) tenses, e.g. "ya acabé" (I already finished) rather than "ya he acabáu" (I have already finished).
+
+Threats and recognition
+In 2009, [Cantabria](3351)n was listed as a dialect of the Astur-Leonese language by UNESCO's Red Book of the World's Languages in Danger, which was in turn classified as a definitely endangered language.
+
+Comparative tables
+The following notes only apply for the [Cantabria](3351)n derivatives, but might as well occur in other Astur-Leonese varieties:
+
+A  Many verbs keep the etymological -h- or -d- as an internal -y-. This derivation is most intense in the Pasiegan Dialect.
+B  Latin -MB- group is only retained in the derivatives of a group containing few, but very used, Latin etyma: lumbum (loin), camba (bed), lambere (lick), etc. however, it has not been retained during other more recent word derivations, such as tamién (also), which comes from the -mb- reduction of también a compound of tan (as) and bien (well).
+C  In Pasiegan dialect, all masculine singular nouns, adjectives and some adverbs retain an ancient vowel mutation called Metaphony, thus: lumu (one piece of loin) but lomu (uncountable, loin meat), the same applies for ḥuigu (a fire/campfire) and ḥuegu (fire, uncountable) and muistru and muestru (our, masculine singular and uncountable, respectively).
+D  Most Western [Cantabria](3351)n Dialects retain the ancient initial F- as an aspiration (IPA h), so: FACERE > /haθer/. This feature is still productive for all etyma starting with f. An example of this is the Greek root phōs (light) which, through Spanish foto (photo) derives in ḥotu (IPA: hotu)(photography).
+D  All Eastern Dialects have mostly lost Latin initial F-, and only keep it on certain lexicalized vestiges, such as: ḥumu (IPA: xumu). Thus: FACERE > /aθer/.
+E  Prothesis: some words derive from the addition of an extra letter (usually /a/) at the beginning of the word. arradiu, amotu/amutu, afutu.
+F  Yeísmo: Most [Cantabria](3351)n dialects do not distinguish between the /ʝ/ (written y) and /ʎ/ (written ll) fonemes, executing both with a single sound ʝ. Thus, rendering poyu and pollu (stone seat and chicken, respectively) homophones.
+G  Lleísmo: Pasiegan Dialect is one of the few [Cantabria](3351)n Dialects which does distinguish /ʝ/ and /ʎ/. Thus, puyu and pullu (stone seat and chicken, respectively) are both written and pronounced differently.
+H  Palatalization: [Cantabria](3351)n Dialects do mostly not palatalize Latin L-, however, some vestiges might be found in Eastern [Cantabria](3351)n Dialects, in areas bordering [Asturias](3902) (Asturian a very palatalizing language). This vestiges are often camouflaged due to the strong Yeísmo. Palatalization of Latin N- is more common, and words such as ñudu (from Latin nudus), or ñublu (from Latin nubĭlus) are more common.
+
+Sample text
+Central [Cantabria](3351)n
+Na, que entornemos, y yo apaecí esturunciau y con unos calambrios que me ḥiendían de temblíos... El rodal quedó allá lantón escascajau del too; las trichorias y estadojos, triscaos... Pero encontó, casi agraecí el testarazu, pues las mis novillucas, que dispués de la estorregá debían haber quedau soterrás, cuasi no se mancaron. ¡Total: unas lijaduras de poco más de na!
+
+Spanish
+Nada, que volcamos, y yo acabé por los suelos y con unos calambres que me invadían de temblores...El eje quedó allá lejos totalmente despedazado; las estacas quebradas... Pero aún así, casi agradecí el cabezazo, pues mis novillas, que después de la caída deberían haber quedado para enterrar, casi no se lastimaron. ¡Total: unas rozaduras de nada!
+
+English (approximate-literal translation)
+Nothing, we tipped over, and I ended up on the ground and with some cramps that invaded me with tremors... The axis was far away, totally torn apart; the broken stakes... But even so, I was almost grateful for the header, because my heifers — which after the fall should have been left to bury – were hardly hurt. In total: Some scratches like nothing!
+
+Footnotes
+References
+External links
+[Cantabria](3351)n-Spanish Dictionary in the Asturian wiktionary (in [Cantabria](3351)n).
+Alcuentros, [Cantabria](3351)n magazine of minority languages (in [Cantabria](3351)n/Spanish)
+Proyeutu Depriendi Distance learning of [Cantabria](3351)n (in [Cantabria](3351)n/Spanish)

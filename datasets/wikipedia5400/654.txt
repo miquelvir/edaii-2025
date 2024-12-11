@@ -1,0 +1,30 @@
+654
+Code smell
+In computer programming, a code smell is any characteristic in the source code of a program that possibly indicates a deeper problem. Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.
+The term was popularized by Kent Beck on WardsWiki in the late 1990s. Usage of the term increased after it was featured in the 1999 book Refactoring: Improving the Design of Existing Code by Martin Fowler. It is also a term used by agile programmers.
+
+Definition
+One way to look at smells is with respect to principles and quality: "Smells are certain structures in the code that indicate violation of fundamental design principles and negatively impact design quality". Code smells are usually not bugs; they are not technically incorrect and do not prevent the program from functioning. Instead, they indicate weaknesses in design that may slow down development or increase the risk of bugs or failures in the future. Bad code smells can be an indicator of factors that contribute to technical debt. Robert C. Martin calls a list of code smells a "value system" for software craftsmanship.
+Contrary to these severe interpretations, Cunningham's original definition was that a smell is a suggestion that something may be wrong, not evidence that there is already a problem.
+Often the deeper problem hinted at by a code smell can be uncovered when the code is subjected to a short feedback cycle, where it is refactored in small, controlled steps, and the resulting design is examined to see if there are any further code smells that in turn indicate the need for more refactoring. From the point of view of a programmer charged with performing refactoring, code smells are heuristics to indicate when to refactor, and what specific refactoring techniques to use. Thus, a code smell is a driver for refactoring.
+Factors such as the understandability of code, how easy it is to be modified, the ease in which it can be enhanced to support functional changes, the code's ability to be reused in different settings, how testable the code is, and code reliability are factors that can be used to identify code smells. 
+A 2015 study utilizing automated analysis for half a million source code commits and the manual examination of 9,164 commits determined to exhibit "code smells" found that:
+
+There exists empirical evidence for the consequences of "technical debt", but there exists only anecdotal evidence as to how, when, or why this occurs.
+Common wisdom suggests that urgent maintenance activities and pressure to deliver features while prioritizing time-to-market over code quality are often the causes of such smells.
+Tools such as Checkstyle, PMD, FindBugs, and SonarQube can automatically identify code smells.
+
+See also
+Anti-pattern
+Design smell
+List of tools for static code analysis
+Software rot
+
+References
+Further reading
+Garousi, Vahid; Küçük, Barış (2018). "Smells in software test code: A survey of knowledge in industry and academia". Journal of Systems and Software. 138: 52–81. doi:10.1016/j.jss.2017.12.013.
+Sharma, Tushar; Spinellis, Diomidis (2018). "A survey on software smells". Journal of Systems and Software. 138: 158–173. doi:10.1016/j.jss.2017.12.034.
+
+External links
+"CodeSmell". martinfowler.com. Retrieved 2022-03-01.
+Boundy, David, Software cancer: the seven early warning signs or here, ACM SIGSOFT Software Engineering Notes, Vol. 18 No. 2 (April 1993), Association for Computing Machinery, New York, NY, USA

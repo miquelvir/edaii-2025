@@ -1,0 +1,338 @@
+834
+Bell Labs
+Bell Labs is an American industrial research and development (R&D) company, currently operating as a subsidiary of Finnish technology company Nokia. With a long history, Bell Labs is credited with the development of radio astronomy, the transistor, the laser, the photovoltaic cell, the charge-coupled device (CCD), information theory, the Unix operating system, and the programming languages B, C, [C++](640), S, SNOBOL, [AWK](804), [AMPL](802), and others, throughout the 20th century. Ten Nobel Prizes and five Turing Awards have been awarded for work completed at Bell Laboratories.
+The laboratory began in the late 19th century as the Western Electric Engineering Department, located at 463 West Street in New York City. After years of conducting research and development under Western Electric, a Bell subsidiary, the Engineering Department was reformed into Bell Telephone Laboratories in 1925 and placed under the shared ownership of Western Electric and the American Telephone and Telegraph Company (AT&T). In the 1960s, laboratory and company headquarters were moved to Murray Hill, New Jersey. Its alumni during this time include people like William Shockley, Dennis Ritchie, Claude Shannon and Willard Boyle.
+Bell Labs became a subsidiary of AT&T Technologies in 1984 after the Bell System was broken up. After the breakup, its funding greatly declined. In 1996, AT&T Technologies was spun off and renamed to Lucent Technologies, who used the Murray Hill site as their headquarters. Bell Laboratories was split as well, with part of it going to AT&T as AT&T Laboratories. In 2006, Lucent merged with French telecommunications company Alcatel to form Alcatel-Lucent, which was in turn acquired by Nokia in 2016.
+
+Origin and historical locations
+Bell's personal research after the telephone
+In 1880, when the French government awarded Alexander Graham Bell the Volta Prize of 50,000 francs for the invention of the telephone (equivalent to about US$10,000 at the time, or about $330,000 now), he used the award to fund the Volta Laboratory (also known as the "Alexander Graham Bell Laboratory") in Washington, D.C. in collaboration with Sumner Tainter and Bell's cousin Chichester Bell. The laboratory was variously known as the Volta Bureau, the Bell Carriage House, the Bell Laboratory and the Volta Laboratory.
+It focused on the analysis, recording, and transmission of sound. Bell used his considerable profits from the laboratory for further research and education advancing the diffusion of knowledge relating to the deaf. This resulted in the founding of the Volta Bureau (c. 1887) at the Washington, D.C. home of his father, linguist Alexander Melville Bell. The carriage house there, at 1527 35th Street N.W., became their headquarters in 1889.
+In 1893, Bell constructed a new building close by at 1537 35th Street N.W., specifically to house the lab. This building was declared a National Historic Landmark in 1972.
+After the invention of the telephone, Bell maintained a relatively distant role with the Bell System as a whole, but continued to pursue his own personal research interests.
+
+Early antecedent
+The Bell Patent Association was formed by Alexander Graham Bell, Thomas Sanders, and Gardiner Hubbard when filing the first patents for the telephone in 1876.
+Bell Telephone Company, the first telephone company, was formed a year later. It later became a part of the American Bell Telephone Company.
+In 1884, the American Bell Telephone Company created the Mechanical Department from the Electrical and Patent Department formed a year earlier.
+American Telephone & Telegraph Company (AT&T) and its own subsidiary company took control of American Bell and the Bell System by 1889.
+American Bell held a controlling interest in Western Electric (which was the manufacturing arm of the business) whereas AT&T was doing research into the service providers.
+
+Formal organization and location changes
+In 1896, Western Electric bought property at 463 West Street to centralize the manufacturers and engineers which had been supplying AT&T with such technology as telephones, telephone exchange switches and transmission equipment.
+During the early 20th century, several historically significant laboratories were established. In 1915, the first radio transmissions were made from a shack in Montauk, Long Island. That same year, tests were performed on the first transoceanic radio telephone at a house in Arlington County, Virginia.  A radio reception laboratory was established in 1919 in the Cliffwood section of Aberdeen Township, New Jersey. Additionally for 1919, a transmission studies site was established in Phoenixville, Pennsylvania that built, in 1929, the coaxial conductor line for first tests of long-distance transmission in various frequencies.
+On January 1, 1925, Bell Telephone Laboratories, Inc. was organized to consolidate the development and research activities in the communication field and allied sciences for the Bell System. Ownership was evenly shared between Western Electric and AT&T. The new company had 3600 engineers, scientists, and support staff. Its 400,000-square-foot (37,000 m2) space was expanded with a new building occupying about one quarter of a city block.
+The first chairman of the board of directors was John J. Carty, AT&T's vice president, and the first president was Frank B. Jewett, also a board member, who stayed there until 1940. The operations were directed by E. B. Craft, executive vice-president, and formerly chief engineer at Western Electric.
+In the early 1920s, a few outdoor facilities and radio communications development facilities were developed. In 1925, the test plot studies were established at Gulfport, Mississippi, where there were numerous telephone pole samples established for wood preservation. At the Deal, New Jersey location, work was done on ship-to-shore radio telephony. In 1926, in the Whippany section of Hanover Township, New Jersey, land was acquired and established for the development of a 50-kilowatt broadcast transmitter. In 1931, Whippany increased with 75 acres (30 ha) added from a nearby property. In 1928, a 15-acre (6.1 ha) site in Chester Township, New Jersey, was leased for outdoor tests, though the facility became inadequate for such purposes. In 1930, the Chester location required the purchase of an additional 85 acres (34 ha) of land to be used for a new outdoor plant development laboratory. Prior to Chester being established, a test plot was installed in Limon, Colorado in 1929, similar to the one in Gulfport. The three test plots at Gulfport, Limon, and Chester were outdoor facilities for preservatives and prolonging the use of telephone poles. Additionally, in 1929, a land expansion was done at the Deal Labs to 208 acres (84 ha). This added land increased the facility for radio transmission studies.
+The beginning of 1930s, established three facilities with radio communications experiments and chemical aspects testing. By 1939, the Summit, New Jersey, chemical laboratory was nearly 10 years established in a three-story building conducted experiments in corrosion, using various fungicides tests on cables, metallic components, or wood. For 1929, land was purchased in Holmdel Township, New Jersey, for a radio reception laboratory to replace the Cliffwood location that had been in operation since 1919. In 1930, the Cliffwood location was ending its operations as Holmdel was established. Whereas, in 1930, a location in Mendham Township, New Jersey, was established to continue radio receiver developments farther from the Whippany location and eliminate transmitter interference at that facility with developments. The Mendham location worked on communication equipment and broadcast receivers. These devices were used for marine, aircraft, and police services as well as the location performed precision frequency-measuring apparatus, field strength measurements, and conducted radio interference.
+By the early 1940s, Bell Labs engineers and scientists had begun to move to other locations away from the congestion and environmental distractions of New York City, and in 1967 Bell Laboratories headquarters was officially relocated to Murray Hill, New Jersey.
+Among the later Bell Laboratories locations in New Jersey were Holmdel Township, Crawford Hill, the Deal Test Site, Freehold, Lincroft, Long Branch, Middletown, Neptune Township, Princeton, Piscataway, Red Bank, Chester Township, and Whippany. Of these, Murray Hill and Crawford Hill remain in existence (the Piscataway and Red Bank locations were transferred to and are now operated by Telcordia Technologies and the Whippany site was purchased by Bayer).
+The largest grouping of people in the company was in Illinois, at Naperville-Lisle, in the Chicago area, which had the largest concentration of employees (about 11,000) prior to 2001. There also were groups of employees in Indianapolis, Indiana; Columbus, Ohio; North Andover, Massachusetts; Allentown, Pennsylvania; Reading, Pennsylvania; and Breinigsville, Pennsylvania; Burlington, North Carolina (1950s–1970s, moved to Greensboro 1980s) and Westminster, Colorado. Since 2001, many of the former locations have been scaled down or closed.
+
+Bell's Holmdel research and development lab, a 1,900,000-square-foot (180,000 m2) structure set on 473 acres (191 ha), was closed in 2007. The mirrored-glass building was designed by Eero Saarinen. In August 2013, Somerset Development bought the building, intending to redevelop it into a mixed commercial and residential project. A 2012 article expressed doubt on the success of the newly named Bell Works site, but several large tenants had announced plans to move in through 2016 and 2017.
+
+Building Complex Location (code) information, past and present
+Chester (CH) – North Road, Chester Township, New Jersey (began 1930, outdoor test site for small size telephone pole preservation, timber-related equipment, cable laying mechanism for the first undersea voice cable, research for loop transmission, Lucent Technologies donated land for park)
+Crawford Hill (HOH) – Crawfords Corner Road, Holmdel, NJ (built 1930s, currently as exhibit and building sold, horn antenna used for "Big Bang" theory)
+Red Hill (HR) – located at exit 109 on the Garden State Parkway (480 Red Hill Rd, Middletown, NJ), the building that formerly housed hundreds of Bell Labs researchers is now in use by Memorial Sloan Kettering
+Holmdel (HO) – 101 Crawfords Corner, Holmdel, NJ (built 1959–1962, older structures in the 1920s, currently as private building called Bell Works, discovered extraterrestrial radio emissions, undersea cable research, satellite transmissions systems Telstar 3 and 4); provided office space for ~8000 workers in the 1980s (reaching a peak of ~9000 in 1982); prized glass building with hollow interior designed by Eero Saarinen; a 3-legged white water tower built to resemble a transistor marks the long entrance drive to this facility.
+Indian Hill (IH) – 2000 Naperville Road, Naperville, IL (built 1966, currently Nokia, developed switching technology and systems)
+Indian Hill New (IHN) – 1960 Lucent Lane, Naperville, IL (built in 2000 by Lucent Technologies for growth of the Indian Hill Bell Labs complex. The steel and glass designed, 613,620-square-foot (57,007 m2) building with 900 parking places, was sold by Nokia for $4.8 million in April 2023. The buyer, Franklin Partners, purchased the 41-acre (17 ha) site for warehousing but decisions were made to demolish the building for future approved planning. The pedestrian bridge to Indian Hill building was demolished as a separated company. The conference room and lobby scenes of the building were filmed in July 2010, during Alcatel-Lucent ownership, for the Ron Howard film, The Dilemma.)
+Indian Hill Park (IHP) – 200 Park Pl, Naperville, IL (Leased facility until Lucent Technologies consolidation to Indian Hill location.)
+Indian Hill South (IX) – Naperville, IL (Leased facility until Lucent Technologies consolidation to Indian Hill location.)
+Indian Hill West (IW) – Naperville, IL (Leased facility until Lucent Technologies consolidation to Indian Hill location.)
+Murray Hill (MH) – 600 Mountain Ave, Murray Hill, NJ (built 1941–1945, currently Nokia, developed transistor, UNIX operating system and C programming language, anechoic chamber, several building sections demolished)
+
+Network Software Center (NSC and/or NW) – 2500-2600 Warrenville Rd, Lisle, IL (Built in mid 1970s. Owned property under AT&T Bell Labs, then Lucent Technologies constructed an additional building in 2000s. During Alcatel-Lucent consolidation to Indian Hill location, the buildings were placed for sale and sold to Navistar in 2010.)
+Short Hills (HL) – 101–103 JFK Parkway, Short Hills, NJ (Various departments such as Accounts Payable, IT Purchasing, HR Personnel, Payroll, Telecom, and the Government group, and Unix Administration Systems Computer Center. Buildings exist without the overhead walkway between the two buildings and two different companies are located from banking and business analytics.)
+Summit (SF) – 190 River Road, Summit, NJ (building was part of the UNIX Software Operations and became UNIX System Laboratories, Inc. In December 1991, USL combined with Novell. Location is a banking company.)
+West St ( ) – 463 West Street, New York, NY (built 1898, 1925 until December 1966 as Bell Labs headquarters, experimental talking movies, wave nature of matter, radar)
+Whippany (WH) – 67 Whippany Road, Whippany, NJ (built 1920s, demolished and portion building as Bayer, performed military research and development, research and development in radar, in guidance for the Nike missile, and in underwater sound, Telstar 1, wireless technologies)
+
+List of Bell Labs (1974)
+Bell Lab's 1974 corporate directory listed 22 labs in the United States, located in:
+
+Allentown – Allentown, PA
+Atlanta – Norcross, GA
+Centennial Park – Piscataway, NJ
+Chester – Chester, NJ
+Columbus – Columbus, OH
+Crawford Hill – Holmdel, NJ
+Denver – Denver, CO
+Grand Forks-MSR – Cavalier, ND Missile Site Radar (MSR) Site
+Grand Forks-PAR – Cavalier, ND Perimeter Acquisition Radar (PAR) Site
+Guilford Center – Greensboro, NC
+Holmdel – Holmdel, NJ
+Indianapolis – Indianapolis, IN
+Indian Hill – Naperville, IL
+Kwajalein – San Francisco, CA
+Madison – Madison, NJ
+Merrimack Valley – North Andover, MA
+Murray Hill – Murray Hill, NJ
+Raritan River Center – Piscataway, NJ
+Reading – Reading, PA
+Union – Union, NJ
+Warren Service Center – Warren, NJ
+Whippany – Whippany, NJ
+
+List of Bell Labs (2024)
+Nokia Bell Lab's 2024 website pictured 10 labs, located in:
+
+Antwerp – (Copernicuslaan 50, 2018 Antwerp, Belgium)
+Budapest – (Skypark 8A, Bókay János utca 36–42, 1083, Budapest, Hungary)
+Cambridge – (Broers Building, 21 J.J. Thomson Avenue, Cambridge, CB3 0FA, United Kingdom)
+Espoo – (Karaportti 3 FI-02610, Espoo, Finland)
+Munich – (Werinherstrasse 91 81541, Munich, Germany)
+Murray Hill – (600 Mountain Avenue, Murray Hill, New Jersey 07974-0636) (Global Headquarters)
+Oulu – (Kaapelitie 4, 90620 Oulu, Finland)
+Paris – (12 rue Jean Bart, 91300 Massy) Paris-Saclay, Nozay, France
+Shanghai – (No.388 Ningqiao Road, Pudong Jinqiao, Shanghai 201206 China
+Stuttgart – (Magirusstraße 8, 70469 Stuttgart, Germany)
+Also listed as research locations without additional information was Sunnyvale, California, US and Tampere, Finland.
+The Naperville, Illinois Bell Labs location near Chicago was considered the Chicago Innovation Center and hosted Nokia's second annual Algorithm World event in 2022.
+
+Discoveries and developments
+Bell Laboratories was, and is, regarded by many as the premier research facility of its type, developing a wide range of revolutionary technologies, including radio astronomy, the transistor, the laser, information theory, the operating system Unix, the programming languages C and [C++](640), solar cells, the charge-coupled device (CCD), and many other optical, wireless, and wired communications technologies and systems.
+
+1920s
+In 1924, Bell Labs physicist Walter A. Shewhart proposed the control chart as a method to determine when a process was in a state of statistical control. Shewhart's methods were the basis for statistical process control (SPC): the use of statistically based tools and techniques to manage and improve processes. This was the origin of the modern quality control movement, including Six Sigma.
+In 1926, the laboratories invented an early synchronous-sound motion picture system, in competition with Fox Movietone and DeForest Phonofilm.
+In 1927, a Bell team headed by Herbert E. Ives successfully transmitted long-distance 128-line television images of Secretary of Commerce Herbert Hoover from Washington to New York. In 1928 the thermal noise in a resistor was first measured by John B. Johnson, for which Harry Nyquist provided the theoretical analysis; this is now termed Johnson-Nyquist noise. During the 1920s, the one-time pad cipher was invented by Gilbert Vernam and Joseph Mauborgne at the laboratories. Bell Labs' Claude Shannon later proved that it is unbreakable.
+In 1928, Harold Black invented the negative feedback system commonly used in amplifiers. Later, Harry Nyquist analyzed Black's design rule for negative feedback. This work was published in 1932 and became known as the Nyquist criterion.
+
+1930s
+In 1931, a foundation for radio astronomy was laid by Karl Jansky during his work investigating the origins of static on long-distance shortwave communications. He discovered that radio waves were being emitted from the center of the galaxy.
+In 1931 and 1932, the labs made experimental high fidelity, long playing, and even stereophonic recordings of the Philadelphia Orchestra, conducted by Leopold Stokowski.
+In 1933, stereo signals were transmitted live from Philadelphia to Washington, D.C.
+In 1937, the vocoder, an electronic speech compression device, or codec, and the Voder, the first electronic speech synthesizer, were developed and demonstrated by Homer Dudley, the Voder being demonstrated at the 1939 New York World's Fair. Bell researcher Clinton Davisson shared the Nobel Prize in Physics with George Paget Thomson for the discovery of electron diffraction, which helped lay the foundation for solid-state electronics.
+
+1940s
+In the early 1940s, the photovoltaic cell was developed by Russell Ohl. In 1943, Bell developed SIGSALY, the first digital scrambled speech transmission system, used by the Allies in World War II. The British wartime codebreaker Alan Turing visited the labs at this time, working on speech encryption and meeting Claude Shannon.
+Bell Labs Quality Assurance Department gave the world and the United States such statisticians as Walter A. Shewhart, W. Edwards Deming, Harold F. Dodge, George D. Edwards, Harry Romig, R. L. Jones, Paul Olmstead, E.G.D. Paterson, and Mary N. Torrey. During World War II, Emergency Technical Committee – Quality Control, drawn mainly from Bell Labs' statisticians, was instrumental in advancing Army and Navy ammunition acceptance and material sampling procedures.
+In 1947, the transistor, arguably the most important invention developed by Bell Laboratories, was invented by John Bardeen, Walter Houser Brattain, and William Bradford Shockley (who subsequently shared the Nobel Prize in Physics in 1956). In 1947, Richard Hamming invented Hamming codes for error detection and correction. For patent reasons, the result was not published until 1950.
+In 1948, "A Mathematical Theory of Communication", one of the founding works in information theory, was published by Claude Shannon in the Bell System Technical Journal. It built in part on earlier work in the field by Bell researchers Harry Nyquist and Ralph Hartley, but went much further. Bell Labs also introduced a series of increasingly complex calculators through the decade. Shannon was also the founder of modern cryptography with his 1949 paper Communication Theory of Secrecy Systems.
+
+Calculators
+Model I: A complex number calculator, completed in 1939 and put into operation in 1940, for doing calculations of complex numbers.
+Model II: Relay Computer / Relay Interpolator, September 1943, for interpolating data points of flight profiles (needed for performance testing of a gun director). This model introduced error detection (self checking).
+Model III: Ballistic Computer, June 1944, for calculations of ballistic trajectories
+Model IV: Error Detector Mark II, March 1945, improved ballistic computer
+Model V: General-purpose electromechanical computer, of which two were built, July 1946 and February 1947
+Model VI: 1949, an enhanced Model V
+
+1950s
+The 1950s also saw developments based upon information theory. The central development was binary code systems. Efforts concentrated on the prime mission of supporting the Bell System with engineering advances, including the N-carrier system, TD microwave radio relay, direct distance dialing, E-repeater, wire spring relay, and the Number Five Crossbar Switching System.
+In 1952, William Gardner Pfann revealed the method of zone melting, which enabled semiconductor purification and level doping.
+In 1953, Maurice Karnaugh developed the Karnaugh map, used for managing of Boolean algebraic expressions.
+In January 1954, Bell Labs built one of the first completely transistorized computer machines, TRADIC or Flyable TRADIC, for the United States Air Force with 10,358 germanium point-contact diodes and 684 Bell Labs Type 1734 Type A cartridge transistors. The design team was led by electrical engineer Jean Howard Felker with James R. Harris and Louis C. Brown ("Charlie Brown") as the lead engineers on the project, which started in 1951. The device took only 3 cubic-feet and consumed 100 watt power for its small and low powered design in comparison to the vacuum tube designs of the times. The device could be installed in a B-52 Stratofortress Bomber and had a performance up to one million logical operations a second. The flyable program used a Mylar sheet with punched holes, instead of the removable plugboard.
+In 1954, the first modern solar cell was invented at Bell Laboratories.
+In 1955, Carl Frosch and Lincoln Derick discovered semiconductor surface passivation by silicon dioxide. 
+In 1956 TAT-1, the first transatlantic communications cable to carry telephone conversations, was laid between Scotland and Newfoundland in a joint effort by AT&T, Bell Laboratories, and British and Canadian telephone companies.
+In 1957, Max Mathews created MUSIC, one of the first computer programs to play electronic music. Robert C. Prim and Joseph Kruskal developed new greedy algorithms that revolutionized computer network design.
+In 1957 Frosch and Derick, using masking and predeposition, were able to manufacture silicon dioxide field effect transistors; the first planar transistors, in which drain and source were adjacent at the same surface. They showed that silicon dioxide insulated, protected silicon wafers and prevented dopants from diffusing into the wafer. 
+In 1958, a technical paper by Arthur Schawlow and Charles Hard Townes first described the laser.
+Following Frosch and Derick research, Mohamed Atalla and Dawon Kahng proposed a silicon MOS transistor in 1959 and successfully demonstrated a working MOS device with their Bell Labs team in 1960. Their team included E. E. LaBate and E. I. Povilonis who fabricated the device; M. O. Thurston, L. A. D’Asaro, and J. R. Ligenza who developed the diffusion processes, and H. K. Gummel and R. Lindner who characterized the device. 
+K. E. Daburlos and H. J. Patterson of Bell Laboratories continued on the work of C. Frosch and L. Derick, and developed a process similar to Hoerni’s planar process about the same time.
+J.R. Ligenza and W.G. Spitzer studied the mechanism of thermally grown oxides, fabricated a high quality Si/SiO2 stack and published their results in 1960.
+
+1960s
+On October 1, 1960, the Kwajalein Field Station was announced as a location for the Nike Zeus test program. Mr. R. W. Benfer was the first director to arrive shortly on October 5 for the program. Bell Labs designed many of the major system elements and conducted fundamental investigations of phase-controlled scanning antenna arrays.
+
+In December 1960, Ali Javan, PhD physicist from the University of Tehran, Iran with help by Rolf Seebach and his associates William Bennett and Donald Heriot, successfully operated the first gas laser, the first continuous-light laser, operating at an unprecedented accuracy and color purity.
+In 1962, the electret microphone was invented by Gerhard M. Sessler and James E. West. Also in 1962, John R. Pierce's vision of communications satellites was realized by the launch of Telstar.
+On July 10, 1962, the Telstar spacecraft was launched into orbit by NASA and it was designed and built by Bell Laboratories. The first worldwide television broadcast was July 23, 1962 with a press conference by President Kennedy.
+In Spring 1964, the building of an electronic switching systems center was planned at Bell Laboratories near Naperville, Illinois. The building in 1966 would be called Indian Hill, and development work from former electronic switching organization at Holmdel and Systems Equipment Engineering organization would occupy the laboratory with engineers from Western Electric Hawthorne Works. Scheduled for work were about 1,200 people when completed in 1966, and peaked at 11,000 before October 2001 Lucent Technologies downsizing occurred.
+In 1964, the carbon dioxide laser was invented by Kumar Patel and the discovery/operation of the Nd:YAG laser was demonstrated by J.E. Geusic et al. Experiments by Myriam Sarachik provided the first data that confirmed the Kondo effect. The research of Philip W. Anderson into electronic structure of magnetic and disordered systems led to improved understanding of metals and insulators for which he was awarded the Nobel Prize for Physics in 1977. 
+In 1965, Penzias and Wilson discovered the cosmic microwave background, for which they were awarded the Nobel Prize in Physics in 1978.
+Frank W. Sinden, Edward E. Zajac, Ken Knowlton, and A. Michael Noll made computer-animated movies during the early to mid-1960s. Ken Knowlton invented the computer animation language BEFLIX. The first digital computer art was created in 1962 by Noll.
+In 1966, orthogonal frequency-division multiplexing (OFDM), a key technology in wireless services, was developed and patented by R. W. Chang.
+In December 1966, the New York City site was sold and became the Westbeth Artists Community complex.
+
+In 1968, molecular beam epitaxy was developed by J.R. Arthur and A.Y. Cho; molecular beam epitaxy allows semiconductor chips and laser matrices to be manufactured one atomic layer at a time.
+In 1969, Dennis Ritchie and Ken Thompson created the computer operating system UNIX for the support of telecommunication switching systems as well as general-purpose computing. Also, in 1969, the charge-coupled device (CCD) was invented by Willard Boyle and George E. Smith, for which they were awarded the Nobel Prize in Physics in 2009.
+From 1969 to 1971, Aaron Marcus, the first graphic designer involved with computer graphics, researched, designed, and programmed a prototype interactive page-layout system for the Picturephone.
+
+1970s
+The 1970s and 1980s saw more and more computer-related inventions at the Bell Laboratories as part of the personal computing revolution.
+In the 1970s, major central office technology evolved from crossbar electromechanical relay-based technology and discrete transistor logic to Bell Labs-developed thick film hybrid and transistor–transistor logic (TTL), stored program-controlled switching systems; 1A/#4 TOLL Electronic Switching Systems (ESS) and 2A Local Central Offices produced at the Bell Labs Naperville and Western Electric Lisle, Illinois facilities. This technology evolution dramatically reduced floor space needs. The new ESS also came with its own diagnostic software that needed only a switchman and several frame technicians to maintain.
+About 1970, the coax-22 cable was developed by Bell Labs. This coax cable with 22 strands allowed a total capacity of 132,000 telephone calls. Previously, a 12-strand coax cable was used for L-carrier systems. Both of these types of cables were manufactured at Western Electrics' Baltimore Works facility on machines designed by a Western Electric Senior development engineer.
+In 1970, A. Michael Noll invented a tactile, force-feedback system, coupled with interactive stereoscopic computer display.
+In 1971, an improved task priority system for computerized telephone exchange switching systems for telephone traffic was invented by Erna Schneider Hoover, who received one of the first software patents for it.
+In 1972, Dennis Ritchie developed the compiled programming language C as a replacement for the interpreted language B, which was then used in a worse is better rewrite of UNIX. Also, the language [AWK](804) was designed and implemented by Alfred Aho, Peter Weinberger, and [Brian Kernighan](851) of Bell Laboratories. Also in 1972, Marc Rochkind invented the Source Code Control System.
+In 1976, optical fiber systems were first tested in Georgia.
+Production of their first internally designed microprocessor, the BELLMAC-8, began in 1977. In 1980 they demonstrated the first single-chip 32-bit microprocessor, the Bellmac 32A, which went into production in 1982.
+In 1978, the proprietary operating system Oryx/Pecos was developed from scratch by Bell Labs in order to run AT&T's large-scale PBX switching equipment. It was first used with AT&T's flagship System 75, and until very recently was used in all variations up through and including Definity G3 (Generic 3) switches, now manufactured by Avaya.
+
+1980s
+During the 1980s, the operating system Plan 9 from Bell Labs was developed extending the UNIX model. Also, the Radiodrum, an electronic music instrument played in three space dimensions, was invented.
+In 1980, the TDMA digital cellular telephone technology was patented.
+In late 1981, the Bell Labs Research organization internal use of a terminal called Jerq led to the Blit terminal being renamed by designers Rob Pike and Bart Locanthi, Jr for the UNIX operating system. It was a programmable bitmap graphics terminal using multi-layers of opened windows operated by a keyboard and a distinguished red-colored three-button digitized mouse. It was later known as the AT&T 5620 DMD terminal for commercial sales. The Blit used the Motorola 68000 microprocessor, whereas the Teletype/AT&T 5620 Dot Mapped Display terminal used the Western Electric WE32000 microprocessor.
+The launching of the Bell Labs Fellows Award started in 1982 to recognize and honor scientists and engineers who have made outstanding and sustained R&D contributions at AT&T with a level of distinction. As of the 2021 inductees, 336 people have received the honor.
+Ken Thompson and Dennis Ritchie were also Bell Labs Fellows for 1982. Ritchie started in 1967 at Bell Labs in the Bell Labs Computer Systems Research department. Thompson started in 1966. Both co-inventors of the UNIX operating system and C language were also awarded decades later the 2011 Japan Prize for Information and Communications.
+In 1982, fractional quantum Hall effect was discovered by Horst Störmer and former Bell Laboratories researchers Robert B. Laughlin and Daniel C. Tsui; they consequently won a Nobel Prize in 1998 for the discovery.
+In 1984, the first photoconductive antennas for picosecond electromagnetic radiation were demonstrated by Auston and others. This type of antenna became an important component in terahertz time-domain spectroscopy. In 1984, Karmarkar's algorithm for linear programming was developed by mathematician Narendra Karmarkar. Also in 1984, a divestiture agreement signed in 1982 with the American Federal government forced the breakup of AT&T, and Bellcore (now iconectiv) was split off from Bell Laboratories to provide the same R&D functions for the newly created local exchange carriers. AT&T also was limited to using the Bell trademark only in association with Bell Laboratories. Bell Telephone Laboratories, Inc. became a wholly owned company of the new AT&T Technologies unit, the former Western Electric. The 5ESS Switch was developed during this transition.
+The National Medal of Technology was awarded to Bell Labs, the first corporation to achieve this honor in February 1985.
+In 1985, laser cooling was used to slow and manipulate atoms by Steven Chu and team. In 1985, the modeling language A Mathematical Programming Language, [AMPL](802), was developed by Robert Fourer, David M. Gay and [Brian Kernighan](851) at Bell Laboratories. Also in 1985, Bell Laboratories was awarded the National Medal of Technology "For contribution over decades to modern communication systems".
+In 1985, the programming language [C++](640) had its first commercial release. [Bjarne Stroustrup](842) started developing [C++](640) at Bell Laboratories in 1979 as an extension to the original C language.
+Arthur Ashkin invented optical tweezers that grab particles, atoms, viruses and other living cells with their laser beam fingers. A major breakthrough came in 1987, when Ashkin used the tweezers to capture living bacteria without harming them. He immediately began studying biological systems using the optical tweezers, which are now widely used to investigate the machinery of life. He was awarded the Nobel Prize in Physics (2018) for his work involving optical tweezers and their application to biological systems.
+In the mid-1980s, the Transmission System departments of Bell Labs developed highly reliable long-haul fiber-optic communications systems based on SONET, and network operations techniques, that enabled very high volume, near-instantaneous communications across the North American continent. Fail-safe and disaster-related traffic management operations systems enhanced the usefulness of the fiber optics. There was a synergy in the land-based and seas-based fiber optic systems, although they were developed by different divisions within the company. These systems are still in use throughout the U.S. today.
+Charles A. Burrus became a Bell Labs Fellow in 1988 for his work done as a Technical Staff member. Prior to this accomplishment, was awarded in 1982 the AT&T Bell Laboratories Distinguished Technical Staff Award. Charles started in 1955 at the Holmdel Bell Labs location and retired in 1996 with consultations to Lucent Technologies up to 2002.
+In 1988, TAT-8 became the first transatlantic fiber-optic cable. Bell Labs in Freehold, NJ developed the 1.3-micron fiber, cable, splicing, laser detector, and 280 Mbit/s repeater for 40,000 telephone-call capacity.
+In the late 1980s, realizing that voiceband modems were approaching the Shannon limit on bit rate, Richard D. Gitlin, Jean-Jacques Werner, and their colleagues pioneered a major breakthrough by inventing DSL (digital subscriber line) and creating the technology that enabled megabit transmission on installed copper telephone lines, thus facilitating the broadband era.
+
+1990s
+Bell Labs' John Mayo received the National Medal of Technology in 1990.
+In May 1990, Ronald Snare was named AT&T Bell Laboratories Fellow, for "Singular contributions to the development of the common-channel signaling network and the signal transfer points globally." This system began service in the United States in 1978.
+In the early 1990s, approaches to increase modem speeds to 56K were explored at Bell Labs, and early patents were filed in 1992 by Ender Ayanoglu, Nuri R. Dagdeviren and their colleagues.
+The scientist, W. Lincoln Hawkins in 1992 received the National Medal of Technology for work done at Bell Labs.
+In 1992, Jack Salz, Jack Winters and Richard D. Gitlin provided the foundational technology to demonstrate that adaptive antenna arrays at the transmitter and receiver can substantially increase both the reliability (via diversity) and capacity (via spatial multiplexing) of wireless systems without expanding the bandwidth. Subsequently, the BLAST system proposed by Gerard Foschini and colleagues dramatically expanded the capacity of wireless systems. This technology, known today as MIMO (Multiple Input Multiple Output), was a significant factor in the standardization, commercialization, performance improvement, and growth of cellular and wireless LAN systems.
+Amos Joel in 1993 received the National Medal of Technology.
+Two AT&T Bell Labs scientists, Joel Engel and Richard Frenkiel, were honored with the National Medal of Technology, in 1994.
+In 1994, the quantum cascade laser was invented by Federico Capasso, Alfred Cho, Jerome Faist and their collaborators. Also in 1994, Peter Shor devised his quantum factorization algorithm.
+In 1996, SCALPEL electron lithography, which prints features atoms wide on microchips, was invented by Lloyd Harriott and his team. The operating system Inferno, an update of Plan 9, was created by Dennis Ritchie with others, using the then-new concurrent programming language Limbo. A high performance database engine (Dali) was developed which became DataBlitz in its product form.
+In 1996, AT&T spun off Bell Laboratories, along with most of its equipment manufacturing business, into a new company named Lucent Technologies. AT&T retained a small number of researchers who made up the staff of the newly created AT&T Labs.
+Lucy Sanders was the third woman to receive the Bell Labs Fellow award in 1996, for her work in creating a RISC chip that allowed more phone calls using software and hardware on a single server. She started in 1977 and was one of the few woman engineers at Bell Labs.
+In November 1997, Lucent planned a Bell Laboratories location at Yokosuka Research Park in Yokosuka, Japan for developing a third generation Wideband Code Division Multiple Access cellular system (W-CDMA.)
+In 1997, the smallest then-practical transistor (60 nanometers, 182 atoms wide) was built. In 1998, the first optical router was invented.
+Rudolph Kazarinov and Federico Capasso received the optoelectronics Rank Prize on December 8, 1998.
+In December 1998, Ritchie and Thompson also were honorees of the National Medal of Technology for their work done for pre-Lucent Technologies Bell Labs. The award was presented by U.S. President William Clinton in 1999 in a White House ceremony.
+
+21st century
+2000 was an active year for the Laboratories, in which DNA machine prototypes were developed; progressive geometry compression algorithm made widespread 3-D communication practical; the first electrically powered organic laser was invented; a large-scale map of cosmic dark matter was compiled; and the F-15 (material), an organic material that makes plastic transistors possible, was invented.
+In 2002, physicist Jan Hendrik Schön was fired after his work was found to contain fraudulent data. It was the first known case of fraud at Bell Labs.
+In 2003, the New Jersey Institute of Technology Biomedical Engineering Laboratory was created at Murray Hill, New Jersey.
+In 2004, Lucent Technologies awarded two women the prestigious Bell Labs Fellow Award. Magaly Spector, a director in INS/Network Systems Group, was awarded for "sustained and exceptional scientific and technological contributions in solid-state physics, III-V material for semiconductor lasers, Gallium Arsenide integrated circuits, and the quality and reliability of products used in high speed optical transport systems for next generation high bandwidth communication." Eve Varma, a technical manager in MNS/Network Systems Group, was awarded for her citation in "sustained contributions to digital and optical networking, including architecture, synchronization, restoration, standards, operations and control."
+In 2005, Jeong H. Kim, former President of Lucent's Optical Network Group, returned from academia to become the President of Bell Laboratories.
+In April 2006, Bell Laboratories' parent company, Lucent Technologies, signed a merger agreement with Alcatel. On December 1, 2006, the merged company, Alcatel-Lucent, began operations. This deal raised concerns in the United States, where Bell Laboratories works on defense contracts. A separate company, LGS Innovations, with an American board was set up to manage Bell Laboratories' and Lucent's sensitive U.S. government contracts. In March 2019, LGS Innovations was purchased by CACI.
+In December 2007, it was announced that the former Lucent Bell Laboratories and the former Alcatel Research and Innovation would be merged into one organization under the name of Bell Laboratories. This is the first period of growth following many years during which Bell Laboratories progressively lost manpower due to layoffs and spin-offs making the company shut down briefly.
+In February 2008, Alcatel-Lucent continued the Bell Laboratories tradition of awarding the prestigious award for outstanding technical contributors. Martin J. Glapa, a former chief Technical Officer of Lucent's Cable Communications Business Unit and Director of Advanced Technologies, was presented by Alcatel-Lucent Bell Labs President Jeong H. Kim with the 2006 Bell Labs Fellow Award in Network Architecture, Network Planning, and Professional Services with particular focus in Cable TV Systems and Broadband Services having "significant resulting Alcatel-Lucent commercial successes." Glapa is a patent holder and has co-written the 2004 technical paper called "Optimal Availability & Security For Voice Over Cable Networks" and co-authored the 2008 "Impact of bandwidth demand growth on HFC networks" published by IEEE.
+As of July 2008, however, only four scientists remained in physics research, according to a report by the scientific journal Nature.
+On August 28, 2008, Alcatel-Lucent announced it was pulling out of basic science, material physics, and semiconductor research, and it will instead focus on more immediately marketable areas, including networking, high-speed electronics, wireless networks, nanotechnology and software.
+In 2009, Willard Boyle and George Smith were awarded the Nobel Prize in Physics for the invention and development of the charge-coupled device (CCD).
+Rob Soni was an Alcatel-Lucent Bell Labs Fellow in 2009 as cited for work in winning North American customers wireless business and for helping to define 4G wireless networks with transformative system architectures.
+
+2010s
+Gee Rittenhouse, former Head of Research, returned from his position as chief operating officer of Alcatel-Lucent's Software, Services, and Solutions business in February 2013, to become the 12th President of Bell Labs.
+On November 4, 2013, Alcatel-Lucent announced the appointment of Marcus Weldon as President of Bell Labs. His stated charter was to return Bell Labs to the forefront of innovation in Information and communications technology by focusing on solving the key industry challenges, as was the case in the great Bell Labs innovation eras in the past.
+On May 20, 2014, Michel Combes, CEO of Alcatel-Lucent, announced the opening of a Bell Labs location in Tel Aviv, Israel by summer time. The Bell Labs research team would be directed by an Israeli computer scientist and alum of Bell Labs, Danny Raz. The Bell Labs research would be in 'cloud networking' technologies for communications. The location would have approximately twenty academic scientific background employees.
+In July 2014, Bell Labs announced it had broken "the broadband Internet speed record" with a new technology dubbed XG-FAST that promises 10 gigabits per second transmission speeds.
+In 2014, Eric Betzig shared the Nobel Prize in Chemistry for his work in super-resolved fluorescence microscopy which he began pursuing while at Bell Labs in the Semiconductor Physics Research Department.
+On April 15, 2015, Nokia agreed to acquire Alcatel-Lucent, Bell Labs' parent company, in a share exchange worth $16.6 billion. Their first day of combined operations was January 14, 2016.
+In September 2016, Nokia Bell Labs, along with Technische Universität Berlin, Deutsche Telekom T-Labs and the Technical University of Munich achieved a data rate of one terabit per second by improving transmission capacity and spectral efficiency in an optical communications field trial with a new modulation technique.
+Antero Taivalsaari became a Bell Labs Fellow in 2016 for his specific work.
+In 2017, Dragan Samardzija was awarded the Bell Labs Fellow.
+In 2018, Arthur Ashkin shared the Nobel Prize in Physics for his work on "the optical tweezers and their application to biological systems" which was developed at Bell Labs in the 1980s.
+
+2020s
+In 2020, Alfred Aho and Jeffrey Ullman shared the Turing Award for their work on compilers, starting with their tenure at Bell Labs during 1967–69.
+On, November 16, 2021, Nokia presented the 2021 Bell Labs Fellows Award Ceremony, six new members (Igor Curcio, Matthew Andrews, Bjorn Jelonnek, Ed Harstead, Gino Dion, Esa Tiirola) held at Nokia Batvik Mansion, Finland.
+In December 2021, Nokia's Chief Strategy and Technology Officer decided to reorganize Bell Labs in two separate functional organizations: Bell Labs Core Research and Bell Labs Solutions research. Bell Labs Core Research is in charge of creating disruptive technologies with 10-year horizon. Bell Labs Solutions Research, looks for shorter term solutions that can provide growth opportunities for Nokia.
+The Nokia 2022 Bell Labs Fellows were recognized on November 29, 2022, in a New Jersey ceremony. Five researchers were inducted to the total of 341 recipients since its inception by AT&T Bell Labs in 1982. One member was from New Jersey, two were from Cambridge, UK, and two were from Finland representing Espoo and Tampere locations.
+On December 11, 2023, Nokia announced a state of the art research facility in New Brunswick, New Jersey. The planned relocation of the 80 year old, Murray Hill New Jersey Bell Labs facility would take place before 2028. The new building would be LEED Gold certified. The Murray Hill location has had iconic research of various historical innovations for AT&T Corp., Lucent Technologies, Alcatel-Lucent, and Nokia.
+
+Nobel Prize, Turing Award, IEEE Medal of Honor
+Ten Nobel Prizes have been awarded for work completed at Bell Laboratories.
+
+1937: Clinton J. Davisson shared the Nobel Prize in Physics for demonstrating the wave nature of matter.
+1956: John Bardeen, Walter H. Brattain, and William Shockley received the Nobel Prize in Physics for inventing the first transistors.
+1977: Philip W. Anderson shared the Nobel Prize in Physics for developing an improved understanding of the electronic structure of glass and magnetic materials.
+1978: Arno A. Penzias and Robert W. Wilson shared the Nobel Prize in Physics. Penzias and Wilson were cited for their discovering cosmic microwave background radiation, a nearly uniform glow that fills the Universe in the microwave band of the radio spectrum.
+1997: Steven Chu shared the Nobel Prize in Physics for developing methods to cool and trap atoms with laser light.
+1998: Horst Störmer, Robert Laughlin, and Daniel Tsui, were awarded the Nobel Prize in Physics for discovering and explaining the fractional quantum Hall effect.
+2009: Willard S. Boyle, George E. Smith shared the Nobel Prize in Physics with Charles K. Kao. Boyle and Smith were cited for inventing charge-coupled device (CCD) semiconductor imaging sensors.
+2014: Eric Betzig shared the Nobel Prize in Chemistry for his work in super-resolved fluorescence microscopy which he began pursuing while at Bell Labs.
+2018: Arthur Ashkin shared the Nobel Prize in Physics for his work on "the optical tweezers and their application to biological systems" which was developed at Bell Labs.
+2023: Louis Brus shared the Nobel Prize in Chemistry for his work in "the discovery and synthesis of quantum dots" which he began at Bell Labs.
+The Turing Award has been won five times by Bell Labs researchers.
+
+1968: Richard Hamming for his work on numerical methods, automatic coding systems, and error-detecting and error-correcting codes.
+1983: Ken Thompson and Dennis Ritchie for their work on operating system theory, and for developing Unix.
+1986: Robert Tarjan with John Hopcroft, for fundamental achievements in the design and analysis of algorithms and data structures.
+2018: Yann LeCun and Yoshua Bengio shared the Turing Award with Geoffrey Hinton for their work in Deep Learning.
+2020: Alfred Aho and Jeffrey Ullman shared the Turing Award for their work on Compilers.
+First awarded in 1917, the IEEE Medal of Honor is the highest form of recognition by the Institute of Electrical and Electronics Engineers. The IEEE Medal of Honor has been won 22 times by Bell Labs researchers. 
+
+1926 Greenleaf Whittier Pickard For his contributions as to crystal detectors, coil antennas, wave propagation and atmospheric disturbances.
+1936 G A Campbell For his contributions to the theory of electrical network.
+1940 Lloyd Espenschied For his accomplishments as an engineer, as an inventor, as a pioneer in the development of radio telephony, and for his effective contributions to the progress of international radio coordination.
+1946 Ralph Hartley For his early work on oscillating circuits employing triode tubes and likewise for his early recognition and clear exposition of the fundamental relationship between the total amount of information which may be transmitted over a transmission system of limited band-width and the time required.
+1949 Ralph Brown For his extensive contributions to the field of radio and for his leadership in Institute affairs
+1955 Harald T. Friis For his outstanding technical contributions in the expansion of the useful spectrum of radio frequencies, and for the inspiration and leadership he has given to young engineers.
+1960 Harry Nyquist For fundamental contributions to a quantitative understanding of thermal noise, data transmission and negative feedback.
+1963 George C. Southworth (with John H. Hammond, Jr.) For pioneering contributions to microwave radio physics, to radio astronomy, and to waveguide transmission.
+1966 Claude Shannon For his development of a mathematical theory of communication which unified and significantly advanced the state of the art.
+1967 Charles H. Townes For his significant contributions in the field of quantum electronics which have led to the maser and the laser.
+1971 John Bardeen For his profound contributions to the understanding of the conductivity of solids, to the invention of the transistor, and to the microscopic theory of superconductivity
+1973 Rudolf Kompfner For a major contribution to world-wide communication through the conception of the traveling wave tube embodying a new principle of amplification.
+1975 John R. Pierce For his pioneering concrete proposals and the realization of satellite communication experiments, and for contributions in theory and design of traveling wave tubes and in electron beam optics essential to this success.
+1977 H. Earle Vaughan For his vision, technical contributions and leadership in the development of the first high-capacity pulse-code-modulation time-division telephone switching system.
+1980 William Shockley For the invention of the junction transistor, the analog and the junction field-effect transistor, and the theory underlying their operation.
+1981 Sidney Darlington For fundamental contributions to filtering and signal processing leading to chirp radar.
+1982 John Wilder Tukey For his contributions to the spectral analysis of random processes and the fast Fourier transform algorithm.
+1989 C. Kumar N. Patel For fundamental contributions to quantum electronics, including the carbon dioxide laser and the spin-flip Raman laser.
+1992 Amos E. Joel Jr. For fundamental contributions to and leadership in telecommunications switching systems.
+1994 Alfred Y. Cho For seminal contributions to the development of molecular beam epitaxy.
+2001 Herwig Kogelnik For fundamental contributions to the science and technology of lasers and optoelectronics, and for leadership in research and development of photonics and lightwave communication systems.
+2005 James L. Flanagan For sustained leadership and outstanding contributions in speech technology.
+
+Emmy Awards, Grammy Award, and Academy Award
+The Emmy Award has been won five times by Bell Labs: one under Lucent Technologies, one under Alcatel-Lucent, and three under Nokia. 
+
+1997: Primetime Engineering Emmy Award for "work on digital television as part of the HDTV Grand Alliance."
+2013: Technology and Engineering Emmy for its "Pioneering Work in Implementation and Deployment of Network DVR" 
+2016: Technology & Engineering Emmy Award for the pioneering invention and deployment of fiber-optic cable.
+2020: Technology & Engineering Emmy Award for the CCD (charge-coupled device) was crucial in the development of television, allowing images to be captured digitally for recording transmission.
+2021: Technology & Engineering Emmy Award for the "ISO Base Media File Format standardization, in which our multimedia research unit has played a major role."
+The inventions of fiber-optics and research done in digital television and media File Format were under former AT&T Bell Labs ownership.
+The Grammy Award has been won once by Bell Labs under Alcatel-Lucent. 
+
+2006: Technical Grammy Award for outstanding technical contributions to the recording field.
+The Academy Award has been won once by E. C. Wente and Bell Labs.
+
+1937: Scientific or Technical Award (Class II) for their multi-cellular high-frequency horn and receiver.
+
+Publications
+The American Telephone and Telegraph Company, Western Electric, and other Bell System companies issued numerous publications, such as local house organs, for corporate distribution, for the scientific and industry communities, and for the general public, including telephone subscribers.
+The Bell Laboratories Record was a principal house organ, featuring general interest content such as corporate news, support staff profiles and events, reports of facilities upgrades, but also articles of research and development results written for technical or non-technical audiences. The publication commenced in 1925 with the founding of the laboratories.
+A prominent journal for the focussed dissemination of original or reprinted scientific research by Bell Labs engineers and scientists was the Bell System Technical Journal, started in 1922 by the AT&T Information Department. Bell researchers also published widely in industry journals.
+Some of these articles were reprinted by the Bell System as Monographs, consecutively issued starting in 1920. These reprints, numbering over 5000, comprise a catalog of Bell research over the decades. Research in the Monographs is aided by access to associated indexes, for monographs 1–1199, 1200–2850 (1958), 2851–4050 (1962), and 4051–4650 (1964).
+Essentially all of the landmark work done by Bell Labs is memorialized in one or more corresponding monographs. Examples include:
+
+Monograph 1598 – Shannon, A Mathematical Theory of Communication, 1948 (reprinted from BSTJ).
+Monograph 1659 – Bardeen and Brattain, Physical Principles Involved in Transistor Action, 1949 (reprinted from BSTJ).
+Monograph 1757 – Hamming, Error Detecting and Error Correcting Codes, 1950 (reprinted from BSTJ).
+Monograph 3289 – Pierce, Transoceanic Communications by Means of Satellite, 1959 (reprinted from Proc. I.R.E.).
+Monograph 3345 – Schawlow & Townes, Infrared and Optical Masers, 1958 (reprinted from Physical Review).
+
+Presidents
+See also
+Bell Labs Technical Journal—Published scientific journal of Bell Laboratories (1996–present)
+Bell Labs Record
+Industrial laboratory
+George Stibitz—Bell Laboratories engineer—"father of the modern digital computer"
+History of mobile phones—Bell Laboratories conception and development of cellular phones
+High speed photography & Wollensak—Fastax high speed (rotating prism) cameras developed by Bell Labs
+Knolls Atomic Power Laboratory
+Simplified Message Desk Interface
+Sound film—Westrex sound system for cinema films developed by Bell Labs
+TWX Magazine—A short-lived trade periodical published by Bell Laboratories (1944–1952)
+Experiments in Art and Technology—A collaboration between artists and Bell Labs engineers & scientists to create new forms of art
+Xerox PARC
+
+Notes
+References
+Further reading
+Martin, Douglas. Ian M. Ross, a President at Bell Labs, Dies at 85, The New York Times, March 16, 2013, p. A23
+Jon Gertner (2013). The Idea Factory: Bell Labs and the Great Age of American Innovation. ISBN 978-0143122791.
+Gleick, James. The Information: A History, a Theory, a Flood. Vintage Books, 2012, 544 pages. ISBN 978-1400096237.
+
+External links
+ Media related to Bell Labs at Wikimedia Commons
+Official website 
+Bell Works, the re-imagining of the historic former Bell Labs building in Holmdel, New Jersey
+Timeline of discoveries as of 2006 <Nokia Bell-Labs Timeline>
+Bell Labs' Murray Hill anechoic chamber
+Bell Laboratories and the Development of Electrical Recording
+History of Bell Telephone Laboratories, Inc. (from Bell System Memorial)
+Bell Communications Around the Globe, public art sculpture, Los Angeles, California
+The Idea Factory –  a video interview with Jon Gertner, author of "The Idea Factory: Bell Labs and the Great Age of American Innovation, by Dave Iverson of KQED-FM Public Radio, San Francisco

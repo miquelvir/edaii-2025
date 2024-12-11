@@ -1,0 +1,229 @@
+4031
+Allyl group
+In organic chemistry, an allyl group is a substituent with the structural formula −CH2−HC=CH2. It consists of a methylene bridge (−CH2−) attached to a vinyl group (−CH=CH2). The name is derived from the scientific name for garlic, Allium sativum. In 1844, Theodor Wertheim isolated an allyl derivative from garlic oil and named it "Schwefelallyl". The term allyl applies to many compounds related to H2C=CH−CH2, some of which are of practical or of everyday importance, for example, allyl chloride.
+Allylation is any chemical reaction that adds an allyl group to a substrate.
+
+Nomenclature
+A site adjacent to the unsaturated carbon atom is called the allylic position or allylic site.  A group attached at this site is sometimes described as allylic. Thus, CH2=CHCH2OH "has an allylic hydroxyl group".  Allylic C−H bonds are about 15% weaker than the C−H bonds in ordinary sp3 carbon centers and are thus more reactive.
+Benzylic and allylic are related in terms of structure, bond strength, and reactivity. Other reactions that tend to occur with allylic compounds are allylic oxidations, ene reactions, and the Tsuji–Trost reaction.  Benzylic groups are related to allyl groups; both show enhanced reactivity.
+
+Pentadienyl group
+A CH2 group connected to two vinyl groups is said to be doubly allylic. The bond dissociation energy of C−H bonds on a doubly allylic centre is about 10% less than the bond dissociation energy of a C−H bond that is singly allylic.  The weakened C−H bonds is reflected in the easy oxidation of compounds containing 1,4-pentadiene (C=C−CH2−C=C) linkages.  Some polyunsaturated fatty acids feature this pentadiene group: linoleic acid, α-linolenic acid, and arachidonic acid. They are susceptible to a range of reactions with oxygen (O2), starting with  lipid peroxidation. Products include fatty acid hydroperoxides, epoxy-hydroxy polyunsaturated fatty acids, jasmonates, divinylether fatty acids, and leaf aldehydes.  Some of these derivatives are signallng molecules, some are used in plant defense (antifeedants), some are precursors to other metabolites that are used by the plant.
+One practical consequence of their high reactivity is that polyunsaturated fatty acids have poor shelf life owing to their tendency toward autoxidation, leading, in the case of edibles, to rancidification. Metals accelerate the degradation.  These fats tend to polymerize, forming semisolids. This reactivity pattern is fundamental to the film-forming behavior of the "drying oils", which are components of oil paints and varnishes.
+
+Homoallylic
+The term homoallylic refers to the position on a carbon skeleton next to an allylic position.  In but-3-enyl chloride CH2=CHCH2CH2Cl, the chloride is homoallylic because it is bonded to the homoallylic site.
+
+Bonding
+The allyl group is widely encountered in organic chemistry. Allylic radicals, anions, and cations are often discussed as intermediates in reactions.  All feature three contiguous sp²-hybridized carbon centers and all derive stability from resonance. Each species can be presented by two resonance structures with the charge or unpaired electron distributed at both 1,3 positions.
+
+In terms of MO theory, the MO diagram has three molecular orbitals: the first one bonding, the second one non-bonding, and the higher energy orbital is antibonding.
+
+Reactions and applications
+This heightened reactivity of allylic groups has many practical consequences. The sulfur vulcanization or various rubbers exploits the conversion of allylic CH2 groups into CH−Sx−CH crosslinks.  Similarly drying oils such as linseed oil crosslink via oxygenation of allylic (or doubly allylic) sites.  This crosslinking underpins the properties of paints and the spoilage of foods by rancidification.
+The industrial production of acrylonitrile by ammoxidation of propene exploits the easy oxidation of the allylic C−H centers:
+
+  
+    
+      
+        
+          2
+          
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          
+            −
+          
+          CH
+          
+            =
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          +
+          3
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          2
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          
+            =
+          
+          CH
+          
+            −
+          
+          C
+          
+            ≡
+          
+          N
+          +
+          6
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {2CH3-CH=CH2 + 2 NH3 + 3 O2 -> 2CH2=CH-C#N + 6 H2O}}}
+  
+
+An estimated 800,000 tonnes (1997) of allyl chloride is produced by the chlorination of propylene:
+
+  
+    
+      
+        
+          
+            CH
+            
+              3
+            
+            
+              
+            
+          
+          CH
+          
+            =
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            ClCH
+            
+              2
+            
+            
+              
+            
+          
+          CH
+          
+            =
+          
+          
+            CH
+            
+              2
+            
+            
+              
+            
+          
+          +
+          HCl
+        
+      
+    
+    {\displaystyle {\ce {CH3CH=CH2 + Cl2 -> ClCH2CH=CH2 + HCl}}}
+  
+
+It is the precursor to allyl alcohol and epichlorohydrin.
+
+Allylation
+Allylation is the attachment of an allyl group to a substrate, usually another organic compound.  Classically, allylation involves the reaction of a carbanion with allyl chloride.  Alternatives include carbonyl allylation with allylmetallic reagents, such as allyltrimethylsilane, or the iridium-catalyzed Krische allylation.
+Allylation can be effected also by conjugate addition: the addition of an allyl group to the beta-position of an enone. The Hosomi-Sakurai reaction is a common method for conjugate allylation.
+
+Oxidation
+Allylic C-H bonds are susceptible to oxidation.  One commercial application of allylic oxidation is the synthesis of nootkatone, the fragrance of grapefruit, from valencene, a more abundantly available sesquiterpenoid:  
+
+In the synthesis of some fine chemicals, selenium dioxide is used to convert alkenes to allylic alcohols:
+
+R2C=CR'-CHR"2  +  O →  R2C=CR'-C(OH)R"2
+where R, R', R" may be alkyl or aryl substituents.
+From the industrial perspective, oxidation of benzylic C-H bonds are conducted on a particularly large scale, e.g. production of terephthalic acid, benzoic acid, and cumene hydroperoxide.
+
+Allyl compounds
+Many substituents can be attached to the allyl group to give stable compounds. Commercially important allyl compounds include:
+
+Crotyl alcohol (CH3CH=CH−CH2OH)
+Dimethylallyl pyrophosphate, central in the biosynthesis of terpenes, a precursor to many natural products, including natural rubber.
+Transition-metal allyl complexes, such as allylpalladium chloride dimer
+
+See also
+
+Allylic strain
+Carroll rearrangement
+Allylic palladium complex
+Tsuji–Trost reaction
+Propargylic/Homopropargylic
+Benzylic
+Vinylic
+Acetylenic
+Naloxone
+Allylic rearrangement
+
+
+== References ==

@@ -1,0 +1,54 @@
+793
+Cobra (programming language)
+Cobra is a discontinued general-purpose, object-oriented programming language. Cobra is designed by Charles Esterbrook, and runs on the Microsoft .NET and Mono platforms. It is strongly influenced by Python, C#, Eiffel, Objective-C, and other programming languages. It supports both static and dynamic typing. It has support for unit tests and contracts. It has lambda expressions, closures, list comprehensions, and generators.
+Cobra is an open-source project; it was released under the MIT License on February 29, 2008.
+
+Features
+Object-oriented
+
+Namespaces
+Classes, interfaces, structs, extensions, enumerations
+Methods, properties, indexers
+Mixins, extension methods
+Generics, attributes
+Quality control
+
+Contracts, assertions
+Unit tests, docstrings
+Compile-time nil-tracking
+Expressiveness
+
+Static and dynamic binding
+List, dictionary, and set literals
+in and implies operator
+for expressions
+Slicing
+Interpolated strings
+Compile-time type inference
+Lambdas and closures
+General productivity
+
+Exception handling
+Postmortem exception report
+Garbage collection
+Scripting conveniences
+
+Clean syntax
+Dynamic binding
+One-step run
+Shebang line (#!)
+Miscellaneous
+
+Documentation tool (cobra -doc)
+Syntax highlighting tool (cobra -highlight)
+
+Examples
+The following examples can be run from a file using cobra <filename>.
+
+Hello World
+A simple class
+References
+External links
+Official website
+The Cobra blog by Charles Esterbrook
+Cobra News Index

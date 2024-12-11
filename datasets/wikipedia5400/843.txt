@@ -1,0 +1,23 @@
+843
+BlueJ
+BlueJ is an integrated development environment (IDE) for the Java programming language, developed mainly for educational purposes, but also suitable for small-scale software development. It runs with the help of Java Development Kit (JDK). 
+BlueJ was developed to support the learning and teaching of object-oriented programming, and its design differs from other development environments as a result. The main screen graphically shows the class structure of an application under development (in a UML-like diagram), and objects can be interactively created and tested. This interaction facility, combined with a clean, simple user interface, allows easy experimentation with objects under development. Object-oriented concepts (classes, objects, communication through method calls) are represented visually and in its interaction design in the interface.
+
+History
+The development of BlueJ was started in 1999 by Michael Kölling and John Rosenberg at Monash University, as a successor to the Blue system. BlueJ is an IDE (Integrated Development Environment). Blue was an integrated system with its own programming language and environment, and was a relative of the Eiffel language. BlueJ implements the Blue environment design for the Java programming language.
+In March 2009, the BlueJ project became free and open source software, and licensed under GPL-2.0-or-later with the Classpath exception.
+BlueJ is currently being maintained by a team at King's College London, England, where Kölling works.
+
+Supported language
+BlueJ supports programming in Java and in Stride. Java support has been provided in BlueJ since its inception, while Stride support was added in 2017.
+
+See also
+Greenfoot
+DrJava
+Educational programming language
+
+References
+Bibliography
+External links
+Official website
+BlueJ textbook

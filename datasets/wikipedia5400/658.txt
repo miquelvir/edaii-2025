@@ -1,0 +1,54 @@
+658
+Compatibility layer
+In software engineering, a compatibility layer is an interface that allows binaries for a legacy or foreign system to run on a host system. This translates system calls for the foreign system into native system calls for the host system. With some libraries for the foreign system, this will often be sufficient to run foreign binaries on the host system. A hardware compatibility layer consists of tools that allow hardware emulation.
+
+Software
+Examples include:
+
+Wine, which runs some Microsoft Windows binaries on Unix-like systems using a program loader and the Windows API implemented in DLLs
+Windows's application compatibility layers to attempt to run poorly written applications or those written for earlier versions of the platform.
+Lina, which runs some Linux binaries on Windows, Mac OS X and Unix-like systems with native look and feel.
+KernelEX, which runs some Windows 2000/XP programs on Windows 98/Me.
+Executor, which runs 68k-based "classic" Mac OS programs in Windows, Mac OS X and Linux.
+Anbox, an Android compatibility layer for Linux.
+Hybris, library that translates Bionic into glibc calls.
+Darling, a translation layer that attempts to run Mac OS X and Darwin binaries on Linux.
+Windows Subsystem for Linux v1, which runs Linux binaries on Windows via a compatibility layer which translates Linux system calls into native windows system calls.
+Cygwin, a POSIX-compatible environment that runs natively on Windows.
+2ine, a project to run OS/2 application on Linux
+Rosetta 2, Apple's translation layer bundled with macOS Big Sur to allow x86-64 exclusive applications to run on ARM hardware.
+Prism is a Microsoft emulator for ARM-powered Windows devices that translates the underlying code of software built for traditional x86 and x64 binaries from Windows 11 24H2
+ACL allows Android apps to natively execute on Tizen, webOS, or MeeGoo phones.
+Alien Dalvik allows Android apps to run on MeeGo and Meamo. Alien Dalvik 2.0 was also revealed for iOS on an iPad, however unlike MeeGo and Meamo, this version ran from the cloud.
+touchHLE is a compatibility layer (referred to as a “high-level emulator”) for Windows and macOS made by Andrea "hikari_no_yume" (Sweden) in early 2023 to run legacy 32-bit iOS software. The compatibility layer was only able to run one software, Super Monkey Ball as of version 0.1.0. As of version 0.1.2, support for the Lite version of Super Monkey Ball, as well as Crash Bandicoot Nitro Kart 3D and Touch & Go has been added. She says that fans will have to "be patient" for anything else to emulate. It uses code translation along with CPU emulation when necessary, and specifically stated that she does not want to be compatible with 64 bit software. Later a pull request to add support for Android was issued, which allowed Android devices to run Super Monkey Ball for iOS.
+ipasim is a compatibility layer for Windows that uses WinObjC to translate code from Objective C to native Windows code.
+aah (sic) is a program for macOS to run iOS apps on macOS 10.15 "Catalina" on x86 processors via translation of the programs via the Catalyst framework.
+brs-emu is a compatibility layer to run Roku software via BrightScript on other platforms: Web, Windows, macOS, and Linux.
+Compatibility layer in kernel:
+
+FreeBSD's Linux compatibility layer, which enables binaries built specifically for Linux to run on FreeBSD the same way as the native FreeBSD API layer. FreeBSD also has some Unix-like system emulations, including NDIS, NetBSD, PECoff, SVR4, and different CPU versions of FreeBSD.
+NetBSD has several Unix-like system emulations.
+Columbia Cycada, an unreleased compatibility layer which runs Apple iOS applications on Android systems
+Windows Subsystem for Linux provides a Linux-compatible kernel interface developed by Microsoft.
+The PEACE Project (aka COMPAT_PECOFF) has Win32 compatible layer for NetBSD. The project is now inactive.
+On RSTS/E for the PDP-11 series of minicomputers, programs written to run on the RT-11 operating system could run (without recompiling) on RSTS through the RT-11 Run-Time System having its EMT flag set, meaning that an RT-11 EMT instruction that matches a RSTS EMT is diverted to the RT-11 Run-Time System which translates them to the equivalent RSTS EMT. Programs written to take advantage of RSTS directly (or calls to RSTS within the Run-Time system itself) signal this by having a second EMT instruction (usually EMT 255) immediately before the actual RSTS EMT code.
+A compatibility layer avoids both the complexity and the speed penalty of full hardware emulation. Some programs may even run faster than the original, e.g. some Linux applications running on FreeBSD's Linux compatibility layer may perform better than the same applications on Red Hat Linux. Benchmarks are occasionally run on Wine to compare it to Windows NT-based operating systems.
+Even on similar systems, the details of implementing a compatibility layer can be quite intricate and troublesome; a good example is the IRIX binary compatibility layer in the MIPS architecture version of NetBSD.
+A compatibility layer requires the host system's CPU to be (upwardly) compatible to that of the foreign system. For example, a Microsoft Windows compatibility layer is not possible on PowerPC hardware because Windows requires an x86 CPU. In this case full emulation is needed.
+
+Hardware
+Hardware compatibility layers involve tools that allow hardware emulation. Some hardware compatibility layers involve breakout boxes because breakout boxes can provide compatibility for certain computer buses that are otherwise incompatible with the machine.
+
+See also
+Hypervisor
+Paravirtualization
+Emulator
+Cross-platform virtualization
+[Computing platform](694)
+Shim (computing)
+Driver wrapper
+Glue code
+
+References
+External links
+Windows XP Application Compatibility Technologies (Dave Morehouse and Todd Phillips, Microsoft Corporation, 1 June 2001)

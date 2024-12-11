@@ -1,0 +1,390 @@
+64
+12 (number)
+12 (twelve) is the natural number following 11 and preceding 13. 
+Twelve is the 3rd superior highly composite number, the 3rd colossally abundant number, the 5th highly composite number, and is divisible by the numbers from 1 to 4, and 6, a large number of divisors comparatively.
+It is central to many systems of timekeeping, including the Western calendar and units of time of day, and frequently appears in the world's major religions.
+
+Name
+Twelve is the largest number with a single-syllable name in English. Early Germanic numbers have been theorized to have been non-decimal: evidence includes the unusual phrasing of eleven and twelve, the former use of "hundred" to refer to groups of 120, and the presence of glosses such as "tentywise" or "ten-count" in medieval texts showing that writers could not presume their readers would normally understand them that way. Such uses gradually disappeared with the introduction of Arabic numerals during the 12th-century Renaissance.
+Derived from Old English, twelf and tuelf are first attested in the 10th-century Lindisfarne Gospels' Book of John. It has cognates in every Germanic language (e.g. German zwölf), whose Proto-Germanic ancestor has been reconstructed as *twaliƀi..., from *twa ("two") and suffix *-lif- or *-liƀ- of uncertain meaning. It is sometimes compared with the Lithuanian dvýlika, although -lika is used as the suffix for all numbers from 11 to 19 (analogous to "-teen"). Every other Indo-European language instead uses a form of "two"+"ten", such as the Latin duōdecim. The usual ordinal form is "twelfth" but "dozenth" or "duodecimal" (from the Latin word) is also used in some contexts, particularly base-12 numeration. Similarly, a group of twelve things is usually a "dozen" but may also be referred to as a "dodecad" or "duodecad". The adjective referring to a group of twelve is "duodecuple".
+As with eleven, the earliest forms of twelve are often considered to be connected with Proto-Germanic *liƀan or *liƀan ("to leave"), with the implicit meaning that "two is left" after having already counted to ten. The Lithuanian suffix is also considered to share a similar development. The suffix *-lif- has also been connected with reconstructions of the Proto-Germanic for ten.
+As mentioned above, 12 has its own name in Germanic languages such as English (dozen), Dutch (dozijn), German (Dutzend), and Swedish (dussin), all derived from Old French dozaine. It is a compound number in many other languages, e.g. Italian dodici (but in Spanish and Portuguese, 16, and in French, 17 is the first compound number), Japanese 十二 jūni.
+
+Written representation
+In prose writing, twelve, being the last single-syllable numeral, is sometimes taken as the last number to be written as a word, and 13 the first to be written using digits.
+This is not a binding rule, and in English language tradition, it is sometimes recommended to spell out numbers up to and including either nine, ten or twelve, or even ninety-nine or one hundred. Another system spells out all numbers written in one or two words (sixteen, twenty-seven, fifteen thousand, but 372 or 15,001).
+In German orthography, there used to be the widely followed (but unofficial) rule of spelling out numbers up to twelve (zwölf). The Duden (the German standard dictionary) mentions this rule as outdated.
+
+In mathematics
+12 is a composite number, the smallest abundant number, a semiperfect number, a highly composite number, a refactorable number, and a Pell number. It is the smallest of two known sublime numbers, numbers that have a perfect number of divisors whose sum is also perfect.
+There are twelve Jacobian elliptic functions and twelve cubic distance-transitive graphs.
+A twelve-sided polygon is a dodecagon. In its regular form, it is the largest polygon that can uniformly tile the plane alongside other regular polygons, as with the truncated hexagonal tiling or the truncated trihexagonal tiling.
+A regular dodecahedron has twelve pentagonal faces. Regular cubes and octahedrons both have 12 edges, while regular icosahedrons have 12 vertices.
+The densest three-dimensional lattice sphere packing has each sphere touching twelve other spheres, and this is almost certainly true for any arrangement of spheres (the Kepler conjecture). Twelve is also the kissing number in three dimensions.
+There are twelve complex apeirotopes in dimensions five and higher, which include van Oss polytopes in the form of complex 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+-orthoplexes. There are also twelve paracompact hyperbolic Coxeter groups of uniform polytopes in five-dimensional space.
+Bring's curve is a Riemann surface of genus four, with a domain that is a regular hyperbolic 20-sided icosagon. By the Gauss-Bonnet theorem, the area of this fundamental polygon is equal to 
+  
+    
+      
+        12
+        π
+      
+    
+    {\displaystyle 12\pi }
+  
+.
+Twelve is the smallest weight for which a cusp form exists. This cusp form is the discriminant 
+  
+    
+      
+        Δ
+        (
+        q
+        )
+      
+    
+    {\displaystyle \Delta (q)}
+  
+ whose Fourier coefficients are given by the Ramanujan 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+  
+-function and which is (up to a constant multiplier) the 24th power of the Dedekind eta function: 
+
+  
+    
+      
+        Δ
+        (
+        τ
+        )
+        =
+        (
+        2
+        π
+        
+          )
+          
+            12
+          
+        
+        
+          η
+          
+            24
+          
+        
+        (
+        τ
+        )
+      
+    
+    {\displaystyle \Delta (\tau )=(2\pi )^{12}\eta ^{24}(\tau )}
+  
+
+This fact is related to a constellation of interesting appearances of the number twelve in mathematics ranging from the fact that the abelianization of special linear group 
+  
+    
+      
+        SL
+        ⁡
+        (
+        2
+        ,
+        
+          Z
+        
+        )
+      
+    
+    {\displaystyle \operatorname {SL} (2,\mathrm {Z} )}
+  
+ has twelve elements, to the value of the Riemann zeta function at 
+  
+    
+      
+        −
+        1
+      
+    
+    {\displaystyle -1}
+  
+ being 
+  
+    
+      
+        −
+        
+          
+            
+              1
+              12
+            
+          
+        
+      
+    
+    {\displaystyle -{\tfrac {1}{12}}}
+  
+, which stems from the Ramanujan summation
+
+  
+    
+      
+        1
+        +
+        2
+        +
+        3
+        +
+        4
+        +
+        ⋯
+        =
+        −
+        
+          
+            1
+            12
+          
+        
+        
+        (
+        
+          
+            R
+          
+        
+        )
+      
+    
+    {\displaystyle 1+2+3+4+\cdots =-{\frac {1}{12}}\quad ({\mathfrak {R}})}
+  
+
+Although the series is divergent, methods such as Ramanujan summation can assign finite values to divergent series.
+
+List of basic calculations
+In other bases
+The duodecimal system (1210 twelve = 1012), which is the use of 12 as a division factor for many ancient and medieval weights and measures, including hours, probably originates from Mesopotamia.
+
+In nature
+Notably, twelve is the number of full lunations in a solar year, hence the number of months in a solar calendar, as well as the number of signs in the Western, Islamic and the Chinese zodiac. Twelve is also the number of years for an orbital period of Jupiter.
+
+Religion
+The number twelve carries religious, mythological and magical symbolism; since antiquity, the number has generally represented perfection, entirety, or cosmic order.
+
+Ancient Greek religion
+The Twelve Olympians are the principal gods of the pantheon, they were preceded by twelve Titans, and Hercules carries out twelve labours.
+Altar of the Twelve Gods to whom the Altar was dedicated is uncertain, but they were most likely substantially the same as the twelve Olympian gods represented on the east frieze of the Parthenon.
+Several sets of twelve cities are identified in history as a dodecapolis, the most familiar being the Etruscan League. In ancient Rome, the twelve lictors carried fasces of twelve rods.
+
+Judaism and Christianity
+The significance is especially pronounced in the Hebrew Bible.
+Ishmael – the first-born son of Abraham – has 12 sons/princes (Genesis 25:16), and Jacob also has 12 sons, who are the progenitors of the Twelve Tribes of Israel. This is reflected in Christian tradition, notably in the twelve Apostles. When Judas Iscariot is disgraced, a meeting is held (Acts) to add Saint Matthias to complete the number twelve once more.
+The Book of Revelation contains much numerical symbolism, and many of the numbers mentioned have 12 as a divisor. 12:1 mentions a woman—interpreted as the people of Israel, the Church and the Virgin Mary—wearing a crown of twelve stars (representing each of the twelve tribes of Israel). Furthermore, there are 12,000 people sealed from each of the twelve tribes of Israel (the Tribe of Dan is omitted while Manasseh is mentioned), making a total of 144,000 (which is the square of 12 multiplied by a thousand).
+
+According to the New Testament, Jesus had twelve Apostles.
+The "Twelve Days of Christmas" count the interval between Christmas and Epiphany.
+Eastern Orthodoxy observes twelve Great Feasts.
+12 was the only number considered to be religiously divine in the 1600s causing many Catholics to wear 12 buttons to church every Sunday. Some extremely devout Catholics would always wear this number of buttons to any occasion on any type of clothing.
+
+Islam
+Twelve is referred to in a few different verses of the Quran. Two are in reference to the Twelve Tribes of Israel.
+
+And ˹remember˺ when Moses prayed for water for his people, We said, "Strike the rock with your staff." Then twelve springs gushed out, ˹and˺ each tribe knew its drinking place. ˹We then said,˺ "Eat and drink of Allah’s provisions, and do not go about spreading corruption in the land."
+The second reference is:
+
+We divided them into twelve tribes—each as a community. And We revealed to Moses, when his people asked for water, "Strike the rock with your staff." Then twelve springs gushed out. Each tribe knew its drinking place. We shaded them with clouds and sent down to them manna and quails,1 ˹saying˺, "Eat from the good things We have provided for you." They ˹certainly˺ did not wrong Us, but wronged themselves.
+Note 1: Manna (heavenly bread) and quails (chicken-like birds) sustained the children of Israel in the wilderness after they left Egypt.
+The third reference is to the number of months and the sacred ones amongst them:
+
+Indeed, the number of months with Allāh is twelve lunar months in the register of Allāh from the day He created the heavens and the earth; of these, four are sacred.2
+Note 2: The four sacred months of the Islamic calendar are Dhu al-Qa'dah, Dhu al-Hijjah, Muharram, and Rajab (months 11, 12, 1 and 7).
+
+Hinduism
+There are twelve Jyotirlinga (Self-formed Lingas) of Lord Shiva in Hindu temples across India according to the Shaiva tradition.
+The Sun god Surya has 12 names.
+The god Hanuman has 12 names.
+There are 12 Petals in Anahata or "heart chakra".
+There are frequently said to be 12 Âdityas.
+
+Others
+The chief Norse god, Odin, has twelve sons.
+In the King Arthur legend, Arthur is said to subdue 12 rebel princes and to win 12 great battles against Saxon invaders.
+In Twelver Shi'a Islam, there are twelve Imams, legitimate successors of the Islamic prophet, Muhammad. These twelve early leaders of Islam are—Ali, Hasan, Husayn, and nine of Husayn's descendants.
+Sura 12 in the Quran is sura Yusuf (Joseph), narrating the story of the sons of Jacob.
+In the mythologies of the ancient Hurrians and Hittites, there were the Twelve gods of the Underworld.
+
+Law
+The number of twelve jurors in jury trials is depicted by Aeschylus in the Eumenides. In the play, the innovation is brought about by the goddess Athena, who summons twelve citizens to sit as jury.
+In English Common Law, the tradition of twelve jurors harks back to the 10th-century law code introduced by Aethelred the Unready.
+
+Timekeeping
+The lunar year is 12 lunar months. Adding 11 or 12 days completes the solar year.
+Most calendar systems – solar or lunar – have twelve months in a year.
+The Chinese use a 12-year cycle for time-reckoning called Earthly Branches.
+There are twelve hours in a half day, numbered one to twelve for both the ante meridiem (a.m.) and the post meridiem (p.m.). 12:00 p.m. is midday or noon, and 12:00 a.m. is midnight.
+The basic units of time (60 seconds, 60 minutes, 24 hours) are evenly divisible by twelve into smaller units.
+
+In numeral systems
+In science
+The atomic number of magnesium in the periodic table.
+The Standard Model identifies twelve types of elementary fermions as well as twelve (?) types of elementary gauge bosons.
+The human body has twelve cranial nerves.
+The duodenum (from Latin: duodecim, lit. 'twelve') is the first part of the small intestine, that is about twelve inches (30 cm) long. More precisely, this section of the intestine was measured not in inches but in fingerwidths. In fact, in German the name of the duodenum is Zwölffingerdarm, in Dutch the name is twaalfvingerige darm and in Bulgarian the name is дванадесетопръстник, all meaning "twelve-finger bowel".
+Force 12 on the Beaufort wind force scale corresponds to the maximum wind speed of a hurricane.
+The human body has twelve thoracic vertebrae.
+Messier 12 (NGC 6218), an globular cluster in the constellation Ophiuchus, located at 16,400 light years away from earth
+
+In sports
+In both soccer and American football, the number 12 can be a symbolic reference to the fans because of the support they give to the 11 players on the field. Texas A&M University reserves the number 12 jersey for a walk-on player who represents the original "12th Man", a fan who was asked to play when the team's reserves were low in a college American football game in 1922. Similarly, Bayern Munich, Hammarby, Feyenoord, Atlético Mineiro, Flamengo, Seattle Seahawks, Portsmouth and Cork City do not allow field players to wear the number 12 on their jersey because it is reserved for their supporters. It also serves as the jersey number for one of the National Football League's best and most well-known quarterbacks, Tom Brady.
+In Canadian football, 12 is the maximum number of players that can be on the field of play for each team at any time.
+In cricket, another sport with eleven players per team, teams may select a "12th man", who may replace an injured player for the purpose of fielding (but not batting or bowling).
+In women's lacrosse, each team has 12 players on the field at any given time, except in penalty situations.
+In rugby league, one of the starting second-row forwards wears the number 12 jersey in most competitions. An exception is in the Super League, which uses static squad numbering.
+In rugby union, one of the starting centres, most often but not always the inside centre, wears the 12 shirt.
+In an NBA game, a quarter lasts 12 minutes.
+In pool:
+The pool ball 12 is the 12th in pool and its color is purple.
+
+In technology
+ASCII and Unicode code point for form feed.
+The number of function keys on most PC keyboards (F1 through F12).
+The number of keys in any standard digital telephone (1 through 9, 0, * and #).
+Microsoft's Rich Text Format specification assigns numbers congruent to 12 mod 256 to variants of the French language.
+
+In the arts
+Film
+Films with the number twelve or its variations in their titles include: 
+
+12
+12 Angry Men (1957 and 1997)
+Cheaper by the Dozen
+Ocean's Twelve
+12 Monkeys
+The Dirty Dozen
+The Twelve Chairs (1970, 1971 and 1976)
+12 Rounds
+Twelve
+Twelve Years a Slave
+
+Television
+The number twelve plays a significant role in the television franchise Battlestar Galactica. The characters come from the Twelve Colonies of Kobol and worship the twelve gods of Kobol. In the re-imagined series, there are also twelve models of humanoid Cylons.
+Twelve Angry Men, the original 1954 live performance on the anthology television series Studio One
+"Number 12 Looks Just Like You" is an episode of the television show The Twilight Zone.
+Schoolhouse Rock! portrayed an alien child using base-twelve arithmetic in the short "Little Twelvetoes".
+12 oz. Mouse was an animated television show on Adult Swim.
+The News 12 Networks are a group of American regional cable news television channels covering New York, New Jersey, and Connecticut.
+Les Douze Coups de Midi (douze = 12) is a French game show broadcast on TF1 with Jean-Luc Reichmann at midday CEST.
+In Star Twinkle PreCure, the Star Palace is home to the twelve Star Princesses, one for each sign of the Zodiac.
+
+Theatre
+Twelfth Night is a comedy by William Shakespeare.
+The Vision of the Twelve Goddesses is a Jacobean masque by Samuel Daniel.
+Twelve Angry Men, by Reginald Rose, adapted from his own teleplay (see above).
+
+Literature
+"The Twelve" is a poem by Aleksandr Blok.
+Twelve is a novel by Nick McDonell.
+The Twelve Chairs is a satirical novel by the Soviet authors Ilf and Petrov.
+Cheaper by the Dozen is a 1946 novel by Frank Bunker Gilbreth Jr. and Ernestine Gilbreth Carey.
+The Twelve Dancing Princesses is a folk tale.
+The Aeneid, an epic poem by Virgil is divided into two halves composed of twelve books.
+Paradise Lost, an epic poem by John Milton is divided into twelve books perhaps in imitation of the Aeneid.
+Miguel de Cervantes wrote twelve Novelas ejemplares.
+The number twelve is a key feature in the plot of the novel Murder on the Orient Express by Agatha Christie.
+
+Comics
+Apocalypse: The Twelve, a comic book crossover in Marvel Comics. The connection between Apocalypse and twelve specific mutants is revisitied in the 2024 limited series, X-Men: Heir to Apocalypse.
+
+Music
+Music theory
+Twelve is the number of pitch classes in an octave, not counting the duplicated (octave) pitch. Also, the total number of major keys, (not counting enharmonic equivalents) and the total number of minor keys (also not counting equivalents). This applies only to twelve tone equal temperament, the most common tuning used today in western influenced music.
+The twelfth is the interval of an octave and a fifth. Instruments such as the clarinet which behave as a stopped cylindrical pipe overblow at the twelfth.
+The twelve-tone technique (also dodecaphony) is a method of musical composition devised by Arnold Schoenberg. Music using the technique is called twelve-tone music.
+The twelve-bar blues is one of the most prominent chord progressions in popular music.
+12-inch phonograph record.
+
+Pop music
+The 12-inch single is a vinyl record format.
+Twelfth Night is a progressive rock band.
+12 Play is an R. Kelly album.
+The Number 12 Looks Like You is a mathcore band.
+"12", a song from the album Brave Murder Day by Katatonia.
+12 is a studio album by German singer Herbert Grönemeyer.
+Twelve is an album by Patti Smith.
+Twelve Deadly Cyns...and Then Some is an album by Cyndi Lauper.
+D12 a rap group also known as the Dirty Dozen.
+12 Stones is an American Christian rock band.
+"12 Hundred" is a song by band Mushroomhead of their Savior Sorrow album.
+12 is the 12th studio album by Keller Williams.
+"12" ("Dodeka" in Greek) is one of the most well-known hits by Anna Vissi.
+"Twelve drummers drumming" is the gift on the twelfth day of Christmas in the carol "The Twelve Days of Christmas".
+Twelve Girls Band are an all female Chinese musical group .
+12 (American Song Book) is an album by Italian singer Mina.
+"Revelation #12" is a song by American rock band Marilyn Manson.
+12 is the maximum score a competing entry can receive by each country in the Eurovision Song Contest.
+
+Art theory
+There are twelve basic hues in the color wheel: three primary colors (red, yellow, blue), three secondary colors (orange, green, purple) and six tertiary colors (names for these vary, but are intermediates between the primaries and secondaries).
+
+Games
+In the game of craps, a dice roll of two sixes (value 12) on the come-out roll constitutes a "craps" and the shooter (dice thrower) loses immediately.
+Twelve is a character in the Street Fighter video game series.
+Games such as Backgammon have a long history of 12 points on each side of the gaming board, as evidenced in the XII scripta board in the museum at Ephesus.
+
+In other fields
+There are 12 troy ounces in a troy pound (used for precious metals).
+Twelve of something is called a dozen.
+In the former British currency system, there were twelve pence in a shilling.
+In Greek mythology, the number of Labours of Heracles was increased from ten to make twelve.
+In English, twelve is the number of greatest magnitude that has just one syllable.
+12 is the last number featured on the analogue clock, and also the starting point of the transition from A.M. to P.M. hours or vice-versa.
+There are twelve months within a year, with the last one being December.
+The level of grades in which one must attend school typically ends at 12 (although some jurisdictions may include a thirteenth grade depending on the country).
+Twelve hours form half a day, and twelve hours away from another lead to the same time but with a different period (ex. Twelve hours away from 6:00 AM leads to 6:00 PM).
+There are normally twelve pairs of ribs in the human body.
+The Twelve Tables or Leges Duodecim Tabularum, more informally simply Duodecim Tabulae, was the ancient legislation underlying Roman law.
+In the [United States](55), twelve people are appointed to sit on a jury for felony trials in all but four states, and in federal and Washington, D.C. courts. The number of jurors gave the title to the play (and subsequent films) Twelve Angry Men.
+Twelve men have walked on Earth's moon.
+The [United States](55) is divided into twelve Federal Reserve Districts (Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis, Kansas City, Dallas, and San Francisco); American paper currency has serial numbers beginning with one of twelve different letters, A through L, representing the Federal Reserve Bank from which the currency originated.
+According to UFO conspiracy theory, Majestic 12 is a secret committee, allegedly set up by U.S. President Harry S. Truman to investigate the Roswell UFO incident and cover up future extraterrestrial contact.
+12 is the number of the French department Aveyron.
+King Arthur's Round Table had 12 knights plus King Arthur himself.
+12 inches in a foot.
+Alcoholics Anonymous has 12 steps, 12 traditions and 12 concepts for world service.
+Wilhelm Heinrich Schüßler developed a list of 12 biochemical cell salts, also known as tissue salts.
+In the People's Republic of China, 12 Core Socialist Values were promoted as part of a campaign beginning in 2012.
+
+See also
+The Twelfth
+
+Notes
+References
+Sources
+Collins, Billie Jean (2002), "Necromancy, Fertility and the Dark Earth: The Use of Ritual Pits in Hittite Cult", in Mirecki, Paul; Meyer, Marvin (eds.), Magic and Ritual in the Ancient World, Leiden, The Netherlands: Brill, pp. 224–233, ISBN 90-04-10406-2
+Drews, Robert (January 1972). "Light from Anatolia on the Roman fasces". The American Journal of Philology. 93 (1): 40–51. doi:10.2307/292899. JSTOR 292899..
+
+Further reading
+Books
+Schwartzman, Steven (1994). The words of mathematics: An etymological dictionary of mathematical terms used in English. The Mathematical Association of America. ISBN 0-88385-511-9.
+
+Journal articles
+Poonen, Bjorn; Rodriguez-Villegas, Fernando (March 2000). "Lattice Polygons and the Number 12" (PDF). American Mathematical Monthly. 107 (3): 238–250. doi:10.1080/00029890.2000.12005186. S2CID 11433945. Archived from the original (PDF) on 2012-04-14.
+
+External links
+ Media related to 12 (number) at Wikimedia Commons

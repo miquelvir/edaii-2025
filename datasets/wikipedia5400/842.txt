@@ -1,0 +1,83 @@
+842
+Bjarne Stroustrup
+Bjarne Stroustrup (; Danish: ˈbjɑːnə ˈstʁʌwˀstʁɔp; born 30 December 1950) is a Danish computer scientist, known for the development of the [C++](640) programming language. He led the Large-scale Programming Research department at [Bell Labs](834), served as a professor of computer science at Texas A&M University, and spent over a decade at Morgan Stanley while also being a visiting professor at Columbia University. Since 2022 he has been a full professor at Columbia.
+
+Early life and education
+Stroustrup was born in Aarhus, Denmark. His family was working class, and he attended local schools.
+He attended Aarhus University from 1969 to 1975 and graduated with a Candidatus Scientiarum in mathematics with computer science. His interests focused on microprogramming and machine architecture. He learned the fundamentals of object-oriented programming from its inventor, Kristen Nygaard, who frequently visited Aarhus.
+In 1979, he received his PhD in computer science from the University of Cambridge, where his research on distributed computing was supervised by David Wheeler.
+
+Career and research
+In 1979, Stroustrup began his career as a member of technical staff in the Computer Science Research Center of [Bell Labs](834) in Murray Hill, New Jersey. There, he began his work on [C++](640) and programming techniques. Stroustrup was the head of AT&T [Bell Labs](834)' Large-scale Programming Research department, from its creation until late 2002. In 1993, he was made a [Bell Labs](834) fellow and in 1996, an AT&T Fellow.
+From 2002 to 2014, Stroustrup was the College of Engineering Chair Professor in Computer Science at Texas A&M University. From 2011, he was made a University Distinguished Professor.
+From January 2014 to April 2022, Stroustrup was a technical fellow and managing director in the technology division of Morgan Stanley in New York City and a visiting professor in computer science at Columbia University.
+As of July 2022, Stroustrup is a full professor of Computer Science at Columbia University.
+
+[C++](640)
+Stroustrup is best known for his work on [C++](640). In 1979, he began developing [C++](640) (initially called "C with Classes"). In his own words, he "invented [C++](640), wrote its early definitions, and produced its first implementation ... chose and formulated the design criteria for [C++](640), designed all its major facilities, and was responsible for the processing of extension proposals in the [C++](640) standards committee." [C++](640) was made generally available in 1985. For non-commercial use, the source code of the compiler and the foundation libraries was the cost of shipping (US$75); this was before Internet access was common. Stroustrup also published a textbook for the language in 1985, The [C++](640) Programming Language.
+The key language-technical areas of contribution of [C++](640) are:
+
+A static type system with equal support for built-in types and user-defined types (that requires control of the construction, destruction, copying, and movement of objects; and operator overloading).
+Value and reference semantics.
+Systematic and general resource management (RAII): constructors, destructor, and exceptions relying on them.
+Support for efficient object-oriented programming: based on the Simula model with statically checked interfaces, multiple inheritance, and efficient implementation based on virtual function tables.
+Support for flexible and efficient generic programming: templates with specialization and concepts.
+Support for compile-time programming: template metaprogramming and compile-time evaluated functions ("constexpr functions").
+Direct use of machine and operating system resources.
+Concurrency support through libraries (where necessary, implemented using intrinsics).
+Stroustrup documented his principles guiding the design of [C++](640) and the evolution of the language in his 1994 book, The Design and Evolution of [C++](640), and three papers for ACM's History of Programming Languages conferences.
+Stroustrup was a founding member of the [C++](640) standards committee (from 1989, it was an ANSI committee and from 1991 an ISO committee) and has remained an active member ever since. For 24 years he chaired the subgroup chartered to handle proposals for language extensions (Evolution Working Group).
+
+Awards and honors
+Selected honors
+
+2018: The Charles Stark Draper Prize from The US National Academy of Engineering for conceptualizing and developing the [C++](640) programming language.
+2018: The Computer Pioneer Award from The IEEE Computer Society for bringing object-oriented programming and generic programming to the mainstream with his design and implementation of the [C++](640) programming language.
+2017: The Faraday Medal from the IET (Institute of Engineering Technology) for significant contributions to the history of computing, in particular pioneering the [C++](640) programming language.
+2010: The University of Aarhus's Rigmor og Carl Holst-Knudsens Videnskabspris.
+2005: The William Procter Prize for Scientific Achievement from Sigma Xi (the scientific research society) as the first computer scientist ever.
+1993: The ACM Grace Murray Hopper award for his early work laying the foundations for the [C++](640) programming language. Based on those foundations and Dr. Stroustrup's continuing efforts, [C++](640) has become one of the most influential programming languages in the history of computing.
+Fellowships
+
+Member of the National Academy of Engineering in 2004.
+Fellow of the [Association for Computing Machinery](823) (ACM) in 1994.
+Fellow of the Institute of Electrical and Electronics Engineers (IEEE) in 1994.
+Fellow of the Computer History Museum for his invention of the [C++](640) programming language in 2015.
+Honorary Fellow of Churchill College, Cambridge in 2017.
+Honorary doctorates and professorships
+
+He was awarded an honorary doctorate from the University Carlos III, Spain 2019.
+Stroustrup has been a noble doctor at ITMO University since 2013.
+Honorary Professor in Object Oriented Programming Languages, Department of Computer Science, University of Aarhus. 2010.
+
+Publications
+Stroustrup has written or co-written a number of publications, including the books:
+
+A Tour of [C++](640) (1st, 2nd and 3rd edition)
+Programming: Principles and Practice Using [C++](640)
+The [C++](640) Programming Language (1st, 2nd, 3rd, and 4th edition)
+The Design and Evolution of [C++](640)
+The Annotated [C++](640) Reference Manual.
+In all, these books have been translated into 21 languages.
+More than 100 academic articles, including:
+
+Thriving in a crowded and changing world
+Evolving a language in and for the real world
+B Stroustrup: What should we teach software developers? Why? CACM. January 2010. doi:10.1145/1629175.1629192
+Gabriel Dos Reis and Bjarne Stroustrup: A Principled, Complete, and Efficient Representation of [C++](640). Journal of Mathematics in Computer Science Volume 5, Issue 3 (2011), Page 335–356 doi:10.1007/s11786-011-0094-1. Special issue on Polynomial System Solving, System and Control, and Software Science.
+Gabriel Dos Reis and Bjarne Stroustrup: General Constant Expressions for System Programming Languages. SAC-2010. The 25th ACM Symposium on Applied Computing. March 2010. doi:10.1145/1774088.1774537
+Y. Solodkyy, G. Dos Reis, and B. Stroustrup: Open and Efficient Type Switch for [C++](640). Proc. OOPSLA'12. doi:10.1145/2398857.2384686
+Peter Pirkelbauer, Yuriy Solodkyy, Bjarne Stroustrup: Design and Evaluation of [C++](640) Open Multi-Methods. In Science of Computer Programming (2009). Elsevier Journal. June 2009. doi:10.1016/j.scico.2009.06.002.
+Gabriel Dos Reis and Bjarne Stroustrup: Specifying [C++](640) Concepts. POPL06. January 2006. doi:10.1145/1111037.1111064
+B. Stroustrup: Exception Safety: Concepts and Techniques. In Springer Verlag Lecture Notes in Computer Science, LNCS-2022. ISSN 0302-9743. ISBN 3-540-41952-7. April 2001.
+B Stroustrup: Generalizing Overloading for [C++](640)2000. Overload, Issue 25. 1 April 1998.
+B. Stroustrup: Why [C++](640) isn't just an Object-Oriented Programming Language. Addendum to OOPSLA'95 Proceedings. OOPS Messenger, vol 6 no 4, pp 1–13. October 1995. doi:10.1145/260094.260207
+B. Stroustrup: A History of [C++](640): 1979–1991 Notices. Vol 28 No 3, pp 271–298. March 1993. Also, History of Programming languages (editors T.J. Begin and R.G. Gibson) Addison-Wesley, 1996.
+B. Stroustrup: What is Object-Oriented Programming? (1991 revised version). Proc. 1st European Software Festival. February 1991.
+B. Stroustrup: Data Abstraction in C. [Bell Labs](834) Technical Journal. vol 63. no 8 (Part 2), pp 1701–1732. October 1984. doi:10.1002/j.1538-7305.1984.tb00061.x
+B. Stroustrup: Classes: An Abstract Data Type Facility for the C Language. Sigplan Notices, January 1982. doi:10.1145/947886.947893
+More than a hundred technical reports for the [C++](640) standards committee (WG21)
+
+References
+External links
+ Media related to Bjarne Stroustrup at Wikimedia Commons

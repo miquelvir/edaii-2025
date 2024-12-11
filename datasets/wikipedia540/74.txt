@@ -1,0 +1,38 @@
+74
+ABC (programming language)
+ABC is an imperative general-purpose programming language and integrated development environment (IDE) developed at Centrum Wiskunde & Informatica (CWI), in  Amsterdam, Netherlands by Leo Geurts, Lambert Meertens, and Steven Pemberton. It is interactive, structured, high-level, and intended to be used instead of BASIC, Pascal, or AWK. It is intended for teaching or prototyping, but not as a systems-programming language.
+ABC had a major influence on the design of the language Python, developed by Guido van Rossum, who formerly worked for several years on the ABC system in the mid-1980s.
+
+Features
+Its designers claim that ABC programs are typically around a quarter the size of the equivalent Pascal or C programs, and more readable. Key features include:
+
+Only five basic data types
+No required variable declarations
+Explicit support for top-down programming
+Statement nesting is indicated by indentation, via the off-side rule
+Infinite precision arithmetic, unlimited-sized lists and strings, and other features supporting orthogonality and ease of use by novices
+Polymorphic commands and functions
+Interactive environment with command completion, persistent workspaces, and no separate file handling
+ABC was originally a monolithic implementation, leading to an inability to adapt to new requirements, such as creating a graphical user interface (GUI). ABC could not directly access the underlying file system and operating system.
+The full ABC system includes a programming environment with a structure editor (syntax-directed editor), suggestions, static variables (persistent), and multiple workspaces, and is available as an interpreter–compiler. As of 2020, the latest version is 1.05.02, and it is ported to Unix, DOS, Atari, and Apple MacOS.
+
+Example
+An example function to collect the set of all words in a document:
+
+HOW TO RETURN words document:
+   PUT {} IN collection
+   FOR line IN document:
+      FOR word IN split line:
+         IF word not.in collection:
+            INSERT word IN collection
+   RETURN collection
+
+Implementations
+ABC has been through multiple iterations, with the current version being the 4th major release. Implementations exist for Unix-like systems, MS-DOS/Windows, Macintosh, and other platforms. The source code was made available via Usenet in the late 1980s/early 1990s.
+
+Further reading
+More details on ABC can be found in the book "The ABC Programmer's Handbook" by Leo Geurts, Lambert Meertens and Steven Pemberton (ISBN 0-13-000027-2). A newsletter and mailing list were available from CWI.
+
+References
+External links
+ABC Programmer's Handbook

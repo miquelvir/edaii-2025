@@ -1,0 +1,72 @@
+333
+Arginine
+Arginine is the amino acid with the formula (H2N)(HN)CN(H)(CH2)3CH(NH2)CO2H.  The molecule features a guanidino group appended to a standard amino acid framework. At physiological pH, the carboxylic acid is deprotonated (−CO2−) and both the amino and guanidino groups are protonated, resulting in a cation. Only the l-arginine (symbol Arg or R) enantiomer is found naturally. Arg residues are common components of proteins. It is encoded by the codons CGU, CGC, CGA, CGG, AGA, and AGG. The guanidine group in arginine is the precursor for the biosynthesis of nitric oxide. Like all amino acids, it is a white, water-soluble solid.
+The one-letter symbol R was assigned to arginine for its phonetic similarity.
+
+History
+Arginine was first isolated in 1886 from yellow lupin seedlings by the German chemist Ernst Schulze and his assistant Ernst Steiger. He named it from the Greek árgyros (ἄργυρος) meaning "silver" due to the silver-white appearance of arginine nitrate crystals. In 1897, Schulze and Ernst Winterstein (1865–1949) determined the structure of arginine. Schulze and Winterstein synthesized arginine from ornithine and cyanamide in 1899, but some doubts about arginine's structure lingered until Sørensen's synthesis of 1910.
+
+Sources
+Production
+It is traditionally obtained by hydrolysis of various cheap sources of protein, such as gelatin. It is obtained commercially by fermentation. In this way, 25-35 g/liter can be produced, using glucose as a carbon source.
+
+Dietary sources
+Arginine is classified as a semiessential or conditionally essential amino acid, depending on the developmental stage and health status of the individual. Preterm infants are unable to synthesize arginine internally, making the amino acid nutritionally essential for them. Most healthy people do not need to supplement with arginine because it is a component of all protein-containing foods and can be synthesized in the body from glutamine via citrulline. Additional, dietary arginine is necessary for otherwise healthy individuals temporarily under physiological stress, for example during recovery from burns, injury or sepsis, or if either of the major sites of arginine biosynthesis, the small intestine and kidneys, have reduced function, because the small bowel does the first step of the synthesizing process and the kidneys do the second.
+Arginine is an essential amino acid for birds, as they do not have a urea cycle. For some carnivores, for example cats, dogs and ferrets, arginine is essential, because after a meal, their highly efficient protein catabolism produces large quantities of ammonia which need to be processed through the urea cycle, and if not enough arginine is present, the resulting ammonia toxicity can be lethal. This is not a problem in practice, because meat contains sufficient arginine to avoid this situation.
+Animal sources of arginine include meat, dairy products, and eggs, and plant sources include seeds of all types, for example grains, beans, and nuts.
+
+Biosynthesis
+Arginine is synthesized from citrulline in the urea cycle by the sequential action of the cytosolic enzymes argininosuccinate synthetase and argininosuccinate lyase. This is an energetically costly process, because for each molecule of argininosuccinate that is synthesized, one molecule of adenosine triphosphate (ATP) is hydrolyzed to adenosine monophosphate (AMP), consuming two ATP equivalents.
+The pathways linking arginine, glutamine, and proline are bidirectional. Thus, the net use or production of these amino acids is highly dependent on cell type and developmental stage.
+
+Arginine is made by the body as follows. The epithelial cells of the small intestine produce citrulline, primarily from glutamine and glutamate, which is secreted into the bloodstream which carries it to the proximal tubule cells of the kidney, which extract the citrulline and convert it to arginine, which is returned to the blood. This means that impaired small bowel or renal function can reduce arginine synthesis and thus create a dietary requirement for arginine. For such a person, arginine would become "essential".
+Synthesis of arginine from citrulline also occurs at a low level in many other cells, and cellular capacity for arginine synthesis can be markedly increased under circumstances that increase the production of inducible nitric oxide synthase (NOS). This allows citrulline, a byproduct of the NOS-catalyzed production of nitric oxide, to be recycled to arginine in a pathway known as the citrulline to nitric oxide (citrulline-NO) or arginine-citrulline pathway. This is demonstrated by the fact that, in many cell types, nitric oxide synthesis can be supported to some extent by citrulline, and not just by arginine. This recycling is not quantitative, however, because citrulline accumulates in nitric oxide producing cells along with nitrate and nitrite, the stable end-products of nitric oxide breakdown.
+
+Function
+Arginine plays an important role in cell division, wound healing, removing ammonia from the body, immune function, and the release of hormones. It is a precursor for the synthesis of nitric oxide (NO), making it important in the regulation of blood pressure. Arginine is necessary for T-cells to function in the body, and can lead to their deregulation if depleted.
+
+Proteins
+Arginine's side chain is amphipathic, because at physiological pH it contains a positively charged guanidinium group, which is highly polar, at the end of a hydrophobic aliphatic hydrocarbon chain. Because globular proteins have hydrophobic interiors and hydrophilic surfaces, arginine is typically found on the outside of the protein, where the hydrophilic head group can interact with the polar environment, for example taking part in hydrogen bonding and salt bridges. For this reason, it is frequently found at the interface between two proteins. The aliphatic part of the side chain sometimes remains below the surface of the protein.
+Arginine residues in proteins can be deiminated by PAD enzymes to form citrulline, in a post-translational modification process called citrullination.This is important in fetal development, is part of the normal immune process, as well as the control of gene expression, but is also significant in autoimmune diseases. Another post-translational modification of arginine involves methylation by protein methyltransferases.
+
+Precursor
+Arginine is the immediate precursor of nitric oxide, an important signaling molecule which can act as a second messenger, as well as an intercellular messenger which regulates vasodilation, and also has functions in the immune system's reaction to infection.
+Arginine is also a precursor for urea, ornithine, and agmatine; is necessary for the synthesis of creatine; and can also be used for the synthesis of polyamines (mainly through ornithine and to a lesser degree through agmatine, citrulline, and glutamate). The presence of asymmetric dimethylarginine (ADMA), a close relative, inhibits the nitric oxide reaction; therefore, ADMA is considered a marker for vascular disease, just as L-arginine is considered a sign of a healthy endothelium.
+
+Structure
+The amino acid side-chain of arginine consists of a 3-carbon aliphatic straight chain, the distal end of which is capped by a guanidinium group, which has a pKa of 13.8, and is therefore always protonated and positively charged at physiological pH. Because of the conjugation between the double bond and the nitrogen lone pairs, the positive charge is delocalized, enabling the formation of multiple hydrogen bonds.
+
+Research
+Growth hormone
+Intravenously administered arginine is used in growth hormone stimulation tests because it stimulates the secretion of growth hormone. A review of clinical trials concluded that oral arginine increases growth hormone, but decreases growth hormone secretion, which is normally associated with exercising. However, a more recent trial reported that although oral arginine increased plasma levels of L-arginine it did not cause an increase in growth hormone.
+
+Herpes-Simplex Virus (Cold sores)
+Research from 1964 into amino acid requirements of herpes simplex virus in human cells indicated that "...the lack of arginine or histidine, and possibly the presence of lysine, would interfere markedly with virus synthesis", but concludes that "no ready explanation is available for any of these observations".
+Further reviews conclude that "lysine's efficacy for herpes labialis may lie more in prevention than treatment." and that "the use of lysine for decreasing the severity or duration of outbreaks" is not supported, while further research is needed. A 2017 study concludes that "clinicians could consider advising patients that there is a theoretical role of lysine supplementation in the prevention of herpes simplex sores but the research evidence is insufficient to back this. Patients with cardiovascular or gallbladder disease should be cautioned and warned of the theoretical risks."
+
+High blood pressure
+A meta-analysis showed that L-arginine reduces blood pressure with pooled estimates of 5.4 mmHg for systolic blood pressure and 2.7 mmHg for diastolic blood pressure.
+Supplementation with l-arginine reduces diastolic blood pressure and lengthens pregnancy for women with gestational hypertension, including women with high blood pressure as part of pre-eclampsia. It did not lower systolic blood pressure or improve weight at birth.
+
+Schizophrenia
+Both liquid chromatography and liquid chromatography/mass spectrometric assays have found that brain tissue of deceased people with schizophrenia shows altered arginine metabolism. Assays also confirmed significantly reduced levels of γ-aminobutyric acid (GABA), but increased agmatine concentration and glutamate/GABA ratio in the schizophrenia cases. Regression analysis indicated positive correlations between arginase activity and the age of disease onset and between L-ornithine level and the duration of illness. Moreover, cluster analyses revealed that L-arginine and its main metabolites L-citrulline, L-ornithine and agmatine formed distinct groups, which were altered in the schizophrenia group. Despite this, the biological basis of schizophrenia is still poorly understood, a number of factors, such as dopamine hyperfunction, glutamatergic hypofunction, GABAergic deficits, cholinergic system dysfunction, stress vulnerability and neurodevelopmental disruption, have been linked to the aetiology and/or pathophysiology of the disease.
+
+Raynaud's phenomenon
+Oral L-arginine has been shown to reverse digital necrosis in Raynaud syndrome
+
+Safety and potential drug interactions
+L-arginine is recognized as safe (GRAS-status) at intakes of up to 20 grams per day. L-arginine is found in many foods, such as fish, poultry, and dairy products, and is used as a dietary supplement. It may interact with various prescription drugs and herbal supplements.
+
+See also
+Arginine glutamate
+AAKG
+Canavanine and canaline are toxic analogs of arginine and ornithine.
+
+References
+Sources
+Griffiths JR, Unwin RD (2016). Analysis of Protein Post-Translational Modifications by Mass Spectrometry. John Wiley & Sons. ISBN 978-1-119-25088-3.
+
+External links
+
+NIST Chemistry Webbook
+L-arginine, Mayo Clinic

@@ -1,0 +1,163 @@
+5195
+Hadith terminology
+Hadith terminology (Arabic: مصطلح الحديث, romanized: muṣṭalaḥu l-ḥadīth) is the body of terminology in [Islam](5101) which specifies the acceptability of the sayings (hadith) attributed to the [Islam](5101)ic prophet Muhammad by other early [Islam](5101)ic figures of significance such as the companions and followers/successors. Individual terms distinguish between those hadith considered rightfully attributed to their source or detail the faults of those of dubious provenance. Formally, it has been defined by Ibn Hajar al-Asqalani as: "knowledge of the principles by which the condition of the narrator and the narrated are determined." This page comprises the primary terminology used within hadith sciences.
+
+Classification of Hadith
+Terminology pertaining to a narration's origin
+Different terms are used for the origin of a narration. These terms specify whether a narration is attributed to Muhammad, a companion, a successor or a latter historical figure.
+
+Marfūʿ
+Ibn al-Salah said: "Marfūʿ (Arabic: مرفوع, Marfūʿ) refers to a narration attributed specifically to the Prophet Muhammad. This term does not refer to other than him unless otherwise specified. The category of marfuʻ is inclusive of narrations attributed to the Prophet regardless of their being muttasil, munqatiʻ or mursal among other categories."
+
+Mawquf
+According to Ibn al-Salah, "Mawquf (Arabic: موقوف, Mawqūf) refers to a narration attributed to a companion, whether a statement of that companion, an action or otherwise."
+
+Maqtu‘
+Ibn al-Salah defined maqtu‘ (مقطوع, Maqṭūʿ) as a narration attributed to a Tabi‘i (a successor of one of Muhammad's companions), whether it is a statement of that successor, an action or otherwise. In spite of the linguistic similarity, it is distinct from munqatiʻ.
+
+Terminology relating to the number of narrators in an isnad
+In hadith terminology, a hadith is divided into two categories based, essentially, upon the number of narrators mentioned at each level in a particular isnād. Consideration is given to the fewest narrators at any level of the chain of narration; thus if ten narrators convey a hadith from two others who have conveyed it from ten, it is considered ʻaziz, not mashhur.
+
+Mutawatir
+The first category is mutawatir (متواتر, Mutawātir; meaning: successive) narration. A successive narration is one conveyed by narrators so numerous that it is not conceivable that they have agreed upon an untruth thus being accepted as unquestionable in its veracity. The number of narrators is unspecified in its maximum but in the minimum it is not less than 3 ( or 5 in some scholars opinions).
+A hadith is said to be mutawatir if it was reported by a significant, though unspecified, number of narrators at each level in the chain of narration, thus reaching the succeeding generation through multiple chains of narration leading back to its source. This provides confirmation that the hadith is authentically attributed to its source at a level above reasonable doubt. This is due to its being beyond historical possibility that narrators could have conspired to forge a narration. In contrast, an ahaad hadith is a narration the chain of which has not reached a number sufficient to qualify as mutawatir.
+
+Types of mutawatir
+Hadiths can be mutawatir in both actual text and meaning:
+
+Mutawatir in wording (Mutawatir al-Lafzi)
+A hadith whose words are narrated by such a large number as is required for a mutawatir, in a manner that all the narrators are unanimous in reporting it with the same words without any substantial discrepancy.
+For example: "Muhammad said: Whoever intentionally attributes a lie against me, should prepare his seat in the Fire." This is a mutawatir hadith in its wordings because it has a minimum of seventy-four narrators. In other words, seventy-four companions of Muhammad have reported this hadith at different occasions, all with the same words. The number of those who received this hadith from the Companions is many times greater, because each of the seventy four Companions has conveyed it to a number of his students. Thus the total number of narrators of this hadith has been increasing in each successive generation and has never been less than seventy-four. All these narrators who now are hundreds in number, report it in the same words without even a minor change. This hadith is therefore mutawatir in its wording, because it cannot be imagined reasonably that such a large number of people have colluded to coin a fallacious sentence in order to attribute it to Muhammad.
+Mutwatir in meaning (Mutawatir al-Ma'Nawi)
+A hadith which is not reported by multiple narrators using the same words. The words of the narrators are different. Sometimes even the reported events are not the same. But all the narrators are unanimous in reporting a basic concept, which is common in all reports. This common concept is also ranked as a mutawatir concept.
+For example: It is reported by such a large number of narrators that Muhammad enjoined Muslims to perform two ra'kat in Fajr, four ra'kat in Dhuhr, Asr and Isha and three ra'kat in the Maghrib prayer, yet the narrations of all the reporters who reported the number of ra'kat are not in the same words. Their words are different and even the events reported by them are different. But the common feature of all the reports is the same: the exact number of ra'kat. The hadith is thus said to be mutawatir in meaning.
+
+Ahaad
+The second category, ahaad (آحاد, aahaad; meaning: singular) narration, refers to any hadith not classified as mutawatir. Linguistically, hadith ahad refers to a hadith narrated by only one narrator. In hadith terminology, it refers to a hadith not fulfilling all of the conditions necessary to be deemed mutawatir. Hadith ahad consists of three sub-classifications also relating to the number of narrators in the chain or chains of narration:
+
+Mashhur
+The first category is mashhur (مشهور, Mashhūr; meaning: famous). This refers to hadith conveyed by three or more narrators but not considered mutawatir.
+
+ʻAziz
+An ʻaziz (عزيز, ‘azīz) hadith is any hadith conveyed by two narrators at every point in its isnād (chain of narrators).
+
+Gharib
+A gharib (غريب, ǧārib; meaning: strange) hadith is one conveyed by only one narrator. Al-Tirmidhi's understanding of a gharib hadith, concurs to a certain extent with that of the other traditionists. According to him a hadith may be classified as gharib for one of the following three reasons:
+
+Firstly, a hadith may be classified as gharib since it is narrated from one chain only. Al-Tirmidhi said an example is a tradition from Hammad ibn Salamah from Abu 'Usharai on the authority of his father who asked Muhammad whether the slaughtering of an animal is confined to the gullet and throat. Muhammad said that stabbing the thigh will also suffice.
+Secondly, a tradition can be classified as gharib due to an addition in the text, though it will be considered a sound tradition, if that addition is reported by a reliable reporter. The example cited by al-Tirmidhi is a tradition narrated through the chain of Malik (died 179 AH) from Nafi' (died 117 AH) on the authority of Ibn 'Umar (died 73 AH) who stated that Muhammad declared alms-giving at the end of Ramadan obligatory upon every Muslim, male or female, whether a free person or slave from the Muslims. However, this tradition has also been narrated by Ayyub Sakhtiyani and 'Ubaid Allah ibn 'Umar, without the addition "from the Muslims", hence the above-mentioned example due to the addition of "from the Muslims" in the text is classified as gharib.
+Thirdly, a tradition may be declared gharib since it is narrated through various chains of transmitters but having within one of its chains an addition in the isnād.
+
+Impact on [Islam](5101)ic law
+There are differing views as to the level of knowledge achieved by each of the two primary categories mutawatir and ahaad. One view, expressed by Ibn Hajar and others, is that a hadith mutawatir achieves certain knowledge, while ahad hadith, unless otherwise corroborated, yields speculative knowledge upon which action is not mandated.  A second view, held by Dawud al-Zahiri, Ibn Hazm and others – and, reportedly, the position of Malik ibn Anas – is that hadith ahad achieves certain knowledge as well. According to Ibn Hazm, "the narration conveyed by a single, upright narrator conveying from another of a similar description until reaching the Prophet mandates both knowledge and action."
+
+Terminology relating to the authenticity of a hadith
+Ibn al-Salah said, "Hadith, in the view of scholars of this discipline, fall into the divisions of 'sound' (ṣaḥīḥ), 'fair' (ḥasan), and 'weak' (ḍaʻīf)." While these divisions are further broken down into sub-categories each with their own terminology, the final outcome is essentially to determine whether a particular hadith is ṣaḥīḥ or ḍaʻīf.
+The individual terms are numerous, with Ibn al-Salah including sixty-five in his Introduction to the Science of Hadith and then commenting: "This is the end of them, but not the end of what is possible, as this is subject to further particularization to an innumerable extent." Al-Bulqini commented on this by saying, "We have added five more categories, making it seventy." Ibn al-Mulaqqin counted the various types as being "more than eighty" and al-Suyuti included ninety-three in Tadrib al-Rawi. Muḥammad al-Ḥāzimī acknowledged the numerous terms, reaching almost 100 by his own count, saying: "Be aware that the science of hadith consists of numerous types reaching almost a hundred. Each type is an independent discipline in and of itself and were a student to devote his life to them he would not reach their end."
+
+Ṣaḥīḥ
+Sahih (Arabic: صحيح, Ṣaḥīḥ) may be translated as "authentic" or "sound." Ibn Hajar defines a hadith that is ṣaḥīḥ lidhātihi ("ṣaḥīḥ in and of itself") as a singular narration (ahaad; see below) conveyed by a trustworthy, completely competent person, either in his ability to memorize or to preserve what he wrote, with a muttaṣil ("connected") isnād ("chain of narration") that contains neither a serious concealed flaw (ʻillah, Arabic:علة) nor irregularity (shādhdh). He then defines a hadith that is ṣaḥīḥ lighairihi ("ṣaḥīḥ due to external factors") as a hadith "with something, such as numerous chains of narration, strengthening it."
+Ibn Hajar's definitions indicate that there are five conditions to be met for a particular hadith to be considered ṣaḥīḥ:
+
+Each narrator in the chain of narration must be trustworthy;
+Each narrator must be reliable in his ability to preserve that narration, be it in his ability to memorize to the extent that he can recall it as he heard it, or, that he has written it as he heard it and has preserved that written document unchanged;
+The isnād must be connected (muttasil) insofar as it is at least possible for each narrator in the chain to have received the hadith from a predecessor;
+The hadith, including its isnād, is free of ʻillah (hidden detrimental flaw or flaws, e.g. the establishment that two narrators, although contemporaries, could not have shared the hadith, thereby breaking the isnād.)
+The hadith is free of irregularity, meaning that it does not contradict another hadith already established (accepted).
+A number of books were authored in which the author stipulated the inclusion of ṣaḥīḥ hadith alone.
+According to Sunni [Islam](5101), which reflects the beliefs followed by 80–90% of adherents of [Islam](5101) worldwide, this was only achieved by the first two books in the following list:
+
+Ṣaḥīḥ al-Bukhārī. Considered the most authentic book after the Quran.
+Ṣaḥīḥ Muslim. Considered the next most authentic book after Ṣaḥīḥ al-Bukhārī.
+Ṣaḥīḥ ibn Khuzaymah. Al-Suyuti was of the opinion that Ṣaḥīḥ Ibn Khuzaymah was at a higher level of authenticity than Ṣaḥīḥ Ibn Ḥibbān.
+Ṣaḥīḥ Ibn Ḥibbān. Al-Suyuti also concluded that Ṣaḥīḥ Ibn Ḥibbān was more authentic than Al-Mustadrak alaa al-Ṣaḥīḥain.
+al-Mustadrak ʻalā al-Ṣaḥīḥayn, by Hakim al-Nishaburi.
+Al-Āhādith al-Jiyād al-Mukhtārah min mā laysa fī Ṣaḥīḥain by Ḍiyāʼ al-Dīn al-Maqdisī, authenticity considered.
+Different branches of [Islam](5101) refer to different collections of hadiths or give preference to different ones.
+
+Ḥasan
+Ḥasan (حَسَن meaning "good") is used to describe hadith whose authenticity is not as well-established as that of ṣaḥīḥ hadith, but sufficient for use as supporting evidence.
+Ibn Hajar defines a hadith that is ḥasan lithatihi – "ḥasan in and of itself" – with the same definition a ṣaḥīḥ hadith except that the competence of one of its narrators is less than complete; while a hadith that is ḥasan ligharihi ("ḥasan due to external factors") is determined to be ḥasan due to corroborating factors such as numerous chains of narration. He states that it is then comparable to a ṣaḥīḥ hadith in its religious authority. A ḥasan hadith may rise to the level of being ṣaḥīḥ if it is supported by numerous isnād (chains of narration); in this case that hadith would be ḥasan lithatihi ("ḥasan in and of itself") but, once coupled with other supporting chains, becomes ṣaḥīḥ ligharihi ("ṣaḥīḥ due to external factors").
+
+Related terms
+Musnad
+The early scholar of hadith, Muhammad ibn Abdullah al-Hakim, defines a musnad (مسند, Musnad; meaning: supported) hadith as:
+
+A hadith which a scholar of hadith reports from his shaikh whom he has apparently heard hadith from at an age conducive to that, and likewise each shaikh having heard from his shaikh until the isnād reaches a well known Companion, and then the Messenger of Allah. An example of that is:
+Abu 'Amr 'Uthman ibn Ahmad al-Samak narrated to us in [Baghdad](1667): al-Ḥasan ibn Mukarram narrated to us: ʻUthman ibn 'Umar narrated to us: Yunus informed us from al-Zuhri from ʻAbdullah ibn Kaʻb ibn Mālik from his father Ka'b ibn Malik who sought from ibn Abi Hadrad payment of a debt the latter owed the former while in the mosque.  Their voices became raised to the extent that they were heard by the Messenger of Allah. He exited only by lifting the curtain of his apartment and said, "O Kaʻb! Relieve him of his debt," gesturing to him in way indicating by half.  So he Kaʻb said, "Yes," and the man paid him.
+To clarify this example I have given: my having heard from Ibn al-Samak is apparent, his having heard from al-Ḥasan ibn al-Mukarram is apparent, likewise Hasan having heard from 'Uthman ibn 'Umar and 'Uthman ibn 'Umar from Yunus ibn Yazid – this being an elevated chain for 'Uthman. Yunus was known for having heard from al-Zuhri, as was al-Zuhri from the sons of Ka'b ibn Malik, and the sons of Ka'b ibn Malik from their father and Ka'b from the Messenger as he was known for being a Companion. This example I have made applies to thousands of hadith, citing just this one hadith regarding the generality of this category.
+
+Musnad format of hadith collection
+A musnad hadith should not be confused with the type of hadith collection similarly termed musannaf, which is arranged according to the name of the companion narrating each hadith. For example, a musnad might begin by listing a number of the hadith, complete with their respective sanads, of [Abu Bakr](5111), and then listing a number of hadith from Umar, and then Uthman ibn Affan and so on. Individual compilers of this type of collection may vary in their method of arranging those Companions whose hadith they were collecting. An example of this type of book is the Musnad of Ahmad.
+
+Muttaṣil
+Muttasil (متصل, Muttaṣil) refers to a continuous chain of narration in which each narrator has heard that narration from his teacher.
+
+Ḍaʻīf
+Da‘if (ضعيف, Ḍaʻīf) is the categorization of a hadith as "weak". Ibn Hajar described the cause of a hadith being classified as weak as "either due to discontinuity in the chain of narrators or due to some criticism of a narrator." This discontinuity refers to the omission of a narrator occurring at different positions within the isnād and is referred to using specific terminology accordingly as discussed below.
+
+Categories of discontinuity
+Muʻallaq
+Discontinuity in the beginning of the isnād, from the end of the collector of that hadith, is referred to as muʻallaq (معلق meaning "suspended"). Muʻallaq refers to the omission of one or more narrators. It also refers to the omission of the entire isnād, for example, (an author) saying only: "The Prophet said..." In addition, this includes the omission of the isnād except for the companion, or the companion and successor together.
+
+Mursal
+Mursal (مرسل meaning "sent or transmitted"): if the narrator between the Successor and Muhammad is omitted from a given isnād, the hadith is mursal, e.g., when a Successor says, "The Prophet said ..." Since Ahlus-Sunnah (Sunnis) believe in the uprightness of all Sahaba, they do not view it as a necessary problem if a Successor does not mention what Sahaba he received the hadith from. This means that if a hadith has an acceptable chain all the way to a Successor, and the successor attributes it to an unspecified companion, the isnād is considered acceptable. There are, however, different views in some cases: If the Successor is a young one and it is probable that he omitted an elder Successor who in turn reported from a companion. The opinion held by Imam Malik and all Maliki jurists is that the mursal of a trustworthy person is valid, just like a musnad hadith. This view has been developed to such an extreme that to some of them, the mursal is even better than the musnad, based on the following reasoning: "The one who reports a musnad hadith leaves you with the names of the reporters for further investigation and scrutiny, whereas the one who narrates by way of irsal (the absence of the link between the successor and the Prophet), being a knowledgeable and trustworthy person himself, has already done so and found the hadith to be sound. In fact, he saves you from further research." Others reject the mursal of a younger Successor.
+
+Muʻḍal
+Mu‘dal (معضل, Muʻḍal; meaning: problematic) describes the omission of two or more consecutive narrators from the isnād.
+
+Munqaṭiʻ
+A hadith described as munqaṭiʻ (منقطع; meaning: disconnected) is one in which the chain of people reporting the hadith (the isnād) is disconnected at any point. The isnād of a hadith that appears to be muttaṣil but one of the reporters is known to have never heard hadith from his immediate authority, even though they lived at the same time, is munqaṭiʻ. It is also applied when someone says "A man told me...".
+
+Other types of weakness
+Munkar
+Munkar (منكر meaning: denounced) – According to Ibn Hajar, if a narration which goes against another authentic hadith is reported by a weak narrator, it is known as munkar. Traditionists as late as Ahmad used to simply label any hadith of a weak reporter as munkar.
+
+Shādh
+Shādh (شاذ; meaning: anomalous) — According to al-Shafi'i, a shādhdh hadith is one which is reported by a trustworthy person who contradicts the narration of a person more reliable than he is. It does not include a hadith which is unique in its matn and is not narrated by someone else.
+
+Muḍṭarib
+Mudtarib (مضطرب, Muḍṭarib; meaning: shaky) – According to Ibn Kathir, if reporters disagree about a particular shaikh, or about some other points in the isnād or the matn, in such a way that none of the opinions can be preferred over the others, and thus there is irreconcilable uncertainty, such a hadith is called muḍṭarib.
+An example is the following hadith attributed to [Abu Bakr](5111):
+
+"O Messenger of Allah! I see you getting older?" He (may Allah bless him and grant him peace) replied, "What made me old are Surah Hud and its sister surahs."
+The hadith scholar Al-Daraqutni commented: "This is an example of a muḍṭarib hadith. It is reported through Abu Ishaq, but as many as ten different opinions are held regarding this isnād. Some report it as mursal, others as muttasil; some take it as a narration of [Abu Bakr](5111), others as one of Sa'd or ʻA'ishah. Since all these reports are comparable in weight, it is difficult to prefer one above another. Hence, the hadith is termed as muḍṭarib."
+
+Mawḍūʻ
+A hadith that is mawḍūʻ (موضوع) is one determined to be fabricated and cannot be attributed to its origin. Al-Dhahabi defines mawḍūʻ as a hadith of which the text contradicts established norms of Muhammad's sayings or of which the reporters include a liar.
+
+Recognizing fabricated hadith
+Some of these hadith were known to be spurious by the confession of their inventors. For example, Muhammad ibn Sa`id al-Maslub used to say, "It is not wrong to fabricate an isnād for a sound statement." Another notorious inventor, ʻAbd al-Karim Abu 'l-Auja, who was killed and crucified by Muhammad ibn Sulaiman ibn ʻAli, governor of Basra, admitted that he had fabricated four thousand hadith declaring lawful the prohibited and vice versa.
+Mawḍūʻ narrations are also recognised by external evidence related to a discrepancy found in the dates or times of a particular incident. For example, when the second caliph, Umar ibn al-Khattab decided to expel the Jews from Khaybar, some Jewish dignitaries brought a document to Umar attempting to prove that Muhammad had intended that they stay there by exempting them from the jizya (tax on non-Muslims under the rule of Muslims); the document carried the witness of two companions, Sa'd ibn Mua'dh and Mu'awiyah ibn Abi Sufyan. Umar rejected the document outright, knowing that it was fabricated because the conquest of Khaybar took place in 6 AH, whereas Sa'd ibn Mua'dh died in 5 AH just after the Battle of the Trench, and Mu'awiyah embraced [Islam](5101) in 8 AH, after the conquest of Mecca.
+
+Collections
+A number of hadith specialists have collected fabricated hadith separately in order to distinguish them from other hadith. Examples include:
+
+Al-Maudu`at by Abul-Faraj Ibn Al-Jawzi.
+Kitab al-Abatil by al-Jauraqany.
+Al-La'ali al- Masnu'ah fi 'l-Ahadith al-Mawduʻah by al-Suyuti.
+Al-Mawduʻat by Ali al-Qari.
+Al-Fawaid al-Majmu'ah fi al-Ahaadeeth al-Mawdu'ah by Muhammad ash-Shawkani.
+As in any [Islam](5101)ic discipline, there is a rich history of literature describing the principles and fine points of hadith sciences. Ibn Hajar provides a summation of this development with the following:
+
+Works authored in the terminology of the people of hadith have become plentiful from the Imams, both old and contemporary:
+From the first of those who authored a work on this subject is the Judge, Abū Muḥammad al-Rāmahurmuzī in his book, al-Muhaddith al-Faasil, however, it was not comprehensive.
+And al-Hakim, Abū Abd Allah an-Naysaburi, authored a book, however, it was neither refined nor well arranged.
+And following him, Aboo Nu’aym al-Asbahaanee, who wrote a mustakhraj upon the book of the later, (compiling the same narrations al-Hakim cited using his own isnād). However, some things remain in need of correction.
+And then came al-Khatib [Abu Bakr](5111) al-Bagdadi, authoring works in the various disciplines of the science of hadith a book entitled al-Kifaayah and in its etiquettes a book entitled al-Jamiʻ Li ʻAdab ash-Sheikh wa as-Saamiʻ. Scarce is the discipline from the disciplines of the science of hadith that he has not written an individual book regarding, as al-Hafith [Abu Bakr](5111) ibn Nuqtah said: "Every objective person knows that the scholars of hadith coming after al-Khatib are indebted to his works."  After them came others, following al-Khateeb, taking their share from this science.
+al-Qadi ‘Eyaad compiled a concise book naming it al-ʻIlmaa'.
+Abū Hafs al-Mayyaanajiyy authored a work giving it the title Ma Laa yasu al-Muhaddith Jahluhu or That Which a Hadith Scholar is Not Allowed Ignorance Of. There are numerous examples of this which have gained popularity and were expanded upon seeking to make plentiful the knowledge relating to these books and others abridged making easy their understanding.
+This was prior to the coming of the memorizer and jurist Taqiyy ad-Deen Aboo ‘Amrin ‘Uthmaan ibn al-Salah ‘Abd ar-Rahmaan ash-Shahruzuuree, who settled in Damascus.  He gathered, at the time he had become a teacher of hadith at the Ashrafiyyah school, his well known book, editing the various disciplines mentioned in it. He dictated it piecemeal and, as a result, did not succeed in providing it with an appropriate order. He occupied himself with the various works of al-Khatib, gathering his assorted studies, adding to them from other sources the essence of their benefits. So he combined in his book what had been spread throughout books other than it. It is due to this that people have focused their attention upon it, following its example. Innumerable are those who rendered his book into poetry, abridged it, sought to complete what had been left out of it or left out any extraneous information; as well as those who opposed him in some aspect of his work or supported him.
+
+See also
+Biographical evaluation
+Criticism of Hadith
+Hadith
+List of hadith authors and commentators
+Oral Torah
+Prophetic biography
+
+References
+
+
+== Further reading ==

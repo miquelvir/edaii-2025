@@ -1,0 +1,37 @@
+848
+Borland Kylix
+Borland Kylix is a compiler and integrated development environment (IDE) formerly sold by Borland, but later discontinued. It is a Linux software development environment based on Borland Delphi and Borland [C++](640) Builder, which runs under Microsoft Windows. Continuing Delphi's classical Greek theme, Kylix is the name for an ancient Greek drinking cup. The closest supported equivalent to Kylix is the free Lazarus IDE package, designed to be code-compatible with Delphi. As of 2010 the project has been resurrected in the form of Delphi cross compiler for Mac and Linux, as shown in the Embarcadero's Delphi and [C++](640) Builder roadmap. As of September 2011 with Kylix discontinued the framework for cross-platform development by Embarcadero is FireMonkey.
+
+Features
+Kylix supports application programming using Object Pascal and [C++](640), and is particularly suited to the development of command line utilities and (especially) GUI applications, but not well suited to low-level programming, such as the development of device drivers or kernel modules.
+Though it interacts poorly with many Linux window managers, the IDE is basically the Delphi 5 IDE running on top of Wine, with a fast native code compiler, and tools for code navigation, auto-completion, parameter-name tooltips, and so on. The debugger is capable, but very slow to load, and can crash the whole IDE.
+Kylix features CLX, a Linux version of Borland's VCL Visual Component Library, which is (mostly) a component-based control library, not unlike Visual Basic or [.NET](801)'s WinForms. Like other component-oriented libraries, CLX contains both visual components (such as buttons and panels) and non-visual components (such as timers). The IDE makes it easy to select components and place them on a form, editing properties and event handlers with an "Object Inspector".
+Delphi's VCL is an object-oriented wrapper over raw Win32 controls, that maps Win32 messages and [API](708)s to properties and events and is thus significantly easier to use than the raw [API](708). As such, VCL is tightly bound to Windows, and Kylix's CLX is built on top of Trolltech's Qt library. CLX is not 100% compatible with VCL, and most Delphi programs require some effort to port to Kylix, even if they stick to the Borland libraries and avoid any direct OS calls. However, Qt is a portable library and, starting with Delphi 6, Borland provided CLX on Windows as well, providing a measure of back-portability.
+
+History
+On September 28, 1999, Inprise Corporation announced its development of a high performance Linux application development environment that will support C, [C++](640), and Delphi development, code named "Kylix", with release date set for year 2000.
+On March 24, 2000, Inprise/Borland Corporation hosted more than 200 third-party authors, consultants, trainers and tool and component vendors for the first in a series of worldwide events designed to prepare third party products and services for Kylix.
+On March 7, 2001, Borland Software Corporation announced the release of Borland Kylix, after it had been offered to U.S. customers of Dell Precision 220, 420 and 620 Workstations beginning in February 2001.
+On October 23, 2001, Borland Software Corporation announced the release of Borland Kylix 2.
+On August 13, 2002 Borland Software Corporation announced the release of Borland Kylix 3.
+In 2005, Borland reportedly moved to discontinue Kylix development.
+Danny Thorpe seems to have been largely responsible for getting Borland to fund a Linux version of Delphi, and he did a lot of the work necessary to make the Delphi compiler produce Linux executables. While both Delphi and Kylix run on 32-bit Intel processors, Linux uses different register conventions than Windows and, of course, the executable and library file formats are different; see DLL, EXE, ELF for details.
+
+Legacy
+In 2009 Embarcadero posted the current Delphi and [C++](640) Builder roadmap. As part of project Delphi "X" cross compilation for Mac and Linux was planned.
+Embarcadero is planning to release a new version of Kylix (without backward compatibility), but it will not hold a special name (Kylix). It will be a part of Delphi (and [C++](640)Builder) where one can code and compile in Delphi Windows IDE and deploy to Linux. [C++](640)Builder version will be also available.
+This roadmap item remained a couple versions on the roadmap as point for "future versions" but disappeared from roadmaps in the XE3-4 timeframe. Parts of project X went in production with XE2 and 3 though, but for mobile targets and OS X.
+In 8 Feb 2016, Embarcadero Technologies, Inc. announced an updated roadmap that indicates Linux server support in upcoming RAD Studio 10.2 (code name "Godzilla") development track, aka the Fall release. Linux desktop support was not mentioned. On March 22, 2017, Embarcadero Technologies, Inc. announced the release of RAD Studio 10.2.
+
+See also
+Borland Delphi
+Free Pascal
+Lazarus
+Object Pascal
+Embarcadero Technologies
+
+References
+External links
+Borland Kylix Borland Software Corporation
+Darren Kosinski. How Borland embedded Mozilla in Kylix 2 Embarcadero Technologies, Inc.
+Crosskylix 1 a free toolkit to integrate the Borland Kylix (Delphi for Linux) compiler into the Delphi Windows IDE.

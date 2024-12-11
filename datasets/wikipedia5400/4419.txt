@@ -1,0 +1,284 @@
+4419
+Agreement (linguistics)
+In linguistics, agreement or concord (abbreviated agr) occurs when a word changes form depending on the other words to which it relates. It is an instance of inflection, and usually involves making the value of some grammatical category (such as gender or person) "agree" between varied words or parts of the sentence.
+For example, in Standard English, one may say I am or he is, but not "I is" or "he am". This is because English grammar requires that the verb and its subject agree in person. The pronouns I and he are first and third person respectively, as are the verb forms am and is. The verb form must be selected so that it has the same person as the subject in contrast to notional agreement, which is based on meaning.
+
+By category
+Agreement generally involves matching the value of some grammatical category between different constituents of a sentence (or sometimes between sentences, as in some cases where a pronoun is required to agree with its antecedent or referent). Some categories that commonly trigger grammatical agreement are noted below.
+
+Person
+Agreement based on grammatical person is found mostly between verb and subject. An example from English (I am vs. he is) has been given in the introduction to this article.
+Agreement between pronoun (or corresponding possessive adjective) and antecedent also requires the selection of the correct person. For example, if the antecedent is the first person noun phrase Mary and I, then a first person pronoun (we/us/our) is required; however, most noun phrases (the dog, my cats, Jack and Jill, etc.) are third person, and are replaced by a third person pronoun (he/she/it/they etc.).
+
+Number
+Agreement based on grammatical number can occur between verb and subject, as in the case of grammatical person discussed above. In fact the two categories are often conflated within verb conjugation patterns: there are specific verb forms for first person singular, second person plural and so on. Some examples:
+
+I really am (1st pers. singular) vs. We really are (1st pers. plural)
+The boy sings (3rd pers. singular) vs. The boys sing (3rd pers. plural)
+Again as with person, there is agreement in number between pronouns (or their corresponding possessives) and antecedents: 
+
+The girl did her job vs. The girls did their job
+Agreement also occurs between nouns and their specifier and modifiers, in some situations. This is common in languages such as French and Spanish, where articles, determiners and adjectives (both attributive and predicative) agree in number with the nouns they qualify:
+
+le grand homme ("the great man") vs. les grands hommes ("the great men")
+el hombre alto ("the tall man") vs. los hombres altos ("the tall men")
+In English this is not such a common feature, although there are certain determiners that occur specifically with singular or plural nouns only:
+
+One big car vs. Two big cars
+Much great work vs. Many great works
+
+Gender
+In languages in which grammatical gender plays a significant role, there is often agreement in gender between a noun and its modifiers. For example, in French:
+
+le grand homme ("the big man"; homme is masculine) vs. la grande chaise ("the big chair"; chaise is feminine)
+Such agreement is also found with predicate adjectives: l'homme est grand ("the man is big") vs. la chaise est grande ("the chair is big"). However, in some languages, such as German, this is not the case; only attributive modifiers show agreement:
+
+der große Mann ("the big man", with inflection) vs. der Mann ist groß ("the man is big", without)
+In the case of verbs, gender agreement is less common, although it may still occur, for example in Arabic verbs where the second and third persons take different inflections for masculine and feminine subjects. In the French compound past tense, the past participle – formally an adjective – agrees in certain circumstances with the subject or with an object (see passé composé for details). In Russian and most other Slavic languages, the form of the past tense agrees in gender with the subject, again due to derivation from an earlier adjectival construction.
+There is also agreement in gender between pronouns and their antecedents. Examples of this can be found in English (although English pronouns principally follow natural gender rather than grammatical gender):
+
+The man reached his destination vs. The ship reached her/its destination
+For more detail see Gender in English.
+
+Case
+In languages that have a system of cases, there is often agreement by case between a noun and its modifiers. For example, in German:
+
+der gute Mann ("the good man", nominative case) vs. des guten Mann(e)s ("of the good man", genitive case)
+In fact, the modifiers of nouns in languages such as German and Latin agree with their nouns in number, gender and case; all three categories are conflated together in paradigms of declension.
+Case agreement is not a significant feature of English (only personal pronouns and the pronoun who have any case marking). Agreement between such pronouns can sometimes be observed:
+
+Who came first – he or his brother? vs. Whom did you see – him or his brother?
+
+Alliterative agreement
+A rare type of agreement that phonologically copies parts of the head rather than agreeing with a grammatical category. For example, in Bainouk:
+
+In this example, what is copied is not a prefix, but rather the initial syllable of the head "river".
+
+By language
+Languages can have no conventional agreement whatsoever, as in Japanese or Malay; barely any, as in English; a small amount, as in spoken French; a moderate amount, as in Greek or Latin; or a large amount, as in Swahili.
+
+English
+Modern English does not have a particularly large amount of agreement, although it is present.
+Apart from verbs, the main examples are the determiners “this” and “that”, which become “these” and “those” respectively when the following noun is plural:
+
+this woman — these women
+that dog — those dogs
+All regular verbs (and nearly all irregular ones) in English agree in the third-person singular of the present indicative by adding a suffix of either -s or -es.  The latter is generally used after stems ending in the sibilants sh, ch, ss, or zz (e.g. he rushes, it lurches, she amasses, it buzzes.)
+Present tense of to love:
+
+In the present tense (indicative mood), the following verbs have irregular conjugations for the third-person singular:
+
+to have: has
+to do: does
+to say: says
+Note that there is a distinction between irregular verb conjugations in the spoken language and irregular spellings of words in the written language. Linguistics generally concerns itself with the natural, spoken language, and not with spelling conventions in the written language.  The verb to go is often given as an example of a verb with an irregular present tense conjugation, on account of adding "-es" instead of just "-s" for the third person singular conjugation. However, this is merely an arbitrary spelling convention. In the spoken language, the present tense conjugation of to go is entirely regular. If we were to classify to go as irregular based on the spelling of goes, then by the same reasoning, we would have to include other regular verbs with irregular spelling conventions such as to veto/vetoes, to echo/echoes, to carry/carries, to hurry/hurries, etc. In contrast, the verb to do is actually irregular in its spoken third-person singular conjugation, in addition to having a somewhat irregular spelling.  While the verb do rhymes with shoe, its conjugation does does not rhyme with shoes; the verb does rhymes with fuzz.
+Conversely, the verb to say, while it may appear to be regular based on its spelling, is in fact irregular in its third person singular present tense conjugation: Say is pronounced /seɪ/, but says is pronounced /sɛz/. Say rhymes with pay, but says does not rhyme with pays.
+The highly irregular verb to be is the only verb with more agreement than this in the present tense.
+Present tense of to be:
+
+In English, defective verbs generally show no agreement for person or number, they include the modal verbs: can, may, shall, will, must, should, ought.
+In Early Modern English agreement existed for the second person singular of all verbs in the present tense, as well as in the past tense of some common verbs.  This was usually in the form -est, but -st and -t also occurred.  Note that this does not affect the endings for other persons and numbers.
+Example present tense forms: thou wilt, thou shalt, thou art, thou hast, thou canst.
+Example past tense forms: thou wouldst, thou shouldst, thou wast, thou hadst, thou couldst
+Note also the agreement shown by to be even in the subjunctive mood.
+
+However, for nearly all regular verbs, a separate thou form was no longer commonly used in the past tense.  Thus the auxiliary verb to do is used, e.g. thou didst help, not *thou helpedst.
+Here are some special cases for subject–verb agreement in English:
+Always Singular
+
+Indefinite pronouns like one, all, everyone, everything, everybody, nothing, nobody, anyone, anything, anybody, another, etc. are treated as singular.(at least in formal written English)
+- All's well that ends well.
+- One sows, another reaps.
+- Together Everyone Achieves More–that's why we're a TEAM.
+- If wealth is lost, nothing is lost. If health is lost, something is lost. If the character is lost, everything is lost.
+- Nothing succeeds like success.
+Exceptions: None is construed in the singular or plural as the sense may require, though the plural is commonly used. When none is clearly intended to mean not one, it should be followed by a singular verb. The SAT testing service, however, considers none to be strictly singular.
+- None so deaf as those who don't hear.
+- None prosper by begging.
+
+The pronouns neither and either are singular  although they seem to be referring to two things.
+Words after each, every, and many a are treated as singular.
+- Every dog is a lion at home.
+- Many a penny makes a pound.
+- Each man and each woman has a vote.
+Exceptions: When the subject is followed by each, the verb agrees to the original subject.
+- Double coincidence of wants occurs when two parties each desire to sell what the other exactly wants to buy.
+
+A measurement or quantity is treated as singular.
+- Thousand dollars is a high price to pay.
+Exceptions: Ten dollars were scattered on the floor. (= Ten dollar bills)
+Exceptions: Fraction or percentage can be singular or plural based on the noun that follows it.
+- Half a loaf is better than no bread.
+-  One in three people globally do not have access to safe drinking water.
+
+A Question with who or what takes a singular verb.
+- Who is to bell the cat?
+- A food web is a graphical representation of what-eats-what in an ecosystem.
+
+A mathematical expression is treated as singular.
+- Two and two is four.
+Always Plural
+
+Two or more subjects joined by and take a plural verb.
+- The MD and the CEO of the company have arrived.
+- Time and tide wait for none.
+- Weal and woe come by turns.
+- Day and night are alike to a blind man.
+Exceptions: If the nouns, however, suggest one idea or refer to the same thing or person, the verb is singular.
+- The good and generous thinks the whole world is friendly.
+- The new bed and breakfast opens this week.
+- The MD and CEO has arrived.
+Exceptions: Words joined to a subject by with, in addition to, along with, as well (as), together with, besides, not, etc. are parenthetical and the verb agrees with the original subject.
+
+A quantity expressing a certain number of items is plural. E.g.- dozen, score
+- One cow breaks the fence, and a dozen leap it.
+- A dozen of eggs cost around $1.5.
+- 1 mole of oxygen react with 2 moles of hydrogen gas to form water.
+
+A Phrase of the form The+[Adjective](4205) is plural.
+- The rich plan for tomorrow, the poor for today.
+
+Some words appear singular but are plural: police, cattle, etc.
+- Where the cattle stand together, the lion lies down hungry.
+
+When the word enemy is used in the sense of armed forces another nation a plural verb is used.
+Singular or Plural
+
+When subjects are joined by or, nor, not only...but also, etc. the verb agrees with the nearer subject. (Rule of Proximity)
+- Success or failure depends on individuals.
+- Neither I nor you are to blame.
+- Either you or he has to go.
+(But at times, it is considered better to reword such grammatically correct but awkward sentences.)
+
+Objects with two parts such as dresses like trousers, pants, gloves, breeches, jeans, tights, shorts, pajamas, drawers, etc. and instruments like scissors, tweezers, shears, binoculars, tongs, glasses, specs, bellows, pincers, etc. take a plural verb when used in the crude form and are singular when used with a pair of.
+A collective noun is singular when thought of as a unit and plural when the individuals are considered.
+- The jury has arrived at a unanimous decision.
+- The committee are divided in their opinion.
+- His family is quite large.
+- His family have given him full support in his times of grief.
+- There's a huge audience in the gallery today.
+- The audience are requested to take their seats.
+Exceptions: British English, however, tends to treat team and company names as plural.
+- India beat Sri Lanka by six wickets in a pulsating final to deliver World Cup glory to their cricket-mad population for the first time since 1983. (BBC)
+- India wins cricket World Cup for 1st time in 28 years. (Washington Post)
+
+Phrases like more than one, majority of are singular or plural based on the noun it modifies.
+- There's more than one way to skin a cat.
+
+ Pains and means can be singular or plural but the construction must be consistent. In the sense of wealth, means always takes a plural verb. Barracks, headquarters, whereabouts, and aims can take a singular verb, as well as the plural verb.
+
+Latin
+Compared with English, Latin is an example of a highly inflected language. The consequences for agreement are thus:
+Verbs must agree in person and number, and sometimes in gender, with their subjects.  Articles and adjectives must agree in case, number and gender with the nouns they modify.
+Sample Latin verb: the present indicative active of portare (portar), to carry:
+
+porto -  I carry
+portas - you singular carry
+portat - he carries
+portamus - we carry
+portatis - you plural carry
+portant - they carry
+In Latin, a pronoun such as "ego" and "tu" is only inserted for contrast and selection. Proper nouns and common nouns functioning as subject are nonetheless frequent. For this reason, Latin is described as a null-subject language.
+
+French
+Spoken French always distinguishes the second person plural, and the first person plural in formal speech, from each other and from the rest of the present tense in all verbs in the first conjugation (infinitives in -er) other than aller. The first person plural form and pronoun (nous) are now usually replaced by the pronoun on (literally: "one") and a third person singular verb form in Modern French. Thus, nous travaillons (formal) becomes on travaille. In most verbs from the other conjugations, each person in the plural can be distinguished among themselves and from the singular forms, again, when using the traditional first person plural. The other endings that appear in written French (i.e.: all singular endings, and also the third person plural of verbs other than those with infinitives in -er) are often pronounced the same, except in liaison contexts. Irregular verbs such as être, faire, aller, and avoir possess more distinctly pronounced agreement forms than regular verbs.
+An example of this is the verb travailler, which goes as follows (the single words in italic type are pronounced /tʁa.vaj/):
+
+je travaille
+tu travailles
+il travaille
+nous travaillons, or on travaille
+vous travaillez
+ils travaillent
+On the other hand, a verb like partir has (the single words in italic type are pronounced /paʁ/):
+
+je pars
+tu pars
+il part
+nous partons, or on part
+vous partez
+ils partent
+The final S or T is silent, and the other three forms sound different from one another and from the singular forms.
+[Adjective](4205)s agree in gender and number with the nouns that they modify in French. As with verbs, the agreements are sometimes only shown in spelling since forms that are written with different agreement suffixes are sometimes pronounced the same (e.g. joli, jolie); although in many cases the final consonant is pronounced in feminine forms, but silent in masculine forms (e.g. petit vs. petite). Most plural forms end in -s, but this consonant is only pronounced in liaison contexts, and it is determinants that help understand if the singular or plural is meant. The participles of verbs agree in gender and number with the subject or object in some instances.
+Articles, possessives and other determinants also decline for number and (only in the singular) for gender, with plural determinants being the same for both genders. This normally produces three forms: one for masculine singular nouns, one for feminine singular nouns, and another for plural nouns of either gender:
+
+Definite article: le, la, les
+Indefinite article: un, une, des
+Partitive article: du, de la, des
+Possessives (for the first person singular): mon, ma, mes
+Demonstratives: ce, cette, ces
+Notice that some of the above also change (in the singular) if the following word begins with a vowel: le and la become l′, du and de la become de l′, ma becomes mon (as if the noun  were masculine) and ce becomes cet.
+
+Hungarian
+In Hungarian, verbs have polypersonal agreement, which means they agree with more than one of the verb's arguments: not only its subject but also its (accusative) object. Difference is made between the case when there is a definite object and the case when the object is indefinite or there is no object at all. (The adverbs do not affect the form of the verb.) Examples: Szeretek (I love somebody or something unspecified), szeretem (I love him, her, it, or them, specifically), szeretlek (I love you); szeret (he loves me, us, you, someone, or something unspecified), szereti (he loves her, him, it, or them specifically). Of course, nouns or pronouns may specify the exact object. In short, there is agreement between a verb and the person and number of its subject and the specificity of its object (which often refers to the person more or less exactly).
+
+See Definite and indefinite conjugations
+The predicate agrees in number with the subject and if it is copulative (i.e., it consists of a noun/adjective and a linking verb), both parts agree in number with the subject. For example: A könyvek érdekesek voltak "The books were interesting" ("a": the, "könyv": book, "érdekes": interesting, "voltak": were): the plural is marked on the subject as well as both the adjectival and the copulative part of the predicate.
+Within noun phrases, adjectives do not show agreement with the noun, though pronouns do. e.g. a szép könyveitekkel "with your nice books" ("szép": nice):  the suffixes of the plural, the possessive "your" and the case marking "with" are only marked on the noun.
+
+Scandinavian languages
+[Adjective](4205)s
+In the Scandinavian languages, adjectives (both attributive and predicative) are declined according to the gender, number, and definiteness of the noun they modify. In Icelandic and Faroese, adjectives are also declined according to grammatical case, unlike the other Scandinavian languages.
+In some cases in Swedish, Norwegian and Danish, adjectives and participles as predicates appear to disagree with their subjects. This phenomenon is referred to as pancake sentences.
+
+Examples (Norwegian)
+En liten gnist (a small spark)
+Ei lita hytte (a small cabin)
+Et lite tre (a small tree)
+De små barna (the small children)
+Flammen er liten (the fire is small)
+Hytta er lita (the cabin is small)
+Treet er lite (the tree is small)
+Barna er små (the children are small)
+Den lille gutten (the small boy)
+
+Participles
+In Norwegian nynorsk, Swedish, Icelandic and Faroese the past participle must agree in gender, number and definiteness when the participle is in an attributive or predicative position. In Icelandic and Faroese, past participles would also have to agree in grammatical case.
+In Norwegian bokmål and Danish it is only required to decline past participles in number and definiteness when in an attributive position.
+
+Slavic languages
+Most Slavic languages are highly inflected, except for Bulgarian and Macedonian. The agreement is similar to Latin, for instance between adjectives and nouns in gender, number, case and animacy (if counted as a separate category). The following examples are from Serbo-Croatian:
+
+živim u malom stanu "I live in a small apartment" (masculine inanimate, singular, locative)
+živim u maloj kući "I live in a small house" (feminine, singular, locative)
+imam mali stan "I have a small apartment" (masculine inanimate, singular, accusative)
+imam malu kuću "I have a small house" (feminine, singular, accusative)
+imam malog psa "I have a small dog" (masculine animate, singular, accusative)
+Verbs have 6 different forms in the present tense, for three persons in singular and plural. As in Latin, subject is frequently dropped.
+Another characteristic is agreement in participles, which have different forms for different genders:
+
+ja sam jela "I was eating" (female speaking)
+ja sam jeo "I was eating" (male speaking)
+
+Swahili
+Swahili, like all other [Bantu languages](4469), has numerous noun classes. Verbs must agree in class with their subjects and objects, and adjectives with the nouns that they qualify. For example: Kitabu kimoja kitatosha (One book will be enough), Mchungwa mmoja utatosha (One orange-tree will be enough), Chungwa moja litatosha (One orange will be enough).
+There is also agreement in number. For example: Vitabu viwili vitatosha (Two books will be enough), Michungwa miwili itatosha (Two orange-trees will be enough), Machungwa mawili yatatosha (Two oranges will be enough).
+Class and number are indicated with prefixes (or sometimes their absence), which are not always the same for nouns, adjectives and verbs, as illustrated by the examples.
+
+Sign languages
+Many sign languages have developed verb agreement with person. The ASL verb for "see" (V handshape), moves from the subject to the object. In the case of a third person subject, it goes from a location indexed to the subject to the object, and vice versa. Also, in German Sign Language not all verbs are capable of subject/object verb agreement, so an auxiliary verb is used to convey this, carrying the meaning of the previous verb while still inflecting for person.   
+In addition, some verbs also agree with the classifier the subject takes. In the [American Sign Language](1185) verb for "to be under", the classifier a verb takes goes under a downward-facing B handshape (palm facing downward). For example, if a person or an animal was crawled under something, A V handshape with bent fingers would go under the palm, but if it was a pencil, a 1-handshape (pointer finger out) would go under the palm.
+
+See also
+Attraction (grammar)
+Case government
+Declension
+Gender agreement in binomial nomenclature
+Phi features
+Inflection
+Redundancy (linguistics)
+Sequence of tenses – sometimes called agreement of tenses
+Synthetic language
+
+References
+Further reading
+Corbett, Greville G. (1994). "Agreement". In Asher, R. E. (ed.). The Encyclopedia of Language and Linguistic. Oxford: Pergamon Press. pp. 54–60.
+Corbett, Greville G. (2006). Agreement. Cambridge: Cambridge University Press. ISBN 9780521001700.
+Givón, Talmy (1984). Syntax. A Functional Typological Introduction. Vol. 1. Amsterdam: John Benjamins. Chapter 10.
+Mel'čuk, Igor (2006). Aspects of the theory of morphology. Berlin; New York: Mouton de Gruyter. Chapter 1.
+Moravcsik, Edith A. (1978). "Agreement". In Greenberg, Joseph (ed.). Universals of Human Language. Vol. 4. Stanford, CA.: Stanford University Press. pp. 331–374.
+Smith PW, Mursell J, Hartmann K (2020). Smith PW, Mursell J, Hartmann K (eds.). Agree to Agree (pdf). Berlin: Language Science Press. doi:10.5281/zenodo.3528036. ISBN 978-3-96110-215-0.
+
+External links
+Agreement: A bibliography
+Tiberius, Carole; Dunstan Brown; Greville G. Corbett (2002). "Agreement". Surrey Database of Agreement. University of Surrey. doi:10.15126/SMG.11/1.

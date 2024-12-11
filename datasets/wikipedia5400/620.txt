@@ -1,0 +1,116 @@
+620
+Parameter (computer programming)
+In computer programming, a parameter or a  formal argument is a special kind of variable used in a subroutine to refer to one of the pieces of data provided as input to the subroutine. These pieces of data are the values of the arguments (often called actual arguments or actual parameters) with which the subroutine is going to be called/invoked. An ordered list of parameters is usually included in the definition of a subroutine, so that, each time the subroutine is called, its arguments for that call are evaluated, and the resulting values can be assigned to the corresponding parameters.
+Unlike argument in usual mathematical usage, the argument in computer science is the actual input expression passed/supplied to a function, procedure, or routine in the invocation/call statement, whereas the parameter is the variable inside the implementation of the subroutine. For example, if one defines the add subroutine as def add(x, y): return x + y, then x, y are parameters, while if this is called as add(2, 3), then 2, 3 are the arguments. Variables (and expressions thereof) from the calling context can be arguments: if the subroutine is called as a = 2; b = 3; add(a, b) then the variables a, b are the arguments, not the values 2, 3. See the Parameters and arguments section for more information.
+The semantics for how parameters can be declared and how the (value of) arguments are passed to the parameters of subroutines are defined by the evaluation strategy of the language, and the details of how this is represented in any particular computer system depend on the calling convention of that system. In the most common case, call by value, a parameter acts within the subroutine as a new local variable initialized to the value of the argument (a local (isolated) copy of the argument if the argument is a variable), but in other cases, e.g. call by reference, the argument variable supplied by the caller can be affected by actions within the called subroutine.
+
+Example
+The following program in the C programming language defines a function that is named "SalesTax" and has one parameter named "price". The type of price is "double" (i.e. a double-precision floating point number). The function's return type is also a double.
+
+After the function has been defined, it can be invoked as follows:
+
+In this example, the function has been invoked with the argument 10.00. When this happens, 10.00 will be assigned to price, and the function begins calculating its result. The steps for producing the result are specified below, enclosed in {}. 0.05 * price indicates that the first thing to do is multiply 0.05 by the value of price, which gives 0.50. return means the function will produce the result of 0.05 * price. Therefore, the final result (ignoring possible round-off errors one encounters with representing decimal fractions as binary fractions) is 0.50.
+
+Parameters and arguments
+The terms parameter and argument may have different meanings in different programming languages. Sometimes they are used interchangeably, and the context is used to distinguish the meaning.  The term parameter (sometimes called formal parameter) is often used to refer to the variable as found in the function declaration, while argument (sometimes called actual parameter) refers to the actual input supplied at a function call statement. For example, if one defines a function as def f(x): ..., then x is the parameter, and if it is called by a = ...; f(a) then a is the argument. A parameter is an (unbound) variable, while the argument can be a literal or variable or more complex expression involving literals and variables. In case of call by value, what is passed to the function is the value of the argument – for example, f(2) and a = 2; f(a) are equivalent calls – while in call by reference, with a variable as argument, what is passed is a reference to that variable - even though the syntax for the function call could stay the same. The specification for pass-by-reference or pass-by-value would be made in the function declaration and/or definition.
+Parameters appear in procedure definitions; arguments appear in procedure calls. In the function definition f(x) = x*x the variable x is a parameter; in the function call f(2) the value 2 is the argument of the function. Loosely, a parameter is a type, and an argument is an instance.
+A parameter is an intrinsic property of the procedure, included in its definition. For example, in many languages, a procedure to add two supplied integers together and calculate the sum would need two parameters, one for each integer. In general, a procedure may be defined with any number of parameters, or no parameters at all. If a procedure has parameters, the part of its definition that specifies the parameters is called its parameter list.
+By contrast, the arguments are the expressions supplied to the procedure when it is called, usually one expression matching one of the parameters. Unlike the parameters, which form an unchanging part of the procedure's definition, the arguments may vary from call to call. Each time a procedure is called, the part of the procedure call that specifies the arguments is called the argument list.
+Although parameters are also commonly referred to as arguments, arguments are sometimes thought of as the actual values or references assigned to the parameter variables when the subroutine is called at run-time. When discussing code that is calling into a subroutine, any values or references passed into the subroutine are the arguments, and the place in the code where these values or references are given is the parameter list. When discussing the code inside the subroutine definition, the variables in the subroutine's parameter list are the parameters, while the values of the parameters at runtime are the arguments. For example, in C, when dealing with threads it is common to pass in an argument of type void* and cast it to an expected type:
+
+To better understand the difference, consider the following function written in C:
+
+The function Sum has two parameters, named addend1 and addend2. It adds the values passed into the parameters, and returns the result to the subroutine's caller (using a technique automatically supplied by the C compiler).
+The code which calls the Sum function might look like this:
+
+The variables value1 and value2 are initialized with values. value1 and value2 are both arguments to the sum function in this context.
+At runtime, the values assigned to these variables are passed to the function Sum as arguments. In the Sum function, the parameters addend1 and addend2 are evaluated, yielding the arguments 40 and 2, respectively. The values of the arguments are added, and the result is returned to the caller, where it is assigned to the variable sum_value.
+Because of the difference between parameters and arguments, it is possible to supply inappropriate arguments to a procedure. The call may supply too many or too few arguments; one or more of the arguments may be a wrong type; or arguments may be supplied in the wrong order. Any of these situations causes a mismatch between the parameter and argument lists, and the procedure will often return an unintended answer or generate a runtime error.
+
+Alternative convention in Eiffel
+Within the Eiffel software development method and language, the terms argument and parameter have distinct uses established by convention. The term argument is used exclusively in reference to a routine's inputs, and the term parameter is used exclusively in type parameterization for generic classes.
+Consider the following routine definition:
+
+The routine sum takes two arguments addend1 and addend2, which are called the routine's formal arguments.  A call to sum specifies actual arguments, as shown below with value1 and value2.
+
+Parameters are also thought of as either formal or actual. Formal generic parameters are used in the definition of generic classes. In the example below, the class HASH_TABLE  is declared as a generic class which has two formal generic parameters, G representing data of interest and K representing the hash key for the data:
+
+When a class becomes a client to HASH_TABLE, the formal generic parameters are substituted with actual generic parameters in a generic derivation. In the following attribute declaration, my_dictionary is to be used as a character string based dictionary. As such, both data and key formal generic parameters are substituted with actual generic parameters of type STRING.
+
+Datatypes
+In strongly typed programming languages, each parameter's type must be specified in the procedure declaration.  Languages using type inference attempt to discover the types automatically from the function's body and usage. Dynamically typed programming languages defer type resolution until run-time. Weakly typed languages perform little to no type resolution, relying instead on the programmer for correctness.
+Some languages use a special keyword (e.g. void) to indicate that the subroutine has no parameters; in formal type theory, such functions take an empty parameter list (whose type is not void, but rather unit).
+
+Argument passing
+The exact mechanism for assigning arguments to parameters, called argument passing, depends upon the evaluation strategy used for that parameter (typically call by value), which may be specified using keywords.
+
+Default arguments
+Some programming languages such as Ada, [C++](640), Clojure, Common Lisp, Fortran 90, Python, Ruby, Tcl, and Windows PowerShell allow for a default argument to be explicitly or implicitly given in a subroutine's declaration. This allows the caller to omit that argument when calling the subroutine. If the default argument is explicitly given, then that value is used if it is not provided by the caller. If the default argument is implicit (sometimes by using a keyword such as Optional) then the language provides a well-known value (such as null, Empty, zero, an empty string, etc.) if a value is not provided by the caller.
+PowerShell example:
+
+Default arguments can be seen as a special case of the variable-length argument list.
+
+Variable-length parameter lists
+Some languages allow subroutines to be defined to accept a variable number of arguments. For such languages, the subroutines must iterate through the list of arguments.
+PowerShell example:
+
+Named parameters
+Some programming languages—such as Ada and Windows PowerShell—allow subroutines to have named parameters. This allows the calling code to be more self-documenting. It also provides more flexibility to the caller, often allowing the order of the arguments to be changed, or for arguments to be omitted as needed.
+PowerShell example:
+
+Multiple parameters in functional languages
+In lambda calculus, each function has exactly one parameter. What is thought of as functions with multiple parameters is usually represented in lambda calculus as a function which takes the first argument, and returns a function which takes the rest of the arguments; this is a transformation known as currying. Some programming languages, like ML and Haskell, follow this scheme. In these languages, every function has exactly one parameter, and what may look like the definition of a function of multiple parameters, is actually syntactic sugar for the definition of a function that returns a function, etc. Function application is left-associative in these languages as well as in lambda calculus, so what looks like an application of a function to multiple arguments is correctly evaluated as the function applied to the first argument, then the resulting function applied to the second argument, etc.
+
+Output parameters
+An output parameter, also known as an out parameter or return parameter, is a parameter used for output, rather than the more usual use for input. Using call by reference parameters, or call by value parameters where the value is a reference, as output parameters is an idiom in some languages, notably C and [C++](640), while other languages have built-in support for output parameters. Languages with built-in support for output parameters include Ada (see Ada subprograms), Fortran (since Fortran 90; see Fortran "intent"), various procedural extensions to SQL, such as PL/SQL (see PL/SQL functions) and Transact-SQL, C# and the .NET Framework, Swift, and the scripting language TScript (see TScript function declarations).
+More precisely, one may distinguish three types of parameters or parameter modes: input parameters, output parameters, and input/output parameters; these are often denoted in, out, and in out or inout. An input argument (the argument to an input parameter) must be a value, such as an initialized variable or literal, and must not be redefined or assigned to; an output argument must be an assignable variable, but it need not be initialized, any existing value is not accessible, and must be assigned a value; and an input/output argument must be an initialized, assignable variable, and can optionally be assigned a value. The exact requirements and enforcement vary between languages – for example, in Ada 83 output parameters can only be assigned to, not read, even after assignment (this was removed in Ada 95 to remove the need for an auxiliary accumulator variable). These are analogous to the notion of a value in an expression being an r-value (has a value), an l-value (can be assigned), or an r-value/l-value (has a value and can be assigned), respectively, though these terms have specialized meanings in C.
+In some cases only input and input/output are distinguished, with output being considered a specific use of input/output, and in other cases only input and output (but not input/output) are supported. The default mode varies between languages: in Fortran 90 input/output is default, while in C# and SQL extensions input is default, and in TScript each parameter is explicitly specified as input or output.
+Syntactically, parameter mode is generally indicated with a keyword in the function declaration, such as void f(out int x) in C#. Conventionally output parameters are often put at the end of the parameter list to clearly distinguish them, though this is not always followed. TScript uses a different approach, where in the function declaration input parameters are listed, then output parameters, separated by a colon (:) and there is no return type to the function itself, as in this function, which computes the size of a text fragment:
+
+Parameter modes are a form of denotational semantics, stating the programmer's intent and allowing compilers to catch errors and apply optimizations – they do not necessarily imply operational semantics (how the parameter passing actually occurs). Notably, while input parameters can be implemented by call by value, and output and input/output parameters by call by reference – and this is a straightforward way to implement these modes in languages without built-in support – this is not always how they are implemented. This distinction is discussed in detail in the Ada '83 Rationale, which emphasizes that the parameter mode is abstracted from which parameter passing mechanism (by reference or by copy) is actually implemented. For instance, while in C# input parameters (default, no keyword) are passed by value, and output and input/output parameters (out and ref) are passed by reference, in PL/SQL input parameters (IN) are passed by reference, and output and input/output parameters (OUT and IN OUT) are by default passed by value and the result copied back, but can be passed by reference by using the NOCOPY compiler hint.
+A syntactically similar construction to output parameters is to assign the return value to a variable with the same name as the function. This is found in Pascal and Fortran 66 and Fortran 77, as in this Pascal example:
+
+This is semantically different in that when called, the function is simply evaluated – it is not passed a variable from the calling scope to store the output in.
+
+Use
+The primary use of output parameters is to return multiple values from a function, while the use of input/output parameters is to modify state using parameter passing (rather than by shared environment, as in global variables). An important use of returning multiple values is to solve the semipredicate problem of returning both a value and an error status – see Semipredicate problem: Multivalued return.
+For example, to return two variables from a function in C, one may write:
+
+where x is an input parameter and width and height are output parameters.
+A common use case in C and related languages is for exception handling, where a function places the return value in an output variable, and returns a Boolean corresponding to whether the function succeeded or not. An archetypal example is the TryParse method in .NET, especially C#, which parses a string into an integer, returning true on success and false on failure. This has the following signature:
+
+and may be used as follows:
+
+Similar considerations apply to returning a value of one of several possible types, where the return value can specify the type and then value is stored in one of several output variables.
+
+Drawbacks
+Output parameters are often discouraged in modern programming, essentially as being awkward, confusing, and too low-level – commonplace return values are considerably easier to understand and work with. Notably, output parameters involve functions with side effects (modifying the output parameter) and are semantically similar to references, which are more confusing than pure functions and values, and the distinction between output parameters and input/output parameters can be subtle. Further, since in common programming styles most parameters are simply input parameters, output parameters and input/output parameters are unusual and hence susceptible to misunderstanding.
+Output and input/output parameters prevent function composition, since the output is stored in variables, rather than in the value of an expression. Thus one must initially declare a variable, and then each step of a chain of functions must be a separate statement. For example, in [C++](640) the following function composition:
+
+when written with output and input/output parameters instead becomes (for F it is an output parameter, for G an input/output parameter):
+
+In the special case of a function with a single output or input/output parameter and no return value, function composition is possible if the output or input/output parameter (or in C/[C++](640), its address) is also returned by the function, in which case the above becomes:
+
+Alternatives
+There are various alternatives to the use cases of output parameters.
+For returning multiple values from a function, an alternative is to return a tuple. Syntactically this is clearer if automatic sequence unpacking and parallel assignment can be used, as in Go or Python, such as:
+
+For returning a value of one of several types, a tagged union can be used instead; the most common cases are nullable types (option types), where the return value can be null to indicate failure. For exception handling, one can return a nullable type, or raise an exception. For example, in Python one might have either:
+
+or, more idiomatically:
+
+The micro-optimization of not requiring a local variable and copying the return when using output variables can also be applied to conventional functions and return values by sufficiently sophisticated compilers.
+The usual alternative to output parameters in C and related languages is to return a single data structure containing all return values. For example, given a structure encapsulating width and height, one can write:
+
+In object-oriented languages, instead of using input/output parameters, one can often use call by sharing, passing a reference to an object and then mutating the object, though not changing which object the variable refers to.
+
+See also
+Command-line argument
+Evaluation strategy
+Operator overloading
+Free variables and bound variables
+
+Notes
+
+
+== References ==

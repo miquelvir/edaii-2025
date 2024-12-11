@@ -1,0 +1,18 @@
+67
+Adaptability
+Adaptability (Latin: adaptō "fit to, adjust") is a feature of a system or of a process. This word has been put to use as a specialised term in different disciplines and in business operations. Word definitions of adaptability as a specialised term differ little from dictionary definitions. According to Andresen and Gronau adaptability in the field of organizational management can in general be seen as an ability to change something or oneself to fit to occurring changes. In ecology, adaptability has been described as the ability to cope with unexpected disturbances in the environment. 
+With respect to business and manufacturing systems and processes, adaptability has come to be seen increasingly as an important factor for their efficiency and economic success. In contrast, adaptability and efficiency are held to be in opposition to each other in biological and ecological systems, requiring a trade-off, since both are important factors in the success of such systems. To determine the adaptability of a process or a system, it should be validated concerning some criteria.
+
+Terminology
+In the life sciences the term adaptability is used variously.  At one end of the spectrum, the ordinary meaning of the word suffices for understanding.  At the other end, there is the term as introduced by Conrad, referring to a particular information entropy measure of the biota of an ecosystem, or of any subsystem of the biota, such as a population of a single species, a single individual, cell, protein or gene.
+In the technical research field this feature has been considered only since the late 1990s. H. P. Wiendahl first introduced adaptability as a necessary feature of a manufacturing system in 1999. The need to consider adaptability arose in the context of factory planning, where it is an objective to develop modular, adaptable systems.  It has now become an important consideration for manufacturing and system engineers.
+
+Adaptability of a system
+Adaptability is to be understood here as the ability of a system (e.g. a computer system) to adapt itself efficiently and fast to changed circumstances. An adaptive system is therefore an open system that is able to fit its behaviour according to changes in its environment or in parts of the system itself. That is why a requirement to recognise the demand for change without any other factors involved can be expressed.
+
+See also
+Ecological resilience
+Max Mckeown, author of Adaptability: The Art of Winning in an Age of Uncertainty
+
+
+== References ==

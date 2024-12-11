@@ -1,0 +1,102 @@
+4343
+Assimilation (phonology)
+Assimilation is a sound change in which some phonemes (typically consonants or vowels) change to become more similar to other nearby sounds. A common type of phonological process across languages, assimilation can occur either within a word or between words.
+It occurs in normal speech but becomes more common in more rapid speech.  In some cases, assimilation causes the sound spoken to differ from the normal pronunciation in isolation, such as the prefix in- of English input pronounced with phonetic m rather than n. In this case, n becomes m since m is more phonetically similar to p. In other cases, the change is accepted as canonical for that word or phrase, especially if it is recognized in standard spelling: implosion pronounced with m, composed of in- + -plosion (as in explosion).
+English "handbag" (canonically ) is often pronounced  in rapid speech because the m and b sounds are both bilabial consonants, and their places of articulation are similar. However, the sequence d-b has different places but similar manner of articulation (voiced stop) and is sometimes elided, which sometimes causes the canonical n phoneme to assimilate to m before the b. The pronunciations  or  are, however, common in normal speech.
+In contrast, the word "cupboard", although it is historically a compound of "cup"  and "board" , is always generally pronounced , and almost never .
+Like in those examples, sound segments typically assimilate to a following sound, but they may also assimilate to a preceding one. Assimilation most commonly occurs between immediately adjacent-sounds but may occur between sounds that are separated by others.
+Assimilation can be synchronic, an active process in a language at a given point in time, or diachronic, a historical sound change.
+A related process is coarticulation in which one segment influences another to produce an allophonic variation, such as vowels becoming nasalized before nasal consonants (/n, m, ŋ/) when the soft palate (velum) opens prematurely or /b/ becoming labialized as in "boot" bʷuːt̚ or "ball" bʷɔːɫ in some accents. This article describes both processes under the term assimilation.
+
+Concept
+The physiological or psychological mechanisms of coarticulation are unknown, and coarticulation is often loosely referred to as a segment being "triggered" by an assimilatory change in another segment. In assimilation, the phonological patterning of the language, discourse styles and accent are some of the factors contributing to changes observed.
+There are four configurations found in assimilations: 
+
+Between adjacent segments.
+Between segments separated by one or more intervening segments.
+Changes made in reference to a preceding segment
+Changes made in reference to a following segment
+Although all four occur, changes in regard to a following adjacent segment account for virtually all assimilatory changes and most of the regular ones. Assimilations to an adjacent segment are vastly more frequent than assimilations to a nonadjacent one. Those radical asymmetries might contain hints about the mechanisms involved, but they are not obvious.
+If a sound changes with reference to a following segment, it is traditionally called "regressive assimilation". Changes with reference to a preceding segment are traditionally called "progressive". Many find those terms confusing, as they seem to mean the opposite of the intended meaning. Accordingly, a variety of alternative terms have arisen, not all of which avoid the problem of the traditional terms. Regressive assimilation is also known as right-to-left, leading, or anticipatory assimilation. Progressive assimilation is also known as left-to-right, perseveratory, preservative, lagging, or lag assimilation. The terms anticipatory and lag are used here.
+Occasionally, two sounds (invariably adjacent) may influence each other in reciprocal assimilation. When such a change results in a single segment with some of the features of both components, it is known as coalescence or fusion.
+Assimilation occurs in two different types: complete assimilation, in which the sound affected by assimilation becomes exactly the same as the sound causing assimilation, and partial assimilation, in which the sound becomes the same in one or more features but remains different in other features.
+Tonal languages may exhibit tone assimilation (in effect tonal umlaut), but sign languages also exhibit assimilation when the characteristics of neighbouring cheremes may be mixed.
+
+Examples
+Anticipatory assimilation to an adjacent segment
+Anticipatory assimilation to an adjacent segment is the most common type of assimilation by far, and typically has the character of a conditioned sound change, i.e., it applies to the whole lexicon or part of it.
+For example, in English, the place of articulation of nasals assimilates to that of a following stop (handkerchief is pronounced hæŋkɚtʃif, handbag in rapid speech is pronounced hæmbæɡ).
+In Italian, voiceless stops assimilated historically to a following /t/:
+
+Latin octo "eight" > It. otto
+Latin lectus "bed" > letto
+Latin subtus – pronounced suptus "under" > sotto
+Italian otto, letto and sotto are examples of historical restructuring: otto and letto no longer contain /kt/ pronounced tt, and sotto is no longer the structure /bt/ subject to the partial assimilation of devoicing of /b/ and full assimilation to produce tt. Over time, phonetic tt as a frequent assimilation of /kt/ and /bt/ was rather reinterpreted as reflecting /tt/. The structural sequence /kt/ is now all but absent in Italian, since all items in popular speech underwent the same restructuring, /kt/ > /tt/. On the rare occasion that Italian /kt/ is encountered, however, the same assimilation that triggered the restructuring can occur at the phonetic level. For example, the medical term ictus 'stroke', a relatively recent direct borrowing from Latin, is usually pronounced ˈiktus in deliberate speech, but ˈittus is frequent in more casual registers.
+
+Latin ictus > Italian ictus, pronounced either ˈiktus or ˈittus
+
+[Affrication](4207) in English
+There has been a notable change recognized across a variety of English dialects regarding the pronunciation of the /tr/ and /dr/ consonant clusters. Starting around the mid-20th century, the alveolar stop in /tr, dr/ has slowly been replaced by a post-alveolar affricate instead, resulting in the all-postalveolar consonant clusters tʃɹ and dʒɹ. This phenomenon also occurs in /str/, resulting in the all-postalveolar consonant cluster ʃtʃɹ. The affrication of /tr, dr/ has been seen in American English, British English, Australian English, and New Zealand English. It is suspected that this change has occurred due to assimilation.
+One of the first papers that discussed the affrication of /tr, dr/ is "Pre-School Children's Knowledge of English Phonology" by Charles Read, published in 1971. The study discussed in this paper focuses on how children in pre-school analyze the phonetic aspect of language in order to determine the proper spelling of English words. Read noticed that many of the children involved in the study misspelled words that began with /tr, dr/, spelling words like troubles and dragon as "chribls" and "jragin", respectively. In a different test, Read also found that many of the children believed that words like train and chicken both started with /tʃ/.
+
+Anticipatory assimilation at a distance
+Anticipatory assimilation at a distance is rare and usually merely an accident in the history of a specific word.
+
+Standard Slovene Jevnica (a toponym) > Slovene dialect Vevnica
+Slovene Rakitovec > Ratitovec (a mountain ridge)
+However, the diverse and common assimilations known as umlaut in which the phonetics of a vowel are influenced by the phonetics of a vowel in a following syllable, are common and in the nature of sound laws. Such changes abound in the histories of Germanic languages, Romance, Insular Celtic, Albanian, and many others.
+For example, in the history of English, a back vowel became front if a high front vowel or semivowel (*i, ī, j) was in the following syllable, and a front vowel became higher unless it was already high:
+
+Proto-Germanic *mūsiz "mice" > Old English mýs /myːs/ > Modern English mice
+PGmc *batizōn "better" > OE bettre
+PGmc *fōtiz "feet" > OE fét > ME feet
+On the other hand, Proto-Germanic *i and *u > e, o respectively before *a in the following syllable (Germanic a-mutation) although that had already happened significantly earlier:
+
+PGmc *wurdą > OE word
+PGmc *nestaz > OE nest
+Another example of a regular change is the sibilant assimilation of Sanskrit in which if there were two different sibilants as the onset of successive syllables, a plain /s/ was always replaced by the palatal /ɕ/:
+
+Proto-Indo-European *smeḱru- "beard" > Skt. śmaśru-
+PIE *ḱoso- "gray" > Skt. śaśa- "rabbit"
+PIE *sweḱru- "husband's mother' > Skt. śvaśrū-
+
+Lag assimilation to an adjacent segment
+Lag assimilation to an adjacent segment is tolerably common and often has the nature of a sound law.
+Proto-Indo-European *-ln- becomes -ll- in both Germanic and Italic: *ḱl̥nis "hill" > PreLat. *kolnis > Lat. collis; > PGmc *hulliz > OE hyll /hyll/ > hill. The enclitic form of English is, eliding the vowel, becomes voiceless when adjacent to a word-final voiceless nonsibilant: it is ɪtɪz, that is ðætɪz > it's ɪts, that's ðæts.
+In Polish, /v/ regularly becomes /f/ after a voiceless obstruent:
+
+kwiat 'flower', pronounced kfjat, instead of kvjat
+twarz 'face', pronounced tfaʂ, instead of tvaʂ
+This does not apply across word boundaries, so that the placename Grodzisk Wielkopolski is pronounced ˈɡrɔdʑizɡ vjɛlkɔˈpɔlskʲi, not ˈɡrɔdʑisk fjɛlkɔˈpɔlskʲi. In that context, /v/ patterns with other voiced obstruents.
+Because of a similar process, Proto-Indo-Iranian *ćw became sp in Avestan: Old Avestan aspa 'horse' corresponds to Sanskrit aśva
+
+Lag assimilation at a distance
+Lag assimilation at a distance is rare and usually sporadic (except when part of a broader change, as for the Sanskrit śaśa- example, above): Greek leirion > Lat. līlium "lily".
+In vowel harmony, a vowel's phonetic features are often influenced by those of a preceding vowel. For example, most Finnish case markers come in two forms, with /ɑ/ (written a) and /æ/ (written ä), depending on whether the preceding vowel is back or front. However, it is difficult to know where and how in the history of Finnish an actual assimilatory change took place. The distribution of pairs of endings in Finnish is not the operation of an assimilatory innovation, but it is probably the outbirth of such an innovation long ago.
+In the opposite direction, in umlaut, a vowel is modified to conform more closely to the vowel in the next syllable.
+
+Coalescence (fusion)
+Coalescence is a phonological situation whereby adjacent sounds are replaced by a single sound that shares the features of the two originally adjacent sounds. In other words, coalescence is a type of assimilation whereby two sounds fuse to become one, and the fused sound shares similar characteristics with the two fused sounds. Some examples in English include ‘don’t you’ -> /dəʊnt ju/ -> dəʊntʃu. In this instance, /t/ and /j/ have fused to tʃ. /tʃ/ is a palato-alveolar sound; its palatal feature is derived from /j/ while its alveolar is from /t/. Another English example is ‘would you’ -> /wʊd ju/ -> wʊdʒu. There are examples in other languages, such as Chumburung where  /ɪ̀wú ɪ̀sá/ -> /ɪ̀wúɪ̀sá/ becomes ɪ̀wɪ́sá - ‘three horns’. In this case, /ɪ/ is retained in the coalescence and the rising tone on /u/ appears on the coalesced sound.
+There are two major types of coalescence: reductive and unreductive. Reductive coalescence is the type of coalescence where sound segments are reduced after fusion is made. For example, in Xhosa, /i - lˈalaini/ becomes /e - lˈoleni/ (side). The /a-i/ segment in the first form reduces to /e/. On the other hand non-reductive coalescence have no reduction in sound segments even though there is evidence of fusion. For example, in Shona,  v_á tengesa (they sell) becomes ku téngésá (to sell). Here, the original sound does not reduce with respect to sound segments even though the rising tone on the vowels in the coalesced form indicates the fusion of /á/ to the vowels.
+
+See also
+Assibilation
+Phonological history of English consonant clusters
+Co-articulated consonant
+Consonant harmony
+Crasis
+Deletion (phonology)
+Dissimilation
+Epenthesis
+Labialization
+Palatalization
+Pharyngealization
+Secondary articulation
+Velarization
+
+Notes
+References
+Citations
+
+
+=== Sources ===

@@ -1,0 +1,83 @@
+21
+Animal breeding
+Animal breeding is a branch of animal science that addresses the evaluation (using best linear unbiased prediction and other methods) of the genetic value (estimated breeding value, EBV) of livestock. Selecting for breeding animals with superior EBV in growth rate, egg, meat, milk, or wool production, or with other desirable traits has revolutionized livestock production throughout the entire world. The scientific theory of animal breeding incorporates population genetics, quantitative genetics, statistics, and recently molecular genetics and is based on the pioneering work of Sewall Wright, Jay Lush, and Charles Henderson.
+
+[Breed](35)ing stock
+[Breed](35)ing stock is a group of animals used for the purpose of planned breeding. When individuals are looking to breed animals, they look for certain valuable traits in purebred animals, or may intend to use some type of crossbreeding to produce a new type of stock with different, and presumably superior abilities in a given area of endeavor. For example, when breeding swine for meat, the "breeding stock should be sound, fast growing, muscular, lean, and reproductively efficient." The "subjective selection of breeding stock" in horses has led to many horse breeds with particular performance traits. While breeding animals is common in an agricultural setting, it is also a common practice for the purpose of selling animals meant as pets, such as cats, dogs, horses, and birds, as well as less common animals, such as reptiles or some primates.
+
+Purebred breeding
+Mating animals of the same breed for maintaining such breed is referred to as purebred breeding. Opposite to the practice of mating animals of different breeds, purebred breeding aims to establish and maintain stable traits, that animals will pass to the next generation. By "breeding the best to the best", employing a certain degree of inbreeding, considerable culling, and selection for "superior" qualities, one could develop a bloodline or "breed" superior in certain respects to the original base stock.
+Such animals can be recorded with a breed registry, the organisation that maintains pedigrees and/or stud books.
+The observable phenomenon of hybrid vigor stands in contrast to the notion of breed purity.
+For laboratory purposes, organisms such as mice have been inbred to 100% pure lines, as offered for sale by the Jackson laboratory. But this is highly unusual and difficult to do for most organisms, in whose populations all individuals harbor recessive, deleterious gene variants (alleles).
+
+See also
+Animal husbandry
+
+Plant and animal breeding
+Artificial insemination of livestock and pets
+Artificial selection
+Agricultural science
+[Backyard breeder](21)
+Genomics of domestication
+Plant breeding
+Progeny testing
+Selective breeding
+Selection limits
+
+People
+Robert Bakewell
+Arthur B. Chapman
+James Hutton
+Thomas Lecky
+
+Other topics
+BLUPF90 and ASReml: software packages for animal breeding statistics
+Veterinary medicine
+Veterinary surgeon
+Veterinarian
+
+Further reading
+Lush, JL (1937), Animal [Breed](35)ing Plans, Ames, Iowa: Iowa State Press
+Kempthorne, O (1957), Introduction to Statistic Genetics, John Wiley & Sons
+Van Vleck; L. D.; Searle; S. R. (1979), Variance components and animal breeding: proceedings of a conference in honor of C.R. Henderson, Ithaca, N.Y.: Cornell University
+Henderson, CR (1984), Applications of linear models in animal breeding, Guelph, Ont: University of Guelph, ISBN 0-88955-030-1
+Hammond K. Gianola, D. (1990), Advances in Statistical Methods for Genetic Improvement of Livestock (Advanced Series in Agricultural Sciences), Springer-Verlag Berlin and Heidelberg GmbH & Co. K, ISBN 3-540-50809-0
+Massey, JW; Vogt, DW (1993), Heritability and Its Use in Animal [Breed](35)ing, Department of Animal Sciences, University of Missouri, archived from the original on 2009-04-12, retrieved 2008-09-13
+Mrode, R. A. (1996), Linear models for the prediction of animal breeding values, Oxon: CAB International, ISBN 0-85198-996-9
+Cameron, N. D. (1997), Selection indices and prediction of genetic merit in animal breeding, Oxon: CAB International, ISBN 0-85199-169-6
+Dalton, C; Willis, MB (1998), Dalton's Introduction to Practical Animal [Breed](35)ing, Oxford: Blackwell Science, ISBN 0-632-04947-2
+Bourdon, RM (2000), Understanding animal breeding, Englewood Cliffs, N.J: Prentice Hall, ISBN 0-13-096449-2
+Newman, S; Rothschild, MF (2002), Intellectual Property Rights in Animal [Breed](35)ing and Genetics, Wallingford, Oxon, UK: CABI Pub, ISBN 0-85199-641-8
+FAO. (2007). The Global Plan of Action for Animal Genetic Resources and the Interlaken  Declaration. Rome.
+FAO. (2010). [Breed](35)ing strategies for sustainable management of animal genetic resources.  FAO Animal Production and Health Guidelines. No. 3. Rome.
+FAO. (2015). The Second Report on the State of the World's Animal Genetic Resources for  Food and Agriculture. Rome.
+
+References
+External links
+Domestic Animal Diversity Information System
+Guidelines For Uniform Swine Improvement Programs, National Swine Improvement Federation, 2003, archived from the original on 2008-10-21
+Implementing the Global Plan of Action for Animal Genetic Resources
+bataille de la somme
+
+Academic centers
+Animal [Breed](35)ing and Genomics Centre, Wageningen University, Netherlands, 23 March 2022{{citation}}:  CS1 maint: location missing publisher (link)
+Animal [Breed](35)ing and Genetics Group, University of Georgia, USA
+Centre for Genetic Improvement of Livestock, University of Guelph, Canada
+Animal [Breed](35)ing & Genetics, Cornell University, USA, 12 September 2023{{citation}}:  CS1 maint: location missing publisher (link)
+Animal [Breed](35)ing & Genetics, Iowa State University, USA, archived from the original on 2009-03-04, retrieved 2008-09-06
+[Breed](35)ing and Genetics Program, Colorado State University, USA, archived from the original on 2008-10-12
+Animal Genetics and [Breed](35)ing Unit, University of New England, Australia
+European Graduate School in Animal [Breed](35)ing and Genetics (EGS-ABG), AgroParisTech, France ; Wageningen University, Netherlands ; Aarhus University, Denmark ; Swedish University of Agricultural Sciences, Sweden
+
+Journals
+"Journal of Animal [Breed](35)ing and Genetics", Journal of Animal [Breed](35)ing and Genetics (1986), ISSN 0931-2668, archived from the original on 2008-12-12, retrieved 2008-09-06
+
+Organizations
+Association for the Advancement of Animal [Breed](35)ing and Genetics, Australia
+Roslin Institute, Scotland
+Animal [Breed](35)ing, Genetics & Genomics, Cooperative State Research, Education, and Extension Service, USA, archived from the original on 2008-09-20
+Animal Improvement Programs Laboratory, Beltsville Agricultural Research Center, USA, archived from the original on 2008-10-12, retrieved 2008-09-06
+Animal Genetics and [Breed](35)ing Unit, Australia, archived from the original on 2008-07-19
+INRA, Institut National de la Recherché Agronomique, France
+INIA, Instituto Nacional Investigación Agraria, Spain, archived from the original on 2013-08-12

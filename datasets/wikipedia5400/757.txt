@@ -1,0 +1,29 @@
+757
+Beerware
+Beerware is a tongue-in-cheek software license with permissive terms, which grants the right to do anything with the source code, assuming the license notice is preserved.
+
+Description
+Should the user of the code consider the software useful, they are encouraged to buy the author a beer "in return" if they ever meet. The Humanitarian-FOSS project at Trinity College recognized the "version 42" beerware license variant as an extremely permissive "copyright only" and GPL-compatible license. According to the Free Software Foundation the license would be classified as an "informal" free, non-copyleft and GPL-compatible license, however more detailed licenses are recommended.
+Poul-Henning Kamp states preference of his Beerware license to other licenses, such as BSD and GPL, the latter of which he has described as a "joke". The full text of Kamp's license is:
+
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <phk@FreeBSD.ORG> wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return.   Poul-Henning Kamp
+ * ----------------------------------------------------------------------------
+ */
+
+Notes
+See also
+ 
+0BSD a public domain equivalent license used by Toybox and explicitly allowed for Android
+Anti-copyright license
+Careware
+Comparison of free and open-source software licenses
+Donationware
+WTFPL
+
+
+== References ==

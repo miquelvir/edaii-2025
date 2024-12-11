@@ -1,0 +1,48 @@
+40
+Breeding back
+[Breed](35)ing back is a form of artificial selection by the deliberate selective breeding of domestic (but not exclusively) animals, in an attempt to achieve an animal breed with a phenotype that resembles a wild type ancestor, usually one that has gone extinct. [Breed](35)ing back is not to be confused with dedomestication.
+It must be kept in mind that a breeding-back breed may be very similar to the extinct wild type in phenotype, ecological niche, and to some extent genetics, but the gene pool of that wild type was different prior to its extinction. Even the superficial authenticity of a bred-back animal depends on the particular stock used to breed the new lineage. As a result of this, some breeds, like Heck cattle, are at best a vague look-alike of the extinct wild type aurochs, according to the literature.
+
+Background
+The aim of breeding back programs is to restore the wild traits which may have been unintentionally preserved in the lineages of domesticated animals. Commonly, not only the new animal's phenotype, but also its ecological capacity, are considered in back-breeding projects, as hardy, "bred back" animals may be used in certain conservation projects. In nature, usually only individuals well suited to their natural circumstances will survive and reproduce, whereas humans select animals with additional attractive, docile or productive characteristics, protecting them from the dangers once found in their ancestral environment (predation, drought, disease, extremes of weather, lack of mating opportunities, etc.). In such cases, selection criteria in nature differ from those found in domesticated conditions. Because of this, domesticated animals often differ significantly in phenotype, behaviour and genetics from their wild forerunners. It is the hope of breeding-back programs to re-express, within a new breeding lineage, the wild, ancient traits that may have "lain buried" in the DNA of domestic animals.
+In many cases, the extinct wild type ancestors of a given species are known only through skeletons and, in some cases, historical descriptions, making their phenotype poorly understood. Given that situation, there is currently no certainty of achieving success with a back-breeding attempt, and any results must be reviewed with great caution. In order to test genetic closeness, DNA (both mitochondrial and nuclear) of the breeding animals must be compared against that of the extinct animal.
+Successful breeding back might be possible: humans have selected animals only for superficial traits, and as a rule did not intentionally change less-observable traits, such as metabolic biochemistry.  Further, since many domestic species show  behaviours derived from their wild ancestors (such as the herding instinct of cattle or the social instincts of dogs), and are fit to survive outside the sphere of human interference (as evidenced by the many feral populations of various domestic animals), it can be presumed that "bred back" animals might be able to function like their wild ancestors.  For example, food preferences are assumed to be largely the same in domesticated animals as in their wild type ancestors.
+Natural selection might serve as an additional tool in creating "authentic" robustness, "authentic" behaviour, and perhaps, the original phenotype as well. In some cases, a sufficient predator population would be necessary to enable such a selection process; in today's Europe, where many breeding-back attempts take place, this predator population is largely absent.
+
+Use
+Bred-back breeds are desirable in conservation biology, as they may fill an ecological gap left open by the extinction of a wild type due to human activities. As long as food preference, behaviour, robustness, defence against predators, hunting or foraging instincts and phenotype are the same as in the wild type, the bred-back phenotype will function similarly in the ecosystem. Releasing such animals into the wild would re-fill the previously empty niche, and allow a natural dynamic among the various species of the ecosystem to re-establish. However, not all breeding-back attempts will result in an animal that is closer to the wild type than are primitive domestic breeds. For example, Heck cattle bear less resemblance to the aurochs than do many Iberian fighting cattle.
+
+Examples
+Aurochs
+Ideas for creating an aurochs-like animal from domestic cattle have been around since 1835. In the 1920s, Heinz and Lutz Heck tried to breed an aurochs look-alike, using central European dairy breeds and southern European cattle. The result, Heck cattle, are hardy, but differ from the aurochs in many respects, although a resemblance in colour and, less reliably, horns has been achieved. From 1996 onwards, Heck cattle have been crossed with "primitive" Iberian breeds like Sayaguesa Cattle and fighting cattle, as well as the very large Italian breed Chianina, in a number of German reserves, in order to enhance the resemblance to the aurochs. The results are called Taurus cattle, being larger and longer-legged than Heck cattle and having more aurochs-like horns. Another of the projects to achieve a type of cattle that resembles the aurochs is the TaurOs Project, using primitive, hardy southern European breeds, specifically Limia, Maremmana primitivo, Maronesa, Podolica, Sayaguesa and Pajuna.
+
+European wild horse
+The Polish Konik horse is often erroneously considered the result of a breeding-back experiment to "recreate" the phenotype of the Tarpan. The Konik is actually a hardy landrace breed originating in Poland, which was called Panje horse before agriculturist Tadeusz Vetulani coined the name "Konik" in the 1920s. Vetulani started an experiment to reconstruct the Tarpan using Koniks; ultimately, his stock made only a minor contribution to the present-day Konik population.
+During the Second World War, the Heck brothers crossed Koniks with Przewalski's horses and ponies, such as the  Icelandic horse and the Gotland pony; the result is now called the Heck Horse. During recent decades, Heck horses have  been continually crossed with Koniks, making the two phenotypes at present nearly indistinguishable, excepting that the Heck horse tends to have a lighter build.
+
+Pigs
+Boar–pig hybrids, which are hybrids of wild boars and domestic pigs and exist as an invasive species throughout Eurasia, the Americas, Australia, and in other places where European settlers imported wild boars to use as game animals, are also used for selective breeding to re-create the type of pigs represented in prehistoric artworks dating from the Iron Age and earlier in ancient Europe. A project to create them, under the name of the Iron Age pig, started in the early 1980s by crossing a male wild boar with a Tamworth sow to produce an animal resembling what Iron Age pigs are believed to have looked like. Iron Age pigs are generally only raised in Europe for the specialty meat market, and in keeping with their heritage are generally more aggressive and harder to handle than purebred domesticated pigs.
+
+Quagga
+The Quagga Project is an attempt, based in South Africa, to breed animals which strongly resemble the now-extinct quagga, a subspecies of the plains zebra which died out in 1883. Accordingly, the project is limited to selecting for the physical appearance of the original, as recorded by twenty-three mounted specimens, many contemporary illustrations, and a number of written accounts of the animals.
+The two most noticeable characteristics of the quagga, fewer stripes and a darker pelage, are frequently observed to varying degrees in wild plains zebra populations. Animals with these two traits have been sought out for the Quagga Project breeding programme. In its fourth breeding iteration, the Quagga Project has resulted in foals displaying faint to absent striping on the hind legs and body, although the brown background color of the extinct quagga has yet to emerge. The project refers to their animals as "Rau quaggas", after the project founder Reinhold Rau.
+The project has been criticized for its focus on the morphological characteristics of the quagga, as the extinct animal may have possessed unrecorded behavioral or non-visible traits that would be impossible to reliably breed back from plains zebras.
+
+Wolf
+Although the wolf, the wild ancestor of domestic dogs, is not extinct, its phenotype is the target of several developmental breeds including the Northern Inuit Dog and the Tamaskan Dog. They are all crossbreeds of German Shepherds, Alaskan Malamutes, and Huskies; selected for phenotypic wolf characteristics, the hybrids are then backbred to improve the "look-alike" effect. These new breeds may be viewed as breeding-back attempts as well.
+Although extinct, Japanese wolf DNA is believed to survive in the modern domestic Shikoku Inu. It is thought that crossing this breed with some subspecies of Asian wolves would result in an authentic analogue to fill the ecological niche left empty in the absence of this apex predator.
+The Dire Wolf Project, started in 1988, aims to bring back the look of the extinct prehistoric dire wolf by breeding different domestic dog breeds that resemble it.
+
+See also
+De-extinction
+Otto Antonius
+Preservation breeding
+
+References
+Further reading
+Koene, P., & Gremmen, B. (2001). Genetics of dedomestication in large herbivores. In 35th ISAE Conference, Davis, California, 2001 (pp. 68–68).
+
+External links
+The Dire Wolf Project
+The Quagga Project
+TaurOs Project

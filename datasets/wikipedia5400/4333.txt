@@ -1,0 +1,112 @@
+4333
+Animacy
+Animacy (antonym: inanimacy) is a grammatical and semantic feature, existing in some languages, expressing how sentient or alive the referent of a noun is. Widely expressed, animacy is one of the most elementary principles in languages around the globe and is a distinction acquired as early as six months of age.
+Concepts of animacy constantly vary beyond a simple animate and inanimate binary; many languages function off an hierarchical general animacy scale that ranks animacy as a "matter of gradience". Typically (with some variation of order and of where the cutoff for animacy occurs), the scale ranks humans above animals, then plants, natural forces, concrete objects, and abstract objects, in that order. In referring to humans, this scale contains a hierarchy of persons, ranking the first- and second-person pronouns above the third person, partly a product of empathy, involving the speaker and interlocutor.
+
+Examples
+The distinction between he, she, and other personal pronouns, on one hand, and it, on the other hand is a distinction in animacy in English and in many Indo-European languages. The same can be said about distinction between who and what. Some languages, such as Turkish, Georgian, Spoken Finnish and Italian, do not distinguish between s/he and it. In Finnish, there is a distinction in animacy between hän, "he/she", and se, "it", but in Spoken Finnish se can mean "he/she". English shows a similar lack of distinction between they animate and they inanimate in the plural.
+There is another example of how animacy plays some role in English. For example, the higher animacy a referent has, the less preferable it is to use the preposition of for possession (that can also be interpreted in terms of alienable or inalienable possession):
+
+My face is correct while the face of mine would sound strange.
+The man's face and the face of the man are both correct, but the former is preferred.
+The clock's face and the face of the clock are both correct.
+Examples of languages in which an animacy hierarchy is important include the Totonac language in Mexico and the Southern Athabaskan languages (such as Western Apache and Navajo) whose animacy hierarchy has been the subject of intense study. The Tamil language has a noun classification based on animacy.
+
+Proto-Indo-European language
+Because of the similarities in morphology of feminine and masculine grammatical gender inflections in Indo-European languages, there is a theory that in an early stage, the Proto-Indo-European language had only two grammatical genders: "animate" and "inanimate/neuter"; the most obvious difference being that inanimate/neuter nouns used the same form for the nominative, vocative, and accusative noun cases. The distinction was preserved in Anatolian languages like Hittite, all of which are now extinct.
+The animate gender would then later, after the separation of the Anatolian languages, have developed into the feminine and masculine genders. The plural of neuter/inanimate nouns is believed to have had the same ending as collective nouns in the singular, and some words with the collective noun ending in singular were later to become words with the feminine gender. Traces can be found in [Ancient Greek](3061) in which the singular form of verbs was used when they referred to neuter words in plural. In many Indo-European languages, such as Latin and the Slavic languages, the plural ending of many neuter words in the merged nominative–accusative–vocative corresponds to the feminine singular nominative form.
+
+Navajo (Diné)
+Like most other Athabaskan languages, Southern Athabaskan languages show various levels of animacy in their grammar, with certain nouns taking specific verb forms according to their rank in this animacy hierarchy. For instance, Navajo (Diné) nouns can be ranked by animacy on a continuum from most animate (a human) to least animate (an abstraction) (Young & Morgan 1987: 65–66):
+
+Adult human/lightning > infant/big animal > medium-sized animal > small animal > natural force > abstraction
+Generally, the most animate noun in a sentence must occur first while the noun with lesser animacy occurs second. If both nouns are equal in animacy, either noun can occur in the first position. Both sentences (1) and (2) are correct. The yi- prefix on the verb indicates that the first noun is the subject and bi- indicates that the second noun is the subject.
+
+Sentence (3), however, sounds wrong to most Navajo speakers because the less animate noun occurs before the more animate noun:
+
+In order to express that idea, the more animate noun must occur first, as in sentence (4):
+
+There is evidence suggesting that the word order itself is not the important factor. Instead, the verb construction usually interpreted as the passive voice (e.g. "the girl was pecked by the bird") instead indicates that the more animate noun allowed the less animate noun to perform the action (e.g. "the girl let herself be pecked by the bird"). The idea is that things ranked higher in animacy are presumed to be in control of the situation, and that the less-animate thing can only act if the more-animate thing permits it.
+
+Japanese
+Although nouns in Japanese are not marked for animacy, it has two existential/possessive verbs; one for implicitly animate nouns (usually humans and animals) and one for implicitly inanimate nouns (often non-living objects and plants). The verb iru (いる, also written 居る) is used to show the existence or possession of an animate noun. The verb aru (ある, sometimes written 在る when existential or 有る when possessive) is used to show the existence or possession of an inanimate noun.
+An animate noun, here 'cat', is marked as the subject of the verb with the subject particle ga (が), but no topic or location is marked. That implies the noun is indefinite and merely exists.
+
+In the second example, a topic is introduced, in this case "I", with the topic particle wa (は). The animate noun is again marked with a subject particle, and no location is denoted. That implies that the topic owns or is holding onto the noun.
+
+In the third example, the noun is marked as the topic (and by default functions as the subject of the verb) while a location, here the top of a chair, is marked with the location particle ni (に). That implies that the noun is a definite noun and is at the specified location.
+
+In all these cases, if the noun is not animate, such as a stone, instead of a cat, the verb iru must be replaced with the verb aru (ある or 有る possessive / 在る existential, locative).
+
+In some cases in which "natural" animacy is ambiguous, whether a noun is animate or not is the decision of the speaker, as in the case of a robot, which could be correlated with the animate verb (to signify sentience or anthropomorphism) or with the inanimate verb (to emphasise that is a non-living thing).
+
+Ryukyuan languages
+The Ryukyuan languages, spoken in the Ryukyu Islands agree in animacy in their case systems.
+
+Slavic languages
+Overview
+Slavic languages that have case (all of them except Bulgarian and Macedonian) have a somewhat complex hierarchy of animacy in which syntactically animate nouns may include both animate and inanimate objects (like mushrooms and dances). Overall, the border between animate and inanimate places humans and animals in the former and plants, etc., in the latter, thus basing itself more so on sentience than life.
+Animacy functions as a subgender through which noun cases intersect in a phenomenon called syncretism, which here can be either nominative-accusative or genitive-accusative. Inanimate nouns have accusative forms that take on the same forms as their nominative, with animate nouns marked by having their accusative forms resemble the genitive.
+For example, syncretism in Polish conditioned by referential animacy results in forms like the following:
+
+NOM stół 'table' -> ACC stół, like nom -> GEN stołu (exhibiting nom-acc syncretism);
+NOM kot 'cat' -> ACC kota, like gen  -> GEN kota (exhibiting gen-acc syncretism).
+That syncretism also occurs when restricted by declension class, resulting in syncretism in multiple pronominal forms, such as the Russian reflexive pronoun себя (sebja), personal pronouns, and the indefinite interrogative and relative pronoun kto.
+In their plural forms, nouns of all genders may distinguish the categories of animate vs. inanimate by that syncretism, but only masculine nouns of the first declension (and their modifiers) show it in the singular (Frarie 1992:12), and other declensions and genders of nouns "restrict (morphological) expression of animacy to the plural" (Frarie 1992:47).
+
+Masc nouns that show acc-gen (sg & plural) syncretism: муж muʂ husband, сын sɨn son, лев lʲef lion, конь konʲ horse.
+Fem animate nouns that show acc-gen (plural) syncretism: женщина ˈʐɛnʲɕːɪnə woman, лошадь ˈɫoʂətʲ horse.
+Neut animate nouns that show acc-nom (sg) and acc-gen (plural) syncretism: животное 'animal', насекомое 'insect'.
+Elsewhere, animacy is displayed syntactically, such as in endings of modifiers for masc nouns of the second declension.
+
+Animacy as a "subgender"
+While animacy is viewed as primarily semantic when approached diachronically, a synchronic view suggests animacy as a sublevel of gender. Syntactic gender is defined through patterns in agreement, not necessarily semantic value. For example, Russian has "common gender" nouns that refer to traditionally masculine roles but act as syntactically feminine.
+Animacy occurs as a subgender of nouns and modifiers (and pronouns only when adjectival) and is primarily reflected in modifier-head agreement (as opposed to subject-predicate agreement).
+
+Controversy
+Some consider the system to be based on marking inanimacy in which case the gen-acc distinguishes a "non-inanimate" subgender of nouns and modifiers, and others claim that ultimately it is indeed animacy that is marked.
+
+Sinhala
+In spoken Sinhala, there are two existential/possessive verbs: හිටිනවා hiţinawā / ඉන්නවා innawā are used only for animate nouns (humans and animals), and තියෙනවා tiyenawā for inanimate nouns (like non-living objects, plants, things):
+
+Spanish
+Nouns
+In Spanish, the preposition a (meaning "to" or "at") has gained a second role as a marker of concrete animate direct objects:
+
+The usage is standard and is found around the Spanish-speaking world.
+
+Pronouns
+Spanish personal pronouns are generally omitted if the subject of the sentence is obvious, but when they are explicitly stated, they are used only with people or humanized animals or things. The inanimate subject pronoun in Spanish is ello, like it in English (except "ello" can only be used to refer to verbs and clauses, not objects, as all nouns are either masculine or feminine and are referred to with the appropriate pronouns).
+Spanish direct-object pronouns (me, te, lo, la, se, nos, os, los, las) do not differentiate between animate and inanimate entities, and only the third persons have a gender distinction. Thus, for example, the third-person singular feminine pronoun, la, could refer to a woman, an animal (like mariposa, butterfly), or an object (like casa, house), if their genders are feminine.
+In certain dialects, there is a tendency to use le (which is usually an indirect object pronoun, meaning "to him/her") as a direct-object pronoun, at the expense of the direct-object pronouns lo/la, if the referent is animate. That tendency is especially strong if (a) the pronoun is being used as a special second-person pronoun of respect, (b) the referent is male, (c) certain verbs are used, (d) the subject of the verb happens to be inanimate.
+
+Arabic
+In Classical and Modern Standard Arabic and some other varieties of Arabic, animacy has a limited application in the agreement of plural and dual nouns with verbs and adjectives. Verbs follow nouns in plural agreement only when the verb comes after the subject. When a verb comes before an explicit subject, the verb is always singular. Also, only animate plural and dual nouns take plural agreement; inanimate plural nouns are always analyzed as singular feminine or plural feminine for the purpose of agreement. Thus, Arabic المهندسون يطيرون إلى ألمانيا (Al-muhandisūn yaṭīrūn ’ilā ’Almāniyā, "The engineers fly to Germany") is masculine plural agreement, but الطائرات تطير إلى ألمانيا (Al-ṭā’irāt taṭīr ’ilā ’Almāniyā, "The planes fly to Germany") is feminine singular. Compare them to تطير المهندسات إلى ألمانيا (Taṭīr al-muhandisāt ’ilā ’Almāniyā) and المهندسات يطرن إلى ألمانيا (Al-muhandisāt yaṭirna ’ilā ’Almāniyā) for "The female engineers fly to Germany."
+In general, Arabic divides animacy between عاقل (thinking, or rational) and غير عاقل (unthinking, or irrational). Animals fall in the latter category, but their status may change depending on the usage, especially with personification. Different writers might use الغربان يطيرون إلى ألمانيا (Al-ġurbān yaṭīrūn ’ilā ’Almāniyā) or الغربان تطير إلى ألمانيا (Al-ġurbān taṭīr ’ilā ’Almāniyā) for "The ravens fly to Germany."
+
+Animacy hierarchy and morphosyntactic alignment
+Split ergativity
+Animacy can also condition the nature of the morphologies of split-ergative languages. In such languages, participants more animate are more likely to be the agent of the verb, and therefore are marked in an accusative pattern: unmarked in the agent role and marked in the patient or oblique role.
+Likewise, less animate participants are inherently more patient-like, and take ergative marking: unmarked when in the patient role and marked when in the agent role. The hierarchy of animacy generally, but not always, is ordered:
+
+The location of the split (the line which divides the inherently agentive participants from the inherently patientive participants) varies from language to language, and, in many cases, the two classes overlap, with a class of nouns near the middle of the hierarchy being marked for both the agent and patient roles.
+
+Hierarchical alignment
+In a direct–inverse language, clauses with transitive verbs can be expressed with either a direct or an inverse construction. The direct construction is used when the subject of the transitive clause outranks the object in salience or animacy. The inverse construction is used when the "notional object" outranks the "notional subject".
+
+Thematic roles
+A noun essentially requires the traits of animacy in order to receive the role of Actor and Experiencer. Additionally, the Agent role is generally assigned to the NP with highest ranking in the animacy hierarchy – ultimately, only animate beings can function as true agents. Similarly, languages universally tend to place animate nouns earlier in the sentence than inanimate nouns.
+Animacy is a key component of agency – combined with other factors like "awareness of action". Agency and animacy are intrinsically linked – with each as a "conceptual property" of the other.
+
+See also
+Grammatical gender
+Noun class
+Classifier (linguistics)
+
+References
+Sources
+Crespo Cantalapiedra, I. (2024). La diversidad en las lenguas: la animacidad. Online book (in Spanish).
+Frishberg, Nancy.  (1972).  Navajo object markers and the great chain of being.  In J. Kimball (ed.), Syntax and semantics, vol. 1, p. 259–266.  New York: Seminar Press.
+Hale, Kenneth L.  (1973).  A note on subject–object inversion in Navajo.  In B. B. Kachru, R. B. Lees, Y. Malkiel, A. Pietrangeli, & S. Saporta (eds.), Issues in linguistics: Papers in honor of Henry and Renée Kahane, p. 300–309.  Urbana: University of Illinois Press.
+Thomas E. Payne, 1997. Describing morphosyntax: A guide for field linguists. Cambridge University Press. ISBN 0-521-58224-5.
+Young, Robert W., & Morgan, William, Sr. (1987). The Navajo language: A grammar and colloquial dictionary (rev. ed.). Albuquerque: University of New Mexico Press. ISBN 0-8263-1014-1.

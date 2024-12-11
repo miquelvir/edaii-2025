@@ -1,0 +1,117 @@
+847
+Bootstrapping
+In general, bootstrapping usually refers to a self-starting process that is supposed to continue or grow without external input. Many analytical techniques are often called bootstrap methods in reference to their self-starting or self-supporting implementation, such as bootstrapping (statistics), bootstrapping (finance), or bootstrapping (linguistics).
+
+Etymology
+Tall boots may have a tab, loop or handle at the top known as a bootstrap, allowing one to use fingers or a boot hook tool to help pull the boots on. The saying "to pull oneself up by one's bootstraps" was already in use during the 19th century as an example of an impossible task.  The idiom dates at least to 1834, when it appeared in the Workingman's Advocate: "It is conjectured that Mr. Murphee will now be enabled to hand himself over the Cumberland river or a barn yard fence by the straps of his boots." In 1860 it appeared in a comment on philosophy of mind: "The attempt of the mind to analyze itself is an effort analogous to one who would lift himself by his own bootstraps." Bootstrap as a metaphor, meaning to better oneself by one's own unaided efforts, was in use in 1922. This metaphor spawned additional metaphors for a series of self-sustaining processes that proceed without external help.
+
+The term is sometimes attributed to a story in Rudolf Erich Raspe's The Surprising Adventures of Baron Munchausen, but in that story Baron Munchausen pulls himself (and his horse) out of a swamp by his hair (specifically, his pigtail), not by his bootstraps –  and no explicit reference to bootstraps has been found elsewhere in the various versions of the Munchausen tales.
+Originally meant to attempt something ludicrously far-fetched or even impossible, the phrase "Pull yourself up by your bootstraps!" has since been utilized as a narrative for economic mobility or a cure for depression. That idea is believed to have been popularized by American writer Horatio Alger in the 19th century. To request that someone "bootstrap" is to suggest that they might overcome great difficulty by sheer force of will.
+Critics have observed that the phrase is used to portray unfair situations as far more meritocratic than they really are. A 2009 study found that 77% of Americans believe that wealth is often the result of hard work. Various studies have found that the main predictor of future wealth is not IQ or hard work, but initial wealth.
+
+Applications
+Computing
+In computer technology, the term bootstrapping refers to language compilers that are able to be coded in the same language. (For example, a C compiler is now written in the C language. Once the basic compiler is written, improvements can be iteratively made, thus pulling the language up by its bootstraps). Also, booting usually refers to the process of loading the basic software into the memory of a computer after power-on or general reset, the kernel will load the operating system which will then take care of loading other device drivers and software as needed.
+
+Software loading and execution
+Booting is the process of starting a computer, specifically with regard to starting its software. The process involves a chain of stages, in which at each stage, a relatively small and simple program loads and then executes the larger, more complicated program of the next stage. It is in this sense that the computer "pulls itself up by its bootstraps"; i.e., it improves itself by its own efforts. Booting is a chain of events that starts with execution of hardware-based procedures and may then hand off to firmware and software which is loaded into main memory. Booting often involves processes such as performing self-tests, loading configuration settings, loading a BIOS, resident monitors, a hypervisor, an operating system, or utility software.
+The computer term bootstrap began as a metaphor in the 1950s. In computers, pressing a bootstrap button caused a hardwired program to read a bootstrap program from an input unit. The computer would then execute the bootstrap program, which caused it to read more program instructions. It became a self-sustaining process that proceeded without external help from manually entered instructions. As a computing term, bootstrap has been used since at least 1953.
+
+Software development
+Bootstrapping can also refer to the development of successively more complex, faster programming environments. The simplest environment will be, perhaps, a very basic text editor (e.g., ed) and an assembler program. Using these tools, one can write a more complex text editor, and a simple compiler for a higher-level language and so on, until one can have a graphical IDE and an extremely high-level programming language.
+Historically, bootstrapping also refers to an early technique for computer program development on new hardware. The technique described in this paragraph has been replaced by the use of a cross compiler executed by a pre-existing computer. Bootstrapping in program development began during the 1950s when each program was constructed on paper in decimal code or in binary code, bit by bit (1s and 0s), because there was no high-level computer language, no compiler, no assembler, and no linker. A tiny assembler program was hand-coded for a new computer (for example the IBM 650) which converted a few instructions into binary or decimal code: A1. This simple assembler program was then rewritten in its just-defined assembly language but with extensions that would enable the use of some additional mnemonics for more complex operation codes. The enhanced assembler's source program was then assembled by its predecessor's executable (A1) into binary or decimal code to give A2, and the cycle repeated (now with those enhancements available), until the entire instruction set was coded, branch addresses were automatically calculated, and other conveniences (such as conditional assembly, macros, optimisations, etc.) established. This was how the early Symbolic Optimal Assembly Program (SOAP) was developed. [Compiler](662)s, linkers, loaders, and utilities were then coded in assembly language, further continuing the bootstrapping process of developing complex software systems by using simpler software.
+The term was also championed by Doug Engelbart to refer to his belief that organizations could better evolve by improving the process they use for improvement (thus obtaining a compounding effect over time). His SRI team that developed the NLS hypertext system applied this strategy by using the tool they had developed to improve the tool.
+
+[Compiler](662)s
+The development of compilers for new programming languages first developed in an existing language but then rewritten in the new language and compiled by itself, is another example of the bootstrapping notion.
+
+Installers
+During the installation of computer programs, it is sometimes necessary to update the installer or package manager itself. The common pattern for this is to use a small executable bootstrapper file (e.g., setup.exe) which updates the installer and starts the real installation after the update. Sometimes the bootstrapper also installs other prerequisites for the software during the bootstrapping process.
+
+Overlay networks
+A bootstrapping node, also known as a rendezvous host, is a node in an overlay network that provides initial configuration information to newly joining nodes so that they may successfully join the overlay network.
+
+Discrete-event simulation
+A type of computer simulation called discrete-event simulation represents the operation of a system as a chronological sequence of events. A technique called bootstrapping the simulation model is used, which bootstraps initial data points using a pseudorandom number generator to schedule an initial set of pending events, which schedule additional events, and with time, the distribution of event times approaches its steady state—the bootstrapping behavior is overwhelmed by steady-state behavior.
+
+[Artificial intelligence](622) and machine learning
+Bootstrapping is a technique used to iteratively improve a classifier's performance. Typically, multiple classifiers will be trained on different sets of the input data, and on prediction tasks the output of the different classifiers will be combined.
+Seed AI is a hypothesized type of artificial intelligence capable of recursive self-improvement. Having improved itself, it would become better at improving itself, potentially leading to an exponential increase in intelligence. No such AI is known to exist, but it remains an active field of research. Seed AI is a significant part of some theories about the technological singularity: proponents believe that the development of seed AI will rapidly yield ever-smarter intelligence (via bootstrapping) and thus a new era.
+
+Statistics
+Bootstrapping is a resampling technique used to obtain estimates of summary statistics.
+
+Business
+Bootstrapping in business means starting a business without external help or working capital. Entrepreneurs in the startup development phase of their company survive through internal cash flow and are very cautious with their expenses. Generally at the start of a venture, a small amount of money will be set aside for the bootstrap process. Bootstrapping can also be a supplement for econometric models. Bootstrapping was also expanded upon in the book Bootstrap Business by Richard Christiansen, the Harvard Business Review article The Art of Bootstrapping and the follow-up book The Origin and Evolution of New Businesses by Amar Bhide. There is also an entire bible written on how to properly bootstrap by Seth Godin.
+Experts have noted that several common stages exist for bootstrapping a business venture:
+
+Birth-stage: This is the first stage to bootstrapping by which the entrepreneur utilizes any personal savings or borrowed and/or invested money from friends and family to launch the business. It is also possible for the business owner to be running or working for another organization at the time which may help to fuel their business and cover initial expenses.
+Funding from sales to consumers-stage: In this particular stage, money from customers is used to keep the business operating afloat. Once expenses caused by normal day-to-day business operations are met, the rate growth usually increases.
+Outsourcing-stage: At this point in the company's existence, the entrepreneur in question normally concentrates on the specific operating activities. This is the time in which entrepreneurs decide how to improve and upgrade equipment (subsequently increasing output) or even employing new staff members. At this point in time, the company may seek loans or even lean on other methods of additional funding such as venture capital to help with expansion and other improvements.
+There are many types of companies that are eligible for bootstrapping. Early-stage companies that do not necessarily require large influxes of capital (particularly from outside sources) qualify. This would specifically allow for flexibility for the business and time to grow. Serial entrepreneur companies could also possibly reap the benefits of bootstrapping. These are organizations whereby the founder has money from the sale of a previous companies they can use to invest.
+There are different methods of bootstrapping. Future business owners aspiring to use bootstrapping as way of launching their product or service often use the following methods:
+
+Using accessible money from their own personal savings.
+Managing their working capital in a way that minimizes their company's accounts receivable.
+Cashing out 401k retirement funds and pay them off at later dates.
+Gradually increasing the business' accounts payable through delaying payments or even renting equipment instead of buying them.
+Bootstrapping is often considered successful. When taking into account statistics provided by Fundera, approximately 77% of small business rely on some sort of personal investment and or savings in order to fund their startup ventures. The average small business venture requires approximately $10,000 in startup capital with a third of small business launching with less than $5,000 bootstrapped.
+Based on startup data presented by Entrepreneur.com, in comparison other methods of funding, bootstrapping is more commonly used than others. "0.91% of startups are funded by angel investors, while 0.05% are funded by VCs. In contrast, 57 percent of startups are funded by personal loans and credit, while 38 percent receive funding from family and friends."
+Some examples of successful entrepreneurs that have used bootstrapping in order to finance their businesses include serial entrepreneur Mark Cuban. He has publicly endorsed bootstrapping claiming that "If you can start on your own … do it by yourself without having to go out and raise money." When asked why he believed this approach was most necessary, he replied, "I think the biggest mistake people make is once they have an idea and the goal of starting a business, they think they have to raise money. And once you raise money, that's not an accomplishment, that's an obligation" because "now, you're reporting to whoever you raised money from."
+Bootstrapped companies such as Apple Inc. (APPL), eBay Inc. (EBAY) and Coca-Cola Co. have also claimed that they attribute some of their success to the fact that this method of funding enables them to remain highly focused on a specific array of profitable product.
+Startups can grow by reinvesting profits in its own growth if bootstrapping costs are low and return on investment is high. This financing approach allows owners to maintain control of their business and forces them to spend with discipline. In addition, bootstrapping allows startups to focus on customers rather than investors, thereby increasing the likelihood of creating a profitable business. This leaves startups with a better exit strategy with greater returns. 
+Leveraged buyouts, or highly leveraged or "bootstrap" transactions, occur when an investor acquires a controlling interest in a company's equity and where a significant percentage of the purchase price is financed through leverage, i.e. borrowing by the acquired company. 
+Bootstrapping in finance refers to the method to create the spot rate curve. Operation Bootstrap (Operación Manos a la Obra) refers to the ambitious projects that industrialized Puerto Rico in the mid-20th century.
+
+Biology
+Richard Dawkins in his book River Out of Eden used the computer bootstrapping concept to explain how biological cells differentiate: "Different cells receive different combinations of chemicals, which switch on different combinations of genes, and some genes work to switch other genes on or off. And so the bootstrapping continues, until we have the full repertoire of different kinds of cells."
+
+Phylogenetics
+Bootstrapping analysis gives a way to judge the strength of support for clades on phylogenetic trees. A number is written by a node, which reflects the percentage of bootstrap trees which also resolve the clade at the endpoints of that branch.
+
+Law
+Bootstrapping is a rule preventing the admission of hearsay evidence in conspiracy cases.
+
+Linguistics
+Bootstrapping is a theory of language acquisition.
+
+Physics
+Quantum theory
+Bootstrapping is using very general consistency criteria to determine the form of a quantum theory from some assumptions on the spectrum of particles or operators.
+
+Magnetically confined fusion plasmas
+In tokamak fusion devices, bootstrapping refers to the process in which a bootstrap current is self-generated by the plasma, which reduces or eliminates the need for an external current driver. Maximising the bootstrap current is a major goal of advanced tokamak designs.
+
+Inertially confined fusion plasmas
+Bootstrapping in inertial confinement fusion refers to the alpha particles produced in the fusion reaction providing further heating to the plasma. This heating leads to ignition and an overall energy gain.
+
+Electronics
+Bootstrapping is a form of positive feedback in analog circuit design.
+
+Electric power grid
+An electric power grid is almost never brought down intentionally. Generators and power stations are started and shut down as necessary. A typical power station requires power for start up prior to being able to generate power. This power is obtained from the grid, so if the entire grid is down these stations cannot be started.
+Therefore, to get a grid started, there must be at least a small number of power stations that can start entirely on their own. A black start is the process of restoring a power station to operation without relying on external power. In the absence of grid power, one or more black starts are used to bootstrap the grid.
+
+Nuclear power
+A nuclear power plant always needs to have a way to remove decay heat, which is usually done with electrical cooling pumps.  But in the rare case of a complete loss of electrical power, this can still be achieved by booting a turbine generator.  As steam builds up in the steam generator, it can be used to power the turbine generator (initially with no oil pumps, circ water pumps, or condensation pumps).  Once the turbine generator is producing electricity, the auxiliary pumps can be powered on, and the reactor cooling pumps can be run momentarily.  Eventually the steam pressure will become insufficient to power the turbine generator, and the process can be shut down in reverse order.  The process can be repeated until no longer needed. This can cause great damage to the turbine generator, but more importantly, it saves the nuclear reactor.
+
+Cellular networks
+A Bootstrapping Server Function (BSF) is an intermediary element in cellular networks which provides application independent functions for mutual authentication of user equipment and servers unknown to each other and for 'bootstrapping' the exchange of secret session keys afterwards. The term 'bootstrapping' is related to building a security relation with a previously unknown device first and to allow installing security elements (keys) in the device and the BSF afterwards.
+
+See also
+Causal loop, also known as Bootstrap paradox – Theoretical paradox resulting from time travelPages displaying short descriptions of redirect targets
+Conceptual metaphor – In cognitive linguistics, relating conceptual domains
+Horatio Alger myth – American novelist (1832–1899)Pages displaying short descriptions of redirect targets
+Münchhausen trilemma – Thought experiment used to demonstrate the impossibility of proving any truth
+Neurathian bootstrap – Philosophical analogy about knowledgePages displaying short descriptions of redirect targets
+Robert A. Heinlein's short sci-fi story By His Bootstraps
+Rugged individualism – Phrase coined by Herbert Hoover
+The Doug Engelbart Institute, also known as The Bootstrap Alliance
+
+References
+External links
+
+Dictionary.com entries for Bootstrap
+Freedictionary.com entries for Bootstrap
+A video talk by Douglas Engelbart on Bootstrapping on YouTube
+Engelbart Institute on Bootstrapping Strategies

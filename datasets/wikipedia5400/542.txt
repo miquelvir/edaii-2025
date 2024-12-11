@@ -1,0 +1,20 @@
+542
+Ambopteryx
+Ambopteryx (meaning "both wing") is a genus of scansoriopterygid dinosaur from the Oxfordian stage of the Late Jurassic of China. It is the second dinosaur to be found with both feathers and bat-like membranous wings. Yi, the first such dinosaur, was described in 2015 and is the sister taxon to Ambopteryx. The holotype specimen is thought to be a sub-adult or adult. The specimen is estimated to have had a body length of 32 centimetres (13 in) and a weight of 306 grams (10.8 oz). The genus includes one species, Ambopteryx longibrachium.
+
+Discovery and naming
+The generic name Ambopteryx is derived from the Latin word ambo meaning "both" and Ancient Greek word πτέρυξ (pteryx) meaning "wing", a reference to the animal's membranous wings and bird-like body plan. The specific name longibrachium is derived from the Latin words longus meaning "long" and brachium meaning "upper arm".
+The holotype specimen, IVPP V24192, is an articulated and nearly complete skeleton with associated soft tissue preserved on a slab and a counter slab. It was recovered in 2017 from the stratigraphic equivalent of the Haifanggou Formation near Wubaiding Village in the Liaoning Province and belongs to the Yanliao Biota.
+The type specimen is interpreted as either a subadult or an adult based on the fusion of the pygostyle. Its wing membrane is preserved as a continuous brownish layer on the matrix surrounding the left hand, right forelimb, and abdomen. The head, neck, and shoulder regions are covered with dense layers of feather.
+
+Description
+Like other scansoriopterygids, Ambopteryx had a short, blunt head and a hyper-elongate third finger. It was previously believed that scansoriopterygids used their third finger to extract grubs from wood, like the extant aye-aye. However, Wang et al. think the primary function of the third finger was the attachment of the wing membrane, or patagium, as their fingers were probably surrounded by membranous tissue and had limited mobility.
+Among scansoriopterygids, Ambopteryx was most closely related to Yi, with which it shared a "styliform element", an elongate bone that extended from the distal (far) end of the ulna. The styliform element was slightly curved and tapered towards the distal end. It supported the wing membrane, which stretched from the third finger down to the abdomen.
+
+The forelimbs of Ambopteryx were about 1.3 times longer than the hindlimbs, with the ulna being shorter than the humerus and almost twice as wide as the width of the radius. Unlike most other non-avian theropods, it had a short tail that lacked a transitional point and ended in a pygostyle, a set of fused tail vertebrae. The only other non-avian theropod that are known to have had a pygostyle are certain oviraptorosaurs and therizinosaurs.
+
+Paleobiology
+The abdominal region of Ambopteryx contains a small number of gastroliths and large fragments of what appears to be bone. The bone probably represents stomach contents. Previously, the diet of scansoriopterygids was unknown but their unusual dental morphology and the presence of gastroliths and possible bone fragments in Ambopteryx suggests they were omnivorous.
+
+
+== References ==

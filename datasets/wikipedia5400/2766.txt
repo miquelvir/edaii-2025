@@ -1,0 +1,54 @@
+2766
+Food and Agriculture Organization Corporate Statistical Database
+The Food and [Agriculture](519) Organization Corporate Statistical Database (FAOSTAT) website disseminates statistical data collected and maintained by the Food and [Agriculture](519) Organization (FAO). FAOSTAT data are provided as a time-series from 1961 in most domains for 245 countries in English, Spanish and French.
+
+About FAOSTAT
+FAOSTAT is maintained by the Statistics Division of the Food and [Agriculture](519) Organization of the United Nations. In working directly with the countries, the Statistics Division supports the development of national statistical strategies, the strengthening of Institution and technical capacities, and the improvement of statistical systems.
+The FAOSTAT system is one of FAO’s most important corporate systems. It is a major component of FAO’s information systems, contributing to the organization’s strategic objective of collecting, analyzing, interpreting, and disseminating information relating to nutrition, food and agriculture for development and the fight against global hunger and malnutrition. It is at the core of the World Agricultural Information Centre (WAICENT). WAICENT gives access to FAO’s vast store of information on agricultural and food topics – statistical data, documents, books, images, and maps.
+
+FAOSTAT Domains
+Production The Agricultural Production domain covers: Produced quantities, producer prices, value at farmgate, harvested area, yield per hectare.
+Trade The [Agriculture](519) Trade domain provides comprehensive, comparable, and up-to-date annual trade statistics by country, region and economic country groups for about 600 individual food and agriculture commodities since 1961. The detailed food and agriculture trade data collected, processed and disseminated by FAO according to the standard International Merchandise Trade Statistics Methodology (IMTS) are directly submitted by the national authorities to FAO or received via international or regional partner organizations. Data for missing reporters are estimated manly through the use of the data reported by the trading partners. The total merchandise trade value by country is annually updated according to the national publications on Balance of Payment and trade statistics and harmonised with the consolidated figures disseminated by the WTO-Common Data Set (CDS) on Total Merchandise Trade Statistics by countries.
+Food Security Food supply data is some of the most important data in FAOSTAT. In fact, this data is for the basis for estimation of global and national undernourishment assessment, when it is combined with parameters and other data sets. This data has been the foundation of Food Balance Sheets ever since they were first constructed. The data is accessed by both business and governments for economic analysis and policy setting, as well as being used by the academic community.
+Agri-Environmental Indicators Agri-environmental indicators (AEI) are indicators able to describe and assess state and trends in the environmental performance of agriculture to furnish useful indications to scientists and policymakers about the state of the environment, about the effects of different policies, as well as about the efficiency in the use of budgets in terms of environmental outcomes.
+Food Balance Sheet A food balance sheet presents a comprehensive picture of the pattern of a country's food supply during a specified reference period. Food balance sheets are prepared for both individual countries and regional/economic country aggregates. The domain covers production, trade, feed and seed, waste, other utilisation, and food availability.
+Prices The prices domain of FAOSTAT contains: annual and monthly producer prices, annual producer price index, and consumer price index.
+Resources Some of the most interesting data for economists is found in this domain. The national distribution of land, among arable land, pasture and other lands, as well as the importance of irrigation are just some of the interesting data sets.
+Emissions FAOSTAT data on Greenhouse Gas (GHG) emissions by countries are provided within the FAOSTAT Emissions database 1,2,3, covering nearly 200 countries. GHG emissions are estimated in agreement with the default methodologies of the Intergovernmental Panel on Climate Change (IPCC) 2006 Guidelines for National GHG Inventories 2.  The FAOSTAT Emissions data directly contributed to the IPCC 5th Assessment Report 3. The GHG data are updated automatically at annual intervals. They are accessible in FAOSTAT via two separate domains: Emissions-[Agriculture](519) and Emissions-Land Use.
+Emissions-[Agriculture](519) This FAOSTAT data domain contains estimates of GHG emissions for nearly 200 countries, for the reference period 1961–present 1,2,3, following default (Tier 1) IPCC 2006 Guidelines for National GHG Inventories 4. Emissions from agriculture comprise methane (CH4) and nitrous oxide (N2O) gases released through microbial fixation and decomposition processes in crop fields and livestock systems, in the following sub-categories:
+Enteric Fermentation
+Manure Management
+Rice Cultivation
+Synthetic Fertilizers
+Manure applied to Soils
+Manure left on Pasture
+Crop Residues
+Cultivation of Organic Soils
+Burning - Crop Residues
+Burning – Savanna
+Energy Use in [Agriculture](519)
+The FAOSTAT data contributed to the IPCC Fifth Assessment Report 5.
+
+Emissions-Land Use This FAOSTAT data domain contains estimates of GHG emissions for nearly 200 countries, for the reference period 1990-2010 1, 2, 3, following default (Tier 1) IPCC 2006 Guidelines for National GHG Inventories 4. The GHG data include emissions by sources and removals by sinks from Forestry and Other Land Use activities (FOLU), also referred to as Land Use, Land Use Change and Forestry (LULUCF). Except for Biomass Burning, containing only non-CO2 emissions from anthropogenic fires, FOLU emissions and removals are dominated by CO2 lost or stored as a result of human intervention on the following four IPCC land use categories:
+Forest Land (net forest conversion, forest)
+Cropland (cropland organic soils)
+Grassland (grassland organic soils)
+Biomass Burning (biomass and peat fires)
+Emissions and removals are calculated both within land categories (e.g. due to management) and for conversion between land categories (e.g. due to human-driven land use change). Data contribute to the IPCC Fifth Assessment Report 5.
+
+Investment In the FAOSTAT investment domain, data can be found on private investment in agriculture, official development assistance to agriculture, and government spending.
+Forestry FAOSTAT–Forestry provides annual production and trade estimates for numerous forest products, primarily wood products such as roundwood, sawnwood, wood panels, pulp and paper. For many forest products, historical data are available from 1961. The forestry domain covers: forestry production and forestry trade flows.
+World Census of [Agriculture](519) This FAOSTAT data domain, entitled "Structural data from agricultural censuses," was launched in 2022. This domain contains structural data from agricultural censuses conducted since the 1930 decade, under the decennial World Programme for the Census of [Agriculture](519). Structural data include the size and number of agricultural holdings, the holder’s gender, the type of land tenure, the legal status of holders, as well as information on land use, crop area and farm labour.
+Data contained in FAOSTAT are also published in the FAO Statistical Yearbook in hard copy and online.
+
+See also
+Regional Data Exchange System
+
+References
+FAO, 2014. [Agriculture](519), Forestry and Other Land Use Emissions by Sources and Removals by Sinks: 1990-2011 Analysis. FAO Statistics Division Working Paper Series, 14/01. UN FAO, Rome, Italy.
+Tubiello, F. N., Salvatore, M., Ferrara. A., Rossi. S., Fitton. N., and Smith. P., 2013. The FAOSTAT database of GHG Emissions from agriculture, Env. Res. Lett. 8 doi:10.1088/1748-9326/8/1/015009.
+IPCC, 2006. 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Prepared by the National Greenhouse Gas Inventories Programme, Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (Eds), IGES, Hayama, Japan.
+Smith, P., Bustamante, M., Ahammad, H., Clark, H., Dong, H., Elsiddig, E.A., Haberl, H., Harper, R., House, J., Jafari, M., Masera, O., Mbow, C., Ravindranath, N.H., Rice, C.W., Robledo Abad, C., Romanovskaya, A., Sperling, F., Tubiello, F.N., 2014. [Agriculture](519), Forestry and Other Land Use (AFOLU). In Climate change 2014: Mitigation. Contribution of Working group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change
+
+External links
+Official website

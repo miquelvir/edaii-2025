@@ -1,0 +1,34 @@
+2846
+Flavan-3-ol
+Flavan-3-ols (sometimes referred to as flavanols) are a subgroup of flavonoids. They are derivatives of flavans that possess a 2-phenyl-3,4-dihydro-2H-chromen-3-ol skeleton. Flavan-3-ols are structurally diverse and include a range of compounds, such as catechin, epicatechin gallate, epigallocatechin, epigallocatechin gallate, proanthocyanidins, theaflavins, thearubigins. They play a part in plant defense and are present in the majority of plants.
+
+Chemical structure
+The single-molecule (monomer) catechin, or isomer epicatechin (see diagram), adds four hydroxyls to flavan-3-ol, making building blocks for concatenated polymers (proanthocyanidins) and higher order polymers (anthocyanidins).
+Flavan-3-ols possess two chiral carbons, meaning four diastereoisomers occur for each of them. They are distinguished from the yellow, ketone-containing flavonoids such as quercitin and rutin, which are called flavonols. Early use of the term bioflavonoid was imprecisely applied to include the flavanols, which are distinguished by absence of ketone(s).  Catechin monomers, dimers, and trimers (oligomers) are colorless. Higher order polymers, anthocyanidins, exhibit deepening reds and become tannins.
+Catechin and epicatechin are epimers, with (–)-epicatechin and (+)-catechin being the most common optical isomers found in nature. Catechin was first isolated from the plant extract catechu, from which it derives its name. Heating catechin past its point of decomposition releases pyrocatechol (also called catechol), which explains the common origin of the names of these compounds.
+Epigallocatechin and gallocatechin contain an additional phenolic hydroxyl group when compared to epicatechin and catechin, respectively, similar to the difference in pyrogallol compared to pyrocatechol.
+Catechin gallates are gallic acid esters of the catechins; an example is epigallocatechin gallate, which is commonly the most abundant catechin in tea. Proanthocyanidins and thearubigins are oligomeric flavan-3-ols.
+In contrast to many other flavonoids, flavan-3-ols do not generally exist as glycosides in plants.
+
+Biosynthesis of (–)-epicatechin
+The flavonoids are products from a cinnamoyl-CoA starter unit, with chain extension using three molecules of malonyl-CoA. Reactions are catalyzed by a type III PKS enzyme. These enzyme do not use ACPSs, but instead employ coenzyme A esters and have a single active site to perform the necessary series of reactions, e.g. chain extension, condensation, and cyclization. Chain extension of 4-hydroxycinnamoyl-CoA with three molecules of malonyl-CoA gives initially a polyketide (Figure 1), which can be folded. These allow Claisen-like reactions to occur, generating aromatic rings. Fluorescence-lifetime imaging microscopy (FLIM) can be used to detect flavanols in plant cells.
+
+Figure 1:Schematic overview of the flavan-3-ol (–)-epicatechin biosynthesis in plants: Enzymes are indicated in blue, abbreviated as follows: E1, phenylalanine ammonia lyase (PAL), E2, tyrosine ammonia lyase (TAL), E3, cinnamate 4-hydroxylase, E4, 4-coumaroyl: CoA-ligase, E5, chalcone synthase (naringenin-chalcone synthase), E6, chalcone isomerase, E7, [Flavonoid](2847) 3'-hydroxylase, E8, flavonone 3-hydroxylase, E9, dihydroflavanol 4-reductase, E10, anthocyanidin synthase (leucoanthocyanidin dioxygenase), E11, anthocyanidin reductase. HSCoA, Coenzyme A. L-Tyr, L-tyrosine, L-Phe, L-phenylalanine.
+
+Aglycones
+Dietary sources
+Flavan-3-ols are abundant in teas derived from the tea plant Camellia sinensis, as well as in some cocoas (made from the seeds of Theobroma cacao), although the content is affected considerably by processing, especially in chocolate.  Flavan-3-ols are also present in the human diet in fruits, in particular pome fruits, berries, vegetables, and wine. Their content in food is variable and affected by various factors, such as cultivar, processing, and preparation.
+
+Bioavailability and metabolism
+The bioavailability of flavan-3-ols depends on the food matrix, type of compound and their stereochemical configuration. While monomeric flavan-3-ols are readily taken up, oligomeric forms are not absorbed. Most data for human metabolism of flavan-3-ols are available for monomeric compounds, especially epiatechin. These compounds are taken up and metabolized upon uptake in the jejunum, mainly by O-methylation and glucuronidation, and then further metabolized by the liver. The colonic microbiome has also an important role in the metabolism of flavan-3-ols and they are catabolized to smaller compounds such as 5-(3′/4′-dihydroxyphenyl)-γ-valerolactones and hippuric acid. Only flavan-3-ols with an intact (epi)catechin moiety can be metabolized into 5-(3′/4′-dihydroxyphenyl)-γ-valerolactones (image in Gallery).
+
+Possible adverse effects
+As catechins in green tea extract can be hepatotoxic, Health Canada and EFSA have advised for caution, recommending intake should not exceed 800 mg per day.
+
+Research
+Research has shown that flavan-3-ols may affect vascular function, blood pressure, and blood lipids, with only minor effects demonstrated, as of 2019. In 2015, the European Commission approved a health claim for cocoa solids containing 200 mg of flavanols, stating that such intake "may contribute to maintenance of vascular elasticity and normal blood flow". As of 2022, food-based evidence indicates that intake of 400–600 mg per day of flavan-3-ols could have a small positive effect on cardiovascular biomarkers.
+
+Gallery
+References
+External links
+ Media related to Flavan-3-ols at Wikimedia Commons

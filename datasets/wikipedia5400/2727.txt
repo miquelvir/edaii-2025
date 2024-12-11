@@ -1,0 +1,48 @@
+2727
+Catalogue of Life
+The Catalogue of Life is an online database that provides an index of known species of animals, plants, fungi, and microorganisms. It was created in 2001 as a partnership between the global Species 2000 and the American [Integrated Taxonomic Information System](2799). The Catalogue is used by research scientists, citizen scientists, educators, and policy makers. The Catalogue is also used by the Biodiversity Heritage Library, the [Barcode of Life Data System](186), [Encyclopedia of Life](2762), and the [Global Biodiversity Information Facility](2784). The Catalogue currently compiles data from 165 peer-reviewed taxonomic databases that are maintained by specialist institutions around the world. As of September 2022, the COL Checklist lists 2,067,951 of the world's 2.2m extant species known to taxonomists on the planet at present time.
+
+Structure
+The Catalogue of Life employs a simple data structure to provide information on synonymy, grouping within a taxonomic hierarchy, common names, distribution and ecological environment. It provides a dynamic edition, which is updated monthly (and in which data can change without tracking of those changes) and an Annual Checklist, which provides a dated, verifiable reference for the usage of names and associated data.  Development of the Catalogue of Life was funded through the Species 2000 europa (EuroCat), 4d4Life, i4Life projects in 2003–2013, and later by the Naturalis Biodiversity Center, Leiden, the Netherlands and Species Files group at Illinois Natural History Survey in Champaign-Urbana.
+Current people governing the CoL, contributors, and other relevant information which changes over time, are listed on the CoL Web site.
+
+Usage
+Much of the use of the Catalogue is to provide a backbone taxonomy for other global data portals and biological collections. Through the i4Life project, it has formal partnerships with [Global Biodiversity Information Facility](2784), European Nucleotide Archive, [Encyclopedia of Life](2762), European Consortium for the Barcode of Life, IUCN Red List, and Life Watch. The public interface includes both search and browse functions as well as offering multi-lingual services.
+The Catalogue listed 300,000 species by 2003, 500,000 species by 2005, and over 800,000 species by 2006. As of 2019, the Catalogue listed 1.9 million extant and extinct species. There are an estimated 14 million mainly unpublished species; however, this number is uncertain as there is a lack of data on the possible number of undescribed insects, nematodes, bacteria, fungi and many others.
+
+Catalogue of Life Plus
+In 2015, an expert panel presented a consensus hierarchical classification of life which included some sectors not yet represented in the published Catalogue. In the same year, the Catalogue of Life, [Barcode of Life Data System](186), Biodiversity Heritage Library, [Encyclopedia of Life](2762), and the [Global Biodiversity Information Facility](2784) (GBIF) met to consider building a single shared authoritative nomenclature and taxonomic foundation "Catalogue of Life Plus" that could be used to order and connect biodiversity data, including content not yet in CoL but available via other sources, to serve both the users of the present Catalogue and users of extended taxonomic content (such as GBIF) using a common infrastructure. COL+ will develop a clearinghouse covering scientific names across all life, provide a single taxonomic view, and provide an avenue for feedback from content authorities. The CoL is developing in conjunction with the Global Species List Working Group to avoid replication and work towards an authoritative global list of species.
+
+See also
+ARKive
+[Encyclopedia of Life](2762)
+Global biodiversity
+[Global Biodiversity Information Facility](2784)
+[Integrated Taxonomic Information System](2799)
+Wikispecies
+World Register of Marine Species
+
+References
+Further reading
+Blundell N (2005). There's more to life on Earth. Telegraph Online, 8 Dec 2005 (retrieved 2012-05-03).
+
+External links
+Catalogue of Life: historical checklist downloads
+2022 Annual Checklist, 2,065,448 species – https://doi.org/10.48580/dfq8
+2021 Annual Checklist, 2,008,947 species – https://doi.org/10.48580/dfq8
+2019 Annual Checklist, 1,900,983 species (incl. 63,418 extinct species)
+2018 Annual Checklist, 1,803,488 species (incl. 59,284 extinct species)
+2017 Annual Checklist, 1,713,852 species (incl. 49,346 extinct species)
+2016 Annual Checklist, 1,640,969 species
+2015 Annual Checklist, 1,606,554 species
+2014 Annual Checklist, 1,578,063 species
+2013 Annual Checklist, 1,352,112 species
+2012 Annual Checklist, 1,404,038 species
+2011 Annual Checklist, 1,347,224 species
+2010 Annual Checklist, 1,257,735 species
+2009 Annual Checklist, 1,160,711 species
+2008 Annual Checklist, 1,105,589 species
+2007 Annual Checklist, 1,008,965 species
+2006 Annual Checklist, 884,552 species
+2005 Annual Checklist, 526,323 species
+A list of contributing databases

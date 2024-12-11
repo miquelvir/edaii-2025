@@ -1,0 +1,255 @@
+4777
+Gemination
+In phonetics and phonology, gemination (; from Latin geminatio 'doubling', itself from gemini 'twins'), or consonant lengthening, is an articulation of a consonant for a longer period of time than that of a singleton consonant. It is distinct from stress. Gemination is represented in many writing systems by a doubled letter and is often perceived as a doubling of the consonant. Some phonological theories use 'doubling' as a synonym for gemination, while others describe two distinct phenomena.
+[Consonant](4776) length is a distinctive feature in certain languages, such as  Japanese. Other languages, such as Greek, do not have word-internal phonemic consonant geminates.
+[Consonant](4776) gemination and vowel length are independent in languages like [Arabic](4233), Japanese, Finnish and Estonian; however, in languages like Italian, Norwegian, and Swedish, vowel length and consonant length are interdependent. For example, in Norwegian and Swedish, a geminated consonant is always preceded by a short vowel, while an ungeminated consonant is preceded by a long vowel.
+
+Phonetics
+Lengthened fricatives, nasals, laterals, approximants and trills are simply prolonged. In lengthened stops, the obstruction of the airway is prolonged, which delays release, and the "hold" is lengthened.
+In terms of consonant duration, Berber and Finnish are reported to have a 3-to-1 ratio, compared with around 2-to-1 (or lower) in Japanese, Italian, and Turkish.
+
+Phonology
+Gemination of consonants is distinctive in some languages and then is subject to various phonological constraints that depend on the language.
+In some languages, like Italian, Swedish, Faroese, Icelandic, and Luganda, consonant length and vowel length depend on each other. A short vowel within a stressed syllable almost always precedes a long consonant or a consonant cluster, and a long vowel must be followed by a short consonant. In Classical [Arabic](4233), a long vowel was lengthened even more before permanently-geminate consonants.
+In other languages, such as Finnish, consonant length and vowel length are independent of each other. In Finnish, both are phonemic; taka /taka/ 'back', takka /takːa/ 'fireplace' and taakka /taːkːa/ 'burden' are different, unrelated words. Finnish consonant length is also affected by consonant gradation. Another important phenomenon is sandhi, which produces long consonants at word boundaries when there is an archiphonemic glottal stop |otaʔ se| > otas se 'take it (imperative)!'.
+In addition, in some Finnish compound words, if the initial word ends in an e, the initial consonant of the following word is geminated: jätesäkki 'trash bag' jætesːækːi, tervetuloa 'welcome' terʋetːuloa. In certain cases, a v after a u is geminated by most people: ruuvi 'screw' /ruːʋːi/, vauva 'baby' ʋauʋːa. In the Tampere dialect, if a word receives gemination of v after u, the u is often deleted (ruuvi ruʋːi, vauva ʋaʋːa), and lauantai 'Saturday', for example, receives a medial v lauʋantai, which can in turn lead to deletion of u (laʋːantai).
+Distinctive consonant length is usually restricted to certain consonants and environments. There are very few languages that have initial consonant length; among those that do are Pattani Malay, Chuukese, Moroccan [Arabic](4233), a few Romance languages such as Sicilian and Neapolitan, as well as many High Alemannic German dialects, such as that of Thurgovia. Some African languages, such as Setswana and Luganda, also have initial consonant length: it is very common in Luganda and indicates certain grammatical features. In colloquial Finnish and Italian, long consonants occur in specific instances as sandhi phenomena.
+The difference between singleton and geminate consonants varies within and across languages. Sonorants show more distinct geminate-to-singleton ratios while sibilants have less distinct ratios. The bilabial and alveolar geminates are generally longer than velar ones.
+The reverse of gemination reduces a long consonant to a short one, which is called degemination. It is a pattern in Baltic-Finnic consonant gradation that the strong grade (often the nominative) form of the word is degeminated into a weak grade (often all the other cases) form of the word: taakka > taakan (burden, of the burden). As a historical restructuring at the phonemic level, word-internal long consonants degeminated in Western Romance languages: e.g. Spanish /ˈboka/ 'mouth' vs. Italian /ˈbokka/, both of which evolved from Latin /ˈbukka/.
+
+Examples
+Afroasiatic languages
+[Arabic](4233)
+Written [Arabic](4233) indicates gemination with a diacritic (ḥaraka) shaped like a lowercase Greek omega or a rounded Latin w, called the شَدَّة shadda: ّ . Written above the consonant that is to be doubled, the shadda is often used to disambiguate words that differ only in the doubling of a consonant where the word intended is not clear from the context. For example, in [Arabic](4233), Form I verbs and Form II verbs differ only in the doubling of the middle consonant of the triliteral root in the latter form, e. g., درس darasa (with full diacritics: دَرَسَ) is a Form I verb meaning to study, whereas درّس darrasa (with full diacritics: دَرَّسَ) is the corresponding Form II verb, with the middle r consonant doubled, meaning to teach.
+
+Berber
+In Berber, each consonant has a geminate counterpart, and gemination is lexically contrastive. The distinction between single and geminate consonants is attested in medial position as well as in absolute initial and final positions.
+
+ini 'say'
+inni 'those in question'
+akal 'earth, soil'
+akkal 'loss'
+imi 'mouth'
+immi 'mother'
+ifis 'hyena'
+ifiss 'he was quiet'
+tamda 'pond, lake, oasis'
+tamedda 'brown buzzard, hawk'
+In addition to lexical geminates, Berber also has phonologically-derived and morphologically-derived geminates. Phonological alternations can surface by concatenation (e.g., fas sin 'give him two!') or by complete assimilation (e.g. /rad = k i-sli/ rakk isli 'he will touch you'). Morphological alternations include imperfective gemination, with some Berber verbs forming their
+imperfective stem by geminating one consonant in their perfective stem (e.g., ftu 'go! PF', fttu 'go! IMPF'), as well as quantity alternations between singular and plural forms (e.g., afus 'hand', ifassn 'hands').
+
+[Austronesian languages](2925)
+[Austronesian languages](2925) in the Philippines, Micronesia, and Sulawesi are known to have geminate consonants.
+
+Kavalan
+The Formosan language Kavalan makes use of gemination to mark intensity, as in sukaw 'bad' vs. sukkaw 'very bad'.
+
+Malay dialects
+Word-initial gemination occurs in various Malay dialects, particularly those found on the east coast of the Malay Peninsula such as Kelantan-Pattani Malay and Terengganu Malay. Gemination in these dialects of Malay occurs for various purposes such as:
+
+To form a shortened free variant of a word or phrase so that:
+buwi /buwi/ > /wːi/ 'give'
+ke darat /kə darat/ > /dːarat/ 'to/at/from the shore'
+A replacement of reduplication for its various uses (e.g. to denote plural, to form a different word, etc.) in Standard Malay so that:
+budak-budak /budak budak/ > /bːudak/ 'children'
+layang-layang /lajaŋ lajaŋ/ > /lːajaŋ/ 'kite'
+
+Tuvaluan
+The Polynesian language Tuvaluan allows for word-initial geminates, such as mmala 'overcooked'.
+
+Indo-European languages
+English
+In English phonology, consonant length is not distinctive within root words. For instance, baggage is pronounced , not */bæɡːɪdʒ/. However, phonetic gemination does occur marginally.
+Gemination is found across words and across morphemes when the last consonant in a given word and the first consonant in the following word are the same fricative, nasal, or stop.
+For instance:
+
+b: subbasement ˈsʌb.beɪs.mənt
+d: midday ˈmɪdˌdeɪ
+f: life force ˈlaɪfˌfɔ(ɹ)s
+g: egg girl ˈɛɡ.ɡɝl
+k: bookkeeper ˈbʊk̚ˌkɪi.pə(ɹ)
+l: wholly ˈhoʊl.li (compare holy)
+m: calm man ˌkɑːmˈmæn or roommate ˈrʊum.meɪt (in some dialects) or prime minister ˌpɹaɪmˈmɪnɪstə(ɹ)
+n: evenness ˈɪi.vən.nəs
+p: lamppost ˈlæmp̚ˌpoʊst (compare lamb post, compost)
+r: interregnum ˌɪn.tə(ɹ)ˈɹɛɡ.nəm or fire road ˈfaɪəɹˌɹoʊd
+s: misspell ˌmɪsˈspɛl or this saddle ðɪsˈsædəl
+sh: fish shop ˈfɪʃ.ʃɒp
+t: cat tail ˈkæt̚ˌteɪl
+th: both thighs ˈboʊθ'θaɪz
+v: live voter ˈlaɪv.voʊtə(ɹ)
+z: pays zero ˈpeɪzˈziˌɹoʊ
+With affricates, however, this does not occur. For instance:
+
+orange juice ˈɒɹɪndʒ.dʒʊus
+In most instances, the absence of this doubling does not affect the meaning, though it may confuse the listener momentarily. The following minimal pairs represent examples where the doubling does affect the meaning in most accents:
+
+ten nails versus ten ales
+this sin versus this inn
+five valleys versus five alleys
+his zone versus his own
+mead day versus me-day
+unnamed ˌʌnˈneɪmd versus unaimed ʌnˈeɪmd
+forerunner ˈfɔ(ɹ)ˌɹənə(ɹ) versus foreigner ˈfɔɹənəɹ
+Note that whenever (ɹ) appears (in brackets), non-rhotic dialects of English don't have the gemination, but rather lengthen the preceding vowel.
+In some dialects gemination is also found for some words when the suffix -ly follows a root ending in -l or -ll, as in:
+
+solely ˈsoʊl.li
+but not
+
+usually ˈjʊuˌʒ(ʊ)ə.li
+In some varieties of Welsh English, the process takes place indiscriminately between vowels, e.g. in money ˈmɜn.niː but it also applies with graphemic duplication (thus, orthographically dictated), e.g. butter ˈbɜt̚.tə
+
+French
+In French, gemination is usually not phonologically relevant and therefore does not allow words to be distinguished: it mostly corresponds to an accent of insistence (c'est terrifiant realised ˈtɛʁ.ʁi.fjɑ̃), or meets hyper-correction criteria: one "corrects" one's pronunciation, despite the usual phonology, to be closer to a realization that one imagines to be more correct: thus, the word illusion is sometimes pronounced il.lyˈzjɔ̃ by influence of the spelling.
+However, gemination is distinctive in a few cases. Statements such as elle a dit ('she said') ~ elle l'a dit ('she said it') /ɛl a di/ ~ /ɛl l‿a di/ can commonly be distinguished by gemination. In a more sustained pronunciation, gemination distinguishes the conditional (and possibly the future tense) from the imperfect: courrais 'would run' /kuʁ.ʁɛ/ vs. courais 'ran' /ku.ʁɛ/; or the indicative from the subjunctive: croyons 'we believe' /kʁwa.jɔ̃/ vs. croyions 'we believed' /kʁwaj.jɔ̃/.
+
+Greek
+In [Ancient Greek](3061), consonant length was distinctive, e.g., μέλω mélɔː 'I am of interest' vs. μέλλω mélːɔː 'I am going to'. The distinction has been lost in the standard and most other varieties, with the exception of Cypriot (where it might carry over from [Ancient Greek](3061) or arise from a number of synchronic and diachronic assimilatory processes, or even spontaneously), some varieties of the southeastern Aegean, and Italy.
+
+Hindustani
+Gemination is common in both Hindi and Urdu. It does not occur after long vowels and is found in words of both Indic and [Arabic](4233) origin, but not in those of Persian origin. In Urdu, gemination is represented by the Shadda diacritic, which is usually omitted from writings, and mainly written to clear ambiguity. In Hindi, gemination is represented by doubling the geminated consonant, enjoined with the Virama diacritic.
+
+[Aspirated consonant](4454)s
+Gemination of aspirated consonants in Hindi are formed by combining the corresponding non-aspirated consonant followed by its aspirated counterpart. In vocalised Urdu, the shadda is placed on the unaspirated consonant followed by the short vowel diacritic, followed by the do-cashmī hē, which aspirates the preceding consonant. There are few examples where an aspirated consonant is truly doubled.
+
+Italian
+Italian is notable among the Romance languages for its extensive geminated consonants. In Standard Italian, word-internal geminates are usually written with two consonants, and geminates are distinctive. For example, bevve, meaning 'he/she drank', is phonemically /ˈbevve/ and pronounced ˈbevːe, while beve ('he/she drinks/is drinking') is /ˈbeve/, pronounced ˈbeːve. Tonic syllables are bimoraic and are therefore composed of either a long vowel in an open syllable (as in beve) or a short vowel in a closed syllable (as in bevve). In varieties with post-vocalic weakening of some consonants (e.g. /raˈdʒone/ → raˈʒoːne 'reason'), geminates are not affected (/ˈmaddʒo/ → ˈmad͡ʒːo 'May').
+Double or long consonants occur not only within words but also at word boundaries, and they are then pronounced but not necessarily written: chi + sa = chissà ('who knows') kisˈsa and vado a casa ('I am going home') ˈvaːdo a kˈkaːsa. All consonants except /z/ can be geminated. This word-initial gemination is triggered either lexically by the item preceding the lengthening consonant (e.g. by preposition a 'to, at' in a kˈkaːsa a casa 'homeward' but not by definite article la in la ˈkaːsa la casa 'the house'), or by any word-final stressed vowel (parˈlɔ ffranˈtʃeːze parlò francese 's/he spoke French' but ˈparlo franˈtʃeːze parlo francese 'I speak French').
+
+Latin
+In Latin, consonant length was distinctive, as in anus 'old woman' vs. annus 'year'. Vowel length was also distinctive in Latin until about the fourth century, and was reflected in the orthography with an apex. Geminates inherited from Latin still exist in Italian, in which ˈanno anno and ˈaːno ano contrast with regard to /nn/ and /n/ as in Latin. It has been almost completely lost in French and completely in Romanian. In West Iberian languages, former Latin geminate consonants often evolved to new phonemes, including some instances of nasal vowels in Portuguese and Old Galician as well as most cases of /ɲ/ and /ʎ/ in Spanish, but phonetic length of both consonants and vowels is no longer distinctive.
+
+Nepali
+In Nepali, all consonants have geminate counterparts except for /w, j, ɦ/. Geminates occur only medially. Examples:
+
+समान – 'equal' sʌmän; सम्मान sʌmːän – 'honour'
+सता – 'disturb!' sʌt̪ä; सत्ता sʌt̪ːä – 'authority'
+पका – 'cook!' pʌkä; पक्का pʌkːä – 'certain'
+
+Norwegian
+In Norwegian, gemination is indicated in writing by double consonants. Gemination often differentiates between unrelated words. As in Italian, Norwegian uses short vowels before doubled consonants and long vowels before single consonants. There are qualitative differences between short and long vowels:
+
+måte ˈmôːtə / måtte ˈmɔ̂tːə – 'method' / 'must'
+lete ˈlêːtə / lette ˈlɛ̂tːə – 'to search' / 'to take off'
+sine ˈsîːnə / sinne ˈsɪ̂nːə – 'theirs' / 'anger'
+
+Polish
+In Polish, consonant length is indicated with two identical letters. Examples:
+
+wanna /ˈvanːa/ – 'bathtub'
+Anna /ˈanːa/
+horror /ˈxɔrːɔr/ – 'horror'
+hobby /ˈxɔbːɨ/ or /ˈxɔbʲːi/ – 'hobby'
+[Consonant](4776) length is distinctive and sometimes is necessary to distinguish words:
+
+rodziny /rɔˈd͡ʑinɨ/ – 'families'; rodzinny /rɔˈd͡ʑinːɨ/ – 'familial'
+saki /saki/ – 'sacks, bags'; ssaki /sːaki/ – 'mammals',
+leki /ˈlɛkʲi/ – 'medicines'; lekki /ˈlɛkʲːi/ – 'light, lightweight'
+Double consonants are common on morpheme borders where the initial or final sound of the suffix is the same as the final or initial sound of the stem (depending on the position of the suffix), after devoicing. Examples:
+
+przedtem /ˈpʂɛtːɛm/ – 'before, previously'; from przed (suffix 'before') + tem (archaic 'that')
+oddać /ˈɔdːat͡ɕ/ – 'give back'; from od (suffix 'from') + dać ('give')
+bagienny /baˈgʲɛnːɨ/ – 'swampy'; from bagno ('swamp') + ny (suffix forming adjectives)
+najjaśniejszy /najːaɕˈɲɛ̯iʂɨ/ – 'brightest'; from naj (suffix forming superlative) + jaśniejszy ('brighter')
+
+Punjabi
+Punjabi is written in two scripts, namely, Gurmukhi and Shahmukhi. Both scripts indicate gemination through the uses of diacritics. In Gurmukhi the diacritic is called the ੱ|áddak Error: {{Transliteration}}: transliteration text not Latin script (pos 3) (help) which is written before the geminated consonant and is mandatory. In contrast, the shadda, which is used to represent gemination in the Shahmukhi script, is not necessarily written, retaining the tradition of the original [Arabic](4233) script and Persian language, where diacritics are usually omitted from writing, except to clear ambiguity, and is written above the geminated consonant. In the cases of aspirated consonants in the Shahmukhi script, the shadda remains on the consonant, not on the do-cashmī he.
+Gemination is specially characteristic of Punjabi compared to other Indo-Aryan languages like Hindi-Urdu, where instead of the presence of consonant lengthening, the preceding vowel tends to be lengthened. [Consonant](4776) length is distinctive in Punjabi, for example:
+
+Russian
+In Russian, consonant length (indicated with two letters, as in ванна ˈvannə 'bathtub') may occur in several situations.
+Minimal pairs (or chronemes) exist, such as подержать pədʲɪrˈʐatʲ 'to hold' vs поддержать pədʲːɪrˈʐatʲ 'to support', and their conjugations, or длина dlʲɪˈna 'length' vs длинна dlʲɪˈnːa 'long' adj. f.
+
+Word formation or conjugation: длина (dlʲɪˈna 'length') > длинный (ˈdlʲinnɨj 'long') This occurs when two adjacent morphemes have the same consonant and is comparable to the situation of Polish described above.
+Assimilation. The spelling usually reflects the unassimilated consonants, but they are pronounced as a single long consonant.
+высший (ˈvɨʂːɨj 'highest').
+
+Spanish
+There are phonetic geminate consonants in Caribbean Spanish due to the assimilation of /l/ and /ɾ/ in syllabic coda to the following consonant. Examples of Cuban Spanish:
+
+Luganda
+Luganda (a [Bantu language](4553)) is unusual in that gemination can occur word-initially, as well as word-medially. For example, kkapa /kːapa/ 'cat', /ɟːaɟːa/ jjajja 'grandfather' and /ɲːabo/ nnyabo 'madam' all begin with geminate consonants.
+There are three consonants that cannot be geminated: /j/, /w/ and /l/. Whenever morphological rules would geminate these consonants, /j/ and /w/ are prefixed with /ɡ/, and /l/ changes to /d/. For example:
+
+-ye /je/ 'army' (root) > ggye /ɟːe/ 'an army' (noun)
+-yinja /jiːɲɟa/ 'stone' (root) > jjinja /ɟːiːɲɟa/ 'a stone' (noun); jj is usually spelt ggy
+-wanga /waːŋɡa/ 'nation' (root) > ggwanga /ɡːwaːŋɡa/ 'a nation' (noun)
+-lagala /laɡala/ 'medicine' (root) > ddagala /dːaɡala/ 'medicine' (noun)
+
+Japanese
+In Japanese, consonant length is distinctive (as is vowel length). Gemination in the syllabary is represented with the sokuon, a small tsu: っ for hiragana in native words and ッ for katakana in foreign words. For example, 来た (きた, kita) means 'came; arrived', while 切った (きった, kitta) means 'cut; sliced'. With the influx of gairaigo ('foreign words') into Modern Japanese, voiced consonants have become able to geminate as well: バグ (bagu) means '(computer) bug', and バッグ (baggu) means 'bag'. Distinction between voiceless gemination and voiced gemination is visible in pairs of words such as キット (kitto, meaning 'kit') and キッド (kiddo, meaning 'kid'). In addition, in some variants of colloquial Modern Japanese, gemination may be applied to some adjectives and adverbs (regardless of voicing) in order to add emphasis: すごい (sugoi, 'amazing') contrasts with すっごい (suggoi, 'really amazing'); 思い切り (おもいきり, omoikiri, 'with all one's strength') contrasts with 思いっ切り (おもいっきり, omoikkiri, 'really with all one's strength').
+
+Turkic languages
+Turkish
+In Turkish gemination is indicated by two identical letters as in most languages that have phonemic gemination.
+
+anne annɛ "mother"
+hürriyet çyɹ̝ːije̝t "freedom"
+Loanwords originally ending with a phonemic geminated consonant are always written and pronounced without the ending gemination as in [Arabic](4233).
+
+hac hadʒ (hajj) (from [Arabic](4233) حج /ħadʒː/ pronounced ħadʒ)
+hat hat (Islamic calligraphy) (from [Arabic](4233) خط /xatˤː/ pronounced xatˤ)
+Although gemination is resurrected when the word takes a suffix.
+
+hac becomes hacca haˈdʒːa ('to hajj') when it takes the suffix "-a" ('to', indicating destination)
+hat becomes hattın haˈtːɯn ('of calligraphy') when it takes the suffix "-ın" ('of', expressing possession)
+Gemination also occurs when a suffix starting with a consonant comes after a word that ends with the same consonant.
+
+el el ('hand') + -ler læɾ̥ ("-s", marks plural) = eller eˈlːæɾ̥ ('hands'). (contrasts with eler, 's/he eliminates')
+at at ('to throw') + -tık tɯk ("-ed", marks past tense, first person plural) = attık aˈtːɯk ('we threw smth.'). (contrasts with atık, 'waste')
+
+Dravidian languages
+Malayalam
+In Malayalam, compounding is phonologically conditioned called as sandhi and gemination occurs at word boundaries. Gemination sandhi is called dvitva sandhi or 'doubling sandhi'.
+Consider following example:
+
+മേശ + പെട്ടി (mēśa + peṭṭi) – മേശപ്പെട്ടി (mēśappeṭṭi)
+Gemination also occurs in a single morpheme like കള്ളം (kaḷḷaṁ) which has a different meaning from കളം (kaḷaṁ).
+
+Uralic languages
+Estonian
+Estonian has three phonemic lengths; however, the third length is a suprasegmental feature, which is as much tonal patterning as a length distinction. It is traceable to allophony caused by now-deleted suffixes, for example half-long linna < *linnan 'of the city' vs. overlong linna < *linnaan < *linnahen 'to the city'.
+
+Finnish
+[Consonant](4776) length is phonemic in Finnish, for example takka ˈtɑkːɑ ('fireplace', transcribed with the length sign ː or with a doubled letter ˈtɑkkɑ) and taka ˈtɑkɑ ('back'). [Consonant](4776) gemination occurs with simple consonants (hakaa : hakkaa) and between syllables in the pattern (consonant)-vowel-sonorant-stop-stop-vowel (palkka) but not generally in codas or with longer syllables. (This occurs in Sami languages and in the Finnish name Jouhkki, which is of Sami origin.) Sandhi often produces geminates.
+Both consonant and vowel gemination are phonemic, and both occur independently, e.g. Mali, maali, malli, maallinen (Karelian surname, 'paint', 'model', and 'secular').
+In Standard Finnish, consonant gemination of h exists only in interjections, new loan words and in the playful word hihhuli, with its origins in the 19th century, and derivatives of that word.
+In many Finnish dialects there are also the following types of special gemination in connection with long vowels: the southwestern special gemination (lounaismurteiden erikoisgeminaatio), with lengthening of stops + shortening of long vowel, of the type leipää < leippä; the common gemination (yleisgeminaatio), with lengthening of all consonants in short, stressed syllables, of the type putoaa > puttoo and its extension (which is strongest in the northwestern Savonian dialects); the eastern dialectal special gemination (itämurteiden erikoisgeminaatio), which is the same as the common gemination but also applies to unstressed syllables and certain clusters, of the types lehmiä > lehmmii and maksetaan > maksettaan.
+
+Wagiman
+In Wagiman, an indigenous Australian language, consonant length in stops is the primary phonetic feature that differentiates fortis and lenis stops. Wagiman does not have phonetic voice. Word-initial and word-final stops never contrast for length.
+
+Writing
+In written language, consonant length is often indicated by writing a consonant twice (ss, kk, pp, and so forth), but can also be indicated with a special symbol, such as the shadda in [Arabic](4233), the dagesh in Classical Hebrew, or the sokuon in Japanese.
+In the International Phonetic Alphabet, long consonants are normally written using the triangular colon ː, e.g. penne penːe ('feathers', 'pens', also a kind of pasta), though doubled letters are also used (especially for underlying phonemic forms, or in tone languages to facilitate diacritic marking).
+
+Catalan uses the raised dot (called an interpunct) to distinguish a geminated l from a palatal ll. Thus, paral·lel ('parallel') and Llull (Standard Catalan: pəɾəlˈlɛl, ʎuʎ).
+Estonian uses b, d, g for short consonants, and p, t, k and pp, tt, kk are used for long consonants.
+Hungarian digraphs and trigraphs are geminated by doubling the first letter only, thus the geminate form of sz /s/ is ssz /sː/ (rather than *szsz), and that of dzs /d͡ʒ/ is ddzs /d͡ʒː/.
+The only digraph in Ganda, ny /ɲ/ is doubled in the same way: nny /ɲː/.
+In Italian, geminated instances of the sound cluster kw (represented by the digraph qu) are always indicated by writing cq, except in the words soqquadro and beqquadro, where the letter q is doubled. The gemination of sounds ɲ, ʃ and ʎ, (spelled gn, sc(i), and gl(i), respectively) is not indicated because these consonants are always geminated when occurring between vowels. Also the sounds ts, dz (both spelled z) are always geminated when occurring between vowels, yet their gemination is sometimes shown, redundantly, by doubling the z as, e.g., in pizza ˈpittsa.
+In Japanese, non-nasal gemination (sokuon) is denoted by placing the "small" variant of the syllable Tsu (っ or ッ) between two syllables, where the end syllable must begin with a consonant. For nasal gemination, precede the syllable with the letter for mora N (ん or ン). The script of these symbols must match with the surrounding syllables.
+In Swedish and Norwegian, the general rule is that a geminated consonant is written double, unless succeeded by another consonant. Hence hall ('hall'), but halt ('Halt!'). In Swedish, this does not apply to morphological changes (so kall, 'cold' and kallt, 'coldly' or compounds so tunnbröd ('flatbread'). The exception are some words ending in -m, thus hem 'home' but hemma ('at home') and stam 'stem', but lamm 'lamb', to distinguish the word from lam ('lame'), with a long /a/), as well as adjectives in -nn, so tunn, 'thin' but tunt, 'thinly' (while Norwegian has a rule always prohibiting two "m"s at the end of a word (with the exception being only a handful of proper names, and as a rule forms with suffixes reinsert the second "m", and the rule is that these word-final "m"s always cause the preceding vowel sound to be short (despite the spelling)).
+
+Double letters that are not long consonants
+Doubled orthographic consonants do not always indicate a long phonetic consonant.
+
+In English, for example, the n sound of running is not lengthened. [Consonant](4776) digraphs are used in English to indicate the preceding vowel is a short (lax) vowel, while a single letter often allows a long (tense) vowel to occur. For example, tapping /tæpɪŋ/ (from tap) has a short a /æ/, which is distinct from the diphthongal long a /eɪ/ in taping /teɪpɪŋ/ (from tape).
+In Standard Modern Greek, doubled orthographic consonants have no phonetic significance at all.
+Hangul (the Korean alphabet) and its romanizations also use double consonants, but to indicate fortis articulation, not gemination.
+In Klallam, a sequence of two /t/ sounds such as in a word like /ʔítt/ 'sleep' is not pronounced like a geminated stop with a long closure duration – rather the sequence is pronounced as a sequence of two individual sounds such that the first /t/ is released before the articulation of the second /t/.
+In the Old Icelandic orthography of the First Grammatical Treatise, geminates are indicated by small caps: ⟨ʙ⟩, ⟨ᴅ⟩, ⟨ꜰ⟩, ⟨ɢ⟩, ⟨ᴋ⟩, ⟨ʟ⟩, ⟨ᴍ⟩, ⟨ɴ⟩, ⟨ᴘ⟩, ⟨ʀ⟩, ⟨ꜱ⟩ and ⟨ᴛ⟩, whereas modern renditions of Old Norse designate geminates by two consecutive stops, i.e. ⟨bb⟩, ⟨ff⟩, ⟨gg⟩, ⟨kk⟩ ⟨ll⟩, ⟨mm⟩, ⟨nn⟩ ⟨pp⟩, ⟨rr⟩, ⟨ss⟩ and ⟨tt⟩, respectively.
+In Proto-Basque notation, capital letters are employed to denote the fortis–lenis contrast, which manifests as a difference between geminate vs. ⟨L⟩ /lː/ vs. ⟨l⟩ /l/, ⟨N⟩ /nː/ vs. ⟨n⟩ /n/, but capitals might also denote voiceless vs. voiced (⟨T⟩ /t/ vs. ⟨d⟩ /d/, ⟨K⟩ /k/ vs. ⟨g⟩ /g/, no ⟨P⟩ exists in Mitxelena's reconstruction consonant system of Proto-Basque, only ⟨b⟩) or affricate vs. sibilant distinction (⟨TZ⟩ /t̻s̻/ vs. ⟨z⟩ /s̻/, ⟨TS⟩ /t̺s̺/ vs. ⟨s⟩ /s̺/), or trill ⟨R⟩ /r/ vs. tap ⟨r⟩ /ɾ/.
+
+See also
+Syntactic gemination
+West Germanic gemination
+Glottal stop
+Length (phonetics)
+Vowel length
+Syllabic consonant
+Index of phonetics articles
+
+
+== References ==

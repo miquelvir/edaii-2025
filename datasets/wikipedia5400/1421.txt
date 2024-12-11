@@ -1,0 +1,57 @@
+1421
+Armoured personnel carrier
+An armoured personnel carrier (APC) is a broad type of armoured military vehicle designed to transport personnel and equipment in combat zones. Since World War I, APCs have become a very common piece of military equipment around the world.
+According to the definition in the Treaty on Conventional Armed Forces in Europe, an APC is "an armoured combat vehicle which is designed and equipped to transport a combat infantry squad and which, as a rule, is armed with an integral or organic weapon of less than 20 millimetres calibre." Compared to infantry fighting vehicles (IFVs), which are also used to carry infantry into battle, APCs have less armament and are not designed to provide direct fire support in battle. Infantry units that travel in APCs are known as mechanized infantry. Some militaries also make a distinction between infantry units that use APCs and infantry units that use IFVs, with the latter being known as armoured infantry.
+
+History
+One of the first armored vehicles to be used in combat was the Spanish Schneider-Brillié, which saw action in Morocco. It was built from the chassis of a Schneider P2-4000 bus and could carry 12 passengers.
+The genesis of the armoured personnel carrier was on the Western Front of World War I. In the later stage of the war, Allied tanks could break through enemy trenches, but the infantry following—who were needed to consolidate the territory acquired—still faced small arms and artillery fire. Without infantry support, the tanks were isolated and more easily destroyed. In response, the British experimented with carrying machine-gun crews in the Mark V* tank, but it was found that the conditions inside the tanks rendered the men unfit for combat.
+During World War II, half-tracks like the American M3 and German Sd.Kfz. 251 played a role similar to post-war APCs. British Commonwealth forces relied on the full-tracked Universal Carrier. Over the course of the war, APCs evolved from simple armoured cars with transport capacity to purpose-built vehicles. Obsolete armoured vehicles were also repurposed as APCs, such as the various "Kangaroos" converted from M7 Priest self-propelled guns and from Churchill, M3 Stuart and Ram tanks.
+During the Cold War, more specialized APCs were developed. The United States introduced a series of them, including successors to the wartime Landing Vehicle Tracked. The most numerous was the M113 armored personnel carrier, of which more than 80,000 were produced. Western nations have since retired most M113s, replacing them with newer APCs, many of these wheeled.  A cold war example of a "Kangaroo" is the heavily armoured Israeli Achzarit, converted from captured T-55s tanks, the concept culminating in the Namer.
+Meanwhile, the Warsaw Pact developed their own versions of the APC. The Soviet Union termed theirs the Bronetransporter (Russian: бронетранспортер), better known as the BTR series. It comprised the BTR-40, BTR-152, BTR-60, BTR-70, BTR-80, and the BTR-90, which as a whole were produced in large numbers. Czechoslovakia and Poland together developed the universal amphibious OT-64 SKOT. The BMP series is termed as infantry fighting vehicles, but it has a designed role of carrying troops to the battlefield. The BMP-1, 2, and 3 all possess the ability to transport troops.
+
+Design
+By convention, armoured personnel carriers are not intended to take part in direct-fire battle, but are armed for self-defence and armoured to provide protection from shrapnel and small arms fire.
+
+Mobility
+An APC is either wheeled or tracked, or occasionally a combination of the two, as in a half-track.
+Wheeled vehicles are typically faster on road and less expensive, however have higher ground pressure which decreases mobility offroad and makes them more likely to become stuck in soft terrains such as mud, snow or sand.
+Tracked vehicles typically have lower ground pressure and more maneuverability off-road. Due to the limited service life of their treads, and the wear they cause on roads, tracked vehicles are typically transported over long distances by rail or trucks.
+Many APCs are amphibious, meaning they are able to traverse bodies of water.  To move in water they will often have propellers or water jets, be propelled by their tracks, or driving on the river bed.  Preparing the APC to operate amphibiously usually comprises checking the integrity of the hull and folding down a trim vane in front. Water traverse speed varies greatly between vehicles and is much less than ground speed. The maximum swim speed of the M113 is 3.6 mph (5.8 km/h), about 10% its road speed, and the AAVP-7 can swim at 8.2 mph (13.2 km/h).
+
+Protection
+Armoured personnel carriers are typically designed to protect against small arms and artillery fire.  Some designs have more protection; the Israeli IDF Namer has as much armour as Merkava main battle tank.  Armour is usually composed of steel or aluminium.  They will also use ballistic glass.
+Many APCs are equipped with CBRN protection, which is intended to provide protection from weapons of mass destruction like poison gas and radioactive/nuclear weapons.
+Generally APCs will be lighter and less armoured than tanks or IFVs, often being open topped and featuring doors and windows, as seen in the French VAB.
+
+Weaponry
+Armoured personnel carriers are designed primarily for transport and are lightly armed.  They may be unarmed, or armed with some combination of light, general-purpose, heavy machine guns, or automatic grenade launchers.
+In Western nations, APCs are frequently armed with the .50 calibre M2 Browning machine gun, 7.62mm FN MAG, or 40mm Mk 19 grenade launcher. In former Eastern bloc nations, the KPV, PKT and NSV machine guns are common options.
+In "open top" mounts the gunner sticks out of the vehicle and operates a gun on a pintle or ring mount.  Ring mounts allow the gun to traverse 360 degrees, a pintle mount has a limited field of fire.  It can be preferable to an enclosed gunner because it allows a greater field of view and communication using shouts and hand signals.   However, the gunner is poorly protected and at risk of injury in the event of vehicle rollover. During the Vietnam War, M113 gunners often suffered heavy casualties.
+Enclosed vehicles are equipped with turrets that allow the crew to operate the weapons system while protected by the vehicle's armour. The Soviet BTR-60 has an enclosed turret mounted with a KPV heavy machine gun with a PKT coaxial machine gun.  The U.S. Assault Amphibious Vehicle, Personnel (AAVP7's) machine guns (an M2, .50 caliber MG and a Mk 19 grenade launcher) are in fully enclosed turrets (turrets typically have optics which make them more accurate).
+More recently, APCs have been equipped with remote weapon systems. The baseline Stryker carries an M2 on a Protector remote weapons system.
+
+Medical use
+APCs may be used as armoured ambulances, to conduct evacuations of wounded personnel.  These vehicles are equipped with stretchers and medical supplies.
+According to article 19 of the Geneva Conventions, "mobile medical units of the Medical Service may in no circumstances be attacked, but shall at all times be respected and protected by the Parties to the conflict".  Although article 22 allows them to carry defensive weaponry, they are typically unarmed. Under Article 39, the emblem of the medical service "shall be displayed ... on all equipment employed in the Medical Service."  As such, armoured ambulances are marked with International Committee of the Red Cross (ICRC) recognized symbols.
+
+Variants
+Infantry fighting vehicle
+The infantry fighting vehicle is a derivative of the APC. Various classes of infantry fighting vehicles may be deployed alongside tanks and APCs, in armoured and mechanized forces. The fundamental difference between an APC and IFV is the role they are designed for. The CFE treaty stipulates an infantry fighting vehicle is an APC with a cannon in excess of 20 mm, and with this additional firepower the vehicle is more involved in combat, providing fire support to dismounted infantry.
+
+Infantry mobility vehicle
+"Infantry mobility vehicle" (IMV) is a new name for the old concept of an armoured car, with an emphasis on mine resistance. They are primarily used to protect passengers in unconventional warfare.
+The South African Casspir was first built in the late 1970s. In the 21st century, they gained favour in the post-Cold-War geopolitical climate. Identical to earlier High Mobility Multipurpose Wheeled Vehicle (HMMWV) in design and function, the uparmoured M1114 HMMWV is a clear example of this. The addition of armour provides protection to passengers. M1114s have been largely replaced by purpose-built Mine Resistant Ambush Protected (MRAP) vehicles.
+IMVs generally feature a v-shaped underbelly designed to deflect mine blasts outwards, with additional crew protection features such as four-point seat belts, and seats suspended from the roof or sides of the vehicle. Many feature a remote weapon system. Usually four-wheel drive, these IMVs are distinct from 8-, 6-, and 4-wheeled APCs (such as the VAB), being closer in appearance to civilian armoured money and gold transporters.
+
+See also
+List of modern armoured fighting vehicles
+Police armored vehicle (used by armed police)
+Technical (vehicle)
+Armoured bus
+Armoured fighting vehicle (AFV) in general
+
+References
+Bibliography
+Bishop, Chris (2006). The Encyclopedia of Tanks and Armored Fighting Vehicles: From World War I to the Present Day. Grange Book. ISBN 978-1-59223-626-8
+O'Malley, T. J., Hutchins, Ray (1996). Fighting Vehicles: Armoured Personnel Carriers & Infantry Fighting Vehicles. Greenhill Books. ISBN 1-85367-211-4

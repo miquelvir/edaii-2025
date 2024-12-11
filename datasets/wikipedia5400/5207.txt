@@ -1,0 +1,65 @@
+5207
+613 commandments
+According to Jewish tradition, the Torah contains 613 commandments (Hebrew: תרי״ג מצוות, romanized: taryág mitsvót).
+Although the number 613 is mentioned in the Talmud, its real significance increased in later medieval rabbinic literature, including many works listing or arranged by the mitzvot. The most famous of these was an enumeration of the 613 commandments by Maimonides. While the total number of commandments is 613, no individual can perform all of them. Many can only be observed at the Temple in Jerusalem, which no longer stands. According to one standard reckoning, there are 77 positive and 194 negative commandments that can be observed today, of which there are 26 commandments that apply only within the Land of Israel. In addition, some commandments only apply to certain categories of Jews: some are only observed by kohanim, and others only by men or by women.
+
+Symbolism of 613
+Rav Hamnuna sourced the count of 613 in the verse Deuteronomy 33:4 ("Moses commanded us the Torah..."). The Talmud notes that the Hebrew numerical value (gematria) of the word Torah is 611 (ת‎ = 400, ו‎ = 6, ר‎ = 200, ה‎ = 5). Combining 611 commandments which Moses taught the people, with the first two of the Ten Commandments which were the only ones directly heard from God, a total of 613 is reached. 
+Other sources connect the tzitzit (ritual fringes of a garment) to the 613 commandments by gematria: the word tzitzit (Hebrew: ציצית, in its Mishnaic spelling) has the value 600 (צ‎ = 90, י‎ = 10, ת‎ = 400). Each tassel has eight threads (when doubled over) and five sets of knots. The sum of all these numbers is 613, reflecting the concept that tzitzit reminds its wearer of all Torah commandments.
+Many Jewish philosophical and mystical works (e.g., by Baal HaTurim, the Maharal of Prague and leaders of Hasidic [Judaism](5201)) find allusions and inspirational calculations relating to the number of commandments.
+
+Dissent and difficulties
+Rabbinic support for the number of commandments being 613 is not without dissent. For example, Ben Azzai held that there exist 300 positive mitzvot. Also, even as the number gained acceptance, difficulties arose in elucidating the list. Some rabbis declared that this count was not an authentic tradition, or that it was not logically possible to come up with a systematic count. No early work of Jewish law or Biblical commentary depended on the 613 system, and no early systems of Jewish principles of faith made acceptance of this Aggadah (non-legal Talmudic statement) normative. A number of classical authorities denied that it was normative:
+
+Rabbi Abraham ibn Ezra denied that this was an authentic rabbinic tradition. Ibn Ezra writes "Some sages enumerate 613 mitzvot in many diverse ways ... but in truth there is no end to the number of mitzvot ... and if we were to count only the root principles ... the number of mitzvot would not reach 613".
+Nahmanides held that this particular counting was a matter of rabbinic controversy, and that rabbinic opinion on this is not unanimous. Nonetheless, he concedes that "this total has proliferated throughout the aggadic literature... we ought to say that it was a tradition from Moses at Mount Sinai".
+Rabbi Simeon ben Zemah Duran likewise rejected the dogma of the 613 as being the sum of the Law, saying that "perhaps the agreement that the number of mitzvot is 613... is just Rabbi Simlai's opinion, following his own explication of the mitzvot. And we need not rely on his explication when we come to determine and affect the Law, but rather on the Talmudic discussions".
+Gersonides held that the number 613 was only one rabbi's (Rabbi Simlai's) opinion, and if the conclusion of a Talmudic discussion indicated that the number of commandments was greater or lesser than 613, Rabbi Simlai's opinion would be overruled. He argued that the number 613 was only intended as an approximation, and that the comparison to 248 limbs and 365 days was intended homiletically, to motivate Jews to keep the commandments.
+The Vilna Gaon suggested that there exist many more than 613 commandments (because otherwise large narrative parts of the Pentateuch would be without commandments, which he considered difficult to accept) and that the count of 613 refers to "roots" (shorashim) of the other commandments.
+Even when rabbis attempted to compile a list of the 613 commandments, they were faced with a number of difficulties:
+
+Which statements were to be included amongst the 613 commandments? Every one of God's commands to any individual or to the entire people of Israel?
+Would an order from God be counted as a commandment, for the purposes of such a list, if it could only be complied with in one place and time? Else, would such an order only count as a commandment if it could be followed at all times? (The latter is the view of Maimonides.)
+Does counting a single commandment depend on whether it falls within one verse, even though it may contain multiple prohibitions, or should each prohibition count as a single commandment?
+Ultimately, though, the concept of 613 commandments has become accepted as normative amongst practicing Jews and today it is still common practice to refer to the total system of commandments within the Torah as the "613 commandments", even among those who do not literally accept this count as accurate.
+However, the 613 mitzvot do not constitute a formal code of present-day halakha. Later codes of law such as the Shulkhan Arukh and the Kitzur Shulkhan Arukh do not refer to it. However, Maimonides' Mishneh Torah is prefaced by a count of the 613 mitzvot.
+
+Works which enumerate the commandments
+There is no single definitive list that explicates the 613 commandments. Lists differ, for example, in how they interpret passages in the Torah that may be read as dealing with several cases under a single law or several separate laws (see here for a visual comparison of several lists). Other "commandments" in the Torah are restricted as one-time acts, and would not be considered as "mitzvot" binding on other persons. In rabbinic literature, Rishonim and later scholars composed to articulate and justify their enumeration of the commandments:
+
+Halachot Gedolot ("Great Laws"), thought to be written by Rabbi Simeon Kayyara (the Bahag, author of the Halakhot Gedolot) is the earliest extant enumeration of the 613 mitzvot.
+Sefer ha-Mitzvoth ("Book of Commandments") by Rabbi Saadia Gaon. Written during the period of the Geonim, Saadia's work is a simple list (though it was later expanded by Rabbi Yerucham Fishel Perlow.)
+Sefer Hamitzvot ("Book of Commandments") by Maimonides, with a commentary by Nachmanides. Maimonides employs a set of fourteen rules (shorashim) which determine inclusion into the list. In this work, he supports his specification of each mitzvah through quotations from the midrash halakha and the Gemara. Nachmanides makes a number of critical points and replaces some items of the list with others.
+Sefer ha-Chinnuch ("Book of Education"). This work generally follows Maimonides' reckoning of the 613 commandments.  It is written in the order in which the commandments appear in the Torah rather than an arrangement by category (as in Maimonides' work.) In addition to enumerating the commandments and giving a brief overview of relevant laws, the Sefer ha-Chinuch also tries to explain the philosophical reasons behind the mitzvot. It has been attributed to various authors, most commonly Rabbi Aaron ha-Levi of [Barcelona](1000) (the Ra'ah), though its true authorship is unknown.
+Sefer Mitzvot Gadol or SMaG ("Large book of Commandments") by Rabbi Moses ben Jacob of Coucy.
+Sefer ha-Mitzvoth by Rabbi Yisrael Meir Kagan (the "Chafetz Chaim"). The Chafetz Chaim's work follows the reckoning of Maimonides but gives only the commandments relevant today. Notably, this listing omits commandments regarding temple service, ritual purity, sacrifices, and so on. Though the original work included only those commandments relevant in all places and at all times, later editions include agricultural laws relevant today only in the Land of Israel.
+
+Works in which the number of commandments is not 613
+Sefer Yereim by Eliezer ben Samuel lists only 417 commandments (including commandments only applicable when the Temple stood).
+Menahem Recanati, in his book Taamei haMitzvot, counted 250 positive and 361 negative commandments, for a total of 611. These 611 include the two commandments of Exodus 20:2, indicating that this list is incompatible with the approach of R' Hamnuna in the Talmud (who said that of the 613 commandments, the two in Exodus 20:2 were given directly by God, and the remaining 611 via Moses).
+Sefer Mitzvoth Katan, by Rabbi Isaac of Corbeil, listed 320 commandments applicable nowadays. To reach a total of 613, one would have to add 293 commandments applicable only while the Temple stood. As the number of Temple-only commandments appears to be much lower than 293 (for example, Sefer haHinuch only counted 201 such commandments), it seems that the overall count of commandments would likely be lower than 613.
+According to Asael Ben-Or, Gersonides' commentary to the Torah indicates that he counted a total of 513 commandments.
+
+Maimonides' list
+The following are the 613 commandments and the source of their derivation from the Hebrew Bible as enumerated by Maimonides:
+
+Canonical order
+Typical order
+See also
+Halakha
+Jewish ethics
+Torah
+Laws and customs of the Land of Israel in [Judaism](5201)
+
+References
+Bibliography
+Eisenberg, Ronald L. The 613 Mitzvot: A Contemporary Guide to the Commandments of [Judaism](5201), Rockville, Schreiber Publishing, 2005. ISBN 0-88400-303-5
+Moses Maimonides, translation by Charles Ber Chavel and Moses ibn Tibbon. The book of divine commandments (the Sefer Ha-mitzvoth of Moses Maimonides) London: Soncino Press, 1940.
+
+External links
+Friedberg, Albert (2013). Crafting the 613 Commandments: Maimonides on the Enumeration, Classification, and Formulation of the Scriptural Commandments (PDF). Boston: Academic Studies Press. doi:10.2307/j.ctt21h4wf8. ISBN 9781618111678. JSTOR j.ctt21h4wf8. 
+Chabad.org: The 613 Commandments (Mitzvot)
+The 613 Interactive Commandments
+Ohr.edu: Taryag - Origin of the 613 Commandments
+[Judaism](5201) 101: A List of the 613 Mitzvot (Commandments)
+Jewish Virtual Library: The 613 Mitzvot (Commandments)

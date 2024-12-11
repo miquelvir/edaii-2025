@@ -1,0 +1,186 @@
+881
+Calling convention
+In computer science, a calling convention is an implementation-level (low-level) scheme for how subroutines or functions receive parameters from their caller and how they return a result.  When some code calls a function, design choices have been taken for where and how parameters are passed to that function, and where and how results are returned from that function, with these  transfers typically done via certain registers or within a stack frame on the call stack.  There are design choices for how the tasks of preparing for a function call and restoring the environment after the function has completed are divided between the caller and the callee.  Some calling convention specifies the way every function should get called.  The correct calling convention should be used for every function call, to allow the correct and reliable execution of the whole program using these functions.
+
+Introduction
+Calling conventions are usually considered part of the application binary interface (ABI).  They may be considered a contract between the caller and the called function.
+
+Related concepts
+The names or meanings of the parameters and return values are defined in the application programming interface (API, as opposed to ABI), which is a separate though related concept to ABI and calling convention. The names of members within passed structures and objects would also be considered part of the API, and not ABI. Sometimes APIs do include keywords to specify the calling convention for functions.
+Calling conventions do not typically include information on handling lifespan of dynamically-allocated structures and objects. Other supplementary documentation may state where the responsibility for freeing up allocated memory lies. 
+Calling conventions are unlikely to specify the layout of items within structures and objects, such as byte ordering or structure packing. 
+For some languages, the calling convention includes details of error or exception handling, (e.g. Go, Java) and for others, it does not (e.g. [C++](640)). 
+For Remote procedure calls, there is an analogous concept called Marshalling. 
+Calling conventions may be related to a particular programming language's evaluation strategy, but most often are not considered part of it (or vice versa), as the evaluation strategy is usually defined on a higher abstraction level and seen as a part of the language rather than as a low-level implementation detail of a particular language's compiler.
+
+Different calling conventions
+Calling conventions may differ in: 
+
+Where parameters are placed.  Options include registers, on the call stack, a mix of both, or in other memory structures.
+The order in which parameters are passed.  Options include left-to-right order, or right-to-left, or something more complex.
+How functions that take a variable number of arguments (variadic functions) are handled.  Options include just passed in order (presuming the first parameter is in an obvious position) or the variable parts in an array.
+How return values are delivered from the callee back to the caller.  Options include on the stack, in a register, or reference to something allocated on the heap.
+How long or complex values are handled, perhaps by splitting across multiple registers, within the stack frame, or with reference to memory.
+Which registers are guaranteed to have the same value when the callee returns as they did when the callee was called. These registers are said to be saved or preserved, so they are not volatile.
+How the task of setting up for and cleaning up after a function call is divided between the caller and the callee.  In particular, how the stack frame is restored so the caller may continue after the callee has finished.
+Whether and how metadata describing the arguments is passed
+Where the previous value of the frame pointer is stored, which is used to restore the stack frame when the subroutine ends.  Options include within the call stack, or in a specific register.  Sometimes frame pointers are not used at all.
+Where any static scope links for the routine's non-local data access are placed (typically at one or more positions in the stack frame, but sometimes in a general register, or, for some architectures, in special-purpose registers)
+For object-oriented languages, how the function's object is referenced
+
+Calling conventions within one platform
+Sometimes multiple calling conventions appear on a single platform; a given platform and language implementation may offer a choice of calling conventions. Reasons for this include performance, adaptation of conventions of other popular languages, and restrictions or conventions imposed by various "computing platforms".  
+Many architectures only have one widely-used calling convention, often suggested by the architect.  For RISCs including SPARC, MIPS, and RISC-V, registers names based on this calling convention are often used.  For example, MIPS registers $4 through $7 have "ABI names" $a0 through $a3, reflecting their use for parameter passing in the standard calling convention.  (RISC CPUs have many equivalent general-purpose registers so there's typically no hardware reason for giving them names other than numbers.)
+The calling convention of a given program's language may differ from the calling convention of the underlying platform, OS, or of some library being linked to.  For example, on 32-bit Windows, operating system calls have the stdcall calling convention, whereas many C programs that run there use the cdecl calling convention.  To accommodate these differences in calling convention, compilers often permit keywords that specify the calling convention for a given function.  The function declarations will include additional platform-specific keywords that indicate the calling convention to be used.  When handled correctly, the compiler will generate code to call functions in the appropriate manner.
+Some languages allow the calling convention for a function to be explicitly specified with that function; other languages will have some calling convention but it will be hidden from the users of that language, and therefore will not typically be a consideration for the programmer.
+
+Architectures
+x86 (32-bit)
+The 32-bit version of the x86 architecture is used with many different calling conventions. Due to the small number of architectural registers, and historical focus on simplicity and small code-size, many x86 calling conventions pass arguments on the stack.  The return value (or a pointer to it) is returned in a register. Some conventions use registers for the first few parameters which may improve performance, especially for short and simple leaf-routines very frequently invoked (i.e. routines that do not call other routines).
+Example call:
+
+Typical callee structure: (some or all (except ret) of the instructions below may be optimized away in simple procedures).  Some conventions leave the parameter space allocated, using plain ret instead of ret imm16.  In that case, the caller could add esp,12 in this example, or otherwise deal with the change to ESP.
+
+x86-64
+The 64-bit version of the x86 architecture, known as x86-64, AMD64, and Intel 64, has two calling sequences in common use.  One calling sequence, defined by Microsoft, is used on Windows; the other calling sequence, specified in the AMD64 System V ABI, is used by Unix-like systems and, with some changes, by OpenVMS.  As x86-64 has more general-purpose registers than does 16-bit x86, both conventions pass some arguments in registers.
+
+ARM (A32)
+The standard 32-bit ARM calling convention allocates the 16 general-purpose registers as:
+
+r15: Program counter (as per the instruction set specification).
+r14: Link register. The BL instruction, used in a subroutine call, stores the return address in this register.
+r13: Stack pointer. The Push/Pop instructions in "Thumb" operating mode use this register only.
+r12: Intra-Procedure-call scratch register.
+r4 to r11: Local variables.
+r0 to r3: Argument values passed to a subroutine and results returned from a subroutine.
+If the type of value returned is too large to fit in r0 to r3, or whose size cannot be determined statically at compile time, then the caller must allocate space for that value at run time, and pass a pointer to that space in r0.
+Subroutines must preserve the contents of r4 to r11 and the stack pointer (perhaps by saving them to the stack in the function prologue, then using them as scratch space, then restoring them from the stack in the function epilogue). In particular, subroutines that call other subroutines must save the return address in the link register r14 to the stack before calling those other subroutines. However, such subroutines do not need to return that value to r14—they merely need to load that value into r15, the program counter, to return.
+The ARM calling convention mandates using a full-descending stack. In addition, the stack pointer must always be 4-byte aligned, and must always be 8-byte aligned at a function call with a public interface.
+This calling convention causes a "typical" ARM subroutine to:
+
+In the prologue, push r4 to r11 to the stack, and push the return address in r14 to the stack (this can be done with a single STM instruction);
+Copy any passed arguments (in r0 to r3) to the local scratch registers (r4 to r11);
+Allocate other local variables to the remaining local scratch registers (r4 to r11);
+Do calculations and call other subroutines as necessary using BL, assuming r0 to r3, r12 and r14 will not be preserved;
+Put the result in r0;
+In the epilogue, pull r4 to r11 from the stack, and pull the return address to the program counter r15. This can be done with a single LDM instruction.
+
+ARM (A64)
+The 64-bit ARM (AArch64) calling convention allocates the 31 general-purpose registers as:
+
+x31 (SP): Stack pointer or a zero register, depending on context.
+x30 (LR): Procedure link register, used to return from subroutines.
+x29 (FP): Frame pointer.
+x19 to x28: Callee-saved.
+x18 (PR): Platform register. Used for some operating-system-specific special purpose, or an additional caller-saved register.
+x16 (IP0) and x17 (IP1): Intra-Procedure-call scratch registers.
+x9 to x15: Local variables, caller saved.
+x8 (XR): Indirect return value address.
+x0 to x7: Argument values passed to and results returned from a subroutine.
+All registers starting with x have a corresponding 32-bit register prefixed with w. Thus, a 32-bit x0 is called w0.
+Similarly, the 32 floating-point registers are allocated as:
+
+v0 to v7: Argument values passed to and results returned from a subroutine.
+v8 to v15: callee-saved, but only the bottom 64 bits need to be preserved.
+v16 to v31: Local variables, caller saved.
+
+RISC-V ISA
+RISC-V has a defined calling convention with two flavors, with or without floating point. It passes arguments in registers whenever possible.
+
+POWER, PowerPC, and Power ISA
+The POWER, PowerPC, and Power ISA architectures have a large number of registers so most functions can pass all arguments in registers for single level calls. Additional arguments are passed on the stack, and space for register-based arguments is also always allocated on the stack as a convenience to the called function in case multi-level calls are used (recursive or otherwise) and the registers must be saved. This is also of use in variadic functions, such as printf(), where the function's arguments need to be accessed as an array. A single calling convention is used for all procedural languages.
+Branch-and-link instructions store the return address in a special link register separate from the general-purpose registers; a routine returns to its caller with a branch instruction that uses the link register as the destination address.  Leaf routines do not need to save or restore the link register; non-leaf routines must save the return address before making a call to another routine and restore it before it returns, saving it by using the Move From Special Purpose Register instruction to move the link register to a general-purpose register and, if necessary, then saving it to the stack, and restoring it by, if it was saved to the stack, loading the saved link register value to a general-purpose register, and then using the Move To Special Purpose Register instruction to move the register containing the saved link-register value to the link register.
+
+MIPS
+The O32 ABI is the most commonly-used ABI, owing to its status as the original System V ABI for MIPS. It is strictly stack-based, with only four registers $a0-$a3 available to pass arguments. This perceived slowness, along with an antique floating-point model with 16 registers only, has encouraged the proliferation of many other calling conventions. The ABI took shape in 1990 and was never updated since 1994. It is only defined for 32-bit MIPS, but GCC has created a 64-bit variation called O64.
+For 64-bit, the N64 ABI (not related to Nintendo 64) by Silicon Graphics is most commonly used. The most important improvement is that eight registers are now available for argument passing; It also increases the number of floating-point registers to 32. There is also an ILP32 version called N32, which uses 32-bit pointers for smaller code, analogous to the x32 ABI. Both run under the 64-bit mode of the CPU.
+A few attempts have been made to replace O32 with a 32-bit ABI that resembles N32 more. A 1995 conference came up with MIPS EABI, for which the 32-bit version was quite similar. EABI inspired MIPS Technologies to propose a more radical "NUBI" ABI that additionally reuses argument registers for the return value. MIPS EABI is supported by GCC but not LLVM; neither supports NUBI.
+For all of O32 and N32/N64, the return address is stored in a $ra register. This is automatically set with the use of the JAL (jump and link) or JALR (jump and link register) instructions. The stack grows downwards.
+
+SPARC
+The SPARC architecture, unlike most RISC architectures, is built on register windows. There are 24 accessible registers in each register window: 8 are the "in" registers (%i0-%i7), 8 are the "local" registers (%l0-%l7), and 8 are the "out" registers (%o0-%o7). The "in" registers are used to pass arguments to the function being called, and any additional arguments need to be pushed onto the stack. However, space is always allocated by the called function to handle a potential register window overflow, local variables, and (on 32-bit SPARC) returning a struct by value. To call a function, one places the arguments for the function to be called in the "out" registers; when the function is called, the "out" registers become the "in" registers and the called function accesses the arguments in its "in" registers. When the called function completes, it places the return value in the first "in" register, which becomes the first "out" register when the called function returns.
+The System V ABI, which most modern Unix-like systems follow, passes the first six arguments in "in" registers %i0 through %i5, reserving %i6 for the frame pointer and %i7 for the return address.
+
+IBM System/360 and successors
+The IBM System/360 is another architecture without a hardware stack. The examples below illustrate the calling convention used by OS/360 and successors prior to the introduction of 64-bit z/Architecture; other operating systems for System/360 might have different calling conventions.
+Calling program:
+
+Called program:
+
+Standard entry sequence:
+
+Standard return sequence:
+
+Notes:
+
+The BALR instruction stores the address of the next instruction (return address) in the register specified by the first argument—register 14—and branches to the second argument address in register 15.
+The caller passes the address of a list of argument addresses in register 1. The last address has the high-order bit set to indicate the end of the list. This limits programs using this convention to 31-bit addressing.
+The address of the called routine is in register 15. Normally this is loaded into another register and register 15 is not used as a base register.
+The STM instruction saves registers 14, 15, and 0 through 12 in a 72-byte area provided by the caller called a save area pointed to by register 13. The called routine provides its own save area for use by subroutines it calls; the address of this area is normally kept in register 13 throughout the routine. The instructions following STM update forward and backward chains linking this save area to the caller's save area.
+The return sequence restores the caller's registers.
+Register 15 is usually used to pass a return value.
+Declaring a savearea statically in the called routine makes it non-reentrant and non-recursive; a reentrant program uses a dynamic savearea, acquired either from the operating system and freed upon returning, or in storage passed by the calling program.
+In the System/390 ABI and the z/Architecture ABI, used in Linux:
+
+Registers 0 and 1 are volatile
+Registers 2 and 3 are used for parameter passing and return values
+Registers 4 and 5 are also used for parameter passing
+Register 6 is used for parameter passing, and must be saved and restored by the callee
+Registers 7 through 13 are for use by the callee, and must be saved and restored by them
+Register 14 is used for the return address
+Register 15 is used as the stack pointer
+Floating-point registers 0 and 2 are used for parameter passing and return values
+Floating-point registers 4 and 6 are for use by the callee, and must be saved and restored by them
+In z/Architecture, floating-point registers 1, 3, 5, and 7 through 15 are for use by the callee
+Access register 0 is reserved for system use
+Access registers 1 through 15 are for use by the callee
+Additional arguments are passed on the stack.
+
+SuperH
+Note: "preserved" reserves to callee saving; same goes for "guaranteed".
+
+68k
+The most common calling convention for the Motorola 68000 series is:
+
+d0, d1, a0 and a1 are scratch registers
+All other registers are callee-saved
+a6 is the frame pointer, which can be disabled by a compiler option
+Parameters are pushed onto the stack, from right to left
+Return value is stored in d0
+
+IBM 1130
+The IBM 1130 was a small 16-bit word-addressable machine.  It had only six registers plus condition indicators, and no stack. The registers are Instruction Address Register (IAR), Accumulator (ACC), Accumulator Extension (EXT), and three index registers X1–X3.  The calling program is responsible for saving ACC, EXT, X1, and X2. There are two pseudo-operations for calling subroutines, CALL to code non-relocatable subroutines directly linked with the main program, and LIBF to call relocatable library subroutines through a transfer vector. Both pseudo-ops resolve to a Branch and Store IAR (BSI) machine instruction that stores the address of the next instruction at its effective address (EA) and branches to EA+1.
+Arguments follow the BSI‍—‌usually these are one-word addresses of arguments‍—‌the called routine must know how many arguments to expect so that it can skip over them on return. Alternatively, arguments can be passed in registers. Function routines returned the result in ACC for real arguments, or in a memory location referred to as the Real Number Pseudo-Accumulator (FAC). Arguments and the return address were addressed using an offset to the IAR value stored in the first location of the subroutine.
+
+  *                  1130 subroutine example
+     ENT  SUB        Declare "SUB" an external entry point
+ SUB DC   0          Reserved word at entry point, conventionally coded "DC *-*"
+ *                   Subroutine code begins here
+ *                   If there were arguments the addresses can be loaded indirectly from the return address
+     LDX I 1 SUB     Load X1 with the address of the first argument (for example)
+ ...
+ *                   Return sequence
+     LD      RES     Load integer result into ACC
+ *                   If no arguments were provided, indirect branch to the stored return address
+     B   I   SUB     If no arguments were provided
+     END  SUB
+
+Subroutines in IBM 1130, CDC 6600 and PDP-8 (all three computers were introduced in 1965) store the return address in the first location of a subroutine.
+
+Calling conventions outside machine architectures
+Threaded code
+Threaded code places all the responsibility for setting up for and cleaning up after a function call on the called code. The calling code does nothing but list the subroutines to be called. This puts all the function setup and clean-up code in one place—the prologue and epilogue of the function—rather than in the many places that function is called. This makes threaded code the most compact calling convention.
+Threaded code passes all arguments on the stack. All return values are returned on the stack. This makes naive implementations slower than calling conventions that keep more values in registers. However, threaded code implementations that cache several of the top stack values in registers—in particular, the return address—are usually faster than subroutine calling conventions that always push and pop the return address to the stack.
+
+PL/I
+The default calling convention for programs written in the PL/I language passes all arguments by reference, although other conventions may optionally be specified. The arguments are handled differently for different compilers and platforms, but typically the argument addresses are passed via an argument list in memory.  A final, hidden, address may be passed pointing to an area to contain the return value.  Because of the wide variety of data types supported by PL/I a data descriptor may also be passed to define, for example, the lengths of character or bit strings, the dimension and bounds of arrays (dope vectors), or the layout and contents of a data structure. Dummy arguments are created for arguments which are constants or which do not agree with the type of argument the called procedure expects.
+
+See also
+References
+External links
+
+Johnson, Stephen Curtis; Ritchie, Dennis MacAlistair (September 1981). "Computing Science Technical Report No. 102: The C Language Calling Sequence". Bell Laboratories.
+Introduction to assembly on the PowerPC
+Mac OS X ABI Function Call Guide
+Procedure Call Standard for the ARM Architecture
+Embedded Programming with the GNU Toolchain, Section 10. C Startup

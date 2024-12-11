@@ -1,0 +1,61 @@
+3782
+Ancient Egyptian offering formula
+The offering formula, also known under transliterated forms of its incipit as the ḥtp-ḏỉ-nsw or ḥtp-ḏj-nswt formula was a conventional dedicatory formula found on ancient Egyptian funerary objects, believed to allow the deceased to partake in offerings presented to the major deities in the name of the king, or in offerings presented directly to the deceased by family members. It is among the most common of all Middle Egyptian texts.
+Its incipit ḥtp-ḏj-nswt "an offering given by the king" is followed by the name of a deity and a list of offerings given. The offering formula is usually found carved or painted onto funerary stelae, false doors, coffins, and sometimes other funerary objects. Each person had their own name and titles put into the formula. The offering formula was not a royal prerogative like some of the other religious texts such as the Litany of Re, and was used by anyone who could afford to have one made.
+
+Text
+All ancient Egyptian offering formulas share the same basic structure, but there is a great deal of variety in which deities and offerings are mentioned, and which epithets and titles are used. Below is an example of a typical offering formula:
+
+ḥtp dỉ nsw wsỉr nb ḏdw, nṯr ꜥꜣ, nb ꜣbḏw
+dỉ=f prt-ḫrw t ḥnqt, kꜣw ꜣpdw, šs mnḫt ḫt nbt nfrt wꜥbt ꜥnḫt nṯr ỉm
+n kꜣ n ỉmꜣḫy s-n-wsrt, mꜣꜥ-ḫrw
+"An offering given by the king (to) Osiris, the lord of Busiris, the great god, the lord of Abydos."
+"That he may give an invocation offering of bread, beer, oxen, birds, alabaster, clothing, and every good and pure thing upon which a god lives."
+"For the ka of the revered Senwosret, True of Voice."
+The offering formula always begins with the phrase:
+
+ḥtp dỉ nsw
+This phrase was in use since Old Egyptian, and literally means "an offering given by the king." This dedication does not indicate that the gift was personally given by the king; rather, it identifies the funerary offering as being royally authorized. Because the king was seen as an intermediary between the people of Egypt and the gods, the offering was made in his name.
+Next the formula names a god of the dead and several of his epithets. Usually the god is Osiris, Anubis, or (rarely) Geb, Wepwawet, or another deity. This part of the formula identifies the local funerary establishment that actually provided the offering; the offering is seen as being under the auspices of that establishment’s patron deity. The following phrase is a typical invocation of Osiris:
+
+wsỉr nb ḏdw, nṯr ꜥꜣ, nb ꜣbḏw
+which means "Osiris, the lord of Busiris, the great god, the lord of Abydos." There was apparently no set rule about what epithets were used; however, "Lord of Busiris," "Great God," and "Lord of Abydos" were very common. Also frequent were:
+
+nb ỉmnt nb nḥḥ
+meaning "Lord of the West, Lord of Eternity"
+Anubis is seen less frequently than Osiris, and usually read,
+
+ỉnpw, ḫnty sḥ nṯr tpy ḏw=f
+meaning "Anubis, he who is in front of his divine booth, he who is on his mountain."
+After the list of deities and their titles, the formula proceeds with a list of the prt-ḫrw, or "invocation offerings," of which the spirit of the deceased is called to partake. The list is always preceded by the phrase:
+
+    or    
+dỉ=f prt-ḫrw        or      dỉ=sn prt-ḫrw
+which means "He (or they, in the second example) give(s) invocation offerings." After this phrase, the list of offerings follows; for example:
+
+dỉ=f prt-ḫrw t ḥnqt, kꜣw ꜣpdw, šs mnḥt ḫt nbt nfrt wꜥbt ꜥnḫt nṯr ỉm
+meaning "He gives invocation offerings of bread, beer, oxen, birds, alabaster, clothing, and every good and pure thing upon which a god lives." Sometimes the text at the end of the list is replaced with the phrase:
+
+ḫt nbt nfrt wꜥbt ddt pt qmꜣ(t) tꜣ ỉnnt ḥꜥp(ỉ) ꜥnḫt nṯr ỉm
+Meaning "Every good and pure thing that the sky gives, the earth creates, the inundation brings, on which the god lives."
+The last part of the offering formula lists the name and titles of the recipient of the invocation offerings. For example:
+
+n kꜣ n ỉmꜣḫy s-n-wsrt, mꜣꜥ-ḫrw
+which means "for the ka of the revered Senwosret, True of Voice."
+
+See also
+Egyptian mythology
+Egyptian soul
+Ancient Egyptian burial customs
+Ancient Egyptian funerary texts
+
+References
+Bennett, C. John C. (1941). "Growth of the ḥtp-dỉ-nsw Formula in the Middle Kingdom". Journal of Egyptian Archaeology. 27. Egypt Exploration Society: 77–82. doi:10.2307/3854561. JSTOR 3854561.
+Franke, Detlef (2003). "The Middle Kingdom Offering Formulas – A Challenge". Journal of Egyptian Archaeology. 89: 39–57.
+Lapp, Günther (1986). Die Opferformel des Alten Reiches unter Berücksichtigung einiger später Formen. Mainz am Rhein: Verlag Philipp von Zabern.
+Smither, Paul C. (1939). "The Writing of the ḤTP-DI-NSW Formula in the Middle and New Kingdoms". Journal of Egyptian Archaeology. 25 (1). Egypt Exploration Society: 34–37. doi:10.2307/3854927. JSTOR 3854927.
+
+External links
+
+O'Brien, Alexandra A., "Death in Ancient Egypt Archived 2004-02-03 at the Wayback Machine".
+Telford, Mark Patrick, "Death And The Afterlife".

@@ -1,0 +1,259 @@
+3843
+Apollonian circles
+In geometry, Apollonian circles are two families (pencils) of circles such that every circle in the first family intersects every circle in the second family orthogonally, and vice versa. These circles form the basis for bipolar coordinates. They were discovered by [Apollonius of Perga](3846), a renowned Greek geometer.
+
+Definition
+The Apollonian circles are defined in two different ways by a line segment denoted CD.
+Each circle in the first family (the blue circles in the figure) is associated with a positive real number r, and is defined as the locus of points X such that the ratio of distances from X to C and to D equals r,
+
+  
+    
+      
+        
+          {
+          
+            X
+             
+            
+              
+                |
+              
+            
+             
+            
+              
+                
+                  d
+                  (
+                  X
+                  ,
+                  C
+                  )
+                
+                
+                  d
+                  (
+                  X
+                  ,
+                  D
+                  )
+                
+              
+            
+            =
+            r
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{X\ {\Biggl |}\ {\frac {d(X,C)}{d(X,D)}}=r\right\}.}
+  
+
+For values of r close to zero, the corresponding circle is close to C, while for values of r close to ∞, the corresponding circle is close to D; for the intermediate value r = 1, the circle degenerates to a line, the perpendicular bisector of CD. The equation defining these circles as a locus can be generalized to define the Fermat–Apollonius circles of larger sets of weighted points.
+Each circle in the second family (the red circles in the figure) is associated with an angle θ, and is defined as the locus of points X such that the inscribed angle ∠CXD equals θ,
+
+  
+    
+      
+        
+          {
+          
+            X
+             
+            
+              
+                |
+              
+            
+             
+            C
+            
+              
+                
+                  X
+                  ^
+                
+              
+            
+            D
+            =
+            θ
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{X\ {\Bigl |}\ C{\hat {X}}D=\theta \right\}.}
+  
+
+Scanning θ from 0 to π generates the set of all circles passing through the two points C and D.
+The two points where all the red circles cross are the limiting points of pairs of circles in the blue family.
+
+Bipolar coordinates
+A given blue circle and a given red circle intersect in two points. In order to obtain bipolar coordinates, a method is required to specify which point is the right one. An isoptic arc is the locus of points X  that sees points C, D under a given oriented angle of vectors i.e. 
+
+  
+    
+      
+        isopt
+        ⁡
+        (
+        θ
+        )
+        =
+        
+          {
+          
+            X
+             
+            
+              
+                |
+              
+            
+             
+            ∡
+            
+              
+                (
+              
+            
+            
+              
+                
+                  X
+                  C
+                
+                →
+              
+            
+            ,
+            
+              
+                
+                  X
+                  D
+                
+                →
+              
+            
+            
+              
+                )
+              
+            
+            =
+            θ
+            +
+            2
+            k
+            π
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \operatorname {isopt} (\theta )=\left\{X\ {\Biggl |}\ \measuredangle {\biggl (}{\overrightarrow {XC}},{\overrightarrow {XD}}{\biggr )}=\theta +2k\pi \right\}.}
+  
+
+Such an arc is contained into a red circle and is bounded by points C, D. The remaining part of the corresponding red circle is isopt(θ + π). When we really want the whole red circle, a description using oriented angles of straight lines has to be used:
+
+  
+    
+      
+        
+          full red circle
+        
+        =
+        
+          {
+          
+            X
+             
+            
+              
+                |
+              
+            
+             
+            ∡
+            
+              
+                (
+              
+            
+            
+              
+                
+                  X
+                  C
+                
+                →
+              
+            
+            ,
+            
+              
+                
+                  X
+                  D
+                
+                →
+              
+            
+            
+              
+                )
+              
+            
+            =
+            θ
+            +
+            k
+            π
+          
+          }
+        
+      
+    
+    {\displaystyle {\text{full red circle}}=\left\{X\ {\Biggl |}\ \measuredangle {\biggl (}{\overrightarrow {XC}},{\overrightarrow {XD}}{\biggr )}=\theta +k\pi \right\}}
+
+Pencils of circles
+Both of the families of Apollonian circles are pencils of circles. Each is determined by any two of its members, called generators of the pencil. Specifically, one is an elliptic pencil (red family of circles in the figure) that is defined by two generators that pass through each other in exactly two points (C, D). The other is a hyperbolic pencil (blue family of circles in the figure) that is defined by two generators that do not intersect each other at any point.
+
+Radical axis and central line
+Any two of these circles within a pencil have the same radical axis, and all circles in the pencil have collinear centers. Any three or more circles from the same family are called coaxial circles or coaxal circles.
+The elliptic pencil of circles passing through the two points C, D (the set of red circles, in the figure) has the line CD as its radical axis. The centers of the circles in this pencil lie on the perpendicular bisector of CD.
+The hyperbolic pencil defined by points C, D (the blue circles) has its radical axis on the perpendicular bisector of line CD, and all its circle centers on line CD.
+
+Inversive geometry, orthogonal intersection, and coordinate systems
+Circle inversion transforms the plane in a way that maps circles into circles, and pencils of circles into pencils of circles. The type of the pencil is preserved: the inversion of an elliptic pencil is another elliptic pencil, the inversion of a hyperbolic pencil is another hyperbolic pencil, and the inversion of a parabolic pencil is another parabolic pencil.
+It is relatively easy to show using inversion that, in the Apollonian circles, every blue circle intersects every red circle orthogonally, i.e., at a right angle.  Inversion of the blue Apollonian circles with respect to a circle centered on point C results in a pencil of concentric circles centered at the image of point D.  The same inversion transforms the red circles into a set of straight lines that all contain the image of D.  Thus, this inversion transforms the bipolar coordinate system defined by the Apollonian circles into a polar coordinate system.
+Obviously, the transformed pencils meet at right angles. Since inversion is a conformal transformation, it preserves the angles between the curves it transforms, so the original Apollonian circles also meet at right angles.
+Alternatively, the orthogonal property of the two pencils follows from the defining property of the radical axis, that from any point X on the radical axis of a pencil P the lengths of the tangents from X to each circle in P are all equal. It follows from this that the circle centered at X with length equal to these tangents crosses all circles of P perpendicularly. The same construction can be applied for each X on the radical axis of P, forming another pencil of circles perpendicular to P.
+More generally, for every pencil of circles there exists a unique pencil consisting of the circles that are perpendicular to the first pencil. If one pencil is elliptic, its perpendicular pencil is hyperbolic, and vice versa; in this case the two pencils form a set of Apollonian circles. The pencil of circles perpendicular to a parabolic pencil is also parabolic; it consists of the circles that have the same common tangent point but with a perpendicular tangent line at that point.
+
+Physics
+Apollonian trajectories have been shown to be followed in their motion by vortex cores or other defined pseudospin states in some physical systems involving interferential or coupled fields, such photonic or coupled polariton waves. The trajectories arise from the Rabi rotation of the Bloch sphere and its stereographic projection on the real space where the observation is made.
+
+See also
+[Apollonius of Perga](3846)
+Greek mathematics
+
+Notes
+References
+Akopyan, A. V.; Zaslavsky, A. A. (2007), Geometry of Conics, Mathematical World, vol. 26, American Mathematical Society, pp. 57–62, ISBN 978-0-8218-4323-9.
+Schwerdtfeger, Hans (1962), Geometry of Complex Numbers, University of Toronto Press. Dover reprint, 1979, ISBN 0-486-63830-8.
+
+Further reading
+Pfeifer, Richard E.; Van Hook, Cathleen (1993), "Circles, Vectors, and Linear Algebra", Mathematics Magazine, 66 (2): 75–86, doi:10.2307/2691113, JSTOR 2691113.
+Samuel, Pierre (1988), Projective Geometry, Springer, pp. 40–43.
+Ogilvy, C. Stanley (1969), Excursions in Geometry, Oxford University Press, esp. Ch. 2 "Harmonic division and Apollonian circles", pp. 13–23. Dover reprint, 1990, ISBN 0-486-26530-7.
+
+External links
+Weisstein, Eric W., "Coaxal Circles", MathWorld
+David B. Surowski: Advanced High-School Mathematics. p. 31

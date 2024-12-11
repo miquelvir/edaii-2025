@@ -1,0 +1,192 @@
+61
+Cat coat genetics
+[Cat](54) coat genetics determine the coloration, pattern, length, and texture of feline fur. The variations among cat coats are physical properties and should not be confused with cat breeds. A cat may display the coat of a certain breed without actually being that breed. For example, a Neva Masquerade (Siberian colorpoint) could wear point coloration, the stereotypical coat of a Siamese.
+
+Solid colors
+Eumelanin and phaeomelanin
+Eumelanin
+The browning gene B/b/bl codes for TYRP1 (Q4VNX8), an enzyme involved in the metabolic pathway for eumelanin pigment production. Its dominant form, B, will produce black eumelanin.  It has two recessive variants, b (chocolate) and bl (cinnamon), with bl being recessive to both B and b. Chocolate is a rich dark brown color, and is referred to as chestnut in some breeds. Cinnamon is a light brown which may be reddish.
+
+Sex-linked red
+The sex-linked red "Orange" locus, O/o, determines whether a cat will produce eumelanin. In cats with orange fur, phaeomelanin (red pigment) completely replaces eumelanin (black or brown pigment). This gene is located on the X chromosome. The orange allele is O, and non-orange is o. Males can typically only be orange or non-orange due to only having one X chromosome. Since females have two X chromosomes, they have two alleles of this gene. OO results in orange fur, oo results in fur without any orange (black, brown, etc.), and Oo results in a tortoiseshell cat, in which some parts of the fur are orange and others areas non-orange. One in three thousand tortoiseshell cats are male, making the combination possible but rare- however, due to the nature of their genetics, male tortoiseshells often exhibit chromosomal abnormalities. In one study, less than a third of male calicos had a simple XXY Klinefelter's karyotype, slightly more than a third were complicated XXY mosaics, and about a third had no XXY component at all.
+
+The pelt color commonly referred to as "orange" is scientifically known as red. Other common names include yellow, ginger, and marmalade. Red show cats have a deep orange color, but it can also present as a yellow or light ginger color. Unidentified "rufousing polygenes" are theorized to be the reason for this variance.
+Orange is epistatic to nonagouti, so all red cats are tabbies. "Solid" red show cats are usually low contrast ticked tabbies.
+The precise identity of the gene at the Orange locus is unknown. It has been narrowed down to a 3.5 Mb stretch on the X chromosome in 2009.
+
+Dilution
+The Dense pigment gene, D/d, codes for melanophilin (MLPH; A0SJ36), a protein involved in the transportation and deposition of pigment into a growing hair. When a cat has two of the recessive d alleles (Maltese dilution), black fur becomes "blue" (appearing gray), chocolate fur becomes "lilac" (appearing light, almost grayish brown-lavender), cinnamon fur becomes "fawn", and red fur becomes "cream". Similar to red cats, all cream cats are tabbies. The d allele is a single-base deletion that truncates the protein. If the cat has d/d genes, the coat is diluted. If the genes are D/D or D/d, the coat will be unaffected.
+
+Other genes
+Barrington Brown is a recessive browning gene that dilutes black to mahogany, brown to light brown and chocolate to pale coffee.  It is different from the browning gene and has only been observed in laboratory cats.
+The Dilution modifier gene, Dm, "caramelizes" the dilute colors as a dominant trait. The existence of this phenomenon as a discrete gene is a controversial subject among feline enthusiasts.
+Amber, a mutation at the extension locus E/e (the melanocortin 1 receptor, MC1R) changes black pigment to amber or light amber, similar in appearance to red and cream. Kittens are born dark but lighten up as they age. Paws and nose still exhibit the original undiluted color in contrast to other diluted colors, where paws and nose have the diluted color. This phenomenon was first identified in Norwegian Forest cats.
+Another recessive mutation at extension was discovered which causes the russet color in [Burmese cat](45)s. It is symbolized as er. Like amber cats, russet cats lighten as they age.
+A modifying factor has also been hypothesized in shaded silver and chinchilla Persians whose fur turns pale golden in adulthood, due to low levels of phaeomelanin production. These cats resemble shaded or tipped goldens, but are genetically shaded or tipped silvers. This is probably related to the phenomenon known as "tarnishing" in silvers.
+
+Tabbies
+Tabby cats have a range of variegated and blotched coats, consisting of a dark pattern on a lighter background. This variety is derived from the interplay of multiple genes and resulting phenotypes. Most tabbies feature thin dark markings on the face, including the 'M' on the forehead and an eyeliner effect, pigmented lips and paws, and a pink nose outlined in darker pigment. However, the following different coat patterns are all possible:
+Mackerel: Thin, dark stripes (sometimes called "tiger stripes")
+Blotched/Classic: Thicker bands or whorls of dark pigment.
+Spotted: Broken bands that look more like individual spots.
+Ticked: No distinct stripes, spots, or blotches on the body—though some may be visible on the legs, face, and tail.
+
+Agouti
+The agouti factor determines the "background" of the tabby coat, which consists of hairs that are banded with dark eumelanin and lighter phaeomelanin along the length of the hair shaft. The Agouti gene, with its dominant A allele and recessive a allele, controls the coding for agouti signaling protein (ASIP; Q865F0). The wild-type dominant A causes the banding and thus an overall lightening effect on the hair, while the recessive non-agouti or "hypermelanistic" allele a does not initiate this shift in the pigmentation pathway. As a result, homozygous aa have pigment production throughout the entire growth cycle of the hair and therefore along its full length. These homozygotes are solidly dark throughout, which obscures the appearance of the characteristic dark tabby markings—sometimes a suggestion of the underlying pattern, called "ghost striping", can be seen, especially in bright slanted light on kittens and on the legs, tail and sometimes elsewhere on adults.
+
+A major exception to the solid masking of the tabby pattern exists, as the O allele of the O/o locus is epistatic over the aa genotype. That is, in red or cream colored cats, tabby marking is displayed regardless of the genotype at the agouti locus. However, some red and most cream tabbies do have a fainter pattern when lacking an agouti allele, indicating that the aa genotype does still have a faint effect even if it does not induce complete masking. The mechanism of this process is unknown.
+
+Dark markings
+The Tabby locus on chromosome A1 accounts for most tabby patterns seen in domestic cats, including those patterns seen in most breeds. The dominant allele TaM produces mackerel tabbies, and the recessive Tab produce classic (sometimes referred to as blotched) tabbies. The gene responsible for this differential patterning has been identified as transmembrane aminopeptidase Q (Taqpep, M3XFH7). A threonine to asparagine substitution at residue 139 (T139N) in this protein is responsible for producing the tabby phenotype in domestic cats. In cheetahs, a base pair insertion into exon 20 of the protein replaces the 16 C-terminal residues with 109 new ones (N977Kfs110), generating the king cheetah coat variant.
+The wild-type (in [African wildcat](3)s) is the mackerel tabby (stripes look like thin fishbones and may break up into bars or spots). The most common variant is the classic tabby pattern (broad bands, whorls, and spirals of dark color on pale background usually with bulls-eye or oyster pattern on flank). Spotted tabbies have their stripes broken up into spots, which may be arranged vertically or horizontally. A 2010 study suggests that spotted coats are caused by the modification of mackerel stripes, and may cause varying phenotypes such as "broken mackerel" tabbies via multiple loci. If the genes are Sp/Sp or Sp/sp the tabby coat will be spotted or broken. If it is an sp/sp gene, the tabby pattern will remain either mackerel or blotched. This gene has no effect on cats with a ticked coat.
+
+Ticked tabby
+The Ticked (Ti) locus on chromosome B1 controls the generation of "ticked coats", agouti coats with virtually no stripes or bars. Ticked tabbies are rare in the random-bred population, but fixed in certain breeds such as the Abyssinian and Singapura. TiA is the dominant allele that produces ticked coats; Ti+ is the recessive one. The causative gene for ticked tabby markings is Dickkopf-related protein 4 (DKK4). Both a cysteine to tyrosine substitution at residue 63 (C63Y) and an alanine to valine substitution at residue 18 (A18V) result in decreased DKK4, which is associated with . Both variants are present in the Abyssinian breed, and the A18V variant is found in the Burmese breed. Stripes often remain to some extent on the face, tail, legs, and sometimes the chest ("bleeding through"). Traditionally, this has been thought to happen in heterozygotes (TiATi+) but be nearly or completely nonexistent in homozygotes (TiATiA). The ticked tabby allele is epistatic to and therefore completely (or mostly) masks all the other tabby alleles, "hiding" the patterns they would otherwise express.
+It was once thought that TiA was an allele of the Tabby gene, called Ta, dominant to all other alleles at the locus.
+
+Other genes
+Other genes (pattern modifier genes) are theorized to be responsible for creating various type of spotting patterns, many of which are variations on a basic mackerel or classic pattern.  There are also hypothetical factors which affect the timing and frequency of the agouti shift, affecting agouti band width and the number and quality of alternating bands of eumelanin and phaeomelanin on individual hairs.
+There is a gene not yet identified, but believed to be related to the agouti gene in the [Chausie](86) breed that produces silver-tipped black fur similar to Abyssinian ticked fur, known as "grizzled". This phenomenon is purported to have been inherited from the hybridization of the domestic cat to the jungle cat (Felis chaus).
+The rosette tabby pattern is a pattern similar to that of a leopard, where rosette spots are spread over the body. The pattern is found in hybrid cat breeds, such as the Bengal and Safari.
+The inhibited pigment gene, I/i. The dominant allele (I) produces tipped hairs that are fully colored only at the tip and have a white base. This allele appears to interact with other genes to produce various degrees of tipping, ranging from deeply tipped silver tabby to lightly tipped shaded silver and chinchilla silver. The inhibitor gene interacts with the non-agouti genotype (I-aa) to produce the color known as smoke. The homozygous recessive genotype when combined with the agouti gene (iiA-), produces tabby coloration, which can vary along a spectrum ranging from a deeply patterned brown tabby, to a lighter "golden tabby", to the very lightly colored shaded or chinchilla golden colors. Red and cream cats with the inhibitor gene (I-O-) are commonly called "cameo".
+
+Tortoiseshells and calicos
+Tortoiseshells have patches of orange fur (pheomelanin based) and black or brown (eumelanin based) fur, caused by X-inactivation. Because this requires two X chromosomes, the vast majority of tortoiseshells are female, with approximately 1 in 3,000 being male. Male tortoiseshells can occur as a result of chromosomal abnormalities such as Klinefelter syndrome, by mosaicism, or by a phenomenon known as chimerism, where two early stage embryos are merged into a single kitten.
+Tortoiseshells with a relatively small amount of white spotting are known as "tortoiseshell and white", while those with a larger amount are known in the United States as calicos. Calicos are also known as tricolor cats, mi-ke (meaning "triple fur") in Japanese, and lapjeskat (meaning "patches cat") in Dutch. The factor that distinguishes tortoiseshell from calico is the pattern of eumelanin and pheomelanin, which is partly dependent on the amount of white, due to an effect of the white spotting gene on the general distribution of melanin. A cat which has both an orange and non-orange gene, Oo, and little to no white spotting, will present with a mottled blend of black/red and blue/cream, reminiscent of tortoiseshell material, and is called a tortoiseshell cat. An Oo cat with a large amount of white will have bigger, clearly defined patches of black/red and blue/cream, and is called a calico in the US. 
+
+With intermediate amounts of white, a cat may exhibit a calico pattern, a tortie pattern, or something in between, depending on other epigenetic factors. Blue tortoiseshell, or diluted calico, cats have a lighter coloration (blue/cream) and are sometimes called calimanco or clouded tiger.
+A true tricolor must consist of three colors: white, a red-based color like ginger or cream, and black-based color like black or blue. Tricolor should not be mistaken for the natural gradations in a tabby pattern. The shades which are present in the pale bands of a tabby are not considered to constitute a separate color.
+
+Variations
+The basic tortoiseshell pattern has several different colors depending on the color of the eumelanin (the B locus), and dilution (the D locus).
+Tortoiseshell tabbies, also known as torbies, display tabby patterning on both red- and black-based colors. Calico tabbies are also called calibys or tabicos.
+Tortoiseshell cats with small white patches are called tortico cats, a portmanteau of calico and tortoiseshell.
+
+White spotting and epistatic white
+The KIT gene determines whether or not there will be any white in the coat, except when a solid white coat is caused by albinism. White spotting and epistatic white (also known as dominant white) were long thought to be two separate genes (called S and W respectively), but in fact they are both on the KIT gene. The two have been combined into a single white spotting locus (W). White spotting can take many forms, from a small spot of white to the mostly-white pattern of the Turkish Van, while epistatic white produces a fully white cat (solid or self white). The KIT gene W locus has the following alleles:
+
+WD (or W)=dominant white (solid/self white), autosomal dominant allele. It causes complete white coloration by disrupting replication and migration of melanocytes into the skin. The carriers of this allele are white regardless of any other color-associated gene. It is linked to blue eyes and congenital sensorineural deafness. The deafness is due to a reduction in the population and survival of melanoblast stem cells, which in addition to creating pigment-producing cells, develop into a variety of neurological cell types. White cats with one or two blue eyes have a particularly high likelihood of being deaf. Dominant white is distinct from albinism (c) which results from a mutation in a different gene that has no known impact on hearing.
+wS (or S)=white spotting (bicolor or tricolor cats), dominant allele. It only disrupts migration of melanocytes to certain patches in the skin, thus leading to the formation of white spots. It exhibits codominance and variable expression:
+heterozygote (Wh or Ss)= high degree of spotting white (between 0–50% white); bicolor/tricolor or ventral white (usually the feet, nose, chest, and belly), which is dominant to solid color. Heterozygous cats have somewhere between 0-50% white.
+homozygote (Wl or SS)=low degree of spotting white (between 50 and 100% white); dominant harlequin and van pattern. The van pattern is named after the Lake Van region in Turkey, and expresses as coloration limited to the head and tail.
+w (or N)=wild-type or normal (non-white coats), recessive allele. Homozygotes for it won't have any white in their coat.
+wg=[Birman](27) white gloving allele, recessive allele.
+wsal=salmiak allele, recessive allele. In addition to a white tuxedo pattern, hairs are colored at the root fading into white at the tips, except on the head, where they are often colored all the way through. It was found in Finland and the name means "salty licorice".
+
+Colorpoint and albinism
+The colorpoint pattern is most commonly associated with Siamese cats, but due to crossbreeding may also appear in any (non-pedigree) domesticated cat. A colorpoint cat has dark colors on the face, ears, feet, and tail, with a lighter version of the same color on the rest of the body, and possibly some white. The exact name of the colorpoint pattern depends on the actual color. A few examples are seal points (dark brown to black), chocolate points (warm, lighter brown), blue points (gray), lilac or frost points (silvery gray-pink), red or flame points (orange), and tortie (tortoiseshell mottling) points. This pattern is the result of a temperature sensitive mutation in one of the enzymes in the metabolic pathway from tyrosine to pigment, such as melanin; thus, little or no pigment is produced except in the extremities or points where the skin is slightly cooler. For this reason, colorpoint cats tend to darken with age as bodily temperature drops; also, the fur over a significant injury may sometimes darken or lighten as a result of temperature change. More specifically, the albino locus contains the gene TYR (P55033). Two distinct alleles causing blue-eyed and pink-eyed albinism respectively have been previously theorized.
+Although the Siamese colorpoint pattern is the most famous coloration produced by TYR, there are color mutations at the locus.
+
+C is the wildtype allele resulting in full pigmentation and is completely dominant to all other known alleles at the locus.
+Point=cs is the point allele associated with the Siamese colorpoint pattern.
+Sepia=cb is an allele called sepia (or solid), and is most associated with [Burmese cat](45)s. It produces a pattern similar to the Siamese colorpoint, but with a much lower contrast and amber-yellow to green eyes.
+Mink=cs and cb are codominant, with cb/cs cats having an intermediate phenotype termed mink, in which the pigment distribution is between sepia and point, and the eye color is blue-green (aquamarine).
+Albinism=c and c2 are two synonymous alleles recessive to all other alleles at the locus that cause albinism.
+cm is a novel mutation in [Burmese cat](45)s that results in a color pattern named mocha. Its interactions with other alleles have not yet been fully established.
+The tyrosine pathway also produces neurotransmitters, thus mutations in the early parts of that pathway may affect not only pigment, but also neurological development. This results in a higher frequency of cross-eyes among colorpoint cats, as well as the high frequency of cross-eyes in white tigers.
+
+	Comparison of different black (seal, sable) colourpoint cats
+
+Silver and golden series
+Silver series
+The silver series is caused by the Melanin inhibitor gene I/i. The dominant form causes melanin production to be suppressed, but it affects phaeomelanin (red pigment) much more than eumelanin (black or brown pigment). On tabbies, this turns the background a sparkling silver color while leaving the stripe color intact, making a cold-toned silver tabby. On solid cats, it turns the base of the hair pale, making them silver smoke. The term cameo is commonly used for red silver and cream silver (inhibitor gene (I-O-)) colored coats in cats.
+
+Wide band factors
+Silver agouti cats can have a range of phenotypes, from silver tabby, to silver shaded (under half the hair is pigmented, approx. 1/3 of hair length), to tipped silver also called chinchilla or shell (only the very tip of the hair is pigmented, approx. 1/8 of hair length). This seems to be affected by hypothetical wide band factors, which make the silver band at the base of the hair wider. Breeders often notate wide band as a single gene Wb/wb, but it is most likely a polygenic trait.
+
+Golden series
+If a cat has the wide band trait but no silver melanin inhibitor, the band will be golden instead of silver. These cats are known as golden tabbies, or in Siberian cats sunshine tabbies. The golden color is caused by the CORIN gene. Shaded golden and tipped golden are also possible, in the same hair length distribution as the silver-gene. However, there is no golden smoke, because the combination of wide band and nonagouti simply produces a solid cat.
+
+Tipped or shaded cats
+The genetics involved in producing the ideal tabby, tipped, shaded, or smoke cat is complex. Not only are there many interacting genes, but genes sometimes do not express themselves fully, or conflict with one another. For example, the silver melanin inhibitor gene in some instances does not block pigment, resulting in a grayer undercoat, or in tarnishing (yellowish or rusty fur). The grayer undercoat is considered less desirable to fanciers.
+Likewise, poorly-expressed non-agouti or over-expression of melanin inhibitor will cause a pale, washed out black smoke. Various polygenes (sets of related genes), epigenetic factors, or modifier genes, as yet unidentified, are believed to result in different phenotypes of coloration, some deemed more desirable than others by fanciers.
+The genetic influences on tipped or shaded cats are:
+
+Agouti gene.
+Tabby pattern genes (such as Ta masking the tabby pattern).
+Silver/melanin inhibitor gene I/i.
+Golden CORIN gene.
+Factors affecting the number and width of bands of color on each hair, such as the hypothetical wide band gene wb. Resulting in shaded or tipped (chinchilla/shell) pigmentation.
+Factors affecting the amount and quality of eumelanin and/or phaeomelanin pigment expression (such as theorized rufousing factors)
+Genes causing sparkling appearance (such as glitter in the Bengal, satin in the Tennessee Rex, grizzle in the [Chausie](86)).
+Factors to clear up residual striping (hypothetical Chaos, Confusion, Unconfused, Erase, and Roan factors).
+
+	Silver series
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+	Golden series
+
+Fever coat
+Fever coat is an effect known in domestic cats, where a pregnant female cat has a fever or is stressed, causing her unborn kittens' fur to develop a silver-type color (silver-grey, cream, or reddish) rather than what the kitten's genetics would normally cause. After birth, over some weeks the silver fur is replaced naturally by fur colors according to the kitten's genetics.
+
+Fur length and texture
+[Cat](54) coat hair
+[Cat](54) fur can be short, long, curly, or hairless. Most cats are short-haired, like their ancestor. The fur can naturally come in three types of hairs; guard, awn, and down hair. The length, density and proportions of these three hairs varies greatly between breeds, and in some cats only one or two types are found.
+Most oriental breeds only express one single layer of silky coat. However, cats can also have double-layered coats out of two hair types in which the down hairs form the soft, insulating undercoat, and the guard hairs form the protective outer coat. 
+A typical cat coat exists of all three natural hair types, but due to the equal lengths of two of these hairs, the coat is still considered double-layered. Typically, the down hairs comprise the undercoat while the guard and awn hairs make up the basic top coat. Double-coated cats with thick undercoats require daily grooming as these coats are more prone to matting. Double coats are found in for example the Persian, [British Shorthair](44), Maine Coon and Norwegian Forest cat. 
+Additionally, there even exist cats which express all three natural types of cat hair in different lengths and structures, which form three different layers. These cats are called triple-coated. Siberians and Neva Masquerades are known for their unique triple coats, which provides double insulation to withstand their natural cold climate.
+
+Coat mutations
+There have been many genes identified that result in unusual cat fur. These genes were discovered in random-bred cats and selected for. Some of the genes are in danger of going extinct because the cats are not sold beyond the region where the mutation originated or there is simply not enough demand for cats expressing the mutation.
+In many breeds, coat gene mutations are unwelcome. An example is the rex allele which appeared in Maine Coons in the early 1990s. Rexes appeared in America, Germany and the UK, where one breeder caused consternation by calling them "Maine Waves". Two UK breeders did test mating which indicated that this was probably a new rex mutation and that it was recessive. The density of the hair was similar to normally coated Maine Coons, but consisted only of down type hairs with a normal down type helical curl, which varied as in normal down hairs. Whiskers were more curved, but not curly. Maine Coons do not have awn hairs, and after moulting, the rexes had a very thin coat.
+
+Fur length
+[Cat](54) fur length is governed by the Length gene in which the dominant form, L, codes for short hair, and the recessive l codes for long hair. In the longhaired cat, the transition from anagen (hair growth) to catagen (cessation of hair growth) is delayed due to this mutation. A rare recessive shorthair gene has been observed in some lines of Persian cat (silvers) where two longhaired parents have produced shorthaired offspring.
+The Length gene has been identified as the fibroblast growth factor 5 (FGF5; M3X9S6) gene. The dominant allele codes for the short coat is seen in most cats. Long coats are coded for by at least four different recessively inherited mutations, the alleles of which have been identified. The most ubiquitous is found in most or all long haired breeds while the remaining three are found only in Ragdolls, Norwegian Forest [Cat](54)s, and Maine Coons.
+
+Curly-coated
+There are various genes producing curly-coated or "rex" cats. New types of rex arise spontaneously in random-bred cats now and then. Some of the rex genes that breeders have selected for are:
+
+Devon Rex
+Mutation in KRT71 (E1AB55), the same gene causing hairlessness in Sphynx cats. re is an allele completely recessive to the wildtype and completely dominant to hr found in Sphynx.
+[Cornish Rex](93)
+Mutation in LPAR6 (A0A5F5XLZ8). A completely recessive allele termed r.
+Ural Rex
+Mutation in LIPH.
+German Rex
+Provisionally an allele termed gr. Same locus as Cornish, but proposed as a different allele. However, most breeders consider the German Rex to have r/r genotype.
+Oregon Rex (extinct)
+A hypothetical recessive allele termed ro.
+Selkirk Rex
+A dominant allele termed Se, although sometimes described as an incomplete dominant because the three possible allele pairings relate to three different phenotypes: heterozygous cats (Se/se) may have a fuller coat that is preferred in the show ring, while homozygous cats (Se/Se) may have a tighter curl and less coat volume. (se/se type cats have a normal coat.) This phenomenon may also colloquially be referred to as additive dominance.
+LaPerm
+Provisional completely dominant Lp allele.
+
+Hairlessness
+There are also genes for hairlessness:
+
+h=French hairless cat, recessive.
+hd=British hairless cat, recessive.
+Hp=Russian Donskoy and Peterbald, dominant.
+hr=Sphynx cat, recessive. Identified on KRT71.
+Some rex cats are prone to temporary hairlessness, known as baldness, during moulting.
+Here are a few other genes resulting in unusual fur:
+
+The Wh gene (dominant, possibly incomplete) results in Wirehair cats. They have bent or crooked hair producing springy, crinkled fur.
+A hypothetical Yuc gene, or York Chocolate undercoat gene, results in cats with no undercoat. However, the proportional relationship between guard, awn, and down hair production varies greatly between all breeds.
+A recessive autosomal gene for Onion hair which causes roughness and swelling on the hairs.  The swelling is due to enlargement of the inner core of medulla cells.
+A recessive autosomal gene spf for sparse fur.  As well as sparse coat, the hairs are thin, straggly and contorted and there is brown exudate around the eyes and nose and on the chest and stomach. A similar condition is linked to Ornithine Transcarbamylase Deficiency in mice.
+
+Loci for coat colour, type and length
+See also
+References
+Further reading
+External links
+[Cat](54) Genetics articles in plain English
+[Cat](54) Gene Symbols
+The Pigment Parade: White and White Spotting in the [Cat](54)

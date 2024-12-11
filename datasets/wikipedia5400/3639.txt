@@ -1,0 +1,54 @@
+3639
+Angstrom
+The angstrom (; ANG-strəm) is a unit of length equal to 10−10 m; that is, one ten-billionth of a metre, a hundred-millionth of a centimetre, 0.1 nanometre, or 100 picometres. The unit is named after the Swedish physicist [Anders Jonas Ångström](3635) (1814–1874).  It was originally spelled with Swedish letters, as Ångström and later as ångström ().  The latter spelling is still listed in some dictionaries, but is now rare in English texts. Some popular US dictionaries list only the spelling angstrom.
+The unit's symbol is Å, which is a letter of the Swedish alphabet, regardless of how the unit is spelled. However, "A" or "A.U." may be used in less formal contexts or typographically limited media.
+The angstrom is often used in the natural sciences and technology to express sizes of atoms, molecules, microscopic biological structures, and lengths of chemical bonds, arrangement of atoms in crystals, wavelengths of electromagnetic radiation, and dimensions of integrated circuit parts. The atomic (covalent) radii of phosphorus, sulfur, and chlorine are about 1 angstrom, while that of hydrogen is about 0.5 angstroms. Visible light has wavelengths in the range of 4000–7000 Å.
+In the late 19th century, spectroscopists adopted 10−10 of a metre as a convenient unit to express the wavelengths of characteristic spectral lines (monochromatic components of the emission spectrum) of chemical elements. However, they soon realized that the definition of the metre at the time, based on a material artifact, was not accurate enough for their work.  So, around 1907 they defined their own unit of length, which they called "Ångström", based on the wavelength of a specific spectral line. It was only in 1960, when the metre was redefined in the same way, that the angstrom became again equal to 10−10 metre.  Yet the angstrom was never part of the SI system of units, and has been increasingly replaced by the nanometre (10−9 m) or picometre (10−12 m).
+
+History
+In 1868, Swedish physicist [Anders Jonas Ångström](3635) created a chart of the spectrum of sunlight, in which he expressed the wavelengths of electromagnetic radiation in the electromagnetic spectrum in multiples of one ten-millionth of a millimetre (or 10−7 mm.) Ångström's chart and table of wavelengths in the solar spectrum became widely used in the solar physics community, which adopted the unit and named it after him. It subsequently spread to the fields of astronomical spectroscopy, atomic spectroscopy, and then to other sciences that deal with atomic-scale structures.
+
+Early connection to the metre
+Although intended to correspond to 10−10 metres, that definition was not accurate enough for spectroscopy work. Until 1960 the metre was defined as the distance between two scratches on a bar of platinum-iridium alloy, kept at the BIPM in Paris in a carefully controlled environment. Reliance on that material standard had led to an early error of about one part in 6000 in the tabulated wavelengths. Ångström took the precaution of having the standard bar he used checked against a standard in Paris, but the metrologist Henri Tresca reported it to be so incorrect that Ångström's corrected results were more in error than the uncorrected ones.
+
+Cadmium line definition
+In 1892–1895, [Albert A. Michelson](3116) and Jean-René Benoît, working at the BIPM with specially developed equipment, determined that the length of the international metre standard was equal to 1553163.5 times the wavelength of the red line of the emission spectrum of electrically excited cadmium vapor. In 1907, the International Union for Cooperation in Solar Research (which later became the International Astronomical Union) defined the international angstrom as precisely 1/6438.4696 of the wavelength of that line (in dry air at 15 °C (hydrogen scale) and 760 mmHg under a gravity of 9.8067 m/s2).
+This definition was endorsed at the 7th General Conference on Weights and Measures (CGPM) in 1927, but the material definition of the metre was retained until 1960.  From 1927 to 1960, the angstrom remained a secondary unit of length for use in spectroscopy, defined separately from the metre.
+
+Redefinition in terms of the metre
+In 1960, the metre itself was redefined in spectroscopic terms, which allowed the angstrom to be redefined as being exactly 0.1 nanometres.
+
+Angstrom star
+After the redefinition of the metre in spectroscopic terms, the Angstrom was formally redefined to be 0.1 nanometres.  However, there was briefly thought to be a need for a separate unit of comparable size defined directly in terms of spectroscopy.  In 1965, J.A. Bearden defined the Angstrom Star (symbol: Å*) as 0.202901 times the wavelength of the tungsten 
+  
+    
+      
+        
+          κ
+          
+            α
+            1
+          
+        
+      
+    
+    {\textstyle \kappa _{\alpha 1}}
+  
+ line. This auxiliary unit was intended to be accurate to within 5 parts per million of the version derived from the new metre.  Within ten years, the unit had been deemed both insufficiently accurate (with accuracies closer to 15 parts per million) and obsolete due to higher precision measuring equipment.
+
+Current status
+Although still widely used in physics and chemistry, the angstrom is not officially a part of the International System of Units (SI). Up to 2019, it was listed as a compatible unit by both the International Bureau of Weights and Measures (BIPM) and the US National Institute of Standards and Technology (NIST).  However, it is not mentioned in the 9th edition of the official SI standard, the "BIPM Brochure" (2019) or in the NIST version of the same, and BIPM officially discourages its use. The angstrom is also not included in the European Union's catalogue of units of measure that may be used within its internal market.
+
+Symbol
+For compatibility reasons, Unicode assigns a code point U+212B Å ANGSTROM SIGN for the angstrom symbol, which is accessible in HTML as the entity &angst;, &#x0212B;, or &#8491;. However, version 5 of the standard already deprecates that code point and has it normalized into the code for the Swedish letter U+00C5 Å LATIN CAPITAL LETTER A WITH RING ABOVE (HTML entity &Aring;, &#xC5;, or &#197;), which should be used instead.
+In older publications, where the Å glyph was unavailable, the unit was sometimes written as "A.U.". An example is Bragg's 1921 classical paper on the structure of ice, which gives the c- and a-axis lattice constants as 4.52 A.U. and 7.34 A.U., respectively. Ambiguously, the abbreviation "a.u." may also refer to the atomic unit of length, the bohr—about 0.53 Å—or the much larger astronomical unit (about 1.5×1011 m).
+
+See also
+Orders of magnitude (length) § 100 picometres (for objects on this scale)
+Conversion of units
+X unit
+
+References
+
+
+== External links ==

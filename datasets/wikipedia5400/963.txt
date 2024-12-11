@@ -1,0 +1,218 @@
+963
+Distance (graph theory)
+In the mathematical field of graph theory, the distance between two vertices in a graph is the number of edges in a shortest path (also called a graph geodesic) connecting them.  This is also known as the geodesic distance or shortest-path distance. Notice that there may be more than one shortest path between two vertices. If there is no path connecting the two vertices, i.e., if they belong to different connected components, then conventionally the distance is defined as infinite.
+In the case of a directed graph the distance d(u,v) between two vertices u and v is defined as the length of a shortest directed path from u to v consisting of arcs, provided at least one such path exists. Notice that, in contrast with the case of undirected graphs, d(u,v) does not necessarily coincide with d(v,u)—so it is just a quasi-metric, and it might be the case that one is defined while the other is not.
+
+Related concepts
+A metric space defined over a set of points in terms of distances in a graph defined over the set is called a graph metric.
+The vertex set (of an undirected graph) and the distance function form a metric space, if and only if the graph is connected.
+The eccentricity ϵ(v) of a vertex v is the greatest distance between v and any other vertex; in symbols,
+
+  
+    
+      
+        ϵ
+        (
+        v
+        )
+        =
+        
+          max
+          
+            u
+            ∈
+            V
+          
+        
+        d
+        (
+        v
+        ,
+        u
+        )
+        .
+      
+    
+    {\displaystyle \epsilon (v)=\max _{u\in V}d(v,u).}
+  
+
+It can be thought of as how far a node is from the node most distant from it in the graph.
+The radius r of a graph is the minimum eccentricity of any vertex or, in symbols, 
+
+  
+    
+      
+        r
+        =
+        
+          min
+          
+            v
+            ∈
+            V
+          
+        
+        ϵ
+        (
+        v
+        )
+        =
+        
+          min
+          
+            v
+            ∈
+            V
+          
+        
+        
+          max
+          
+            u
+            ∈
+            V
+          
+        
+        d
+        (
+        v
+        ,
+        u
+        )
+        .
+      
+    
+    {\displaystyle r=\min _{v\in V}\epsilon (v)=\min _{v\in V}\max _{u\in V}d(v,u).}
+  
+
+The diameter d of a graph is the maximum eccentricity of any vertex in the graph.  That is, d is the greatest distance between any pair of vertices or, alternatively, 
+
+  
+    
+      
+        d
+        =
+        
+          max
+          
+            v
+            ∈
+            V
+          
+        
+        ϵ
+        (
+        v
+        )
+        =
+        
+          max
+          
+            v
+            ∈
+            V
+          
+        
+        
+          max
+          
+            u
+            ∈
+            V
+          
+        
+        d
+        (
+        v
+        ,
+        u
+        )
+        .
+      
+    
+    {\displaystyle d=\max _{v\in V}\epsilon (v)=\max _{v\in V}\max _{u\in V}d(v,u).}
+  
+
+To find the diameter of a graph, first find the shortest path between each pair of vertices. The greatest length of any of these paths is the diameter of the graph.
+A central vertex in a graph of radius r is one whose eccentricity is r—that is, a vertex whose distance from its furthest vertex is equal to the radius, equivalently, a vertex v such that ϵ(v) = r.
+A peripheral vertex in a graph of diameter d is one whose eccentricity is d—that is, a vertex whose distance from its furthest vertex is equal to the diameter. Formally, v is peripheral if ϵ(v) = d.
+A pseudo-peripheral vertex v has the property that, for any vertex u, if u is as far away from v as possible, then v is as far away from u as possible.  Formally, a vertex v is pseudo-peripheral if, for each vertex u with d(u,v) = ϵ(v), it holds that ϵ(u) = ϵ(v).
+A level structure of the graph, given a starting vertex, is a partition of the graph's vertices into subsets by their distances from the starting vertex.
+A geodetic graph is one for which every pair of vertices has a unique shortest path connecting them. For example, all trees are geodetic.
+The weighted shortest-path distance generalises the geodesic distance to weighted graphs. In this case it is assumed that the weight of an edge represents its length or, for complex networks the cost of the interaction, and the weighted shortest-path distance dW(u, v) is the minimum sum of weights across all the paths connecting u and v. See the shortest path problem for more details and algorithms.
+
+Algorithm for finding pseudo-peripheral vertices
+Often peripheral sparse matrix algorithms need a starting vertex with a high eccentricity. A peripheral vertex would be perfect, but is often hard to calculate. In most circumstances a pseudo-peripheral vertex can be used.  A pseudo-peripheral vertex can easily be found with the following algorithm:
+
+Choose a vertex 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+.
+Among all the vertices that are as far from 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ as possible, let 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ be one with minimal degree.
+If 
+  
+    
+      
+        ϵ
+        (
+        v
+        )
+        >
+        ϵ
+        (
+        u
+        )
+      
+    
+    {\displaystyle \epsilon (v)>\epsilon (u)}
+  
+ then set 
+  
+    
+      
+        u
+        =
+        v
+      
+    
+    {\displaystyle u=v}
+  
+ and repeat with step 2, else 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ is a pseudo-peripheral vertex.
+
+See also
+
+
+== Notes ==

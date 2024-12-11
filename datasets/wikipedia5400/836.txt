@@ -1,0 +1,15 @@
+836
+Ben Klemens
+Ben Klemens (born April 10, 1975) is an Australian economist, author, and co-host of the podcast 'Pod, Paper, Scissors'. He works for the US Treasury Department and was previously a nonresident fellow at the Brookings Institution's Center on Social and Economic Dynamics. He holds a PhD in Social Sciences from Caltech. 
+Klemens is the author of the proposal to the Unicode consortium for the Falafel emoji, which will be appearing across web platforms in 2019.
+
+Statistical computing
+In the realm of statistical computing, Klemens has done extensive work on statistical analysis for large data sets and non-traditional models such as agent-based models. He developed an innovative library of statistics functions for C, named Apophenia, and has written a textbook on statistical computing, Modeling with Data.
+
+Software patent policy
+Klemens has also worked on the policy aspects of computing, and in particular the issue of software patents. He has argued in a book entitled Math You Can't Use (ISBN 0815749422) and a law review article that intangibles such as computer code and mathematics should not be patentable subject matter. 
+Klemens was previously the executive director of End Software Patents, an advocacy group that has lobbied to eliminating software patents and has organized around the Bilski v. Kappos case that was decided by the Supreme Court in 2010. He is a featured expert in the documentary Patent Absurdity: How Software Patents Broke the System (2010). His writings on the subject have appeared in the op-ed sections of The Wall Street Journal, Ars Technica, and The Washington Post. He has occasionally commented on broader issues of technology policy and patent law.
+
+References
+External links
+Official website

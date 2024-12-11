@@ -1,0 +1,54 @@
+417
+Alphasatellite
+Alphasatellites are a single-stranded DNA family of satellite viruses that depend on the presence of another virus (helper viruses) to replicate their genomes. As such, they have minimal genomes with very low genomic redundancy. The genome is a single circular single strand DNA molecule. The first alphasatellites were described in 1999 and were associated with cotton leaf curl disease and Ageratum yellow vein disease. As begomoviruses are being characterised at the molecular level an increasing number of alphasatellites are being described.
+These viruses were earlier known as DNA 1 components.
+These viruses are generally found in the Old World. A number have been isolated from the New World but their association with their host viruses is still being studied.
+
+Genome
+The genome is between 1300 and 1400 nucleotides in length and has three conserved features: a hairpin structure, a single open reading frame (ORF) and an adenine rich region.
+The hairpin structure has a loop that includes the nonanucleotide, TAGTATTAC, which is common to nanoviruses and differs from the TAATATTAC sequence of geminiviruses by one nucleotide. In both geminiviruses and nanoviruses this sequence contains the origin of replication (ori) and is nicked by the rolling circle replication initiator protein to initiate viral DNA replication. On the basis of the hairpin structures alphasatellites can be divided into 5 clades.
+The open reading frame encodes a rolling circle replication initiator protein (Rep) similar to that found in the nanoviruses. The encoded protein is 32–37 kilodalton in molecular weight with ~320 amino acids. It is highly conserved with 86.3–100.0% amino acid sequence identity between isolates.
+The adenine rich region is immediately downstream of the rep gene and is approximately 153–169 nucleotides in length with an adenine content of between 52.3–58.4%. Phylogenectic analysis of this region shows that they can be divided into three clades which correspond to those found on phylogenetic analysis of the entire genome. This portion of the genome appears to be redundant.
+A putative second ORF in the genome of an alphasatellite virus has been described. The significance of this finding (if any) is not known.
+Recombination occurs between alphasatellites.
+
+Virology
+There are no distinctive virions because the viral genomes are encapsidated within the coat protein of the helper virus.
+Alphasatellites associated with the begomoviruses require a begomovirus for movement in plants and insect transmission but are capable of self replication in host plants. They do not appear to cause disease in plants or to alter the course of infection by the begomovirus. They may be able to reduce the severity of an infection by the begomoviruses.
+Alphasatellites have also been described in association with Nanoviridae. These tend to be slightly shorter (1100–1300 nucleotides) but to encode proteins in addition to the rep gene. Because of the multiple component genome of the Nanoviridae these were not initially recognised as distinct genomes.
+Alphasatellites may be the target of RNA silencing.
+
+Taxonomy
+Alphasatellites are grouped together in the family Alphasatellitidae. This family has three subfamilies, 18 genera, and 85 species. The following subfamilies and genera are recognized (-satellitinae denotes subfamily and -satellite denotes genus):
+
+Geminialphasatellitinae
+Ageyesisatellite
+Clecrusatellite
+Colecusatellite
+Draflysatellite
+Gosmusatellite
+Somasatellite
+Whiflysatellite
+Nanoalphasatellitinae
+Clostunsatellite
+Fabenesatellite
+Milvetsatellite
+Mivedwarsatellite
+Sophoyesatellite
+Subclovsatellite
+Petromoalphasatellitinae
+Babusatellite
+Cocosatellite
+Coprasatellite
+Kobbarisatellite
+Muscarsatellite
+
+Evolution
+Given the similarities between the rep proteins of the alphasatellites and the nanoviruses, it is likely that the alphasatellites evolved from the nanoviruses.
+
+Uses
+These viruses have been used in the development of viral gene silencing studies.
+
+References
+External links
+ViralZone Alphasatellitidae

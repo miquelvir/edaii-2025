@@ -1,0 +1,32 @@
+4959
+Applied ethics
+Applied ethics is the practical aspect of moral considerations. It is ethics with respect to real-world actions and their moral considerations in private and public life, the professions, health, technology, law, and leadership. For example, bioethics is concerned with identifying the best approach to moral issues in the life sciences, such as euthanasia, the allocation of scarce health resources, or the use of human embryos in research. Environmental ethics is concerned with ecological issues such as the responsibility of government and corporations to clean up pollution. Business ethics includes the duties of whistleblowers to the public and to their employers.
+
+History
+Applied ethics has expanded the study of ethics beyond the realms of academic philosophical discourse. The field of applied ethics, as it appears today, emerged from debate surrounding rapid medical and technological advances in the early 1970s and is now established as a subdiscipline of moral philosophy. However, applied ethics is, by its very nature, a multi-professional subject because it requires specialist understanding of the potential ethical issues in fields like medicine, business or information technology. Nowadays, ethical codes of conduct exist in almost every profession.
+An applied ethics approach to the examination of moral dilemmas can take many different forms but one of the most influential and most widely utilised approaches in bioethics and health care ethics is the four-principle approach developed by Tom Beauchamp and James Childress. The four-principle approach, commonly termed principlism, entails consideration and application of four prima facie ethical principles: autonomy, non-maleficence, beneficence, and justice.
+
+Underpinning theory
+Applied ethics is distinguished from normative ethics, which concerns standards for right and wrong behavior, and from meta-ethics, which concerns the nature of ethical properties, statements, attitudes, and judgments.
+Whilst these three areas of ethics appear to be distinct, they are also interrelated. The use of an applied ethics approach often draws upon these normative ethical theories:
+
+Consequentialist ethics, which hold that the rightness of acts depends only on their consequences. The paradigmatic consequentialist theory is utilitarianism, which classically holds that whether an act is morally right depends on whether it maximizes net aggregated psychological wellbeing. This theory's main developments came from Jeremy Bentham and John Stuart Mill who distinguished between act and rule utilitarianism. Notable later developments were made by Henry Sidgwick who introduced the significance of motive or intent, and R. M. Hare who introduced the significance of preference in utilitarian decision-making. Other forms of consequentialism include prioritarianism.
+Deontological ethics, which hold that acts have an inherent rightness or wrongness regardless of their context or consequences. This approach is epitomized by Immanuel Kant's notion of the categorical imperative, which was the centre of Kant's ethical theory based on duty. Another key deontological theory is natural law, which was heavily developed by Thomas Aquinas and is an important part of the [Catholic Church](4801)'s teaching on morals. Threshold deontology holds that rules ought to govern up to a point despite adverse consequences; but when the consequences become so dire that they cross a stipulated threshold, consequentialism takes over.
+Virtue ethics, derived from [Aristotle](162)'s and Confucius' notions, which asserts that the right action will be that chosen by a suitably 'virtuous' agent.
+Normative ethical theories can clash when trying to resolve real-world ethical dilemmas. One approach attempting to overcome the divide between consequentialism and deontology is case-based reasoning, also known as casuistry. Casuistry does not begin with theory, rather it starts with the immediate facts of a real and concrete case. While casuistry makes use of ethical theory, it does not view ethical theory as the most important feature of moral reasoning. Casuists, like Albert Jonsen and Stephen Toulmin (The Abuse of Casuistry, 1988), challenge the traditional paradigm of applied ethics. Instead of starting from theory and applying theory to a particular case, casuists start with the particular case itself and then ask what morally significant features (including both theory and practical considerations) ought to be considered for that particular case. In their observations of medical ethics committees, Jonsen and Toulmin note that a consensus on particularly problematic moral cases often emerges when participants focus on the facts of the case, rather than on ideology or theory. Thus, a Rabbi, a Catholic priest, and an agnostic might agree that, in this particular case, the best approach is to withhold extraordinary medical care, while disagreeing on the reasons that support their individual positions. By focusing on cases and not on theory, those engaged in moral debate increase the possibility of agreement.
+Applied ethics was later distinguished from the nascent applied epistemology, which is also under the umbrella of applied philosophy. While the former was concerned with the practical application of moral considerations, the latter focuses on the application of epistemology in solving practical problems.
+
+See also
+References
+Further reading
+Chadwick, R.F. (1997). Encyclopedia of Applied Ethics. London: Academic Press. ISBN 0-12-227065-7.
+Singer, Peter (1993). Practical Ethics. Cambridge University Press. ISBN 0-521-43971-X. (monograph)
+Cohen, Andrew I. (2005). Contemporary Debates in Applied Ethics. Wiley-Blackwell. ISBN 978-1-4051-1548-3.
+LaFollette, Hugh (2002). Ethics in Practice (2nd ed.). Blackwell Publishing. ISBN 0-631-22834-9.
+Singer, Peter (1986). Applied Ethics. Oxford University Press. ISBN 0-19-875067-6.
+Frey, R.G. (2004). A Companion to Applied Ethics. Blackwell. ISBN 1-4051-3345-7.
+
+External links
+
+Applied ethics at PhilPapers
+"Applied ethics". Internet Encyclopedia of Philosophy.

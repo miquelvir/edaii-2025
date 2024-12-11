@@ -1,0 +1,49 @@
+858
+C--
+C-- (pronounced C minus minus) is a C-like programming language, designed to be generated mainly by compilers for high-level languages rather than written by human programmers. It was created by functional programming researchers Simon Peyton Jones and Norman Ramsey. Unlike many other intermediate languages, it is represented in plain ASCII text, not bytecode or another binary format.
+There are two main branches:
+
+C--, the original branch, with the final version 2.0 released in May 2005
+Cmm, the fork actively used as the intermediate representation (IR) in the Glasgow Haskell [Compiler](662) (GHC)
+
+Design
+C-- is a "portable assembly language", designed to ease the implementation of compilers that produce high-quality machine code. This is done by delegating low-level code-generation and program optimization to a C-- compiler. The language's syntax borrows heavily from C while omitting or changing standard C features such as variadic functions, pointer syntax, and aspects of C's type system, because they hamper essential features of C-- and ease of code-generation.
+The name of the language is an in-joke, indicating that C-- is a reduced form of C, in the same way that "[C++](640)" was chosen to connote an improved version of C. (In C, -- and ++ mean "decrement" and "increment", respectively.)
+Work on C-- began in the late 1990s. Since writing a custom code generator is a challenge in itself, and the compiler backends available to researchers at that time were complex and poorly documented, several projects had written compilers which generated C code (for instance, the original Modula-3 compiler). However, C is a poor choice for functional languages: it does not guarantee tail-call optimization, or support accurate garbage collection or efficient exception handling. C-- is a tightly-defined simpler alternative to C which supports all of these. Its most innovative feature is a run-time interface which allows writing of portable garbage collectors, exception handling systems and other run-time features which work with any C-- compiler.
+The first version of C-- was released in April 1998 as a MSRA paper, accompanied by a January 1999 paper on garbage collection. A revised manual was posted in HTML form in May 1999. Two sets of major changes proposed in 2000 by Norman Ramsey ("Proposed Changes") and Christian Lindig ("A New Grammar") led to C-- version 2, which was finalized around 2004 and officially released in 2005.
+
+Type system
+The C-- type system is designed to reflect constraints imposed by hardware rather than conventions imposed by higher-level languages. A value stored in a register or memory may have only one type: bit-vector. However, bit-vector is a polymorphic type which comes in several widths, e.g. bits8, bits32, or bits64. A separate 32-or-64 bit family of floating-point types is supported. In addition to the bit-vector type, C-- provides a boolean type bool, which can be computed by expressions and used for control flow but cannot be stored in a register or memory. As in an assembly language, any higher type discipline, such as distinctions between signed, unsigned, float, and pointer, is imposed by the C-- operators or other syntactic constructs. C-- is not type-checked, nor does it enforce or check the calling convention.: 28 
+C-- version 2 removes the distinction between bit-vector and floating-point types. These types can be annotated with a string "kind" tag to distinguish, among other things, a variable's integer vs float typing and its storage behavior (global or local). The former is useful on targets that have separate registers for integer and floating-point values. Special types for pointers and the native word were introduced, although they are mapped to a bit-vector with a target-dependent length.: 10
+
+Example code
+The following C-- code calculates the sum and product of integers 1 through n
+(n is received as an argument).
+It demonstrates two language features:
+
+Procedures can return multiple results.
+Tail recursion is explicitly requested with the "jump" keyword.
+
+Implementations
+The specification page of C-- lists a few implementations of C--. The "most actively developed" compiler, Quick C--, was abandoned in 2013.
+
+Haskell
+Some developers of C--, including Simon Peyton Jones, João Dias, and Norman Ramsey, work or have worked on GHC, whose development has led to extensions in the C-- language, forming the Cmm dialect which uses the [C preprocessor](874) for ergonomics.
+GHC backends are responsible for further transforming C-- into executable code, via LLVM IR, slow C, or directly through the built-in native backend. Despite the original intention, GHC does perform many of its generic optimizations on C--. As with other compiler IRs, the C-- representation can be dumped for debugging. Target-specific optimizations are performed later by the backend.
+
+Processing systems
+As of 2023, most processing systems are not maintained, including release of the source code.
+
+Quick C-- is a compiler developed by The Quick C-- Team. It compiles version 2 of C-- code to Intel x86 Linux machine code. Compilation to machine code for other platforms is available as an experimental feature. Previously, Quick C-- was developed in parallel with the evolution of the C-- language specification. However, the source code is now only available on GitHub, and development has ceased.
+cmmc is a C-- compiler implemented in the ML programming language by Fermin Reig. It generates machine code for Alpha, Sparc, and x86 architectures.
+Trampoline C-- [Compiler](662) is a C-- to C transpiler developed by Sergei Egorov in May 1999. It translates C-- code into C code, allowing it to be compiled using standard C compilers.
+The Oregon Graduate Institute's C-- compiler (OGI C-- [Compiler](662)) is the earliest prototype C-- compiler, implemented in the ML programming language in 1997. Maintenance of the OGI C-- [Compiler](662) was discontinued once development of Quick C-- began.
+
+See also
+[BCPL](828)
+LLVM
+
+References
+External links
+Archive of old official website (cminusminus.org)
+Quick C-- code archive (the reference implementation)

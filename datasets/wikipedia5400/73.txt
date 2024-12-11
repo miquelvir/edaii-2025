@@ -1,0 +1,36 @@
+73
+Cat righting reflex
+The cat righting reflex is a cat's innate ability to orient itself as it falls in order to land on its feet. The righting reflex begins to appear at 3–4 weeks of age, and is perfected at 6–9 weeks. [Cat](54)s are able to do this because they have an unusually flexible backbone and no functional clavicle (collarbone). The tail seems to help but cats without a tail also have this ability, since a cat mostly turns by moving its legs and twisting its spine in a certain sequence.
+While cats provide the most famous example of this reflex, they are not the only animal known to have a mid-air righting capability. Similar phenomenons have been observed in other small vertebrates such as rabbits, rats, lizards, and certain invertebrate tailed anthropods (e.g. stick insects).
+
+Technique
+After determining down from up visually or with their vestibular apparatus (in the inner ear), cats manage to twist themselves to face downward without changing their net angular momentum. They are able to accomplish this with these key steps:
+
+Bend in the middle so that the front half of their body rotates about a different axis from the rear half.
+Tuck their front legs in to reduce the moment of inertia of the front half of their body and extend their rear legs to increase the moment of inertia of the rear half of their body so that they can rotate their front by as much as 90° while the rear half rotates in the opposite direction as little as 10°.
+Extend their front legs and tuck their rear legs so that they can rotate their rear half further while their front half rotates in the opposite direction less.
+Depending on the cat's flexibility and initial angular momentum, if any, the cat may need to perform steps two and three repeatedly to complete a full 180° rotation.
+
+Terminal velocity
+In addition to the righting reflex, cats have other features that reduce damage from a fall. Their small size, light bone structure, and thick fur decrease their terminal velocity. While falling, a cat spreads out its body to increase drag. An average-sized cat with its limbs extended achieves a terminal velocity of about 60 mph (97 km/h), around half that of an average-sized man, who reaches a terminal velocity of about 120 mph (190 km/h). A 2003 study of feline high-rise syndrome found that cats "orient their limbs horizontally after achieving maximum velocity so that the impact is more evenly distributed throughout the body".: 311
+
+Injury
+With their righting reflex, cats often land uninjured. However, this is not always the case, since cats can still break bones or die from extreme falls. In a 1987 study, published in the Journal of the American Veterinary Medical Association, of 132 cats that were brought into the New York Animal Medical Center after having fallen from buildings, it was found that injuries per cat increased positively with altitude until a height of seven stories, at which point injuries decreased. One cat fell 40 stories without injury, having apparently bounced off a canopy and into a planter. The study's authors speculated that, after falling five storeys, the cats reached terminal velocity, at which point they relaxed and spread their bodies out to increase drag. However, critics of the study have questioned the conclusion that mortality rates decrease as height increases due to survivorship bias; falls that resulted in instant death were not included as a deceased cat would not be brought to a vet. A 2003 study of 119 cats concluded that "Falls from the seventh or higher storeys, are associated with more severe injuries and with a higher incidence of thoracic trauma."
+
+See also
+Falling cat problem – the mathematical problem of explaining the physics of the cat righting reflex
+High-rise syndrome – veterinary terminology for injuries sustained by cats typically caused by falls from significant heights
+Buttered cat paradox – a humorous combination of two observations, the cat righting reflex and the buttered toast phenomenon
+
+References
+Further reading
+Arabyan, A.; Tsai, D. (1998). "A distributed control model for the air-righting reflex of a cat". Biol. Cybern. 79 (5): 393–401. doi:10.1007/s004220050488. PMID 9851020. S2CID 6443644.
+Diamond, J. (1988). "Why cats have nine lives". Nature. 332 (6165): 586–587. Bibcode:1988Natur.332..586D. doi:10.1038/332586a0. PMID 3357516. S2CID 4241224.
+Gbur, Greg (2019). Falling Felines and Fundamental Physics. New Haven, CT. ISBN 978-0-300-24907-1. OCLC 1122457477.{{cite book}}:  CS1 maint: location missing publisher (link)
+Laouris, Y.; Kalli-Laouri, J.; Schwartze, P. (1990). "The postnatal development of the air-righting reaction in albino rats. Quantitative analysis of normal development and the effect of preventing neck-torso and torso-pelvis rotations". Behavioural Brain Research. 37 (1): 37–44. doi:10.1016/0166-4328(90)90070-U. PMID 2310493. S2CID 10542756.
+Laouris, Y.; Kalli-Laouri, J.; Schwartze, P. (1990). "The influence of altered head, thorax and pelvis mass on the postnatal development of the air righting reaction in albino rats". Behav. Brain Res. 38 (2): 185–190. doi:10.1016/0166-4328(90)90016-8. PMID 2363837. S2CID 8325481.
+
+External links
+The surprisingly complicated physics of why cats always land on their feet
+National Geographic video on the cat righting reflex
+Slow Motion Flipping [Cat](54) Physics

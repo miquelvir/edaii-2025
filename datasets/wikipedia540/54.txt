@@ -1,0 +1,50 @@
+54
+Accipitriformes
+The Accipitriformes (; from Latin  accipiter 'hawk' and  formes 'having the form of') are an order of birds that includes most of the diurnal birds of prey, including hawks, eagles,
+vultures, and kites, but not falcons.
+For a long time, the majority view was to include them with the falcons in the Falconiformes, but many authorities now recognize a separate from Accipitriformes. A DNA study published in 2008 indicated that falcons are not closely related to the Accipitriformes, being instead more closely related to parrots and passerines. Since then, the split and the placement of the falcons next to the parrots in taxonomic order has been adopted by the American Ornithological Society's South American Classification Committee (SACC), its North American Classification Committee (NACC), and the International Ornithological Congress (IOC). The British Ornithologists' Union already recognized the Accipitriformes, and has adopted the move of Falconiformes. The DNA-based proposal and the NACC and IOC classifications include the New World vultures in the Accipitriformes, while the SACC classifies the New World vultures as a separate order, the Cathartiformes. When Cathartiformes is considered a separate order, sister to Accipitriformes, Accipitriformes sensu lato is called Accipitrimorphae.
+
+Characteristics
+The Accipitriformes are known from the Middle Eocene and typically have a sharply hooked beak with a soft cere housing the nostrils. Their wings are long and fairly broad, suitable for soaring flight, with the outer four to six  primary feathers emarginated.
+They have strong legs and feet with raptorial claws and opposable hind claws. Almost all Accipitriformes are carnivorous, hunting by sight during the day or at twilight. They are exceptionally long-lived, and most have low reproductive rates.
+The young have a long, very fast-growing fledgling stage, followed by 3–8 weeks of nest care after first flight, and 1 to 3 years as sexually immature adults. The sexes have conspicuously different sizes and sometimes a female is more than twice as heavy as her mate. This sexual dimorphism is sometimes most extreme in specialized bird-eaters, such as the Accipiter hawks. Monogamy is the general rule, although an alternative mate is often selected if one dies.
+
+Taxonomy
+Accipitriformes, currently with 262 species and 75 genera in 4 extant families and possibly 1 extinct family, is the largest diurnal raptor order. DNA sequence analyses suggest that divergences within Accipitriformes began around the Eocene/Oligocene boundary about 34 mya, with the split of the group including genera Elanus and Gampsonyx from the other Accipitriformes genera.
+The order includes the following families:
+Order Accipitriformes
+
+Accipitridae (eagles, harriers, hawks, kites, Old World vultures)
+Pandionidae (ospreys) (1 or 2 species)
+Cathartidae (Cathartid vultures and condors)
+Sagittariidae (secretarybird)
+†Teratornithidae
+And the following extinct genera:
+
+Diatropornis
+Parasarcoramphus
+For a complete list of species, see list of Accipitriformes species.
+
+* Sometimes considered a separate order
+Phylogeny of Accipitriformes sensu stricto based on Nagy, J. & Tökölyi, J. (2014).
+
+Footnotes
+References
+Chesser, R. T.; Banks, R. C.; Barker, F. K.; Cicero, C.; Dunn, J. L.; Kratter, A. W.; Lovette, I. J.; Rasmussen, P. C.; Remsen, J. V. Jr.; Rising, J. D.; Stotz, D. F.; Winker, K. (2010). "Fifty-First Supplement to the American Ornithologists' Union Check-list of North American [Bird](50)s" (PDF). The Auk. 127 (3): 726–744. doi:10.1525/auk.2010.127.3.726. S2CID 86363169.
+Chesser, R. Terry; Banks, Richard C.; Barker, F. Keith; Cicero, Carla; Dunn, Jon L.; Kratter, Andrew W.; Lovette, Irby J.; Rasmussen, Pamela C.; Remsen, J. V.; Rising, James D.; Stotz, Douglas F.; Winker, Kevin (2012). "Fifty-Third Supplement to the American Ornithologists' Union Check-List of North American [Bird](50)s". The Auk. 129 (3): 573–588. doi:10.1525/auk.2012.129.3.573. S2CID 198159113. Full text via AOU, COPO, BioOne.
+Christidis, Les; Boles, Walter E. (2008). Systematics and Taxonomy of Australian [Bird](50)s. CSIRO Publishing. ISBN 978-0-643-06511-6. Retrieved 2010-01-14. Includes a review of recent literature on the controversy.
+Cramp, Stanley (1980). Handbook of the [Bird](50)s of Europe, the Middle East and North Africa: The [Bird](50)s of the Western Palearctic – Hawks to Bustards. Oxford University Press. pp. 3, 277. ISBN 978-0-19-857505-4.
+Dudley, S. P.; Gee, M.; Kehoe, C.; Melling, T. M. M. (2006). "The British List: A Checklist of [Bird](50)s of Britain (7th edition)" (PDF). Ibis. 148 (3): 526. doi:10.1111/j.1474-919X.2006.00603.x.
+Ferguson-Lees, James; Christie, David A. (2001). Raptors of the World. Illustrated by Kim Franklin, David Mead, and Philip Burton. Houghton Mifflin. ISBN 978-0-618-12762-7. Retrieved 2011-05-26.
+Gill, Frank; Donsker, D. "IOC World [Bird](50) List (version 2.4)". Worldbirdnames.org. Archived from the original on 24 March 2010. Retrieved 2010-03-12.
+Hackett, Shannon J.; Kimball, Rebecca T.; Reddy, Sushma; Bowie, Rauri C. K.; Braun, Edward L.; Braun, Michael J.; Chojnowski, Jena L.; Cox, W. Andrew; Han, Kin-Lan; Harshman, John; Huddleston, Christopher J.; Marks, Ben D.; Miglia, Kathleen J.; Moore, William S.; Sheldon, Frederick H.; Steadman, David W.; Witt, Christopher C.; Yuri, Tamaki (2008). "A phylogenomic study of birds reveals their evolutionary history". Science. 320 (5884): 1763–68. Bibcode:2008Sci...320.1763H. doi:10.1126/science.1157704. PMID 18583609. S2CID 6472805.
+Gill, Frank; Donsker, D. (2014). "Updates". IOC World [Bird](50) List. Archived from the original on 2014-09-24. Retrieved 2014-09-30. Falconiformes was resequenced in version 4.1 (Jan 7, 2014)
+Nores, Manuel; Barker, Keith; Remsen, Van (July 2011). "Proposal (491) to South American Classification Committee: Change linear sequence of orders for Falconiformes, Psittaciformes, and Cariamiformes". Archived from the original on 2012-04-01. Retrieved 30 September 2014.
+Remsen, Van (November 2008). "Proposal (383) to South American Classification Committee: Separate Accipitriformes from Falconiformes". Archived from the original on 2010-06-28. Retrieved 30 September 2014.
+Remsen, J. V. Jr.; Cadena, C. D.; Jaramillo, A.; Nores, M.; Pacheco, J. F.; Robbins, M. B.; Schulenberg, T. S.; Stiles, F. G.; Stotz, D. F.; Zimmer, K. J. "A classification of the bird species of South America (section "ACCIPITRIDAE (HAWKS) 3" note 1)". Version 11 December 2008. American Ornithologists' Union. Archived from the original on 12 April 2008. Retrieved 2010-05-26.
+Sangster, G.; Collinson, J. M.; Crochet, P. A.; Knox, A. G.; Parkin, D. T.; Votier, S. C. (2013). "Taxonomic recommendations for Western Palearctic birds: Ninth report". Ibis. 155 (4): 898. doi:10.1111/ibi.12091.
+Voous, K. H. (1973). "List of Recent Holarctic [Bird](50) Species Non-Passerines". Ibis. 115 (4): 612–638. doi:10.1111/j.1474-919X.1973.tb02004.x.
+
+External links
+ Media related to Accipitriformes at Wikimedia Commons
+ Data related to Accipitriformes at Wikispecies

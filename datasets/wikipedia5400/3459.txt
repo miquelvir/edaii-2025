@@ -1,0 +1,42 @@
+3459
+Anne L'Huillier
+Anne Geneviève L'Huillier (an lɥi.je; born 16 August 1958) is a French physicist. She is a professor of atomic physics at Lund University in [Sweden](1600).  
+She leads an attosecond physics group which studies the movements of electrons in real time, which is used to understand the chemical reactions on the atomic level. 
+Her experimental and theoretical research are credited with laying the foundation for the field of attochemistry.
+In 2003 she and her group beat the world record for the shortest laser pulse, of 170 attoseconds. 
+L'Huillier became a member of the Royal Swedish Academy of Sciences in 2004. She has received various physics awards including the Wolf Prize in Physics in 2022 and the Nobel Prize in Physics in 2023.
+
+Life
+Education
+Anne L'Huillier was born in [Paris](2293) in 1958. She was awarded a double master's degree in theoretical physics and mathematics, but switched for her doctorate degree to experimental physics at Pierre and Marie Curie University. 
+Her dissertation was on multiple multiphoton ionization in laser fields of high intensity. She carried out her dissertation research at the  Commissariat à l'énergie atomique et aux énergies alternatives (CEA), near [Paris](2293).
+
+Career
+As a post-doctoral student, L'Huillier worked at the Chalmers Institute of Technology in Gothenburg, [Sweden](1600), and at the University of Southern California  in Los Angeles, [United States](1100). 
+In 1986, L'Huillier obtained a permanent position as a researcher at the CEA, at the Saclay site.  
+In 1992, she took part in an experiment in Lund, where one of the first titanium-sapphire solid-state laser systems for femtosecond pulses in Europe had been installed. In 1994 she moved  to [Sweden](1600), where she was appointed at Lund University as a lecturer in 1995 and a professor in 1997. She also serves as governing board member at the Institut d’optique, France.
+
+Research
+L'Huillier's research involves experimental and theoretical aspects of high harmonic generation in gases, which corresponded to extremely short light pulses in the ultraviolet spectral range, lasting tens or hundreds of attoseconds. In 1987, L’Huillier first observed that gases like argon would react to a laser by becoming excited and emitting additional radiation or overtones, at various multiples of the frequency of laser.
+In 1991, L'Huillier in collaboration with Kenneth Schafer and Kenneth Kulander presented numerical simulations of the time-dependent Schrödinger equation in order to understand the generation of high-order harmonics. They first  predicted the shape of the high harmonics spectrum and the phase-matching conditions. In 1994, Maciej Lewenstein, L’Huiller and Paul Corkum presented a full quantum theory of high harmonic generation.
+L'Huillier uses attosecond sources to study ultrafast dynamics of electrons in atomic and molecular systems.  In 2003 her group beat the world record for the shortest laser pulse, lasting 170 attoseconds. These attosecond sources are considered the world's fastest cameras, using extremely short pulses of light to measure electrons as they move or change in energy. L’Huillier's methods for studying and manipulating electrons using light have pioneered the field of attochemistry as they allows the study electronic processes during chemical reactions.
+In 2010,  an experiment led by Ferenc Krausz at the Max Planck Institute of Quantum Optics, highlighted a discrepancy between theory and experimental results concerning photoemission delays in neon atoms. L'Huillier group in Lund solved this problem in 2017 by experimentally uncovering the contribution of shake-up electrons. By correcting for this effect L'Huillier group found an excellent agreement with theory.
+
+Honors and awards
+L'Huillier was on the Nobel Committee for Physics between 2007 and 2015, and has been a member of the Swedish Academy of Sciences since 2004. In 2003, she received the Julius Springer Prize. In 2011 she received a UNESCO L'Oréal Award. In 2013, she was awarded the Carl-Zeiss Research Award, the Blaise Pascal Medal and an Honorary Degree at Université Pierre et Marie Curie (UPMC), [Paris](2293). She was elected a foreign associate of the National Academy of Sciences in 2018. One year later, in 2019, she was recognized with the Prize for Fundamental Aspects of Quantum Electronics and Optics, announced by the European Physical Society. Anne L'Huillier is a fellow member of the [American Physical Society](3451) and Optica.
+In 2021 L'Huillier was awarded the Optical Society of America Max Born Award for "pioneering work in ultrafast laser science and attosecond physics, realizing and understanding high harmonic generation and applying it to time-resolved imaging of electron motion in atoms and molecules". In 2022 she received the Wolf Prize in Physics for "pioneering contributions to ultrafast laser science and attosecond physics" jointly with Ferenc Krausz and Paul Corkum. Also for 2022, the three were awarded the BBVA Foundation Frontiers of Knowledge Award in Basic Sciences. She also received the French Legion of Honour the same year.
+In September 2023, she received the Berthold Leibinger Zukunftspreis for "high harmonic generation and attosecond physics." In October 2023, she was awarded the Nobel Prize in Physics, jointly with Krausz and  Pierre Agostini for "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter".
+In November 2023, she received a doctor honoris causa from [Paris](2293)-Saclay University. During the ceremony, 2022 Nobel Prize in Physics, [Alain Aspect](3422) was the guest of honor.
+In March 2024, she received a doctor honoris causa from University of Bordeaux, and in May from the University of Porto.
+
+Distinctions
+[Sweden](1600): Royal Order of the Polar Star, Commander Grand Cross (21 March 2024)
+  France: Legion of Honour, Knight (29 December 2022)
+
+Personal life
+L'Huillier is married to Claes-Göran Wahlström who is also a professor at Lund University. They have two children.
+
+References
+External links
+ Media related to Anne L'Huillier at Wikimedia Commons
+Anne L'Huillier on Nobelprize.org

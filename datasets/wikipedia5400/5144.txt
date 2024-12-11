@@ -1,0 +1,74 @@
+5144
+Kutub al-Sittah
+Kutub al-Sittah (Arabic: ٱلْكُتُب ٱلسِّتَّة, romanized: al-Kutub al-Sitta, lit. 'the Six Books'), also known as al-Sihah al-Sitta (Arabic: الصحاح الستة, romanized: al-Ṣiḥāḥ al-Sitta, lit. 'the Authentic Six') are the six canonical hadith collections of Sunni Islam. They were all compiled in the 9th and early 10th centuries, roughly from 840 to 912 CE and are thought to embody the Sunnah of Muhammad.
+The books are the Sahih of al-Bukhari (d. 870), the Sahih of Muslim ibn al-Hajjaj (d. 875), the Sunan of Abu Dawud (d. 889), the Sunan of al-Tirmidhi (d. 892), the Sunan of al-Nasa'i (d. 915), and the Sunan of Ibn Majah (d. 887 or 889) as the sixth book, though some (particularly the Malikis and Ibn al-Athir) instead listed the Muwatta of Malik ibn Anas (d. 795) as the sixth book, and other scholars list Sunan of al-Daraqutni (d. 995) as the sixth book. Sunan ibn Majah largely won out as the sixth canonical book because its content has less overlap with the other five compared with its two contenders.
+The two pre-eminent works among the Six, the collections of al-Bukhari and Muslim (also the only two compilations which aimed to only include 'authenticated' hadith), are known as the Sahihayn. They were the first to be canonized over the course of the tenth century. Outside of them, little research has been done in modern hadith studies on the other books of the Six.
+
+Names
+Each of the books (kutub, sing. kitāb) of hadith are typically referred to as a "Sunan" or a "Sahih". Some books have been referred to by both; for example, while the compilation of al-Tirmidhi is typically referred to as "Sunan al-Tirmidhi", some have also referred to it as the "Sahih" of Tirmidhi. The term "Sunan" refers to the Islamic concept of Sunnah, which describes the traditions and practices of Muhammad, the final prophet of the religion whose example believers are meant to follow. Hadith in a "Sunan" describe traditions that help understand and continue transmitting the practices of the Sunnah. The prefix "Sahih", meaning "Sound", is used to refer to a collection of hadith whose traditions are considered "sound" (which is to say "authenticated" according to the criteria of traditional hadith studies). With less frequency, some of these works may be referred to as a Jami (jāmiʿ), meaning "comprehensive book". This is because some of these collections, like al-Tirmidhi's Sunan, contain hadith relating both to the Sunnah of Muhammad and to other topics as well.
+
+Canonization
+The ultimate canonization process of the Kutub al-Sittah was not one that occurred as the result of the decision of a committee, like in the determination of the biblical canon in Christianity. Instead, it began with the gradual emergence of canonical recognition of the Sahihayn (the sahih of Bukhari and Muslim) over the course of the 10th century, largely at the behest of scholars of the Shafi'i school of jurisprudence, as various genres of literature began to emerge around these two texts. Over the next few centuries, recognition gradually extended to the other canonical books as well. Authorities, in making legal arguments, gradually ceased citing hadith from their personal narrations or learning and instead increasingly came to rely on hadith documented in pre-recognized collections.
+They were first formally grouped and defined by Ibn al-Qaisarani in the 11th century, who added Sunan ibn Majah to the list. They were treated as a unit for the first time by Muḥammad ibn Ṭāhir al‐Maqdisi (d. 1113).
+
+Order of significance
+The six books
+Sunni Muslims view the six major hadith collections as their most important, though the order of authenticity varies between madhhabs:
+
+Sahih al-Bukhari, collected by Imam Bukhari (died 256 AH, 870 CE), includesα 7,563 ahadith (including repetitions, around 2,600 without repetitions)
+Sahih Muslim, collected by Muslim b. al-Hajjaj (died 261 AH, 875 CE), includes 7,500 ahadith (including repetitions, around 3,033 without repetitions)
+Al-Sunan al-Sughra (or Sunan al-Nasa'i), collected by al-Nasa'i (died 303 AH, 915 CE), includes 5,758 ahadith (including repetitions)
+Sunan Abi Dawud, collected by Abu Dawood (died 275 AH, 888 CE), includes 5,274 ahadith (including repetitions)
+Sunan al-Tirmidhi, collected by al-Tirmidhi (died 279 AH, 892 CE), includes 4,400 ahadith (including repetitions, only 83 are repeated)
+Sunan ibn Majah, collected by Ibn Majah (died 273 AH, 887 CE), includes 4,341 ahadith (including repetitions)
+The first two, commonly referred to as the Two Sahihs (or the Sahihayn) as an indication of their authenticity, contain approximately seven thousand hadiths altogether if repetitions are not counted, according to Ibn Hajar.α
+Among a minority of Muslim scholars, Sahih Muslim is placed above Sahih al-Bukhari. In addition, many scholars believe that the criteria used by Al-Nasa'i are, theoretically, the most sound. However, he is ranked below the Sahihayn due to his inclusion of some weak hadith.
+
+Hadith in the six books
+In the 12th century, Al‐Mayyānishī offered the following ranking of the reliability of hadith especially focusing on the two most reputed collections, those of al-Bukhari and Muslim:
+
+The most reliable were hadith found in both the collections of al-Bukhari and Muslim.
+Next are hadith found in only one collection but not the other.
+Third are hadith which would meet the criteria of these authors but were not included in their collections.
+Finally are hadith which have a sound chain of narration, but would not meet the criteria of these authors.
+
+Sahih al-Bukhari
+Sahih al-Bukhari was composed by Muhammad b. Isma'il al-Bukhari over a period of sixteen years. It is most commonly considered to be the pre-eminent of all hadith collections, although a minority of scholars place it below Sahih Muslim. Al-Bukhari's collection is the first one to make the reliability of a hadith an explicit criteria for its inclusion into his collection. Others in the future also attempted this task, but only his, along with Sahih Muslim, stood the test of time according to the Muslim tradition. Sahih al-Bukhari is divided into 97 books. Books 2–33 are about the Pillars of Islam. Books 34–55 are about finance. The remaining books are not arranged according to some identifiable theme, although the very first and last books are for opening the collection (with a book on the first revelation) and closing it (with a book on Tawhid). It also contains chapter/rubric headings, although it is sometimes obscure as to how the hadith listed within these sections related to the section title/heading. Bukhari's rubrics also contain discussions related to the subject matter, followed by hadith listings without any extraneous commentary interspersed between each listed hadith. This principle of separating commentary from hadith listings may be related to comments made by [Ahmad ibn Hanbal](5126) whereby he suggested that hadith collections should not contain additional words or commentary on the basis that some people might confuse the commentary of the author with the hadith itself.
+While he had an interest in legal matters (fiqh), a significant portion of Bukhari's hadith are unconcerned with the subject. For example, one of the books in his collection regards the etiquette of eating.
+
+Sahih Muslim
+Sahih Muslim was composed by Muslim b. Hajjaj al-Naishapuri (d. 261/874–5). It is most commonly considered to be the second most pre-eminent of all hadith collections, although a minority of scholars place it first above Sahih al-Bukhari. Sahih Muslim opens with a prologue that discusses the work itself as well as issues concerning the authentication of hadith. After this, the rest of the work is purely a listing of isnads (chains of transmission) followed by the matn (content of the hadith) with, aside from very rare exception, no additional discussion. Sahih Muslim is also not subdivided into chapters with headings to guide the reader, as are some other collections like the Sunan al-Tirmidhi, though it is divided into 57 topical books. Muslim specifies that he has listed his hadith in his work according to their order of reliability, although he claims that, while some are more reliable than others, all ultimately met his criteria for being reliable. Each of the books of Muslim's Sahih was originally untitled, but titles were added by later authors.
+
+Al-Sunan al-Sughra
+The Al-Sunan al-Sughra (also known as Sunan al-Nasa'i) was composed by Abu 'Abd al-Rahman al-Nasa'i (d. 303/915–16). The work is divided into 52 books. Each book contains rubrics/headings that topically arrange a group of hadith that appears below them. For example, one rubric is "“Chapter regarding the person who markets his goods by means of false oaths". It is then followed by four hadith that describe the practice specified in the rubric as being reprehensible.
+
+Sunan Abi Dawud
+The Sunan Abi Dawud was composed by Abu Dawood Sulaiman b. Ash'ath al-Sijistani (d. 275/888–9). The collection is divided into 43 books. The work has rubrics/section headings which topically introduce a group of hadith that appear below them and attempt to explain the implications that the following hadith will have on practical jurisprudence. Abu Dawud begins his work with a prologue. According to his prologue, the hadith contained in his work are the soundest hadith on the issues they describe and allow one to base practice off of them. Abu Dawud states that his work has about 4,800 hadith, although manuscripts of the work typically contain a few hundred more than this figure.
+
+Sunan al-Tirmidhi
+The Sunan al-Tirmidhi was composed by Muhammad b. 'Isa al-Tirmidhi, a student of Bukhari who died in 279/892–3. The work is divided into forty books, each of which is also divided into a set of chapters that specify the topic that the located therein cover. For example, one is titled "Chapter regarding wiping a wet hand over leather socks for the person who is traveling or not traveling". For Al-Tirmidhi, many of the hadith he supplies have direct relevance of jurisprudential rulings. Al-Tirmidhi's collection is also not purely a collection or listing of hadith, as he spends some space discussing issues that are relevant to the hadith at-hand.
+
+Sunan ibn Majah
+Sunan ibn Majah was composed by Ibn Majah al-Qazwini (d. 273/886–7). It is divided into 37 books. The collection contains 4,350 hadith. Of these, 1,552 are not found in any of the other collections among the Six. Like most other collections in the Six, his books are divided into sections headed by rubrics. His collection also contains a number of weak hadith, including about 30 that are generally agreed to be fabrications by traditional scholars. For this reason, some scholars have only decided to speak of the "Five" canonical collections of hadith, whereas others substitute Sunan ibn Majah with the  Muwatta of Malik ibn Anas or the Sunan of al-Daraqutni.
+
+Supplementary works
+A number of Islamic scholars have sought to produce additional collections to supplement the six canonical hadith collections with additional useful and/or sound hadith. Many hadith in larger and important works, for example the Musnad of [Ahmad ibn Hanbal](5126), are not found in the six (along with works of Tabarani, Abu Ya'la, and Bazzar). For this reason, Nur al-Din al-Haythami produced, in the 14th century, a work known as the Majmaʿ al‐zawāʾid. This work collected together, in a single composition, the hadith found in these other notable works but are absent from the Six, alongside a judgement on the reliability of each one. Ibn Hajar al-Asqalani in the 15th century produced the Fath al-Bari, a commentary on Sahih al-Bukhari that also adds many other hadith related to the topics that al-Bukhari discusses not found in his collection. Ibn Hajar only includes hadith which are at least ḥasan ("good", which is below "sound" but above "weak" in judgement on authentication).
+
+See also
+Al-Jami al-Kamil
+Alqamah ibn Waqqas
+Isnad-cum-matn analysis
+The Four Books
+List of hadith books
+
+References
+Notes
+^α  Sahih Bukhari and Sahih Muslim contain many of the same Hadith with different chains, and Bukhari in particular also simply repeats the same Hadith with the same chain in multiple chapters. There is disagreement on the amount of unique hadith in the collections due to the disagreements over what Hadith to include as a repeat (chain/text variations) and whether to include same chain repeats in the total number etc.
+
+Citations
+Sources
+Abdul-Jabbar, Ghassan (2020). "Dating". In Brown, Daniel (ed.). The Wiley Blackwell Concise Companion to the Hadith. Wiley-Blackwell. pp. 137–158.
+Abdul-Jabbar, Ghassan (2020b). "The Classical Tradition". In Brown, Daniel (ed.). The Wiley Blackwell Concise Companion to the Hadith. Wiley-Blackwell. pp. 15–38.
+Brown, Jonathan (2007). The Canonization of al-Bukhārī and Muslim. Brill.
+Burge, Stephen R. (2023). "Compilation Criticism: Exploring Overarching Structures in the Six Books". In Gharaibeh, Mohammad (ed.). Beyond Authenticity, Alternative Approaches to Hadith Narrations and Collections. Brill. pp. 20–59.
+Gharaibeh, Mohammad (2021). "Intertextuality between History and Hadith Studies: The Mūqiẓah fī ʿilm muṣṭalaḥ al-ḥadīth in the Center of al-Dhahabī's (d. 748/1348) work". Studies on the History and Culture of the Mamluk Sultanate (1250–1517). Bonn University Press. pp. 263–297.

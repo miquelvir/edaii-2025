@@ -1,0 +1,18 @@
+621
+Artifact (software development)
+An artifact is one of many kinds of tangible by-products produced during the development of software. Some artifacts (e.g., use cases, class diagrams, requirements and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself—such as project plans, business cases, and risk assessments.
+The term artifact in connection with software development is largely associated with specific development methods or processes e.g., Unified Process. This usage of the term may have originated with those methods.
+Build tools often refer to source code compiled for testing as an artifact, because the executable is necessary to carrying out the testing plan.  Without the executable to test, the testing plan artifact is limited to non-execution based testing.  In non-execution based testing, the artifacts are the walkthroughs, inspections and correctness proofs.  On the other hand, execution based testing requires at minimum two artifacts: a test suite and the executable.  Artifact occasionally may refer to the released code (in the case of a code library) or released executable (in the case of a program) produced, but more commonly an artifact is the byproduct of software development rather than the product itself. Open source code libraries often contain a testing harness to allow contributors to ensure their changes do not cause regression bugs in the code library.
+Much of what are considered artifacts is software documentation.
+In end-user development an artifact is either an application or a complex data object that is created by an end-user without the need to know a general programming language. Artifacts describe automated behavior or control sequences, such as database requests or grammar rules, or user-generated content.
+Artifacts vary in their maintainability.  Maintainability is primarily affected by the role the artifact fulfills.  The role can be either practical or symbolic.  In the earliest stages of software development, artifacts may be created by the design team to serve a symbolic role to show the project sponsor how serious the contractor is about meeting the project's needs.  Symbolic artifacts often convey information poorly, but are impressive-looking. Symbolic enhance understanding.  Generally speaking, Illuminated Scrolls are also considered unmaintainable due to the diligence it requires to preserve the symbolic quality.  For this reason, once Illuminated Scrolls are shown to the project sponsor and approved, they are replaced by artifacts which serve a practical role.  Practical artifacts usually need to be maintained throughout the project lifecycle, and, as such, are generally highly maintainable.
+Artifacts are significant from a project management perspective as deliverables. The deliverables of a software project are likely to be the same as its artifacts with the addition of the software itself.
+The sense of artifacts as byproducts is similar to the use of the term artifact in science to refer to something that arises from the process in hand rather than the issue itself, i.e., a result of interest that stems from the means rather than the end.
+To collect, organize and manage artifacts, a software development folder may be utilized.
+
+See also
+Artifact (UML)
+
+References
+Further reading
+Per Kroll; Philippe Kruchten (2003). The Rational Unified Process Made Easy: A Practitioner's Guide to the RUP. Addison-Wesley Professional. ISBN 978-0-321-16609-8.

@@ -1,0 +1,44 @@
+4833
+Person (Catholic canon law)
+In the canon law of the [Catholic Church](4801), a person is a subject of certain legal rights and obligations. Persons may be distinguished between physical and juridic persons. Juridic persons may be distinguished as collegial or non-collegial, and public or private juridical persons. The Holy See and the [Catholic Church](4801) as such are not juridic persons since juridic persons are created by ecclesiastical law. Rather, they are moral persons by divine law.
+
+Physical persons
+By baptism, a natural person is incorporated into the church and is constituted a person in the same. All the validly baptized, called Christifideles, have the status under Catholic canon law of physical persons within the church.
+
+Age of reason
+The age of reason, sometimes called the age of discretion, is the age at which children attain the use of reason and begin to have moral responsibility. On completion of the seventh year, a minor is presumed to have the use of reason, but intellectual disability can prevent some individuals from ever attaining the use of reason. The term "use of reason" appears in the [1983 Code of Canon Law](4806) 17 times, but "age of reason" does not appear. However, the term "age of reason" is used in canon law commentaries such as the New Commentary on the Code of Canon Law published by Paulist Press in 2002. Catholic canon law teaches that those who have not attained the use of reason, even if they commit objectively sinful acts, may lack the capacity for subjective guilt.
+In the Eastern [Catholic Church](4801)es, the Eucharist and Confirmation are given immediately after baptism, even to infants who do not yet have the use of reason. In Latin Rite Catholicism, Confirmation is conferred, except in danger of death, only on persons who have the use of reason; and Holy Communion may be administered to children only if "they have sufficient knowledge and careful preparation so that they understand the mystery of Christ according to their capacity and are able to receive the Body of Christ with faith and devotion." In danger of death, the Eucharist may be administered also to children who lack the use of reason if the child can distinguish the sacrament from ordinary food and receive it reverently.
+
+Age of majority
+The age of majority in the Latin [Catholic Church](4801) is 18 though, until the entry into force of the [1983 Code of Canon Law](4806) in 1983, the age of majority was 21.
+
+Juridic persons
+In simple terms, a juridic person is an artificial construct under canon law that allows a group of persons or things to function and be treated under canon law as a single unit. The 1917 Code of Canon Law referred to all juridic persons as "moral persons", while the [1983 Code of Canon Law](4806) uses the term "moral person" solely to designate the Apostolic See and the [Catholic Church](4801) itself.
+Kennedy gives a more thorough definition:  "A juridic person … is an artificial person, distinct from all natural persons or material goods, constituted by competent ecclesiastical authority for an apostolic purpose, with a capacity for continuous existence and with canonical rights and duties like those of a natural person … conferred upon it by law or by the authority which constitutes it and to which it is also accountable under canon law."
+The doctrine of juridic personality is thought to have its origins in canon law. It has been attributed to Pope Innocent IV, who seems at least to have helped spread the idea of persona ficta as it is called in Latin. In the early church, the doctrine of persona ficta allowed monasteries to have a legal existence apart from the monks, simplifying the difficulty in balancing the need for such groups to have infrastructure despite monks' vows of personal poverty. Another effect of this was that as a fictional person, a monastery could not be held guilty of delict due to not having a soul, helping to protect the organization from non-contractual obligations to surrounding communities. This effectively moved such liability to individuals acting within the organization while protecting the structure itself since individuals were considered to have a soul and, therefore, capable of being guilty of negligence and excommunicated.
+
+Canonical age
+The canonical age in Roman Catholic canon law is an age when the faithful becomes capable of incurring certain obligations, enjoying special privileges, embracing special states of life, holding office or dignity, or receiving the sacraments.
+Each of these human acts requires the development of mind, body, or spirit appropriate to its free and voluntary acceptance and adequate knowledge of, and capability for, the duties and obligations attached. The ages prescribed by canon law differ, as do the privileges, offices, and dignities to which they apply.
+
+Sacraments
+[Baptism](3330): the sacrament can be validly administered regardless of age.
+Confirmation: the canonical age is the age of reason.
+Holy Communion: the canonical age is the age of reason. Children in danger of death, capable of committing and confessing to mortal sin, and distinguishing heavenly from ordinary food when desirous of receiving Holy Communion, must not be denied, although they may not have achieved the minimum age prescribed.
+Confession: the canonical age is the age of reason. After reaching the age of reason, each member of the faithful is obliged to confess faithfully their grave sins at least once a year. (CIC can. 989)
+Anointing of the Sick: the sacrament is to be administered to any Catholic who desires it (normally it is the sick or older person who suffers from infirmity) or who is in mortal danger
+Holy Orders: the sacrament can be received at the earliest at 23 years (deacons), 25 years (priest), or 35 years (bishop), according to canon 1031 CIC. The Apostolic See can grant dispensations.
+Marriage: the age for a valid sacramental marriage is, according to can. 1083, 16 years for males and 14 years for females. The Conference of bishops is free to establish a higher age for the licit celebration of marriage.
+All Catholics are bound to attend Holy Mass on Sundays and every holy day of obligation. To be a godparent at the bestowal of baptism and confirmation, a Catholic must be confirmed and must normally be 16 years old (canon 874 CIC). The days of abstinence are to be respected by Catholics of at least 14 years of age; the law of fasting from 18 to the beginning of the sixtieth year (canon 1252 CIC).
+
+Priesthood, orders, and clerical office
+The ancient discipline was neither universal nor fixed but varied with circumstances of time and locality. The requisite age, according to Gratian, for tonsure and the first three minor orders, those of doorkeeper, reader, and exorcist, was seven, and for acolyte, twelve years.
+The Council of Trent fixed the ages of 21 years and 1 day for subdeaconship, 22 years and 1 day for deaconship, and 24 years and 1 day for priesthood. Canon 1031 CIC fixed the ages of 23 for deaconship and 25 for priesthood. The first day of the year the canonical age is to be reached is sufficiently timely for the reception of the order. Trent confirmed the Lateran age of thirty years for the episcopate. The [1983 Code of Canon Law](4806) estimates the general age for a permanent deacon as thirty-five years. A candidate for the permanent diaconate who is not married is not to be admitted to the diaconate until after completing at least the twenty-fifth year of age; one who is married, not until after completing at least the thirty-fifth year of age.
+For admission to the canonical novitiate, an age of 17 years is fixed by Canon law (can. 643); for admission to the solemn vows (and analogously to the Consecration of virgins), it is 21 (can. 658).
+Generals, provincials, abbots, and other regular prelates having quasi-episcopal jurisdiction must, according to many constitutions, have completed their thirtieth year before an election; according to others, their 25th year. However, various orders and congregations have rules for the requisite ages for inferior offices and dignities. 
+The Council of Trent (Sess. xxv, cap. 7, de regular. et monial.) fixed forty years, and eight years after her solemn vows, for an abbess, mother general, or prioress of a religious order. If a convent (monastery) had no nun or religious sister meeting those requirements, then one over thirty years old and more than five years professed can be elected. An election contrary to these rules is invalid.
+
+References
+Bibliography
+James A. Coriden, Thomas J. Green, Donald E. Heintschel (eds), The Code of Canon Law: A Text and Commentary, Mahwah, NJ: Paulist Press, 1985.
+ This article incorporates text from a publication now in the public domain: Herbermann, Charles, ed. (1913). "Canonical Age". Catholic Encyclopedia. New York: Robert Appleton Company.

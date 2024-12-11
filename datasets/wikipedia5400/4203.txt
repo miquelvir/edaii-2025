@@ -1,0 +1,156 @@
+4203
+Acadian French
+Acadian French (French: français acadien, acadjonne) is a variety of French spoken by Acadians, mostly in the region of Acadia, Canada. Acadian French has seven regional accents, including Chiac and [Brayon](4283).
+
+Phonology
+Since there was relatively little linguistic contact with France from the late 18th century to the 20th century, Acadian French retained features that died out during the French standardization efforts of the 19th century such as these:
+
+The /ʁ/ phoneme, Acadian French has retained an alveolar trill or an alveolar flap, but modern speakers pronounce it as in Parisian French: rouge (red) can be pronounced ruːʒ, ɾuːʒ or ʁuːʒ.
+In nonstandard Acadian French, the third-person plural ending of verbs ‹-ont›, such as ils mangeont i(l) mɑ̃ˈʒɔ̃ (they eat), is still pronounced, unlike standard French (France and Quebec) ils mangent (i(l) ˈmɒ̃ːʒ(ə) (France)/i ˈmãːʒ(ə) or (Quebec)/ɪl ˈmãːʒ(ə) ), the ‹e› can be pronounced or not, but ‹-nt› is always silent.
+According to Wiesmath (2006), some characteristics of Acadian are:
+
+The verbal ending -ont in the third person plural
+Palatalization of /k/ and /ɡ/ to tʃ and dʒ, respectively
+A feature called l'ouisme where bonne is pronounced bʊn
+These features typically occur in the speech of older people.
+Many aspects of Acadian French (vocabulary and "trill r", etc.) are still common in rural areas in the South West of France. Speakers of Metropolitan French and even of other Canadian varieties of French sometimes have difficulty understanding Acadian French. Within North America, its closest relative is Louisiana French spoken in Southern Louisiana since both were born out of the same population that were affected during the Expulsion of the Acadians.
+See also Chiac, a variety with strong English influence, and St. Marys Bay French, a distinct variety of Acadian French spoken around Clare, Tusket, Nova Scotia and also Moncton, New Brunswick.
+
+Palatalization
+not to be confused with affrication typical of Quebec French.
+
+/k/ and /tj/ are commonly replaced by tʃ before a front vowel. For example, quel, queue, cuillère and quelqu'un are usually pronounced tchel, tcheue, tchuillère and tchelqu'un. Tiens is pronounced tchin t͡ʃɛ̃.
+/ɡ/ and /dj/ often become d͡ʒ (sometimes ʒ) before a front vowel. For example, bon dieu and gueule become bɔ̃ ˈdʒø and d͡ʒœl in informal Acadian French. Braguette becomes bɾaˈd͡ʒɛt. (This pronunciation led to the word Cajun, from Acadien.)
+
+Metathesis
+Metathesis is quite common. For example, mercredi ('Wednesday') is mercordi, and pauvreté ('poverty') is pauveurté. Je (the pronoun 'I') is frequently pronounced euj and Le is frequently pronounced eul.
+In words, "re" is often pronounced "er". For instance :
+
+erçu for "reçu", ertourner for "retourner", erpas for "repas", ergret for "regret", s'entertenir for "s'entretenir".
+
+Vowels
+Acadian French has maintained phonemic distinctions between /a/ and /ɑ/, /ɛ/ and /ɛː/, /ø/ and /ə/, /ɛ̃/ and /œ̃/.
+In informal speech, the /ɑ/ vowel is realized as ɔ: pas ('step') /pɑ/ → pɔ and bras (arm) /bʁɑ/ → bʁɔ, etc.
+The short /ɛ/ is realized as ɛ and it is the same as Parisian French.
+/ɛː/ is open to æː or closed to eː, it depends on the region: fête ('party') /fɛːt/ → fæːt or feːt and caisse ('case') /kɛːs/ → kæːs or keːs, etc. 
+The ⟨oi⟩ spelling has different pronunciations. Old speakers pronounce roi ('king') wɛ, because the traditional Parisian pronunciation was like rwɛ. But in modern standard Acadian French, it is pronounced wa. Even where there is no circumflex, there are some words which are phonemically pronounced /wɑ/ and the phoneme is pronounced as wɑ in formal speech but wɔ in informal speech: trois ('three') tʁ̥wɑ or tʁ̥wɔ and noix ('nut') nwɑ or nwɔ. The ⟨oî⟩ spelling is phonemically /wɑ/, but old speakers pronounce it weː, while modern speakers pronounce it wɑː as in Quebec French: boîte ('box') bweːt or bwɑːt and croître ('grow') kɾweːt(ɾ) or kʁ̥wɑːt(ʁ̥), etc.
+
+Elision of final consonants
+Consonant clusters finishing a word are reduced, often losing altogether the last or two last consonants in informal speech: table ('table') /tabl/ → tab and livre ('book'/'pound') /livʁ/ → liːv, etc.
+
+Vocabulary and grammar
+Yves Cormier's Dictionnaire du français acadien (ComiersAcad) includes the majority of Acadian regionalisms. From a syntactic point of view, a major feature is the use of je for the first-person singular and plural; the same phenomenon takes place with i for the third persons. Acadian still differentiates the vous form from the tu form.
+The following words and expressions are most commonly restricted to Acadian French south of the Miramichi River, but some are also used north of the Miramichi River and in Quebec French (also known as Québécois) or Joual for the Montreal version of Quebec French. The Miramichi line is an isogloss separating South Acadian (archaic or "true" Acadian) from the Canadian French dialects to the north, North Acadian, [Brayon](4283) (Madawaskan) and Quebec French (Laurentian French). South Acadian typically has morphosyntactic features such as je V -on …  (as in je parlons "we speak") that distinguishes it from dialects to the north or elsewhere in the Americas such as Cajun French, Saint-Barthélemy French or Métis French that have nouzot on- V … (as in nous-autres on parle). Geddes (1908), the oldest authority on any variety of French spoken in Northern Acadia, records of the morphosyntactic characteristics of "true" Acadian spoken in the South and adjacent islands to the West.
+Some examples of "true" Acadian French are:
+
+achaler: 'to bother' (Fr: ennuyer) (very common in Quebec French)
+ajeuve: (variation of achever, literally 'to complete') 'a while ago' (Fr: récemment, tout juste)
+amanchure: 'thing, thingy, also the way things join together: the joint or union of two things' (Fr: chose, truc, machin)
+amarrer: (literally, 'to moor') 'to tie' (Fr: attacher)
+amoureux: (lit. 'lover') 'burdock' (Fr: (capitule de la) bardane; Quebec: toque, grakia) (also very common in Quebec French)
+asteur: (contraction of à cette heure) 'now' (Fr: maintenant, à cette heure, désormais) (very common in Quebec French)
+attoquer: 'to lean' (Fr: appuyer)
+atentot: 'earlier' (Fr: plus tôt)
+avoir de la misère: 'to have difficulty' (Fr: avoir de la difficulté, avoir du mal) (very common in Quebec French)
+bailler: 'to give' (Fr: donner) (Usually 'to yawn')
+baratte: 'a piece of machinery or tool of sorts that no longer works properly', e.g. "My car is a lemon so it is a baratte" (very common in New Brunswick)
+batterie: 'the central passage through a barn (granges acadiennes) flanked by two storage bays adjacent to the eaves'.
+besson: 'twin' (Fr: jumeau/jumelle)
+boloxer: 'to confuse, disrupt, unsettle' (Fr: causer une confusion, déranger l'ordre régulier et établi)
+Bonhomme Sept-heures: 'a fearful character of fairy tales who would visit unpleasant deeds upon young children if they did not go to bed at the designated hour'.
+bord: (literally 'the side of a ship') l'autre bord meaning 'the other side (of a street, river, etc.'); changer de bord meaning 'changing sides (in a team competition)'; virer de bord meaning 'turning back or retracing one's steps'.
+boucane: 'smoke, steam' (Fr: fumée, vapeur) (very common in Quebec French)
+bouchure: 'fence' (Fr: clôture)
+brâiller: 'to cry, weep' (Fr: pleurer) (very common in Quebec French)
+brogane: 'work shoe, old or used shoe' (Fr: chaussure de travail, chaussure d'occasion)
+brosse: 'drinking binge' (Fr: beuverie) (common in Quebec French)
+caler: 'to sink' (Fr: sombrer, couler) (also 'to drink fast in one shot', caler une bière) (very common in Quebec French)
+char: 'car' (Fr: voiture) (very common in Quebec French)
+chassis: 'window' (Fr: fenêtre)
+chavirer: 'to go crazy' (Fr: devenir fou, folle)
+chu: 'I am' (Fr: je suis, or, colloquially chui) (very common in Quebec French)
+cosses: 'peas, green beans' (Fr: mangetout)
+cossé: 'what, or asking for information specifying something'. (Fr: quoi)
+cotchiner: 'to cheat' (Fr: tricher)
+coude: 'ship's knees' that are a distinctive and unusual structural feature of early Acadian houses.
+Djâbe: 'Devil' (Fr: Diable)
+de service: 'proper, properly' (Fr: adéquat, comme il faut)
+èchell: (literally 'a ship's ladder') 'stairway' (Fr: échelle)
+ej: 'I' (Fr: je)
+élan: 'moment, while' (Fr: instant, moment)
+erj: 'and I' (Fr: et je suis)
+espèrer: 'to wait; say welcome, to invite' (Fr: attendre, inviter)
+faire zire: 'to gross out' (Fr: dégouter)
+farlaque: 'loose, wild, of easy virtue' (Fr: dévergondée, au moeurs légères)
+fournaise: (lit. 'furnace') 'a wood stove, oven'
+frette: 'cold' (Fr: froid) (very common in Quebec French)
+fricot: 'traditional Acadian stew prepared with chicken, potatoes, onions, carrots, dumplings (lumps of dough), and seasoned with savoury'
+garrocher: 'to throw, chuck' (Fr: lancer) (very common in Quebec French)
+le grand mènage: 'spring cleaning', often more comprehensive than in other cultures.
+greer: (literally, 'rigging of a ship's masts') 'to describe a woman's attire or decoration of a youngster's bicycle'.
+grenier: 'a sleeping loft'.
+hardes: 'clothes, clothing' (Fr: vêtements)
+harrer: 'to beat, maltreat' (Fr: battre ou traiter pauvrement, maltraîter)
+hucher: 'to cry out, scream' (Fr: appeler (qqn) à haute voix)
+icet: 'precisely here' (Fr: ici)
+icitte: 'here; around here' (Fr: ici)
+innocent: 'simple, foolish or stupid' (Fr: simple d'esprit, bête, qui manque de jugement) (very common in Quebec French)
+itou: 'also, too' (Fr: aussi, de même, également) (common in Quebec French)
+larguer: (literally 'loosening a ship's mooring lines') 'to let go of any object'
+maganer: 'to overwork, wear out, tire, weaken' (Fr: traiter durement, malmener, fatiguer, affaiblir, endommager, détériorer) (very common in Quebec French)
+mais que: 'when' + future tense (Fr: lorsque, quand (suivi d'un futur))
+malin/maline: 'mean or angry' (lit. malignant)
+marabout: 'to be irritated or angry'
+mitan: 'middle, centre' (Fr: milieu, centre)
+orignal: 'moose'
+païen: (lit. 'pagan') 'hick, uneducated person, peasant' (Fr: )
+palote: 'clumsy' (Fr: maladroit)
+parker: 'park' (Fr: stationner)
+pâté chinois: 'a shepherd's pie casserole of mashed potatoes, ground meat, and corn'.
+peste: 'bad odor' (Fr: puenteur)
+pire à yaller/au pire à yaller: 'at worst' (Fr: au pire)
+plaise: 'plaice' (Fr: plie)
+ploquer: 'having or showing determined courage' (lit. 'plucky')
+ploye: 'buckwheat pancake', a tradition of Edmundston, New Brunswick, also common in Acadian communities in Maine (Fr: crêpe au sarrasin)
+point, poinne: 'not', or a similar term of negation (Fr: pas)
+pomme de pré: (lit. 'meadow apple') American cranberry (Vaccinium macrocarpon) (Fr: canneberge; Quebec: atoca)
+pot-en-pot: 'a meat pie of venison, rabbits, and game birds'.
+poutine râpée: 'a ball made of grated potato with pork in the centre', a traditional Acadian dish
+quai: 'a portable wheeled boating pier pulled out of the water to avoid ice damage'.
+qu'ri: (from quérir) 'to fetch, go get' (Fr: aller chercher)
+rinque: 'just'
+se haler: (lit. 'to haul oneself') 'to hurry' (Fr: se dépêcher)
+se badjeuler: 'to argue' (Fr: se disputer)
+soira: 'see you later' (Fr: au revoir)
+j'étions: 'we were' (Fr: nous étions)
+ils étiont: 'they were' (Fr: ils étaient)
+taweille: 'Mikmaq woman, traditionally associated with medicine or Midewiwin' (Fr: Amérindienne)
+tchequ'affaire, tchequ'chouse, quètchose, quotchose: 'something' (Fr: quelque chose) (quètchose and quechose are common in Quebec French)
+tcheque, tcheques: 'a few' (Fr: quelque)
+tête de violon: 'ostrich fern fiddlehead' (Matteuccia struthiopteris)
+tétine-de-souris: (lit. 'mouse tit') 'slender glasswort, an edible green plant that grows in salt marshes' (Salicornia europaea) (Fr: salicorne d'Europe)
+tintamarre: 'din' (also refers to an Acadian noisemaking tradition whereby people gather in the streets and parade through town)
+tourtiéres: 'meat pies', sometimes with potatoes.
+valdrague: 'in disorder or confusion'
+vaillant, vaillante: 'active, hard-working, brave' (Fr: actif, laborieux, courageux) (common in Quebec French)
+
+Numerals
+In the Nova Scotian communities of Wedgeport and Pubnico, the numbers soixante-dix ('seventy'), quatre-vingts ('eighty') and quatre-vingt-dix ('ninety') are instead called septante, huitante and nonante respectively, a phenomenon also observed in Swiss French and Belgian French.
+
+Passé simple
+St. Marys Bay French, a conservative dialect of Acadian French spoken in the St. Marys Bay, Nova Scotia region, is notable for maintaining use of the passé simple in spoken conversation. In most modern dialects of French, the tense is only used in formal writing and formal speech.
+
+See also
+Creole language
+Louisiana French, also known as Cajun French
+New England French
+Poitevin language
+Saintongeais dialect
+
+Notes
+References
+Le Glossaire acadien by Pascal Poirier French language page.
+
+External links
+Acadian English Wordlist from Webster's Online Dictionary - The Rosetta Edition
+Les Éditions de la Piquine Online Acadian Glossary with audio Archived 2013-05-16 at the Wayback Machine - (Website is only in French)

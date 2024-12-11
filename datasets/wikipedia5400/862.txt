@@ -1,0 +1,9 @@
+862
+CA-Realizer
+CA-Realizer was a [BASIC](748)-language software development product originally developed by Within Technologies, but first commercially released by Computer Associates, as CA-Realizer 1.0 in 1992. Several versions were released, that provided a version of the [BASIC](748) programming language, a Rapid application development tool, including forms building and some powerful built-in components, that was comparable to, and competitive with Microsoft Visual Basic, in its early days.  It offered some functionality (like a fairly useful spreadsheet) and cross-platform capability. There were versions for 16-bit Windows 3.1, 32-bit Windows 95, and 32-bit IBM OS/2.  The final version was CA-Realizer 3.0, released around 1996.
+Starting with version 4.0, MS Visual Basic continued to advance in functionality, leaving CA-Realizer behind. Increasingly uncompetitive, CA-Realizer was quietly retired from CA's product offerings in the late 1990s.
+In the 1996 to 1999 versions of Accpac ERP for Windows, CA Realizer was responsible for the dreaded "CarlZ Error" which would periodically hang up the software. This error disappeared in the 2000 version of the software when it underwent a rewrite in C.
+
+References
+External links
+CA-Realizer - EDM2

@@ -1,0 +1,13 @@
+3488
+BSSN formalism
+The BSSN formalism (Baumgarte, Shapiro, Shibata, Nakamura formalism) is a formalism of general relativity that was developed by Thomas W. Baumgarte, Stuart L. Shapiro, Masaru Shibata and Takashi Nakamura between 1987 and 1999. It is a modification of the [ADM formalism](3408) developed during the 1950s.
+The [ADM formalism](3408) is a Hamiltonian formalism that does not permit stable and long-term numerical simulations. In the BSSN formalism, the ADM equations are modified by introducing auxiliary variables. The formalism has been tested for a long-term evolution of linear gravitational waves and used for a variety of purposes such as simulating the non-linear evolution of gravitational waves or the evolution and collision of black holes.
+
+See also
+[ADM formalism](3408)
+Canonical coordinates
+Canonical gravity
+Hamiltonian mechanics
+
+
+== References ==

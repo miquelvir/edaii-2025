@@ -1,0 +1,55 @@
+64
+Cat flea
+The cat flea (scientific name Ctenocephalides felis) is an extremely common parasitic insect whose principal host is the domestic cat, although a high proportion of the fleas found on dogs also belong to this species. This is despite the widespread existence of a separate and well-established "dog" flea, Ctenocephalides canis. [Cat](54) fleas originated in Africa but can now be found globally. As humans began domesticating cats, the prevalence of the cat flea increased and it spread throughout the world.
+Of the cat fleas, Ctenocephalides felis felis is the most common, although other subspecies do exist, including C. felis strongylus, C. orientis, and C. damarensis.  Over 90% of fleas found on both dogs and cats are Ctenocephalides felis felis.
+
+Overview
+The cat flea belongs to the insect order Siphonaptera which in its adult stage is an obligatory hematophage. Adults of both sexes range from 1–2 mm long and are usually a reddish-brown colour, although the abdomens of gravid females often swell with eggs causing them to appear banded in cream and dark brown. Like all fleas, the cat flea is compressed laterally allowing it to slip between the sometimes dense hairs of its host just above the top layer of the skin, resulting in an extremely thin insect that may be difficult to observe even if the host's coat is pure white. [Cat](54) fleas are wingless.
+The cat flea affects both the cat and the dog worldwide. The cat flea can also maintain its life cycle on other carnivores and on omnivores, but these are only chosen when more acceptable hosts become unavailable. Adult cat fleas do not willingly leave their hosts, and inter-animal transfer of adult fleas is rare except in animals that share sleeping quarters. A flea which becomes separated from its host will often die within hours from starvation. It has been found that mortality differs between male and female cat fleas when separated from the host. It was found that within two days all male cat fleas were dead, while females became inactive after three days.
+In addition to their role as pests in dogs and cats, cat fleas are responsible for a number of diseases. They can cause flea bite dermatitis and the transmission of dog tapeworm to name a few.
+
+Life cycle
+[Cat](54) fleas are holometabolous (undergo complete metamorphosis) insects and therefore go through four life cycle stages of egg, larva, pupa, and imago (adult). Adult fleas must feed on blood before they can become capable of reproduction.
+Flea populations are distributed with about 50% eggs, 35% larvae, 10% pupae, and 5% adults. [Cat](54) fleas may live up to two years.
+
+Eggs
+An adult gravid female flea that has consumed a full blood meal will begin to produce between 20 and 30 microscopic (0.5 mm) non-adhesive white ovoid eggs per day, laying them individually and continually at a rate of about one per hour until she dies (under ideal conditions it might be possible for her to produce between 2,000 and 8,000 eggs in her lifetime, though most only manage to produce around 100 before being consumed by their host during grooming activity). The eggs are dispersed freely into the environment. Within two to seven weeks a certain proportion will then hatch into larvae. Hatching is at its highest when temperature is 27 °C and humidity is greater than 50%.
+Given that eggs are non-adhesive, they do not stick to the host (70% are lost from the host in the first 8 hours).
+
+Larvae
+The larva of the cat flea has a grub-like appearance and is ~2 mm in length. The larvae are negatively phototaxic/phototropic, avoiding light and hiding in the substrate around them. The larvae require adequate ambient moisture and warmth, and will die at temperatures near freezing. [Cat](54) fleas prefer soil moisture content between 1-10%. While in this developmental stage the larvae will feed on a variety of organic substances, but the most important dietary item for them is the crumbs of dried blood that continually fall like snow out of the haircoat of the host after it has been excreted by the adult fleas as fecal material. Thus, the adult flea population continually feeds the larval population in the animal's environment. Adult feces is an important part of the larval diet. When reared in the lab, flea larvae provided with adult feces have a higher survival rate (67%) than those provided diets of dried bovine blood (39%) or meat flour (55%).
+
+Pupal stage
+Flea larvae metamorphose through four stages before spinning a cocoon and entering the pupal stage. The cocoon is adhesive, and quickly acquires a coat of camouflage from surrounding dirt and dust. Pupation depends heavily on temperature and moisture, and takes a week or more to complete, though a fully pupated adult can remain inside of its cocoon in a state of semi-dormancy (called the "pupal window") awaiting signs of the presence of a host.
+
+Adult
+Newly emerged fleas use variations in light and shadow along with increases in warmth and CO2 to detect the presence of a potential host, and will jump to a new host within seconds of emerging from the cocoon. The new flea begins feeding on host blood within minutes.
+
+Effects on the hosts
+A few fleas on adult dogs or cats cause little harm unless the host becomes allergic to substances in the flea's saliva. There are 15 substances that can cause allergy in flea saliva. The disease that results from allergy is called flea allergy dermatitis. Small animals with large infestations can lose enough bodily fluid to fleas feeding that dehydration may result. [Cat](54) fleas also may be responsible for disease transmission through humans, and have been suspected as transmission agents of plague. Severe flea infestations can result in anemia due to blood loss.
+
+Disease transmission
+[Cat](54) fleas can transmit other parasites and infections to dogs and cats and also to humans. The most prominent of these are Bartonella, murine typhus, and atopic dermatitis. The tapeworm Dipylidium caninum can be transmitted when an immature flea is swallowed by pets or humans. In addition, cat fleas have been found to carry Borrelia burgdorferi, the etiologic agent of Lyme disease, but their ability to transmit the disease is unclear. Finally, cat fleas are vectors for Rickettsia felis.
+
+Prevention and treatment of flea-borne disease
+Since more than three-quarters of a flea's life is spent somewhere other than on the host animal, it is not adequate to treat only the host; it is important also to treat the host's environment. Thorough vacuuming, washing linens in hot water, and treating all hosts in the immediate environment (the entire household, for example) is essential for successful eradication. These steps should be performed on a regular basis as the flea life cycle is complex. Treatment should be implemented every five to ten days. Pet safe insecticides may also be an option in treating a pet with fleas, and soap is sufficient as an insecticide for adult fleas.
+
+Insecticide resistance
+[Cat](54) fleas have developed insecticide resistance to many of the common insecticides used to control them environmentally, including carbamates, organophosphates, and pyrethroids. Additionally, it has been found that larvae are more resistant to certain insecticides than adults. Targets of juvenile hormone may be successful to limit growth in the larval stages. When administering insecticides to pets for flea treatment, it is critically important to finish the full dose to limit the spread of resistance.
+
+Impact of climate change on the cat flea
+[Cat](54) fleas are generally tolerant to a wide range of environmental conditions. As the climate warms, however, it is predicted that the tropical haplotype will displace the temperate haplotype. Climate change often drives changes in species range. In Australia, it is predicted that warming temperatures will drive the cat flea distribution south.
+
+See also
+Pulicosis (Flea bites)
+
+References
+External links
+Integrated Flea Control from University of Nebraska-Lincoln Extension in Lancaster County
+cat flea on the UF / IFAS Featured Creatures Web site
+About Ctenocephalides felis (cat flea): taxonomy, life cycle, transmitted diseases, eradication at MetaPathogen
+
+Flea treatment
+Dog flea treatments
+Finding and Eliminating Fleas on Your [Cat](54) from the BBC
+Safe Use of Flea and Tick Products in Pets

@@ -1,0 +1,116 @@
+887
+Cilk
+Cilk, Cilk++, Cilk Plus and OpenCilk are general-purpose programming languages designed for multithreaded parallel computing. They are based on the C and [C++](640) programming languages, which they extend with constructs to express parallel loops and the fork–join idiom.
+Originally developed in the 1990s at the Massachusetts Institute of Technology (MIT) in the group of Charles E. Leiserson, Cilk was later commercialized as Cilk++ by a spinoff company, Cilk Arts. That company was subsequently acquired by Intel, which increased compatibility with existing C and [C++](640) code, calling the result Cilk Plus. After Intel stopped supporting Cilk Plus in 2017, MIT is again developing  Cilk in the form of OpenCilk.
+
+History
+MIT Cilk
+The Cilk programming language grew out of three separate projects at the MIT Laboratory for Computer Science:
+
+Theoretical work on scheduling multi-threaded applications.
+StarTech – a parallel chess program built to run on the Thinking Machines Corporation's Connection Machine model CM-5.
+PCM/Threaded-C – a C-based package for scheduling continuation-passing-style threads on the CM-5
+In April 1994 the three projects were combined and christened "Cilk". The name Cilk is not an acronym, but an allusion to "nice threads" (silk) and the C programming language. The Cilk-1 compiler was released in September 1994.
+The original Cilk language was based on [ANSI C](803), with the addition of Cilk-specific keywords to signal parallelism. When the Cilk keywords are removed from Cilk source code, the result should always be a valid C program, called the serial elision (or C elision) of the full Cilk program, with the same semantics as the Cilk program running on a single processor. Despite several similarities, Cilk is not directly related to AT&T Bell Labs' Concurrent C.
+Cilk was implemented as a translator to C, targeting the GNU C Compiler (GCC). The last version, Cilk 5.4.6, is available from the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), but is no longer supported.
+A showcase for Cilk's capabilities was the Cilkchess parallel chess-playing program, which won several computer chess prizes in the 1990s, including the 1996 Open Dutch Computer Chess Championship.
+
+Cilk Arts and Cilk++
+Prior to c. 2006, the market for Cilk was restricted to high-performance computing. The emergence of multicore processors in mainstream computing meant that hundreds of millions of new parallel computers were being shipped every year. Cilk Arts was formed to capitalize on that opportunity: in 2006, Leiserson launched Cilk Arts to create and bring to market a modern version of Cilk that supports the commercial needs of an upcoming generation of programmers. The company closed a Series A venture financing round in October 2007, and its product, Cilk++ 1.0, shipped in December, 2008.
+Cilk++ differs from Cilk in several ways: support for [C++](640), support for loops, and hyperobjects –  a new construct designed to solve data race problems created by parallel accesses to global variables. Cilk++ was proprietary software. Like its predecessor, it was implemented as a Cilk-to-[C++](640) compiler. It supported the Microsoft and GNU compilers.
+
+Intel Cilk Plus
+On July 31, 2009, Cilk Arts announced on its web site that its products and engineering team were now part of Intel Corp. In early 2010, the Cilk website at www.cilk.com began redirecting to the Intel website (as of early 2017, the original Cilk website no longer resolves to a host). Intel and Cilk Arts integrated and advanced the technology further resulting in a September 2010 release of Intel Cilk Plus. Cilk Plus adopts simplifications, proposed by Cilk Arts in Cilk++, to eliminate the need for several of the original Cilk keywords while adding the ability to spawn functions and to deal with variables involved in reduction operations. Cilk Plus differs from Cilk and Cilk++ by adding array extensions, being incorporated in a commercial compiler (from Intel), and compatibility with existing debuggers.
+Cilk Plus was first implemented in the Intel [C++](640) Compiler with the release of the Intel compiler in Intel Composer XE 2010. An open source (BSD-licensed) implementation was contributed by Intel to the GNU Compiler Collection (GCC), which shipped Cilk Plus support in version 4.9, except for the _Cilk_for keyword, which was added in GCC 5.0. In February 2013, Intel announced a [Clang](888) fork with Cilk Plus support. The Intel Compiler, but not the open source implementations, comes with a race detector and a performance analyzer.
+Intel later discontinued it, recommending its users switch to instead using either OpenMP or Intel's own TBB library for their parallel programming needs.
+
+Differences between versions
+In the original MIT Cilk implementation, the first Cilk keyword is in fact cilk, which identifies a function which is written in Cilk. Since Cilk procedures can call C procedures directly, but C procedures cannot directly call or spawn Cilk procedures, this keyword is needed to distinguish Cilk code from C code. Cilk Plus removes this restriction, as well as the cilk keyword, so C and [C++](640) functions can call into Cilk Plus code and vice versa.
+
+Deprecation of Cilk Plus
+In May, 2017, GCC 7.1 was released and marked Cilk Plus support as deprecated. Intel itself announced in September 2017 that they would deprecate Cilk Plus with the 2018 release of the Intel Software Development Tools. In May 2018, GCC 8.1 was released with Cilk Plus support removed.
+
+OpenCilk
+After Cilk Plus support was deprecated by Intel, MIT has taken on the development of Cilk in the OpenCilk implementation, focusing on the LLVM/[Clang](888) fork now termed "Tapir". OpenCilk remains largely compatible with Intel Cilk Plus. Its first stable version was released in March 2021.
+
+Language features
+The principle behind the design of the Cilk language is that the programmer should be responsible for exposing the parallelism, identifying elements that can safely be executed in parallel; it should then be left to the run-time environment, particularly the scheduler, to decide during execution how to actually divide the work between processors. It is because these responsibilities are separated that a Cilk program can run without rewriting on any number of processors, including one.
+
+Task parallelism: spawn and sync
+Cilk's main addition to C are two keywords that together allow writing task-parallel programs.
+
+The spawn keyword, when preceding a function call (spawn f(x)), indicates that the function call (f(x)) can safely run in parallel with the statements following it in the calling function. Note that the scheduler is not obligated to run this procedure in parallel; the keyword merely alerts the scheduler that it can do so.
+A sync statement indicates that execution of the current function cannot proceed until all previously spawned function calls have completed. This is an example of a barrier method.
+(In Cilk Plus, the keywords are spelled _Cilk_spawn and _Cilk_sync, or cilk_spawn and cilk_sync if the Cilk Plus headers are included.)
+Below is a recursive implementation of the Fibonacci function in Cilk, with parallel recursive calls, which demonstrates the spawn, and sync keywords. The original Cilk required any function using these to be annotated with the cilk keyword, which is gone as of Cilk Plus. (Cilk program code is not numbered; the numbers have been added only to make the discussion easier to follow.)
+
+If this code was executed by a single processor to determine the value of fib(2), that processor would create a frame for fib(2), and execute lines 1 through 5. On line 6, it would create spaces in the frame to hold the values of x and y. On line 8, the processor would have to suspend the current frame, create a new frame to execute the procedure fib(1), execute the code of that frame until reaching a return statement, and then resume the fib(2) frame with the value of fib(1) placed into fib(2)'s x variable. On the next line, it would need to suspend again to execute fib(0) and place the result in fib(2)'s y variable.
+When the code is executed on a multiprocessor machine, however, execution proceeds differently. One processor starts the execution of fib(2); when it reaches line 8, however, the spawn keyword modifying the call to fib(n-1) tells the processor that it can safely give the job to a second processor: this second processor can create a frame for fib(1), execute its code, and store its result in fib(2)'s frame when it finishes; the first processor continues executing the code of fib(2) at the same time. A processor is not obligated to assign a spawned procedure elsewhere; if the machine only has two processors and the second is still busy on fib(1) when the processor executing fib(2) gets to the procedure call, the first processor will suspend fib(2) and execute fib(0) itself, as it would if it were the only processor. Of course, if another processor is available, then it will be called into service, and all three processors would be executing separate frames simultaneously.
+(The preceding description is not entirely accurate. Even though the common terminology for discussing Cilk refers to processors making the decision to spawn off work to other processors, it is actually the scheduler which assigns procedures to processors for execution, using a policy called work-stealing, described later.)
+If the processor executing fib(2) were to execute line 13 before both of the other processors had completed their frames, it would generate an incorrect result or an error; fib(2) would be trying to add the values stored in x and y, but one or both of those values would be missing. This is the purpose of the sync keyword, which we see in line 11: it tells the processor executing a frame that it must suspend its own execution until all the procedure calls it has spawned off have returned. When fib(2) is allowed to proceed past the sync statement in line 11, it can only be because fib(1) and fib(0) have completed and placed their results in x and y, making it safe to perform calculations on those results.
+The code example above uses the syntax of Cilk-5. The original Cilk (Cilk-1) used a rather different syntax that required programming in an explicit continuation-passing style, and the Fibonacci examples looks as follows:
+
+Inside fib's recursive case, the spawn_next keyword indicates the creation of a successor thread (as opposed to the child threads created by spawn), which executes the sum subroutine after waiting for the continuation variables x and y to be filled in by the recursive calls. The base case and sum use a send_argument(k, n) operation to set their continuation variable k to the value of n, effectively "returning" the value to the successor thread.
+
+Inlets
+The two remaining Cilk keywords are slightly more advanced, and concern the use of inlets. Ordinarily, when a Cilk procedure is spawned, it can return its results to the parent procedure only by putting those results in a variable in the parent's frame, as we assigned the results of our spawned procedure calls in the example to x and y.
+The alternative is to use an inlet. An inlet is a function internal to a Cilk procedure which handles the results of a spawned procedure call as they return. One major reason to use inlets is that all the inlets of a procedure are guaranteed to operate atomically with regards to each other and to the parent procedure, thus avoiding the bugs that could occur if the multiple returning procedures tried to update the same variables in the parent frame at the same time.
+
+The inlet keyword identifies a function defined within the procedure as an inlet.
+The abort keyword can only be used inside an inlet; it tells the scheduler that any other procedures that have been spawned off by the parent procedure can safely be aborted.
+Inlets were removed when Cilk became Cilk++, and are not present in Cilk Plus.
+
+Parallel loops
+Cilk++ added an additional construct, the parallel loop, denoted cilk_for in Cilk Plus. These loops look like
+
+This implements the parallel map idiom: the body of the loop, here a call to f followed by an assignment to the array a, is executed for each value of i from zero to n in an indeterminate order. The optional "grain size" pragma determines the coarsening: any sub-array of one hundred or fewer elements is processed sequentially. Although the Cilk specification does not specify the exact behavior of the construct, the typical implementation is a divide-and-conquer recursion, as if the programmer had written
+
+The reasons for generating a divide-and-conquer program rather than the obvious alternative, a loop that spawn-calls the loop body as a function, lie in both the grainsize handling and in efficiency: doing all the spawning in a single task makes load balancing a bottleneck.
+A review of various parallel loop constructs on HPCwire found the cilk_for construct to be quite general, but noted that the Cilk Plus specification did not stipulate that its iterations need to be data-independent, so a compiler cannot automatically vectorize a cilk_for loop. The review also noted the fact that reductions (e.g., sums over arrays) need additional code.
+
+Reducers and hyperobjects
+Cilk++ added a kind of objects called hyperobjects, that allow multiple strands to share state without race conditions and without using explicit locks. Each strand has a view on the hyperobject that it can use and update; when the strands synchronize, the views are combined in a way specified by the programmer.
+The most common type of hyperobject is a reducer, which corresponds to the reduction clause in OpenMP or to the algebraic notion of a monoid. Each reducer has an identity element and an associative operation that combines two values. The archetypal reducer is summation of numbers: the identity element is zero, and the associative reduce operation computes a sum. This reducer is built into Cilk++ and Cilk Plus:
+
+Other reducers can be used to construct linked lists or strings, and programmers can define custom reducers.
+A limitation of hyperobjects is that they provide only limited determinacy. Burckhardt et al. point out that even the sum reducer can result in non-deterministic behavior, showing a program that may produce either 1 or 2 depending on the scheduling order:
+
+Array notation
+Intel Cilk Plus adds notation to express high-level operations on entire arrays or sections of arrays; e.g., an axpy-style function that is ordinarily written
+
+can in Cilk Plus be expressed as
+
+y0:n += alpha * x0:n;
+
+This notation helps the compiler to effectively vectorize the application. Intel Cilk Plus allows C/[C++](640) operations to be applied to multiple array elements in parallel, and also provides a set of built-in functions that can be used to perform vectorized shifts, rotates, and reductions. Similar functionality exists in Fortran 90; Cilk Plus differs in that it never allocates temporary arrays, so memory usage is easier to predict.
+
+Elemental functions
+In Cilk Plus, an elemental function is a regular function which can be invoked either on scalar arguments or on array elements in parallel. They are similar to the kernel functions of OpenCL.
+
+#pragma simd
+This pragma gives the compiler permission to vectorize a loop even in cases where auto-vectorization might fail. It is the simplest way to manually apply vectorization.
+
+Work-stealing
+The Cilk scheduler uses a policy called "work-stealing" to divide procedure execution efficiently among multiple processors. Again, it is easiest to understand if we look first at how Cilk code is executed on a single-processor machine.
+The processor maintains a stack on which it places each frame that it has to suspend in order to handle a procedure call. If it is executing fib(2), and encounters a recursive call to fib(1), it will save fib(2)'s state, including its variables and where the code suspended execution, and put that state on the stack. It will not take a suspended state off the stack and resume execution until the procedure call that caused the suspension, and any procedures called in turn by that procedure, have all been fully executed.
+With multiple processors, things of course change. Each processor still has a stack for storing frames whose execution has been suspended; however, these stacks are more like deques, in that suspended states can be removed from either end. A processor can still only remove states from its own stack from the same end that it puts them on; however, any processor which is not currently working (having finished its own work, or not yet having been assigned any) will pick another processor at random, through the scheduler, and try to "steal" work from the opposite end of their stack –  suspended states, which the stealing processor can then begin to execute. The states which get stolen are the states that the processor stolen from would get around to executing last.
+
+See also
+Grand Central Dispatch
+Intel Concurrent Collections (CnC)
+Intel Parallel Building Blocks (PBB)
+Intel Array Building Blocks (ArBB)
+Intel Parallel Studio
+NESL
+OpenMP
+Parallel computing
+Sieve [C++](640) Parallel Programming System
+Threading Building Blocks (TBB)
+Unified Parallel C
+
+References
+External links
+Official website for OpenCilk
+Intel's Cilk Plus website
+Cilk Project website at MIT
+Arch D. Robison, "Cilk Plus: Language Support for Thread and Vector Parallelism" and "Parallel Programming with Cilk Plus", July 16, 2012.

@@ -1,0 +1,103 @@
+2839
+Drosophilidae
+The Drosophilidae are a diverse, cosmopolitan family of flies, which includes species called fruit flies, although they are more accurately referred to as vinegar or pomace flies. Another distantly related family of flies, Tephritidae, are true fruit flies because they are frugivorous, and include apple maggot flies and many pests. The best known species of the Drosophilidae is [Drosophila](2755) melanogaster, within the genus [Drosophila](2755), also called the "fruit fly." [Drosophila](2755) melanogaster is used extensively for studies concerning genetics, development, physiology, ecology and behaviour. Many fundamental biological mechanisms were discovered first in D. melanogaster. The fruit fly is mostly composed of post-mitotic cells, has a very short lifespan, and shows gradual aging. As in other species, temperature influences the life history of the animal. Several genes have been identified that can be manipulated to extend the lifespan of these insects. Additionally, [Drosophila](2755) subobscura, also within the genus [Drosophila](2755), has been reputed as a model organism for evolutionary-biological studies, along with D. sechellia for the evolution of host specialization on the toxic noni fruit and Scaptomyza flava for the evolution of herbivory and specialist on toxic mustard leaves.
+
+Economic significance
+Generally, drosophilids are considered to be nuisance flies rather than pests, since most species breed in rotting material. Zaprionus indianus is unusual among Drosophilidae species in being a serious, primary pest of at least one commercial fruit, figs in Brazil. Another species, [Drosophila](2755) suzukii, infests thin-skinned fruit such as raspberries and cherries and can be a serious agricultural pest. The leaf mining Scaptomyza flava, which is nested in the genus [Drosophila](2755) phylogenetically, is an obligate leaf miner of mustard plants, including the model plant Arabidopsis thaliana and is a major pest of salad brassicas in New Zealand and an emerging pest of canola in the UK. [Drosophila](2755) repleta larvae inhabit drains and spread bacteria. Fruit flies in general are considered as a common vector in propagating acetic acid bacteria in nature. This often ruins the alcohol fermentation process and can ruin beer or wine by turning it into vinegar. There are sinking traps available on the market for this nuisance, but one quick way to strongly limit the extent of it is to vacuum clean the flies both at rest and in their slow flight.
+
+Identification
+The diagnostic characteristics for Drosophilidae include the presence of an incomplete subcostal vein, two breaks in the costal vein, a small anal cell in the wing, convergent postocellar bristles; and usually three frontal bristles on each side of the head, one directed forward and the other two directed rearward. More extensive identification characteristics can be found in "[Drosophila](2755): A Guide to Species Identification and Use" by Therese A. Markow and Patrick O'Grady, (Academic Press, 2005) ISBN 0-12-473052-3 or "[Drosophila](2755): A Laboratory Handbook" by M. Ashburner, K. Golic, S. Hawley, (Cold Spring Harbor Laboratory Press, 2005).
+
+Mutualism
+There is evidence to support that pathogens living within certain flies are beneficial to the behavior and survival of the host. One such example of this is in the fly Scaptomyza flava, which carries the pathogen Pseudomonas syringae in exchange for the pathogen damaging the anti-herbivore defenses of plants in the family Brassicaceae, which are the main food source for the fly.
+
+Phylogeny
+The family contains more than 4,000 species classified under 75 genera. Recently, a comprehensive phylogenetic classification of the genera based on both molecular and morphological characters has been published.
+
+Subfamily Drosophilinae Rondani, 1856:
+Tribe Colocasiomyini Okada, 1989:
+Genus Baeodrosophila Wheeler & Takada, 1964
+Genus Balara Bock, 1982
+Genus Chymomyza Czerny, 1903
+Genus Colocasiomyia de Meijere, 1914
+Genus Lissocephala Malloch, 1929
+Genus Neotanygastrella Duda, 1925
+Genus Phorticella Duda, 1924
+Genus Scaptodrosophila Duda, 1923
+Genus Protochymomyza Grimaldi, 1987
+Tribe Drosophilini Okada, 1989:
+Genus Arengomyia Yafuso & Toda, 2008
+Genus Bialba Bock, 1989
+Genus Calodrosophila Wheeler & Takada, 1964
+Genus Celidosoma Hardy, 1965
+Genus Collessia Bock, 1982
+Genus Dettopsomyia Lamb, 1914
+Genus Dichaetophora Duda, 1940
+Genus Dicladochaeta Malloch, 1932
+Genus [Drosophila](2755) Fallén, 1823
+Genus Hirtodrosophila Duda, 1923
+Genus Hypselothyrea Okada, 1956
+Genus Idiomyia Grimshaw, 1901 (Hawaiian [Drosophila](2755))
+Genus Jeannelopsis Séguy, 1938
+Genus Laccodrosophila Duda, 1927
+Genus Liodrosophila Duda, 1922
+Genus Lordiphosa Basden, 1961
+Genus Microdrosophila Malloch, 1921
+Genus Miomyia Grimaldi, 1987
+Genus Mulgravea Bock, 1982
+Genus Mycodrosophila Oldenberg, 1914
+Genus Palmomyia Grimaldi, 2003
+Genus Paraliodrosophila Duda, 1925
+Genus Paramycodrosophila Duda, 1924
+Genus Poliocephala Bock, 1989
+Genus Samoaia Malloch, 1934
+Genus Scaptomyza Hardy, 1849
+Genus Sphaerogastrella Duda, 1922
+Genus Styloptera Duda, 1924
+Genus Tambourella Wheeler, 1957
+Genus Zaprionus Coquillett, 1902
+Genus Zaropunis Tsacas, 1990
+Genus Zapriothrica Wheeler, 1956
+Genus Zygothrica Wiedemann, 1830
+Incertae sedis:
+Genus Marquesia Malloch, 1932
+Subfamily Steganinae Hendel, 1917:
+Tribe Gitonini Grimaldi, 1990:
+Genus Allopygaea Tsacas, 2000
+Genus Acletoxenus Frauenfeld, 1868
+Genus Amiota Loew, 1862
+Genus Apenthecia Tsacas, 1983
+Genus Apsiphortica Okada, 1971
+Genus Cacoxenus Loew, 1858
+Genus Crincosia Bock, 1982
+Genus Electrophortica Hennig, 1965
+Genus Erima Kertész, 1899
+Genus Gitona Meigen, 1830
+Genus Hyalistata Wheeler, 1960
+Genus Luzonimyia Malloch, 1926
+Genus Mayagueza Wheeler, 1960
+Genus Paracacoxenus Hardy & Wheeler, 1960
+Genus Paraleucophenga Hendel, 1914
+Genus Paraphortica Duda, 1934
+Genus Phortica Schiner, 1862
+Genus Pseudiastata Coquillett, 1901
+Genus Pseudocacoxenus Duda, 1925
+Genus Rhinoleucophenga Hendel, 1917
+Genus Soederbomia Hendel, 1938
+Genus Trachyleucophenga Hendel, 1917
+Tribe Steganini Okada, 1989:
+Genus Eostegana Hendel, 1913
+Genus Leucophenga Mik, 1866
+Genus Pararhinoleucophenga Duda, 1924
+Genus Parastegana Okada, 1971
+Genus Pseudostegana Okada, 1978
+Genus Stegana Meigen, 1830
+Incertae sedis:
+Genus Neorhinoleucophenga Duda, 1924
+Genus Pyrgometopa Kertész, 1901
+
+References
+External links
+
+Diptera.info photo gallery
+Family Drosophilidae at EOL images

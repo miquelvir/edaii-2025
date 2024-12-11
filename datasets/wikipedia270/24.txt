@@ -1,0 +1,48 @@
+24
+Acidobacteriota
+Acidobacteriota is a phylum of Gram-negative bacteria. Its members are physiologically diverse and ubiquitous, especially in soils, but are under-represented in culture.
+
+Description
+Members of this phylum are physiologically diverse, and can be found in a variety of environments including soil, decomposing wood, hot springs, oceans, caves, and metal-contaminated soils. The members of this phylum are particularly abundant in soil habitats representing up to 52% of the total bacterial community. Environmental factors such as pH and nutrients have been seen to drive Acidobacteriota dynamics. Many Acidobacteriota are acidophilic, including the first described member of the phylum, Acidobacterium capsulatum.
+There is much that is unknown about Acidobacteria both in their form and function. Thus, this is a growing field of microbiology. Some of this uncertainty can be attributed to the difficulty with which these bacteria are grown in the laboratory. There has been recent success in propagation by using low concentrations of nutrients in combination with high amounts of CO2, yet, progress is still quite slow. These new methods have only allowed approximately 30% of subdivisions to have species documented.
+Additionally, many of the samples sequenced do not have taxonomic names as they have not yet been fully characterized. This area of study is a very current topic, and scientific understanding is expected to grow and change as new information comes to light.
+Other notable species are Holophaga foetida, Geothrix fermentans, Acanthopleuribacter pedis and Bryobacter aggregatus.
+Since they have only recently been discovered and the large majority have not been cultured, the ecology and metabolism of these bacteria is not well understood. However, these bacteria may be an important contributor to ecosystems, since they are particularly abundant within soils. Members of subdivisions 1, 4, and 6 are found to be particularly abundant in soils.
+As well as their natural soil habitat, unclassified subdivision 2 Acidobacteriota have also been identified as a contaminant of DNA extraction kit reagents, which may lead to their erroneous appearance in microbiota or metagenomic datasets.
+Members of subdivision 1 have been found to dominate in low pH conditions. Additionally, Acidobacteriota from acid mine drainage have been found to be more adapted to acidic pH conditions (pH 2-3) compared to Acidobacteriota from soils, potentially due to cell specialization and enzyme stability.
+The G+C content of Acidobacteria genomes are consistent within their subdivisions - above 60% for group V fragments and roughly 10% lower for group III fragments.
+The majority of Acidobacteriota are considered aerobes. There are some Acidobacteriota that are considered anaerobes within subdivision 8 and subdivision 23. It has been found that some strains of Acidobacteriota originating from soils have the genomic potential to respire oxygen at atmospheric and sub-atmospheric concentrations.
+Members of the Acidobacteriota phylum have been considered oligotrophic bacteria due to high abundances in low organic carbon environments. However, the variation in this phylum may indicate that they may not have the same ecological strategy.
+
+History
+The first species, Acidobacterium capsulatum, of this phylum was discovered in 1991. However, Acidobacteriota were not recognized as a distinct clade until 1997, and were not recognized as a phylum until 2012. First genome was sequenced in 2006.
+
+Subdivisions
+In an effort to further classify Acidobacteria, 16S rRNA gene regions were sequenced from many different strains. These sequences lead to the formation of subdivisions within the phyla. Today, there are 26 accepted subdivisions recognized in the Ribosomal Database Project.
+Much of this variety comes from populations of acidobacteria found in soils contaminated with uranium. Therefore, most of the known species in this phyla are concentrated in a few of the subdivisions, the largest being #1. Most of these microbes are aerobes, and they are all heterotrophic. Subdivision 1 contains 11 of the known genera in addition to the majority of the species that have been able to be cultivated thus far.
+Within the 22 known genera, there are 40 conclusive species. The genera are divided amongst subdivisions 3, 4, 8, 10, 23, and 1. As the Acidobateria are a developing area of microbiology, it is hypothesized that these numbers will change drastically with further study.
+
+Metabolism
+Carbon
+Some members of subdivision 1 are able to use D-glucose, D-xylose, and lactose as carbon sources, but are unable to use fucose or sorbose. Members of subdivision 1 also contain enzymes such as galactosidases used in the breakdown of sugars. Members of subdivision 4 have been found to use chitin as a carbon source.
+Despite the presence of genetic information generally known to encode for carbohydrate processing machinery in various genera of Acidobacteria, several experimental studies have demonstrated the inability to break down various polysaccharides.
+Cellulose is the main component of plant cell walls and a seemingly opportune resource for carbon. However, only a single species across all subdivisions has been shown to process it, Telmactobacter bradus from subvision 1. Scientists note that it is much too early in their understanding of the field to draw conclusions about carbon processing in Acidobacteria, but believe that xylan degradation (a polysaccharide primarily found in the secondary cell wall of plants) currently appears to be the most universal carbon breakdown ability.
+Researchers believe that an additional factor in the lack of understanding of carbon degradation by acidobacteria may stem from the present limited ability to provide adequate cultivation conditions. To study the natural behavior of these bacteria, they must grow and live in a controlled, observable environment. If such a habitat cannot be provided, recorded data cannot reliably report on the activity of the microbes in question. Therefore, the inconsistencies between genome sequence based predictions and observed carbon processes may be explained by present study methods.
+
+Nitrogen
+There has been no clear evidence that Acidobacteriota are involved in nitrogen-cycle processes such as nitrification, denitrification, or nitrogen fixation. However, Geothrix fermantans was shown to be able to reduce nitrate and contained the norB gene. The NorB gene was also identified in Koribacter verstailis and Solibacter usitatus. In addition, the presence of the nirA gene has been observed in members of subdivision 1. Additionally, to date, all genomes have been described to directly uptake ammonium via ammonium channel transporter family genes. Acidobacteriota can use both inorganic and organic nitrogen as their nitrogen sources.
+
+Phylogeny
+The currently accepted taxonomy is based on the List of Prokaryotic names with Standing in Nomenclature and National Center for Biotechnology Information.
+
+See also
+List of bacterial orders
+List of bacteria genera
+
+References
+External links
+Acidobacteria bacterium Ellin345 Genome Page
+Acidobacterium Genome Projects (from Genomes OnLine Database)
+Science Daily article
+Scientific American article
+acidoseq, A Python package for studying Acidobacteria

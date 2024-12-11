@@ -1,0 +1,84 @@
+576
+Aplousobranchia
+Aplousobranchia is an order of sea squirts in the class [Ascidiacea](592), first described by Fernando Lahille in 1886. They are colonial animals, and are distinguished from other sea squirts by the presence of relatively simple pharyngeal baskets. This provides the etymology of their name: in ancient greek, ἁ.πλοος-ους (ha.ploos-ous) means "simple". The posterior part of the abdomen contains the heart and gonads, and is typically larger than in other sea squirts.
+
+Taxonomy
+Order Aplousobranchia
+
+Family Clavelinidae Forbes & Hanley 1848 Pycnoclavellidae Kott 1990
+Clavelina Savigny 1816 Bradiclavella Zirpolo 1925; Chondrostachys Macdonald 1858; Dendroclavella Oka 1927; Podoclavella Herdman 1890; Rhodozona Van Name 1902; Stereoclavella Herdman 1890; Synclavella Caullery 1900
+Euclavella Kott 1990
+Nephtheis Gould 1856 Oxycorynia Drasche 1882
+Pycnoclavella Garstang 1891 Archiascidia Julin 1904
+Family Diazonidae Garstang 1891
+Diazona Savigny 1816 Aphanibranchion Oka 1906; Syntethys Forbes & Goodsir 1851; Diagonum Troschel 1842; Diagoma Wade 1842
+Pseudodiazona Millar 1963 Patridium Kott 1975
+Pseudorhopalaea Millar 1975
+Rhopalaea Philippi 1843 Rhopalona Roule 1886; Rhopalopsis Herdman 1890
+Tylobranchion Herdman 1886
+Family Didemnidae Giard 1872 Diplosominae Giard 1872
+Atriolum Kott 1983
+Clitella Kott 2001
+Coelocormus Herdman 1886
+Didemnum Savigny 1816 Didemnoides Drasche 1883; Diplosomoides Herdman 1886 non Lahille 1890; Hypurgon Sollas 1903; Leptoclinum Milne-Edwards 1842; Sarcodidemnoides Oka & Willey 1892; Tetradidemnum Della Valle 1881
+Diplosoma Macdonald 1859 Arenadiplosoma Menker & Ax 1970;  Astellium Giard 1872; Lioclinum Verrill 1871; Pseudodidemnum Giard 1872; Pseudodiplosoma
+Leptoclinides Bjerkan 1905 Askonides Kott 1962
+Lissoclinum Verrill 1871 Diplosomoides Lahille 1890 non Herdman 1886; Echinoclinum Van Name 1902; Polysoma Kott 1983
+Polysyncraton Nott 1892
+Trididemnum Della Valle 1881 Didemnoides Lahille 1890 non Drasche 1884; Didemnopsis Hartmeyer 1903
+Family Euherdmaniidae Ritter 1904
+Euherdmania Ritter 1904 Herdmania Ritter 1903 non Lahille 1888
+Family Holozoidae Berrill 1950
+Colella Herdman 1886 nomen nudum 
+Distaplia Della Valle 1881 Celulophana; Holozoa Lesson 1832; Julinia Calman 1894; Leptobotrylloides Oka 1927
+Hypsistozoa Brewin 1953
+Hypodistoma Tokioka 1967
+Neodistoma Kott 1990
+Polydistoma Kott 1990
+Protoholozoa Kott 1969
+Pseudoplacentela Sanamyan 1993
+Sycozoa Lesson 1832 Cyathocormus Oka 1913
+Sigillina Savigny 1816 Atapozoa Brewin 1946; Atopozoa Brewin 1956; Hyperiodistoma Michaelsen 1930
+Family Placentelidae Kott 1992
+Placentela Redikorzev 1913 Homoedistoma Redikorzev 1927; Sigillinaria Oka 1933
+Family Polycitoridae Michaelsen 1904
+Archidistoma Garstang 1891
+Brevicollus Kott 1990
+Cystodytes Drasche 1884
+Eucoelium Savigny 1816
+Eudistoma Caullery 1909 Distoma Savigny 1816 non Retzius 1786; Paessleria Michaelsen 1909
+Exostoma Kott 1990
+Millarus Monniot & Monniot 1988
+Polycitor Renier 1804 Paradistoma Caullery 1909; Tetrazona Michaelsen 1930
+Polycitorella Michaelsen 1924
+Rhombifera Peres 1956 non Barrande 1867
+Family Polyclinidae Milne-Edwards 1841 Synoicidae
+Aplidiopsis Lahille 1890
+Aplidium  Savigny 1816 Haploidium Agassiz 1846; Amaroecium Milne-Edwards 1841; Circinalium Giard 1872; Fragarium Giard 1872; Heterotrema Fiedler 1889; Parascidia Milne- Edwards 1841; Polyclinoides Drasche 1883; Sidnyum Savigny 1816
+Morchellioides Herdman, 1886
+Morchellium Giard 1872
+Neodictyon Sanamyan 1988
+Polyclinella Harant 1931
+Polyclinum Savigny 1816 Glossophorum Lahille 1816
+Sidneioides Kesteven 1909
+Synoicum Phipps 1774 Atopogaster Herdman 1886; Lissamaroucium Sluiter 1906; Macroclinum Verrill 1871; Polyclinopsis Gottschaldt 1894; Psammaplidium Herdman 1886; Glossoforum Lahille 1886
+Family Protopolyclinidae Kott 1992
+Condominium Kott 1992
+Monniotus Millar 1988
+Protopolyclinum Millar 1960
+Family Pseudodistomidae Harant 1931
+Anadistoma Kott 1992
+Citorclinum Monniot & Millar 1988
+Pseudodistoma Michaelsen 1924
+Family Ritterellidae Kott 1992
+Dumus Brewin, 1952
+Pharyngodictyon Herdman 1886
+Ritterella Harant 1931
+Family Stomozoidae Kott 1990
+Stomozoa Kott 1957
+Family Vitrumidae Kott 2009
+Vitrum Kott 2009
+
+References
+
+Barnes, Robert D. (1982). Invertebrate Zoology. Philadelphia, PA: Holt-Saunders International. p. 1042. ISBN 0-03-056747-5.

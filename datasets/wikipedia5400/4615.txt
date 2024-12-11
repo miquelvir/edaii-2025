@@ -1,0 +1,17 @@
+4615
+Active voice
+Active voice is a grammatical voice prevalent in many of the world's languages. It is the default voice for clauses that feature a transitive verb in nominative–accusative languages, including English and most Indo-European languages. In these languages, a verb is typically in the active voice when the subject of the verb is the doer of the action.
+In active voice, the subject of the sentence performs the action expressed by the main verb and is thus the agent. For example, in the sentence "The cat ate the fish", 'the cat' is the agent performing the action of eating. This contrasts with the passive voice, where the subject is the recipient of the action, such as in "The fish was eaten by the cat." The use of both active and passive voices in languages enhances versatility in sentence construction, allowing either the semantic agent or patient to assume the syntactic role of the subject.
+Even in sentences with impersonal verbs, where no agent is specified, the verb form remains active, such as "It rains."
+
+Examples
+Below are examples demonstrating the active and passive voices with pairs of sentences using the same transitive verb across various languages.
+
+See also
+
+Anti-passive voice
+Mediopassive voice
+E-Prime, a version of the [English language](4401) that excludes forms of the verb to be
+
+
+== References ==

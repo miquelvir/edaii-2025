@@ -1,0 +1,36 @@
+4017
+Maria Klawe
+Maria Margaret Klawe ( KLAH-vay; born 1951) is a Canadian-American computer scientist and served as the fifth president of Harvey Mudd College from 2006 to 2023. Born in Toronto in 1951, she became a naturalized U.S. citizen in 2009. She was previously Dean of the School of Engineering and Applied Science at [Princeton University](4018). She is known for her advocacy for women in STEM fields.
+
+Biography
+Klawe was born in Toronto, Ontario. She lived in Scotland from ages 4 to 12, and then returned to Canada, living with her family in Edmonton, Alberta.
+Klawe studied at the University of Alberta, dropped out to travel the world, and returned to earn her B.Sc. in 1973. She stayed at Alberta for her graduate studies, and in 1977 she earned her Ph.D. there in mathematics. She joined the mathematics faculty at Oakland University as an assistant professor in 1977 but only stayed for a year. She started a second Ph.D., in computer science, at the University of Toronto, but was offered a faculty position there before completing the degree. When she made the decision to get a PhD in computer science she had never studied the subject before. There weren't many undergraduate classes at the time so she enrolled in upper-level courses and studied about 16 hours a day to do well. She spent eight years in industry, serving at IBM's Almaden Research Center in San Jose, California, first as a research scientist, then as manager of the Discrete Mathematics Group and manager of the Mathematics and Related Computer Science Department. She and her husband Nick Pippenger then moved to the University of British Columbia, where she stayed for 15 years and served as head of the Department of Computer Science from 1988 to 1995, vice president of student and academic services from 1995 to 1998, and dean of science from 1998 to 2002.
+From UBC she moved to Princeton and then Harvey Mudd College, where she is the first woman president.  When she arrived at Mudd only about 30% of students and faculty were female. Today about 50% of the students and over 40% of the faculty are female. She became a citizen of the United States  on January 29, 2009. Later in 2009, she joined the board of directors of the Microsoft Corporation.
+
+Awards and honors
+Klawe was inducted as a fellow of the [Association for Computing Machinery](823) in 1996, a founding fellow of the Canadian Information Processing Society in 2006, a fellow of the [American Academy of Arts and Sciences](3132) in 2009, a fellow of the American Mathematical Society in 2012, and a fellow of the Association for Women in Mathematics in 2019.
+In 1997 she was selected as an NSERC Chair for Women in Science and Engineering (CWSE) at the University of British Columbia, one of only five in Canada.
+She has been awarded honorary doctorates from Ryerson Polytechnic University in 2001, the University of Waterloo in 2003, Queen's University in 2004, Dalhousie University in 2005, Acadia University in 2006, the University of Alberta in 2007, the University of Ottawa in 2008, the University of British Columbia in 2010, the University of Toronto in 2015, Concordia University in 2016, and McGill University in 2018 
+She was the winner of the 2014 Woman of Vision ABIE Award for Leadership from the Anita Borg Institute.
+In 2018 she was featured among "America's Top 50 Women In Tech" by Forbes.
+She also served as the president of the [Association for Computing Machinery](823) from 2002 to 2004, and in 2004 won the A. Nico Habermann award.
+
+Research
+Some of Klawe's best-cited research works concern algorithms for solving geometric optimization problems, distributed leader election, and the art gallery problem, and studies of the effects of gender on electronic game-playing. With Peter Shor, Shlomo Moran, Alok Aggarwal, and Robert Wilber, Klawe invented the SMAWK algorithm, a matrix-searching algorithm with applications in computational geometry. She founded the Aphasia Project, a collaboration between UBC and Princeton to study aphasia and develop cognitive aids for people suffering from it, after her friend Anita Borg developed brain cancer.
+
+Advocacy for technical women
+Klawe has been heavily involved with increasing the representation of women in STEM fields. While Klawe was the dean at UBC, she became the NSERC-IBM chair for Women in Science and Engineering. She was in charge of increasing female participation in science and engineering. During her five years as the chair appointment she increased female computer science majors from 16% to 27% and increased the number of female computer science faculty from 2 to 7. In 1991, together with Nancy Leveson, she founded CRA-W (The Computing Research Association's Committee on the Status of Women in Computing Research) and served as its first co-chair. She was also a personal friend of Anita Borg and served as the chair of the Board of Trustees of the Anita Borg Institute for Women and Technology from 1996 to 2011. Klawe was a huge advocate for salary negotiation by women, disagreeing with Microsoft's CEO Satya Nadella, when he said "It's not really about asking for a raise, but knowing and having faith that the system will give you the right raise. That might be one of the initial 'super powers,' that quite frankly, women (who) don't ask for a raise have. It's good karma. It will come back."
+Klawe believes that  women should take an entry level computer science course during their first year at college that focuses on portraying the field as fun and engaging rather than trying to convince women to stay. She believes that if programming courses are taken at the middle school level then they have another four years of high school for peer pressure to get them disinterested again." This is what she does at Harvey Mudd. She attributes the lack of women in technical fields to how the media portrays women. In an interview with PBS she explains how TV shows in the 1970s showed men along with women who had successful careers such as doctors or lawyers and that caused the number of women going into medicine to skyrocket.  Klawe emphasizes that the introductory courses offered need to be presented in a problem-solving environment, not a competitive one where a few males dominate the conversation. Klawe believes the "testosterone culture" prevents women from continuing on with CS because the men that know everything scare away anyone who is trying to learn. Currently, Klawe is working on helping biology majors learn computer science by working with UCSD to create a biology themed introductory computer science course. Another project she's working on is an online course called MOOC aimed at 10th grade students.
+
+Art
+Klawe has also exhibited her watercolors.
+
+See also
+Timeline of women in science
+
+References
+External links
+Biography of Maria Klawe at Human Archives
+Summary of Maria Klawe at Microsoft
+Maria Klawe  Video produced by Makers: Women Who Make America
+1

@@ -1,0 +1,22 @@
+3547
+Box Office Mojo
+Box Office Mojo is an American website that tracks box-office revenue in a systematic, algorithmic way. The site was founded in 1998 by Brandon Gray, and was bought in 2008 by IMDb, which itself is owned by Amazon.
+
+History
+Brandon Gray began the site on August 7, 1998, making forecasts of the top-10 highest-grossing films in the United States for the following weekend.  To compare his forecasts to the actual results, he started posting the weekend grosses and wrote a regular column with box-office analysis. In 1999, he started to post the Friday daily box-office grosses, sourced from Exhibitor Relations, so that they were publicly available online on Saturdays and posted the Sunday weekend estimates on Sundays. Along with the weekend grosses, he was publishing the daily grosses, release schedules, and other charts, such as all-time charts, international box-office charts, genre charts, and actor and director charts. The site gradually expanded to include weekend charts going back to 1982, grosses for older films, an international section expanded to cover the weekly box office of 50 countries, international release schedules, as well as box office results from up to 107 countries.
+In 2002, Gray partnered with Sean Saulsbury, and grew the site to nearly two million readers. In 2003, a subscription model was introduced (Premier Pass) to limit certain data and features to subscribers. From 2002 to 2011, Box Office Mojo had forums, which had more than 16,500 registered users. On November 2, 2011, the forums were officially closed along with any user accounts, and users were invited to join IMDb's message boards. The IMDb forums were closed on February 20, 2017.
+
+Acquisition by IMDb
+In July 2008, the company was purchased by Amazon.com through its subsidiary, IMDb and the Premier Pass features and content later became free. On October 10, 2014, all traffic to Box Office Mojo was redirected to IMDb's box office page, before returning the following day.
+On October 23, 2019, Box Office Mojo unveiled a dramatic redesign resembling IMDb, and was rebranded as "Box Office Mojo by IMDbPro". The redesign was heavily criticized for being difficult to navigate and moving much of its content behind a paywall. Several features previously provided for free, such as box-office data for franchises, genres, actors, filmmakers, distributors, budgets, and inflation-adjusted figures, were moved to IMDbPro, the subscription service of IMDb. On March 31, 2020, though, certain features that were locked behind the paywall were freed. These include the brand, franchise, and genre lists, which were put under an "Indices" section.
+
+See also
+Lumiere
+The Numbers
+
+References
+Further reading
+Saulsbury, Sean (October 24, 2019). "Box Office Mojo Redesign by IMDb Pro". SeanCast.com.
+
+External links
+Official website

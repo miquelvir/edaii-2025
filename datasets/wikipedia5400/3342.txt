@@ -1,0 +1,204 @@
+3342
+Shotgun cartridge
+A shotgun cartridge, shotshell, or shell is a type of rimmed, cylindrical (straight-walled) ammunition used specifically in shotguns. It is typically loaded with numerous small, spherical sub-projectiles called shot. Shotguns typically use a smoothbore barrel with a tapered constriction at the muzzle to regulate the extent of scattering.
+Some cartridges contain a single solid projectile known as a slug (sometimes fired through a rifled slug barrel).  The casing usually consists of a paper or plastic tube with a metallic base containing the primer. The shot charge is typically contained by wadding inside the case.  The caliber of the cartridge is known as its gauge.
+The projectiles are traditionally made of lead, but other metals such as steel, tungsten and bismuth are also used due to restrictions on lead, or for performance reasons such as achieving higher shot velocities by reducing the mass of the shot charge. Other unusual projectiles such as saboted flechettes, rubber balls, rock salt and magnesium shards also exist.  Cartridges can also be made with specialty non-lethal projectiles such as rubber and bean bag rounds.
+Shotguns have an effective range of about 35 m (38 yd) with buckshot, 45 m (49 yd) with birdshot, 100 m (110 yd) with slugs, and well over 150 m (160 yd) with saboted slugs in rifled barrels.
+Most shotgun cartridges are designed to be fired from a smoothbore barrel, as "shot" would be spread too wide by rifling. A rifled barrel will increase the accuracy of sabot slugs, but makes it unsuitable for firing shot, as it imparts a spin to the shot cup, causing the shot cluster to disperse. A rifled slug uses rifling on the slug itself so it can be used in a smoothbore shotgun.
+
+History
+Early shotgun cartridges used brass cases, not unlike pistol and rifle cartridge cases of the same era. These brass shotgun hulls or cases closely resembled large rifle cartridges, in terms of both the head and primer portions of the cartridge, as well as in their dimensions. Card wads, made of felt, leather, and cork, as well as paperboard, were all used at various times. Waterglass (sodium silicate) was commonly used to cement the top overshot wad into these brass casings. No roll crimp or fold crimp was used on these early brass cases, although roll crimps were eventually used by some manufacturers to hold the overshot wad in place securely. The primers on these early shotgun cartridges were identical to pistol primers of the same diameter.
+Starting in the late 1870s, paper hulls began replacing brass hulls. Paper hulls remained popular for nearly a century, until the early 1960s. These shotgun cartridges using paper hulls were nearly always roll crimped, although fold crimping also eventually became popular. The primers on these paper hull cartridges also changed from the pistol primers used on the early brass shotgun shells to a primer containing both the priming charge and an anvil, making the shotgun primer taller. Card wads, made of felt and cork, as well as paperboard, were all used at various times, gradually giving way to plastic over powder wads, with card wads, and, eventually, to all plastic wads. Starting from the early 1960s to the late 1970s, plastic hulls started replacing paper hulls for the majority of cartridges and by the early 1980s, plastic hulls had become universally adopted.
+
+Typical construction
+Modern shotgun cartridges typically consist of a plastic hull, with the base covered in a thin brass or plated steel covering. Paper cartridges used to be common and are still made, as are solid brass shells. Some companies have produced what appear to be all-plastic shells, although in these there is a small metal ring cast into the rim of the cartridge to provide strength. More powerful loads may use "high brass" shells, with the brass extended up further along the sides of the cartridge, while light loads will use "low brass" shells. The brass does not actually provide a significant amount of strength, but the difference in appearance provides shooters with a way to quickly differentiate between high and low powered ammunition.
+
+The base of the cartridge is fairly thick to hold the large primer, which is longer than primers used for rifle and pistol ammunition. Modern smokeless powders are far more efficient than the original black powder, so very little space is actually taken by propellant; shotguns use small quantities of double base powders, equivalent to quick-burning pistol powders, with up to 50% nitroglycerin. After the powder comes the wadding or wad. The primary purpose of a wad is to prevent the shot and powder from mixing, and to provide a seal that prevents gas from blowing through the shot rather than propelling it. The wad design may also encompass a shock absorber and a cup that holds the shot together until it is out of the barrel.
+A modern wad consists of three parts, the powder wad, the cushion, and the shot cup, which may be separate pieces or be one part. The powder wad acts as the gas seal (known as obturation), and is placed firmly over the powder; it may be a paper or plastic part. The cushion comes next, and it is designed to compress under pressure, to act as a shock absorber and minimize the deformation of the shot; it also serves to take up as much space as is needed between the powder wad and the shot. Cushions are almost universally made of plastic with crumple zones, although for game shooting in areas grazed by farm stock or wildlife biodegradable fiber wads are often preferred. The shot cup is the last part of the cartridge, and it serves to hold the shot together as it moves down the barrel. Shot cups have slits on the sides so that they peel open after leaving the barrel, allowing the shot to continue on in flight undisturbed. Shot cups, where used, are also almost universally plastic. The shot fills the shot cup (which must be of the correct length to hold the desired quantity of shot), and the cartridges is then crimped, or rolled closed.
+The only known shotgun cartridge using rebated rims is the 12 Gauge RAS12, specially made for the RAS-12 semi automatic shotgun.
+
+Sizes
+Standard
+Shotgun cartridges are generally measured by "gauge", which is the weight, in fractions of a pound, of a pure lead round ball that is the same diameter as the internal diameter of the barrel; in Britain and some other locations outside the United States the term "bore" is used with the same meaning. This contrasts with rifles and handguns, which are almost always measured in "caliber", a measurement of the internal diameter of the barrel measured in millimeters or inches and, consequently, is approximately equal to the diameter of the projectile that is fired.
+For example, a shotgun is called "12-gauge" because a lead sphere that just fits the inside diameter of the barrel weighs 1⁄12 pound (38 g). This measurement comes from the time when early cannons were designated in a similar manner—a "12 pounder" would be a cannon that fired a 12-pound (5.4 kg) cannonball; inversely, an individual "12-gauge" shot would in fact be a 1⁄12 pounder. Thus, a 10-gauge shotgun has a larger-diameter barrel than a 12-gauge shotgun, which has a larger-diameter barrel than a 20-gauge shotgun, and so forth.
+
+The most popular shotgun gauge by far is 12-gauge. The larger 10-gauge, once popular for hunting larger birds such as goose and turkey, is on the decline with the advent of the longer, "magnum" 12-gauge cartridges, which offer similar performance. The mid-size 20-gauge is also a very popular chambering for smaller-framed shooters who favor its reduced recoil, those hunting smaller game, and experienced trap and skeet shooters who like the additional challenge of hitting their targets with a smaller shot charge. Other less-common, but commercially available gauges are 16 and 28. Several other gauges may be encountered but are considered obsolete. The 4, 8, 24, and 32 gauge guns are collector items. There are also some shotguns measured by diameter, rather than gauge. These are the .410 (10.4mm), .380 (9mm), and .22 (5.5mm); these are correctly called ".410 bore", not ".410-gauge".
+The .410 bore is the smallest shotgun size which is widely available commercially in the United States. For size comparison purposes, the .410, when measured by gauge, would be around 67- or 68-gauge (it is 67.62-gauge), The .410 is often  mistakenly assigned 36-gauge. The 36 gauge had a 0.506" bore. Reloading components are still available.
+
+Other calibers
+Snake shot (AKA: bird shot, rat shot, and dust shot) refers to handgun and rifle cartridges loaded with small lead shot. Snake shot is generally used for shooting at snakes, rodents, birds, and other pest at very close range. The most common snake shot cartridges are .22 Long Rifle, .22 Magnum, .38 Special, 9×19mm Luger, .40 Smith & Wesson, .44 Special, .45 ACP, and .45 Colt.
+Commonly used by hikers, backpackers and campers, snake shot is ideally suited for use in revolvers and derringers, chambered for .38 Special and .357 Magnum. Snake shot may not cycle properly in semi-automatic pistols. Rifles specifically made to fire .22 caliber snake shot are also commonly used by farmers for pest control inside of barns and sheds, as the snake shot will not shoot holes in the roof or walls, or more importantly injure livestock with a ricochet. They are also used for airport and warehouse pest control. 
+
+Shot shells have also been historically issued to soldiers, to be used in standard issue rifles. The .45-70 "Forager" round, which contained a thin wooden bullet filled with birdshot, was intended for hunting small game to supplement the soldiers' rations. This round in effect made the .45-70 rifle into a small gauge shotgun, capable of killing rabbits, ducks, and other small game.
+During World War II, the United States military developed the .45 ACP M12 and M15 shot cartridge cartridges. They were issued to pilots, to be used as foraging ammunition in the event that they were shot down. While they were best used in the M1917 revolvers, the M15 cartridge would actually cycle the semi-automatic M1911 pistols action.
+
+Garden guns
+Garden guns are smooth-bore firearms specifically made to fire .22 caliber snake shot, and are commonly used by gardeners and farmers for pest control. Garden guns are short-range weapons that can do little harm past 15 to 20 yards, and they are quiet when fired with snake shot, compared to a standard ammunition. These guns are especially effective inside of barns and sheds, as the snake shot will not shoot holes in the roof or walls, or more importantly injure livestock with a ricochet. They are also used for pest control at airports, warehouses, stockyards, etc.
+
+Shotgun gauge diameter formula
+The standard definition of shotgun gauge assumes that a pure lead ball is used. The following formulas relate the bore diameter dn (in inches) to the gauge n:
+
+  
+    
+      
+        
+          d
+          
+            n
+          
+        
+        =
+        1.67
+        
+          /
+        
+        
+          
+            n
+            
+              3
+            
+          
+        
+        =
+        
+          
+            
+              4.66
+              
+                /
+              
+              n
+            
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle d_{n}=1.67/{\sqrt{3}{n}}={\sqrt{3}{4.66/n}}}
+  
+
+  
+    
+      
+        n
+        =
+        (
+        1.67
+        
+          /
+        
+        
+          d
+          
+            n
+          
+        
+        
+          )
+          
+            3
+          
+        
+        =
+        4.66
+        
+          /
+        
+        (
+        
+          d
+          
+            n
+          
+        
+        
+          )
+          
+            3
+          
+        
+      
+    
+    {\displaystyle n=(1.67/d_{n})^{3}=4.66/(d_{n})^{3}}
+  
+
+For example, the common bore diameter dn = 0.410 inches (.410 bore) is effectively gauge n = 67.6 .
+
+Lead free
+By 1957 the ammo industry had the capability of producing a nontoxic shot, made out of either iron or steel. In 1976 the United States Fish and Wildlife Service took the first steps toward phasing out lead shot by designating steel-shot-only hunting zones for waterfowl. In the 1970s lead-free ammunition loaded with steel, bismuth, or tungsten composite pellets instead of more traditional lead-based shot was introduced and required for Migratory [Bird](500) Hunting (Ducks & Geese). Lead shot in waterfowl hunting was banned throughout the United States in 1991.
+
+Due to environmental regulations, lead-loaded ammunition must be used carefully by hunters in Europe. For instance, in France, it cannot be fired in the vicinity of a pond. In fact, the laws are so complex that some hunters in Europe prefer not to risk getting into problems for firing lead pellets in the wrong places, so they opt for composite pellets in all situations. The use of lead shot is banned in Canada and the United States when hunting migratory game birds, such as ducks and geese, forcing the use of non-toxic shot in these countries for waterfowl hunting (lead shot can still legally be used in the United States for hunting game other than waterfowl). This means that manufacturers need to market new types of lead-free shotgun ammunition loaded with alternative pellets to meet environmental restrictions on the use of lead, as well as lead-based and cheaper shotshell ammunition, to remain competitive worldwide.
+The C.I.P. enforces approval of all ammunition a manufacturer or importer intends to sell in any of the (mainly European) C.I.P. member states. The ammunition manufacturing plants are obliged to test their products during production against the C.I.P. pressure specifications. A compliance report must be issued for each production lot and archived for later verification if needed.
+Besides pressure testing, cartridges containing steel pellets require an additional Vickers hardness test. The steel pellets used must have a hardness under 100 HV1, but, even so, steel is known to wear the barrel excessively over time if the steel pellet velocities become too high, leading to potentially harmful situations for the user. As a result, the measurement of pellet velocity is also an additional obligation for cartridges in 12-, 16-, and 20-gauges in both standard and high performance versions sold in Europe. The velocity of pellets must be below 425 m/s (1,390 ft/s), 390 m/s (1,300 ft/s) and 390 m/s (1,300 ft/s) respectively for the standard versions. Another disadvantage of steel pellets is their tendency to ricochet unpredictably after striking any hard surface. This poses a major hazard at indoor ranges or whenever metal targets or hard backstops (e.g. concrete wall vs. a dirt berm) are used. For this reason, steel shot is explicitly banned at most indoor shooting ranges. Any shooters who are considering buying ammo loaded with steel for anything other than hunting purposes should first find out if using it won't cause undue hazard to themselves and others.
+However, data supporting the danger of firing high velocity cartridges loaded with steel shot causing barrel wear has not been published and the US equivalent of CIP, SAAMI, does not have any such restrictive limitations on the velocity of commercial steel shot cartridges sold in the United States. Similarly, shotgun manufacturers selling shotguns in the United States select their own appropriate standards for setting steel hardness for shotgun barrels and for velocities of steel shot ammunition.
+Some indoor shooting ranges prohibit the use of steel shot over concern of it causing a spark when hitting an object down range and causing a fire.
+
+Shot sizes
+Cartridges are loaded with different sizes of shot depending on the target. For skeet shooting, a small shot such as a No. 8 or No. 9 would be used, because range is short and a high density pattern is desirable. Trap shooting requires longer shots, and so a larger shot, usually #7+1⁄2 is used. For hunting game, the range and penetration needed to assure a clean kill is considered.  Shot loses its velocity very quickly due to its low sectional density and ballistic coefficient (see external ballistics). Small shot, like that used for skeet and trap, will have lost all appreciable energy by around 100 yards (91 m), which is why trap and skeet ranges can be located in relatively close proximity to inhabited areas with negligible risk of injury to those outside the range.
+
+[Bird](500)shot
+[Bird](500)shots are designed to be used for waterfowl and upland hunting, where the game is agile small/medium-sized birds.  Their sizes are numbered similarly to the shotgun gauges—the smaller the number, the larger the shot (except in the obsolete Swedish system, in which it is reversed). Generally birdshot is just called "shot", such as "number 9 shot" or "BB shot". 
+To make matters more complex, there are small differences in the size of American, Standard (European), Belgian, Italian, Norwegian, Spanish, Swedish, British, and Australian shot. That is because some systems go by diameter in inches (American), some go by diameter in millimeters (European), and the British system goes by the number of lead shot per ounce. Australia has a hybrid system due to its market being flooded with a mixture of British, American, and European cartridges.
+For American shot, a useful method for remembering the diameter of numbered shot in inches is simply to subtract the shot size from 17. The resulting answer is the diameter of the shot in hundredths of an inch. For example, #2 shot gives 17−2 = 15, meaning that the diameter of #2 shot is 15⁄100 or 0.15 in (3.8 mm). B shot is 0.170 in (4.3 mm), and sizes go up in 0.01 in (0.25 mm) increments for BB and BBB sizes. 
+In metric measurement, it is easy to remember that #5 shot is 3 mm; each number up or down represents a 0.25 mm change in diameter, so e.g. #7 shot is 2.5 mm.
+
+Number 11 and number 12 lead shot also exists. Shot of these sizes is used in specialized cartridges designed to be fired at close range (less than four yards) for killing snakes, rats and similar-sized animals. Such cartridges are typically intended to be fired from handguns, particularly revolvers. This type of ammunition is produced by Federal and CCI, among others.
+
+[Bird](500)shot selection
+For hunting, shot size must be chosen not only for the range, but also for the game. The shot must reach the target with enough energy to penetrate to a depth sufficient to kill the game. Lead shot is still the best ballistic performer, but environmental restrictions on the use of lead, especially with waterfowl, require steel, bismuth, or tungsten composites. Steel, being significantly less dense than lead, requires larger shot sizes, but is a good choice when lead is not legal and cost is a consideration. It is argued that steel shot cannot safely be used in some older shotguns without causing damage to either the bore or to the choke due to the hardness of steel shot. However, the increased pressure in most steel cartridges is a far greater problem, causing more strain to the breech of the gun. Since tungsten is very hard, it must also be used with care in older guns. Tungsten shot is often alloyed with nickel and iron, softening the base metal. That alloy is approximately 1/3 denser than lead, but far more expensive. Bismuth shot falls between steel and tungsten shot in both density and cost. The rule of thumb in converting appropriate steel shot is to go up by two numbers when switching from lead. However, there are different views on dense patterns versus higher pellet energies.
+
+Buckshot
+Larger sizes of shot, large enough that they must be carefully packed into the cartridge rather than simply dumped or poured in, are called "buckshot" or just "buck". Buckshot is used for hunting medium to large game, as a tactical round for law enforcement and military personnel, and for personal self-defense. Buckshot size is most commonly designated by a series of numbers and letters, with smaller numbers indicating larger shot. Sizes larger than "0" are designated by multiple zeros. "00" (usually pronounced "double-aught" in North American English) is the most commonly sold size.
+The British system for designating buckshot size is based on the amount of shot per ounce. The sizes are LG (large grape – from grapeshot derived from musket shooting), MG (medium grape), and SG (small grape). For smaller game, SSG shot is half the weight of SG, SSSG shot is half the weight of SSG, SSSSG shot is half the weight of SSSG, and so on. The Australian system is similar, except that it has 00-SG, a small-game cartridge filled with 00 buckshot.
+Loads of 12-gauge 00 buckshot are commonly available in cartridges holding from 8 (eight) to 18 (eighteen) pellets in standard lengths (2+3⁄4 inches, 3 inches, and 3+1⁄2). Reduced-recoil 00 buckshot is often used in tactical and self-defense rounds, minimizing shooter stress and improving the speed of follow-up shots.
+
+Specialist loads
+Other rounds include:
+
+Ferret rounds: rounds designed to penetrate a thin barrier (e.g. a car door) and release a gas payload.
+Bolo rounds: two large lead balls attached by a wire.
+Piranha rounds: loaded with sharp tacks.
+Dragon's breath rounds: loaded with incendiary chemicals that create a fireball/flame when discharged, and can ignite a flammable target at close range.
+
+Spread and patterning
+Most modern sporting shotguns have interchangeable choke tubes to allow the shooter to change the spread of shot that comes out of the gun.  In some cases, it is not practical to do this; the gun might have fixed choke, or a shooter firing at receding targets may want to fire a wide pattern immediately followed by a narrower pattern out of a single barrelled shotgun.  The spread of the shot can also be altered by changing the characteristics of the cartridge.
+
+Narrower patterns
+A buffering material, such as granulated plastic, sawdust, or similar material can be mixed with the shot to fill the spaces between the individual pellets. When fired, the buffering material compresses and supports the shot, reducing the deformation the shot pellets experience under the extreme acceleration.  Antimony-lead alloys, copper plated lead shot, steel, bismuth, and tungsten composite shot all have a hardness greater than that of plain lead shot, and will deform less as well.  Reducing the deformation will result in tighter patterns, as the spherical pellets tend to fly straighter. One improvised method for achieving the same effect involves pouring molten wax or tar into the mass of shot. Another is a partial ring cut around the case intended to ensure that the shot comes out tightly bunched along with the portion of the case forward of the cut, creating a 'cut-shell'. This can be dangerous, as it is thought to cause higher chamber pressures—especially if part of the cartridge remains behind in the barrel and is not cleared before another shot is fired.
+
+Wider patterns
+Shooting the softest possible shot will result in more shot deformation and a wider pattern. This is often the case with cheap ammunition, as the lead used will have minimal alloying elements such as antimony and be very soft.  Spreader wads are wads that have a small plastic or paper insert in the middle of the shot cup, usually a cylinder or "X" cross-section.  When the shot exits the barrel, the insert helps to push the shot out from the center, opening up the pattern.  Often these result in inconsistent performance, though modern designs are doing much better than the traditional improvised solutions.  Intentionally deformed shot (hammered into ellipsoidal shape) or cubical shot will also result in a wider pattern, much wider than spherical shot, with more consistency than spreader wads.  Spreader wads and non-spherical shot are disallowed in some competitions.  Hunting loads that use either spreaders or non-spherical shot are usually called "brush loads", and are favored for hunting in areas where dense cover keeps shot distances very short.
+
+Spread
+Most shotgun cartridges contain multiple pellets in order to increase the likelihood of a target being hit. A shotgun's shot spread refers to the two-dimensional pattern that these projectiles (or shot) leave behind on a target.  Another less important dimension of spread concerns the length of the in-flight shot string from the leading pellet to the trailing one.  The use of multiple pellets is especially useful for hunting small game such as birds, rabbits, and other animals that fly or move quickly and can unpredictably change their direction of travel. However, some cartridges only contain one metal shot, known as a slug, for hunting large game such as deer.
+As the shot leaves the barrel upon firing, the three-dimensional shot string is close together. But as the shot moves farther away, the individual pellets increasingly spread out and disperse. Because of this, the effective range of a shotgun, when firing a multitude of shot, is limited to approximately 20 to 50 m (22 to 55 yd). To control this effect, shooters may use a constriction within the barrel of a shotgun called a choke. The choke, whether selectable or fixed within a barrel, effectively reduces the diameter of the end of the barrel, forcing the shot even closer together as it leaves the barrel, thereby increasing the effective range.  The tighter the choke, the narrower the end of the barrel. Consequently, the effective range of a shotgun is increased with a tighter choke, as the shot column is held tighter over longer ranges. Hunters or target shooters can install several types of chokes, on guns having selectable chokes, depending on the range at which their intended targets will be located. For fixed choke shotguns, different shotguns or barrels are often selected for the intended hunting application at hand.  From tightest to loosest, the various choke sizes are: full choke, improved modified, modified, improved cylinder, skeet, and cylinder bore.
+A hunter who intends to hunt an animal such as rabbit or grouse knows that the animal will be encountered at a close range—usually within 20 m (22 yd)—and will be moving very quickly. So, an ideal choke would be a cylinder bore (the loosest) as the hunter wants the shot to spread out as quickly as possible. If this hunter were using a full choke (the tightest) at 20 m (22 yd), the shot would be very close together and cause an unnecessarily large amount of damage to the rabbit, or, alternatively, a complete miss of the rabbit. This would waste virtually all of the meat for a hit, as the little amount of meat remaining would be overly-laden with shot and rendered inedible. By using a cylinder bore, this hunter would maximize the likelihood of a kill, and maximize the amount of edible meat. Contrarily, a hunter who intends to hunt geese knows that a goose will likely be approximately 50 m (55 yd) away, so that hunter would want to delay the spread of the shot as much as possible by using a full choke. By using a full choke for targets that are farther away, the shooter again maximizes the likelihood of a kill, and maximizes the amount of edible meat. This also maximizes the chances of a swift and humane kill as the target would be hit with enough shot to kill quickly instead of only wounding the animal.
+For older shotguns having only one fixed choke, intended primarily for equally likely use against rabbits, squirrels, quail, doves, and pheasant, an often-chosen choke is the improved cylinder, in a 28 inches (710 mm) barrel, making the shotgun suitable for use as a general all-round hunting shotgun, without having excess weight.  Shotguns having fixed chokes intended for geese, in contrast, are often found with full choke barrels, in longer lengths, and are much heavier, being intended for fixed use within a blind against distant targets.  Defensive shotguns with fixed chokes generally have a cylinder bore choke.  Likewise, shotguns intended primarily for use with slugs invariably also are found with a choke that is a cylinder bore.
+
+Dram equivalence
+"Dram" equivalence is sometimes still used as a measure of the powder charge power in a cartridge.  Today, it is an anachronistic equivalence that represents the equivalent power of a cartridge containing this equivalent amount of black-powder measured in drams avoirdupois.  A dram in the avoirdupois system is the mass of 1⁄256 pound or 1⁄16 ounce or 27.3 grains.  The reasoning behind this archaic equivalence is that when smokeless powder first came out, some method of establishing an equivalence with common loads was needed in order to sell a box of cartridges.  For example, a cartridge containing a 3 or 3 1/2 dram load of black-powder was a common hunting field load, and a heavy full power load would have contained about a 4 to 4-1/2 dram load, whereas a cartridge containing only a 2 dram load of black-powder was a common target practice load. A hunter looking for a field or full power load familiar with black-powder shotgun loads would have known exactly what the equivalence of the cartridges would have been in the newly introduced smokeless powder.  Today, however, this represents a poorly understood equivalence of the powder charge power in a cartridge.  To further complicate matters, "dram" equivalence was only defined for 12 gauge cartridges, and only for lead shot, although it has often been used for describing other gauges of shells, and even steel shot loads. Furthermore, "dram" equivalence only came around about 15 years after smokeless powder had been introduced, long after the need for an equivalence had started to fade, and actual black-powder loaded shotshells had largely vanished.  In practice, "dram" equivalence today most commonly equates just to a velocity rating equivalence in fps (feet-per-second), while assuming lead shot.
+A secondary impact of this equivalence was that common cartridges needed to stay the same size, physically, e.g., 2-1/2 or 2-3/4-inch shells, in order to be used in pre-existing shotguns when smokeless powder started being in the place of black-powder.  As smokeless powder did not have to be loaded in the same volume as black-powder to achieve the same power, being more powerful, the volumes of wads had to increase, to fill the cartridge enough to permit proper crimps still to be made.  Initially, this meant that increased numbers of over powder card wads had to be stacked to achieve the same stack-up length.  Eventually, this also led to the introduction of one-piece plastic wads in the late 1950s through the early 1960s, to add additional wad volumes, in order to maintain the same overall cartridge length.
+Dram equivalence has no bearing on the reloading of cartridges with smokeless powder; loading a cartridge with an equivalent dram weight of smokeless powder would cause a shotgun to explode.  It only has an equivalence in reloading with black powder.
+
+See also
+Gauges
+2 bore
+4 bore
+6 bore
+8 bore
+20-gauge shotgun
+.410 bore
+Breaching round
+Lead shot
+Snake shot
+Shotgun slug
+Shrapnel shell
+Rifle cartridge
+
+References
+External links
+
+Goodwyn, Kendall W. (October 1951). "How They Make Shotgun Shells". Popular Science Monthly. 159 (4): 170–174.

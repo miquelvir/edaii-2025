@@ -1,0 +1,98 @@
+4688
+Cent (currency)
+The cent is a monetary unit of many national currencies that equals a hundredth (1⁄100) of the basic monetary unit. The word derives from the Latin centum, 'hundred'.
+The cent sign is commonly a simple minuscule (lower case) letter c. In North America, the c is crossed by a diagonal or vertical stroke (depending on typeface), yielding the character ¢.
+The United States one cent coin is generally known by the nickname "penny", alluding to the British coin and unit of that name. Australia ended production of their 1c coin in 1990, New Zealand last produced their 1c coin in 1988, as did Canada in 2012. Some Eurozone countries ended production of the 1 euro cent coin, most recently Slovakia in 2022.
+
+Symbol
+The cent may be represented by the cent sign, written in various ways according to the national convention and font choice. Most commonly seen forms are a minuscule letter c crossed by a diagonal stroke, a vertical line, a simple c, depending on the currency (see below). Cent amounts from 1 to 99 can be represented as one or two digits followed by the appropriate abbreviation (2¢, 5c, 75¢, 99c), or as a subdivision of the base unit ($0.75, €0.99). In some countries, longer abbreviations like "ct." are used. Languages that use other alphabets have their own abbreviations and conventions.
+The cent symbol has largely fallen into disuse since the mid-20th century as inflation has resulted in very few things being priced in cents in any currency. It was included on US typewriter keyboards, but has not been adopted on computers.
+
+North American cent sign
+The cent sign appeared as the shift of the 6 keys on American manual typewriters, but the freestanding circumflex on computer keyboards has taken over that position. The character (offset 162) can still be created in most common code pages, including Unicode and Windows-1252:
+
+On DOS- or Windows-based computers with a numeric keypad, Alt can be held while typing 0162 or 155 on the keypad. See Unicode input § In Microsoft Windows for techniques involving the hexadecimal code point A2 that can be used when there is no numeric keypad, as on many laptops. For the US International keyboard Right Alt⇧ ShiftC can be typed.
+On Mac systems, ⌥ Option can be held and 4 on the number row pressed.
+On Unix/Linux systems with a compose key, Compose+|+C and Compose+/+C are typical sequences.
+
+Orthography
+When written in English and Mexican Spanish, the cent sign (¢ or c) follows the amount (with no space between)—for example, 2¢ and $0.02, or 2c and €0.02. Conventions in other languages may vary.
+
+Usage
+Minor currency units called cent or similar names
+Examples of currencies around the world featuring centesimal (1⁄100) units called cent, or related words from the same root such as céntimo, centésimo, centavo or sen, are:
+
+Argentine peso (as centavo)
+Aruban florin, but all circulating coins are in multiples of 5 cents.
+Australian dollar, but all circulating coins are in multiples of 5 cents.
+Barbadian dollar
+Bahamian dollar, but all circulating coins are in multiples of 5 cents.
+Belize dollar
+Bermudian dollar
+Bolivian boliviano (as centavo), but all circulating coins are in multiples of 10 centavos
+Brazilian real (as centavo)
+Brunei dollar (as sen)
+Cambodian riel (as sen)
+Canadian dollar
+Cayman Islands dollar
+Chilean peso (as centavo). Centavos officially exist and are considered in financial transactions, but there are no current centavo-denominated coins.
+Colombian peso (as centavo)
+Cook Islands dollar (cent, although some 50 cent coins are marked "50 tene")
+Cuban peso (as centavo)
+East Caribbean dollar, but all circulating coins are in multiples of 5 cents.
+Eritrean nakfa
+Estonian kroon (as sent)
+Ethiopian birr (as santim)
+Euro – the coins bear the text "euro cent". Greek coins have ΛΕΠΤΟ ("lepto") on the obverse of the one-cent coin and ΛΕΠΤΑ ("lepta") on the obverse of the others. The actual usage varies depending on the language.
+Fijian dollar
+Guyanese dollar, but there are no circulating coins with a value below one dollar.
+Hong Kong dollar, but all circulating coins are in multiples of 10 cents.
+Indonesian rupiah (as sen; last coin minted was 50 cents in 1961, last cents printed as banknotes in 1964 which were demonetized in 1996 save for the 1 cent)
+Jamaican dollar, but there are no circulating coins with a value below one dollar.
+Kenyan shilling
+Lesotho loti (as sente)
+Liberian dollar
+Lithuanian litas (as centas)
+Macanese pataca (as avo), but all circulating coins are in multiples of 10 avos.
+Malaysian ringgit (as sen), but all circulating coins are in multiples of 5 sen.
+Mauritian rupee
+Mexican peso (as centavo)
+Moroccan dirham (as santim)
+Namibian dollar
+Netherlands Antillean guilder
+New Zealand dollar, but all circulating coins are in multiples of 10 cents.
+Panamanian balboa (as centésimo)
+Peruvian sol (as céntimo)
+Philippine peso (as sentimo or centavo)
+Seychellois rupee
+Sierra Leonean leone
+Singapore dollar, but all circulating coins are in multiples of 5 cents.
+South African rand, but all circulating coins are in multiples of 10 cents.
+Sri Lankan rupee
+Surinamese dollar
+Swazi lilangeni
+New Taiwan dollar, but all circulating coins are in multiples of 50 cents.
+Tanzanian shilling
+Tongan paʻanga (as seniti)
+Trinidad and Tobago dollar
+United States dollar
+Uruguayan peso (as centésimo)
+Zimbabwean ZiG
+
+Minor currency units with other names
+Examples of currencies featuring centesimal (1⁄100) units not called cent
+
+Obsolete centesimal currency units
+Examples of currencies which formerly featured centesimal (1⁄100) units but now have no fractional denomination in circulation:
+
+Examples of currencies which use the cent symbol for other purposes:
+
+Costa Rican colón – The common symbol '¢' is frequently used locally to represent '₡', the proper colón designation
+Ghanaian cedi – The common symbol '¢' is sometimes used to represent '₵', the proper cedi designation
+
+See also
+
+Cent (music)
+
+
+== References ==

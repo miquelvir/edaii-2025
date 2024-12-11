@@ -1,0 +1,26 @@
+2037
+Australian Rugby League (video game)
+[Australia](1659)n Rugby League is a 1995 rugby league video game developed by I-Space Interactive and published by EA's EA Sports label for the Mega Drive only in [Europe](1994)an and [Australia](1659)n markets. It is based on Rugby World Cup '95 by Creative Assembly, but using the rugby league rules instead of rugby union.
+In addition to the league that names the game, the [Australia](1659)n Rugby League, the game also includes the State of Origin, Super League (eleven English teams plus one French) and international mode. While the ARL has all correct team names, player names are fictitious.
+
+Gameplay
+Due to the limitations of the console, ARL presents a simplified version of the game, yet allowing a wide variety of moves. Running is done with the C button, and while holding allows a player to accelerate, while it is mashed, it allows to break a tackle. Passing is done by pressing the B button with a direction; if no direction is entered, the player fakes a pass. the A button, if pressed inside the try area (or in jump distance), grounds the ball, if far and pressed in combination of the direction of the attack attempts a drop goal or kicks for touch, if pressed in combination with a direction against the attack, performs a grubber kick. The A and B buttons pressed at the same time perform a bomb kick (referred as "Up and Under" in the manual), and an A plus C combination is mostly a defensive kick, which clears the ball as far away as possible into touch. Without the ball, controls are simpler: the A button tackles, the B changes player and C increases player speed.
+The game has a few criticisms; it is very undisciplined as far as tactics go, it is very hard to pull good kicks during play (which forces players to, and the lack of a difficulty level slider makes the game too easy for expert players. There are also some bugs regarding ball possession (occasionally, the ball can change from one team to another in the middle of a play for no reason at all) and the engine often flickers players when there are too many of them in an area. The lack of physical difference between forwards and backs is also often mentioned.
+ARL allows several options to be tweaked, such as half length (from two minutes to 40), temperature (hot temperatures wear out the players quicker, while colder affects ball handling) and pitch condition (a dry pitch hurts tackled players more and bounces the ball more, while drenched affects running).
+
+Teams and leagues
+All game modes output a Password which allows the player to play a league in several sittings. Each player is individualized, and is rated in each key aspect of the game.
+The [Australia](1659)n Rugby league is a 20 team competition composed by a 20 team league, then followed by an eight team playoff, which is far from being straight forward. There are two sets of quarter finals, where the winners of the "major" quarterfinals go through the semi-finals, while the winners of the "minor" quarterfinals have to play against the losers of the "majors", and only then the remaining two semi-finalists are known. It is also possible to start from the playoffs.
+State of Origin is a three match series between New South Wales Rugby League and Queensland Rugby League, where the winner is the first team to win two matches. Even if a team beats the other in the first two matches, the third is always played.
+[Europe](1994)an leagues are unlicensed, which means they only carry the city name and a patterned flag, which in most cases fits the actual equipments of the teams. After the all vs all league, the best four teams enter a playoff to determine the champions.
+The International tournament is a one-legged eight team knockout competition. While the focus of RWC'95 was on national teams, ARL downplays it to the point of only including eight teams.
+
+See also
+Rugby League (video game series)
+
+References
+[Australia](1659)n Rugby League manual
+
+External links
+ARL at The Genesis Project
+ARL at Genesis Collective

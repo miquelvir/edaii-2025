@@ -1,0 +1,64 @@
+174
+Aspartic acid
+[Aspartic acid](174) (symbol Asp or D; the ionic form is known as aspartate), is an α-amino acid that is used in the biosynthesis of proteins. The L-isomer of aspartic acid is one of the 22 proteinogenic amino acids, i.e., the building blocks of proteins. 
+D-aspartic acid is one of two D-amino acids commonly found in mammals. Apart from a few rare exceptions, D-aspartic acid is not used for protein synthesis but is incorporated into some peptides and plays a role as a neurotransmitter/neuromodulator.
+Like all other amino acids, aspartic acid contains an amino group and a carboxylic acid. Its α-amino group is in the protonated –NH+3 form under physiological conditions, while its α-carboxylic acid group is deprotonated −COO− under physiological conditions. [Aspartic acid](174) has an acidic side chain (CH2COOH) which reacts with other amino acids, enzymes and proteins in the body. Under physiological conditions (pH 7.4) in proteins the side chain usually occurs as the negatively charged aspartate form, −COO−. It is a non-essential amino acid in humans, meaning the body can synthesize it as needed. It is encoded by the codons GAU and GAC.
+In proteins aspartate sidechains are often hydrogen bonded to form asx turns or asx motifs, which frequently occur at the N-termini of alpha helices.
+[Aspartic acid](174), like glutamic acid, is classified as an acidic amino acid, with a pKa of 3.9; however, in a peptide this is highly dependent on the local environment, and could be as high as 14.
+The one-letter code D for aspartate was assigned arbitrarily, with the proposed mnemonic asparDic acid.
+
+Discovery
+[Aspartic acid](174) was first discovered in 1827 by Auguste-Arthur Plisson and Étienne Ossian Henry by hydrolysis of asparagine, which had been isolated from asparagus juice in 1806. Their original method used lead hydroxide, but various other acids or bases are now more commonly used instead.
+
+Forms and nomenclature
+There are two forms or enantiomers of aspartic acid. The name "aspartic acid" can refer to either enantiomer or a mixture of two. Of these two forms, only one, "L-aspartic acid", is directly incorporated into proteins. The biological roles of its counterpart, "D-aspartic acid" are more limited. Where enzymatic synthesis will produce one or the other, most chemical syntheses will produce both forms, "DL-aspartic acid", known as a racemic mixture.
+
+Synthesis
+Biosynthesis
+In the human body, aspartate is most frequently synthesized through the transamination of oxaloacetate. The biosynthesis of aspartate is facilitated by an aminotransferase enzyme: the transfer of an amine group from another molecule such as alanine or glutamine yields aspartate and an alpha-keto acid.
+
+Chemical synthesis
+Industrially, aspartate is produced by amination of fumarate catalyzed by L-aspartate ammonia-lyase.
+Racemic aspartic acid can be synthesized from diethyl sodium phthalimidomalonate,
+(C6H4(CO)2NC(CO2Et)2).
+
+Metabolism
+In plants and microorganisms, aspartate is the precursor to several amino acids, including four that are essential for humans: methionine, threonine, isoleucine, and lysine. The conversion of aspartate to these other amino acids begins with reduction of aspartate to its "semialdehyde", O2CCH(NH2)CH2CHO.  Asparagine is derived from aspartate via transamidation:
+
+−O2CCH(NH2)CH2CO2−  +  GC(O)NH3+  → O2CCH(NH2)CH2CONH3+  +  GC(O)O
+(where GC(O)NH2 and GC(O)OH are glutamine and glutamic acid, respectively)
+
+Other biochemical roles
+Aspartate has many other biochemical roles. It is a metabolite in the urea cycle and participates in gluconeogenesis. It carries reducing equivalents in the malate-aspartate shuttle, which utilizes the ready interconversion of aspartate and oxaloacetate, which is the oxidized (dehydrogenated) derivative of malic acid. Aspartate donates one nitrogen atom in the biosynthesis of inosine, the precursor to the purine bases. In addition, aspartic acid acts as a hydrogen acceptor in a chain of ATP synthase. Dietary L-aspartic acid has been shown to act as an inhibitor of Beta-glucuronidase, which serves to regulate enterohepatic circulation of bilirubin and bile acids.
+
+Interactive pathway map
+Click on genes, proteins and metabolites below to link to respective articles.
+
+Neurotransmitter
+Aspartate (the conjugate base of aspartic acid) stimulates NMDA receptors, though not as strongly as the amino acid neurotransmitter L-glutamate does.
+
+Applications & market
+In 2014, the global market for aspartic acid was 39.3 thousand short tons (35.7 thousand tonnes) or about $117 million annually. The three largest market segments include the U.S., Western Europe, and China. Current applications include biodegradable polymers (polyaspartic acid), low calorie sweeteners (aspartame), scale and corrosion inhibitors, and resins.
+
+Superabsorbent polymers
+One area of aspartic acid market growth is biodegradable superabsorbent polymers (SAP), and hydrogels. Around 75% of superabsorbent polymers are used in disposable diapers and an additional 20% is used for adult incontinence and feminine hygiene products. Polyaspartic acid, the polymerization product of aspartic acid, is a biodegradable substitute to polyacrylate.
+
+Additional uses
+In addition to SAP, aspartic acid has applications in the fertilizer industry, where polyaspartate improves water retention and nitrogen uptake.
+
+Sources
+Dietary sources
+[Aspartic acid](174) is not an essential amino acid, which means that it can be synthesized from central metabolic pathway intermediates in humans, and does not need to be present in the diet. In eukaryotic cells, roughly 1 in 20 amino acids incorporated into a protein is an aspartic acid, and accordingly almost any source of dietary protein will include aspartic acid. Additionally, aspartic acid is found in:
+
+Dietary supplements, either as aspartic acid itself or salts (such as magnesium aspartate)
+The sweetener aspartame, which is made from an aspartic acid and phenylalanine
+
+See also
+Aspartate transaminase
+Polyaspartic acid
+Sodium polyaspartate, a synthetic polyamide
+
+References
+External links
+GMD MS Spectrum
+American Chemical Society (21 April 2010). "Ancestral Eve' Crystal May Explain Origin of Life's Left-Handedness". ScienceDaily. Archived from the original on 23 April 2010. Retrieved 2010-04-21.

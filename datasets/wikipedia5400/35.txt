@@ -1,0 +1,35 @@
+35
+Breed
+A breed is a specific group of breedable domestic animals having homogeneous appearance (phenotype), homogeneous behavior, and/or other characteristics that distinguish it from other organisms of the same species. In literature, there exist several slightly deviating definitions. Breeds are formed through genetic isolation and either natural adaptation to the environment or selective breeding, or a combination of the two. Despite the centrality of the idea of "breeds" to animal husbandry and agriculture, no single, scientifically accepted definition of the term exists.: 340  A breed is therefore not an objective or biologically verifiable classification but is instead a term of art amongst groups of breeders who share a consensus around what qualities make some members of a given species members of a nameable subset.
+Another point of view is that a breed is consistent enough in type to be logically grouped together and when mated within the group produce the same type. When bred together, individuals of the same breed pass on these predictable traits to their offspring, and this ability – known as "breeding true" – is a requirement for a breed. Plant breeds are more commonly known as cultivars. The offspring produced as a result of breeding animals of one breed with other animals of another breed are known as crossbreeds or mixed breeds. Crosses between animal or plant variants above the level of breed/cultivar (i.e. between species, subspecies, botanical variety, even different genera) are referred to as hybrids.
+
+Breeding: selection by breeders
+The breeder (or group of breeders) who initially establishes a breed does so by selecting individual animals from within a gene pool that they see as having the necessary qualities needed to enhance the breed model they are aiming for. These animals are referred to as foundation stock. Furthermore, the breeder mates the most desirable representatives of the breed from his or her point of view, aiming  to pass such characteristics to their progeny. This process is known as selective breeding. A written description of desirable and undesirable breed representatives is referred to as a breed standard.
+
+Breed characteristics
+Breed specific characteristics, also known as breed traits, are inherited, and purebred animals pass such traits from generation to generation. Thus, all specimens of the same breed carry several genetic characteristics of the original foundation animal(s). In order to maintain the breed, a breeder would select those animals with the most desirable traits to achieve further maintenance and developing of such traits. At the same time, the breed would avoid animals carrying characteristics undesirable or not typical for the breed, including faults or genetic defects. The population within the same breed should consist of a sufficient number of animals to maintain the breed within the specified parameters without the necessity of forced inbreeding.
+Domestic animal breeds commonly differ from country to country, and from nation to nation. Breeds originating in a certain country are known as "native breeds" of that country.
+
+Lists of breeds
+See also
+[Cultivar](96)
+Landrace
+Plant variety (disambiguation)
+Purebred
+Race (biology)
+Selective breeding
+Subspecies
+Strain (biology)
+Animal Genetic Resources for Food and Agriculture
+
+References
+Further reading
+FAO. 2007. The Global Plan of Action for Animal Genetic Resources and the Interlaken Declaration. Rome.
+FAO. 2012. Phenotypic characterization of animal genetic resources. FAO Animal Production and Health Guidelines No. 11. Rome.
+FAO. 2015. The Second Report on the State of the World's Animal Genetic Resources for Food and Agriculture. Rome. Archived 2018-09-18 at the Wayback Machine
+
+External links
+Commission on Genetic Resources for Food and Agriculture - Food and Agriculture Organization of the United Nations
+Domestic Animal Diversity Information System
+Implementing the Global Plan of Action for Animal Genetic Resources
+Breeds of Livestock - Oklahoma State University

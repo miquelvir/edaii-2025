@@ -1,0 +1,45 @@
+3653
+Becquerel
+The becquerel (; symbol: Bq) is the unit of radioactivity in the International System of Units (SI). One becquerel is defined as an activity of one per second, on average, for aperiodic activity events referred to a radionuclide. For applications relating to human health this is a small quantity, and SI multiples of the unit are commonly used.
+The becquerel is named after Henri Becquerel, who shared a Nobel Prize in Physics with Pierre and Marie  Curie in 1903 for their work in discovering radioactivity.
+
+Definition
+1 Bq = 1 s−1
+A special name was introduced for the reciprocal second (s−1) to represent radioactivity to avoid potentially dangerous mistakes with prefixes. For example, 1 μs−1 would mean 106 disintegrations per second: (10−6 s)−1 = 106 s−1, whereas 1 μBq would mean 1 disintegration per 1 million seconds. Other names considered were hertz (Hz), a special name already in use for the reciprocal second (for periodic events of any kind), and fourier (Fr; after Joseph Fourier). The hertz is now only used for periodic phenomena. While 1 Hz replaces the deprecated term cycle per second, 1 Bq refers to one event per second on average for aperiodic radioactive decays.
+The gray (Gy) and the becquerel (Bq) were introduced in 1975. Between 1953 and 1975, absorbed dose was often measured with the rad. Decay activity was given with the curie before 1946 and often with the rutherford between 1946 and 1975.
+
+Unit capitalization and prefixes
+As with every International System of Units (SI) unit named after a person, the first letter of its symbol is uppercase (Bq). However, when an SI unit is spelled out in English, it should always begin with a lowercase letter (becquerel)—except in a situation where any word in that position would be capitalized, such as at the beginning of a sentence or in material using title case.
+Like any SI unit, Bq can be prefixed; commonly used multiples are kBq (kilobecquerel, 103 Bq), MBq (megabecquerel, 106 Bq, equivalent to 1 rutherford), GBq (gigabecquerel, 109 Bq), TBq (terabecquerel, 1012 Bq), and PBq (petabecquerel, 1015 Bq). Large prefixes are common for practical uses of the unit.
+
+Examples
+For practical applications, 1 Bq is a small unit. For example, there is roughly 0.017 g of potassium-40 in a typical human body, producing about 4,400 decays per second (Bq).
+The activity of radioactive americium in a home smoke detector is about 37 kBq (1 μCi).
+The global inventory of carbon-14 is estimated to be 8.5×1018 Bq (8.5 EBq, 8.5 exabecquerel).
+These examples are useful for comparing the amount of activity of these radioactive materials, but should not be confused with the amount of exposure to ionizing radiation that these materials represent. The level of exposure and thus the absorbed dose received are what should be considered when assessing the effects of ionizing radiation on humans.
+
+Relation to the curie
+The becquerel succeeded the curie (Ci), an older, non-SI unit of radioactivity based on the activity of 1 gram of radium-226. The curie is defined as 3.7×1010 s−1, or 37 GBq.
+Conversion factors:
+
+1 Ci = 3.7×1010 Bq = 37 GBq
+1 μCi = 37000 Bq = 37 kBq
+1 Bq = 2.7×10−11 Ci = 2.7×10−5 μCi
+1 MBq = 0.027 mCi
+
+Relation to other radiation-related quantities
+The following table shows radiation quantities in SI and non-SI units. WR (formerly 'Q' factor) is a factor that scales the biological effect for different types of radiation, relative to x-rays (e.g. 1 for beta radiation, 20 for alpha radiation, and a complicated function of energy for neutrons). In general, conversion between rates of emission, the density of radiation, the fraction absorbed, and the biological effects, requires knowledge of the geometry between source and target, the energy and the type of the radiation emitted, among other factors.
+
+See also
+Background radiation
+[Banana equivalent dose](2946)
+Counts per minute
+Ionizing radiation
+Orders of magnitude (radiation)
+Radiation poisoning
+Relative biological effectiveness
+
+References
+External links
+
+Derived units on the International Bureau of Weights and Measures (BIPM) web site

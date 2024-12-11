@@ -1,0 +1,32 @@
+4117
+Alexandre Chorin
+Alexandre Joel Chorin (born 25 June 1938) is an American mathematician known for his contributions to computational fluid mechanics, turbulence, and computational statistical mechanics.
+Chorin's work involves developing methods for solving physics and fluid mechanics problems computationally. His early work introduced several widely used numerical methods for solving the Navier-Stokes equations, including the method of artificial compressibility, the projection method, and vortex methods. He has made numerous contributions to turbulence theory. In recent years he has been developing methods for prediction in the face of uncertainty  and for filtering and data assimilation.
+
+Early life
+Chorin was born on 25 June 1938 in Warsaw, Poland. Born just one year before Hitler's invasion, his family fled Poland through Lithuania and Russia before spending 10 years living in Israel and 11 years living in Switzerland. Chorin came to the United States at 23 for graduate studies, nurturing his interest in fluid dynamics by working on the equations responsible for predicting ocean tides.
+
+Career
+Chorin is a University Professor at the University of California, a Professor of Mathematics at the University of California, Berkeley, and a Senior Scientist at the Lawrence Berkeley National Laboratory. 
+Chorin received the Ing. Dipl. Physics degree from the EPFL (École Polytechnique Fédérale de Lausanne) in 1961, an M.S. in Mathematics from New York University in 1964, and a PhD in Mathematics from New York University in 1966. Chorin stayed at New York University as a researcher at the Courant Institute of Mathematical Sciences until 1969 when he was promoted to assistant professor and then associate professor the following year.
+Chorin is widely recognized for his mentoring of graduate students and postdoctoral fellows, many of whom have become nationally and internationally recognized scientists in their own right. In 2008 he was honored with the Sarlo mentoring award by the University of California, Berkeley.
+
+Awards
+Chorin's awards include the National Academy Award in Applied Mathematics and Numerical Analysis (1989), the Norbert Wiener Prize of the American Mathematical Society and the Society for Industrial and Applied Mathematics (2000), the Lagrange Prize of the International Council on Industrial and Applied Mathematics (2011) and the National Medal of Science (2012). He is a member of the US National Academy of Sciences and a fellow of the [American Academy of Arts and Sciences](3132), the Society for Industrial and Applied Mathematics, and the American Mathematical Society.
+
+Journal publications
+Chorin, A. J. (1967). "A numerical method for solving incompressible viscous flow problems". Journal of Computational Physics. 2 (1): 12–26. Bibcode:1967JCoPh...2...12C. doi:10.1016/0021-9991(67)90037-X.
+Chorin, A. J. "A numerical method for solving incompressible viscous flow problems" J. Comput. Phys. 2 (1967), pp. 12-26.
+Chorin, A. J. Numerical solution of the Navier-Stokes equations Math. Comp. 22 (1968) pp. 745-762
+Chorin, A. J., Numerical study of slightly viscous flow, J. Fluid. Mech. 57 (1973), pp. 785-796.
+Chorin, A.J., Hald, O.H., and Kupferman, R., Optimal prediction and the Mori-Zwanzig representation of irreversible processes, Proc. Natl. Acad. Sci. USA 97 (2000), pp. 2968–2973.
+Chorin, A.J. and Tu, X., Implicit sampling for particle filters, Proc. Natl. Acad. Sci. USA 106 (2009), pp. 17249–17254.
+
+Books authored
+Chorin, Alexandre J.; Marsden, Jerrold E. (1993). A Mathematical Introduction to Fluid Mechanics. Texts in Applied Mathematics. Vol. 4 (3rd ed.). New York: Springer Verlag. ISBN 0387979182.
+Chorin, A. J., "Vorticity and Turbulence", Springer-Verlag (1994).
+Chorin, A.J. and O.H. Hald, "Stochastic Tools in Mathematics and Science", Springer-Verlag,  3rd ed., (2013).
+
+References
+External links
+Alexandre Chorin at the Mathematics Genealogy Project

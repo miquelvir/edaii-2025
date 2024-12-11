@@ -1,0 +1,71 @@
+670
+Computational engineering
+Computational Engineering is an emerging discipline that deals with the development and application of computational models for engineering, known as Computational Engineering Models or CEM. Computational engineering uses computers to solve engineering design problems important to a variety of industries. At this time, various different approaches are summarized under the term Computational Engineering, including using computational geometry and virtual design for engineering tasks, often coupled with a simulation-driven approach In Computational Engineering, algorithms solve mathematical and logical models that describe engineering challenges, sometimes coupled with some aspect of AI, specifically Reinforcement Learning.
+In Computational Engineering the engineer encodes their knowledge using logical structuring. The result is an algorithm, the Computational Engineering Model, that can produce many different variants of engineering designs, based on varied input requirements. The results can then be analyzed through additional mathematical models to create algorithmic feedback loops.
+Simulations of physical behaviors relevant to the field, often coupled with high-performance computing, to solve complex physical problems arising in engineering analysis and design (as well as natural phenomena (computational science). It is therefore related to Computational Science and Engineering, which has been described as the "third mode of discovery" (next to theory and experimentation).
+In Computational Engineering, computer simulation provides the capability to create feedback that would be inaccessible to traditional experimentation or where carrying out traditional empirical inquiries is prohibitively expensive.
+Computational Engineering should neither be confused with pure computer science, nor with computer engineering, although a wide domain in the former is used in Computational Engineering (e.g., certain algorithms, data structures, parallel programming, high performance computing) and some problems in the latter can be modeled and solved with Computational Engineering methods (as an application area).
+It is typically offered as a masters or doctorate program.
+
+Methods
+Computational Engineering methods and frameworks include:
+
+High performance computing and techniques to gain efficiency (through change in computer architecture, parallel algorithms etc.)
+Modeling and simulation
+[Algorithm](612)s for solving discrete and continuous problems
+Analysis and visualization of data
+Mathematical foundations: Numerical and applied linear algebra, initial & boundary value problems, Fourier analysis, optimization
+Data Science for developing methods and algorithms to handle and  extract  knowledge from large scientific data
+With regard to computing, computer programming, algorithms, and parallel computing play a major role in Computational Engineering. The most widely used programming language in the scientific community is FORTRAN. Recently, [C++](640) and C have increased in popularity over FORTRAN. Due to the wealth of legacy code in FORTRAN and its simpler syntax, the scientific computing community has been slow in completely adopting [C++](640) as the lingua franca. Because of its very natural way of expressing mathematical computations, and its built-in visualization capacities, the proprietary language/environment MATLAB is also widely used, especially for rapid application development and model verification. Python along with external libraries (such as NumPy, SciPy, Matplotlib) has gained some popularity as a free and Copycenter alternative to MATLAB.
+
+Open Source Movement
+There are a number of Free and Open-Source Software (FOSS) tools that support Computational Engineering. 
+
+OpenSCAD was released in 2010 and allows the scripted generation of CAD models, which can form the basis for Computational Engineering Models.
+CadQuery uses Python to generate CAD models and is based on the OpenCascade framework. It is released under the Apache 2.0 Open-Source License.
+PicoGKis an open-source framework for Computational Engineering which was released under the Apache 2.0 Open-Source License in 2023 by LEAP 71, a Dubai-based company.
+
+Applications
+Computational Engineering finds diverse applications, including in:
+
+Aerospace Engineering and Mechanical Engineering: combustion simulations, structural dynamics, computational fluid dynamics, computational thermodynamics, computational solid mechanics, vehicle crash simulation, biomechanics, trajectory calculation of satellites
+Astrophysical systems
+Battlefield simulations and military gaming, homeland security, emergency response
+Biology and Medicine: protein folding simulations (and other macromolecules), bioinformatics, genomics, computational neurological modeling, modeling of biological systems (e.g., ecological systems), 3D CT ultrasound, MRI imaging, molecular bionetworks, cancer and seizure control
+Chemistry: calculating the structures and properties of chemical compounds/molecules and solids, computational chemistry/cheminformatics, molecular mechanics simulations, computational chemical methods in solid state physics, chemical pollution transport
+Civil Engineering: finite element analysis, structures with random loads, construction engineering, water supply systems, transportation/vehicle modeling
+Computer Engineering, Electrical Engineering, and Telecommunications: VLSI, computational electromagnetics, semiconductor modeling, simulation of microelectronics, energy infrastructure, RF simulation, networks
+Epidemiology: influenza spread
+Environmental Engineering and Numerical weather prediction: climate research, Computational geophysics (seismic processing), modeling of natural disasters
+Finance: derivative pricing, risk management
+Industrial Engineering: discrete event and Monte-Carlo simulations (for logistics and manufacturing systems for example), queueing networks, mathematical optimization
+Material Science: glass manufacturing, polymers, and crystals
+Nuclear Engineering: nuclear reactor modeling, radiation shielding simulations, fusion simulations
+Petroleum engineering: petroleum reservoir modeling, oil and gas exploration
+Physics: Computational particle physics, automatic calculation of particle interaction or decay, plasma modeling, cosmological simulations
+Transportation
+
+See also
+Modeling and simulation
+Applied mathematics
+Computational science
+[Computational mathematics](672)
+Computational fluid dynamics
+Computational electromagnetics
+High-performance computing
+Engineering mathematics
+Grand Challenges
+Numerical analysis
+Multiphysics
+
+References
+External links
+Oden Institute for Computational Engineering and Sciences
+Scope of Computational engineering
+Society of Industrial and Applied Mathematics
+International Centre for Computational Engineering (IC2E)
+Georgia Institute of Technology, USA, MS/PhD Programme Computational Science & Engineering
+The graduate program for the University of Tennessee at Chattanooga
+Master and PhD Program in Computational Modeling at Rio de Janeiro State University
+Computational Science and Engineering with Scilab
+Internacional Center for Numerical Methods in Engineering (CIMNE)

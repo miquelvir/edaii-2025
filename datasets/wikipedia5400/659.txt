@@ -1,0 +1,32 @@
+659
+Compatibility mode
+A compatibility mode is a software mechanism in which a software either emulates an older version of software, or mimics another operating system in order to allow older or incompatible software or files to remain compatible with the computer's newer hardware or software. Examples of the software using the mode are operating systems and Internet Explorer.
+
+Operating systems
+A compatibility mode in an operating system is a software mechanism in which a computer's operating system emulates an older processor, operating system, and/or hardware platform in order to allow older software to remain compatible with the computer's newer hardware or software.
+This differs from a full-fledged emulator in that an emulator typically creates a virtual hardware architecture on the host system, rather than simply translating the older system's function calls into calls that the host system can understand.
+Examples include Classic Mode in Mac OS X and compatibility mode in Microsoft Windows, which both allow applications designed for older versions of the operating system to run.  Other examples include Wine to run Windows programs on Linux / OS X and Mono to run .NET programs on various Unix-like systems.
+
+Internet Explorer
+"Compatibility View" is a compatibility mode feature of the web browser Internet Explorer in version 8 and later. When active, Compatibility View forces IE to display the webpage in Quirks mode as if the page were being viewed in IE7. When compatibility view is not activated, IE is said to be running in native mode. In IE11, a user can turn on compatibility mode for a web site by clicking the Gears icon and clicking Compatibility View Settings.
+
+IE8+
+Internet Explorer 8 was promoted by Microsoft as having stricter adherence to W3C described web standards than Internet Explorer 7. As a result, as in every IE version before it, some percentage of web pages coded to the behavior of the older versions would break in IE8. This would have been a repetition of the situation with IE7 which, while having fixed bugs from IE6, broke pages that used the IE6-specific hacks to work around its non-compliance. This was especially a problem for offline HTML documents, which may not be updatable (e.g. stored on a read-only medium, such as a CD-ROM or DVD-ROM).
+To avoid this situation, IE8 implemented a form of version targeting whereby a page could be authored to a specific version of a browser using the X-UA-Compatible declaration either as a meta element or in the HTTP headers.
+In order to maintain backwards compatibility, sites can opt into IE7-like handling of content by inserting a specially created meta element into the web page that triggers compatibility mode in the browser, using:
+
+A newer version of the browser than the page was coded for would emulate the behavior of the older version, so that the assumptions the page made about the browser's behavior hold true.
+Microsoft proposed that a page with a doctype that triggers standards mode (or almost standards mode) in IE7 would, by default, trigger IE7-like behavior, called "standards mode" (now called "strict mode") in IE8 and future versions of IE. The new features of IE8 are enabled to trigger what Microsoft called the "IE8 standards mode" (now called "standards mode"). Doctypes that trigger quirks mode in IE7 will continue to do so in IE8.
+Peter Bright of Ars Technica claimed that the idea of using a meta tag to pick a specific rendering mode fundamentally misses the point of standards-based development but positioned the issue as one of idealism versus pragmatism in web development, noting that not all of the Web is maintained, and that "demanding that web developers update sites to ensure they continue to work properly in any future browser version is probably too much to ask."
+The result for IE 8 Beta 1 was that it could render three modes: "Quirks," "Strict," and "Standard." When there is an old DOCTYPE or when there is no DOCTYPE, IE renders it like IE5 would (quirks mode). When a special meta element or its corresponding HTTP header is included in a web page, IE8 will render that page like IE7 would (strict mode). Otherwise, IE8 renders pages with its own engine (standard mode). Users can switch between the three modes with a few clicks. The release of Internet Explorer 8 Beta 1 revealed that many web sites do not work in this new standards mode.
+Microsoft maintains a list of websites that have been reported to have problems in IE8's standards mode, known as the compatibility view list. When a user enables this list IE8 will render the websites in the list using its compatibility view mode. The list is occasionally updated to add newly reported problematic websites, as well as to remove websites whose owners have requested removal. The Internet Explorer team also tests the websites on the list for compatibility issues and removes those where none are found.
+
+See also
+Windows XP Mode
+Legacy mode
+[Backward compatibility](628)
+Quirks mode
+Program information file (PIF)
+
+
+== References ==

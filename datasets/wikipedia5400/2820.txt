@@ -1,0 +1,76 @@
+2820
+Botrytis cinerea
+Botrytis cinerea is a necrotrophic fungus that affects many plant species, although its most notable hosts may be wine grapes. In viticulture, it is commonly known as "botrytis bunch rot"; in horticulture, it is usually called "grey mould" or "gray mold".
+The fungus gives rise to two different kinds of infections on grapes. The first, grey rot, is the result of consistently wet or humid conditions, and typically results in the loss of the affected bunches. The second, noble rot, occurs when drier conditions follow wetter, and can result in distinctive sweet dessert wines, such as Sauternes, the Aszú of Tokaji, or Grasă de Cotnari. The species name Botrytis cinerea is derived from the Latin for "grapes like ashes"; although poetic, the "grapes" refers to the bunching of the fungal spores on their conidiophores, and "ashes" just refers to the greyish colour of the spores en masse. The fungus is usually referred to by its anamorph (asexual form) name, because the sexual phase is rarely observed. The teleomorph (sexual form) is an ascomycete, Botryotinia fuckeliana, also known as Botryotinia cinerea (see taxonomy box).
+
+Etymology
+"Botrytis" is derived from the Ancient Greek botrys (βότρυς) meaning "grapes", combined with the Neo-Latin suffix -itis for disease. Botryotinia fuckeliana was named by mycologist Heinrich Anton de Bary in honor of another mycologist, Karl Wilhelm Gottlieb Leopold Fuckel. Synonyms for the sexual stage are:
+
+Hosts and symptoms
+Hosts
+The disease, gray mold, affects more than 200 dicotyledonous plant species and a few monocotyledonous plants found in temperate and subtropical regions, and potentially over a thousand species. Serious economic losses can be a result of this disease to both field and greenhouse grown crops. The causal agent, Botrytis cinerea can infect mature or senescent tissues, plants prior to harvest, or seedlings. There is a wide variety of hosts infected by this pathogen including protein crops, fiber crops, oil crops, and horticultural crops. Horticultural crops include vegetables (examples are chickpeas, lettuce, broccoli, and beans) and small fruit crops (examples are grape, strawberry, raspberry, and blackberry), these are most severely affected and devastated by gray mold. Plant organs affected include fruits, flowers, leaves, storage organs, and shoots.
+
+Symptoms and signs
+Symptoms vary across plant organs and tissues. B. cinerea is a soft rot that will have a collapsed and water soaked appearance on soft fruit and leaves. Brown lesions may develop slowly on undeveloped fruit. Twigs infected with gray mold will die back. Blossoms will cause fruit drop and injury, such as ridging on developing and mature fruit. Symptoms are visible at wound sites where the fungus begins to rot the plant. Gray masses with a velvety appearance are conidia on the plant tissues are a sign of plant pathogen. These conidia are asexual spores that will continue to infect the plant and surrounding hosts throughout the growing season making this a polycyclic disease.
+Plants can produce localized lesions when a pathogen attacks. An oxidative burst causes hypersensitive cell death called a hypersensitive response (HR). This soft rot can trigger HR to assist in colonization. Botrytis cinerea, as a necrotrophic pathogen, exploits the dead tissue for its pathogenicity or its ability to cause disease. Susceptible plants cannot use the HR to protect against B. cinerea.
+
+Biology
+Botrytis cinerea is characterized by abundant hyaline conidia (asexual spores) borne on grey, branching tree-like conidiophores. The fungus also produces highly resistant sclerotia as survival structures in older cultures. It overwinters as sclerotia or intact mycelia, both of which germinate in spring to produce conidiophores. The conidia, dispersed by wind and by rain-water, cause new infections. B. cinerea performs an asexual cycle over the summer season.
+Different strains show considerable genetic variability.
+Gliocladium roseum is a fungal parasite of B. cinerea.
+The hypothetical protein BcKMO was shown to positively regulate growth and development. It showed a great similarity to the kynurenine 3-monooxygenase encoding gene in eukaryotes.
+Overexpression of the gene atrB produces altered versions of the transcription factor mrr1, which in turn confer a multiple fungicide resistance phenotype known as MDR1. An even higher overexpression yields mrr1 composed partly of Δ497V/L, yielding MDR1h phenotypes with even more anilinopyrimidine- and phenylpyrrole- resistance.
+
+Environment
+Gray mold favors moist, humid, and warm environmental conditions between 65–75 °F (18–24 °C). Temperature, relative humidity, and wetness duration produce a conducive environment that is favorable for inoculation of mycelium or conidia. Controlled environments, such as crop production greenhouses, provide the moisture and high temperatures that favor the spreading and development of the pathogen B. cinerea.
+Standing water on plant leaf surfaces provides a place for spores to germinate. Humid conditions can result from improper irrigation practice, plants placed too close together, or the structure of the greenhouse not allowing for efficient ventilation and air flow. Ventilation at night significantly reduces the incidence of gray mold.
+Melanized sclerotium allows B. cinerea to survive for years in the soil. Sclerotia and the asexual conidia spores contribute to the widespread infection of the pathogen.
+A low pH is preferred by the gray mold to perform well. B. cinerea can acidify its environment by secreting organic acids, like oxalic acid. By acidifying its surroundings, cell wall degrading enzymes (CWDEs) are enhanced, plant-protection enzymes are inhibited, stomatal closure is deregulated, and pH signaling is mediated to facilitate its pathogenesis.
+
+Viticulture
+In the Botrytis infection known as "noble rot" (pourriture noble in French, or Edelfäule in German), the fungus removes water from the grapes, leaving behind a higher percent of solids, such as sugars, fruit acids and minerals. This results in a more intense, concentrated final product. The wine is often said to have an aroma of honeysuckle and a bitter finish on the palate.
+A distinct fermentation process initially caused by nature, the combination of geology, climate and specific weather led to the particular balance of beneficial fungus while leaving enough of the grape intact for harvesting. The Chateau d'Yquem is the only Premier Cru Supérieur Sauternes, largely due to the vineyard's susceptibility to noble rot.
+Botrytis complicates the fermentation process during winemaking. Botrytis produces an anti-fungal compound that kills yeast and often results in the fermentation stopping before the wine has accumulated sufficient levels of alcohol.
+Botrytis bunch rot is another condition of grapes caused by B. cinerea that causes great losses for the wine industry. It is always present on the fruitset, however, it requires a wound to start a bunch rot infection. Wounds can come from insects, wind, accidental damage, etc. To control botrytis bunch rot there are a number of fungicides available on the market. Generally, these should be applied at bloom, bunch closure and veraison (the most important being the bloom application). Some winemakers are known to use the German method of fermentation and prefer having a 5% bunch rot rate in their grapes and will usually hold the grapes on the vine a week longer than normal.
+
+Horticulture
+Botrytis cinerea affects many other plants.
+
+Strawberries
+It is economically important on soft fruits such as strawberries and bulb crops. Unlike wine grapes, the affected strawberries are not edible and are discarded. To minimize infection in strawberry fields, good ventilation around the berries is important to prevent moisture being trapped among leaves and berries. A number of bacteria have been proven to act as natural antagonists to B. cinerea in controlled studies.
+
+Other plants
+In greenhouse horticulture, Botrytis cinerea is well known as a cause of considerable damage in tomatoes.
+The infection also affects rhubarb, snowdrops, white meadowfoam, western hemlock, Douglas-fir, cannabis, and Lactuca sativa. UV-C treatment against B. cinerea was investigated by Vàsquez et al., 2017. They find it increases phenylalanine ammonia-lyase activity and production of phenolics. This in turn decreases L. sativa's susceptibility. Potassium bicarbonate-based fungicide may be used.
+
+Human disease
+Botrytis cinerea mold on grapes may cause "winegrower's lung", a rare form of hypersensitivity pneumonitis (a respiratory allergic reaction in predisposed individuals).
+
+Mycoviruses of Botrytis cinerea
+Botrytis cinerea not only infects plants, it also hosts several mycoviruses itself (see the table/image).
+A range of phenotypic alterations due to the mycoviral infection have been observed from symptomless to mild impact, or more severe phenotypic changes including reduction in pathogenicity, growth/suppression of mycelia, sporulation and sclerotia production, formation of abnormal colony sectors (Wu et al., 2010) and virulence.
+
+Management
+Botrytis cinerea can be managed through cultural, chemical, and biological practices.
+There are no resistant species to the gray mold rot. Gray mold can be culturally controlled by monitoring the amount and timing of fertilizer applications to reduce the amount of fruit rot. Excessive application of nitrogen will increase the incidence of disease while not improving yields.
+Not planting cultivars that have an upright or dense growth habit can reduce disease as these limit airflow and are favorable for the pathogen. Spacing of plants so they are not touching will increase airflow allowing the area to dry out and reduce the spread of disease. Pruning or purposeful removal of diseased, dead, or overgrown limbs on a regular schedule can also help to improve air movement.
+Sanitation by removing dead or dying plant tissue in the fall will decrease inoculum levels as there is no debris for the sclerotium or mycelia to overwinter. Removing debris in the spring will remove inoculum from the site. Disposal of berries during harvest that have signs and symptoms of gray mold will reduce inoculum for the following year.
+Biochar, a form of charcoal, can be applied as a soil amendment to strawberry plants to reduce the severity of the fungal disease by stimulating defense pathways within the plant.
+Gray mold can be chemically controlled with well-timed fungicide applications starting during the first bloom. Timing can reduce the chance of resistance and will save on costs.
+Biological controls or microbial antagonists used for disease suppression, have been successfully used in Europe and Brazil in the form of fungi-like Trichoderma harzianum Rifai and Clonostachys rosea f. rosea Bainier (syn. Gliocladium roseum). Trichoderma species especially, have been shown to control gray mold.
+Multiple fungicide resistance is a problem in many production areas.
+
+See also
+Botrydial
+Noble rot
+
+References
+External links
+
+Genome information for Botrytis cinerea
+Genome analysis of Botrytis cinerea
+Choquer M, Fournier E, Kunz C, et al. (December 2007). "Botrytis cinerea virulence factors: new insights into a necrotrophic and polyphageous pathogen". FEMS Microbiol. Lett. 277 (1): 1–10. doi:10.1111/j.1574-6968.2007.00930.x. PMID 17986079.
+TheWineDoctor.com
+Büttner P, Koch F, Voigt K, et al. (May 1994). "Variations in ploidy among isolates of Botrytis cinerea: implications for genetic and molecular analyses". Curr. Genet. 25 (5): 445–50. doi:10.1007/BF00351784. PMID 8082191. S2CID 10886741.
+Vallejo, I.; Santos, M.; Cantoral, J. M.; Collado, I. G.; Rebordinos, L. (2004). "Chromosomal polymorphism in Botvytis cinerea strains". Hereditas. 124: 31–38. doi:10.1111/j.1601-5223.1996.00031.x.
+Staats M, van Baarlen P, van Kan JA (February 2005). "Molecular phylogeny of the plant pathogenic genus Botrytis and the evolution of host specificity". Mol. Biol. Evol. 22 (2): 333–46. doi:10.1093/molbev/msi020. PMID 15496556.
