@@ -123,3 +123,32 @@ print x
 ```zsh
 make c
 ```
+
+# How to read a file line by line?
+
+```clang
+Document *document_desserialize(char *path) {
+  FILE *f = fopen(path, "r");
+  assert(f != NULL);
+
+  Document *document = (Document *)malloc(sizeof(Document));
+
+  char buffer[262144];
+  int bufferSize = 262144;
+  int bufferIdx = 0;
+  char ch;
+
+  // read first line
+  while ((ch = fgetc(f)) != '\n') {  // get char by char until newline
+    assert(bufferIdx < bufferSize);  // line is too long to fit in buffer
+    buffer[bufferIdx++] = ch;  // store char in buffer
+  }
+  assert(bufferIdx < bufferSize);
+  buffer[bufferIdx++] = '\0';  // null terminate the string
+  document->id = atoi(buffer);  // string to int
+
+ // ...
+
+  return document;
+}
+```
