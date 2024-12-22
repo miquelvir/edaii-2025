@@ -126,7 +126,7 @@ make c
 
 # How to read a file line by line?
 
-```clang
+```c
 Document *document_desserialize(char *path) {
   FILE *f = fopen(path, "r");
   assert(f != NULL);
