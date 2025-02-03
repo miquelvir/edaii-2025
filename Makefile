@@ -38,7 +38,7 @@ c:
 	rm test.out || true
 
 f:
-	clang-format -i **/*.c
+	clang-format -i **/*.c **/*.h
 
 cf:
 	./check-format.sh

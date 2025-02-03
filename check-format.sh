@@ -1,6 +1,6 @@
 #!/bin/bash
 
-output=$(clang-format --dry-run -Werror **/*.c 2>&1)
+output=$(clang-format --dry-run -Werror **/*.c **/*.h 2>&1)
 
 if [[ -n "$output" ]]; then
   echo "$output"

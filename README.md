@@ -38,6 +38,7 @@ sudo apt update
 sudo apt install build-essential
 sudo apt install gdb
 sudo apt install valgrind
+sudo apt install clang-format
 gcc --version
 ```
 
@@ -52,6 +53,8 @@ gcc --version
 3. [Install make](https://formulae.brew.sh/formula/make#default)
 
 4. [Install valgrind](https://formulae.brew.sh/formula/valgrind#default)
+
+5. [Install clang-format](https://formulae.brew.sh/formula/clang-format#default)
 
 ## Windows
 

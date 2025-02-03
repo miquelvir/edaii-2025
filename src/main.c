@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 
-void createaleak() { 
+void createaleak() {
   char *foo = malloc(20 * sizeof(char));
   printf("Allocated leaking string: %s", foo);
 }
