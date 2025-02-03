@@ -4,7 +4,10 @@
 #include <stdlib.h>
 #include <sys/stat.h>
 
-void createaleak() { char *foo = malloc(20 * sizeof(char)); }
+void createaleak() { 
+  char *foo = malloc(20 * sizeof(char));
+  printf("Allocated leaking string: %s", foo);
+}
 
 int main() {
   printf("*****************\nWelcome to EDA 2!\n*****************\n");

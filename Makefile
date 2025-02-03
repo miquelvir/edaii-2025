@@ -1,7 +1,7 @@
 SRC_FILES := $(filter-out src/main.c, $(wildcard src/*.c))
 
 compile:
-	gcc src/main.c $(SRC_FILES) -o main.out
+	gcc -Wall -Wextra -Werror src/main.c $(SRC_FILES) -o main.out
 	
 r:
 	make compile
@@ -20,7 +20,7 @@ d:
 
 
 compiletest:
-	gcc test/test.c test/utils.c $(SRC_FILES) -o test.out
+	gcc -Wall -Wextra -Werror test/test.c test/utils.c $(SRC_FILES) -o test.out
 
 t:
 	make compiletest

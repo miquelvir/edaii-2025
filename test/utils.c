@@ -33,7 +33,7 @@ void running(const char *description) {
   fprintf(stderr, "\033[0;36mRunning: %s\033[0m\n", description);
 }
 
-void successtest(const char *description) {
+void successtest() {
   fprintf(stderr, "\033[0;32m    PASSED\033[0m\n");
 }
 
