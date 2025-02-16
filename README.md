@@ -11,6 +11,15 @@ Group number: (todo, add the group number here)
 - (todo, add the email of the second group member)
 - (todo, add the email of the third group member)
 
+# Plagiarism Disclaimer
+- You **MUST NOT** look at anyone else's solutions, including previous year students and external tutors.
+- You **MUST** make your repository private.
+- You **MAY** discuss the assignments with other students, but you may not look at or copy each others' code.
+- You **MUST** commit frequently to the repository (at least 1 commit per exercise).
+- You **MUST NOT** share your code with other students even if they ask you to.
+- You **MUST** add a link next to any code you copy from external sources.
+- You **MUST NOT** ask other students for their project or fragments of their code.
+
 # Repository Contents
 
 - [.github/workflows/unit-tests.yml](./.github/workflows/unit-tests.yml): script to run tests when pushing to GitHub (CI)
