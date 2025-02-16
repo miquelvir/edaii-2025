@@ -140,9 +140,11 @@ Document *document_desserialize(char *path) {
     int bufferSize = 262144;
     int bufferIdx = 0;
     char ch;
-    
-    // TODO parse id
-    
+
+    while ((ch = fgetc(f)) != EOF) {
+        // TODO parse id
+    }
+
     // TODO parse title
     
     // parse body
