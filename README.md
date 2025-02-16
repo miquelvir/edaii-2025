@@ -127,31 +127,63 @@ print x
 make c
 ```
 
-# How to read a file line by line?
+# How to parse a document?
 
 ```c
 Document *document_desserialize(char *path) {
-  FILE *f = fopen(path, "r");
-  assert(f != NULL);
+    FILE *f = fopen(path, "r");
+    assert(f != NULL);
+    
+    Document *document = (Document *)malloc(sizeof(Document));
+    
+    char buffer[262144];
+    int bufferSize = 262144;
+    int bufferIdx = 0;
+    char ch;
+    
+    // TODO parse id
+    
+    // TODO parse title
+    
+    // parse body
+    char linkBuffer[64];
+    int linkBufferSize = 64;
+    int linkBufferIdx = 0;
+    bool parsingLink = false;
+    Links *links = LinksInit();
+    
+    bufferIdx = 0;
+    while ((ch = fgetc(f)) != EOF) {
+        assert(bufferIdx < bufferSize);
+        buffer[bufferIdx++] = ch;
+        if (parsingLink) {
+            if (ch == ')') { // end of link
+                parsingLink = false;
+                assert(linkBufferIdx < linkBufferSize);
+                linkBuffer[linkBufferIdx++] = '\0';
+                int linkId = atoi(linkBuffer);
+            if (!LinksContains(links, linkId)) {
+                  LinksAppend(links, linkId);
+            }
+        linkBufferIdx = 0;
+        } else if (ch != '(') { // skip first parenthesis of the link
+            assert(linkBufferIdx < linkBufferSize);
+            linkBuffer[linkBufferIdx++] = ch;
+        } else if (ch == ']') { // beginning of link id, e.g.: [my link text](123)
+          parsingLink = true;
+        }
+    }
+    assert(bufferIdx < bufferSize);
+    buffer[bufferIdx++] = '\0';
+    
+    char *body = (char *)malloc(sizeof(char) * bufferIdx);
+    strcpy(body, buffer);
+    
+    document->body = body;
+    document->links = links;
 
-  Document *document = (Document *)malloc(sizeof(Document));
-
-  char buffer[262144];
-  int bufferSize = 262144;
-  int bufferIdx = 0;
-  char ch;
-
-  // read first line
-  while ((ch = fgetc(f)) != '\n') {  // get char by char until newline
-    assert(bufferIdx < bufferSize);  // line is too long to fit in buffer
-    buffer[bufferIdx++] = ch;  // store char in buffer
-  }
-  assert(bufferIdx < bufferSize);
-  buffer[bufferIdx++] = '\0';  // null terminate the string
-  document->id = atoi(buffer);  // string to int
-
- // ...
-
-  return document;
+    // ...
+    
+    return document;
 }
 ```
