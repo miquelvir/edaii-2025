@@ -173,14 +173,15 @@ Document *document_desserialize(char *path) {
                 assert(linkBufferIdx < linkBufferSize);
                 linkBuffer[linkBufferIdx++] = '\0';
                 int linkId = atoi(linkBuffer);
-            if (!LinksContains(links, linkId)) {
-                  LinksAppend(links, linkId);
-            }
-        linkBufferIdx = 0;
-        } else if (ch != '(') { // skip first parenthesis of the link
-            assert(linkBufferIdx < linkBufferSize);
-            linkBuffer[linkBufferIdx++] = ch;
-        } else if (ch == ']') { // beginning of link id, e.g.: [my link text](123)
+                if (!LinksContains(links, linkId)) {
+                      LinksAppend(links, linkId);
+                }
+                linkBufferIdx = 0;
+            } else if (ch != '(') { // skip first parenthesis of the link
+                assert(linkBufferIdx < linkBufferSize);
+                linkBuffer[linkBufferIdx++] = ch;
+            } 
+        } else if (ch == ']') { // found beginning of link id, e.g.: [my link text](123)
           parsingLink = true;
         }
     }
