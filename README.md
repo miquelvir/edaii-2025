@@ -150,12 +150,18 @@ Document *document_desserialize(char *path) {
     int bufferIdx = 0;
     char ch;
 
-    while ((ch = fgetc(f)) != EOF) {
-        // TODO parse id
+    // parse id
+    while ((ch = fgetc(f)) != '\n') {
+        assert(bufferIdx < bufferSize);
+        buffer[bufferIdx++] = ch;
     }
+    assert(bufferIdx < bufferSize);
+    buffer[bufferIdx++] = '\0';
+    document->id = atoi(buffer);
 
-    // TODO parse title
-    
+    // parse title
+    // TODO
+
     // parse body
     char linkBuffer[64];
     int linkBufferSize = 64;
@@ -173,9 +179,9 @@ Document *document_desserialize(char *path) {
                 assert(linkBufferIdx < linkBufferSize);
                 linkBuffer[linkBufferIdx++] = '\0';
                 int linkId = atoi(linkBuffer);
-                if (!LinksContains(links, linkId)) {
-                      LinksAppend(links, linkId);
-                }
+
+                // TODO add to links
+
                 linkBufferIdx = 0;
             } else if (ch != '(') { // skip first parenthesis of the link
                 assert(linkBufferIdx < linkBufferSize);
@@ -190,12 +196,7 @@ Document *document_desserialize(char *path) {
     
     char *body = (char *)malloc(sizeof(char) * bufferIdx);
     strcpy(body, buffer);
-    
-    document->body = body;
-    document->links = links;
 
-    // ...
-    
-    return document;
+    // TODO
 }
 ```
