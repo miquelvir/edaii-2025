@@ -51,6 +51,10 @@ sudo apt install clang-format
 gcc --version
 ```
 
+2. Create your group repository from the template
+
+3. [Clone the repository using VSCode](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
+
 ## MacOS
 
 1. [Install homebrew](https://brew.sh/)
@@ -62,6 +66,10 @@ gcc --version
 3. [Install make](https://formulae.brew.sh/formula/make#default)
 
 4. [Install clang-format](https://formulae.brew.sh/formula/clang-format#default)
+
+5. Create your group repository from the template
+
+6. [Clone the repository using VSCode](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
 
 ## Windows
 
