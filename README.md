@@ -61,9 +61,7 @@ gcc --version
 
 3. [Install make](https://formulae.brew.sh/formula/make#default)
 
-4. [Install valgrind](https://formulae.brew.sh/formula/valgrind#default)
-
-5. [Install clang-format](https://formulae.brew.sh/formula/clang-format#default)
+4. [Install clang-format](https://formulae.brew.sh/formula/clang-format#default)
 
 ## Windows
 
