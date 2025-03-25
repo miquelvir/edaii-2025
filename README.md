@@ -51,9 +51,11 @@ sudo apt install clang-format
 gcc --version
 ```
 
-2. Create your group repository from the template
+2. Create your group repository from the template (instructions in the groups spreadsheet)
 
 3. [Clone the repository using VSCode](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
+   
+5. Run `make r` and make sure you see this message: `Welcome to EDA 2!`
 
 ## MacOS
 
@@ -67,9 +69,11 @@ gcc --version
 
 4. [Install clang-format](https://formulae.brew.sh/formula/clang-format#default)
 
-5. Create your group repository from the template
+5. Create your group repository from the template (instructions in the groups spreadsheet)
 
 6. [Clone the repository using VSCode](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
+   
+8. Run `make r` and make sure you see this message: `Welcome to EDA 2!`
 
 ## Windows
 
