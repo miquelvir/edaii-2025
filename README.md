@@ -152,6 +152,12 @@ break my_function_name
 break my_file.c:24
 ```
 
+- Continue after hitting a breakpoint
+
+```zsh
+continue
+```
+
 # How to remove temporary files
 ```zsh
 make c
