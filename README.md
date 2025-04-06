@@ -136,9 +136,20 @@ backtrace
 up
 down
 ```
+
 - Print a variable
 ```zsh
 print x
+```
+
+- Set a breakpoint at the beginning of a function
+```zsh
+break my_function_name
+```
+
+- Set a breakpoint at a specific line
+```zsh
+break my_file.c:24
 ```
 
 # How to remove temporary files
