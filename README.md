@@ -158,6 +158,8 @@ break my_file.c:24
 continue
 ```
 
+[Learn more](https://web.mit.edu/gnu/doc/html/gdb_7.html)
+
 # How to remove temporary files
 ```zsh
 make c
