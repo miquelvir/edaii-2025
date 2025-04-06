@@ -153,9 +153,18 @@ break my_file.c:24
 ```
 
 - Continue after hitting a breakpoint
-
 ```zsh
 continue
+```
+
+- Execute only the next command after hitting a breakpoint
+```zsh
+step
+```
+
+- Execute only the next line after hitting a breakpoint
+```zsh
+next
 ```
 
 [Learn more](https://web.mit.edu/gnu/doc/html/gdb_7.html)
