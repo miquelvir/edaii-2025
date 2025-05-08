@@ -18,6 +18,9 @@ d:
 	make compiledebug
 	gdb ./main.out
 
+dmac:
+	make compiledebug
+	lldb ./main.out
 
 compiletest:
 	gcc -Wall -Wextra -Werror test/test.c test/utils.c $(SRC_FILES) -o test.out
